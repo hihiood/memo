@@ -1,0 +1,275 @@
+BLOGLINK 0       https://cafe.naver.com/modana
+1       https://cafe.naver.com/modana
+2       https://cafe.naver.com/modana
+3       https://cafe.naver.com/modana
+4       https://cafe.naver.com/modana
+                    ...              
+1483                                 
+1484                                 
+1485                                 
+1486                                 
+1487                                 
+Name: 카페주소, Length: 1488, dtype: object
+errolinkQQ E:\SynologyDrive\24 네이버 카페 쿠팡파트너스\0311
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\249f8047ca954e65bf28507cf6ef85d8.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\bab5c270329d4910bc0dd9c370323922.pyd
+Running main() from the .pyd file...
+Captured output: 134
+최신 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\4aeb594e34014bc182c1027ad803a1d2.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 드라이버 버전 :: 134
+=========================================
+내 크롬 버전 :: 134
+최신 크롬 버전 :: 134
+내 드라이버 버전 :: 134
+전체 키워드 개수 :
+엑셀 개수 1488
+DB access----success!!
+지금 아이디 :
+leo9third
+ID2 leo9third
+PW2 tbswg135!aA8
+CATEGORY 자유게시판
+keyword_excel Logitech G Pro X Superlight Wireless Gaming Mouse
+BLOGLINK https://cafe.naver.com/modana
+FRONTWORD 노트북 알아보시나요? "금액은 어느정도인지" 성능은 괜찮은지" 궁금하신 분들 많으실텐데요 / 그래서 자세히 알아보도록 하겠습니다. 조금만 시간내셔서 이 글에 집중하신다면 원하시는 정보와 가치 모두 얻어가실 수 있으실거라 생각합니다. / 자 그럼 시작하겠습니다. / 급하신 분들을 위해 말씀드리자면, 알뜰하게 고르실 수 있는 만큼 아래를 통해 확인해보시길 바랍니다.
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY cf3fbebb-4fe6-4c87-aeb6-1fde1a9c53c2
+coupangAPI_SECRET_KEY e3f53f032381fb5e5e80dcc93cb6b0f7e3c7e5da
+coupang_imageCheck O
+ACCESS_KEY cf3fbebb-4fe6-4c87-aeb6-1fde1a9c53c2
+SECRET_KEY e3f53f032381fb5e5e80dcc93cb6b0f7e3c7e5da
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=Logitech G Pro X Superlight Wireless Gaming Mouse&channel=user', 'shortenUrl': 'https://link.coupang.com/a/ckB0wK', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF3654077&pageKey=Logitech%20G%20Pro%20X%20Superlight%20Wireless%20Gaming%20Mouse&traceid=V0-183-78a644b72b39381f'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/ckB0wM', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF3654077&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/ckB0wK
+coupang_image_multi ['https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/f0ca/18668cdc0ce5b7a0c874e6f3bf213a2e8eac8c1ad145d33da95a46b2c5cf.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/39e1/ceaff5d32626184fb9ed690ab4dc4d5972e91b7a85ed045536ca70e925b1.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/9d85/3a0ef48b2c65bedbdcc42d8e602cd932ed32b432c0eed0b02c24e3de80b6.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/1025_amir_coupang_oct_80k/b043/ac3e22cc08a20aa2cab572667af318150fba1e78ef927003c310619bd660.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/23a5/a580aec407278546e73532b1c1a20c3ecd3536b85909e0e5de731fe9a64a.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/af31/44ba2f689ae4d704d78e487fde90691175ac0e526b217ca8827af643d15c.png', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/7ffa/cfffb6d645e25b31177c71afcf2f0d88d35cd49fc3126300d3573d7a5c5f.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/a71e/26ec29b06302f5400f5d1bf6a6710a6699530e1563460169a424fcc9a504.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/5442/7c994452f4b6a3fd437ef4b9bfb82e3fa4f6f518d5cac8accc1df811fe38.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/dc2b/1a453979adaafa4116909888c01e60830fa1e07d17bf3541cabf99863cdc.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/f0ca/18668cdc0ce5b7a0c874e6f3bf213a2e8eac8c1ad145d33da95a46b2c5cf.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/7f60/e8a5356217a854314d5861a1380e649381aa9a25b931a976c3771a27c823.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/d11b/690264ffece9d5e4ed54978ebffac19605e76fb638f6691bae2b70614ef7.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/382f/6c9949274e7872160d73c6a65ddc960705b1254b4bff6688b81b01953e46.JPG', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/1025_amir_coupang_oct_80k/86bc/8c8aad4371841d688f5b059ede2d928f82f5d3d35aada6da5ba6908b0a4d.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/2023/04/13/16/5/3e1fda14-654e-4170-a52a-591e0a0ae149.png', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/9d56/607fe78c3727fa71ad55fe369ab4b1862f23b90be29b68e620ec0fff5a60.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/bf0d/c13bba0a235e8fcbaf847189b89d14e9c21afbc7a5e91aac32413f25c52e.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/f24c/96c3aae426c7c6f1f3e4764f16386d0c03642fe3d12bc353320ee420c31b.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/fbd1/fcd201a05a9df385983636274b25122ef3b82a8c5a9785c2de32fc525205.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/1a8b/99704b91720dc71bbb0ee29cbdf571f2ad3794d702cd7f1fb7a85cb2d674.png', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/2cc9/a623c8314f74d77e6ccafdb3c373ffce39a9259b32da180b4b41e7e080e1.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/8a8d/89359c89eb4a5e0d6befc0b73b0b9b6bbd267db56482136517d69b2d72d4.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/5e67/0161c91767a173c2f96b1b78e4c38c8caf15f0face0d289a3926e6d0f371.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/db1c/eee8a6eb9fb52ad716f5cb85983ef2f5a7d6c49b5aa32d654b5b32463835.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/841c/a9da8687c1faaad96b1c0756232bb91e0ba4d21f0cf713d90d80345dd887.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/ba9c/689211b29462aad977bec8f77bad6b098a6cef5757ba811f66bf90825270.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/f88d/592c9f4df6b81ec6525d575ffb84fe389eddd65f7760ce624418295cc2dc.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/1b4c/29d721b8a6ed58a355ef16de42e22accb205e904e517157628f4ef396352.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/bffd/2a6155d239ac15d6790fd71dd7d28c155868ab90dd9e3128660971e6a332.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/e64c/a1015aa74bd2c8b317b23ee66ddabb41ffd098ef067e4235db20d36ac7a0.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/4bc4/488c00afa9164254d72d1d6224d4370df53e6673cf3fad4e845632c5575b.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/de73/57bc1af2b91657cb416368f3597aba5ec2f24d9b2575e5e4cb410f7526d4.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/afca/77f65e8f6ebef6e0b66215199598c94314ee9e671301c43bacd4b7ee7928.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/53fc/6eb25e52c82698478dc8af2bbfde47aa6a6293f30710e54ad9fe7548aa17.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/0517/dd710e8dbae0eb2d36eb1185d0404c241b67aacc12617af7a0e146b8d2de.png']
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY AIzaSyD0lGwZQVTgp_bInHezhBq9c788xjcx79A
+전 Logitech G Pro X Superlight Wireless Gaming Mouse
+후 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스 리뷰
+
+로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스 리뷰
+
+32
+outputword_title 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스 리뷰
+
+바드1111111111111111111111111111111111111
+서론 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스, 궁금하신 점 많으시죠? "가격은 얼마인지", "성능은 어떤지", "과연 나에게 맞는 마우스일지" 고민하고 계신 분들 분명 있으실 겁니다.  그래서 오늘은 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스에 대해 낱낱이 파헤쳐 보려고 합니다. 잠깐만 시간을 내어 이 글을 읽어보시면, 여러분이 원하는 정보와 그 이상의 가치를 얻어 가실 수 있을 거예요. 자, 그럼 바로 시작해 볼까요? 혹시 바쁘신 분들을 위해 미리 말씀드리자면, 최저가 정보와 추천 판매처는 아래 링크를 통해 확인하실 수 있습니다.
+
+로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스, 궁금하신 점 많으시죠? "가격은 얼마인지", "성능은 어떤지", "과연 나에게 맞는 마우스일지" 고민하고 계신 분들 분명 있으실 겁니다.  그래서 오늘은 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스에 대해 낱낱이 파헤쳐 보려고 합니다. 잠깐만 시간을 내어 이 글을 읽어보시면, 여러분이 원하는 정보와 그 이상의 가치를 얻어 가실 수 있을 거예요. 자, 그럼 바로 시작해 볼까요? 혹시 바쁘신 분들을 위해 미리 말씀드리자면, 최저가 정보와 추천 판매처는 아래 링크를 통해 확인하실 수 있습니다.
+
+310
+outputword_s 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스, 궁금하신 점 많으시죠? 가격은 얼마인지, 성능은 어떤지, 과연 나에게 맞는 마우스일지 고민하고 계신 분들 분명 있으실 겁니다.  그래서 오늘은 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스에 대해 낱낱이 파헤쳐 보려고 합니다. 잠깐만 시간을 내어 이 글을 읽어보시면, 여러분이 원하는 정보와 그 이상의 가치를 얻어 가실 수 있을 거예요. 자, 그럼 바로 시작해 볼까요? 혹시 바쁘신 분들을 위해 미리 말씀드리자면, 최저가 정보와 추천 판매처는 아래 링크를 통해 확인하실 수 있습니다.
+
+바드1111111111111111111111111111111111111
+전 Logitech G Pro X Superlight Wireless Gaming Mouse
+후 로지텍 G Pro X Superlight 무선 게이밍 마우스, 드디어 제 손에 들어왔습니다!  며칠 전에 게임 방송 보다가 프로게이머가 쓰는 걸 보고 너무 갖고 싶어서 바로 질렀어요. 배송 오기만 기다리고 있었는데 생각보다 빨리 도착해서 얼마나 기쁘던지! 진짜 가볍고 그립감도 좋네요. 이제 치킨각!
+
+로지텍 G Pro X Superlight 무선 게이밍 마우스, 드디어 제 손에 들어왔습니다!  며칠 전에 게임 방송 보다가 프로게이머가 쓰는 걸 보고 너무 갖고 싶어서 바로 질렀어요. 배송 오기만 기다리고 있었는데 생각보다 빨리 도착해서 얼마나 기쁘던지! 진짜 가볍고 그립감도 좋네요. 이제 치킨각!
+
+168
+outputword_main1 로지텍 G Pro X Superlight 무선 게이밍 마우스, 드디어 제 손에 들어왔습니다!  며칠 전에 게임 방송 보다가 프로게이머가 쓰는 걸 보고 너무 갖고 싶어서 바로 질렀어요. 배송 오기만 기다리고 있었는데 생각보다 빨리 도착해서 얼마나 기쁘던지! 진짜 가볍고 그립감도 좋네요. 이제 치킨각!
+
+바드1111111111111111111111111111111111111
+전 Logitech G Pro X Superlight Wireless Gaming Mouse
+후 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스, 진짜 물건이네요!  FPS 게임에 푹 빠져 사는 저는 마우스에 진심인 편이라 이것저것 많이 써봤는데,  결국 정착하게 된 건 바로 이 녀석입니다. 다른 게이밍 마우스들도 많이 고민했는데, 결국 로지텍을 선택한 가장 큰 이유는 역시 무게와 센서 때문이었어요.  진짜 게임 실력이 확 달라지는 느낌이랄까요?  이 마우스의 가장 큰 특징은 이름에서도 알 수 있듯이 엄청나게 가볍다는 거예요.  '슈퍼라이트'라는 이름값을 제대로 하더라고요.  마우스를 움직일 때 손목에 거의 부담이 없어서 장시간 게임을 해도 피로감이 훨씬 덜해요.  덕분에  순간적인 반응 속도와 정확도가 눈에 띄게 향상됐어요.  헤드샷 맞추는 재미가 쏠쏠해졌답니다!  그리고 HERO 센서 덕분에 움직임이 정말 정밀하게 추적되는 것도 장점이에요. 마우스 패드 위에서 마우스를 휙휙 돌려도 끊김이나 딜레이 없이 부드럽게 따라와 주니까 게임 몰입도가 엄청나요.  진짜 게임할 맛 나더라고요.  배터리도 오래가서 충전 걱정 없이 게임에만 집중할 수 있다는 것도 좋고요.  암튼, FPS 게임 좋아하시는 분들께 진짜 강추합니다!
+
+로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스, 진짜 물건이네요!  FPS 게임에 푹 빠져 사는 저는 마우스에 진심인 편이라 이것저것 많이 써봤는데,  결국 정착하게 된 건 바로 이 녀석입니다. 다른 게이밍 마우스들도 많이 고민했는데, 결국 로지텍을 선택한 가장 큰 이유는 역시 무게와 센서 때문이었어요.  진짜 게임 실력이 확 달라지는 느낌이랄까요?  이 마우스의 가장 큰 특징은 이름에서도 알 수 있듯이 엄청나게 가볍다는 거예요.  '슈퍼라이트'라는 이름값을 제대로 하더라고요.  마우스를 움직일 때 손목에 거의 부담이 없어서 장시간 게임을 해도 피로감이 훨씬 덜해요.  덕분에  순간적인 반응 속도와 정확도가 눈에 띄게 향상됐어요.  헤드샷 맞추는 재미가 쏠쏠해졌답니다!  그리고 HERO 센서 덕분에 움직임이 정말 정밀하게 추적되는 것도 장점이에요. 마우스 패드 위에서 마우스를 휙휙 돌려도 끊김이나 딜레이 없이 부드럽게 따라와 주니까 게임 몰입도가 엄청나요.  진짜 게임할 맛 나더라고요.  배터리도 오래가서 충전 걱정 없이 게임에만 집중할 수 있다는 것도 좋고요.  암튼, FPS 게임 좋아하시는 분들께 진짜 강추합니다!
+
+581
+outputword_main2 로지텍 G Pro X 슈퍼라이트 무선 게이밍 마우스, 진짜 물건이네요!  FPS 게임에 푹 빠져 사는 저는 마우스에 진심인 편이라 이것저것 많이 써봤는데,  결국 정착하게 된 건 바로 이 녀석입니다. 다른 게이밍 마우스들도 많이 고민했는데, 결국 로지텍을 선택한 가장 큰 이유는 역시 무게와 센서 때문이었어요.  진짜 게임 실력이 확 달라지는 느낌이랄까요?  이 마우스의 가장 큰 특징은 이름에서도 알 수 있듯이 엄청나게 가볍다는 거예요.  '슈퍼라이트'라는 이름값을 제대로 하더라고요.  마우스를 움직일 때 손목에 거의 부담이 없어서 장시간 게임을 해도 피로감이 훨씬 덜해요.  덕분에  순간적인 반응 속도와 정확도가 눈에 띄게 향상됐어요.  헤드샷 맞추는 재미가 쏠쏠해졌답니다!  그리고 HERO 센서 덕분에 움직임이 정말 정밀하게 추적되는 것도 장점이에요. 마우스 패드 위에서 마우스를 휙휙 돌려도 끊김이나 딜레이 없이 부드럽게 따라와 주니까 게임 몰입도가 엄청나요.  진짜 게임할 맛 나더라고요.  배터리도 오래가서 충전 걱정 없이 게임에만 집중할 수 있다는 것도 좋고요.  암튼, FPS 게임 좋아하시는 분들께 진짜 강추합니다!
+
+바드1111111111111111111111111111111111111
+전 Logitech G Pro X Superlight Wireless Gaming Mouse
+후 로지텍 G Pro X Superlight 무선 게이밍 마우스 후기 궁금하시죠?  저도 처음엔 유튜브랑 게임 커뮤니티에서 워낙 핫해서 궁금했었는데, 결국 못 참고 질렀습니다!  써보니 왜 인기 있는지 알겠더라고요.  일단 무게가 진짜 깃털 같아요. 손목에 부담이 훨씬 덜하고,  FPS 게임할 때 정확도가 확실히 높아진 느낌입니다.  빠른 반응 속도는 말할 것도 없고요. 진짜 신세계를 경험하는 중입니다.  덕분에 요즘 게임 실력이 늘었다는 소리도 듣고 있어요!  강추합니다!
+
+로지텍 G Pro X Superlight 무선 게이밍 마우스 후기 궁금하시죠?  저도 처음엔 유튜브랑 게임 커뮤니티에서 워낙 핫해서 궁금했었는데, 결국 못 참고 질렀습니다!  써보니 왜 인기 있는지 알겠더라고요.  일단 무게가 진짜 깃털 같아요. 손목에 부담이 훨씬 덜하고,  FPS 게임할 때 정확도가 확실히 높아진 느낌입니다.  빠른 반응 속도는 말할 것도 없고요. 진짜 신세계를 경험하는 중입니다.  덕분에 요즘 게임 실력이 늘었다는 소리도 듣고 있어요!  강추합니다!
+
+266
+outputword_main3 로지텍 G Pro X Superlight 무선 게이밍 마우스 후기 궁금하시죠?  저도 처음엔 유튜브랑 게임 커뮤니티에서 워낙 핫해서 궁금했었는데, 결국 못 참고 질렀습니다!  써보니 왜 인기 있는지 알겠더라고요.  일단 무게가 진짜 깃털 같아요. 손목에 부담이 훨씬 덜하고,  FPS 게임할 때 정확도가 확실히 높아진 느낌입니다.  빠른 반응 속도는 말할 것도 없고요. 진짜 신세계를 경험하는 중입니다.  덕분에 요즘 게임 실력이 늘었다는 소리도 듣고 있어요!  강추합니다!
+
+바드1111111111111111111111111111111111111
+전 Logitech G Pro X Superlight Wireless Gaming Mouse
+후 로지텍 G Pro X Superlight 무선 게이밍 마우스, 고민되시죠? 저도 한참 고민했었는데요.  마우스는 손에 딱 맞아야 하고, 게임할 때 퍼포먼스에도 영향을 주니까 신중하게 골라야 하잖아요. 저는 주변 프로게이머 친구들, 게임 커뮤니티, 유튜브 리뷰까지 샅샅이 뒤져봤어요.  그렇게 찾아보다 보니 결국  Superlight로 마음이 기울더라고요.  가벼운 무게감은 물론이고, 센서 반응속도도 엄청나다는 후기가 많았거든요.  특히 FPS 게임할 때  정확도가 중요한데,  Superlight는 그 부분에서 확실히 만족스럽다는 평이 많았어요.  저처럼 고민 중이시라면, 제가 직접 경험해보고 느낀 점들을  아래에 자세히 정리해 뒀으니  참고해 보세요!
+
+로지텍 G Pro X Superlight 무선 게이밍 마우스, 고민되시죠? 저도 한참 고민했었는데요.  마우스는 손에 딱 맞아야 하고, 게임할 때 퍼포먼스에도 영향을 주니까 신중하게 골라야 하잖아요. 저는 주변 프로게이머 친구들, 게임 커뮤니티, 유튜브 리뷰까지 샅샅이 뒤져봤어요.  그렇게 찾아보다 보니 결국  Superlight로 마음이 기울더라고요.  가벼운 무게감은 물론이고, 센서 반응속도도 엄청나다는 후기가 많았거든요.  특히 FPS 게임할 때  정확도가 중요한데,  Superlight는 그 부분에서 확실히 만족스럽다는 평이 많았어요.  저처럼 고민 중이시라면, 제가 직접 경험해보고 느낀 점들을  아래에 자세히 정리해 뒀으니  참고해 보세요!
+
+368
+outputword_main4 로지텍 G Pro X Superlight 무선 게이밍 마우스, 고민되시죠? 저도 한참 고민했었는데요.  마우스는 손에 딱 맞아야 하고, 게임할 때 퍼포먼스에도 영향을 주니까 신중하게 골라야 하잖아요. 저는 주변 프로게이머 친구들, 게임 커뮤니티, 유튜브 리뷰까지 샅샅이 뒤져봤어요.  그렇게 찾아보다 보니 결국  Superlight로 마음이 기울더라고요.  가벼운 무게감은 물론이고, 센서 반응속도도 엄청나다는 후기가 많았거든요.  특히 FPS 게임할 때  정확도가 중요한데,  Superlight는 그 부분에서 확실히 만족스럽다는 평이 많았어요.  저처럼 고민 중이시라면, 제가 직접 경험해보고 느낀 점들을  아래에 자세히 정리해 뒀으니  참고해 보세요!
+
+3
+전체글보기
+3
+인기글
+자유게시판
+자유게시판
+찾음
+handles :  ['F061387E68EBEE0BE3BD8948601BAEC4', '00814FAE2997E3D0E8978FC88D9711DF']
+제목에 없음 발생
+---------------------1--------------
+check1
+check2
+check3
+tr개수 (줄 개수):  3
+9
+td개수(전체 개수) :  9
+number_column 3
+-asdfasdfasdf11111
+-asdfasdfasdf11111222222
+-asdfasdfasdf33333
+-asdfasdfasdf4444
+열 줄임
+check3
+tr개수 (줄 개수):  3
+6
+td개수(전체 개수) :  6
+number_column 2
+-asdfasdfasdf11111
+-asdfasdfasdf11111222222
+-asdfasdfasdf33333
+-asdfasdfasdf4444
+열 줄임
+tr개수 (줄 개수):  3
+3
+td개수(전체 개수) :  3
+열 개수 number_column=int(number_td/number_tr) 1
+number_td-number_column 2
+delete_buffer [<selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.786")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.787")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.788")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.789")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.790")>]
+행 감소
+tr개수 (줄 개수):  2
+2
+td개수(전체 개수) :  2
+열 개수 number_column=int(number_td/number_tr) 1
+number_td-number_column 1
+delete_buffer [<selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.786")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.787")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.788")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.789")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.790")>]
+행 감소
+tr개수 (줄 개수):  1
+1
+td개수(전체 개수) :  1
+*********************
+1
+font-family
+font-size
+bold
+italic
+underline
+strikethrough
+font-color
+background-color
+align-drop-down
+line-height
+cell-background-color
+전체 개수 :  {'height': 32, 'width': 860}
+A
+tr개수 (줄 개수):  1
+1
+td개수(전체 개수) :  1
+0
+AAA
+BBB
+전체 개수 :  22
+---------------------1--------------
+check1
+check2
+check3
+tr개수 (줄 개수):  3
+9
+td개수(전체 개수) :  9
+number_column 3
+-asdfasdfasdf11111
+-asdfasdfasdf11111222222
+-asdfasdfasdf33333
+-asdfasdfasdf4444
+열 줄임
+check3
+tr개수 (줄 개수):  3
+6
+td개수(전체 개수) :  6
+number_column 2
+-asdfasdfasdf11111
+-asdfasdfasdf11111222222
+-asdfasdfasdf33333
+-asdfasdfasdf4444
+열 줄임
+tr개수 (줄 개수):  3
+3
+td개수(전체 개수) :  3
+열 개수 number_column=int(number_td/number_tr) 1
+number_td-number_column 2
+delete_buffer [<selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.786")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.787")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.788")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.789")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.790")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1139")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1140")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1141")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1142")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1143")>]
+행 감소
+tr개수 (줄 개수):  2
+2
+td개수(전체 개수) :  2
+열 개수 number_column=int(number_td/number_tr) 1
+number_td-number_column 1
+delete_buffer [<selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.786")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.787")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.788")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.789")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.790")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1139")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1140")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1141")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1142")>, <selenium.webdriver.remote.webelement.WebElement (session="f1d54ce9c1e1e62283301854b74537ef", element="f.00814FAE2997E3D0E8978FC88D9711DF.d.78DD91A4F0852C50B16446D64FCF15DE.e.1143")>]
+행 감소
+tr개수 (줄 개수):  1
+1
+td개수(전체 개수) :  1
+*********************
+1
+font-family
+font-size
+bold
+italic
+underline
+strikethrough
+font-color
+background-color
+align-drop-down
+line-height
+cell-background-color
+전체 개수 :  {'height': 32, 'width': 860}
+A
+tr개수 (줄 개수):  1
+1
+td개수(전체 개수) :  1
+0
+AAA
+BBB
+와일안
+21시 21분 19초
+timeclock 5.0
+asdf 300
+동작중 0
+timeclock 5.0
+asdf 300
+동작중 1
+timeclock 5.0
+asdf 300
+동작중 2
+timeclock 5.0
+asdf 300
+동작중 3
+timeclock 5.0
+asdf 300
+동작중 4
+timeclock 5.0
+asdf 300
+동작중 5
+timeclock 5.0
+asdf 300
+동작중 6
+timeclock 5.0
+asdf 300
+동작중 7
+timeclock 5.0
+asdf 300
+동작중 8
+timeclock 5.0
+asdf 300
+동작중 9
+timeclock 5.0
+asdf 300
+동작중 10
+시작
+File saved to: E:\SynologyDrive\24 네이버 카페 쿠팡파트너스\0311\logfile.txt
