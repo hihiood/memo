@@ -1,0 +1,31 @@
+errolinkQQ C:\Users\jinsim1\Desktop\naverBlog
+chatGPT5
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\jinsim1\AppData\Local\Temp\3a988c61279846d5bce47ea8c72269db.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\jinsim1\AppData\Local\Temp\f5817838395540579e8c6663a1c90513.pyd
+Running main() from the .pyd file...
+Captured output: 134
+최신 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\jinsim1\AppData\Local\Temp\5adc465f59b94bcd84b9645c66cb236a.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 드라이버 버전 :: 134
+=========================================
+내 크롬 버전 :: 134
+최신 크롬 버전 :: 134
+내 드라이버 버전 :: 134
+DB access----success!!
+{insertreplycomment.get()} chatGPT5
+----------------------------import --------
+에러메세지
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+folder_to_check C:\Users\jinsim1\chromeCookie\Profile chatGPT5\Default
+Error deleting folder 'C:\Users\jinsim1\chromeCookie\Profile chatGPT5\Default': [WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\Users\\jinsim1\\chromeCookie\\Profile chatGPT5\\Default'
+{insertreplycomment.get()} chatGPT5
+시작
+File saved to: C:\Users\jinsim1\Desktop\naverBlog\logfile.txt
