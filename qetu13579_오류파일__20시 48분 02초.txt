@@ -1,0 +1,26 @@
+errolinkQQ C:\Users\one\Desktop\네이버자동포스팅4
+GPT-3.5
+맨아래
+DB access----success!!
+{insertreplycomment.get()} qwer230617
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\one\AppData\Local\Temp\5338afe804964289b33e1b3a3c82e20b.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\one\AppData\Local\Temp\d1327dc6328f4ae499928f65db0ad194.pyd
+Running main() from the .pyd file...
+Captured output: 134
+최신 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\one\AppData\Local\Temp\510ca4b8d8e2434b81a1e5dac8644a43.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 드라이버 버전 :: 134
+=========================================
+내 크롬 버전 :: 134
+최신 크롬 버전 :: 134
+내 드라이버 버전 :: 134
+시작
+File saved to: C:\Users\one\Desktop\네이버자동포스팅4\logfile.txt
