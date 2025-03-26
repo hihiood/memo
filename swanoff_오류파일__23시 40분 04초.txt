@@ -1,0 +1,78 @@
+0    C:\Users\ktw80\Desktop\바드마스터\I AM WEB\이미지
+Name: 이미지 경로, dtype: object
+0    없음
+Name: Positionlink, dtype: object
+0    없음
+Name: Pastlink, dtype: object
+엑셀 개수 1
+BLOGLINK 0    https://ssingssingcare.kr/
+Name: 블로그 주소, dtype: object
+errolinkQQ C:\Users\ktw80\Desktop\바드마스터\I AM WEB
+chatGPT1
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\8619592019764ec0ae2248511a1b3e41.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\dd957d5e77d4416fb9f20c349b165bb1.pyd
+Running main() from the .pyd file...
+Captured output: 134
+최신 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\b44ddd901ef546c984ed35f0b46acece.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 드라이버 버전 :: 134
+=========================================
+내 크롬 버전 :: 134
+최신 크롬 버전 :: 134
+내 드라이버 버전 :: 134
+DB access----success!!
+{insertreplycomment.get()} chatGPT1
+insertreplycomment.get() chatGPT1
+chaeck_category cafe_information///naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT
+전체 키워드 개수 :
+엑셀 개수 1
+DB access----success!!
+지금 아이디 :
+jsjine@naver.com
+[<selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1773")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1800")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1827")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1854")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1881")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1913")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1940")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1968")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.1996")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.2024")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.2052")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.2080")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.2108")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.2142")>, <selenium.webdriver.remote.webelement.WebElement (session="68d912fb33f4c3fc5e34c089eb832a6f", element="f.49FD6681D017F68A6671B4AEB8BFC968.d.C8E350D6C2C9CE2BEC7F43570AC24367.e.2170")>]
+img_path C:\Users\ktw80\Desktop\바드마스터\I AM WEB
+kQF 1
+IMAGE_PATH_PATH C:\Users\ktw80\Desktop\바드마스터\I AM WEB
+image_file modified_image.png
+img_sub_send 1654100
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt <undetected_chromedriver.Chrome (session="d15eb42ec54a2d997e4ca367f0fbb5c3")>
+체크3
+체크4
+현재 URL: https://chatgpt.com/?model=gpt-4o-mini
+수집된 텍스트: 주제 : 양주 회천동 싱크대막힘 / 수집한 글은 다음과 같아 :  _ / <h2 style='font-size:26px;' align='left'> 태그를 총 3개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 3개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자~30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다.
+시작
+File saved to: C:\Users\ktw80\Desktop\바드마스터\I AM WEB\logfile.txt
