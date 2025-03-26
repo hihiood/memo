@@ -1,0 +1,1914 @@
+GPT-3.5
+맨아래
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\d106624a31d44604bad481895d4e70b5.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\eaa7baa3d49b4973bf61804811226bba.pyd
+Running main() from the .pyd file...
+Captured output: 134
+최신 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\54d41d6304534f918cd1f9718f42b8c3.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 드라이버 버전 :: 134
+=========================================
+내 크롬 버전 :: 134
+최신 크롬 버전 :: 134
+내 드라이버 버전 :: 134
+부천 갤럭시S25 특가할인
+title 부천 갤럭시S25 특가할인
+부천 아이폰16 특가할인
+title 부천 아이폰16 특가할인
+부천 키즈폰 특가할인
+title 부천 키즈폰 특가할인
+부천 단기월세 오피스텔 무보증 선납조건
+title 부천 단기월세 오피스텔 무보증 선납조건
+부천 단기월세 오피스텔 신축, 합리적가격
+title 부천 단기월세 오피스텔 신축, 합리적가격
+부천흥신소 사람찾기
+title 부천흥신소 사람찾기
+부천흥신소 골프모임 불륜
+title 부천흥신소 골프모임 불륜
+부천흥신소 나이트클럽
+title 부천흥신소 나이트클럽
+전체 키워드 개수 :
+엑셀 개수 8
+DB access----success!!
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+['https://plus.unsplash.com/premium_photo-1729036321956-5e529be7632f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://plus.unsplash.com/premium_photo-1720588807684-095c30703904?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://plus.unsplash.com/premium_photo-1670151833597-32161060987f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://plus.unsplash.com/premium_photo-1720202183632-a2f9f47a26d9?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1538370965046-79c0d6907d47?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1475139441338-693e7dbe20b6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1487715433499-93acdc0bd7c3?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1504333638930-c8787321eee0?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1464802686167-b939a6910659?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1516331138075-f3adc1e149cd?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1519810755548-39cd217da494?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1529307482987-d09357b12fb3?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://plus.unsplash.com/premium_photo-1678495222603-b66f6393c166?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1502318217862-aa4e294ba657?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVBJUIwJUE0JUVCJTlGJUFEJUVDJThCJTlDUzI1JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D', 'https://images.unsplash.com/photo-1531333377070-c6575ba98c97?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQSVCMCVBNCVFQiU5RiVBRCVFQyU4QiU5Q1MyNSUyMCVFRCU4QSVCOSVFQSVCMCU4MCVFRCU5NSVBMCVFQyU5RCVCOHxlbnwwfHwwfHx8MA%3D%3D']
+0000000000000000000-
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer3
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 갤럭시S25 특가할인 혜택을 놓치지 마세요!
+returnbuffer 부천 갤럭시S25 특가할인 혜택을 놓치지 마세요!
+buffer3_h2 부천 갤럭시S25 특가할인 혜택을 놓치지 마세요!
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 갤럭시S25
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 갤럭시S25
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>갤럭시S25 혜택을 잊지 마세요!</h2>\n\n<u>부천 갤럭시S25</u>는 최신 기술을 탑재하고 있어 매우 인기가 높습니다. <b>특가할인</b> 혜택을 놓치지 않고 구매하면 좋은 이점이 많습니다.\n\n<ol>\n  <li><u>할인가격</u>: 갤럭시S25는 다른 스마트폰에 비해 저렴한 가격에 판매 중이니, <b>특가할인</b> 혜택을 철저히 활용해 보세요.</li>\n  <li><u>성능과 기능</u>: 갤럭시S25는 강력한 성능과 다양한 기능을 제공하여 일상 생활을 보다 편리하게 만들어 줍니다.</li>\n  <li><u>디자인</u>: 슬림하고 세련된 디자인으로 사람들의 시선을 사로잡는 갤럭시S25를 만나보세요.</li>\n</ol>\n\n이처럼 갤럭시S25의 <b>특가할인</b> 혜택은 놓치지 않을 만한 가치가 있으니, 서둘러 구매해보세요.부천 갤럭시S25은 최신 모델로, 성능과 디자인 모두 우수하다고 평가받고 있습니다. 이에 <b>부천 갤럭시S25 특가할인 혜택</b>은 이 제품을 더욱 <u>합리적인 가격에 구매할 수 있는 기회</u>를 제공합니다. 이 할인 혜택을 놓치지 않고, <u>지금 바로 구매하여</u> 혜택을 누려보세요!\n\n<b><u>부천 갤럭시S25 특가할인 혜택</u></b>에 대한 상세 내용은 아래와 같습니다:\n<ol>\n  <li> 할인율: 최대 30% 할인\n  <li> 포인트 적립: 구매 금액의 5%를 포인트로 적립\n  <li> 사은품 증정: 구매 시 특별 사은품 증정\n  <li> 이벤트 혜택: 선착순인원에게 추첨을 통해 추가 혜택 제공\n</ol>\n\n위와 같은 혜택들을 통해 <b>부천 갤럭시S25를 저렴한 가격에</b> 구매할 수 있는 기회를 제공하고 있습니다. 지금 <u>바로 구매하여</u> 혜택을 놓치지 마세요!'}
+buffer3 <h2>갤럭시S25 혜택을 잊지 마세요!</h2>
+
+<u>부천 갤럭시S25</u>는 최신 기술을 탑재하고 있어 매우 인기가 높습니다. <b>특가할인</b> 혜택을 놓치지 않고 구매하면 좋은 이점이 많습니다.
+
+<ol>
+ <li><u>할인가격</u>: 갤럭시S25는 다른 스마트폰에 비해 저렴한 가격에 판매 중이니, <b>특가할인</b> 혜택을 철저히 활용해 보세요.</li>
+ <li><u>성능과 기능</u>: 갤럭시S25는 강력한 성능과 다양한 기능을 제공하여 일상 생활을 보다 편리하게 만들어 줍니다.</li>
+ <li><u>디자인</u>: 슬림하고 세련된 디자인으로 사람들의 시선을 사로잡는 갤럭시S25를 만나보세요.</li>
+</ol>
+
+이처럼 갤럭시S25의 <b>특가할인</b> 혜택은 놓치지 않을 만한 가치가 있으니, 서둘러 구매해보세요.부천 갤럭시S25은 최신 모델로, 성능과 디자인 모두 우수하다고 평가받고 있습니다. 이에 <b>부천 갤럭시S25 특가할인 혜택</b>은 이 제품을 더욱 <u>합리적인 가격에 구매할 수 있는 기회</u>를 제공합니다. 이 할인 혜택을 놓치지 않고, <u>지금 바로 구매하여</u> 혜택을 누려보세요!
+
+<b><u>부천 갤럭시S25 특가할인 혜택</u></b>에 대한 상세 내용은 아래와 같습니다:
+<ol>
+ <li> 할인율: 최대 30% 할인
+ <li> 포인트 적립: 구매 금액의 5%를 포인트로 적립
+ <li> 사은품 증정: 구매 시 특별 사은품 증정
+ <li> 이벤트 혜택: 선착순인원에게 추첨을 통해 추가 혜택 제공
+</ol>
+
+위와 같은 혜택들을 통해 <b>부천 갤럭시S25를 저렴한 가격에</b> 구매할 수 있는 기회를 제공하고 있습니다. 지금 <u>바로 구매하여</u> 혜택을 놓치지 마세요!
+change************************html-buffer3
+<h2>갤럭시S25 혜택을 잊지 마세요!</h2>
+
+<u>부천 갤럭시S25</u>는 최신 기술을 탑재하고 있어 매우 인기가 높습니다. <b>특가할인</b> 혜택을 놓치지 않고 구매하면 좋은 이점이 많습니다.
+
+<ol>
+ <li><u>할인가격</u>: 갤럭시S25는 다른 스마트폰에 비해 저렴한 가격에 판매 중이니, <b>특가할인</b> 혜택을 철저히 활용해 보세요.</li>
+ <li><u>성능과 기능</u>: 갤럭시S25는 강력한 성능과 다양한 기능을 제공하여 일상 생활을 보다 편리하게 만들어 줍니다.</li>
+ <li><u>디자인</u>: 슬림하고 세련된 디자인으로 사람들의 시선을 사로잡는 갤럭시S25를 만나보세요.</li>
+</ol>
+
+이처럼 갤럭시S25의 <b>특가할인</b> 혜택은 놓치지 않을 만한 가치가 있으니, 서둘러 구매해보세요.부천 갤럭시S25은 최신 모델로, 성능과 디자인 모두 우수하다고 평가받고 있습니다. 이에 <b>부천 갤럭시S25 특가할인 혜택</b>은 이 제품을 더욱 <u>합리적인 가격에 구매할 수 있는 기회</u>를 제공합니다. 이 할인 혜택을 놓치지 않고, <u>지금 바로 구매하여</u> 혜택을 누려보세요!
+
+<b><u>부천 갤럭시S25 특가할인 혜택</u></b>에 대한 상세 내용은 아래와 같습니다:
+<ol>
+ <li> 할인율: 최대 30% 할인
+ <li> 포인트 적립: 구매 금액의 5%를 포인트로 적립
+ <li> 사은품 증정: 구매 시 특별 사은품 증정
+ <li> 이벤트 혜택: 선착순인원에게 추첨을 통해 추가 혜택 제공
+</ol>
+
+위와 같은 혜택들을 통해 <b>부천 갤럭시S25를 저렴한 가격에</b> 구매할 수 있는 기회를 제공하고 있습니다. 지금 <u>바로 구매하여</u> 혜택을 놓치지 마세요!
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer4
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 갤럭시S25 특가할인 이벤트 정보 확인하기
+returnbuffer 부천 갤럭시S25 특가할인 이벤트 정보 확인하기
+buffer4_h2 부천 갤럭시S25 특가할인 이벤트 정보 확인하기
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 갤럭시S25
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 갤럭시S25
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>갤럭시S25 특가할인 정보</h2>\n\n한정된 기간 동안 갤럭시S25의 특가할인 이벤트를 확인하세요. 이벤트 정보는 아래와 같습니다:\n\n<ol>\n<li><b>이벤트 기간:</b> 2022년 3월 15일부터 3월 31일까지</li>\n<li><b>할인 혜택:</b> 최대 30% 할인 및 추가 사은품 제공</li>\n<li><b>참여 방법:</b> 부천 갤럭시 매장 또는 온라인 쇼핑몰에서 구매 시 자동 적용</li>\n</ol>\n\n이 특가할인 이벤트는 갤럭시S25를 구매하고자 하는 분들께 최적의 기회입니다. 놓치지 마세요!저희 부천 갤럭시S25에서는 특가할인 이벤트가 진행 중입니다. 이 <b>이벤트</b>를 통해 부천 지역에서만 제공되는 <u>특별한 혜택</u>을 누리실 수 있습니다. <u>갤럭시S25</u>를 저렴하게 구매하고 싶으시다면 지금 당장 <u>이벤트 정보</u>를 확인해보세요.\n\n<u>이벤트 기간</u>: 2022년 5월 15일부터 5월 31일까지\n<u>혜택 내용</u>: 구입 시 <b>할인된 가격</b> 및 <b>사은품</b> 제공\n<u>참여 방법</u>: 오프라인 매장 방문 또는 온라인 주문\n\n이번 <b>이벤트</b>를 통해 갤럭시S25를 저렴하게 구매하고 다양한 혜택을 누리세요. 놓치지 마세요!'}
+buffer4 <h2>갤럭시S25 특가할인 정보</h2>
+
+한정된 기간 동안 갤럭시S25의 특가할인 이벤트를 확인하세요. 이벤트 정보는 아래와 같습니다:
+
+<ol>
+<li><b>이벤트 기간:</b> 2022년 3월 15일부터 3월 31일까지</li>
+<li><b>할인 혜택:</b> 최대 30% 할인 및 추가 사은품 제공</li>
+<li><b>참여 방법:</b> 부천 갤럭시 매장 또는 온라인 쇼핑몰에서 구매 시 자동 적용</li>
+</ol>
+
+이 특가할인 이벤트는 갤럭시S25를 구매하고자 하는 분들께 최적의 기회입니다. 놓치지 마세요!저희 부천 갤럭시S25에서는 특가할인 이벤트가 진행 중입니다. 이 <b>이벤트</b>를 통해 부천 지역에서만 제공되는 <u>특별한 혜택</u>을 누리실 수 있습니다. <u>갤럭시S25</u>를 저렴하게 구매하고 싶으시다면 지금 당장 <u>이벤트 정보</u>를 확인해보세요.
+
+<u>이벤트 기간</u>: 2022년 5월 15일부터 5월 31일까지
+<u>혜택 내용</u>: 구입 시 <b>할인된 가격</b> 및 <b>사은품</b> 제공
+<u>참여 방법</u>: 오프라인 매장 방문 또는 온라인 주문
+
+이번 <b>이벤트</b>를 통해 갤럭시S25를 저렴하게 구매하고 다양한 혜택을 누리세요. 놓치지 마세요!
+change************************html-buffer4
+<h2>갤럭시S25 특가할인 정보</h2>
+
+한정된 기간 동안 갤럭시S25의 특가할인 이벤트를 확인하세요. 이벤트 정보는 아래와 같습니다:
+
+<ol>
+<li><b>이벤트 기간:</b> 2022년 3월 15일부터 3월 31일까지</li>
+<li><b>할인 혜택:</b> 최대 30% 할인 및 추가 사은품 제공</li>
+<li><b>참여 방법:</b> 부천 갤럭시 매장 또는 온라인 쇼핑몰에서 구매 시 자동 적용</li>
+</ol>
+
+이 특가할인 이벤트는 갤럭시S25를 구매하고자 하는 분들께 최적의 기회입니다. 놓치지 마세요!저희 부천 갤럭시S25에서는 특가할인 이벤트가 진행 중입니다. 이 <b>이벤트</b>를 통해 부천 지역에서만 제공되는 <u>특별한 혜택</u>을 누리실 수 있습니다. <u>갤럭시S25</u>를 저렴하게 구매하고 싶으시다면 지금 당장 <u>이벤트 정보</u>를 확인해보세요.
+
+<u>이벤트 기간</u>: 2022년 5월 15일부터 5월 31일까지
+<u>혜택 내용</u>: 구입 시 <b>할인된 가격</b> 및 <b>사은품</b> 제공
+<u>참여 방법</u>: 오프라인 매장 방문 또는 온라인 주문
+
+이번 <b>이벤트</b>를 통해 갤럭시S25를 저렴하게 구매하고 다양한 혜택을 누리세요. 놓치지 마세요!
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer5
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 갤럭시S25 특가할인 이벤트 혜택 알아보기!
+returnbuffer 부천 갤럭시S25 특가할인 이벤트 혜택 알아보기!
+buffer5_h2 부천 갤럭시S25 특가할인 이벤트 혜택 알아보기!
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 갤럭시S25
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 갤럭시S25
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>갤럭시S25 할인 혜택 알아보기!</h2>\n\n<u><b>갤럭시S25 특가할인 이벤트 혜택</b></u>\n<ol>\n  <li>기간: 2022년 5월 1일부터 5월 15일까지</li>\n  <li>할인 혜택: 최대 30% 할인 및 추가 사은품 제공</li>\n  <li>대상: 부천 지역 매장 및 온라인 구매</li>\n</ol> \n\n<table border=\'1\' style="text-align:center">\n  <tr>\n    <th style="background-color: lightblue; text-align:center">구매 금액</th>\n    <th style="background-color: lightblue; text-align:center">할인 혜택</th>\n  </tr>\n  <tr>\n    <td style="text-align:center">100만원 이상</td>\n    <td style="text-align:center">10% 할인 + 선착순 사은품</td>\n  </tr>\n  <tr>\n    <td style="text-align:center">200만원 이상</td>\n    <td style="text-align:center">20% 할인 + 특별 선물</td>\n  </tr>\n  <tr>\n    <td style="text-align:center">300만원 이상</td>\n    <td style="text-align:center">30% 할인 + 무료 배송</td>\n  </tr>\n</table> \n\n이 기회를 놓치지 마시고 갤럭시S25의 특별한 혜택을 만나보세요!부천 갤럭시S25 <u>특가할인</u> 이벤트가 진행 중입니다! 이 <u>이벤트</u>를 통해 <b>부천</b> 지역에서만 받을 수 있는 다양한 혜택을 만나보세요. \n\n이번 <u>할인</u> 행사는 <u>갤럭시S25</u> 구매 시 특별한 혜택이 제공됩니다. <b>할인</b>율도 매우 유리하며, 기기 구매 외에도 추가 <u>이벤트</u> 혜택을 더 받을 수 있는 기회가 있습니다. \n\n<u>부천</u>에서만 진행되는 <u>이벤트</u>이니 놓치지 마시고, 지금 <u>부천</u> <u>갤럭시S25</u> 특가할인 이벤트를 확인해보세요! \n\n<u>부천</u> 갤럭시S25 특가할인 혜택을 정리하면 다음과 같습니다:\n<ol>\n    <li>특별 할인율</li>\n    <li>부가 혜택 포함</li>\n    <li>지역 한정 혜택</li>\n</ol>'}
+buffer5 <h2>갤럭시S25 할인 혜택 알아보기!</h2>
+
+<u><b>갤럭시S25 특가할인 이벤트 혜택</b></u>
+<ol>
+ <li>기간: 2022년 5월 1일부터 5월 15일까지</li>
+ <li>할인 혜택: 최대 30% 할인 및 추가 사은품 제공</li>
+ <li>대상: 부천 지역 매장 및 온라인 구매</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>구매 금액</th>
+ <th style=background-color: lightblue; text-align:center>할인 혜택</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>100만원 이상</td>
+ <td style=text-align:center>10% 할인 + 선착순 사은품</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>200만원 이상</td>
+ <td style=text-align:center>20% 할인 + 특별 선물</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>300만원 이상</td>
+ <td style=text-align:center>30% 할인 + 무료 배송</td>
+ </tr>
+</table> 
+
+이 기회를 놓치지 마시고 갤럭시S25의 특별한 혜택을 만나보세요!부천 갤럭시S25 <u>특가할인</u> 이벤트가 진행 중입니다! 이 <u>이벤트</u>를 통해 <b>부천</b> 지역에서만 받을 수 있는 다양한 혜택을 만나보세요. 
+
+이번 <u>할인</u> 행사는 <u>갤럭시S25</u> 구매 시 특별한 혜택이 제공됩니다. <b>할인</b>율도 매우 유리하며, 기기 구매 외에도 추가 <u>이벤트</u> 혜택을 더 받을 수 있는 기회가 있습니다. 
+
+<u>부천</u>에서만 진행되는 <u>이벤트</u>이니 놓치지 마시고, 지금 <u>부천</u> <u>갤럭시S25</u> 특가할인 이벤트를 확인해보세요! 
+
+<u>부천</u> 갤럭시S25 특가할인 혜택을 정리하면 다음과 같습니다:
+<ol>
+ <li>특별 할인율</li>
+ <li>부가 혜택 포함</li>
+ <li>지역 한정 혜택</li>
+</ol>
+change************************html-buffer5
+<h2>갤럭시S25 할인 혜택 알아보기!</h2>
+
+<u><b>갤럭시S25 특가할인 이벤트 혜택</b></u>
+<ol>
+ <li>기간: 2022년 5월 1일부터 5월 15일까지</li>
+ <li>할인 혜택: 최대 30% 할인 및 추가 사은품 제공</li>
+ <li>대상: 부천 지역 매장 및 온라인 구매</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>구매 금액</th>
+ <th style=background-color: lightblue; text-align:center>할인 혜택</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>100만원 이상</td>
+ <td style=text-align:center>10% 할인 + 선착순 사은품</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>200만원 이상</td>
+ <td style=text-align:center>20% 할인 + 특별 선물</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>300만원 이상</td>
+ <td style=text-align:center>30% 할인 + 무료 배송</td>
+ </tr>
+</table> 
+
+이 기회를 놓치지 마시고 갤럭시S25의 특별한 혜택을 만나보세요!부천 갤럭시S25 <u>특가할인</u> 이벤트가 진행 중입니다! 이 <u>이벤트</u>를 통해 <b>부천</b> 지역에서만 받을 수 있는 다양한 혜택을 만나보세요. 
+
+이번 <u>할인</u> 행사는 <u>갤럭시S25</u> 구매 시 특별한 혜택이 제공됩니다. <b>할인</b>율도 매우 유리하며, 기기 구매 외에도 추가 <u>이벤트</u> 혜택을 더 받을 수 있는 기회가 있습니다. 
+
+<u>부천</u>에서만 진행되는 <u>이벤트</u>이니 놓치지 마시고, 지금 <u>부천</u> <u>갤럭시S25</u> 특가할인 이벤트를 확인해보세요! 
+
+<u>부천</u> 갤럭시S25 특가할인 혜택을 정리하면 다음과 같습니다:
+<ol>
+ <li>특별 할인율</li>
+ <li>부가 혜택 포함</li>
+ <li>지역 한정 혜택</li>
+</ol>
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 갤럭시S25 특가할인 혜택 확인하기!
+returnbuffer 부천 갤럭시S25 특가할인 혜택 확인하기!
+buffer6_h2 부천 갤럭시S25 특가할인 혜택 확인하기!
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 갤럭시S25
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 갤럭시S25
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>갤럭시S25 특가혜택 안내</h2>\n\n본 문서에서는 부천 지역에서 제공되는 갤럭시S25의 특가할인 혜택에 대해 안내하고 있습니다. 특가 혜택을 확인하고 구매에 대한 결정을 내리기 전에 아래 내용을 꼼꼼히 살펴보세요.\n\n<u>특가 혜택 상세 안내</u>:\n<ol>\n<li>할인 금액: 50,000원</li>\n<li>사은품: 보호필름 증정</li>\n<li>기간: 10월 말까지</li>\n</ol>\n\n위 내용을 확인하고 갤럭시S25의 특가 혜택을 최대한 활용해보세요.더 많은 정보를 원하시면 곧바로 문의해주세요!<u>부천 갤럭시S25</u>의 <u>특가할인 혜택</u>을 확인하세요! <b>부천 갤럭시S25</b>를 구매하시면 <u>다양한 혜택</u>을 누리실 수 있습니다. \n\n<u>할인된 가격</u>으로 <u>구매 가능</u>하며, <u>더 많은 혜택</u>을 받을 수도 있습니다. \n\n이로 인해 <u>안정적이고 빠른 성능</u>을 경험할 수 있으며, <u>혜택 다수</u>를 누리실 수 있습니다. \n\n<u>특가할인</u>은 <u>한정 기간</u>에만 진행되니 서둘러 확인하세요! \n\n<ol>\n  <li>할인된 가격 확인</li>\n  <li>다양한 혜택 누리기</li>\n  <li>안정적이고 빠른 성능 경험</li>\n  <li>한정 기간 특가할인</li>\n</ol>'}
+buffer6 <h2>갤럭시S25 특가혜택 안내</h2>
+
+본 문서에서는 부천 지역에서 제공되는 갤럭시S25의 특가할인 혜택에 대해 안내하고 있습니다. 특가 혜택을 확인하고 구매에 대한 결정을 내리기 전에 아래 내용을 꼼꼼히 살펴보세요.
+
+<u>특가 혜택 상세 안내</u>:
+<ol>
+<li>할인 금액: 50,000원</li>
+<li>사은품: 보호필름 증정</li>
+<li>기간: 10월 말까지</li>
+</ol>
+
+위 내용을 확인하고 갤럭시S25의 특가 혜택을 최대한 활용해보세요.더 많은 정보를 원하시면 곧바로 문의해주세요!<u>부천 갤럭시S25</u>의 <u>특가할인 혜택</u>을 확인하세요! <b>부천 갤럭시S25</b>를 구매하시면 <u>다양한 혜택</u>을 누리실 수 있습니다. 
+
+<u>할인된 가격</u>으로 <u>구매 가능</u>하며, <u>더 많은 혜택</u>을 받을 수도 있습니다. 
+
+이로 인해 <u>안정적이고 빠른 성능</u>을 경험할 수 있으며, <u>혜택 다수</u>를 누리실 수 있습니다. 
+
+<u>특가할인</u>은 <u>한정 기간</u>에만 진행되니 서둘러 확인하세요! 
+
+<ol>
+ <li>할인된 가격 확인</li>
+ <li>다양한 혜택 누리기</li>
+ <li>안정적이고 빠른 성능 경험</li>
+ <li>한정 기간 특가할인</li>
+</ol>
+['갤럭시s25 혜택을 잊지 마세요!', '갤럭시s25 특가할인 정보', '갤럭시s25 할인 혜택 알아보기!', '갤럭시s25 특가혜택 안내', None, None]
+kkq3: <h2>갤럭시S25 혜택을 잊지 마세요!</h2>
+
+<u>부천 갤럭시S25</u>는 최신 기술을 탑재하고 있어 매우 인기가 높습니다. <b>특가할인</b> 혜택을 놓치지 않고 구매하면 좋은 이점이 많습니다.
+
+<ol>
+ <li><u>할인가격</u>: 갤럭시S25는 다른 스마트폰에 비해 저렴한 가격에 판매 중이니, <b>특가할인</b> 혜택을 철저히 활용해 보세요.</li>
+ <li><u>성능과 기능</u>: 갤럭시S25는 강력한 성능과 다양한 기능을 제공하여 일상 생활을 보다 편리하게 만들어 줍니다.</li>
+ <li><u>디자인</u>: 슬림하고 세련된 디자인으로 사람들의 시선을 사로잡는 갤럭시S25를 만나보세요.</li>
+</ol>
+
+이처럼 갤럭시S25의 <b>특가할인</b> 혜택은 놓치지 않을 만한 가치가 있으니, 서둘러 구매해보세요.부천 갤럭시S25은 최신 모델로, 성능과 디자인 모두 우수하다고 평가받고 있습니다. 이에 <b>부천 갤럭시S25 특가할인 혜택</b>은 이 제품을 더욱 <u>합리적인 가격에 구매할 수 있는 기회</u>를 제공합니다. 이 할인 혜택을 놓치지 않고, <u>지금 바로 구매하여</u> 혜택을 누려보세요!
+
+<b><u>부천 갤럭시S25 특가할인 혜택</u></b>에 대한 상세 내용은 아래와 같습니다:
+<ol>
+ <li> 할인율: 최대 30% 할인
+ <li> 포인트 적립: 구매 금액의 5%를 포인트로 적립
+ <li> 사은품 증정: 구매 시 특별 사은품 증정
+ <li> 이벤트 혜택: 선착순인원에게 추첨을 통해 추가 혜택 제공
+</ol>
+
+위와 같은 혜택들을 통해 <b>부천 갤럭시S25를 저렴한 가격에</b> 구매할 수 있는 기회를 제공하고 있습니다. 지금 <u>바로 구매하여</u> 혜택을 놓치지 마세요!
+kkq4: <h2>갤럭시S25 특가할인 정보</h2>
+
+한정된 기간 동안 갤럭시S25의 특가할인 이벤트를 확인하세요. 이벤트 정보는 아래와 같습니다:
+
+<ol>
+<li><b>이벤트 기간:</b> 2022년 3월 15일부터 3월 31일까지</li>
+<li><b>할인 혜택:</b> 최대 30% 할인 및 추가 사은품 제공</li>
+<li><b>참여 방법:</b> 부천 갤럭시 매장 또는 온라인 쇼핑몰에서 구매 시 자동 적용</li>
+</ol>
+
+이 특가할인 이벤트는 갤럭시S25를 구매하고자 하는 분들께 최적의 기회입니다. 놓치지 마세요!저희 부천 갤럭시S25에서는 특가할인 이벤트가 진행 중입니다. 이 <b>이벤트</b>를 통해 부천 지역에서만 제공되는 <u>특별한 혜택</u>을 누리실 수 있습니다. <u>갤럭시S25</u>를 저렴하게 구매하고 싶으시다면 지금 당장 <u>이벤트 정보</u>를 확인해보세요.
+
+<u>이벤트 기간</u>: 2022년 5월 15일부터 5월 31일까지
+<u>혜택 내용</u>: 구입 시 <b>할인된 가격</b> 및 <b>사은품</b> 제공
+<u>참여 방법</u>: 오프라인 매장 방문 또는 온라인 주문
+
+이번 <b>이벤트</b>를 통해 갤럭시S25를 저렴하게 구매하고 다양한 혜택을 누리세요. 놓치지 마세요!
+kkq5: <h2>갤럭시S25 할인 혜택 알아보기!</h2>
+
+<u><b>갤럭시S25 특가할인 이벤트 혜택</b></u>
+<ol>
+ <li>기간: 2022년 5월 1일부터 5월 15일까지</li>
+ <li>할인 혜택: 최대 30% 할인 및 추가 사은품 제공</li>
+ <li>대상: 부천 지역 매장 및 온라인 구매</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>구매 금액</th>
+ <th style=background-color: lightblue; text-align:center>할인 혜택</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>100만원 이상</td>
+ <td style=text-align:center>10% 할인 + 선착순 사은품</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>200만원 이상</td>
+ <td style=text-align:center>20% 할인 + 특별 선물</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>300만원 이상</td>
+ <td style=text-align:center>30% 할인 + 무료 배송</td>
+ </tr>
+</table> 
+
+이 기회를 놓치지 마시고 갤럭시S25의 특별한 혜택을 만나보세요!부천 갤럭시S25 <u>특가할인</u> 이벤트가 진행 중입니다! 이 <u>이벤트</u>를 통해 <b>부천</b> 지역에서만 받을 수 있는 다양한 혜택을 만나보세요. 
+
+이번 <u>할인</u> 행사는 <u>갤럭시S25</u> 구매 시 특별한 혜택이 제공됩니다. <b>할인</b>율도 매우 유리하며, 기기 구매 외에도 추가 <u>이벤트</u> 혜택을 더 받을 수 있는 기회가 있습니다. 
+
+<u>부천</u>에서만 진행되는 <u>이벤트</u>이니 놓치지 마시고, 지금 <u>부천</u> <u>갤럭시S25</u> 특가할인 이벤트를 확인해보세요! 
+
+<u>부천</u> 갤럭시S25 특가할인 혜택을 정리하면 다음과 같습니다:
+<ol>
+ <li>특별 할인율</li>
+ <li>부가 혜택 포함</li>
+ <li>지역 한정 혜택</li>
+</ol>
+kkq6: <h2>갤럭시S25 특가혜택 안내</h2>
+
+본 문서에서는 부천 지역에서 제공되는 갤럭시S25의 특가할인 혜택에 대해 안내하고 있습니다. 특가 혜택을 확인하고 구매에 대한 결정을 내리기 전에 아래 내용을 꼼꼼히 살펴보세요.
+
+<u>특가 혜택 상세 안내</u>:
+<ol>
+<li>할인 금액: 50,000원</li>
+<li>사은품: 보호필름 증정</li>
+<li>기간: 10월 말까지</li>
+</ol>
+
+위 내용을 확인하고 갤럭시S25의 특가 혜택을 최대한 활용해보세요.더 많은 정보를 원하시면 곧바로 문의해주세요!<u>부천 갤럭시S25</u>의 <u>특가할인 혜택</u>을 확인하세요! <b>부천 갤럭시S25</b>를 구매하시면 <u>다양한 혜택</u>을 누리실 수 있습니다. 
+
+<u>할인된 가격</u>으로 <u>구매 가능</u>하며, <u>더 많은 혜택</u>을 받을 수도 있습니다. 
+
+이로 인해 <u>안정적이고 빠른 성능</u>을 경험할 수 있으며, <u>혜택 다수</u>를 누리실 수 있습니다. 
+
+<u>특가할인</u>은 <u>한정 기간</u>에만 진행되니 서둘러 확인하세요! 
+
+<ol>
+ <li>할인된 가격 확인</li>
+ <li>다양한 혜택 누리기</li>
+ <li>안정적이고 빠른 성능 경험</li>
+ <li>한정 기간 특가할인</li>
+</ol>
+kkq7: None
+kkq8: None
+check_word_length 650
+len(kkq) 3295
+제목  부천 갤럭시S5 특가할인
+아이디 :  soung440207
+비밀번호 :  qqww1122!!
+[{'domain': '.blog.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '381193e6-5f12-4a19-9b29-758da380de62'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'EC334410A64780EB93540D174BBB85B2.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '/61leyLlNw6s8r+eB7FhEnFQ9GoL6RwPqtm1D4yviGg='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450151, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'QrJc21ObL3zuwDqH77nbUHQUyJvjpVXVt-mCL2Tgnos='}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1927875891'}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABxewxA12z8LYAjlPYCqba9N+WI4ZMHHU0fWSnK0uuwZ5rcf75Ad194PcLVx0JuOprQciqZRaRHfiJjm02QGfUA6xD6wi4bDIBB+5q+vzu8VLvHbD4sn1+y41MWwQ8u+TKTlJE1NHhziZRamGQjUbHDwZTiKqUs3A+btwiUvYd4vzJNyWOI/1a/a47O0bjAAX/bfsjN1ZTFXHnGyI5gXecn9rEEWqHdV9ajqIUr+vGrOx4hKV58lJo75qP7C+k1v175be9rp/UtS3n9odoNJnNgfXxtDKTp5NnBGJbWz30X/ouX6m3NH9qAlzjoPgPxntIxdvY9CZrGwc8FYc53iJwoJrn7xFUEzhNeVu/+2qS7hphV7A7LCvdWd1N5WkzEGDGxwgytVxwYqOQVv1ciyUBmouJDpQ49GULmynT160Ae6QmgHM6EMxibhihSyaI2LOk0Tc7LEcobZ31bMBZJc4LYPtAlytEFUibC+W8p254H+ayE3ZS7qJqq+ctSHseuk7lj8tFitAyUZ0ISO6c2gb7BUpzaeWHF6V0f+NNnjyzYWGOrvXrRNZsno3DPOEcy9M7Wx73jOrwC3TEzKFPlTt14h/fptP9YPFw/YJ3a/hwwfQl'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '82ZSJ0n3KoDVg1yoTpCb296HXG/6I2NfifaI+G/ghCaQMuMSDxqTIcIVu7QGGFmW'}, {'domain': '.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'TXJAF2MSMTRGO'}, {'domain': '.naver.com', 'expiry': 1742891951, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890130'}, {'domain': '.naver.com', 'expiry': 1777450131, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'hjdoBkgCGoeSA'}, {'domain': '.naver.com', 'expiry': 1742976531, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1742890451, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890130'}]
+cookies_dict: [{'domain': '.blog.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '381193e6-5f12-4a19-9b29-758da380de62'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'EC334410A64780EB93540D174BBB85B2.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '/61leyLlNw6s8r+eB7FhEnFQ9GoL6RwPqtm1D4yviGg='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450151, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'QrJc21ObL3zuwDqH77nbUHQUyJvjpVXVt-mCL2Tgnos='}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1927875891'}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABxewxA12z8LYAjlPYCqba9N+WI4ZMHHU0fWSnK0uuwZ5rcf75Ad194PcLVx0JuOprQciqZRaRHfiJjm02QGfUA6xD6wi4bDIBB+5q+vzu8VLvHbD4sn1+y41MWwQ8u+TKTlJE1NHhziZRamGQjUbHDwZTiKqUs3A+btwiUvYd4vzJNyWOI/1a/a47O0bjAAX/bfsjN1ZTFXHnGyI5gXecn9rEEWqHdV9ajqIUr+vGrOx4hKV58lJo75qP7C+k1v175be9rp/UtS3n9odoNJnNgfXxtDKTp5NnBGJbWz30X/ouX6m3NH9qAlzjoPgPxntIxdvY9CZrGwc8FYc53iJwoJrn7xFUEzhNeVu/+2qS7hphV7A7LCvdWd1N5WkzEGDGxwgytVxwYqOQVv1ciyUBmouJDpQ49GULmynT160Ae6QmgHM6EMxibhihSyaI2LOk0Tc7LEcobZ31bMBZJc4LYPtAlytEFUibC+W8p254H+ayE3ZS7qJqq+ctSHseuk7lj8tFitAyUZ0ISO6c2gb7BUpzaeWHF6V0f+NNnjyzYWGOrvXrRNZsno3DPOEcy9M7Wx73jOrwC3TEzKFPlTt14h/fptP9YPFw/YJ3a/hwwfQl'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '82ZSJ0n3KoDVg1yoTpCb296HXG/6I2NfifaI+G/ghCaQMuMSDxqTIcIVu7QGGFmW'}, {'domain': '.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'TXJAF2MSMTRGO'}, {'domain': '.naver.com', 'expiry': 1742891951, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890130'}, {'domain': '.naver.com', 'expiry': 1777450131, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'hjdoBkgCGoeSA'}, {'domain': '.naver.com', 'expiry': 1742976531, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1742890451, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890130'}]
+cookies_dict [{'domain': '.blog.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '381193e6-5f12-4a19-9b29-758da380de62'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'EC334410A64780EB93540D174BBB85B2.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '/61leyLlNw6s8r+eB7FhEnFQ9GoL6RwPqtm1D4yviGg='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450151, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'QrJc21ObL3zuwDqH77nbUHQUyJvjpVXVt-mCL2Tgnos='}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1927875891'}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABxewxA12z8LYAjlPYCqba9N+WI4ZMHHU0fWSnK0uuwZ5rcf75Ad194PcLVx0JuOprQciqZRaRHfiJjm02QGfUA6xD6wi4bDIBB+5q+vzu8VLvHbD4sn1+y41MWwQ8u+TKTlJE1NHhziZRamGQjUbHDwZTiKqUs3A+btwiUvYd4vzJNyWOI/1a/a47O0bjAAX/bfsjN1ZTFXHnGyI5gXecn9rEEWqHdV9ajqIUr+vGrOx4hKV58lJo75qP7C+k1v175be9rp/UtS3n9odoNJnNgfXxtDKTp5NnBGJbWz30X/ouX6m3NH9qAlzjoPgPxntIxdvY9CZrGwc8FYc53iJwoJrn7xFUEzhNeVu/+2qS7hphV7A7LCvdWd1N5WkzEGDGxwgytVxwYqOQVv1ciyUBmouJDpQ49GULmynT160Ae6QmgHM6EMxibhihSyaI2LOk0Tc7LEcobZ31bMBZJc4LYPtAlytEFUibC+W8p254H+ayE3ZS7qJqq+ctSHseuk7lj8tFitAyUZ0ISO6c2gb7BUpzaeWHF6V0f+NNnjyzYWGOrvXrRNZsno3DPOEcy9M7Wx73jOrwC3TEzKFPlTt14h/fptP9YPFw/YJ3a/hwwfQl'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '82ZSJ0n3KoDVg1yoTpCb296HXG/6I2NfifaI+G/ghCaQMuMSDxqTIcIVu7QGGFmW'}, {'domain': '.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'TXJAF2MSMTRGO'}, {'domain': '.naver.com', 'expiry': 1742891951, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890130'}, {'domain': '.naver.com', 'expiry': 1777450131, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'hjdoBkgCGoeSA'}, {'domain': '.naver.com', 'expiry': 1742976531, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1742890451, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890130'}]
+
+Empty file or Expired Session22
+텍스트 :  <!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>네이버 : 로그인</title>
+    <link href="https://nid.naver.com/favicon_1024.png" rel="apple-touch-icon-precomposed" sizes="1024x1024"/>
+    <link rel="stylesheet" type="text/css" href="/login/css/v2/mobile/mlogin.default.20241009.css?v=20250226">
+    <script type="text/javascript" src="/login/js/srcOnError.js"></script>
+</head>
+<body class="whole_white">
+<div id="wrap" class="wrap" style="display:none;">
+    <div class="u_skip"><a href="#container">본문 바로가기</a></div>
+    <header id="header" role="banner" class="header">
+        <div class="header_inner">
+            <button tyle="button" id="back" class="btn_back"><span class="icon_back"><span class="blind">뒤로가기</span></span></button>
+        </div>
+    </header>
+    <div id="container" class="container">
+
+        <!-- content -->
+        <div id="content">
+            <div class="login_logo_wrap">
+                <a href="https://m.naver.com"><h1 class="logo"><span class="blind">네이버</span></h1></a>
+            </div>
+
+            <div class="login_wrap">
+                <div class="login_inner">
+                    <form id="frmNIDLogin" name="frmNIDLogin" target="_top" AUTOCOMPLETE="off"
+                          action="https://nid.naver.com/nidlogin.login" method="POST">
+                        <input type="hidden" id="localechange" name="localechange" value="">
+                        <input type="hidden" name="dynamicKey" id="dynamicKey" value="bHwYhU1Y0_2a1kHPuIZ-ae0hKgMMDJgXZU-h2erIDnURKwsz3Xdk_TG45pZdB7-684S-el_z4su_K97CUd8Afj3RjW45bZJIQRCZzMVf6mw">
+                        <input type="hidden" name="logintp" id="logintp" value="null">
+<input type="hidden" name="encpw" id="encpw" value="">
+<input type="hidden" name="sessionKey" id="sessionKey" value="">
+<input type="hidden" name="show_pk" id="show_pk" value="true">
+<input type="hidden" name="wtoken" id="wtoken" value="">
+<input type="hidden" name="svctype" id="svctype" value="262144">
+<input type="hidden" name="bvsd" id="bvsd" value="">
+<input type="hidden" name="locale" id="locale" value="ko_KR">
+<input type="hidden" name="chptchakey" id="chptchakey" value="i6kCipQzwmYSa87I">
+<input type="hidden" name="captcha_type" id="captcha_type" value="receipt">
+<input type="hidden" name="url" id="url" value="https://m.naver.com/">
+<input type="hidden" name="rcaptchakey" id="rcaptchakey" value="bk5DjWtNwnTCBQ">
+<input type="hidden" name="enctp" id="enctp" value="1">
+<input type="hidden" name="next_step" id="next_step" value="false">
+<input type="hidden" name="fbOff" id="fbOff" value="true">
+<input type="hidden" name="smart_LEVEL" id="smart_LEVEL" value="-1">
+<input type="hidden" name="encnm" id="encnm" value="">
+
+                        <div class="login_form_wrap">
+                            <div class="login_title_wrap">
+                                <p class="login_desc" id="title_msg">
+                                    아이디(로그인 전화번호, 로그인 전용 아이디), 비밀번호<br> 또는 자동입력 방지 문자를 잘못 입력했습니다.<br> 입력하신 내용을 다시 확인해 주세요.
+                                </p>
+                            </div>
+                            <div class="login_form">
+                                <div class="login_box">
+                                    <div class="input_item id on" id="input_item_id">
+                                        <input type="text" id="id" name="id" accesskey="L" maxlength="41"
+                                               autocapitalize="none" value="soung440207"
+                                               title="아이디" class="input_id" aria-label="아이디 또는 전화번호">
+                                        <label for="id" class="text_label" id="id_label" aria-hidden="true"></label>
+                                        <button type="button" class="btn_delete" id="id_clear" style="display: none;">
+	                                        <span class="icon_delete">
+	                                            <span class="blind">삭제</span>
+	                                        </span>
+                                        </button>
+                                    </div>
+                                    <div class="input_item pw" id="input_item_pw">
+                                        <input type="password" id="pw" name="pw" title="비밀번호"
+                                               class="input_pw" maxlength="16" aria-label="비밀번호">
+                                        <label for="pw" class="text_label" id="pw_label" aria-hidden="true"></label>
+                                        <button type="button" class="btn_view hide" id="pw_hide" aria-pressed="false" style="display: none;">
+                                            <span class="icon_view">
+                                                <span class="blind" id="icon_view">선택 안 됨,비밀번호 표시</span>
+                                            </span>
+                                        </button>
+                                        <button type="button" class="btn_delete" id="pw_clear" style="display: none;">
+                                            <span class="icon_delete">
+                                                <span class="blind">삭제</span>
+                                            </span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="captcha_wrap">
+                                <div id="rcapt"></div>
+                                <div id="rcapt_sound" style="display:none;">
+                                    <div class="captcha_audio">
+                                        <span class="icon_audio"><span class="blind">음성듣기</span></span>
+                                        <p class="audio_text" id="audio_msg">음성으로 안내하고 있습니다.</p>
+                                            <a href="https://soundcaptcha.nid.naver.com/downloadSound?key=i6kCipQzwmYSa87I"
+                                               target="_blank" class="link_audio" id="l5f.audiodown">음성 다운로드</a>
+                                    </div>
+                                    <p class="captcha_desc" id="audio_desc">※ 음성 안내는 시작음 3회 반복 후 재생됩니다.</p>
+                                    <p class="audio_message" id="audio_guide">
+                                        스피커에서 들리는 내용을<br>
+                                        하단 입력영역에 <em class="accent">숫자</em>로 입력해주세요.
+                                    </p>
+                                    <div class="captcha_row">
+                                        <div class="captcha_input" id="sound_line">
+                                            <input type="text" id="chptcha" name="chptcha" placeholder="정답을 입력해주세요."
+                                               class="input_text">
+                                        </div>
+                                        <div class="btn_captcha">
+                                            <a href="#" id="play_audio" class="btn_refresh" role="button">
+                                                <span class="blind" id="play_audio_msg">새로고침</span>
+                                            </a>
+                                            <a href="#" id="captcha_icon" class="btn_picture" role="button">
+                                                <span class="blind" id="changeSound">음성으로 듣기</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="login_error" id="captcha_error_msg" style="display:none;">
+                                    <div class="cell" style="width:100%">
+                                        <div class="error_message" id="captcha_error_message">
+                                            자동입력 방지문자를 입력해 주세요!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="login_error" style="display:none;"
+                                 id="login_error_msg" >
+                                <div class="cell" style="width:100%">
+                                    <div class="error_message" id="error_message">
+                                            자동입력 방지문자를 입력해 주세요!
+                                    </div>
+                                </div>
+                                <div class="cell">
+                                    <a href="https://nca.naver.com/chat/account/view" id="l5f.chatbot"
+                                         style="display: none;"
+                                        target="_blank" class="chatbot">
+                                        <span class="blind">챗봇상담</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <script type="text/javascript" charset="utf-8"
+                                    src="https://rcaptcha.nid.naver.com/rcapt.js?key=bk5DjWtNwnTCBQ&svc=nid"></script>
+                            <button type="submit" class="btn_check" id="submit_btn">
+                                <!-- tg-text=btn-text -->
+                                <span class="text" id="login_btn">로그인</span>
+                            </button>
+                            <div class="login_stay" id="login_stay" style="display:none;">
+                                <input id="stay" name="nvlong"
+                                       type="checkbox"  value="on" checked  >
+                                <label for="stay" class="check_row">
+                                    <span class="check_text" id="staylogin">로그인 상태 유지</span>
+                                </label>
+                            </div>
+                            <div class="dividing_safe" id="passkey.divider">
+                                    <span class="text" id="safer">지문 · 얼굴 인증을 설정했다면</span>
+                                </div>
+                            <button type="button" class="btn_check white nlog-click" id="log.passkeylogin">
+                                <!-- tg-text=btn-text-passkey-login -->
+                                <span class="text" id="passkeyText_btn">패스키 로그인</span>
+                                <span class="blind" id="log.passkey.login.blind">패스키로그인 버튼</span>
+                            </button>
+                        </div>
+                    </form>
+                    <ul class="find_wrap" id="find_wrap_KR">
+                        <li><a target="_blank" id="pwinquiry"
+                               href="https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR"
+                               class="find_text">비밀번호 찾기</a></li>
+                        <li><a target="_blank" id="idinquiry"
+                               href="https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR"
+                               class="find_text">아이디 찾기</a></li>
+                        <li><a target="_blank" id="join"
+                               href="https://nid.naver.com/user2/V2Join?m=agree&lang=ko_KR&realname=N" class="find_text"><span
+                                        id="joinspan" class="accent">회원가입</span></a></li>
+                    </ul>
+                    <ul class="find_wrap" id="find_wrap">
+                        <li>
+                            <div class="find_text">Forgot <a target="_blank" id="pwinquiry2"
+                                                             href="https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=en_US"
+                                                             class="find_link">Password</a> or <a id="idinquiry2"
+                                                                                                  target="_blank"
+                                                                                                  href="https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=en_US"
+                                                                                                  class="find_link">ID</a>?
+                            </div>
+                        </li>
+                        <li><a target="_blank" id="join2"
+                               href="https://nid.naver.com/user2/V2Join?m=agree&lang=en_US&realname=N" class="find_text"><span
+                                        id="joinspan" class="accent">Sign up</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer" role="contentinfo">
+        <div class="footer_inner">
+            <ul class="footer_list">
+                <li><a href="https://nca.naver.com/chat/account/view" id="fot.smartbot" class="footer_item"><span id="footer_smartbot" class="footer_text">스마트봇 상담</span></a></li>
+                <li><a href="https://help.naver.com/service/5640/category/bookmark?lang=ko" id="fot.help" class="footer_item"><span id="foooter_help" class="footer_text">고객센터</span></a></li>
+            </ul>
+            <div class="footer_logo_area">
+                <a href="https://www.navercorp.com/" class="footer_item" id="fot.footlogo">
+                        <span class="footer_logo">
+                            <span class="blind">네이버</span>
+                        </span>
+                </a>
+            </div>
+        </div>
+    </footer>
+</div>
+<input type="hidden" id="session_keys" name="session_keys" value="6Ia8O6fZYtz9z20MYo78gW5t9vGNFiqD,100020686,9c239b4dafb1e3a62c499531316b3be540e71370cc23201d4c6a8d8997165bc3afaa86dbf81573c7a6731a9b70590af6ad89364baa0b32e97a7eb0161af2bd33e36235737528814c6e736faa53aff82ae0a40c423b9b8439ed77f5480017854e5a0e44f23a15c14b91d25638f821f94dcd174e9aec3cf81bccbbe983cc07d8dd,010001">
+<input type="hidden" id="nid_buk" name="nid_buk" value="">
+<input type="hidden" id="ncaptchaSplit" name="ncaptchaSplit" value="none">
+<input type="hidden" id="failUrl" name="failUrl" value="">
+<input type="hidden" id="nclicks_nsc" name="nclicks_nsc" value="Mnid.login_kr">
+<input type="hidden" id="id_error_msg" name="id_error_msg" value="<strong>아이디 또는 전화번호</strong>를 입력해 주세요.">
+<input type="hidden" id="pw_error_msg" name="pw_error_msg" value="<strong>비밀번호</strong>를 입력해 주세요.">
+<input type="hidden" id="changeToSound" name="pw_error_msg" value="음성으로 듣기">
+<input type="hidden" id="changeToPicture" name="changeToPicture" value="이미지로 보기">
+<script type="text/javascript" src="/passkey/js/passkeyApi.js?v=20250120"></script>
+<input type="hidden" id="wtm_ncaptcha_sitekey" name="wtm_ncaptcha_sitekey" value="6e3d93f4f845d053db08d51e2eb36ca3efe03fea21f21ee8d02e60ef10f6b73a15e951eccc1ef4b866ab3ce4">
+<script type="text/javascript" src="/login/js/v3/mobile/rcaptcha.js?v=20250225"></script>
+<script type="text/javascript" src="/login/js/imgOnError.js"></script>
+<script
+        type="text/javascript"
+        src="https://ncpt.naver.com/static/ncaptcha-api.js?ncaptcha-sitekey=6e3d93f4f845d053db08d51e2eb36ca3efe03fea21f21ee8d02e60ef10f6b73a15e951eccc1ef4b866ab3ce4"
+        ncaptcha-onload="initNcaptchaRcaptcha" async defer
+></script>
+<div id="nv_stat" style="display:none;">14</div>
+</body>
+</html>
+
+{'result': False}
+<requests.sessions.Session object at 0x000001AD37FEEDD0> True
+
+Successful creation of new session
+hereNew2NID_JST -> MkXR291NGnFhdSElmWSqw1Lz1JatRotdSJWZtsQfGmEqHVtdePWQnJgiF9w+/bU6qNdE8r2/QqQP6psKdfH2KWq8FZvjSE28g+KNjMOB0bsD1SnKmvmjE9gBc/ezDUTw6Uhe5ux4DwAaOfeXXlgbk7mgiTqbvgHn6rW5eDheigE=
+hereNew2JSESSIONID -> FAAA50C6F69F7DC8F16A5812DB2E4F33.jvm1
+
+New Session Cookies Saved:  {'NID_JST': 'MkXR291NGnFhdSElmWSqw1Lz1JatRotdSJWZtsQfGmEqHVtdePWQnJgiF9w+/bU6qNdE8r2/QqQP6psKdfH2KWq8FZvjSE28g+KNjMOB0bsD1SnKmvmjE9gBc/ezDUTw6Uhe5ux4DwAaOfeXXlgbk7mgiTqbvgHn6rW5eDheigE=', 'JSESSIONID': 'FAAA50C6F69F7DC8F16A5812DB2E4F33.jvm1'}
+Page loaded successfully
+블로그------>blogID MyBlog.naver
+cookies [{'domain': '.naver.com', 'expiry': 1742955711, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742955411'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'E4DE1ED048A58C8E64E43B24A7BB0B5D.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '/61leyLlNw6s8r+eB7FhEnFQ9GoL6RwPqtm1D4yviGg='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777515411, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'A-UZeU1Ogb8O8gZt_EVCEsqYwRM4XkAfTiP2G1cZlnQ='}, {'domain': '.naver.com', 'expiry': 1745482148, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1927875891'}, {'domain': '.naver.com', 'expiry': 1777515411, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'TXJAF2MSMTRGO'}, {'domain': '.naver.com', 'expiry': 1742957211, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742955411'}, {'domain': '.naver.com', 'expiry': 1745547410, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAAByaiiIJLLRHK5p5L+IK/vUNuGisqFef1/sQjf6o68PJdPo1uKfjTpCuqNT9tt3lENvUEwDChRnKy+00AIQZ/QBvR7dEQBTJ6ji8kMD28OufPMhSZ/kNUzLoQh3lGJcnY0lv4ocHvmkjaNsr3g5z7UfVXS93yHlxEFJRocag2MZTy/9grBPtLMbLR4MV3oHET9UHDlAPSi16nadvismo+b3MEhM+EUVTsybihLy/pD/8h2o6kW9EJx6SFxAjP+XC+YQXTEf+rQ4dPlvd9/k00RpRBPjjIaspeDIrcQE5Pjk4PwCUyWH3fBK75+GZxYWB9xPIpWUpupXiP/dzJMV8WxkTMeqaqY3XJ+qKF312XvCuI4SArkEkKfvs3go50I0ZTVCwDgHrROmNIGQDFkl6mqWlbXrLPt6S2YjGFavODw+CpX0lTaGkSHJ1MozvI38UbKqLCBSQFx//VW95AgSNEEDdXaIOvGd4LXU6bLwh/YQSvHlOtx1UqKVdQti8u5/n8Ta7pgUXthk2qO06F70feulpumWpkZGztV+CsfojWAQKwprJf7wg/ukltCgE194xaKwJRvKBAshdhoJwnbZZamV4W1D4Wiz4Dyx4+mOCtvAwnu'}, {'domain': '.naver.com', 'expiry': 1777450148, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '82ZSJ0n3KoDVg1yoTpCb296HXG/6I2NfifaI+G/ghCaQMuMSDxqTIcIVu7QGGFmW'}, {'domain': '.naver.com', 'expiry': 1742976531, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450131, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'hjdoBkgCGoeSA'}, {'domain': '.blog.naver.com', 'expiry': 1777450151, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '381193e6-5f12-4a19-9b29-758da380de62'}]
+SRT5 -> 1742955411
+JSESSIONID -> E4DE1ED048A58C8E64E43B24A7BB0B5D.jvm1
+NID_JKL -> /61leyLlNw6s8r+eB7FhEnFQ9GoL6RwPqtm1D4yviGg=
+stat_yn -> 1
+BUC -> A-UZeU1Ogb8O8gZt_EVCEsqYwRM4XkAfTiP2G1cZlnQ=
+nid_inf -> 1927875891
+NNB -> TXJAF2MSMTRGO
+SRT30 -> 1742955411
+NID_SES -> AAAByaiiIJLLRHK5p5L+IK/vUNuGisqFef1/sQjf6o68PJdPo1uKfjTpCuqNT9tt3lENvUEwDChRnKy+00AIQZ/QBvR7dEQBTJ6ji8kMD28OufPMhSZ/kNUzLoQh3lGJcnY0lv4ocHvmkjaNsr3g5z7UfVXS93yHlxEFJRocag2MZTy/9grBPtLMbLR4MV3oHET9UHDlAPSi16nadvismo+b3MEhM+EUVTsybihLy/pD/8h2o6kW9EJx6SFxAjP+XC+YQXTEf+rQ4dPlvd9/k00RpRBPjjIaspeDIrcQE5Pjk4PwCUyWH3fBK75+GZxYWB9xPIpWUpupXiP/dzJMV8WxkTMeqaqY3XJ+qKF312XvCuI4SArkEkKfvs3go50I0ZTVCwDgHrROmNIGQDFkl6mqWlbXrLPt6S2YjGFavODw+CpX0lTaGkSHJ1MozvI38UbKqLCBSQFx//VW95AgSNEEDdXaIOvGd4LXU6bLwh/YQSvHlOtx1UqKVdQti8u5/n8Ta7pgUXthk2qO06F70feulpumWpkZGztV+CsfojWAQKwprJf7wg/ukltCgE194xaKwJRvKBAshdhoJwnbZZamV4W1D4Wiz4Dyx4+mOCtvAwnu
+NID_AUT -> 82ZSJ0n3KoDVg1yoTpCb296HXG/6I2NfifaI+G/ghCaQMuMSDxqTIcIVu7QGGFmW
+NACT -> 1
+NAC -> hjdoBkgCGoeSA
+BA_DEVICE -> 381193e6-5f12-4a19-9b29-758da380de62
+쿠키 체크
+userNaverId soung440207
+handles :  ['293097B4FD34566A0517CE546E252FAD']
+스탑
+['C:\\Users\\i\\Desktop\\마케팅 자동프로그램\\네이버\\titled_image.png']
+baUserKey: dfc49599bf6258c9d386e254fee3214da2576f5a86f178b4a2c3905b58f17f3c
+
+{"isSuccess":true,"result":{"blogId":"dadoongphone","vid":null,"defaultEditorVersion":4,"writeFontOptions":{"fontType":1,"fontSize":15,"fontColor":"","lineSpace":180,"textAlign":0},"formView":{"categoryListFormView":{"defaultCategoryId":1,"categoryFormViewList":[{"categoryNo":1,"categoryName":"다둥이네 소식","parentCategoryNo":-1,"directorySeq":0,"challengeType":null,"open":true,"blockYn":false,"challengeCategory":false}]},"postConfiguration":{"openType":2,"commentYn":true,"sympathyYn":true,"scrapType":2,"searchYn":true,"outSideAllowYn":true,"twitterPostingYn":false,"facebookPostingYn":false,"commercialUsesYn":null,"contentsModification":null,"cclYn":false},"postFormMeta":{"logNo":null,"categoryId":null,"directorySeq":null,"directoryDetail":null,"mrBlogTalkCode":null,"postWriteTimeType":"now","tags":null,"themeSourceCode":0,"bookThemeInfoPk":null,"moviePanelParticipation":false,"greenReviewBannerYn":false,"continueSaved":false,"noticePostYn":false,"autoByCategoryYn":false,"postLocationSupportYn":false,"postLocationJson":null,"prePostDate":null,"thisDayPostInfo":null,"scrapYn":false},"editorSource":"aVg7KT0n8t6I/zxhhQvoxg==","skinInfo":{"contentWidth":966,"columnCount":1},"talkTalkInfo":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false}},"directoryGroups":"[{\"seq\":1,\"name\":\"엔터테인먼트·예술\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":5,\"name\":\"문학·책\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":1,\"alias\":\"book\",\"lcsAlias\":\"book\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":6,\"name\":\"영화\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":\"movie\",\"lcsAlias\":\"movie\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":8,\"name\":\"미술·디자인\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"art\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":7,\"name\":\"공연·전시\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"exhibition\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":11,\"name\":\"음악\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"music\",\"lcsAlias\":\"music\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":9,\"name\":\"드라마\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"drama\",\"lcsAlias\":\"drama\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":12,\"name\":\"스타·연예인\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"star\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":13,\"name\":\"만화·애니\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"comics\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":10,\"name\":\"방송\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"broadcasting\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":1}]},{\"seq\":2,\"name\":\"생활·노하우·쇼핑\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":14,\"name\":\"일상·생각\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"thought\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":15,\"name\":\"육아·결혼\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"baby\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":16,\"name\":\"반려동물\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"pet\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":17,\"name\":\"좋은글·이미지\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"image\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":18,\"name\":\"패션·미용\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"fashion\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":19,\"name\":\"인테리어·DIY\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"interior\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":20,\"name\":\"요리·레시피\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":4,\"alias\":\"recipe\",\"lcsAlias\":\"recipe\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":21,\"name\":\"상품리뷰\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"shop\",\"lcsAlias\":\"shop\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":36,\"name\":\"원예·재배\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"plant\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0}]},{\"seq\":3,\"name\":\"취미·여가·여행\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":22,\"name\":\"게임\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":5,\"alias\":\"game\",\"lcsAlias\":\"game\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":23,\"name\":\"스포츠\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"sports\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":24,\"name\":\"사진\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"photo\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":25,\"name\":\"자동차\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"car\",\"lcsAlias\":\"car\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":26,\"name\":\"취미\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"hobby\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":27,\"name\":\"국내여행\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"domestic\",\"lcsAlias\":\"domestic\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":28,\"name\":\"세계여행\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"overseas\",\"lcsAlias\":\"overseas\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":29,\"name\":\"맛집\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"food\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0}]},{\"seq\":4,\"name\":\"지식·동향\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":30,\"name\":\"IT·컴퓨터\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"it\",\"lcsAlias\":\"it\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":31,\"name\":\"사회·정치\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"politics\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":32,\"name\":\"건강·의학\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"health\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":33,\"name\":\"비즈니스·경제\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"economy\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":35,\"name\":\"어학·외국어\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"language\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":34,\"name\":\"교육·학문\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"education\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"leafYnAsInt\":1,\"mainYnAsInt\":0}]}]","isWrite":false,"isWriterBlogOwner":true,"hasModelTransformConflict":false,"isTargetUseBlogModule":false,"blogModuleUrl":"https://api-blog.blog.naver.com"}}
+editorSource: aVg7KT0n8t6I/zxhhQvoxg==
+
+{"isSuccess":true,"result":{"appCode":"blogpc001","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc0Mjk1OTAxNSwidXNlcklkIjoic291bmc0NDAyMDcifQ.o9wNPHP0RTXbbXoZQ7isIjYgdNs8Oy8niTp_bZ5aDm0","documentModel":null,"talktalk":{"talkTalkAccountList":null,"isLinked":false,"isJoin":false},"mrBlog":null,"initialFocusIndex":1,"skinInfo":{"contentWidth":966,"columnCount":1},"maxVideoUploadSize":8589934592,"maxVideoPlayTime":25200,"userInfo":{"nickName":"상동 다둥이네휴대폰"},"editorInfo":{"textInfo":{"fontFamily":"nanumgothic","fontSizeCode":"fs15","fontColor":"null","lineHeight":1.8,"align":"left","rightOrJustifyAlign":false}},"isWrite":null,"sellerNo":null,"isAiWriter":false}}
+------------------
+token_value eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc0Mjk1OTAxNSwidXNlcklkIjoic291bmc0NDAyMDcifQ.o9wNPHP0RTXbbXoZQ7isIjYgdNs8Oy8niTp_bZ5aDm0
+{"editorInfo":{"id":"01JQ83T2EFGB20F7G9BTRVS682","adobeExpressAvailable":true,"snsImageUploadLimitCount":50,"audioUploadLimitFileSize":104857600,"fileUploadLimitFileSize":10485760,"thumbnailType":{"small":"s2","normal":"w1","vr360":"preview966_544","panorama":"preview966_544"},"videoUploadLimitCount":10,"maxTagLength":120,"viewColumnCount":0,"imageUploadLimitCount":50,"defaultTheme":"default","useTooltip":true,"imageMinimumWidth":100,"fileUploadMaxCount":20,"videoMinimumHeight":300,"videoMinimumWidth":300,"maxCanvasWidth":"100%","buildProperty":"real","docType":"normal","imageMinimumHeight":50,"codeTextMaxLength":5000,"dthumbDomain":"https://dthumb-phinf.pstatic.net","useAutoSave":true,"useReservationMenu":true,"cloudMaxImageCount":50,"placesMapInfo":{"image-marker-selected-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-x2-20180830.png","image-marker-selected-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-20180920.png","image-dot-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-x2-20180830.png","image-dot-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-20180830.png","image-place4-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-20180920.png","image-place5-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-x2-20180920.png","image-place5-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-20180920.png","image-place2-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-x2-20180920.png","image-place1-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-x2-20180920.png","image-place3-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-20180920.png","image-place1-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-20180920.png","image-place2-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-20180920.png","image-place3-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-x2-20180920.png","image-place4-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-x2-20180920.png","image-marker-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-x2-20180920.png","image-marker-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-20180920.png"},"convertLimitSize":5000000,"maxSaveSkip":50},"userInfo":{"userId":"soung440207","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc0Mjk1OTAxNSwidXNlcklkIjoic291bmc0NDAyMDcifQ.o9wNPHP0RTXbbXoZQ7isIjYgdNs8Oy8niTp_bZ5aDm0"},"infraInfo":{"mapInfra":{"googleMapChannelId":"naver_blog","googleMapClientKey":"AIzaSyDKo6MfoC1plkhfaMG_fS87pSQjOUMlOhA"},"formulaEditor":{"popupUrl":"//presources.editor.naver.com/matheditor/index.html"},"photoInfra":{"imageHost":"https://blogfiles.pstatic.net","domain":"blog.upphoto.naver.com","upphotoServer":"ecommerce"},"videoInfra":{"serviceId":2},"nCloud":{"popupUrl":"//mybox.naver.com/selectFile.nhn","callbackPageUrl":"https://blog.naver.com/upload/RabbitNDriveUploadCallback.naver"}},"apiInfo":{"fetchPhotoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/photo-uploader/session-key","fetchVideoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/session-url","fetchVideoUploaderToken":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/token","fetchAudioUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/audio-uploader/session-key","fetchCoordByIp":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/coordinate","fetchLocationOfImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/exif/locations","fetchDomesticCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/location/kr","fetchDomesticBulkCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/locations/kr","fetchNaverStaticMap":"https://platform.editor.naver.com/api/blogpc001/v2/map/naver/staticmap","fetchGoogleStaticMap":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/staticmap","fetchTopicKeyword":"https://platform.editor.naver.com/api/blogpc001/v1/topics","fetchWordCount":"https://platform.editor.naver.com/api/blogpc001/v1/word-count","fetchMultiCrawler":"https://platform.editor.naver.com/api/blogpc001/v1/oglink","fetchInfraPopupToken":"https://platform.editor.naver.com/api/blogpc001/v1/token/infra-popup","fetchFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchNaverGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/addresses","fetchErratas":"https://platform.editor.naver.com/api/blogpc001/v2/speller/erratas","fetchGoogleNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/nearby/locations","fetchNaverNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGoogleAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/place/ac","fetchNaverAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/place/ac","fetchGoogleGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/geocode","fetchFavoriteFilters":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchBookBestSellers":"https://platform.editor.naver.com/api/blogpc001/v1/material/books/best-seller","fetchBooks":"https://platform.editor.naver.com/api/blogpc001/v1/material/books","fetchBoxOfficeMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies/box-office","fetchMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies","fetchRecommandedBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast/recommend","fetchBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast","fetchRecommandedShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show/recommend","fetchShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show","fetchNewMusic":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics/new","fetchMusics":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics","fetchShoppingItems":"https://platform.editor.naver.com/api/blogpc001/v1/material/shopping/items","fetchPopularNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/popular","fetchRecommendedTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel/popular","fetchTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel","fetchNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news","fetchImages":"https://platform.editor.naver.com/api/blogpc001/v1/images","fetchRecommendedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/recommend","fetchStickers":"https://platform.editor.naver.com/api/blogpc001/v1/stickers","fetchNewsDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/detail","fetchNaverPlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGooglePlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/text/locations","deleteFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","updateFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchAuthorizedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/storep/right-url","fetchPurchasedImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/purchased","updateStickerUseFlag":"https://platform.editor.naver.com/api/blogpc001/v1/stickers/validation","fetchCalculatedResult":"https://platform.editor.naver.com/api/blogpc001/v1/calculation","fetchTranslate":"https://platform.editor.naver.com/api/blogpc001/v1/translate","fetchMoments":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchClips":"https://platform.editor.naver.com/api/blogpc001/v1/moments","addNCloudFile":"//blog.naver.com/RabbitNDriveFileUpload.naver","streamIntro":"https://ax.editor.naver.com/api/blogpc001/prompts/intro/v1","fetchMyTemplates":"//blog.naver.com/RabbitTemplateList.naver","fetchPartialTemplates":"//blog.naver.com/PartTemplateList.naver","streamOutro":"https://ax.editor.naver.com/api/blogpc001/prompts/outro/v1","fetchMyTemplate":"//blog.naver.com/RabbitTemplateRead.naver","fetchSearch":"https://ax.editor.naver.com/api/blogpc001/persona/_search/v1","fetchRecommendedTemplate":"//blog.naver.com/RecommendTemplateRead.naver","streamTitle":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/title/v1","fetchConvertedDocument":"//upconvert.editor.naver.com/v2/convert/blog","deleteMyTemplate":"//blog.naver.com/RabbitTemplateDelete.naver","streamArticle":"https://ax.editor.naver.com/api/blogpc001/prompts/article/v1","streamContinue":"https://ax.editor.naver.com/api/blogpc001/writer/_continue/v1","addMyTemplate":"//blog.naver.com/RabbitTemplateWrite.naver","fetchAuthToken":"//blog.naver.com/RabbitTokenGenerate.naver","fetchOutline":"https://ax.editor.naver.com/api/blogpc001/prompts/outline/v1","streamTags":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/tags/v1","streamExpand":"https://ax.editor.naver.com/api/blogpc001/writer/_expand/v1","fetchConvertedHtml":"//upconvert.editor.naver.com/blog/html/components","fetchFilter":"https://ax.editor.naver.com/api/blogpc001/tool/aifilter/v1","streamSummarize":"https://ax.editor.naver.com/api/blogpc001/writer/_summarize/v1","streamRewrite":"https://ax.editor.naver.com/api/blogpc001/writer/_rewrite/v1","addNCloudVideo":"//blog.naver.com/RabbitNDriveVideoUpload.naver","addFile":"https://platform.editor.naver.com/api/blogpc001/v1/upload/file","fetchRecommendedTemplates":"//blog.naver.com/RecommendTemplateList.naver"},"serviceInfo":{"appCode":"blogpc001","isInHouse":true}}
+<Response [200]>
+9090909090909090
+
+{"isSuccess":true,"result":{"autoSaveNo":1742955416079}}
+9090909090909090
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'int'>
+현재 타임스탬프(ms): 1742955429604
+{"result_code":1,"result_data":{"message":"success"}}
+도움말x
+NAVER
+blog
+
+저장
+0
+발행
+
+사진
+
+
+MYBOX
+
+
+동영상
+
+
+스티커
+
+
+
+인용구 선택
+
+인용구
+
+
+구분선 선택
+
+구분선
+
+장소
+
+
+링크
+
+
+파일
+
+
+일정
+
+
+소스코드
+
+
+표
+
+
+수식
+
+
+내돈내산
+
+
+
+내 클립
+
+
+글감
+
+
+라이브러리
+
+
+템플릿
+
+본문
+
+나눔고딕
+
+15
+
+
+
+굵게
+
+
+기울이기
+
+
+밑줄
+
+
+취소선
+
+
+
+
+글자색
+
+
+
+
+배경색
+
+
+
+정렬
+
+
+줄간격
+
+
+목록
+
+
+
+머리글자
+
+
+위첨자
+
+
+아래첨자
+
+
+특수문자
+
+
+링크
+
+
+
+번역
+
+
+
+맞춤법
+
+
+
+{title_blog}
+
+
+
+
+
+
+
+
+내용
+이미지
+끝
+
+
+
+추가할 컴포넌트를 선택하세요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+handles :  ['92DA80CDCB57168524D6A389A3F0637B', '0F57EED533AEF25810EEC2B193ADF023']
+스탑
+스탑
+11시 17분 59초
+timeclock 1.0
+asdf 60
+동작중 0
+timeclock 1.0
+asdf 60
+동작중 1
+timeclock 1.0
+asdf 60
+동작중 2
+timeclock 1.0
+asdf 60
+동작중 3
+timeclock 1.0
+asdf 60
+동작중 4
+timeclock 1.0
+asdf 60
+동작중 5
+timeclock 1.0
+asdf 60
+동작중 6
+timeclock 1.0
+asdf 60
+동작중 7
+timeclock 1.0
+asdf 60
+동작중 8
+timeclock 1.0
+asdf 60
+동작중 9
+timeclock 1.0
+asdf 60
+동작중 10
+timeclock 1.0
+asdf 60
+동작중 11
+timeclock 1.0
+asdf 60
+동작중 12
+timeclock 1.0
+asdf 60
+동작중 13
+timeclock 1.0
+asdf 60
+동작중 14
+timeclock 1.0
+asdf 60
+동작중 15
+timeclock 1.0
+asdf 60
+동작중 16
+timeclock 1.0
+asdf 60
+동작중 17
+timeclock 1.0
+asdf 60
+동작중 18
+timeclock 1.0
+asdf 60
+동작중 19
+timeclock 1.0
+asdf 60
+동작중 20
+timeclock 1.0
+asdf 60
+동작중 21
+timeclock 1.0
+asdf 60
+동작중 22
+timeclock 1.0
+asdf 60
+동작중 23
+timeclock 1.0
+asdf 60
+동작중 24
+timeclock 1.0
+asdf 60
+동작중 25
+timeclock 1.0
+asdf 60
+동작중 26
+timeclock 1.0
+asdf 60
+동작중 27
+timeclock 1.0
+asdf 60
+동작중 28
+timeclock 1.0
+asdf 60
+동작중 29
+timeclock 1.0
+asdf 60
+동작중 30
+timeclock 1.0
+asdf 60
+동작중 31
+timeclock 1.0
+asdf 60
+동작중 32
+timeclock 1.0
+asdf 60
+동작중 33
+timeclock 1.0
+asdf 60
+동작중 34
+timeclock 1.0
+asdf 60
+동작중 35
+timeclock 1.0
+asdf 60
+동작중 36
+timeclock 1.0
+asdf 60
+동작중 37
+timeclock 1.0
+asdf 60
+동작중 38
+timeclock 1.0
+asdf 60
+동작중 39
+timeclock 1.0
+asdf 60
+동작중 40
+timeclock 1.0
+asdf 60
+동작중 41
+timeclock 1.0
+asdf 60
+동작중 42
+timeclock 1.0
+asdf 60
+동작중 43
+timeclock 1.0
+asdf 60
+동작중 44
+timeclock 1.0
+asdf 60
+동작중 45
+timeclock 1.0
+asdf 60
+동작중 46
+timeclock 1.0
+asdf 60
+동작중 47
+timeclock 1.0
+asdf 60
+동작중 48
+timeclock 1.0
+asdf 60
+동작중 49
+timeclock 1.0
+asdf 60
+동작중 50
+timeclock 1.0
+asdf 60
+동작중 51
+timeclock 1.0
+asdf 60
+동작중 52
+timeclock 1.0
+asdf 60
+동작중 53
+timeclock 1.0
+asdf 60
+동작중 54
+timeclock 1.0
+asdf 60
+동작중 55
+timeclock 1.0
+asdf 60
+동작중 56
+timeclock 1.0
+asdf 60
+동작중 57
+timeclock 1.0
+asdf 60
+동작중 58
+timeclock 1.0
+asdf 60
+동작중 59
+timeclock 1.0
+asdf 60
+동작중 60
+timeclock 1.0
+asdf 60
+동작중 61
+timeclock 1.0
+asdf 60
+동작중 62
+timeclock 1.0
+asdf 60
+동작중 63
+timeclock 1.0
+asdf 60
+동작중 64
+timeclock 1.0
+asdf 60
+동작중 65
+timeclock 1.0
+asdf 60
+동작중 66
+timeclock 1.0
+asdf 60
+동작중 67
+timeclock 1.0
+asdf 60
+동작중 68
+timeclock 1.0
+asdf 60
+동작중 69
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+['https://plus.unsplash.com/premium_photo-1729015990423-7f3b14f960eb?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://images.unsplash.com/photo-1609921205586-7e8a57516512?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://images.unsplash.com/photo-1599950753725-ea5d8aba0d29?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://images.unsplash.com/photo-1566997560041-002fd549180b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1571597438372-540dd352bf41?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1545577407-a2c3fe8c9c80?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1599202860130-f600f4948364?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://images.unsplash.com/photo-1616410011236-7a42121dd981?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://plus.unsplash.com/premium_photo-1731622035357-6132fc3cb9b6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://plus.unsplash.com/premium_photo-1728488389835-2f9568c5d76a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1543503430-9bb747e6b206?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1518991043280-1da61d9f3ac5?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1599202875854-23b7cd490ff4?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1599202889720-cd3c0833efa1?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://plus.unsplash.com/premium_photo-1727976411425-0f6c0defce1e?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://images.unsplash.com/photo-1599950755346-a3e58f84ca63?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8JUVCJUI2JTgwJUVDJUIyJTlDJTIwJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTYlMjAlRUQlOEElQjklRUElQjAlODAlRUQlOTUlQTAlRUMlOUQlQjh8ZW58MHx8MHx8fDA%3D', 'https://images.unsplash.com/photo-1600209142000-aa256622e64a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1598708521413-feaa4e69c01b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://plus.unsplash.com/premium_photo-1728619974181-d999b968e60f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww', 'https://images.unsplash.com/photo-1506025883753-c77a55138eae?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fCVFQiVCNiU4MCVFQyVCMiU5QyUyMCVFQyU5NSU4NCVFQyU5RCVCNCVFRCU4RiVCMDE2JTIwJUVEJThBJUI5JUVBJUIwJTgwJUVEJTk1JUEwJUVDJTlEJUI4fGVufDB8fDB8fHww']
+0000000000000000000-
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer3
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 아이폰16 특가할인의 유혹, 현실은?
+returnbuffer 부천 아이폰16 특가할인의 유혹, 현실은?
+buffer3_h2 부천 아이폰16 특가할인의 유혹, 현실은?
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 아폰16
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 아폰16
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2><u>아이폰16 특가 할인의 유혹</u></h2>\n\n<p><b>부천 아이폰16 특가 할인</b>이 유혹적으로 다가오지만, 현실은 어떨까요? 일부 구매자들이 저렴한 가격에 매료되어 쉽게 구매를 결정할 수 있지만, 실제로는 다양한 요소를 신중히 고려해야 합니다.</p>\n\n<ol>\n  <li><u>품질 문제</u>: 특가 상품은 불량품일 가능성이 있으니 주의가 필요합니다.</li>\n  <li><u>애플 공식 보증</u>: 할인 상품이 아니라 애플 공식 보증 제품인지 확인이 중요합니다.</li>\n  <li><u>서비스 기간</u>: 공짜가 아닌 서비스 기간이 어떻게 되는지도 확인이 필요합니다.</li>\n</ol> \n\n<table border=\'1\' style="text-align:center">\n  <tr>\n    <th style="background-color: lightblue; text-align:center">구매 요소</th>\n    <th style="background-color: lightblue; text-align:center">유의 사항</th>\n  </tr>\n  <tr>\n    <td style="text-align:center">가격</td>\n    <td style="text-align:center">높은 할인율에 유의하며 비교 분석이 필요</td>\n  </tr>\n  <tr>\n    <td style="text-align:center">품질</td>\n    <td style="text-align:center">정품인지 확인하고 불량 여부 점검</td>\n  </tr>\n  <tr>\n    <td style="text-align:center">보증</td>\n    <td style="text-align:center">애플 공식 보증 여부 파악</td>\n  </tr>\n</table>부천 아이폰16의 특가 할인은 매혹적으로 보일 수 있지만, 실제로는 반드시 조심해야 합니다. 특히 저렴한 가격에 유혹받아 중고 제품을 사게 된다면, 나중에 수리나 교환을 해야할 수도 있습니다. 이는 결국 추가 비용이 발생할 수 있음을 의미합니다.\n\n<u>또한,</u> 할인된 아이폰이 정품이 아닐 가능성도 있습니다. 이는 사용자에게 피해를 줄 수 있으며, 보장이나 A/S 서비스를 받기 어려울 수 있습니다. \n\n<u>그러므로,</u> 아이폰16의 특가 할인에 유혹받지 말고, 신중하게 결정하는 것이 중요합니다. 정품을 구매하고 안전한 A/S 서비스를 받기 위해서는 신뢰할 수 있는 곳에서 구매하는 것이 가장 좋습니다. \n\n<u>요약하면,</u>\n<ol>\n<li>부천 아이폰16의 특가 할인은 유혹적이지만 조심해야 함</li>\n<li>중고 제품 구매시 수리나 교환 비용 추가 발생 가능성 있음</li>\n<li>할인된 제품이 정품이 아닐 수 있음, 피해 발생 가능성도 있음</li>\n<li>신뢰할 수 있는 곳에서 구매하여 안전한 서비스 받는 것이 중요</li>\n</ol>'}
+buffer3 <h2><u>아이폰16 특가 할인의 유혹</u></h2>
+
+<p><b>부천 아이폰16 특가 할인</b>이 유혹적으로 다가오지만, 현실은 어떨까요? 일부 구매자들이 저렴한 가격에 매료되어 쉽게 구매를 결정할 수 있지만, 실제로는 다양한 요소를 신중히 고려해야 합니다.</p>
+
+<ol>
+ <li><u>품질 문제</u>: 특가 상품은 불량품일 가능성이 있으니 주의가 필요합니다.</li>
+ <li><u>애플 공식 보증</u>: 할인 상품이 아니라 애플 공식 보증 제품인지 확인이 중요합니다.</li>
+ <li><u>서비스 기간</u>: 공짜가 아닌 서비스 기간이 어떻게 되는지도 확인이 필요합니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>구매 요소</th>
+ <th style=background-color: lightblue; text-align:center>유의 사항</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>가격</td>
+ <td style=text-align:center>높은 할인율에 유의하며 비교 분석이 필요</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>품질</td>
+ <td style=text-align:center>정품인지 확인하고 불량 여부 점검</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>보증</td>
+ <td style=text-align:center>애플 공식 보증 여부 파악</td>
+ </tr>
+</table>부천 아이폰16의 특가 할인은 매혹적으로 보일 수 있지만, 실제로는 반드시 조심해야 합니다. 특히 저렴한 가격에 유혹받아 중고 제품을 사게 된다면, 나중에 수리나 교환을 해야할 수도 있습니다. 이는 결국 추가 비용이 발생할 수 있음을 의미합니다.
+
+<u>또한,</u> 할인된 아이폰이 정품이 아닐 가능성도 있습니다. 이는 사용자에게 피해를 줄 수 있으며, 보장이나 A/S 서비스를 받기 어려울 수 있습니다. 
+
+<u>그러므로,</u> 아이폰16의 특가 할인에 유혹받지 말고, 신중하게 결정하는 것이 중요합니다. 정품을 구매하고 안전한 A/S 서비스를 받기 위해서는 신뢰할 수 있는 곳에서 구매하는 것이 가장 좋습니다. 
+
+<u>요약하면,</u>
+<ol>
+<li>부천 아이폰16의 특가 할인은 유혹적이지만 조심해야 함</li>
+<li>중고 제품 구매시 수리나 교환 비용 추가 발생 가능성 있음</li>
+<li>할인된 제품이 정품이 아닐 수 있음, 피해 발생 가능성도 있음</li>
+<li>신뢰할 수 있는 곳에서 구매하여 안전한 서비스 받는 것이 중요</li>
+</ol>
+change************************html-buffer3
+<h2><u>아이폰16 특가 할인의 유혹</u></h2>
+
+<p><b>부천 아이폰16 특가 할인</b>이 유혹적으로 다가오지만, 현실은 어떨까요? 일부 구매자들이 저렴한 가격에 매료되어 쉽게 구매를 결정할 수 있지만, 실제로는 다양한 요소를 신중히 고려해야 합니다.</p>
+
+<ol>
+ <li><u>품질 문제</u>: 특가 상품은 불량품일 가능성이 있으니 주의가 필요합니다.</li>
+ <li><u>애플 공식 보증</u>: 할인 상품이 아니라 애플 공식 보증 제품인지 확인이 중요합니다.</li>
+ <li><u>서비스 기간</u>: 공짜가 아닌 서비스 기간이 어떻게 되는지도 확인이 필요합니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>구매 요소</th>
+ <th style=background-color: lightblue; text-align:center>유의 사항</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>가격</td>
+ <td style=text-align:center>높은 할인율에 유의하며 비교 분석이 필요</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>품질</td>
+ <td style=text-align:center>정품인지 확인하고 불량 여부 점검</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>보증</td>
+ <td style=text-align:center>애플 공식 보증 여부 파악</td>
+ </tr>
+</table>부천 아이폰16의 특가 할인은 매혹적으로 보일 수 있지만, 실제로는 반드시 조심해야 합니다. 특히 저렴한 가격에 유혹받아 중고 제품을 사게 됩니다면, 나중에 수리나 교환을 해야할 수도 있습니다. 이는 결국 추가 비용이 발생할 수 있음을 의미합니다.
+
+<u>또한,</u> 할인된 아이폰이 정품이 아닐 가능성도 있습니다. 이는 사용자에게 피해를 줄 수 있으며, 보장이나 A/S 서비스를 받기 어려울 수 있습니다. 
+
+<u>그러므로,</u> 아이폰16의 특가 할인에 유혹받지 말고, 신중하게 결정하는 것이 중요합니다. 정품을 구매하고 안전한 A/S 서비스를 받기 위해서는 신뢰할 수 있는 곳에서 구매하는 것이 가장 좋습니다. 
+
+<u>요약하면,</u>
+<ol>
+<li>부천 아이폰16의 특가 할인은 유혹적이지만 조심해야 함</li>
+<li>중고 제품 구매시 수리나 교환 비용 추가 발생 가능성 있음</li>
+<li>할인된 제품이 정품이 아닐 수 있음, 피해 발생 가능성도 있음</li>
+<li>신뢰할 수 있는 곳에서 구매하여 안전한 서비스 받는 것이 중요</li>
+</ol>
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer4
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 아이폰16 특가할인의 유혹과 함정
+returnbuffer 부천 아이폰16 특가할인의 유혹과 함정
+buffer4_h2 부천 아이폰16 특가할인의 유혹과 함정
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 아폰16
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 아폰16
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>부천 아이폰16 특가할인의 유혹</h2>\n\n부천에서 아이폰16을 특별가로 구매할 수 있는 유혹적인 상품들이 있다. 이 특가할인은 소비자들을 유혹하지만, 실제로는 함정일 수 있다. 부천 아이폰16 특가할인에 대한 유혹을 조심하는 것이 중요하다. \n\n<u>부천 아이폰16 특가할인의 유혹과 함정:</u>\n<ol>\n  <li>가격 비교를 통한 현명한 구매 결정</li>\n  <li>할인 조건 및 기간을 주의 깊게 살피기</li>\n  <li>사전 조사와 정보 수집의 중요성</li>\n</ol>\n\n<table border=\'1\' style="text-align:center">\n  <tr>\n    <th style="background-color: lightblue; text-align:center">제목</th>\n    <th style="background-color: lightblue; text-align:center">내용</th>\n  </tr>\n  <tr>\n    <td style="text-align:center"><b>할인 조건</b></td>\n    <td style="text-align:center">할인된 가격 대비 제품 상태 및 보증 내용 확인</td>\n  </tr>\n  <tr>\n    <td style="text-align:center"><b>기간 제한</b></td>\n    <td style="text-align:center">할인 기간 내에 구매를 결정해야 하는 점 유의</td>\n  </tr>\n</table>부천 아이폰16 특가할인의 유혹과 함정에 대해 더 자세히 살펴보겠습니다. 이러한 할인 행사들은 소비자들을 유혹하고, 물불 안 가게 만들 수 있습니다. 그러나 우리는 항상 논리적으로 생각하고 신중하게 결정해야 합니다.\n\n<u>할인</u>은 소비자들이 많은 돈을 절약할 수 있는 매력적인 요소입니다. 하지만 <u>유혹</u>은 종종 사람들이 현명한 판단력을 상실하게 만들며, 그것이 함정이 될 수 있습니다. <u>부천 아이폰16</u>도 이러한 유혹에 속해 있습니다.\n\n이를 피하기 위해 우리는 할인 행사나 특가 상품을 보고도 급박하지 않고 신중하게 고려해야 합니다. 자신이 정말 필요로 하는 제품인지, 할인된 가격이 정말 좋은 가격인지를 곰곰히 생각해 보아야 합니다.\n\n<ol>\n  <li>할인은 유혹으로 이어질 수 있다.</li>\n  <li>필요한 제품인지 신중하게 고려해야 한다.</li>\n  <li>할인된 가격이 정말 좋은 건지 판단해야 한다.</li>\n</ol>'}
+buffer4 <h2>부천 아이폰16 특가할인의 유혹</h2>
+
+부천에서 아이폰16을 특별가로 구매할 수 있는 유혹적인 상품들이 있다. 이 특가할인은 소비자들을 유혹하지만, 실제로는 함정일 수 있다. 부천 아이폰16 특가할인에 대한 유혹을 조심하는 것이 중요하다. 
+
+<u>부천 아이폰16 특가할인의 유혹과 함정:</u>
+<ol>
+ <li>가격 비교를 통한 현명한 구매 결정</li>
+ <li>할인 조건 및 기간을 주의 깊게 살피기</li>
+ <li>사전 조사와 정보 수집의 중요성</li>
+</ol>
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>제목</th>
+ <th style=background-color: lightblue; text-align:center>내용</th>
+ </tr>
+ <tr>
+ <td style=text-align:center><b>할인 조건</b></td>
+ <td style=text-align:center>할인된 가격 대비 제품 상태 및 보증 내용 확인</td>
+ </tr>
+ <tr>
+ <td style=text-align:center><b>기간 제한</b></td>
+ <td style=text-align:center>할인 기간 내에 구매를 결정해야 하는 점 유의</td>
+ </tr>
+</table>부천 아이폰16 특가할인의 유혹과 함정에 대해 더 자세히 살펴보겠습니다. 이러한 할인 행사들은 소비자들을 유혹하고, 물불 안 가게 만들 수 있습니다. 그러나 우리는 항상 논리적으로 생각하고 신중하게 결정해야 합니다.
+
+<u>할인</u>은 소비자들이 많은 돈을 절약할 수 있는 매력적인 요소입니다. 하지만 <u>유혹</u>은 종종 사람들이 현명한 판단력을 상실하게 만들며, 그것이 함정이 될 수 있습니다. <u>부천 아이폰16</u>도 이러한 유혹에 속해 있습니다.
+
+이를 피하기 위해 우리는 할인 행사나 특가 상품을 보고도 급박하지 않고 신중하게 고려해야 합니다. 자신이 정말 필요로 하는 제품인지, 할인된 가격이 정말 좋은 가격인지를 곰곰히 생각해 보아야 합니다.
+
+<ol>
+ <li>할인은 유혹으로 이어질 수 있다.</li>
+ <li>필요한 제품인지 신중하게 고려해야 한다.</li>
+ <li>할인된 가격이 정말 좋은 건지 판단해야 한다.</li>
+</ol>
+change************************html-buffer4
+<h2>부천 아이폰16 특가할인의 유혹</h2>
+
+부천에서 아이폰16을 특별가로 구매할 수 있는 유혹적인 상품들이 있습니다. 이 특가할인은 소비자들을 유혹하지만, 실제로는 함정일 수 있습니다. 부천 아이폰16 특가할인에 대한 유혹을 조심하는 것이 중요하다. 
+
+<u>부천 아이폰16 특가할인의 유혹과 함정:</u>
+<ol>
+ <li>가격 비교를 통한 현명한 구매 결정</li>
+ <li>할인 조건 및 기간을 주의 깊게 살피기</li>
+ <li>사전 조사와 정보 수집의 중요성</li>
+</ol>
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>제목</th>
+ <th style=background-color: lightblue; text-align:center>내용</th>
+ </tr>
+ <tr>
+ <td style=text-align:center><b>할인 조건</b></td>
+ <td style=text-align:center>할인된 가격 대비 제품 상태 및 보증 내용 확인</td>
+ </tr>
+ <tr>
+ <td style=text-align:center><b>기간 제한</b></td>
+ <td style=text-align:center>할인 기간 내에 구매를 결정해야 하는 점 유의</td>
+ </tr>
+</table>부천 아이폰16 특가할인의 유혹과 함정에 대해 더 자세히 살펴보겠습니다. 이러한 할인 행사들은 소비자들을 유혹하고, 물불 안 가게 만들 수 있습니다. 그러나 우리는 항상 논리적으로 생각하고 신중하게 결정해야 합니다.
+
+<u>할인</u>은 소비자들이 많은 돈을 절약할 수 있는 매력적인 요소입니다. 하지만 <u>유혹</u>은 종종 사람들이 현명한 판단력을 상실하게 만들며, 그것이 함정이 될 수 있습니다. <u>부천 아이폰16</u>도 이러한 유혹에 속해 있습니다.
+
+이를 피하기 위해 우리는 할인 행사나 특가 상품을 보고도 급박하지 않고 신중하게 고려해야 합니다. 자신이 정말 필요로 하는 제품인지, 할인된 가격이 정말 좋은 가격인지를 곰곰히 생각해 보아야 합니다.
+
+<ol>
+ <li>할인은 유혹으로 이어질 수 있습니다.</li>
+ <li>필요한 제품인지 신중하게 고려해야 합니다.</li>
+ <li>할인된 가격이 정말 좋은 건지 판단해야 합니다.</li>
+</ol>
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer5
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 아이폰16 특가할인의 유혹과 함정
+returnbuffer 부천 아이폰16 특가할인의 유혹과 함정
+buffer5_h2 부천 아이폰16 특가할인의 유혹과 함정
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 아폰16
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 아폰16
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>아이폰 특가로 인한 유혹과 함정</h2>\n<u>부천 아이폰16 특가할인의 유혹과 함정</u>은 많은 사람들에게 유혹을 주고 있습니다. 이 유혹을 잘 파악하고 함정에 빠지지 않도록 주의해야 합니다.\n\n<ol>\n  <li><b>가격 유혹:</b> 아이폰16이 특가로 판매되어서 구매 유혹이 높아집니다.</li>\n  <li><b>성능 함정:</b> 저렴한 가격으로 구매하더라도 성능이 낮아 실제로는 효과적이지 않을 수 있습니다.</li>\n  <li><b>사은품 유혹:</b> 특가 할인과 함께 사은품이 제공되어 더욱 유혹적일 수 있습니다.</li>\n</ol> \n\n<table border=\'1\' style="text-align:center">\n  <tr>\n    <th style="background-color: lightblue; text-align:center">유혹</th>\n    <th style="background-color: lightblue; text-align:center">해결 방안</th>\n  </tr>\n  <tr>\n    <td style="text-align:center">가격</td>\n    <td style="text-align:center">실제 필요한 기능과 비교해보고 구매 결정하기</td>\n  </tr>\n  <tr>\n    <td style="text-align:center">성능</td>\n    <td style="text-align:center">성능과 함께 가격 대비 효율적인 제품 선택하기</td>\n  </tr>\n  <tr>\n    <td style="text-align:center">사은품</td>\n    <td style="text-align:center">가치 있는 사은품인지 신중하게 판단하기</td>\n  </tr>\n</table>죄송합니다. 이 작업은 수행할 수 없습니다.'}
+buffer5 <h2>아이폰 특가로 인한 유혹과 함정</h2>
+<u>부천 아이폰16 특가할인의 유혹과 함정</u>은 많은 사람들에게 유혹을 주고 있습니다. 이 유혹을 잘 파악하고 함정에 빠지지 않도록 주의해야 합니다.
+
+<ol>
+ <li><b>가격 유혹:</b> 아이폰16이 특가로 판매되어서 구매 유혹이 높아집니다.</li>
+ <li><b>성능 함정:</b> 저렴한 가격으로 구매하더라도 성능이 낮아 실제로는 효과적이지 않을 수 있습니다.</li>
+ <li><b>사은품 유혹:</b> 특가 할인과 함께 사은품이 제공되어 더욱 유혹적일 수 있습니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>유혹</th>
+ <th style=background-color: lightblue; text-align:center>해결 방안</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>가격</td>
+ <td style=text-align:center>실제 필요한 기능과 비교해보고 구매 결정하기</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>성능</td>
+ <td style=text-align:center>성능과 함께 가격 대비 효율적인 제품 선택하기</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>사은품</td>
+ <td style=text-align:center>가치 있는 사은품인지 신중하게 판단하기</td>
+ </tr>
+</table>죄송합니다. 이 작업은 수행할 수 없습니다.
+change************************html-buffer5
+<h2>아이폰 특가로 인한 유혹과 함정</h2>
+<u>부천 아이폰16 특가할인의 유혹과 함정</u>은 많은 사람들에게 유혹을 주고 있습니다. 이 유혹을 잘 파악하고 함정에 빠지지 않도록 주의해야 합니다.
+
+<ol>
+ <li><b>가격 유혹:</b> 아이폰16이 특가로 판매되어서 구매 유혹이 높아집니다.</li>
+ <li><b>성능 함정:</b> 저렴한 가격으로 구매하더라도 성능이 낮아 실제로는 효과적이지 않을 수 있습니다.</li>
+ <li><b>사은품 유혹:</b> 특가 할인과 함께 사은품이 제공되어 더욱 유혹적일 수 있습니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>유혹</th>
+ <th style=background-color: lightblue; text-align:center>해결 방안</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>가격</td>
+ <td style=text-align:center>실제 필요한 기능과 비교해보고 구매 결정하기</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>성능</td>
+ <td style=text-align:center>성능과 함께 가격 대비 효율적인 제품 선택하기</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>사은품</td>
+ <td style=text-align:center>가치 있는 사은품인지 신중하게 판단하기</td>
+ </tr>
+</table>죄송합니다. 이 작업은 수행할 수 없습니다.
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+부천 아이폰16 특가할인의 유혹과 함정
+returnbuffer 부천 아이폰16 특가할인의 유혹과 함정
+buffer6_h2 부천 아이폰16 특가할인의 유혹과 함정
+<class 'str'>
+GPT안에서  
+realkey 부천
+realkey2 아폰16
+realkey3 특할인
+realkey4 부천
+must_excel_1 부천
+must_excel_2 아폰16
+must_excel_3 특할인
+must_excel_4 부천
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+<Response [200]>
+{'result': '<h2>아이폰16 특가할인의 유혹</h2>\n\n<u>아이폰16</u>의 <u>특가할인</u>으로 인해 유혹 받을 수 있지만, 조심해야 합니다. 저렴한 가격에 매혹되어 품질이나 서비스를 간과하게 될 수 있습니다.\n\n<ol>\n  <li>특가할인은 유혹의 함정일 수 있습니다.</li>\n  <li>저렴한 가격에도 품질과 서비스를 놓치지 말아야 합니다.</li>\n  <li>구매 전 충분한 조사를 통해 신중한 결정이 필요합니다.</li>\n</ol> \n\n<table border=\'1\' style="text-align:center">\n  <tr>\n    <th style="background-color: lightblue; text-align:center">아이폰 모델</th>\n    <th style="background-color: lightblue; text-align:center">할인 가격</th>\n    <th style="background-color: lightblue; text-align:center">품질</th>\n    <th style="background-color: lightblue; text-align:center">서비스</th>\n  </tr>\n  <tr>\n    <td style="text-align:center">아이폰16</td>\n    <td style="text-align:center">저렴한 가격</td>\n    <td style="text-align:center">유형</td>\n    <td style="text-align:center">매력적인 특가할인</td>\n  </tr>\n</table>제품의 성능과 가격을 고려할 때, <u>부천 아이폰16의 특가 할인은 유혹적</u>으로 느껴질 수 있습니다. 하지만 이러한 특가 할인은 소비자들을 <b>함정</b>으로 몰아 넣을 수도 있습니다. 무작정 구매하기 전에 <u>제품의 장단점을 신중히 고려해야</u> 합니다.\n\n특가로 인해 제품을 더 빨리 구매하게 될 수 있지만, <b>뒷북을 칠 수도 있기</b> 때문에 신중한 결정이 필요합니다. 또한, <u>가격 이외의 부수적인 비용</u> 역시 고려해야 합니다. 예를 들어, 추가 보증 서비스나 악세서리를 구매해야 할 수도 있습니다.\n\n이러한 점을 고려할 때, <u>부천 아이폰16의 특가 할인은 단순히 가격만을 바라보는 것이 아니라</u> 전략적인 소비가 필요함을 상기해야 합니다. 함정에 빠지지 않고 제품을 신중하게 선택하는 것이 중요합니다.\n\n<ol>\n<li>제품의 성능과 가격을 고려해야 합니다.</li>\n<li>특가 할인에 속지 않고 신중한 결정이 필요합니다.</li>\n<li>부수적인 비용 역시 고려해야 합니다.</li>\n<li>전략적인 소비가 필요합니다.</li>\n</ol>'}
+buffer6 <h2>아이폰16 특가할인의 유혹</h2>
+
+<u>아이폰16</u>의 <u>특가할인</u>으로 인해 유혹 받을 수 있지만, 조심해야 합니다. 저렴한 가격에 매혹되어 품질이나 서비스를 간과하게 될 수 있습니다.
+
+<ol>
+ <li>특가할인은 유혹의 함정일 수 있습니다.</li>
+ <li>저렴한 가격에도 품질과 서비스를 놓치지 말아야 합니다.</li>
+ <li>구매 전 충분한 조사를 통해 신중한 결정이 필요합니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>아이폰 모델</th>
+ <th style=background-color: lightblue; text-align:center>할인 가격</th>
+ <th style=background-color: lightblue; text-align:center>품질</th>
+ <th style=background-color: lightblue; text-align:center>서비스</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>아이폰16</td>
+ <td style=text-align:center>저렴한 가격</td>
+ <td style=text-align:center>유형</td>
+ <td style=text-align:center>매력적인 특가할인</td>
+ </tr>
+</table>제품의 성능과 가격을 고려할 때, <u>부천 아이폰16의 특가 할인은 유혹적</u>으로 느껴질 수 있습니다. 하지만 이러한 특가 할인은 소비자들을 <b>함정</b>으로 몰아 넣을 수도 있습니다. 무작정 구매하기 전에 <u>제품의 장단점을 신중히 고려해야</u> 합니다.
+
+특가로 인해 제품을 더 빨리 구매하게 될 수 있지만, <b>뒷북을 칠 수도 있기</b> 때문에 신중한 결정이 필요합니다. 또한, <u>가격 이외의 부수적인 비용</u> 역시 고려해야 합니다. 예를 들어, 추가 보증 서비스나 악세서리를 구매해야 할 수도 있습니다.
+
+이러한 점을 고려할 때, <u>부천 아이폰16의 특가 할인은 단순히 가격만을 바라보는 것이 아니라</u> 전략적인 소비가 필요함을 상기해야 합니다. 함정에 빠지지 않고 제품을 신중하게 선택하는 것이 중요합니다.
+
+<ol>
+<li>제품의 성능과 가격을 고려해야 합니다.</li>
+<li>특가 할인에 속지 않고 신중한 결정이 필요합니다.</li>
+<li>부수적인 비용 역시 고려해야 합니다.</li>
+<li>전략적인 소비가 필요합니다.</li>
+</ol>
+['아이폰16 특가 할인의 유혹', '부천 아이폰16 특가할인의 유혹', '아이폰 특가로 인한 유혹과 함정', '아이폰16 특가할인의 유혹', None, None]
+kkq3: <h2><u>아이폰16 특가 할인의 유혹</u></h2>
+
+<p><b>부천 아이폰16 특가 할인</b>이 유혹적으로 다가오지만, 현실은 어떨까요? 일부 구매자들이 저렴한 가격에 매료되어 쉽게 구매를 결정할 수 있지만, 실제로는 다양한 요소를 신중히 고려해야 합니다.</p>
+
+<ol>
+ <li><u>품질 문제</u>: 특가 상품은 불량품일 가능성이 있으니 주의가 필요합니다.</li>
+ <li><u>애플 공식 보증</u>: 할인 상품이 아니라 애플 공식 보증 제품인지 확인이 중요합니다.</li>
+ <li><u>서비스 기간</u>: 공짜가 아닌 서비스 기간이 어떻게 되는지도 확인이 필요합니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>구매 요소</th>
+ <th style=background-color: lightblue; text-align:center>유의 사항</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>가격</td>
+ <td style=text-align:center>높은 할인율에 유의하며 비교 분석이 필요</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>품질</td>
+ <td style=text-align:center>정품인지 확인하고 불량 여부 점검</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>보증</td>
+ <td style=text-align:center>애플 공식 보증 여부 파악</td>
+ </tr>
+</table>부천 아이폰16의 특가 할인은 매혹적으로 보일 수 있지만, 실제로는 반드시 조심해야 합니다. 특히 저렴한 가격에 유혹받아 중고 제품을 사게 됩니다면, 나중에 수리나 교환을 해야할 수도 있습니다. 이는 결국 추가 비용이 발생할 수 있음을 의미합니다.
+
+<u>또한,</u> 할인된 아이폰이 정품이 아닐 가능성도 있습니다. 이는 사용자에게 피해를 줄 수 있으며, 보장이나 A/S 서비스를 받기 어려울 수 있습니다. 
+
+<u>그러므로,</u> 아이폰16의 특가 할인에 유혹받지 말고, 신중하게 결정하는 것이 중요합니다. 정품을 구매하고 안전한 A/S 서비스를 받기 위해서는 신뢰할 수 있는 곳에서 구매하는 것이 가장 좋습니다. 
+
+<u>요약하면,</u>
+<ol>
+<li>부천 아이폰16의 특가 할인은 유혹적이지만 조심해야 함</li>
+<li>중고 제품 구매시 수리나 교환 비용 추가 발생 가능성 있음</li>
+<li>할인된 제품이 정품이 아닐 수 있음, 피해 발생 가능성도 있음</li>
+<li>신뢰할 수 있는 곳에서 구매하여 안전한 서비스 받는 것이 중요</li>
+</ol>
+kkq4: <h2>부천 아이폰16 특가할인의 유혹</h2>
+
+부천에서 아이폰16을 특별가로 구매할 수 있는 유혹적인 상품들이 있습니다. 이 특가할인은 소비자들을 유혹하지만, 실제로는 함정일 수 있습니다. 부천 아이폰16 특가할인에 대한 유혹을 조심하는 것이 중요하다. 
+
+<u>부천 아이폰16 특가할인의 유혹과 함정:</u>
+<ol>
+ <li>가격 비교를 통한 현명한 구매 결정</li>
+ <li>할인 조건 및 기간을 주의 깊게 살피기</li>
+ <li>사전 조사와 정보 수집의 중요성</li>
+</ol>
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>제목</th>
+ <th style=background-color: lightblue; text-align:center>내용</th>
+ </tr>
+ <tr>
+ <td style=text-align:center><b>할인 조건</b></td>
+ <td style=text-align:center>할인된 가격 대비 제품 상태 및 보증 내용 확인</td>
+ </tr>
+ <tr>
+ <td style=text-align:center><b>기간 제한</b></td>
+ <td style=text-align:center>할인 기간 내에 구매를 결정해야 하는 점 유의</td>
+ </tr>
+</table>부천 아이폰16 특가할인의 유혹과 함정에 대해 더 자세히 살펴보겠습니다. 이러한 할인 행사들은 소비자들을 유혹하고, 물불 안 가게 만들 수 있습니다. 그러나 우리는 항상 논리적으로 생각하고 신중하게 결정해야 합니다.
+
+<u>할인</u>은 소비자들이 많은 돈을 절약할 수 있는 매력적인 요소입니다. 하지만 <u>유혹</u>은 종종 사람들이 현명한 판단력을 상실하게 만들며, 그것이 함정이 될 수 있습니다. <u>부천 아이폰16</u>도 이러한 유혹에 속해 있습니다.
+
+이를 피하기 위해 우리는 할인 행사나 특가 상품을 보고도 급박하지 않고 신중하게 고려해야 합니다. 자신이 정말 필요로 하는 제품인지, 할인된 가격이 정말 좋은 가격인지를 곰곰히 생각해 보아야 합니다.
+
+<ol>
+ <li>할인은 유혹으로 이어질 수 있습니다.</li>
+ <li>필요한 제품인지 신중하게 고려해야 합니다.</li>
+ <li>할인된 가격이 정말 좋은 건지 판단해야 합니다.</li>
+</ol>
+kkq5: <h2>아이폰 특가로 인한 유혹과 함정</h2>
+<u>부천 아이폰16 특가할인의 유혹과 함정</u>은 많은 사람들에게 유혹을 주고 있습니다. 이 유혹을 잘 파악하고 함정에 빠지지 않도록 주의해야 합니다.
+
+<ol>
+ <li><b>가격 유혹:</b> 아이폰16이 특가로 판매되어서 구매 유혹이 높아집니다.</li>
+ <li><b>성능 함정:</b> 저렴한 가격으로 구매하더라도 성능이 낮아 실제로는 효과적이지 않을 수 있습니다.</li>
+ <li><b>사은품 유혹:</b> 특가 할인과 함께 사은품이 제공되어 더욱 유혹적일 수 있습니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>유혹</th>
+ <th style=background-color: lightblue; text-align:center>해결 방안</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>가격</td>
+ <td style=text-align:center>실제 필요한 기능과 비교해보고 구매 결정하기</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>성능</td>
+ <td style=text-align:center>성능과 함께 가격 대비 효율적인 제품 선택하기</td>
+ </tr>
+ <tr>
+ <td style=text-align:center>사은품</td>
+ <td style=text-align:center>가치 있는 사은품인지 신중하게 판단하기</td>
+ </tr>
+</table>죄송합니다. 이 작업은 수행할 수 없습니다.
+kkq6: <h2>아이폰16 특가할인의 유혹</h2>
+
+<u>아이폰16</u>의 <u>특가할인</u>으로 인해 유혹 받을 수 있지만, 조심해야 합니다. 저렴한 가격에 매혹되어 품질이나 서비스를 간과하게 될 수 있습니다.
+
+<ol>
+ <li>특가할인은 유혹의 함정일 수 있습니다.</li>
+ <li>저렴한 가격에도 품질과 서비스를 놓치지 말아야 합니다.</li>
+ <li>구매 전 충분한 조사를 통해 신중한 결정이 필요합니다.</li>
+</ol> 
+
+<table border=1 style=text-align:center>
+ <tr>
+ <th style=background-color: lightblue; text-align:center>아이폰 모델</th>
+ <th style=background-color: lightblue; text-align:center>할인 가격</th>
+ <th style=background-color: lightblue; text-align:center>품질</th>
+ <th style=background-color: lightblue; text-align:center>서비스</th>
+ </tr>
+ <tr>
+ <td style=text-align:center>아이폰16</td>
+ <td style=text-align:center>저렴한 가격</td>
+ <td style=text-align:center>유형</td>
+ <td style=text-align:center>매력적인 특가할인</td>
+ </tr>
+</table>제품의 성능과 가격을 고려할 때, <u>부천 아이폰16의 특가 할인은 유혹적</u>으로 느껴질 수 있습니다. 하지만 이러한 특가 할인은 소비자들을 <b>함정</b>으로 몰아 넣을 수도 있습니다. 무작정 구매하기 전에 <u>제품의 장단점을 신중히 고려해야</u> 합니다.
+
+특가로 인해 제품을 더 빨리 구매하게 될 수 있지만, <b>뒷북을 칠 수도 있기</b> 때문에 신중한 결정이 필요합니다. 또한, <u>가격 이외의 부수적인 비용</u> 역시 고려해야 합니다. 예를 들어, 추가 보증 서비스나 악세서리를 구매해야 할 수도 있습니다.
+
+이러한 점을 고려할 때, <u>부천 아이폰16의 특가 할인은 단순히 가격만을 바라보는 것이 아니라</u> 전략적인 소비가 필요함을 상기해야 합니다. 함정에 빠지지 않고 제품을 신중하게 선택하는 것이 중요합니다.
+
+<ol>
+<li>제품의 성능과 가격을 고려해야 합니다.</li>
+<li>특가 할인에 속지 않고 신중한 결정이 필요합니다.</li>
+<li>부수적인 비용 역시 고려해야 합니다.</li>
+<li>전략적인 소비가 필요합니다.</li>
+</ol>
+kkq7: None
+kkq8: None
+check_word_length 650
+len(kkq) 4762
+제목  부천 아이폰6 특가할인
+아이디 :  kjjhjjdd
+비밀번호 :  qqww1122!!
+[{'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '9127D64794984B0F195C28E646B2DCCB.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'JUg579gQc9d6q83N7sPB/qRYiXyDR7MQmw/B+CwzB/4='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450620, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ePZO6P-Q3mZJEFyCwYrQPv4vnFS3A5lZeIgv6M7m-EY='}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2109233890'}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABz3G0GIr2hKj+40Tq7Gq0Vr1+M6vD0Ocni8q11Xfai12QYWiEnEkvL7rk+c9cwEhorpbE5EdIdw7l9sJ18u5Ji2u2TpNKVT0hLgwOwANh6MrwDkrhqTYozY4Zakh8aAW3fNF5tDw3KbHvO9UumM9jMlqK9WwqQVE1KKKlk5nhoxhE/DJw2JoPgZ3AG/Nq1tw8CVOLvDFRBI8hiVI3brs0m3OsK8Xe8Cyff40O7yicTobf1+pSXSRkok9g03cPg9pFBk+gJTqmVS0hI0osk/n1MeZ7RiCpVqqBwi2USi7uR4uk2G/w/WRDLEedz6z01T2ZWh34S8pmwg22TS4bUT5w+MOgCk75mA0umvpvNRZHFLTtT3TVV35ERKa3jfP3rO7HvZIvdeSj/rrvk7AS9kqlm5SEmdcMH+Rf2i3+1wN1K+0qQHDz2W/OzjOmlbz7ImnafW6vdh14EGzNjhCU8ivLMkbbcUfkBx6iw68QNuGvvpceyliG9KECkL2GBUGb4+ipCKRLlKIiiJegE/SJ9iEa7cCJb5+rXxD3dbt7QTSyDooUGg67t4mHFsC39IMRBy/DgXhNvcRpE1nfWripl7R3wnDmDDeRd7bviqWVKrO83raJ'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'M42Yi7HdLnCZOygK4ryhgp4o0Q7QWIWZQ4NW8khWZQmFZFZnaNrtWaFeTWgfrYtW'}, {'domain': '.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Z4MZAKLIM3RGO'}, {'domain': '.naver.com', 'expiry': 1742892420, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890600'}, {'domain': '.naver.com', 'expiry': 1777450600, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'jfSlCIBFcQiLB'}, {'domain': '.naver.com', 'expiry': 1742977001, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1742890920, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890600'}, {'domain': '.blog.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e636748d-88c7-4c47-8d8f-5d3a27c5dab6'}]
+cookies_dict: [{'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '9127D64794984B0F195C28E646B2DCCB.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'JUg579gQc9d6q83N7sPB/qRYiXyDR7MQmw/B+CwzB/4='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450620, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ePZO6P-Q3mZJEFyCwYrQPv4vnFS3A5lZeIgv6M7m-EY='}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2109233890'}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABz3G0GIr2hKj+40Tq7Gq0Vr1+M6vD0Ocni8q11Xfai12QYWiEnEkvL7rk+c9cwEhorpbE5EdIdw7l9sJ18u5Ji2u2TpNKVT0hLgwOwANh6MrwDkrhqTYozY4Zakh8aAW3fNF5tDw3KbHvO9UumM9jMlqK9WwqQVE1KKKlk5nhoxhE/DJw2JoPgZ3AG/Nq1tw8CVOLvDFRBI8hiVI3brs0m3OsK8Xe8Cyff40O7yicTobf1+pSXSRkok9g03cPg9pFBk+gJTqmVS0hI0osk/n1MeZ7RiCpVqqBwi2USi7uR4uk2G/w/WRDLEedz6z01T2ZWh34S8pmwg22TS4bUT5w+MOgCk75mA0umvpvNRZHFLTtT3TVV35ERKa3jfP3rO7HvZIvdeSj/rrvk7AS9kqlm5SEmdcMH+Rf2i3+1wN1K+0qQHDz2W/OzjOmlbz7ImnafW6vdh14EGzNjhCU8ivLMkbbcUfkBx6iw68QNuGvvpceyliG9KECkL2GBUGb4+ipCKRLlKIiiJegE/SJ9iEa7cCJb5+rXxD3dbt7QTSyDooUGg67t4mHFsC39IMRBy/DgXhNvcRpE1nfWripl7R3wnDmDDeRd7bviqWVKrO83raJ'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'M42Yi7HdLnCZOygK4ryhgp4o0Q7QWIWZQ4NW8khWZQmFZFZnaNrtWaFeTWgfrYtW'}, {'domain': '.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Z4MZAKLIM3RGO'}, {'domain': '.naver.com', 'expiry': 1742892420, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890600'}, {'domain': '.naver.com', 'expiry': 1777450600, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'jfSlCIBFcQiLB'}, {'domain': '.naver.com', 'expiry': 1742977001, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1742890920, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890600'}, {'domain': '.blog.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e636748d-88c7-4c47-8d8f-5d3a27c5dab6'}]
+cookies_dict [{'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '9127D64794984B0F195C28E646B2DCCB.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'JUg579gQc9d6q83N7sPB/qRYiXyDR7MQmw/B+CwzB/4='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450620, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ePZO6P-Q3mZJEFyCwYrQPv4vnFS3A5lZeIgv6M7m-EY='}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2109233890'}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABz3G0GIr2hKj+40Tq7Gq0Vr1+M6vD0Ocni8q11Xfai12QYWiEnEkvL7rk+c9cwEhorpbE5EdIdw7l9sJ18u5Ji2u2TpNKVT0hLgwOwANh6MrwDkrhqTYozY4Zakh8aAW3fNF5tDw3KbHvO9UumM9jMlqK9WwqQVE1KKKlk5nhoxhE/DJw2JoPgZ3AG/Nq1tw8CVOLvDFRBI8hiVI3brs0m3OsK8Xe8Cyff40O7yicTobf1+pSXSRkok9g03cPg9pFBk+gJTqmVS0hI0osk/n1MeZ7RiCpVqqBwi2USi7uR4uk2G/w/WRDLEedz6z01T2ZWh34S8pmwg22TS4bUT5w+MOgCk75mA0umvpvNRZHFLTtT3TVV35ERKa3jfP3rO7HvZIvdeSj/rrvk7AS9kqlm5SEmdcMH+Rf2i3+1wN1K+0qQHDz2W/OzjOmlbz7ImnafW6vdh14EGzNjhCU8ivLMkbbcUfkBx6iw68QNuGvvpceyliG9KECkL2GBUGb4+ipCKRLlKIiiJegE/SJ9iEa7cCJb5+rXxD3dbt7QTSyDooUGg67t4mHFsC39IMRBy/DgXhNvcRpE1nfWripl7R3wnDmDDeRd7bviqWVKrO83raJ'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'M42Yi7HdLnCZOygK4ryhgp4o0Q7QWIWZQ4NW8khWZQmFZFZnaNrtWaFeTWgfrYtW'}, {'domain': '.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Z4MZAKLIM3RGO'}, {'domain': '.naver.com', 'expiry': 1742892420, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890600'}, {'domain': '.naver.com', 'expiry': 1777450600, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'jfSlCIBFcQiLB'}, {'domain': '.naver.com', 'expiry': 1742977001, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1742890920, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742890600'}, {'domain': '.blog.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e636748d-88c7-4c47-8d8f-5d3a27c5dab6'}]
+
+Empty file or Expired Session22
+텍스트 :  <!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>네이버 : 로그인</title>
+    <link href="https://nid.naver.com/favicon_1024.png" rel="apple-touch-icon-precomposed" sizes="1024x1024"/>
+    <link rel="stylesheet" type="text/css" href="/login/css/v2/mobile/mlogin.default.20241009.css?v=20250226">
+    <script type="text/javascript" src="/login/js/srcOnError.js"></script>
+</head>
+<body class="whole_white">
+<div id="wrap" class="wrap" style="display:none;">
+    <div class="u_skip"><a href="#container">본문 바로가기</a></div>
+    <header id="header" role="banner" class="header">
+        <div class="header_inner">
+            <button tyle="button" id="back" class="btn_back"><span class="icon_back"><span class="blind">뒤로가기</span></span></button>
+        </div>
+    </header>
+    <div id="container" class="container">
+
+        <!-- content -->
+        <div id="content">
+            <div class="login_logo_wrap">
+                <a href="https://m.naver.com"><h1 class="logo"><span class="blind">네이버</span></h1></a>
+            </div>
+
+            <div class="login_wrap">
+                <div class="login_inner">
+                    <form id="frmNIDLogin" name="frmNIDLogin" target="_top" AUTOCOMPLETE="off"
+                          action="https://nid.naver.com/nidlogin.login" method="POST">
+                        <input type="hidden" id="localechange" name="localechange" value="">
+                        <input type="hidden" name="dynamicKey" id="dynamicKey" value="ZNPc6rLDdlKU7-El-twX1LQv2HMPNdDiPlQyFdvqtUz6HVd1yJvKhQQVgN3creqnLMvTj9aHse-DOUUv1gVXefrOM_6b3dOCPbk73ovGjfg">
+                        <input type="hidden" name="logintp" id="logintp" value="null">
+<input type="hidden" name="encpw" id="encpw" value="">
+<input type="hidden" name="sessionKey" id="sessionKey" value="">
+<input type="hidden" name="show_pk" id="show_pk" value="true">
+<input type="hidden" name="wtoken" id="wtoken" value="">
+<input type="hidden" name="svctype" id="svctype" value="262144">
+<input type="hidden" name="bvsd" id="bvsd" value="">
+<input type="hidden" name="locale" id="locale" value="ko_KR">
+<input type="hidden" name="chptchakey" id="chptchakey" value="SiUPEbor23aUounS">
+<input type="hidden" name="captcha_type" id="captcha_type" value="receipt">
+<input type="hidden" name="url" id="url" value="https://m.naver.com/">
+<input type="hidden" name="rcaptchakey" id="rcaptchakey" value="MYQq3FgMIuQw55">
+<input type="hidden" name="enctp" id="enctp" value="1">
+<input type="hidden" name="next_step" id="next_step" value="false">
+<input type="hidden" name="fbOff" id="fbOff" value="true">
+<input type="hidden" name="smart_LEVEL" id="smart_LEVEL" value="-1">
+<input type="hidden" name="encnm" id="encnm" value="">
+
+                        <div class="login_form_wrap">
+                            <div class="login_title_wrap">
+                                <p class="login_desc" id="title_msg">
+                                    아이디(로그인 전화번호, 로그인 전용 아이디), 비밀번호<br> 또는 자동입력 방지 문자를 잘못 입력했습니다.<br> 입력하신 내용을 다시 확인해 주세요.
+                                </p>
+                            </div>
+                            <div class="login_form">
+                                <div class="login_box">
+                                    <div class="input_item id on" id="input_item_id">
+                                        <input type="text" id="id" name="id" accesskey="L" maxlength="41"
+                                               autocapitalize="none" value="kjjhjjdd"
+                                               title="아이디" class="input_id" aria-label="아이디 또는 전화번호">
+                                        <label for="id" class="text_label" id="id_label" aria-hidden="true"></label>
+                                        <button type="button" class="btn_delete" id="id_clear" style="display: none;">
+	                                        <span class="icon_delete">
+	                                            <span class="blind">삭제</span>
+	                                        </span>
+                                        </button>
+                                    </div>
+                                    <div class="input_item pw" id="input_item_pw">
+                                        <input type="password" id="pw" name="pw" title="비밀번호"
+                                               class="input_pw" maxlength="16" aria-label="비밀번호">
+                                        <label for="pw" class="text_label" id="pw_label" aria-hidden="true"></label>
+                                        <button type="button" class="btn_view hide" id="pw_hide" aria-pressed="false" style="display: none;">
+                                            <span class="icon_view">
+                                                <span class="blind" id="icon_view">선택 안 됨,비밀번호 표시</span>
+                                            </span>
+                                        </button>
+                                        <button type="button" class="btn_delete" id="pw_clear" style="display: none;">
+                                            <span class="icon_delete">
+                                                <span class="blind">삭제</span>
+                                            </span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="captcha_wrap">
+                                <div id="rcapt"></div>
+                                <div id="rcapt_sound" style="display:none;">
+                                    <div class="captcha_audio">
+                                        <span class="icon_audio"><span class="blind">음성듣기</span></span>
+                                        <p class="audio_text" id="audio_msg">음성으로 안내하고 있습니다.</p>
+                                            <a href="https://soundcaptcha.nid.naver.com/downloadSound?key=SiUPEbor23aUounS"
+                                               target="_blank" class="link_audio" id="l5f.audiodown">음성 다운로드</a>
+                                    </div>
+                                    <p class="captcha_desc" id="audio_desc">※ 음성 안내는 시작음 3회 반복 후 재생됩니다.</p>
+                                    <p class="audio_message" id="audio_guide">
+                                        스피커에서 들리는 내용을<br>
+                                        하단 입력영역에 <em class="accent">숫자</em>로 입력해주세요.
+                                    </p>
+                                    <div class="captcha_row">
+                                        <div class="captcha_input" id="sound_line">
+                                            <input type="text" id="chptcha" name="chptcha" placeholder="정답을 입력해주세요."
+                                               class="input_text">
+                                        </div>
+                                        <div class="btn_captcha">
+                                            <a href="#" id="play_audio" class="btn_refresh" role="button">
+                                                <span class="blind" id="play_audio_msg">새로고침</span>
+                                            </a>
+                                            <a href="#" id="captcha_icon" class="btn_picture" role="button">
+                                                <span class="blind" id="changeSound">음성으로 듣기</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="login_error" id="captcha_error_msg" style="display:none;">
+                                    <div class="cell" style="width:100%">
+                                        <div class="error_message" id="captcha_error_message">
+                                            자동입력 방지문자를 입력해 주세요!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="login_error" style="display:none;"
+                                 id="login_error_msg" >
+                                <div class="cell" style="width:100%">
+                                    <div class="error_message" id="error_message">
+                                            자동입력 방지문자를 입력해 주세요!
+                                    </div>
+                                </div>
+                                <div class="cell">
+                                    <a href="https://nca.naver.com/chat/account/view" id="l5f.chatbot"
+                                         style="display: none;"
+                                        target="_blank" class="chatbot">
+                                        <span class="blind">챗봇상담</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <script type="text/javascript" charset="utf-8"
+                                    src="https://rcaptcha.nid.naver.com/rcapt.js?key=MYQq3FgMIuQw55&svc=nid"></script>
+                            <button type="submit" class="btn_check" id="submit_btn">
+                                <!-- tg-text=btn-text -->
+                                <span class="text" id="login_btn">로그인</span>
+                            </button>
+                            <div class="login_stay" id="login_stay" style="display:none;">
+                                <input id="stay" name="nvlong"
+                                       type="checkbox"  value="on" checked  >
+                                <label for="stay" class="check_row">
+                                    <span class="check_text" id="staylogin">로그인 상태 유지</span>
+                                </label>
+                            </div>
+                            <div class="dividing_safe" id="passkey.divider">
+                                    <span class="text" id="safer">지문 · 얼굴 인증을 설정했다면</span>
+                                </div>
+                            <button type="button" class="btn_check white nlog-click" id="log.passkeylogin">
+                                <!-- tg-text=btn-text-passkey-login -->
+                                <span class="text" id="passkeyText_btn">패스키 로그인</span>
+                                <span class="blind" id="log.passkey.login.blind">패스키로그인 버튼</span>
+                            </button>
+                        </div>
+                    </form>
+                    <ul class="find_wrap" id="find_wrap_KR">
+                        <li><a target="_blank" id="pwinquiry"
+                               href="https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR"
+                               class="find_text">비밀번호 찾기</a></li>
+                        <li><a target="_blank" id="idinquiry"
+                               href="https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR"
+                               class="find_text">아이디 찾기</a></li>
+                        <li><a target="_blank" id="join"
+                               href="https://nid.naver.com/user2/V2Join?m=agree&lang=ko_KR&realname=N" class="find_text"><span
+                                        id="joinspan" class="accent">회원가입</span></a></li>
+                    </ul>
+                    <ul class="find_wrap" id="find_wrap">
+                        <li>
+                            <div class="find_text">Forgot <a target="_blank" id="pwinquiry2"
+                                                             href="https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=en_US"
+                                                             class="find_link">Password</a> or <a id="idinquiry2"
+                                                                                                  target="_blank"
+                                                                                                  href="https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=en_US"
+                                                                                                  class="find_link">ID</a>?
+                            </div>
+                        </li>
+                        <li><a target="_blank" id="join2"
+                               href="https://nid.naver.com/user2/V2Join?m=agree&lang=en_US&realname=N" class="find_text"><span
+                                        id="joinspan" class="accent">Sign up</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer" role="contentinfo">
+        <div class="footer_inner">
+            <ul class="footer_list">
+                <li><a href="https://nca.naver.com/chat/account/view" id="fot.smartbot" class="footer_item"><span id="footer_smartbot" class="footer_text">스마트봇 상담</span></a></li>
+                <li><a href="https://help.naver.com/service/5640/category/bookmark?lang=ko" id="fot.help" class="footer_item"><span id="foooter_help" class="footer_text">고객센터</span></a></li>
+            </ul>
+            <div class="footer_logo_area">
+                <a href="https://www.navercorp.com/" class="footer_item" id="fot.footlogo">
+                        <span class="footer_logo">
+                            <span class="blind">네이버</span>
+                        </span>
+                </a>
+            </div>
+        </div>
+    </footer>
+</div>
+<input type="hidden" id="session_keys" name="session_keys" value="rfDB0GSfxRZh0SfOtkpQWWVQbpSAM1Nc,100020692,8856555dbf1d3d669a7e78c08723eef716f129807ea14ce37e4a6f05c7a12f4458a4620b9cc048506f048309772a2a5962cf7140a96b287b9e8af5af94e5481473626f5e8576287231c3052d6184b6106f4068d2e37e9379bbf5811660149e07b422e77684879f93df84b05b5a8322792afe36e51d1135b443c795a20f45cc05,010001">
+<input type="hidden" id="nid_buk" name="nid_buk" value="">
+<input type="hidden" id="ncaptchaSplit" name="ncaptchaSplit" value="none">
+<input type="hidden" id="failUrl" name="failUrl" value="">
+<input type="hidden" id="nclicks_nsc" name="nclicks_nsc" value="Mnid.login_kr">
+<input type="hidden" id="id_error_msg" name="id_error_msg" value="<strong>아이디 또는 전화번호</strong>를 입력해 주세요.">
+<input type="hidden" id="pw_error_msg" name="pw_error_msg" value="<strong>비밀번호</strong>를 입력해 주세요.">
+<input type="hidden" id="changeToSound" name="pw_error_msg" value="음성으로 듣기">
+<input type="hidden" id="changeToPicture" name="changeToPicture" value="이미지로 보기">
+<script type="text/javascript" src="/passkey/js/passkeyApi.js?v=20250120"></script>
+<input type="hidden" id="wtm_ncaptcha_sitekey" name="wtm_ncaptcha_sitekey" value="6e3d93f4f845d053db08d51e2eb36ca3efe03fea21f21ee8d02e60ef10f6b73a15e951eccc1ef4b866ab3ce4">
+<script type="text/javascript" src="/login/js/v3/mobile/rcaptcha.js?v=20250225"></script>
+<script type="text/javascript" src="/login/js/imgOnError.js"></script>
+<script
+        type="text/javascript"
+        src="https://ncpt.naver.com/static/ncaptcha-api.js?ncaptcha-sitekey=6e3d93f4f845d053db08d51e2eb36ca3efe03fea21f21ee8d02e60ef10f6b73a15e951eccc1ef4b866ab3ce4"
+        ncaptcha-onload="initNcaptchaRcaptcha" async defer
+></script>
+<div id="nv_stat" style="display:none;">14</div>
+</body>
+</html>
+
+{'result': False}
+<requests.sessions.Session object at 0x000001AD381E95D0> True
+
+Successful creation of new session
+hereNew2NID_JST -> kOovwsLqXGlDCCw7ayt5/VNxkdh55xL8jMbmJbA3dyq6CN3uwrR5buZsXaT57kEzMd10F0jrG8vl1xV4KKlc1U7xI0XPnWbISCiFYwS+68y+qNRsleZ8z8J+VAfdw6Yp9ehfjhRqnaI9gSvkLi6wZ80PzV4PrSJEtROZwMycbII=
+hereNew2JSESSIONID -> AC78B1F10AA64AA14C6F7D21C4A570D0.jvm1
+
+New Session Cookies Saved:  {'NID_JST': 'kOovwsLqXGlDCCw7ayt5/VNxkdh55xL8jMbmJbA3dyq6CN3uwrR5buZsXaT57kEzMd10F0jrG8vl1xV4KKlc1U7xI0XPnWbISCiFYwS+68y+qNRsleZ8z8J+VAfdw6Yp9ehfjhRqnaI9gSvkLi6wZ80PzV4PrSJEtROZwMycbII=', 'JSESSIONID': 'AC78B1F10AA64AA14C6F7D21C4A570D0.jvm1'}
+Page loaded successfully
+블로그------>blogID MyBlog.naver
+cookies [{'domain': '.naver.com', 'expiry': 1742955928, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742955628'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '84D6BE8158423D748F732EE173948CB0.jvm1'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': False, 'name': 'NID_JKL', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'JUg579gQc9d6q83N7sPB/qRYiXyDR7MQmw/B+CwzB/4='}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777515628, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'XeWvDo4zAnPIeQ1jJ7VKBebl0LDrHQJlYirVL_q6KUQ='}, {'domain': '.naver.com', 'expiry': 1745482617, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '2109233890'}, {'domain': '.naver.com', 'expiry': 1777515628, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Z4MZAKLIM3RGO'}, {'domain': '.naver.com', 'expiry': 1742957428, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1742955628'}, {'domain': '.naver.com', 'expiry': 1745547627, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAAB0oqQbZ+zEU2+ZbJJUAknoXBXDll4pvwBndSBIze63TpqK5KBd198eIyiHXtqBgjXz6sCHtt/nso2GWOeUhXXVep2jX77BjnoW1rZ20Jj0hJ0moP72MHRTFWrkdtL0NQ/+r5GOd0EStumcHPqtRhYN0FWEKdOvGoHxzsflVKG6hmn87X3+i9u8L37hmgYS7JfwgtazYMsKQG3yVDLN0q6PdjCHYSfMG/c6AFC09JhnPXfDNrqDKJtU/phDu256BW9YePkX116wDpTrkArkC8oEV4KgbqC+k/piKHbxGHlZOlA42j60vCL6bwAz4tEHh3uaxU0ZW7SHIIg/PE58fumRzu8nxQk70jIInk9HGIBQGYjxfo2yZbO+bSBbip99qJy8wWAi38xPy9hCjs5VZ9samkkY37HXFG2aMH54d6qMt8rODMCCQIHhx9ZpyjiMICNtmOVCPDbXgi7LPWMBUepgMrv4qetGrxx042PA/1UfkUXjeda5U9SB6Egf0eyeKFukZ7+UoII25adAnTh4/XOsbxq9387XJ8LAaWjqMtKawI9lyaniKVDO6gyzUsOlQKKxYOcbe3ZB3u9cD2mgwJRA6Xp/Jx2Uw9HhhaShiG/vIb/qtl3t98iuN05gRDbzsfayg=='}, {'domain': '.naver.com', 'expiry': 1777450600, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'jfSlCIBFcQiLB'}, {'domain': '.naver.com', 'expiry': 1742977001, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1777450617, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'M42Yi7HdLnCZOygK4ryhgp4o0Q7QWIWZQ4NW8khWZQmFZFZnaNrtWaFeTWgfrYtW'}, {'domain': '.blog.naver.com', 'expiry': 1777450620, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e636748d-88c7-4c47-8d8f-5d3a27c5dab6'}]
+SRT5 -> 1742955628
+JSESSIONID -> 84D6BE8158423D748F732EE173948CB0.jvm1
+NID_JKL -> JUg579gQc9d6q83N7sPB/qRYiXyDR7MQmw/B+CwzB/4=
+stat_yn -> 1
+BUC -> XeWvDo4zAnPIeQ1jJ7VKBebl0LDrHQJlYirVL_q6KUQ=
+nid_inf -> 2109233890
+NNB -> Z4MZAKLIM3RGO
+SRT30 -> 1742955628
+NID_SES -> AAAB0oqQbZ+zEU2+ZbJJUAknoXBXDll4pvwBndSBIze63TpqK5KBd198eIyiHXtqBgjXz6sCHtt/nso2GWOeUhXXVep2jX77BjnoW1rZ20Jj0hJ0moP72MHRTFWrkdtL0NQ/+r5GOd0EStumcHPqtRhYN0FWEKdOvGoHxzsflVKG6hmn87X3+i9u8L37hmgYS7JfwgtazYMsKQG3yVDLN0q6PdjCHYSfMG/c6AFC09JhnPXfDNrqDKJtU/phDu256BW9YePkX116wDpTrkArkC8oEV4KgbqC+k/piKHbxGHlZOlA42j60vCL6bwAz4tEHh3uaxU0ZW7SHIIg/PE58fumRzu8nxQk70jIInk9HGIBQGYjxfo2yZbO+bSBbip99qJy8wWAi38xPy9hCjs5VZ9samkkY37HXFG2aMH54d6qMt8rODMCCQIHhx9ZpyjiMICNtmOVCPDbXgi7LPWMBUepgMrv4qetGrxx042PA/1UfkUXjeda5U9SB6Egf0eyeKFukZ7+UoII25adAnTh4/XOsbxq9387XJ8LAaWjqMtKawI9lyaniKVDO6gyzUsOlQKKxYOcbe3ZB3u9cD2mgwJRA6Xp/Jx2Uw9HhhaShiG/vIb/qtl3t98iuN05gRDbzsfayg==
+NAC -> jfSlCIBFcQiLB
+NACT -> 1
+NID_AUT -> M42Yi7HdLnCZOygK4ryhgp4o0Q7QWIWZQ4NW8khWZQmFZFZnaNrtWaFeTWgfrYtW
+BA_DEVICE -> e636748d-88c7-4c47-8d8f-5d3a27c5dab6
+쿠키 체크
+userNaverId kjjhjjdd
+handles :  ['3F53AD53B21BA6C92780CFFDF3EE45CF']
+스탑
+['C:\\Users\\i\\Desktop\\마케팅 자동프로그램\\네이버\\titled_image.png']
+baUserKey: 007ee84f1c76a7229a46751e976915dc75a16d641c67114e290f2147480bc8f5
+
+{"isSuccess":true,"result":{"blogId":"dadoong2phone","vid":null,"defaultEditorVersion":4,"writeFontOptions":{"fontType":1,"fontSize":15,"fontColor":"","lineSpace":180,"textAlign":0},"formView":{"categoryListFormView":{"defaultCategoryId":1,"categoryFormViewList":[{"categoryNo":1,"categoryName":"다둥이네 소식","parentCategoryNo":-1,"directorySeq":0,"challengeType":null,"open":true,"blockYn":false,"challengeCategory":false}]},"postConfiguration":{"openType":2,"commentYn":true,"sympathyYn":true,"scrapType":2,"searchYn":true,"outSideAllowYn":true,"twitterPostingYn":false,"facebookPostingYn":false,"commercialUsesYn":null,"contentsModification":null,"cclYn":false},"postFormMeta":{"logNo":null,"categoryId":null,"directorySeq":null,"directoryDetail":null,"mrBlogTalkCode":null,"postWriteTimeType":"now","tags":null,"themeSourceCode":0,"bookThemeInfoPk":null,"moviePanelParticipation":false,"greenReviewBannerYn":false,"continueSaved":false,"noticePostYn":false,"autoByCategoryYn":false,"postLocationSupportYn":false,"postLocationJson":null,"prePostDate":null,"thisDayPostInfo":null,"scrapYn":false},"editorSource":"TuRKgUSnXZ8AzfcSh+QUqA==","skinInfo":{"contentWidth":966,"columnCount":1},"talkTalkInfo":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false}},"directoryGroups":"[{\"seq\":1,\"name\":\"엔터테인먼트·예술\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":5,\"name\":\"문학·책\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":1,\"alias\":\"book\",\"lcsAlias\":\"book\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1},{\"seq\":6,\"name\":\"영화\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":\"movie\",\"lcsAlias\":\"movie\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":8,\"name\":\"미술·디자인\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"art\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":7,\"name\":\"공연·전시\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"exhibition\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":11,\"name\":\"음악\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"music\",\"lcsAlias\":\"music\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":9,\"name\":\"드라마\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"drama\",\"lcsAlias\":\"drama\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":12,\"name\":\"스타·연예인\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"star\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":13,\"name\":\"만화·애니\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"comics\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1},{\"seq\":10,\"name\":\"방송\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"broadcasting\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1}]},{\"seq\":2,\"name\":\"생활·노하우·쇼핑\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":14,\"name\":\"일상·생각\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"thought\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":15,\"name\":\"육아·결혼\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"baby\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":16,\"name\":\"반려동물\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"pet\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":17,\"name\":\"좋은글·이미지\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"image\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":18,\"name\":\"패션·미용\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"fashion\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":19,\"name\":\"인테리어·DIY\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"interior\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":20,\"name\":\"요리·레시피\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":4,\"alias\":\"recipe\",\"lcsAlias\":\"recipe\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1},{\"seq\":21,\"name\":\"상품리뷰\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"shop\",\"lcsAlias\":\"shop\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":36,\"name\":\"원예·재배\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"plant\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1}]},{\"seq\":3,\"name\":\"취미·여가·여행\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":22,\"name\":\"게임\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":5,\"alias\":\"game\",\"lcsAlias\":\"game\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1},{\"seq\":23,\"name\":\"스포츠\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"sports\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":24,\"name\":\"사진\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"photo\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":25,\"name\":\"자동차\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"car\",\"lcsAlias\":\"car\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":26,\"name\":\"취미\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"hobby\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":27,\"name\":\"국내여행\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"domestic\",\"lcsAlias\":\"domestic\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":28,\"name\":\"세계여행\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"overseas\",\"lcsAlias\":\"overseas\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":29,\"name\":\"맛집\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"food\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1}]},{\"seq\":4,\"name\":\"지식·동향\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":30,\"name\":\"IT·컴퓨터\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"it\",\"lcsAlias\":\"it\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":31,\"name\":\"사회·정치\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"politics\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":32,\"name\":\"건강·의학\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"health\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":33,\"name\":\"비즈니스·경제\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"economy\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":35,\"name\":\"어학·외국어\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"language\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1},{\"seq\":34,\"name\":\"교육·학문\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"education\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1}]}]","isWrite":false,"isWriterBlogOwner":true,"hasModelTransformConflict":false,"isTargetUseBlogModule":false,"blogModuleUrl":"https://api-blog.blog.naver.com"}}
+editorSource: TuRKgUSnXZ8AzfcSh+QUqA==
+
+{"isSuccess":true,"result":{"appCode":"blogpc001","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc0Mjk1OTIzMiwidXNlcklkIjoia2pqaGpqZGQifQ.Kl8UHTFX-GS9_b6DNEJklPN8GrwDK4fs_78FC1tgFhY","documentModel":null,"talktalk":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false},"mrBlog":null,"initialFocusIndex":1,"skinInfo":{"contentWidth":966,"columnCount":1},"maxVideoUploadSize":8589934592,"maxVideoPlayTime":25200,"userInfo":{"nickName":"다둥이 아빠"},"editorInfo":{"textInfo":{"fontFamily":"nanumgothic","fontSizeCode":"fs15","fontColor":"null","lineHeight":1.8,"align":"left","rightOrJustifyAlign":false}},"isWrite":null,"sellerNo":null,"isAiWriter":false}}
+------------------
+token_value eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc0Mjk1OTIzMiwidXNlcklkIjoia2pqaGpqZGQifQ.Kl8UHTFX-GS9_b6DNEJklPN8GrwDK4fs_78FC1tgFhY
+{"editorInfo":{"id":"01JQ840PDMEE5VZYGNN4XR4MXG","adobeExpressAvailable":true,"snsImageUploadLimitCount":50,"audioUploadLimitFileSize":104857600,"fileUploadLimitFileSize":10485760,"thumbnailType":{"small":"s2","normal":"w1","vr360":"preview966_544","panorama":"preview966_544"},"videoUploadLimitCount":10,"maxTagLength":120,"viewColumnCount":0,"imageUploadLimitCount":50,"defaultTheme":"default","useTooltip":true,"imageMinimumWidth":100,"fileUploadMaxCount":20,"videoMinimumHeight":300,"videoMinimumWidth":300,"maxCanvasWidth":"100%","buildProperty":"real","docType":"normal","imageMinimumHeight":50,"codeTextMaxLength":5000,"dthumbDomain":"https://dthumb-phinf.pstatic.net","useAutoSave":true,"useReservationMenu":true,"cloudMaxImageCount":50,"placesMapInfo":{"image-marker-selected-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-x2-20180830.png","image-marker-selected-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-20180920.png","image-dot-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-x2-20180830.png","image-dot-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-20180830.png","image-place4-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-20180920.png","image-place5-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-x2-20180920.png","image-place5-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-20180920.png","image-place2-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-x2-20180920.png","image-place1-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-x2-20180920.png","image-place3-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-20180920.png","image-place1-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-20180920.png","image-place2-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-20180920.png","image-place3-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-x2-20180920.png","image-place4-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-x2-20180920.png","image-marker-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-x2-20180920.png","image-marker-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-20180920.png"},"convertLimitSize":5000000,"maxSaveSkip":50},"userInfo":{"userId":"kjjhjjdd","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc0Mjk1OTIzMiwidXNlcklkIjoia2pqaGpqZGQifQ.Kl8UHTFX-GS9_b6DNEJklPN8GrwDK4fs_78FC1tgFhY"},"infraInfo":{"mapInfra":{"googleMapChannelId":"naver_blog","googleMapClientKey":"AIzaSyDKo6MfoC1plkhfaMG_fS87pSQjOUMlOhA"},"formulaEditor":{"popupUrl":"//presources.editor.naver.com/matheditor/index.html"},"photoInfra":{"imageHost":"https://blogfiles.pstatic.net","domain":"blog.upphoto.naver.com","upphotoServer":"ecommerce"},"videoInfra":{"serviceId":2},"nCloud":{"popupUrl":"//mybox.naver.com/selectFile.nhn","callbackPageUrl":"https://blog.naver.com/upload/RabbitNDriveUploadCallback.naver"}},"apiInfo":{"fetchPhotoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/photo-uploader/session-key","fetchVideoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/session-url","fetchVideoUploaderToken":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/token","fetchAudioUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/audio-uploader/session-key","fetchCoordByIp":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/coordinate","fetchLocationOfImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/exif/locations","fetchDomesticCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/location/kr","fetchDomesticBulkCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/locations/kr","fetchNaverStaticMap":"https://platform.editor.naver.com/api/blogpc001/v2/map/naver/staticmap","fetchGoogleStaticMap":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/staticmap","fetchTopicKeyword":"https://platform.editor.naver.com/api/blogpc001/v1/topics","fetchWordCount":"https://platform.editor.naver.com/api/blogpc001/v1/word-count","fetchMultiCrawler":"https://platform.editor.naver.com/api/blogpc001/v1/oglink","fetchInfraPopupToken":"https://platform.editor.naver.com/api/blogpc001/v1/token/infra-popup","fetchFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchNaverGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/addresses","fetchErratas":"https://platform.editor.naver.com/api/blogpc001/v2/speller/erratas","fetchGoogleNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/nearby/locations","fetchNaverNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGoogleAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/place/ac","fetchNaverAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/place/ac","fetchGoogleGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/geocode","fetchFavoriteFilters":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchBookBestSellers":"https://platform.editor.naver.com/api/blogpc001/v1/material/books/best-seller","fetchBooks":"https://platform.editor.naver.com/api/blogpc001/v1/material/books","fetchBoxOfficeMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies/box-office","fetchMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies","fetchRecommandedBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast/recommend","fetchBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast","fetchRecommandedShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show/recommend","fetchShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show","fetchNewMusic":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics/new","fetchMusics":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics","fetchShoppingItems":"https://platform.editor.naver.com/api/blogpc001/v1/material/shopping/items","fetchPopularNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/popular","fetchRecommendedTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel/popular","fetchTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel","fetchNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news","fetchImages":"https://platform.editor.naver.com/api/blogpc001/v1/images","fetchRecommendedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/recommend","fetchStickers":"https://platform.editor.naver.com/api/blogpc001/v1/stickers","fetchNewsDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/detail","fetchNaverPlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGooglePlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/text/locations","deleteFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","updateFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchAuthorizedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/storep/right-url","fetchPurchasedImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/purchased","updateStickerUseFlag":"https://platform.editor.naver.com/api/blogpc001/v1/stickers/validation","fetchCalculatedResult":"https://platform.editor.naver.com/api/blogpc001/v1/calculation","fetchTranslate":"https://platform.editor.naver.com/api/blogpc001/v1/translate","fetchMoments":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchClips":"https://platform.editor.naver.com/api/blogpc001/v1/moments","addNCloudFile":"//blog.naver.com/RabbitNDriveFileUpload.naver","streamIntro":"https://ax.editor.naver.com/api/blogpc001/prompts/intro/v1","fetchMyTemplates":"//blog.naver.com/RabbitTemplateList.naver","fetchPartialTemplates":"//blog.naver.com/PartTemplateList.naver","streamOutro":"https://ax.editor.naver.com/api/blogpc001/prompts/outro/v1","fetchMyTemplate":"//blog.naver.com/RabbitTemplateRead.naver","fetchSearch":"https://ax.editor.naver.com/api/blogpc001/persona/_search/v1","fetchRecommendedTemplate":"//blog.naver.com/RecommendTemplateRead.naver","streamTitle":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/title/v1","fetchConvertedDocument":"//upconvert.editor.naver.com/v2/convert/blog","deleteMyTemplate":"//blog.naver.com/RabbitTemplateDelete.naver","streamArticle":"https://ax.editor.naver.com/api/blogpc001/prompts/article/v1","streamContinue":"https://ax.editor.naver.com/api/blogpc001/writer/_continue/v1","addMyTemplate":"//blog.naver.com/RabbitTemplateWrite.naver","fetchAuthToken":"//blog.naver.com/RabbitTokenGenerate.naver","fetchOutline":"https://ax.editor.naver.com/api/blogpc001/prompts/outline/v1","streamTags":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/tags/v1","streamExpand":"https://ax.editor.naver.com/api/blogpc001/writer/_expand/v1","fetchConvertedHtml":"//upconvert.editor.naver.com/blog/html/components","fetchFilter":"https://ax.editor.naver.com/api/blogpc001/tool/aifilter/v1","streamSummarize":"https://ax.editor.naver.com/api/blogpc001/writer/_summarize/v1","streamRewrite":"https://ax.editor.naver.com/api/blogpc001/writer/_rewrite/v1","addNCloudVideo":"//blog.naver.com/RabbitNDriveVideoUpload.naver","addFile":"https://platform.editor.naver.com/api/blogpc001/v1/upload/file","fetchRecommendedTemplates":"//blog.naver.com/RecommendTemplateList.naver"},"serviceInfo":{"appCode":"blogpc001","isInHouse":true}}
+<Response [200]>
+9090909090909090
+
+{"isSuccess":true,"result":{"autoSaveNo":1742955633144}}
+9090909090909090
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'int'>
+현재 타임스탬프(ms): 1742955642926
+{"result_code":1,"result_data":{"message":"success"}}
+도움말x
+시작
+File saved to: C:\Users\i\Desktop\마케팅 자동프로그램\네이버\logfile.txt
