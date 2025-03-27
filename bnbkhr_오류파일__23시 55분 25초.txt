@@ -1,0 +1,47 @@
+config_dir C:\Users\user\AppData\Local\MyApp
+현재 설정: {}
+----------------------------import --------
+에러메세지
+'username'
+DB access----success!!
+DB access----success!!
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\017dd8e0f27b45239c319028b663b9ff.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\c3ab57617ebc4cbea4bbb7de7d78a612.pyd
+Running main() from the .pyd file...
+Captured output: 134
+최신 크롬 버전 :: 134
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\429f6750097349009c95e43d6846b0d3.pyd
+Running main() from the .pyd file...
+Captured output: 134
+내 드라이버 버전 :: 134
+=========================================
+내 크롬 버전 :: 134
+최신 크롬 버전 :: 134
+내 드라이버 버전 :: 134
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+모든 mp3 파일 1분 이상 확인(이상없음)
+모드3
+config_dir C:\Users\user\AppData\Local\MyApp
+🔄 settings.json 업데이트 완료!
+📂 settings.json 최초 생성 완료!
+✅ 설정 변경 없음 (덮어쓰기 생략)
+----------------------------import --------
+에러메세지
+Error code: 401 - {'error': {'message': 'Incorrect API key provided: _LYidjLr***********************************************mXwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+----------------------------import --------
+에러메세지
+Error code: 401 - {'error': {'message': 'Incorrect API key provided: _LYidjLr***********************************************mXwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+시작
+File saved to: C:\Users\user\Desktop\쇼츠 프로그램\logfile.txt
