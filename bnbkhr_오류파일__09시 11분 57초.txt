@@ -1,0 +1,24 @@
+chatGPT1
+맨아래
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\0bf9bae62d7847d583f7b16432f1096e.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\56a33a7b180448f5b01fa01acadbe7fa.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\c4b7f86c948f4126ab505b9d498fa591.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+시작
+File saved to: C:\Users\msi\블로그 자동 포스팅\logfile.txt
