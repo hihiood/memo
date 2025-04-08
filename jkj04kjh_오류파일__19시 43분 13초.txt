@@ -1,0 +1,86 @@
+----------------------------import --------
+에러메세지
+Expecting value: line 1 column 1 (char 0)
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\ec9786d25b1344108fc1f7e191fe43e7.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\7631df10c3ad4540b3d38d0c3f49068f.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\6c0ba696ff4a4d03adfff7a0799a2393.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+[*] No process is using port 9222.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\dee9329084134cb9a5d6861f654874d3.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\3cf64059ec304768af75671ab17b4a44.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\81e2b86ffde84616a7135dc592451521.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\f507e888726d45f1a65751ce58e0b139.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\c6da2daa785d467eb6e665872d9e3f3b.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\128db75a15d24496986b3f303a0292da.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\fd8dfaeb563b466eb45d021bd4d28e2e.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\b16043de51aa4b888431e388358f0357.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\i\AppData\Local\Temp\81ad5cfb61774f038cfd94a674e61454.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+시작
+File saved to: C:\Users\i\Desktop\마케팅 자동프로그램\네이버\logfile.txt
