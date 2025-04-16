@@ -1,0 +1,50 @@
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+1
+0    베리핏PT 풍무역점
+Name: 작업 매장, dtype: object
+더보기
+머지???
+풍무동 pt
+풍무동 pt 더보기
+머지???
+풍무동 pt
+검색결과
+더보기
+이미지
+더보기
+동영상
+더보기
+더보기
+카페 중고거래
+더보기
+map 찾는중
+map 찾음
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+다음페이지
+pagedown간다
+시작
+File saved to: E:\SynologyDrive\(네이버플레이스)\logfile.txt
