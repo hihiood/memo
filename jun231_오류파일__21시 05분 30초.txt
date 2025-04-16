@@ -1,0 +1,245 @@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+E:\SynologyDrive\(네이버플레이스)\naverPlace_trafficV11_34.py:366: DeprecationWarning: The 'text' argument to find()-type methods is deprecated. Use 'string' instead.
+  module.main()
+Captured output: 135
+최신 크롬 버전 :: 135
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+1
+0    베리핏PT 풍무역점
+Name: 작업 매장, dtype: object
+E:\SynologyDrive\(네이버플레이스)\naverPlace_trafficV11_34.py:1166: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(chromedriver_path, options=chrome_options)
+더보기
+머지???
+풍무동 pt
+풍무동 pt 더보기
+머지???
+풍무동 pt
+검색결과
+더보기
+이미지
+더보기
+동영상
+더보기
+더보기
+카페 중고거래
+더보기
+map 찾는중
+map 찾음
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+---------B
+namelist[Q5].text 김포 점핑 운동 전문 센터
+namelist[Q5].text 헬스힐
+namelist[Q5].text 바디빚다 헬스&PT 풍무점
+namelist[Q5].text 세트짐 헬스&PT 풍무점
+namelist[Q5].text 핏메이커 헬스&PT 풍무점
+namelist[Q5].text 마핏PT스튜디오 김포풍무점
+namelist[Q5].text 고트스트레칭&피티
+namelist[Q5].text 디엠짐 헬스&PT 풍무점
+namelist[Q5].text 베리핏PT 풍무역점
+namelist[Q5].text 포짐 헬스&PT 풍무점
+namelist[Q5].text 헬스힐
+namelist[Q5].text 코어운동재활센터
+namelist[Q5].text 청년피티 풍무점 24시헬스
+namelist[Q5].text 여성전용 피트니스지금 헬스&PT 풍무점
+namelist[Q5].text 600평대 베니스휘트니스 PT 사우나
+namelist[Q5].text 해내다짐
+namelist[Q5].text 데이온휘트니스 헬스&PT 풍무 2호점
+namelist[Q5].text 리햅핏 필라테스&재활피티 풍무점
+namelist[Q5].text 리라필라테스 김포점
+namelist[Q5].text 제온휘트니스 풍무점
+namelist[Q5].text 에이펙스이엠에스스튜디오 김포점
+namelist[Q5].text 크로스핏 투비
+namelist[Q5].text 청년피티 풍무점 24시헬스
+namelist[Q5].text 600평대 베니스휘트니스 PT 사우나
+namelist[Q5].text 바디아트짐
+namelist[Q5].text 서울아시바임대BT비티아시바피티비계설치발판유로폼대림가설재
+namelist[Q5].text 드림BT비티,PT피티,아시바,비계임대.대여
+namelist[Q5].text 바디플러스 자이로토닉
+namelist[Q5].text A필라테스 풍무점
+namelist[Q5].text 김포 점핑 운동 전문 센터
+namelist[Q5].text 애니타임피트니스 풍무점
+namelist[Q5].text 앤 필라테스
+namelist[Q5].text 헬스트렌드
+namelist[Q5].text 프라임휘트니스
+namelist[Q5].text 더피티짐 검단신도시점
+namelist[Q5].text 드라이짐 헬스PT 검단점
+namelist[Q5].text 힙디자인팩토리 PT 검단 신도시점
+namelist[Q5].text 팀윤짐 PT 검단점
+namelist[Q5].text 오유짐
+namelist[Q5].text 하이브짐 헬스 PT 검단점
+namelist[Q5].text 검단위너짐PT
+namelist[Q5].text 챌린짐 헬스PT 검단신도시점
+namelist[Q5].text 오에스짐 헬스&PT 검단점
+namelist[Q5].text J2M SPORTS
+namelist[Q5].text B2B PT STUDIO
+namelist[Q5].text 홍지피티
+namelist[Q5].text 엠프레스짐
+namelist[Q5].text 바디자인PT 향산점
+namelist[Q5].text CM건강운동PT 검단본점
+namelist[Q5].text 마침.여기,피티스튜디오
+namelist[Q5].text 데이온 휘트니스 헬스&PT 검단1호점
+namelist[Q5].text 와이필라앤피티
+namelist[Q5].text 준앤신피티
+namelist[Q5].text 메탈짐 헬스 PT 검단점
+namelist[Q5].text 스타짐 헬스 PT 사우역점
+namelist[Q5].text MJ아카데미
+namelist[Q5].text 스트롱쌀롱PT 사우동헬스장
+namelist[Q5].text 기버핏 PT 검단점
+namelist[Q5].text 블리핏 PT&Pilates
+namelist[Q5].text 마이PT
+namelist[Q5].text 피티워모 검단점
+namelist[Q5].text 오픈짐 김포시청점
+namelist[Q5].text BBGYM 김포점
+namelist[Q5].text 라이프블루 피트니스 사우점
+namelist[Q5].text 감정동헬스 에이짐
+namelist[Q5].text 필라테스린 사우역점
+namelist[Q5].text SNL휘트니스
+namelist[Q5].text 서울아시바임대BT비티아시바피티비계설치발판유로폼대림가설재
+namelist[Q5].text 포워드휘트니스 감정점
+namelist[Q5].text 비티아시바피티아시바전문업체
+namelist[Q5].text 드림BT비티,PT피티,아시바,비계임대.대여
+namelist[Q5].text 비티아시바피티아시바가설자재임대판매설치대여
+namelist[Q5].text 플랜휘트니스 사우역점
+namelist[Q5].text 비티BT아시바,피티아시바,파이프가설재판매임대
+pagedown간다
+Exception in thread Thread-2 (masterfunction):
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "E:\SynologyDrive\(네이버플레이스)\naverPlace_trafficV11_34.py", line 1481, in masterfunction
+    body.send_keys(Keys.PAGE_DOWN)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py", line 403, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x0080BE13+25539]
+	(No symbol) [0x007926A4]
+	(No symbol) [0x0066056E]
+	(No symbol) [0x006A3599]
+	(No symbol) [0x006A23AC]
+	(No symbol) [0x006CD82C]
+	(No symbol) [0x0069E144]
+	(No symbol) [0x006CDAA4]
+	(No symbol) [0x006EF2BA]
+	(No symbol) [0x006CD626]
+	(No symbol) [0x0069C57F]
+	(No symbol) [0x0069D8C4]
+	GetHandleVerifier [0x00B104D3+3189379]
+	GetHandleVerifier [0x00B25909+3276473]
+	GetHandleVerifier [0x00B1F9BC+3252076]
+	GetHandleVerifier [0x008A3970+646944]
+	(No symbol) [0x0079B91D]
+	(No symbol) [0x007988D8]
+	(No symbol) [0x00798A79]
+	(No symbol) [0x0078B1C0]
+	BaseThreadInitThunk [0x76F55D49+25]
+	RtlInitializeExceptionChain [0x7724CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7724CE91+561]
+
+시작
+File saved to: E:\SynologyDrive\(네이버플레이스)\logfile.txt
