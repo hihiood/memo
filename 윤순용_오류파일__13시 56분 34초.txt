@@ -1,0 +1,32 @@
+2
+3
+시작
+File saved to: C:\Users\jbj09\Downloads\folder\logfile.txt
+
+--- Captured Logs ---
+2
+3
+시작
+File saved to: C:\Users\jbj09\Downloads\folder\logfile.txt
+
+Downloading Mychromecheck.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Download complete: Mychromecheck.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading RealchromeVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Download complete: RealchromeVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading driverVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Download complete: driverVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+시작
+File saved to: C:\Users\jbj09\Downloads\folder\logfile.txt
