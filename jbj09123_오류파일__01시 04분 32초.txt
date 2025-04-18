@@ -1,0 +1,61 @@
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+시작
+File saved to: C:\Users\jbj09\Downloads\folder\logfile.txt
+
+--- Captured Logs ---
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+시작
+File saved to: C:\Users\jbj09\Downloads\folder\logfile.txt
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+시작
+File saved to: C:\Users\jbj09\Downloads\folder\logfile.txt
