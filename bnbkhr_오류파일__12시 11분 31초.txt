@@ -1,0 +1,62 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\67b9cf9b2ce14fb9bf8e2f02fbeaa25c.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\fcf8289d90f74467bf3b59fed3ca1a15.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\581f1321d3644b8799037b4be5d66810.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\9244727bd9034a81b2f0d290ecac8ec5.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\2d2385007b0d4978834cc9ba6db09778.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\e6ae61ecc6394b6ba6e6687ca151d7fb.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+DB access----success!!
+folder_to_check C:\Users\user\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\user\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+DB access----success!!
+DB access----success!!
+시작
+File saved to: C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1\logfile.txt
