@@ -1,0 +1,45 @@
+errolinkQQ D:\Documents and setting\Desktop\티스토리2
+errolinkQQ_page3 D:\Documents and setting\Desktop\티스토리2
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1111"     crossorigin="anonymous"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1111"     crossorigin="anonymous"></script>     crossorigin="anonymous"></script>
+Downloading Mychromecheck.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Download complete: Mychromecheck.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+Downloading RealchromeVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Download complete: RealchromeVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+Downloading driverVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Download complete: driverVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+GPT-4o
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 크롬 버전 :: 135
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+최신 크롬 버전 :: 135
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 135
+최신 크롬 버전 :: 135
+내 드라이버 버전 :: 135
+DB access----success!!
+크롬드라이버 강제 종료 성공
+시작
+File saved to: D:\Documents and setting\Desktop\티스토리2\logfile.txt
