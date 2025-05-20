@@ -1,0 +1,28 @@
+chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Owner\AppData\Local\Temp\e4603f20ba84475598c829ebeea3d6da.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Owner\AppData\Local\Temp\f7384081135744118c2738c4e2e00c42.pyd
+Running main() from the .pyd file...
+Captured output: 136
+최신 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Owner\AppData\Local\Temp\e4c6dc3e5321448689223e0214cdfce6.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 드라이버 버전 :: 136
+=========================================
+내 크롬 버전 :: 136
+최신 크롬 버전 :: 136
+내 드라이버 버전 :: 136
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\Owner\Desktop\블로그자동화프로그램\logfile.txt
