@@ -1,0 +1,36 @@
+0    C:\Users\user\OneDrive\Desktop\바드마스터\I AM WEB\이미지
+Name: 이미지 경로, dtype: object
+0    없음
+Name: Positionlink, dtype: object
+0    없음
+Name: Pastlink, dtype: object
+엑셀 개수 1
+BLOGLINK 0    https://ssingssingcare.kr/
+Name: 블로그 주소, dtype: object
+errolinkQQ C:\Users\user\OneDrive\Desktop\바드마스터\I AM WEB
+chatGPT1
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\2a823fc749f34c1da04c57db9aa3a7f1.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\470a0c9aa72a4a139834dd9f05f8cc08.pyd
+Running main() from the .pyd file...
+Captured output: 136
+최신 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\a826eca70fc84e78868ddf24564f4847.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 드라이버 버전 :: 136
+=========================================
+내 크롬 버전 :: 136
+최신 크롬 버전 :: 136
+내 드라이버 버전 :: 136
+DB access----success!!
+{insertreplycomment.get()} chatGPT1
+insertreplycomment.get() chatGPT1
+chaeck_category cafe_information///naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT
+시작
+File saved to: C:\Users\user\OneDrive\Desktop\바드마스터\I AM WEB\logfile.txt
