@@ -1,0 +1,54 @@
+BLOGLINK 0     https://cafe.naver.com/gwangjuseogumom
+1     https://cafe.naver.com/gwangjuseogumom
+2     https://cafe.naver.com/gwangjuseogumom
+3     https://cafe.naver.com/gwangjuseogumom
+4     https://cafe.naver.com/gwangjuseogumom
+                       ...                  
+82    https://cafe.naver.com/gwangjuseogumom
+83    https://cafe.naver.com/gwangjuseogumom
+84    https://cafe.naver.com/gwangjuseogumom
+85    https://cafe.naver.com/gwangjuseogumom
+86    https://cafe.naver.com/gwangjuseogumom
+Name: 카페주소, Length: 87, dtype: object
+errolinkQQ C:\Users\user\Downloads\OneDrive-2025-05-19\네이버카페_쿠팡파트너스
+크롬드라이버 강제 종료 성공
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\49518416b35a4310859aaacf23300066.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\5721fb4648a1462d9e90cafce6796ea6.pyd
+Running main() from the .pyd file...
+Captured output: 136
+최신 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\0d917d4e60a940a49708783f09a0cd90.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 드라이버 버전 :: 136
+=========================================
+내 크롬 버전 :: 136
+최신 크롬 버전 :: 136
+내 드라이버 버전 :: 136
+전체 키워드 개수 :
+엑셀 개수 87
+DB access----success!!
+지금 아이디 :
+bless3ro
+ID2 bless3ro
+PW2 liwumn693
+CATEGORY 육아정보
+keyword_excel 육아용품
+BLOGLINK https://cafe.naver.com/gwangjuseogumom
+FRONTWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY 784fa73b-ba5c-407b-88d4-3d2d48f06c26
+coupangAPI_SECRET_KEY bb5de6d49e2ba122c7b7323425f18007ba84f16f
+coupang_imageCheck O
+ACCESS_KEY 784fa73b-ba5c-407b-88d4-3d2d48f06c26
+SECRET_KEY bb5de6d49e2ba122c7b7323425f18007ba84f16f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=육아용품&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cvdytl', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8598874&pageKey=%EC%9C%A1%EC%95%84%EC%9A%A9%ED%92%88&traceid=V0-183-a32012c042fe8a6c'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cvdytm', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8598874&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cvdytl
+시작
+File saved to: C:\Users\user\Downloads\OneDrive-2025-05-19\네이버카페_쿠팡파트너스\logfile.txt
