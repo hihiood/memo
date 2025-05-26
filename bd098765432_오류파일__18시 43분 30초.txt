@@ -1,0 +1,52 @@
+----------------------------import --------
+에러메세지
+'username'
+학습chatGPT1
+중간
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김창용\AppData\Local\Temp\0efd0953fca2482a97b22f2b73c6a9e1.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김창용\AppData\Local\Temp\b25e725ff5b047c98a645336a55f534b.pyd
+Running main() from the .pyd file...
+Captured output: 136
+최신 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김창용\AppData\Local\Temp\fd3a42dc0f8244f2b8b6468b2b6825e6.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 드라이버 버전 :: 136
+=========================================
+내 크롬 버전 :: 136
+최신 크롬 버전 :: 136
+내 드라이버 버전 :: 136
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김창용\AppData\Local\Temp\17146bdedcb04da2aa5d8f796ae17214.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김창용\AppData\Local\Temp\9f683c66b53742b7bcafe3cf4bad6942.pyd
+Running main() from the .pyd file...
+Captured output: 136
+최신 크롬 버전 :: 136
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김창용\AppData\Local\Temp\c42f555fc3744ef7b91784d2497f0c91.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 드라이버 버전 :: 136
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 136
+내 드라이버 버전 :: 136
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+시작
+File saved to: C:\Users\김창용\Desktop\folder (1) (2)\logfile.txt
