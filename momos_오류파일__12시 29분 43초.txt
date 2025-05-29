@@ -1,0 +1,143 @@
+buffers_g ['', '', '', '', '']
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.3.223
+
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.3.223
+
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.3.223
+
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.2.11
+
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.2.11
+
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.2.176
+
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.10.164
+
+
+시작
+realID momos
+realPW 1234
+로그인 성공
+모드3
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+6
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.2.158
+
+
+----------------------------import --------
+에러메세지
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.2.88
+
+
+----------------------------import --------
+에러메세지
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.10.45
+
+
+----------------------------import --------
+에러메세지
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  106.101.10.240
+
+
+----------------------------import --------
+에러메세지
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+IP 변경중...
+
+시작
+File saved to: C:\Users\아이프리98\Desktop\2025-05-29\logfile.txt
