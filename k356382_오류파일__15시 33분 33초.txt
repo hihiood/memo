@@ -1,0 +1,23 @@
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 135
+드라이버 업데이트 필요
+No matching Chromedriver files found.
+DB access----success!!
+시작
+File saved to: C:\Users\user\Desktop\플레이스\logfile.txt
