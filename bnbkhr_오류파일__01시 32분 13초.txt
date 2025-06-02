@@ -1,0 +1,37 @@
+chatGPT1
+맨아래
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅\logfile.txt
+
+--- Captured Logs ---
+chatGPT1
+맨아래
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅\logfile.txt
+
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\dafeba3f70284649ae531765d7c3b9fe.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\392e10eeec9741ceb206b6a5735ca454.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\58d497b927954760a50ea94cceab52ee.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅\logfile.txt
