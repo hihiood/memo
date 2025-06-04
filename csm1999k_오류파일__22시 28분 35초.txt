@@ -1,0 +1,275 @@
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+DB access----success!!
+1
+0    예일자원
+Name: 작업 매장, dtype: object
+----------------------------import --------
+에러메세지
+'NoneType' object has no attribute 'is_displayed'
+----------------------------import --------
+에러메세지
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0019FBC9]
+	(No symbol) [0x00233EEE]
+	(No symbol) [0x0024E039]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0020899E]
+	(No symbol) [0x00208D3B]
+	(No symbol) [0x00250F12]
+	(No symbol) [0x0022D5A4]
+	(No symbol) [0x0024E73B]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0020899E]
+	(No symbol) [0x00208D3B]
+	(No symbol) [0x00250F12]
+	(No symbol) [0x0022D5A4]
+	(No symbol) [0x0024E73B]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+시작
+File saved to: C:\Users\user\Desktop\네이버 플레이스\logfile.txt
+
+--- Captured Logs ---
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+DB access----success!!
+1
+0    예일자원
+Name: 작업 매장, dtype: object
+----------------------------import --------
+에러메세지
+'NoneType' object has no attribute 'is_displayed'
+----------------------------import --------
+에러메세지
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0019FBC9]
+	(No symbol) [0x00233EEE]
+	(No symbol) [0x0024E039]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0020899E]
+	(No symbol) [0x00208D3B]
+	(No symbol) [0x00250F12]
+	(No symbol) [0x0022D5A4]
+	(No symbol) [0x0024E73B]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0020899E]
+	(No symbol) [0x00208D3B]
+	(No symbol) [0x00250F12]
+	(No symbol) [0x0022D5A4]
+	(No symbol) [0x0024E73B]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+시작
+File saved to: C:\Users\user\Desktop\네이버 플레이스\logfile.txt
+
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0020899E]
+	(No symbol) [0x00208D3B]
+	(No symbol) [0x00250F12]
+	(No symbol) [0x0022D5A4]
+	(No symbol) [0x0024E73B]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x003A7843+60723]
+	GetHandleVerifier [0x003A7884+60788]
+	(No symbol) [0x001C0603]
+	(No symbol) [0x0020899E]
+	(No symbol) [0x00208D3B]
+	(No symbol) [0x00250F12]
+	(No symbol) [0x0022D5A4]
+	(No symbol) [0x0024E73B]
+	(No symbol) [0x0022D356]
+	(No symbol) [0x001FC840]
+	(No symbol) [0x001FD6B4]
+	GetHandleVerifier [0x005F73E3+2484435]
+	GetHandleVerifier [0x005F29C4+2465460]
+	GetHandleVerifier [0x0060DD9C+2577036]
+	GetHandleVerifier [0x003BE4B5+154021]
+	GetHandleVerifier [0x003C4C0D+180477]
+	GetHandleVerifier [0x003AF108+91640]
+	GetHandleVerifier [0x003AF292+92034]
+	GetHandleVerifier [0x00399DB0+4768]
+	BaseThreadInitThunk [0x758D7BA9+25]
+	RtlInitializeExceptionChain [0x7722C36B+107]
+	RtlClearBits [0x7722C2EF+191]
+
+시작
+File saved to: C:\Users\user\Desktop\네이버 플레이스\logfile.txt
