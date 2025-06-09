@@ -1,0 +1,49 @@
+----------------------------import --------
+에러메세지44
+'username'
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\e532425473124fd798f162f5c4cc64e9.pyd
+Running main() from the .pyd file...
+Captured output: Chrome 버전을 확인할 수 없습니다.
+내 크롬 버전 :: Chrome 버전을 확인할 수 없습니다.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\096a2c9c37d74e9fa8e24a11b8b3efec.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\ef739734795244c9a2b7bb9b8387166b.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: Chrome 버전을 확인할 수 없습니다.
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\268d0710563343faaa3b41f6bddac6e9.pyd
+Running main() from the .pyd file...
+Captured output: Chrome 버전을 확인할 수 없습니다.
+내 크롬 버전 :: Chrome 버전을 확인할 수 없습니다.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\51c9d7c2b06042a1b3b87333373dd37d.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\4a0840083bd64056a57501f64ae65c0f.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: Chrome 버전을 확인할 수 없습니다.
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅6.7\logfile.txt
