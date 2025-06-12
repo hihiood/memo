@@ -1,0 +1,39 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\c22fecaca80d4ac1a580762808613e6f.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\d763a4dc10d140e2ab2bd24ee2807da5.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\b769a5c28fd444ed83b9d4d13a34ff69.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+모든 mp3 파일 1분 이상 확인(이상없음)
+모드3
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+시작
+File saved to: C:\Users\user\Desktop\쇼츠 프로그램1\logfile.txt
