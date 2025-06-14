@@ -1,0 +1,2420 @@
+BLOGLINK 0       https://cafe.naver.com/internetalbite
+1       https://cafe.naver.com/internetalbite
+2       https://cafe.naver.com/internetalbite
+3       https://cafe.naver.com/internetalbite
+4       https://cafe.naver.com/internetalbite
+                        ...                  
+1369    https://cafe.naver.com/internetalbite
+1370    https://cafe.naver.com/internetalbite
+1371    https://cafe.naver.com/internetalbite
+1372    https://cafe.naver.com/internetalbite
+1373    https://cafe.naver.com/internetalbite
+Name: 카페주소, Length: 1374, dtype: object
+errolinkQQ C:\Users\김미란\Desktop\김규리이야기\프로그램\네이버카페 쿠팡파트너스
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김미란\AppData\Local\Temp\cf78271b8ba243e2a1f98c939c50ae65.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김미란\AppData\Local\Temp\587c1ae6c7be4c7080e8d769e2828c39.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김미란\AppData\Local\Temp\13f22abfe71443a7a9ddcbca5f22e32b.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+전체 키워드 개수 :
+엑셀 개수 1374
+DB access----success!!
+크롬드라이버 강제 종료 성공
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김미란\AppData\Local\Temp\8f3c677077a349a698d8911632920eea.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김미란\AppData\Local\Temp\243a854b8aad4f1eb8c6ccac488bade4.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\김미란\AppData\Local\Temp\d04e7bee771b408fa17e8e3e8d17aa53.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+전체 키워드 개수 :
+엑셀 개수 1374
+DB access----success!!
+지금 아이디 :
+gusgmd
+ID2 gusgmd
+PW2 rlaalfks!11
+CATEGORY 핫딜 정보 게시판
+keyword_excel 수분크림
+BLOGLINK https://cafe.naver.com/internetalbite
+FRONTWORD [키워드]'요즘 이거 모르면 손해라던데?'/가격 괜찮나?/성능은 믿을 만해?/이 모든 궁금증, 지금 단 3분이면 해결됩니다./
+정보 찾다가 시간 낭비 말고, 여기서 한 방에 정리해보세요!
+ENDWORD 가격·색상·할인 혜택부터/실사용 후기·추천 순위·제품 비교까지지금 이 글 하나로 모두 확인해보세요!/📦 오늘 주문하면 빠른 발송! 당일 출고 가능!/💡 이 포스팅은 쿠팡 파트너스 활동으로 일정 수수료를 받을 수 있습니다.
+coupangAPI_ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c2
+coupangAPI_SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba7defc
+coupang_imageCheck X
+ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c2
+SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba7defc
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=수분크림&channel=user', 'shortenUrl': 'https://link.coupang.com/a/czepKR', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF7264148&pageKey=%EC%88%98%EB%B6%84%ED%81%AC%EB%A6%BC&traceid=V0-183-96ce399f4391d348'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/czepKT', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF7264148&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/czepKR
+coupang_image_multi ['https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/159639472522302-8df44f6d-de20-4f92-b575-8e3e51e71fc3.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/90486168055398-f2d58618-5183-4550-b313-1b597d154ec1.png', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/17077244566249-ede486c3-fb73-4b6e-88bc-25f6660b9379.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/711411626878446-f5a03ad2-1be3-4c58-87f2-3cb245512016.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/165798414849723-cfa5e894-1805-4738-83c9-e317791cdcfb.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/a956/6a86f94750466a0401a7942c7e85a7a3cea94fc16a8a7d8a4e6b548d2937.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/10730022986867-1498a507-0f4d-4278-a3f5-c54aec048679.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/2025/02/27/15/4/d7dd9885-5085-4c48-aa96-12adfaf42940.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/d3df/c9907600fa471b4db81ec587c0b5c750ac214b6df4934738b47d482b3a55.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/1025_amir_coupang_oct_80k/72ba/558d034dbd53da2742aafe31c8f2f33755df1ec9c95f7e7f8afb20cfc38b.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/5755/73275d0a93c2f38446168d6aeb453da86c73c7b590d6b9f96b446785f3c2.png', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/711411626878446-f5a03ad2-1be3-4c58-87f2-3cb245512016.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/1665641200031548-f89e7976-a8a2-442e-80d2-329988977617.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/199448289014659-8bf42587-6474-48fb-808b-645f5cb9c9b6.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/e1ba/6800cffd62eabebf64cc2a2a6247f2d8a500831232f8f887ce242687a495.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/cfcceb84-3ae6-407c-ab7d-9dad499d75eb4526117426860090369.png', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/414471161040959-85118d07-3bde-4019-9eee-fee32bc96fea.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/ed29/e189503e477318bdb8638e7a7eb8543c0bfc16f63d4a8e6ab85e785e763e.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/435784157778648-2a7b19a0-5cdf-4e59-b4a8-54d0088926b5.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/1025_amir_coupang_oct_80k/8e22/38117f31fb6fc0fa1574336e525c25b7c06940280513ab08821d5b9bb9b3.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/e266/467587bbc89cd75dfc5c9746e81bb41df6b1c1a6e634afb9ae81c382d481.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/2025/02/27/15/4/d7dd9885-5085-4c48-aa96-12adfaf42940.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/b1b44bb1-798c-4cdd-9d1c-aea1ccdd7c152108549533506992554.png', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/955083884438865-364ff482-1d92-43b5-b230-a8f3aea794d3.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/895899656895542-bffa975b-ac12-49f1-82be-bab480d557cf.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/251279756046100-27cc4db5-2982-4504-b78a-b7ca601eeadb.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/fkbmhj39/331abdaa5bd846d6a572d079a8e7d39f.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1670048628494586-fbe05781-334d-4025-a373-798976062c62.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/01/11/18/5/28d8553c-60e1-4241-9278-cb6ca5ebe135.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/7800636233425888-303379f0-33da-412f-8117-62b2459433d9.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2023/12/04/14/4/8bceabb3-812b-44e8-be60-4f24e21bf8b2.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/894317263772469-477e3866-7852-4aa4-bddb-c508027d0f73.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/xq0cr1o6/61bc2e7d0dce4e97a76456c3fd6befa7.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/01/25/14/9/e0a866fc-d95d-426d-80d3-a77984ef6561.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/44820496806194-c960f780-ed5e-4d25-9063-5a0ed449141d.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/product/image/vendoritem/2015/04/27/3000258176/78bcff77-f85e-4dd4-a39c-f94175247adc.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/165716161331968-e49cc794-cf5b-4f7d-8770-bccad5cec9fd.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/c8e89e26-b1bd-4edf-b49a-ace7f0c7e6742451102868394440511.png', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/197a83c3-478b-43d8-8bda-045b5b4940583995131705859570335.png', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/e65d92e6-a799-4da6-9c9d-27a39044b8133077018098323082456.png', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1adf35aa-b445-4d66-bfca-81221d2f9aad7884909604693277595.png', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2023/08/18/11/0/d49a5270-fb89-4337-ba7f-31d7cfa61abf.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2021/06/30/9/6/ad30bbe4-61f2-4730-a215-6bb6cc42195c.jpg', 'https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/10b76913-cd78-4ede-95ec-48e85a3e38bf4327600286819527561.png', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/9ab1/f76e56eb0150277cc84ffc61b69299cbb1968ab5d9484ead185584f0cf76.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/1747373455775572-0d6a773a-8ae9-4957-89f1-2d9c4e5ca52a.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/bc26/0179235ae1d1cc47603b87cf22c2cbb787f91c521546fdb9a3cd7de17839.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/2342/d41e0c8ff43d211a3f10594f039d267b68b1f2758421a95d2273d1878826.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/6153886900226766-92e98fba-daba-45ed-a5d7-d883d84089c4.jpg', 'https://thumbnail9.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/159639472522302-8df44f6d-de20-4f92-b575-8e3e51e71fc3.jpg', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/2d29/96874b46d596b0a86f0d46a492a84e0f4803760cc6030e0166f3a837404b.jpg', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/e8c1/d16199477dcb7d9ba895eb3c31e1b55473f699d2a23e3717ae704526bb71.png', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/vendor_inventory/1444/76c38b7525d1c4c8ca4dbb486f371047d2b6d21747843b78a3b53af028af.png', 'https://thumbnail6.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/83252769073508-78bccc17-2882-457c-917c-2f65c608f84c.png', 'https://thumbnail10.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/25643710296276-f05b3754-94ef-445f-8a4d-5b1b3d72c252.jpg', 'https://thumbnail8.coupangcdn.com/thumbnails/remote/320x320ex/image/retail/images/6153886900226766-92e98fba-daba-45ed-a5d7-d883d84089c4.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/05/15/9/2f98b846-ec02-42ae-886e-91242ad58250.png', 'https://static.coupangcdn.com/image/vendor_inventory/4ffa/9a788fcbe6106c7dda55a4d0490f818f540100cc7ca838e9fa82291cc68e.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/cea1/f237dd70df0ad82d3321518339aec1b0656e33ba817b1e66e082c415602f.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/4468/39abbe5d5246675648c0ac0f6fa276873d0339125d8820c17c9bcd1b16fd.JPG', 'https://static.coupangcdn.com/image/vendor_inventory/cd37/7ec5c8fb86a95118675cc55475e81cbb67e77fbdebc2462eb01a5f835c4d.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/161b/4cdc1ce3748729ec27f5cd5418c716b1f80a39e2048347f627d745a41546.JPG', 'https://static.coupangcdn.com/image/vendor_inventory/57ad/63a1275a5fdcc250ca9529085485ccf795cb770c78a52549f2ec3d631588.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/19c7/d7492f053054003c7e1c660576dc0ab3cb0857b2fae97d45428ba15183d6.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/8b9f/a21282db0312e40a24d38607e71d0a32d3df01636b2fbb67b5940172c8ba.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/84a4/c843a17849c8ee2ae7910e29d768af40e59cb38255fc2b9648d1bb40095a.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/f17f/3c8c94c341cb79aea7af8d128072f0135680220682657c8db38d5a654f7f.jpg', 'https://static.coupangcdn.com/image/product/image/vendoritem/2016/02/15/3012185370/1f530233-7e40-4b0d-9634-5a2c31a24558.JPG', 'https://static.coupangcdn.com/image/vendor_inventory/c164/f0e66a2581eb81162eac78bcd68f38ae4322cd07904fc79f949fbaea2681.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/a481/c6db5b58383533bff3a90a3623818e691f599999c9990379f5628f94ca04.jpeg', 'https://static.coupangcdn.com/image/vendor_inventory/e29c/88a030890d1c86ebb4f2cecdc72a1f74386709cddeda568dbaf1bf41f349.jpg', 'https://static.coupangcdn.com/image/product/image/vendoritem/2016/02/12/3012185414/094cddd5-9199-4e1d-afd1-371fc37c3542.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/1f14/95101af342824a891fbc6e04e34fb6c79a71a710dde5a3d245c4392b3f1a.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/5547/10499b4df1eb0c76c542fdfaa8c308d26260a58e1c71373b7e77bbc2d049.png', 'https://static.coupangcdn.com/image/vendor_inventory/d1e8/9c46ba5ee1c261e33126a0625872e9e5eecbfe3d23d4ce55b53b57aa0312.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/7d5f/b6ef9ccde1355898926a3a58f7cbb7eae3f20ff25ba1ec66300bccf24292.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/515b/5d8274d7242071eb6bdaa962728ba06ca0e5963d65d14231de66249d2b59.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/1965/820a65082e356e01a6f9566a3590c6dd47ece37d879f8d08fc9a3afb541e.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/1cf8/d4d6d54c20397a7e8fdf99bb4386f6b0bb260dfc75d4b032e36bf511b34b.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/a020/3bba33b7f0b121f6b4542e707cbe910926d600090b0845e0478a7b3e2e31.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/d7a0/c62fd363df6c2b025b4adfa65430a237ec85fdd082f4e62c7d2c9951efcf.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/cdee/8d78a08d7cb6ce630b143594d9651d56a4e0eb8ad8a41b7dc07f906d3935.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/25d7/d4f02a430f9bef4c8a51614dac3acead92aaa6793645fa6edb5a39ce5b28.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/fc47/27b151008ff41ec97b55190e237bf5482d3c76edd5365fe1366c5feaba6b.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/58ba/883ceef6ac96e18ade16289a10ccf995c2c7112f61322f3c2d20603fb04d.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/c316/908b500d527dc293b852e3199c7587512e98322b026dbf36a349659bbbab.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/c0ba/c6c4a784f605356508bd5b2e2127378949e5d3486b7644813b0dbfd04582.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/9dfd/e295f90e0e8287ba090b7fc381033572ed1c93491dbfa51b78431dad6f4f.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/ab82/db70f62cedfcf5c1871ffe646c4fc0285205d8c24187381c216a01f038de.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/538f/097064205b3cad9e2174209588acbed273e9fe314c320861e85cad8bcebb.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/a51a/961a8e9717e215bf66f64ce099a50a0e915b4210703cbf60ada4c1648548.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/09f3/77cebefdda5d876476f51b1f1dfa6983b2763bdba5274a1f514fcecd75f6.jpeg', 'https://static.coupangcdn.com/image/vendor_inventory/a020/3bba33b7f0b121f6b4542e707cbe910926d600090b0845e0478a7b3e2e31.jpg', 'https://static.coupangcdn.com/image/vendor_inventory/97cf/d054d2951c079669080ba293a3fa737ab85c49ccdfdbd1c1f7f79cb25da5.jpg']
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+----------------------------import --------
+에러메세지
+400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+바드1111111111111111111111111111111111111
+GOOGLE_API_KEY d-YZ6mI4
+시작
+File saved to: C:\Users\김미란\Desktop\김규리이야기\프로그램\네이버카페 쿠팡파트너스\logfile.txt
