@@ -1,0 +1,50 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\75afb702524440ccb0b4cac97adf057c.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\3147b28f515a495ab947a0b6e022ba75.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\1e222ba45ec24068a23320c993dde337.pyd
+Running main() from the .pyd file...
+Captured output: 136
+내 드라이버 버전 :: 136
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 136
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7104.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: G:\최신쇼츠5.14일\쇼츠 프로그램1\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to G:\최신쇼츠5.14일\쇼츠 프로그램1\temp_chromedriver
+Existing ChromeDriver found at G:\최신쇼츠5.14일\쇼츠 프로그램1\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted G:\최신쇼츠5.14일\쇼츠 프로그램1\chromedriver.exe
+ChromeDriver copied and moved to current folder: G:\최신쇼츠5.14일\쇼츠 프로그램1
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+모든 mp3 파일 1분 이상 확인(이상없음)
+모드3
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+시작
+File saved to: G:\최신쇼츠5.14일\쇼츠 프로그램1\logfile.txt
