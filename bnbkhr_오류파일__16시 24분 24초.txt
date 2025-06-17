@@ -1,0 +1,30 @@
+시작
+File saved to: C:\Users\user\Desktop\쇼츠 프로그램1\logfile.txt
+
+--- Captured Logs ---
+시작
+File saved to: C:\Users\user\Desktop\쇼츠 프로그램1\logfile.txt
+
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\740970a25df04775952ed4ab3533358b.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\e3d39f2d4070454ca20475d436d05e08.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\fe674ac167e84b05bd231b582dbf5bab.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+File saved to: C:\Users\user\Desktop\쇼츠 프로그램1\logfile.txt
