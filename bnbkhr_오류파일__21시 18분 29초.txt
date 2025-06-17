@@ -1,0 +1,43 @@
+chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\033f8bef17944a5c9946d3c52e6ec7df.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\270fef82b1a646f4b0991ca89fc76348.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\70a9d85523184d5aa2c65457b966dc64.pyd
+Running main() from the .pyd file...
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅6.7\logfile.txt
+
+--- Captured Logs ---
+chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\033f8bef17944a5c9946d3c52e6ec7df.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\270fef82b1a646f4b0991ca89fc76348.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\70a9d85523184d5aa2c65457b966dc64.pyd
+Running main() from the .pyd file...
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅6.7\logfile.txt
+
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\블로그 포스팅6.7\logfile.txt
