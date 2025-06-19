@@ -1,0 +1,31 @@
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\f319a25205c8483bb48b7f119e95e1a6.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\b9ab9f9177094bc286a45774374b0629.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\b0c1e5a8c31a4c33ae0d29a4778f3def.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\USER\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\USER\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\USER\Desktop\블로그 포스팅\logfile.txt
