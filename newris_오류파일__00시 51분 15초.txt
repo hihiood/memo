@@ -1,0 +1,200 @@
+BLOGLINK 0       https://cafe.naver.com/internetalbite
+1       https://cafe.naver.com/internetalbite
+2       https://cafe.naver.com/internetalbite
+3       https://cafe.naver.com/internetalbite
+4       https://cafe.naver.com/internetalbite
+                        ...                  
+1366    https://cafe.naver.com/internetalbite
+1367    https://cafe.naver.com/internetalbite
+1368    https://cafe.naver.com/internetalbite
+1369    https://cafe.naver.com/internetalbite
+1370    https://cafe.naver.com/internetalbite
+Name: 카페주소, Length: 1371, dtype: object
+errolinkQQ C:\Users\am243\Desktop\프로그램\네이버카페_쿠팡파트너스
+크롬드라이버 강제 종료 성공
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\001771ba936d46f9b9d208f4f8accc2b.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\da20433c7579477594c7bd8f57e7031d.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\d887259a08ed4070b1c68be0a74e26d7.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+전체 키워드 개수 :
+엑셀 개수 1371
+DB access----success!!
+지금 아이디 :
+sangtai1004
+ID2 sangtai1004
+PW2  tkdxo6631!!!
+CATEGORY 핫딜 정보 게시판
+keyword_excel 장수진크림
+BLOGLINK https://cafe.naver.com/internetalbite
+FRONTWORD [키워드]"이 정도 퀄리티에 이 가격 실화?"/입소문만 무성하던 [키워드], 직접 확인해봤습니다.성능은 기대 이상? 이하?/궁금하면 지금 바로 아래로 스크롤 해보세요./시간 아까운 분들을 위해 요약도 넣어뒀어요👌
+ENDWORD 가격·색상·할인 혜택부터/실사용 후기·추천 순위·제품 비교까지지금 이 글 하나로 모두 확인해보세요!/📦 오늘 주문하면 빠른 발송! 당일 출고 가능!/💡 이 포스팅은 쿠팡 파트너스 활동으로 일정 수수료를 받을 수 있습니다.
+coupangAPI_ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+coupangAPI_SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+coupang_imageCheck X
+ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+resdata {'code': 'ERROR', 'message': 'Specified key is not registered.', 'transactionId': '646323fc-fcf0-46cc-88aa-474cd596c967'}
+----------------------------import --------
+에러메세지
+'data'
+30
+00시 50분 52초
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 0
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 1
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 2
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 3
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 4
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 5
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 6
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 7
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\8d426dc592a648bf9322d9f12b2c094e.pyd
+Running main() from the .pyd file...
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 8
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\d1d6201eb8a245639f5f99d54d6b8b16.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\d4695bc08a30409c8b7b717ace30c009.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+전체 키워드 개수 :
+엑셀 개수 1371
+DB access----success!!
+지금 아이디 :
+sangtai1004
+ID2 sangtai1004
+PW2  tkdxo6631!!!
+CATEGORY 핫딜 정보 게시판
+keyword_excel 장수진크림
+BLOGLINK https://cafe.naver.com/internetalbite
+FRONTWORD [키워드]"이 정도 퀄리티에 이 가격 실화?"/입소문만 무성하던 [키워드], 직접 확인해봤습니다.성능은 기대 이상? 이하?/궁금하면 지금 바로 아래로 스크롤 해보세요./시간 아까운 분들을 위해 요약도 넣어뒀어요👌
+ENDWORD 가격·색상·할인 혜택부터/실사용 후기·추천 순위·제품 비교까지지금 이 글 하나로 모두 확인해보세요!/📦 오늘 주문하면 빠른 발송! 당일 출고 가능!/💡 이 포스팅은 쿠팡 파트너스 활동으로 일정 수수료를 받을 수 있습니다.
+coupangAPI_ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+coupangAPI_SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+coupang_imageCheck X
+ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+resdata {'code': 'ERROR', 'message': 'Specified key is not registered.', 'transactionId': '85932e41-9e88-4eab-8e3a-3496fe046137'}
+----------------------------import --------
+에러메세지
+'data'
+30
+00시 51분 00초
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 0
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 9
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 1
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 10
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 2
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 11
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 3
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 12
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 4
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 13
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 5
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 14
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 6
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 15
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 7
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 16
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 8
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 17
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 9
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 18
+크롬드라이버 강제 종료 성공
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 10
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 19
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 11
+timeclock_forLoop 30.0
+asdf2 1800
+동작중 20
+시작
+File saved to: C:\Users\am243\Desktop\프로그램\네이버카페_쿠팡파트너스\logfile.txt
