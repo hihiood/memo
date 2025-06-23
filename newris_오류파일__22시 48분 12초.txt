@@ -1,0 +1,412 @@
+BLOGLINK 0       https://cafe.naver.com/internetalbite
+1       https://cafe.naver.com/internetalbite
+2       https://cafe.naver.com/internetalbite
+3       https://cafe.naver.com/internetalbite
+4       https://cafe.naver.com/internetalbite
+                        ...                  
+1366    https://cafe.naver.com/internetalbite
+1367    https://cafe.naver.com/internetalbite
+1368    https://cafe.naver.com/internetalbite
+1369    https://cafe.naver.com/internetalbite
+1370    https://cafe.naver.com/internetalbite
+Name: 카페주소, Length: 1371, dtype: object
+errolinkQQ C:\Users\am243\Desktop\프로그램\네이버카페_쿠팡파트너스
+크롬드라이버 강제 종료 성공
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\c521a485b0274bfd91381c650dccb20b.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\abdb7c7e536640aab9f201a5150da782.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\08230b9ba94049369363b9ce05232221.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+전체 키워드 개수 :
+엑셀 개수 1371
+DB access----success!!
+지금 아이디 :
+sangtai1004
+ID2 sangtai1004
+PW2  tkdxo6631!!!
+CATEGORY 핫딜 정보 게시판
+keyword_excel 장수진크림
+BLOGLINK https://cafe.naver.com/internetalbite
+FRONTWORD [키워드]"이 정도 퀄리티에 이 가격 실화?"/입소문만 무성하던 [키워드], 직접 확인해봤습니다.성능은 기대 이상? 이하?/궁금하면 지금 바로 아래로 스크롤 해보세요./시간 아까운 분들을 위해 요약도 넣어뒀어요👌
+ENDWORD 가격·색상·할인 혜택부터/실사용 후기·추천 순위·제품 비교까지지금 이 글 하나로 모두 확인해보세요!/📦 오늘 주문하면 빠른 발송! 당일 출고 가능!/💡 이 포스팅은 쿠팡 파트너스 활동으로 일정 수수료를 받을 수 있습니다.
+coupangAPI_ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+coupangAPI_SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+coupang_imageCheck X
+ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+resdata {'code': 'ERROR', 'message': 'Specified key is not registered.', 'transactionId': '8db52e90-9434-454c-87d9-82b5bee3ec5b'}
+----------------------------import --------
+에러메세지
+'data'
+60
+22시 47분 12초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\4e295c97bd3546bab2fa88f8b9516010.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\68272dc8eafe461d8c84eb594efda7ec.pyd
+Running main() from the .pyd file...
+Captured output: 137
+최신 크롬 버전 :: 137
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\am243\AppData\Local\Temp\6eba9572bfb04a8995937eded856501e.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 137
+최신 크롬 버전 :: 137
+내 드라이버 버전 :: 137
+전체 키워드 개수 :
+엑셀 개수 1371
+DB access----success!!
+지금 아이디 :
+sangtai1004
+ID2 sangtai1004
+PW2  tkdxo6631!!!
+CATEGORY 핫딜 정보 게시판
+keyword_excel 장수진크림
+BLOGLINK https://cafe.naver.com/internetalbite
+FRONTWORD [키워드]"이 정도 퀄리티에 이 가격 실화?"/입소문만 무성하던 [키워드], 직접 확인해봤습니다.성능은 기대 이상? 이하?/궁금하면 지금 바로 아래로 스크롤 해보세요./시간 아까운 분들을 위해 요약도 넣어뒀어요👌
+ENDWORD 가격·색상·할인 혜택부터/실사용 후기·추천 순위·제품 비교까지지금 이 글 하나로 모두 확인해보세요!/📦 오늘 주문하면 빠른 발송! 당일 출고 가능!/💡 이 포스팅은 쿠팡 파트너스 활동으로 일정 수수료를 받을 수 있습니다.
+coupangAPI_ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+coupangAPI_SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+coupang_imageCheck X
+ACCESS_KEY a9f40e56-0aeb-4675-8d5b-98cc71cf51c3
+SECRET_KEY cb98f4a0aa6addb8752cd3bdeb7169c72ba8defc
+resdata {'code': 'ERROR', 'message': 'Specified key is not registered.', 'transactionId': 'ee355554-6821-4ddc-910f-873444ac011e'}
+----------------------------import --------
+에러메세지
+'data'
+60
+22시 47분 20초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 9
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 10
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 11
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 12
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 13
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 14
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 15
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 16
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 9
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 17
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 10
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 18
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 11
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 19
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 12
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 20
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 13
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 21
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 14
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 22
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 15
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 23
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 16
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 24
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 17
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 25
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 18
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 26
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 19
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 27
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 20
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 28
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 21
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 29
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 22
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 30
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 23
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 31
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 24
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 32
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 25
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 33
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 26
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 34
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 27
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 35
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 28
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 36
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 29
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 37
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 30
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 38
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 31
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 39
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 32
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 40
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 33
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 41
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 34
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 42
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 35
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 43
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 36
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 44
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 37
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 45
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 38
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 46
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 39
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 47
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 40
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 48
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 41
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 49
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 42
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 50
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 43
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 51
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 44
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 52
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 45
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 53
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 46
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 54
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 47
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 55
+시작
+File saved to: C:\Users\am243\Desktop\프로그램\네이버카페_쿠팡파트너스\logfile.txt
