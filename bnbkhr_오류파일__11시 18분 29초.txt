@@ -1,0 +1,37 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\2189bd9698fd48b494dde879b1bf2c32.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\f21be977901e41b2b79681f79bbbc055.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\928adcabc9f14e579fb1ad51cb03b56c.pyd
+Running main() from the .pyd file...
+Captured output: 137
+내 드라이버 버전 :: 137
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 137
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7152.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1\temp_chromedriver
+Existing ChromeDriver found at C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+File saved to: C:\Users\user\OneDrive\Desktop\쇼츠 프로그램1\logfile.txt
