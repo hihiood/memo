@@ -1,0 +1,16 @@
+DB access----success!!
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+모든 mp3 파일 1분 이상 확인(이상없음)
+모드3
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+----------------------------import --------
+에러메세지
+Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+시작
+File saved to: C:\Users\ADMIN\Downloads\OneDrive-2025-07-01\logfile.txt
