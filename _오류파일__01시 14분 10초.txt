@@ -1,0 +1,135 @@
+2
+3
+Downloading Mychromecheck.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Download complete: Mychromecheck.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading RealchromeVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Download complete: RealchromeVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading driverVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Download complete: driverVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+시작
+File saved to: C:\Users\세읽남\Desktop\플레이스\유효타\logfile.txt
