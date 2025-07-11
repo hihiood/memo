@@ -1,0 +1,60 @@
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\c99f5062fee74b8ba2a65fb719b728ac.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\c634a0bd250e4a61b6a4e7f450358ea5.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\34dab4fdef1e4adbad653d58ffb4e4a6.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5860906f75d34b56895eb7de4ea4f2fa.pyd
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\77361c6785384f958ae608fbd84f8b06.pyd
+Running main() from the .pyd file...
+Running main() from the .pyd file...
+Captured output: 
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\422628daf838429781740e4c6eff0bff.pyd
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\42fd476a0c91492491c1ffb20a4160b1.pyd
+Running main() from the .pyd file...
+Running main() from the .pyd file...
+Captured output: 
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\298faa0a1617440b87091475cb7e486a.pyd
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\d66726d6e21941ee9552be3acf315d81.pyd
+Running main() from the .pyd file...
+Running main() from the .pyd file...
+Captured output: 
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 드라이버 버전 :: 138
+시작
+File saved to: C:\Users\USER\Desktop\블로그 포스팅\logfile.txt
