@@ -1,0 +1,55 @@
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\691fd8900cc549e7b6cff5aac966b94b.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\14f53b988f794a96aaa2dd55bcf09037.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\d67a62e9633e4e03a0f02e82250fafb7.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\AD\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\AD\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\34ecaa074a2843a380b461babe9e7e91.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\a0b2709134d44dda81d29adebaf4b0fe.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\cc3f0efa81e54500a1a9c533dad59434.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\AD\Desktop\새 폴더\logfile.txt
