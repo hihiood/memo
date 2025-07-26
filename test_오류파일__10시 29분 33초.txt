@@ -1,0 +1,3836 @@
+errolinkQQ C:\Users\win\Desktop\티스토리
+errolinkQQ_page3 C:\Users\win\Desktop\티스토리
+학습chatGPT2
+맨아래
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+경로가 존재합니다!
+<!doctype html>
+<html lang="ko" class="ko">
+<head itemscope>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+<meta name="robots" content="max-image-preview:large, max-video-preview:30">
+<link rel="canonical" id="canonical" href="https://www.yna.co.kr/news">
+<meta property="og:url" content="https://www.yna.co.kr/news">
+<meta name="twitter:url" content="https://www.yna.co.kr/news">
+<meta itemprop="url" content="https://www.yna.co.kr/news">
+<meta property="og:type" content="website">
+<meta name="resource-type" content="website">
+<meta name="copyright" content="Yonhapnews">
+<meta property="og:site_name" content="연합뉴스">
+<meta name="twitter:site" content="@yonhaptweet">
+<meta property="article:publisher" content="https://www.facebook.com/yonhap">
+<meta name="twitter:creator" content="@yonhaptweet">
+<meta property="og:locale" content="ko_KR">
+<meta itemprop="inLanguage" content="ko_KR">
+<title>최신뉴스 | 연합뉴스</title>
+<meta property="og:title" content="최신뉴스 | 연합뉴스">
+<meta name="title" content="최신뉴스 | 연합뉴스">
+<meta name="twitter:title" content="최신뉴스 | 연합뉴스">
+<meta itemprop="name" content="최신뉴스 | 연합뉴스">
+<meta property="og:description" content="연합뉴스 실시간 최신뉴스입니다.">
+<meta name="description" content="연합뉴스 실시간 최신뉴스입니다.">
+<meta name="twitter:description" content="연합뉴스 실시간 최신뉴스입니다.">
+<meta itemprop="description" content="연합뉴스 실시간 최신뉴스입니다.">
+<meta property="article:author" content="https://www.facebook.com/yonhap">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta property="og:image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="325">
+<meta name="image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta itemprop="image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta itemprop="thumbnailUrl" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<link rel="shortcut icon" type="image/x-icon" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon.ico">
+<link rel="icon" type="image/x-icon" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon_32x32_01.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon_180x180_01.png?v=20250725_1657">
+<link rel="stylesheet preload" as="style" type="text/css" href="https://r.yna.co.kr/global/font/Pretendard/v01/font.css?v=20250725_1657">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/default.css?v=20250725_1657">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/variables.css?v=20250725_1657">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/weather_ui03.css?v=20250725_1657">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/media.css?v=20250725_1657">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/article.css?v=20250725_1657">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/common.css?v=20250725_1030">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/style.css?v=20250724_1442">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/layout.css?v=20250721_1036">
+<script src="https://r.yna.co.kr/global/lib/v01/js/underscore-min.js"></script>
+<script src="https://r.yna.co.kr/global/lib/videojs/video-8.9.0.min.js"></script>
+<script src="https://r.yna.co.kr/global/lib/v02/js/swiper-8.4.7.min.js"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/lib/handlebars-4.7.8.min.js"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/lib/handlebars-helper.js?v=20250725_1657"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/lib/platform-1.3.6.js"></script>
+<script src="https://static.pfrt.yna.co.kr/www/js/web-utility.js?v=20250725_1657"></script>
+<script src="https://static.pfrt.yna.co.kr/www/js/web-dev.js?v=20250715_1601"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/web-design.js?v=20250613_1500"></script>
+<script async src="https://r.yna.co.kr/www/home_n/v03/js/lib/vanilla-lazyload-19.1.3.min.js"></script>
+<script id="GAStatScript">
+function statGACheck(code) {
+	let headTag = document.getElementsByTagName('head')[0];
+	let gtagScript = document.createElement('script'); 
+	gtagScript.async = true;
+	gtagScript.src = "https://www.googletagmanager.com/gtag/js?id="+code;
+	headTag.appendChild(gtagScript);
+}
+function statGAInit() {
+	let gtagId = '';
+	let queryMatch = window.location.search.match(/app=(ios|aos)/i);
+	if (queryMatch){
+		gtagId = 'G-QSWSH4MD0M';
+	}else{
+		gtagId = 'G-3JKE3F58CD';
+	}
+	statGACheck(gtagId);
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', gtagId);
+}
+statGAInit();
+</script>
+<script defer src="//rd.yna.co.kr/global/js/eas/eas.min.js"></script>
+<script type="text/javascript" src="https://r.yna.co.kr/global/lib/v01/js/nlogger.js" ></script>
+<script type="text/javascript">
+// NLOGGER 로깅 설정
+nLogger.configure({
+	nth_service_id: "www.yna.co.kr", // 로그 생성 단위, 값 지정 필요
+	nth_logging_url_base_http: "http://wl.yna.co.kr/nlog", // 수집 서버 주소
+	nth_logging_url_base_https: "https://wl.yna.co.kr/nlog" // 수집 서버 주소
+});
+// NLOGGER 기본 페이지뷰 로깅
+nLogger.log();
+</script>
+<script src="https://cdp.yna.co.kr/script/1.0.0/yna_crm_log_module.min.js"></script>
+<script>
+	window.__YNALogModuleDataLayer = window.__YNALogModuleDataLayer || [];
+	window.__YNALogModuleDataLayer.push({ type: 'pageview', option: { sid: 'YNA' } });
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org","@type": "NewsMediaOrganization",
+	"name" : "연합뉴스" ,"alternateName":  ["YNA", "YonhapNews", "Yonhap News Agency", "韩联社", "聯合ニュース", "وكالة يونهاب للانباء", "AGENCIA DE NOTICIAS YONHAP", "AGENCE DE PRESSE YONHAP"],
+	"url": "https://www.yna.co.kr/",
+	"@id": "https://www.yna.co.kr/#publisher",
+	"logo": {"@context": "https://schema.org","@type": "ImageObject","url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x600_kr01.jpg","width": 600,"height": 600},
+	"image": {"@context": "https://schema.org","@type": "ImageObject","url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg","width": 1200, "height": 800},
+	"ethicsPolicy": "https://www.yna.co.kr/policy/ethics",
+	"foundingDate": "1980-12-19",
+	"address": {"@type": "PostalAddress", "postalCode": "03143", "addressCountry": "KR", "addressRegion": "서울특별시", "addressLocality": "종로구", "streetAddress": "율곡로2길 25"},"telephone": "+82-2-398-3114",
+	"sameAs": ["https://www.facebook.com/yonhap","https://twitter.com/yonhaptweet","https://www.instagram.com/yonhap_news/","https://www.facebook.com/yonhapvideo/","https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw","https://www.youtube.com/channel/UCHzW_7Mf8G0JxP4b0LoAd7A","https://www.youtube.com/channel/UCR-L8oZkHzgDh1ahJhH2WDQ","https://www.youtube.com/channel/UChX-Cgkfava-G-LlfwC9v_g","https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4"]
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org", "@type": "BreadcrumbList",
+	"itemListElement": [
+		
+		
+		{"@type": "ListItem","position": 1,"item": {"@id": "https://www.yna.co.kr/","name": "연합뉴스"}},
+		
+		{"@type": "ListItem","position": 2,"item": {"@id": "https://www.yna.co.kr/news","name": "최신뉴스"}}
+		
+		
+	]
+}
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+	// 디지틀조선일보 배너 운영
+    googletag.defineSlot('/21961356670/korean_pc_web_section_body_btf_300x250_200525', ['fluid', [300, 250]], 'div-gpt-ad-1590374394954-0').addService(googletag.pubads());
+	// 연합뉴스TV 배너 운영
+	googletag.defineSlot('/21961356670/korean_pc_web_section_body_side2_300x250_200731', [300, 250], 'div-gpt-ad-1596178367836-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+</head>
+<body class="body-news-list page-latest" data-nav="latest">
+<div id="skipNav">
+<a href="https://www.yna.co.kr">연합뉴스</a>
+<a href="#container">본문 바로가기</a>
+<a href="#nav">메뉴 바로가기</a>
+</div>
+<div class="wrapper">
+<div class="wrap-header21 hide-appview">
+<div class="nav-type11 fixed-navigation01">
+<a class="logo-yna21" href="https://www.yna.co.kr">
+<strong class="ir-txt01">국가기간뉴스 통신사 연합뉴스</strong>
+</a>
+<a class="logo-yna03" href="https://www.yna.co.kr">
+<strong class="ir-txt01">국가기간뉴스 통신사 연합뉴스</strong>
+</a>
+<nav id="nav02" class="gnb-menu01 swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="navi_latest_depth01">최신뉴스</a>
+</li>
+<li class="swiper-slide politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="navi_politics_depth01">정치</a>
+</li>
+<li class="swiper-slide nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" data-stat-code="navi_nk_depth01">북한</a>
+</li>
+<li class="swiper-slide economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="navi_economy_depth01">경제</a>
+</li>
+<li class="swiper-slide market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="navi_market_plus_depth01">마켓+</a>
+</li>
+<li class="swiper-slide industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="navi_industry_depth01">산업</a>
+</li>
+<li class="swiper-slide society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="navi_society_depth01">사회</a>
+</li>
+<li class="swiper-slide local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="navi_local_depth01">전국</a>
+</li>
+<li class="swiper-slide intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="navi_international_depth01">세계</a>
+</li>
+<li class="swiper-slide culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="navi_culture_depth01">문화</a>
+</li>
+<li class="swiper-slide health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="navi_health_depth01">건강</a>
+</li>
+<li class="swiper-slide ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="navi_entertainment_depth01">연예</a>
+</li>
+<li class="swiper-slide sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="navi_sports_depth01">스포츠</a>
+</li>
+<li class="swiper-slide opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="navi_opinion_depth01">오피니언</a>
+</li>
+<li class="swiper-slide visual" data-nav-section="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="navi_visual_depth01">비주얼뉴스</a>
+</li>
+<li class="swiper-slide jebo" data-nav-section="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" data-stat-code="navi_jebo_depth01">제보</a>
+</li>
+<li class="swiper-slide safe" data-nav-section="safe">
+<a href="https://www.yna.co.kr/safe/index" data-stat-code="navi_safe_depth01">재난포털</a>
+</li>
+</ul>
+</nav>
+<span class="utility-zone">
+<a href="https://www.yna.co.kr/my-page/index" class="btn-type200 my01" rel="nofollow" data-stat-code="header_mypage">
+<span class="txt01">마이페이지</span>
+</a>
+<a href="https://join.yna.co.kr/ko/login" class="btn-type004 login01" rel="nofollow" data-stat-code="header_login">
+<span class="ir-txt01">로그인</span>
+</a>
+<button type="button" class="btn-type004-toggle btn-srch-switch" data-a11y-txt="검색창 닫기;검색창 열기" data-stat-code="search_btn_toggle">
+<span class="ir-txt01">검색창 열기</span>
+<i class="pick01 ico-type01-srch01"></i>
+<i class="pick02 ico-type01-close01"></i>
+</button>
+<button type="button" class="btn-type004-toggle menu01" data-a11y-txt="메뉴 닫기;메뉴 열기" data-stat-code="wholemenu_btn_toggle">
+<span class="ir-txt01">메뉴 열기</span>
+<i class="pick01 ico-type01-menu01"></i>
+<i class="pick02 ico-type01-close02"></i>
+</button>
+</span>
+</div>
+<div class="progress-bar01" id="progressBar01">
+<div class="bar" style="width: 0%;"></div>
+</div>
+</div>
+<script id="loginAfter01_Template" type="text/x-handlebars-template">
+	<div class="info-box01 login-after">
+		{{#if IMAGE}}
+		<span class="img-con01">
+			<img src="{{IMAGE}}" alt="{{escape NICKNAME}}" loading="lazy">
+		</span>
+		{{/if}}
+		<a href="https://www.yna.co.kr/my-page/index" class="btn-type207 arr01" rel="nofollow" data-stat-code="wholemenu_mypage">
+			<span class="txt01 color21">{{NICKNAME}}</span>
+			<span class="txt02 color21">님</span>
+			<span class="txt03">마이페이지</span>
+		</a>
+		{{#if NAME}}
+			<span class="txt01">#{{NAME}}</span>
+		{{/if}}
+	</div>
+	<button class="btn-type201" data-stat-code="wholemenu_logout">
+		<span class="txt01">로그아웃</span>
+	</button>
+</script>
+<script id="loginBefore01_Template" type="text/x-handlebars-template">
+	<div class="info-box01 login-before">
+		<a href="{{href}}" class="btn-type207 arr01" rel="nofollow" data-stat-code="wholemenu_login">
+			<span class="txt01">로그인/회원가입</span>
+		</a>
+		<p class="txt01">연합뉴스만의 특별한 뉴스 서비스를 경험해보세요!</p>
+	</div>
+</script>
+<div id="container" class="wrap-container">
+<div class="aside-top-bnr01">
+<aside class="aside-box001 bnr-mktg-top01">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-top01"></div>
+<div class="area01 ads-top02"></div>
+</aside>
+</div>
+<div class="container521">
+<header class="title-page01 blind01">
+<h1 class="bbb-1">최신뉴스 | 연합뉴스 | 연합뉴스</h1>
+</header>
+<div class="content10">
+<div class="nav-type40">
+<div class="area01">
+<strong class="title-type011">
+<a href="https://www.yna.co.kr/news" class="tit01">
+최신뉴스
+</a>
+</strong>
+</div>
+</div>
+</div>
+<div class="content03">
+<div class="section01">
+<section class="box-type011 box-latest01">
+<h2 class="ir-txt01">최신뉴스 기사 목록</h2>
+<div class="list-type212">
+<ul class="list01">
+<li data-cid="AKR20250726023300530">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726023300530" class="img">
+<img src="https://img0.yna.co.kr/photo/yna/YH/2025/07/24/PYH2025072421390001300_T2.jpg" alt="소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726023300530" class="tit-news">
+<span class="title01">소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급</span>
+</a>
+</strong>
+<p class="lead">3천643만명 신청…26일부터 출생연도 상관없이 신청
+(서울=연합뉴스) 오진송 기자 = &apos;민생회복 소비쿠폰&apos; 1차 신청 닷새간 전체 대상자의 72.0%인 3천642만5천598명이 신청했다고 행정안전부가 26일 밝혔다.
+지난 5일간 지급된 지원금은 6조5천703억원이다.
+지역별 신청률은 인천이 77.0%(232만4천53명)로 전국에서 가장 높았다. 신청자가 가장 적은 곳은 전남(66.1%·117만2천451명)이다.
+서울은 대상자의 72.1%인 657만8천408명이 신청을 마쳤다.
+지급방식별로는 신용·체크카드 2천696만569명, 선불카드 321만6천232명, 지역사랑상품권(모바일·카드) 564만6천922명, 지류 60만1천875명이다.
+소비쿠폰은 국민 1인당 15∼45만원을 지급하는 이재명 정부의 첫 경기부양책이다.
+1차 신청 첫 주(21∼25일)에는 신청자 폭주에 대비해 출생연도 끝자리를 기준으로 요일제 신청이 진행됐다.
+요일제 신청 종료로 이날부터 출생연도 끝자리에 상관없이 소비쿠폰 지급을 신청할 수 있다. 신청 마감 시한은 9월 12일 오후 6시다.
+신용·체크카드를 통한 지급은 카드사 홈페이지, 애플리케이션(앱), 콜센터, ARS 및 카카오뱅크·케이뱅크·토스·카카오페이 간편결제·네이버페이 간편결제 앱을 통해 온라인으로 신청할 수 있다. 온라인 신청이 어려우면 각 카드사와 연계된 은행영업점을 방문하면 된다.
+모바일·카드형 지역사랑상품권 지급은 자치단체별 지역사랑상품권 앱이나 읍면동 주민센터에서 직접 신청할 수 있다.
+선불카드나 지류형 지역사랑상품권으로 받길 희망하는 경우엔 주소지 관할 읍면동 주민센터를 방문해서 신청하면 된다.
+다만 주말에는 오프라인 신청이 불가능하다.
+소비쿠폰은 신청 다음 날부터 11월 30일까지 사용할 수 있다.
+사용처는 대형마트와 백화점, 유흥업소를 제외한 연 매출 30억원 이하의 소상공인 업체다.
+dindong@yna.co.</p>
+<span class="txt-time">07-26 10:26</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726023300530" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726023300530" style="display: none"
+data-share-title="소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급"
+data-share-body="(서울=연합뉴스) 오진송 기자 = &apos;민생회복 소비쿠폰&apos; 1차 신청 닷새간 전체 대상자의 72.0%인 3천642만5천598명이 신청했다고 행정안전부가 26일 밝혔다. 지난 5일..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726023300530"
+data-share-cid="AKR20250726023300530"
+data-share-img="https://img6.yna.co.kr/photo/yna/YH/2025/07/24/PYH2025072421390001300_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726023300530" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726023000009">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726023000009" class="img">
+<img src="https://img4.yna.co.kr/photo/etc/af/2025/07/26/PAF20250726094401009_T2.jpg" alt="대만 &apos;친중&apos; 야당의원 24명 파면투표 시작…여소야대 변화가능성" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726023000009" class="tit-news">
+<span class="title01">대만 &apos;친중&apos; 야당의원 24명 파면투표 시작…여소야대 변화가능성</span>
+</a>
+</strong>
+<p class="lead">사상 최대 규모 의원 소환 &apos;대 파면&apos; 투표…정국 분수령 전망
+(서울=연합뉴스) 권수현 기자 = 대만에서 친중 성향의 제1야당 국민당 소속 의원 24명 등에 대한 파면(국민소환) 투표가 26일 시작됐다.
+대만 중앙통신사(CNA)와 로이터통신 등에 따르면 이날 오전 국민당 의원 24명과 부패 혐의로 정직 중인 무소속 가오훙안 신주시장의 해임 여부를 결정하는 파면투표가 현지 시각으로 이날 오전 8시 해당 선거구에서 시작됐다.
+&apos;대파면&apos;으로도 불리는 이번 파면투표는 라이칭더 총통 정권의 지지 속에 일부 지역 시민단체가 추진한 것이다.
+해당 시민단체들은 국민당 의원들이 친중행보로 라이 정부의 국방비 지출 예산을 삭감하는 등 국가 안보를 해치고 중국에 유리한 의제를 의회에서 추진한다며 파면투표를 청구했다.
+대만에서 현재 파면투표 대상이 된 국민당 의원은 총 31명이다. 24명에 대한 투표는 이날 진행되고 장치전 부입법원장(국회부의장)을 포함한 7명의 파면투표는 내달 23일 실시된다.
+대만은 이전에도 파면투표를 실시한 적이 있지만 이러한 규모는 사상 최대라고 로이터통신과 영국 BBC방송 등은 전했다.
+이번 투표는 &apos;여소야대&apos;인 현 정국 구도가 재편될 수 있다는 점에서 주목된다.
+민진당은 지난해 1월 대선에서 승리했지만 함께 치러진 총선에서는 51석을 얻는 데 그쳤다. 국민당은 52석을 차지하며 제1당이 됐고 민중당은 8석을 확보해 어느 당도 과반을 차지하지 못한 상태다.
+하지만 이번 투표 결과 야당 의원이 무더기로 자격을 잃게 되면 보궐선거 결과에 따라 여대야소 구도로 바뀌게 될 수 있다.
+정국 분수령이 될 이번 파면투표를 앞두고 대만 사회의 정치적 분열은 더욱 심해졌다. 투표 전날인 25일에도 수도 타이베이 총통부 앞에서는 파면 찬성과 반대 운동 단체들이 폭우 속에도 대규모 맞불 집회를 열었다.
+중국도 투표 결과를 예의주시하고 있다.
+중국의 대만 담당 기구인 국무</p>
+<span class="txt-time">07-26 10:24</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726023000009" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726023000009" style="display: none"
+data-share-title="대만 &apos;친중&apos; 야당의원 24명 파면투표 시작…여소야대 변화가능성"
+data-share-body="(서울=연합뉴스) 권수현 기자 = 대만에서 친중 성향의 제1야당 국민당 소속 의원 24명 등에 대한 파면(국민소환) 투표가 26일 시작됐다. 대만 중앙통신사(CNA)와 로이..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726023000009"
+data-share-cid="AKR20250726023000009"
+data-share-img="https://img0.yna.co.kr/photo/etc/af/2025/07/26/PAF20250726094401009_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726023000009" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726023100052">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726023100052" class="img">
+<img src="https://img9.yna.co.kr/photo/yna/YH/2025/07/22/PYH2025072207710005200_T2.jpg" alt="폭염 속 구슬땀…경남 수해 피해지역 복구 이어져" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726023100052" class="tit-news">
+<span class="title01">폭염 속 구슬땀…경남 수해 피해지역 복구 이어져</span>
+</a>
+</strong>
+<p class="lead">
+자원봉사자·공무원 등 주말에도 일손 보태
+(산청=연합뉴스) 이정훈 기자 = 산청군 등 극한호우 피해가 극심한 서부 경남을 중심으로 26일 주민, 공무원, 자원봉사자들이 주말을 잊고 수해 복구에 일손을 보탰다.
+지난 19일 4일간 퍼부은 집중호우가 멈춘 뒤 일주일째 산청군, 합천군, 하동군, 의령군, 진주시 등 경남 곳곳에서 복구 활동이 이어졌다.
+토요일인 이날도 기업·기관·단체, 개인 자원봉사자, 공무원, 군 장병, 경찰관들이 수해 복구에 동참했다.
+그러나 산사태, 하천 범람, 침수로 발생한 피해 규모가 워낙 크고 지역이 광범위해 여전히 일손이 부족하다.
+18개 시군 전역에 폭염특보가 내려진 경남은 오전부터 30도를 훌쩍 넘을 정도로 폭염 기세가 무섭다.
+기상청은 이날 경남 낮 기온이 34도를 넘어설 것으로 예보했다.
+자원봉사자들은 뙤약볕 아래 비 오듯 흘러내리는 땀을 연신 닦으며 토사로 뒤덮인 시설하우스 정리, 주택 청소, 못 쓰는 가재도구·쓰레기 처리 등 굳은 일을 마다하지 않았다.
+경남 시군 여성민방위기동대는 집중호우가 그친 지난 20일부터 7일째 수해 피해 시군을 찾아 복구를 지원했다.
+함양군 여성민방위기동대 소속 주부 30여명은 이날 피해 규모가 가장 큰 산청군에서 침수 주택 정리, 집기류 세척 등을 도왔다.
+김미양 경남 여성민방위기동대 연합회장은 &quot;시군마다 피해가 너무 심해 어떻게든 도움을 줘야겠다는 생각이 절로 날 정도였다&quot;며 &quot;이재민들이 집이 무너지지 않은 것 만해도 감사해하더라&quot;고 현장 분위기를 전했다.
+그는 &quot;우리를 보면 반가워서 울컥하는 이재민들을 보면 피곤한 몸이 저절로 움직여진다&quot;고 말했다.
+딸기 농사를 주로 짓는 산청군 신안면 야정마을도 수해 복구에 한창이다.
+이 마을은 지난 19일 낮 양천강 둑이 터지면서 마을, 딸기 재배 시설하우스 전부가 물에 잠겼다.
+유진형 야정마을 이장은 &quot;대민</p>
+<span class="txt-time">07-26 10:21</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726023100052" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726023100052" style="display: none"
+data-share-title="폭염 속 구슬땀…경남 수해 피해지역 복구 이어져"
+data-share-body="자원봉사자·공무원 등 주말에도 일손 보태 (산청=연합뉴스) 이정훈 기자 = 산청군 등 극한호우 피해가 극심한 서부 경남을 중심으로 26일 주민, 공무원, 자원봉사자들..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726023100052"
+data-share-cid="AKR20250726023100052"
+data-share-img="https://img5.yna.co.kr/photo/yna/YH/2025/07/22/PYH2025072207710005200_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726023100052" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726022700005">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022700005" class="img">
+<img src="https://img2.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726022700005_01_i_T2.jpg" alt="블랙핑크 &apos;뛰어&apos; 뮤직비디오 유튜브 1억뷰 달성" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022700005" class="tit-news">
+<span class="title01">블랙핑크 &apos;뛰어&apos; 뮤직비디오 유튜브 1억뷰 달성</span>
+</a>
+</strong>
+<p class="lead">팀 통산 49번째 억대 조회수 영상
+(서울=연합뉴스) 최주성 기자 = 걸그룹 블랙핑크의 신곡 &apos;뛰어&apos;(JUMP) 뮤직비디오가 유튜브 1억뷰를 달성했다고 소속사 YG엔터테인먼트가 26일 밝혔다.
+이 뮤직비디오는 이날 오전 2시52분께 조회수 1억회를 넘어섰다. 지난 11일 공개된 지 15일 만이다.
+이로써 블랙핑크는 팀 통산 49번째 억대 조회수 영상을 보유하게 됐다.
+&apos;뛰어&apos;는 서부 영화의 한 장면을 떠올리게 하는 기타 연주와 개성 있는 멤버들의 목소리가 돋보이는 노래다.
+뮤직비디오는 팬들의 머릿속이 블랙핑크의 음악으로 가득 찬 모습, 멤버들에게 열광하는 군중의 모습 등을 표현했다. 공개 이후 8일 연속 글로벌 유튜브 일간 차트 1위를 차지하는 등 인기를 끌었다.
+블랙핑크는 지난 6일 경기도 고양종합운동장 주경기장을 시작으로 미국 로스앤젤레스, 뉴욕, 프랑스 파리 등 총 16개 도시를 순회하는 월드투어 &apos;데드라인&apos;(DEADLINE)을 진행하고 있다.
+cjs@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:16</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022700005" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022700005" style="display: none"
+data-share-title="블랙핑크 &apos;뛰어&apos; 뮤직비디오 유튜브 1억뷰 달성"
+data-share-body="(서울=연합뉴스) 최주성 기자 = 걸그룹 블랙핑크의 신곡 &apos;뛰어&apos;(JUMP) 뮤직비디오가 유튜브 1억뷰를 달성했다고 소속사 YG엔터테인먼트가 26일 밝혔다. 이 뮤직비디오는 ..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022700005"
+data-share-cid="AKR20250726022700005"
+data-share-img="https://img6.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726022700005_01_i_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022700005" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726022900007">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022900007" class="img">
+<img src="https://img5.yna.co.kr/photo/etc/af/2025/07/26/PAF20250726047101009_T2.jpg" alt="&apos;MLS 올스타전 불참&apos; 메시, 1경기 출전 금지…&quot;메시 뿔났다&quot;" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022900007" class="tit-news">
+<span class="title01">&apos;MLS 올스타전 불참&apos; 메시, 1경기 출전 금지…&quot;메시 뿔났다&quot;</span>
+</a>
+</strong>
+<p class="lead">함께 불참한 조르디 알바도 1경기 출전 금지 징계
+(서울=연합뉴스) 이영호 기자 = 미국 메이저리그사커(MLS) 인터 마이애미에서 뛰는 &apos;슈퍼스타&apos; 리오넬 메시와 조르디 알바가 올스타전 불참으로 1경기 출전 금지 징계를 받았다.
+MLS 사무국은 26일(한국시간) 메시와 알바에게 1경기 출전 금지 징계를 부과하면서 &quot;두 선수는 이번 주 올스타전에 출전하지 않았다&quot;라며 &quot;사전 승인 없이 올스타전에 나서지 못하면 클럽 경기 1경기를 뛰지 못한다는 규정에 따라 27일 FC신시내티전에 나서지 못한다&quot;고 발표했다.
+메시와 알바는 팬들과 미디어 투표를 통해 올스타전 명단에 이름을 올렸지만, 행사 당일인 24일 MLS 사무국에 불참을 특별한 사유 없이 통보해 논란이 불거졌다.
+MLS 커미셔너인 돈 가버는 &quot;메시가 MLS를 얼마나 사랑하는지 알고 있다, MLS를 위해 다른 어떤 선수보다 많은 것을 해왔다&quot;라며 &quot;메시의 결정을 존중하지만 올스타전과 관련한 규정을 적용할 수 밖에 없다. 매우 어려운 과정이었다&quot;라고 설명했다.
+그는 이어 &quot;MLS는 앞으로 이 규정을 면밀히 검토할 예정&quot;이라며 &quot;선수들과 함께 대화하며 규정 발전을 논의할 계획&quot;이라고 덧붙였다.
+반면 인터 마이애미는 사무국의 결정에 반발하고 나섰다.
+공동 구단주인 호르헤 마스는 취재진과 전화 인터뷰를 통해 MLS의 결정을 강하게 비판했다.
+메시와 계약 연장을 놓고 협의하고 있다고 밝힌 마스는 &quot;메시가 매우 화가 났다. 이번 사건이 장기적으로 영향을 주지 않았으면 좋겠다&quot;라며 &quot;이번 결정은 MLS를 바라보는 메시의 인식에 영향을 줄 것&quot;이라고 말했다.
+메시가 올스타전에 나서지 않은 이유는 최근 이어진 혹독한 일정 때문이다.
+ESPN에 따르면 &apos;38세&apos; 메시는 최근 35일 동안 9경기를 소화했다. 특히 국제축구연맹(FIFA) 클럽 월드컵에선 4경기를 풀타임으로 뛰었다.
+가버 MLS 커미셔너 역시 &quot;인터 마이애미는</p>
+<span class="txt-time">07-26 10:13</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022900007" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022900007" style="display: none"
+data-share-title="&apos;MLS 올스타전 불참&apos; 메시, 1경기 출전 금지…&quot;메시 뿔났다&quot;"
+data-share-body="(서울=연합뉴스) 이영호 기자 = 미국 메이저리그사커(MLS) 인터 마이애미에서 뛰는 &apos;슈퍼스타&apos; 리오넬 메시와 조르디 알바가 올스타전 불참으로 1경기 출전 금지 징계를 받았다. ..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022900007"
+data-share-cid="AKR20250726022900007"
+data-share-img="https://img1.yna.co.kr/photo/etc/af/2025/07/26/PAF20250726047101009_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022900007" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li class="ads-item01">
+<aside class="aside-box008">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-latest01">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@Middle3?ads-latest01"></yna-ad-script>
+</div>
+</aside>
+<aside class="aside-box100">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-sub-banner11">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/m.yna/bulletin@Position1?ads-sub-banner11" data-app-ad="false"></yna-ad-script>
+</div>
+</aside>
+</li>
+<li data-cid="AKR20250726022400005">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022400005" class="img">
+<img src="https://img2.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072511760001300_T2.jpg" alt="죽음의 문턱서 찾아낸 실존…日설치미술가 시오타 지하루 개인전" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022400005" class="tit-news">
+<span class="title01">죽음의 문턱서 찾아낸 실존…日설치미술가 시오타 지하루 개인전</span>
+</a>
+</strong>
+<p class="lead">&quot;&apos;나는 누구인가&apos; 고민하며 작품 활동&quot;…9월 7일까지 가나아트센터
+(서울=연합뉴스) 임순현 기자 = 흙에서 솟아난 검은 실이 전시관 전체로 치렁치렁 뻗어간다. 작가는 흙으로 상징되는 지구에서 생성된 생명이 우주 전체로 퍼져나가는 모습을 설치미술로 구현했다.
+실을 사용한 작품으로 생명의 근원을 탐구하는 일본의 설치미술가 시오타 지하루가 2022년 이후 3년 만에 국내에서 개인전을 열었다. 오는 9월 7일까지 서울 종로구 가나아트센터에서 열리는 개인전 &apos;리턴 투 어스&apos;(Return to Earth)는 두 번의 암 투병을 통해 삶과 죽음의 경계를 경험한 작가가 오랫동안 천착해온 실존과 정체성에 관한 고민을 예술로 승화한 작품 20여점을 전시한다.
+전시에서 가장 눈에 띄는 작품은 2층 3전시장에 설치된 &apos;리턴 투 어스&apos;다. 전시회 이름과 같은 이 작품은 25년에 걸친 작가의 예술적 여정과 철학이 오롯이 담긴 작품이다.
+25일 전시 프리뷰 행사에서 공개된 &apos;리턴 투 어스&apos;는 관람객을 압도하는 크기의 작품이었다. 혈관이나 나뭇가지처럼 서로 얽혀 뻗어 나가는 검은 실이 257.8㎡ 크기의 전시장을 가득 채웠다. 행사에 참석한 시오타는 &quot;우주를 상징하는 검은 실이 중력에 의해 땅으로 떨어지는 모습을 형상화한 작품&quot;이라며 &quot;나는 누구인가, 산다는 것은 무엇인가를 고민하며 창작했다&quot;고 소개했다.
+우주에서 땅으로 이어지는 검은 실들의 연결은 생명의 재생과 순환을 의미한다. 시오타는 &quot;현실을 살아가는 사람 중에 다른 이와 연결되지 않은 사람은 아무도 없다고 생각한다&quot;며 &quot;&apos;연결&apos;이라는 단어에 여러 복합적인 의미를 담아 이번 작품을 제작했다&quot;고 설명했다.
+시오타는 이번 작품이 유화로 시작해 설치미술로 자리 잡은 자신의 예술 행보에 정점을 찍는 작품이 될 것이라고 자신했다. 그는 &quot;젊은 시절 그린 그림에서 누군가를 모방하는 듯한 기분이 들었고, 정작 나의 정체성은 찾을 수가 없었다&quot;면서 &quot;회화를 그만두고 시작한 설치미술에서는 드</p>
+<span class="txt-time">07-26 10:12</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022400005" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022400005" style="display: none"
+data-share-title="죽음의 문턱서 찾아낸 실존…日설치미술가 시오타 지하루 개인전"
+data-share-body="(서울=연합뉴스) 임순현 기자 = 흙에서 솟아난 검은 실이 전시관 전체로 치렁치렁 뻗어간다. 작가는 흙으로 상징되는 지구에서 생성된 생명이 우주 전체로 퍼져나가는 모습을 설치미술로..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022400005"
+data-share-cid="AKR20250726022400005"
+data-share-img="https://img8.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072511760001300_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022400005" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250725110200057">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250725110200057" class="img">
+<img src="https://img9.yna.co.kr/photo/cms/2019/01/31/05/PCM20190131000105017_T2.jpg" alt="울산 보건당국 &quot;수해지역 수인성 감염병 우려…예방수칙 준수&quot;" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725110200057" class="tit-news">
+<span class="title01">울산 보건당국 &quot;수해지역 수인성 감염병 우려…예방수칙 준수&quot;</span>
+</a>
+</strong>
+<p class="lead">
+(울산=연합뉴스) 장영은 기자 = 울산 울주군보건소는 최근 관내 집중호우에 이어 단수 피해에 따른 수인성·식품 매개 감염병 발생을 막기 위해 예방수칙 준수를 당부했다.
+26일 울주군보건소에 따르면 수해 발생지역은 하수관이 넘쳐 오염된 물이나 비위생적인 지하수, 하천수, 저장 수돗물을 사용할 수 있어 장관감염증, A형 간염, 장티푸스 등 수인성·식품 매개 감염병 발생이 우려된다.
+수인성·식품 매개 감염병은 오염된 물 또는 식품을 통해 병원성 미생물(세균, 바이러스 등)이 인체에 침투해 생긴다. 감염 시 설사, 복통, 오심, 구토 등의 증상을 보인다.
+이에 따라 울주군보건소는 &apos;하절기 비상방역체계&apos;를 통해 수인성·식품 매개 감염병 조기 인지 및 신속 대응을 위한 모니터링을 실시하고 위생수칙을 안내하고 있다.
+염병 예방수칙은 손 자주 씻기, 끓인 물이나 안전하게 포장된 물 마시기, 음식물은 충분히 가열해 섭취, 조리한 음식은 오래 보관하지 않기, 설사 증상이나 손에 상처가 있으면 조리하지 않기 등이다.
+울주군보건소 관계자는 &quot;수해가 발생하면 수인성·식품 매개 감염병이 확산될 우려가 있다&quot;며 &quot;감염병 예방수칙을 준수하고, 의심 증상 발생 시 보건소에 신고해달라&quot;고 말했다.
+young@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:10</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250725110200057" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250725110200057" style="display: none"
+data-share-title="울산 보건당국 &quot;수해지역 수인성 감염병 우려…예방수칙 준수&quot;"
+data-share-body="(울산=연합뉴스) 장영은 기자 = 울산 울주군보건소는 최근 관내 집중호우에 이어 단수 피해에 따른 수인성·식품 매개 감염병 발생을 막기 위해 예방수칙 준수를 당부했다. 26일..."
+data-share-url="https://www.yna.co.kr/view/AKR20250725110200057"
+data-share-cid="AKR20250725110200057"
+data-share-img="https://img5.yna.co.kr/photo/cms/2019/01/31/05/PCM20190131000105017_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250725110200057" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726022600007">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022600007" class="img">
+<img src="https://img2.yna.co.kr/photo/ap/2025/07/22/PAP20250722056101009_T2.jpg" alt="김하성, 단 10경기만 뛰고 10일짜리 부상자 명단…허리 염좌" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022600007" class="tit-news">
+<span class="title01">김하성, 단 10경기만 뛰고 10일짜리 부상자 명단…허리 염좌</span>
+</a>
+</strong>
+<p class="lead">
+(서울=연합뉴스) 하남직 기자 = 김하성(29·탬파베이 레이스)이 올 시즌 메이저리그(MLB)에서 단 10경기만 뛰고 다시 부상자 명단(IL)에 올랐다.
+미국프로야구 탬파베이 구단은 26일(한국시간) &quot;허리 염좌 증상을 앓는 김하성을 열흘짜리 IL에 올렸다&quot;고 밝혔다.
+IL 등재 시점은 23일로 소급 적용됐다.
+김하성은 지난 22일 시카고 화이트삭스전에서 4회 볼넷으로 출루한 뒤 시즌 4번째 도루에 성공했으나 이 과정에서 허리를 다쳐 교체됐다.
+경기 뒤 김하성은 &quot;슬라이딩 때 허리가 강하게 조이는 느낌이었다. 더 지켜봐야 정확한 상태를 알 수 있을 것 같다&quot;고 말했다.
+케빈 캐시 탬파베이 감독은 &quot;김하성이 26일에는 경기에 나설 수 있을 것&quot;이라고 기대했지만, 사령탑의 바람은 이루어지지 않았다.
+김하성은 26일 신시내티 레즈와의 방문 경기를 앞두고 캐치볼을 하긴 했지만, 경기에 출장할 정도로 회복하지는 못했다.
+김하성은 지난해 8월에 어깨를 다쳐 수술대에 오르고, 올해 마이너리그 재활 경기를 치르다가 허벅지 통증을 느껴 빅리그 연기가 지연됐다.
+22일 화이트삭스전에서 허리 통증을 느낀 뒤 김하성은 &quot;그동안 재활 훈련과 러닝 훈련, 컨디셔닝 훈련 등을 충실히 했다&quot;며 &quot;이번이 힘든 시기를 극복하는 마지막 상황이 되길 바란다&quot;고 토로하기도 했다.
+하지만, 김하성은 또 IL에 올랐다.
+올 시즌 김하성의 MLB 성적은 10경기 31타수 7안타(타율 0.226), 1홈런, 3타점, OPS(출루율+장타율) 0.669다.
+단 10경기만 뛰고서 김하성은 다시 전열에서 이탈했다.
+jiks79@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:07</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022600007" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022600007" style="display: none"
+data-share-title="김하성, 단 10경기만 뛰고 10일짜리 부상자 명단…허리 염좌"
+data-share-body="(서울=연합뉴스) 하남직 기자 = 김하성(29·탬파베이 레이스)이 올 시즌 메이저리그(MLB)에서 단 10경기만 뛰고 다시 부상자 명단(IL)에 올랐다. 미국프로야구 탬파베..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022600007"
+data-share-cid="AKR20250726022600007"
+data-share-img="https://img6.yna.co.kr/photo/ap/2025/07/22/PAP20250722056101009_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022600007" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726022500055">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022500055" class="img">
+<img src="https://img3.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726022500055_01_i_T2.jpg" alt="익산보석박물관, &apos;전통 장신구, 한국 고유의 멋부림&apos; 기획전" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022500055" class="tit-news">
+<span class="title01">익산보석박물관, &apos;전통 장신구, 한국 고유의 멋부림&apos; 기획전</span>
+</a>
+</strong>
+<p class="lead">
+(익산=연합뉴스) 김진방 기자 = 전북 익산보석박물관은 26일부터 오는 10월 9일까지 &apos;전통 장신구, 한국 고유의 멋부림&apos; 기획전을 연다.
+이번 전시는 전통 장신구를 재질별로 분류해 총 70점을 선보인다. 보석과 귀금속의 매력을 조명해 오늘날 K-문화의 원조 격인 우리 선조들의 예술성을 만날 수 있다.
+전시는 1부 &apos;보석류&apos;, 2부 &apos;금속류&apos;, 3부 &apos;기타류&apos; 등 3개 부문으로 구성된다.
+1부 &apos;보석류&apos;에서는 신분과 품격을 상징하는 &apos;옥&apos;을 비롯해 산호, 호박, 수정, 진주 등으로 만든 장신구를 선보인다. 특히 &apos;영친왕비 백옥나비 원형떨잠&apos;은 국가무형유산 김영희 옥장이 제작한 작품으로 궁중 예물의 화려함을 엿볼 수 있다.
+2부 &apos;금속류&apos;에서는 금박댕기, 금관자, 은대구 등 금, 은, 동으로 만든 장신구가 전시된다. 유연한 금속의 질감과 섬세한 세공미를 느낄 수 있다.
+3부 &apos;기타류&apos;에서는 대모갓끈, 흑단비녀, 낙죽잠 등 대모, 흑단, 대나무, 흑각으로 제작된 장신구를 통해 재료의 다양성과 독창적 아름다움을 감상할 수 있다.
+관람 시간은 오전 10시부터 오후 6시까지이며, 입장 마감은 오후 5시 10분이다.
+문의는 보석박물관 누리집(jewelmuseum.go.kr) 또는 전화(☎ 063-859-4772)로 하면 된다.
+보석박물관 관계자는 &quot;우리 선조들은 실용성과 개성을 조화롭게 표현하기 위해 장신구를 착용했다&quot;며 &quot;이번 전시가 한국 전통 장신구의 주재료인 보석과 귀금속의 매력을 새롭게 발견하는 시간이 되길 바란다&quot;고 말했다.
+chinakim@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:07</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022500055" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022500055" style="display: none"
+data-share-title="익산보석박물관, &apos;전통 장신구, 한국 고유의 멋부림&apos; 기획전"
+data-share-body="(익산=연합뉴스) 김진방 기자 = 전북 익산보석박물관은 26일부터 오는 10월 9일까지 &apos;전통 장신구, 한국 고유의 멋부림&apos; 기획전을 연다. 이번 전시는 전통 장신구를 재질별..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022500055"
+data-share-cid="AKR20250726022500055"
+data-share-img="https://img9.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726022500055_01_i_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022500055" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726022300004">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022300004" class="img">
+<img src="https://img7.yna.co.kr/photo/cms/2021/10/15/42/PCM20211015000142505_T2.jpg" alt="김건희특검, 컴투스 송병준 소환…코바나컨텐츠 협찬 의혹 조사" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022300004" class="tit-news">
+<span class="title01">김건희특검, 컴투스 송병준 소환…코바나컨텐츠 협찬 의혹 조사</span>
+</a>
+</strong>
+<p class="lead">
+(서울=연합뉴스) 이의진 기자 = 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사가 운영한 전시기획사 코바나컨텐츠에 수억원의 대가성 협찬을 한 의혹을 받는 송병준 컴투스홀딩스 의장을 26일 소환했다.
+이날 오전 9시 45분께 서울 종로구 광화문빌딩 웨스트에 마련된 특검 사무실에 도착한 송 의장은 &apos;김 여사와 아는 사이냐&apos;, &apos;김 여사 측에서 전시회 후원 요청이 있었나&apos; 등 취재진 질문에 아무런 대답을 하지 않았다.
+송 의장의 컴투스는 2015년부터 2019년까지 열린 코바나컨텐츠 주관 전시회에 총 2억2천만원가량을 협찬했다.
+이 시기는 윤 전 대통령의 서울중앙지검장 재임 기간과 일부 겹친다. 당시 송 의장의 형사 사건이 서울중앙지검에서 무혐의 처분되면서 대가성 후원이 아니냐는 의혹이 일었다.
+이후 코바나컨텐츠 협찬 관련 수사로 이 사안을 다시 들여다본 검찰은 2022년 3월 구체적인 청탁 여부를 확인하지 못했다며 불기소 처분했다.
+하지만 이 사건을 이첩 받은 특검팀은 다시 송 의장을 수사선상에 올려 윤 전 대통령, 김 여사와 연관성을 확인할 계획인 것으로 전해졌다.
+특검팀은 지난 25일 아크로비스타 지하상가 코바나컨텐츠 사무실과 컴투스홀딩스 본사를 압수수색했다. 영장에는 윤 전 대통령, 김 여사, 송 의장이 피의자로 적시된 것으로 알려졌다.
+pual07@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:07</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022300004" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022300004" style="display: none"
+data-share-title="김건희특검, 컴투스 송병준 소환…코바나컨텐츠 협찬 의혹 조사"
+data-share-body="(서울=연합뉴스) 이의진 기자 = 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사가 운영한 전시기획사 코바나컨텐츠에 수억원의 대가성 협찬을 한 의혹을 받는 송병준 컴..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022300004"
+data-share-cid="AKR20250726022300004"
+data-share-img="https://img1.yna.co.kr/photo/cms/2021/10/15/42/PCM20211015000142505_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022300004" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726022200007">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726022200007" class="img">
+<img src="https://img5.yna.co.kr/photo/etc/gt/2025/07/24/PGT20250724137901009_T2.jpg" alt="김주형, PGA 3M오픈 유일 생존…안병훈·김시우·임성재 컷 탈락" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726022200007" class="tit-news">
+<span class="title01">김주형, PGA 3M오픈 유일 생존…안병훈·김시우·임성재 컷 탈락</span>
+</a>
+</strong>
+<p class="lead">180ｍ 이글 앞세운 김주형, 53위서 44위 점프…PO 진출 위해 안간힘
+(서울=연합뉴스) 김경윤 기자 = 김주형이 미국프로골프(PGA) 투어 3M 오픈(총상금 840만달러) 2라운드에서 순위를 소폭 끌어올리며 플레이오프 진출 희망을 이어갔다.
+김주형은 26일(한국시간) 미국 미네소타주 블레인의 TPC 트윈시티즈(파71·7천431야드)에서 열린 대회 2라운드에서 이글 1개, 버디 4개, 보기 3개를 합해 3언더파 68타를 쳤다.
+그는 중간 합계 6언더파 136타로 전날 공동 53위에서 9계단 상승한 공동 44위에 이름을 올렸다.
+공동 8위 그룹과는 4타 차이라 남은 라운드 결과에 따라 톱10 성적도 바라볼 수 있다.
+이날 김주형의 출발은 좋지 않았다. 전반에만 보기 3개를 범하는 등 두 타를 잃었다.
+그러나 11번 홀(파4)에서 환상적인 이글샷을 성공하며 반전의 기회를 만들었다.
+김주형이 페어웨이에서 친 두 번째 샷은 180.1ｍ를 날아가 홀 안으로 들어갔다.
+기세를 끌어올린 김주형은 12번 홀(파5)과 13번 홀(파3)에서 연속 버디를 잡아냈다.
+13번 홀에선 티샷이 벙커에 들어갔으나 높게 올린 두 번째 샷이 홀 안으로 떨어지면서 행운의 버디를 낚았다.
+그는 마지막 18번 홀(파5)에서도 버디를 잡으며 기분 좋게 라운드를 마쳤다.
+페덱스컵 랭킹 89위인 김주형은 이 대회와 다음 대회인 윈덤 챔피언십에서 랭킹을 70위 안으로 끌어올려야 플레이오프에 진출할 수 있다.
+이번 대회에 출전한 다른 한국 선수들은 모두 컷 탈락했다.
+안병훈은 2라운드 합계 3언더파 139타, 김시우는 2언더파 140타, 임성재는 이븐파 142타를 치면서 컷 탈락 기준인 5언더파를 채우지 못했다.
+페덱스컵 랭킹 67위인 안병훈은 대회 종료 후 70위 밖으로 떨어질 가능성이 커 보인다.
+한편 이번 대회는 톱랭킹 선수들이 대거 불참한 가운데 토르비에른 올레센(덴마크)이 중</p>
+<span class="txt-time">07-26 10:03</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726022200007" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726022200007" style="display: none"
+data-share-title="김주형, PGA 3M오픈 유일 생존…안병훈·김시우·임성재 컷 탈락"
+data-share-body="(서울=연합뉴스) 김경윤 기자 = 김주형이 미국프로골프(PGA) 투어 3M 오픈(총상금 840만달러) 2라운드에서 순위를 소폭 끌어올리며 플레이오프 진출 희망을 이어갔다. 김..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726022200007"
+data-share-cid="AKR20250726022200007"
+data-share-img="https://img1.yna.co.kr/photo/etc/gt/2025/07/24/PGT20250724137901009_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726022200007" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250725100100061">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250725100100061" class="img">
+<img src="https://img7.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725100100061_01_i_T2.jpg" alt="10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725100100061" class="tit-news">
+<span class="title01">10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄</span>
+</a>
+</strong>
+<p class="lead">법원 &quot;통상적으로 예견할 수 있는 상황이었다고 단정 어려워&quot;
+(수원=연합뉴스) 류수현 기자 = 새벽 시간대 왕복 10차로를 무단횡단하던 70대를 차로 들이받아 숨지게 한 운전자가 1심에 이어 항소심에서도 무죄를 선고받았다.
+26일 법조계에 따르면 수원지법 형사항소1-3부(김종근 부장판사)는 교통사고처리 특례법 위반 혐의로 기소된 A씨에게 무죄를 선고한 1심 판결에 불복한 검사의 항소를 기각했다.
+재판부는 A씨에게 무죄를 선고한 원심의 판단이 정당하다고 봤다.
+A씨는 2023년 1월 5일 오전 4시 30분께 화물차를 몰고 왕복 10차로 일반 도로를 운전하던 중 무단횡단하던 70대 B씨를 차로 들이받아 숨지게 한 혐의로 기소됐다.
+당시 도로 제한 속도는 시속 60㎞였으나 A씨는 이보다 시속 20㎞를 초과해 운전한 것으로 조사됐다.
+앞서 원심은 A씨가 녹색 신호에 따라 주행하던 중 B씨가 무단횡단을 하다가 벌어진 일이므로 통상적으로 예견할 수 있는 상황이었다고 단정하기 어렵고 A씨가 음주 또는 졸음운전 등 다른 과실을 범했다는 정황도 존재하지 않는다고 봤다.
+아울러 A씨가 제한속도를 위반하지 않았더라면 이 사건 교통사고가 발생하지 않았을 것이라는 점이 증명돼야 하는데 A씨가 주의의무를 다했다하더라도 B씨를 제때 발견했을 것이라고 확신하기 어려운 점 등을 고려하면 이 사건 공소사실은 범죄의 증명이 없는 경우에 해당한다고 판단했다.
+you@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:00</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250725100100061" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250725100100061" style="display: none"
+data-share-title="10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄"
+data-share-body="(수원=연합뉴스) 류수현 기자 = 새벽 시간대 왕복 10차로를 무단횡단하던 70대를 차로 들이받아 숨지게 한 운전자가 1심에 이어 항소심에서도 무죄를 선고받았다. 26일 법..."
+data-share-url="https://www.yna.co.kr/view/AKR20250725100100061"
+data-share-cid="AKR20250725100100061"
+data-share-img="https://img3.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725100100061_01_i_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250725100100061" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726020300505">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726020300505" class="tit-news">
+<span class="title01">[전국 주요 신문 톱뉴스](26일 조간)</span>
+</a>
+</strong>
+<p class="lead">
+▲ 국민일보 = 유급 의대생 복귀 허용 전례 없는 &apos;3종 특혜&apos;
+▲ 동아일보 = 美는 관세, 국내선 규제입법… 엎친데 덮친 韓기업
+▲ 조선일보 = 美 &quot;주한미군 역할 재조정&quot; 못박았다
+▲ 중앙일보 = 대통령실 긴급회의 &quot;농산물도 협상 포함&quot;
+▲ 한국일보 = &quot;돈 내면 관세 깎아&quot;… 韓 2000억불 이상 낼 수도
+▲ 매일경제 = 확장재정·AI 투자 李, 내달 직접 발표
+▲ 서울경제 = 트럼프장남 투자사 국내시장 상륙한다
+▲ 한국경제 = 美압박에 … 쌀·소고기 협상테이블 올린다
+(서울=연합뉴스)
+</p>
+<span class="txt-time">07-26 10:00</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726020300505" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726020300505" style="display: none"
+data-share-title="[전국 주요 신문 톱뉴스](26일 조간)"
+data-share-body="▲ 국민일보 = 유급 의대생 복귀 허용 전례 없는 &apos;3종 특혜&apos; ▲ 동아일보 = 美는 관세, 국내선 규제입법… 엎친데 덮친 韓기업 ▲ 조선일보 = 美 &quot;주한미군 역할 재..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726020300505"
+data-share-cid="AKR20250726020300505"
+data-share-img="https://img.yna.co.kr">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726020300505" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726020400505">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726020400505" class="tit-news">
+<span class="title01">[주요 신문 사설](26일 조간)</span>
+</a>
+</strong>
+<p class="lead">
+▲ 국민일보 = K관광 민낯 드러낸 &apos;서핑 성지&apos; 양양 괴담
+▲ 동아일보 = &apos;관세 폭탄&apos;에다 &apos;더 센 상법&apos;… 안팎 이중고에 시달리는 韓 기업
+&apos;후보 교체 새벽 날치기는 불법&apos;… 당연한 상식을 이제야 확인
+&quot;공직자 의욕 꺾는 감사-수사 안 돼&quot;… 정권 따라 흔들림 없어야
+▲ 조선일보 = &apos;주한 미군은 중국 견제&apos; 70년 안보 기본 틀이 바뀐다
+주요 쟁점 美 소고기 개방, 낡은 고정관념 버려야
+민주당 대표 경선 누가 더 비정상인지 경쟁하는 듯
+▲ 중앙일보 = 저성장의 덫 피하려면 기업 옥죄기 자제해야
+▲ 한국일보 = 한국 조이는 트럼프 압박, 더 큰 국익 위해 결단해야
+끔찍한 외국인 노동자 괴롭힘, 부끄러운 인권 현주소
+&apos;이현령비현령&apos; 직권남용 손질… 보복의 악순환 끊을 때
+▲ 매일경제 = 집중투표제라도 막아달라는 경제계 절규
+공무원 복지부동 부른 과도한 정책감사 폐지가 옳다
+지게차에 외국인 노동자 매달다니, 국격 문제다
+▲ 서울경제 = 한미 관세 협상 시한 임박… &apos;국익 중심 실용 외교&apos; 총력전 나설 때
+의대생 복귀, 조속히 의료 정상화하고 &apos;특혜&apos; 논란 재발 막아야
+&quot;내란재판부 도입&quot; &quot;野 45명 제명&quot;…巨與 강성 지지층만 바라보나
+▲ 한국경제 = 위기의 관세 협상 … 미국 고압적이지만 우리 내부도 문제
+해외투자마저 노조 파업 대상으로 만드는 노란봉투법
+차이나 머니의 공습, 기술 유출·부동산 투기 방지책 서둘러야
+(서울=연합뉴스)</p>
+<span class="txt-time">07-26 10:00</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726020400505" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726020400505" style="display: none"
+data-share-title="[주요 신문 사설](26일 조간)"
+data-share-body="▲ 국민일보 = K관광 민낯 드러낸 &apos;서핑 성지&apos; 양양 괴담 ▲ 동아일보 = &apos;관세 폭탄&apos;에다 &apos;더 센 상법&apos;… 안팎 이중고에 시달리는 韓 기업 ..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726020400505"
+data-share-cid="AKR20250726020400505"
+data-share-img="https://img.yna.co.kr">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726020400505" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726021700530">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726021700530" class="img">
+<img src="https://img4.yna.co.kr/photo/yna/YH/2025/07/23/PYH2025072316200005300_T2.jpg" alt="[내주날씨] &apos;체감온도 33도 내외&apos; 무더운 날씨 계속…열대야 조심" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726021700530" class="tit-news">
+<span class="title01">[내주날씨] &apos;체감온도 33도 내외&apos; 무더운 날씨 계속…열대야 조심</span>
+</a>
+</strong>
+<p class="lead">
+(서울=연합뉴스) 오진송 기자 = 다음 주(7월 28일∼8월 1일) 전국 대부분 지역의 최고 체감온도가 33도 내외로 올라 무더운 날이 이어지겠다.
+전국의 예상 아침 최저기온은 23∼27도, 낮 최고기온은 30∼34도로, 평년(최저기온 23∼25도, 최고기온 29∼33도)보다 높겠다.
+열대야가 나타나는 곳도 있겠으니 건강관리에 유의해야 한다.
+이번 예보 기간 우리나라 주변 기압계 변화에 따라 날씨가 변경될 가능성이 있으니 최신 예보를 계속 챙기는 것이 좋다.
+월요일인 28일 전국이 대체로 맑겠으나, 제주도는 흐리고 오전 중 곳곳에 비가 내리겠다. 28일 예상 아침 최저기온은 21∼27도, 낮 최고기온은 32∼36도다.
+화요일인 29일에는 제주를 제외한 전국이 대체로 맑겠고, 수요일인 30일부터는 전국이 흐린 날이 많겠다.
+다음은 주요 지역의 예상 최저·최고 기온.
+dindong@yna.co.kr
+</p>
+<span class="txt-time">07-26 10:00</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726021700530" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726021700530" style="display: none"
+data-share-title="[내주날씨] &apos;체감온도 33도 내외&apos; 무더운 날씨 계속…열대야 조심"
+data-share-body="(서울=연합뉴스) 오진송 기자 = 다음 주(7월 28일∼8월 1일) 전국 대부분 지역의 최고 체감온도가 33도 내외로 올라 무더운 날이 이어지겠다. 전국의 예상 아침 최저기온..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726021700530"
+data-share-cid="AKR20250726021700530"
+data-share-img="https://img8.yna.co.kr/photo/yna/YH/2025/07/23/PYH2025072316200005300_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726021700530" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726021800530">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726021800530" class="img">
+<img src="https://img4.yna.co.kr/photo/yna/YH/2025/07/24/PYH2025072421060001300_T2.jpg" alt="[속보] 소비쿠폰 닷새 만에 72% 신청…6조5천703억원 지급" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726021800530" class="tit-news">
+<span class="title01">[속보] 소비쿠폰 닷새 만에 72% 신청…6조5천703억원 지급</span>
+</a>
+</strong>
+<p class="lead">
+</p>
+<span class="txt-time">07-26 10:00</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726021800530" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726021800530" style="display: none"
+data-share-title="[속보] 소비쿠폰 닷새 만에 72% 신청…6조5천703억원 지급"
+data-share-body=""
+data-share-url="https://www.yna.co.kr/view/AKR20250726021800530"
+data-share-cid="AKR20250726021800530"
+data-share-img="https://img0.yna.co.kr/photo/yna/YH/2025/07/24/PYH2025072421060001300_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726021800530" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726019500007">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726019500007" class="img">
+<img src="https://img0.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726019500007_01_i_T2.jpg" alt="여자배구 재미교포 오드리 박, 신인 드래프트 참가 어려울 듯" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726019500007" class="tit-news">
+<span class="title01">여자배구 재미교포 오드리 박, 신인 드래프트 참가 어려울 듯</span>
+</a>
+</strong>
+<p class="lead">이중 국적 또는 특별귀화 추진했지만 9월 초까지 사실상 불가능
+(서울=연합뉴스) 이동칠 기자 = 재미교포 2세 여자배구 선수 오드리 박(23·한국 이름 박혜린)이 한국 V리그 무대 입성을 타진 중이지만, 10월 18일 개막하는 2025-2026시즌에는 뛰기 어려울 전망이다.
+미국 캘리포니아대학교 로스앤젤레스(UCLA) 배구부 주전 세터 출신의 오드리 박은 그동안 한국 V리그에 진출하기 위해 한국 국적 취득을 여러모로 노력해왔다.
+한국 국적자여야만 오는 9월 초 예정된 여자부 신인 드래프트에 참여할 수 있기 때문이다.
+오드리 박은 부모가 모두 한국에서 태어나 어린 시절에 이민을 간 재미교포 2세로 현재는 미국 국적을 가지고 있다.
+그는 세터로서 토스가 안정적이고 수비 능력을 갖춘 데다 키 180cm의 높이를 앞세워 블로킹에도 강점을 보인다.
+오드리 박은 대학 졸업 후 진로를 한국 여자 프로배구 구단 입단을 위해 준비해왔다.
+그러나 한국 국적 취득이 쉽지 않다.
+일반 귀화를 선택할 경우 미국 국적을 포기해야 하므로 &apos;이중 국적&apos;을 적극적으로 알아봤다.
+법무부에 제출할 서류 등을 준비했던 그는 그러나 이중 국적 취득이 예상보다 쉽지 않음을 확인했다.
+오드리 박의 V리그 입성을 돕는 관계자는 26일 &quot;여러 경로로 이중국적 취득을 알아봤지만, 생각보다 까다롭다는 걸 확인했다&quot;면서 &quot;처음 추진했던 것에서 진척이 없는 상황&quot;이라고 전했다.
+또 우수 스포츠 인재를 대상으로 하는 특별귀화도 여의치 않은 상황이다.
+대한배구협회 추천을 거쳐 법무부 국적심의원회 면접까지 통과해야 하는 데 시간상으로 9월 초까지 마무리하기 사실상 불가능하다.
+이 관계자는 &quot;오드리 박에 대한 정보는 경기 영상 말고는 없기 때문에 배구협회로부터 추천받기 어려운 데다 법무부 심의도 많은 시간이 걸려 최소 3개월 안에 끝내는 걸 장담할 수 없다&quot;면서 &quot;내년에라도 도전</p>
+<span class="txt-time">07-26 09:55</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726019500007" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726019500007" style="display: none"
+data-share-title="여자배구 재미교포 오드리 박, 신인 드래프트 참가 어려울 듯"
+data-share-body="(서울=연합뉴스) 이동칠 기자 = 재미교포 2세 여자배구 선수 오드리 박(23·한국 이름 박혜린)이 한국 V리그 무대 입성을 타진 중이지만, 10월 18일 개막하는 2025-202..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726019500007"
+data-share-cid="AKR20250726019500007"
+data-share-img="https://img4.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726019500007_01_i_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726019500007" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726021600005">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726021600005" class="img">
+<img src="https://img1.yna.co.kr/photo/cms/2025/06/24/35/PCM20250624000035005_T2.jpg" alt="&apos;케데헌&apos; OST &apos;골든&apos; 英 싱글차트 4위…블랙핑크 &apos;뛰어&apos; 31위" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726021600005" class="tit-news">
+<span class="title01">&apos;케데헌&apos; OST &apos;골든&apos; 英 싱글차트 4위…블랙핑크 &apos;뛰어&apos; 31위</span>
+</a>
+</strong>
+<p class="lead">&apos;유어 아이돌&apos;·&apos;소다 팝&apos;까지 OST 3곡 진입
+(서울=연합뉴스) 최주성 기자 = 넷플릭스 애니메이션 영화 &apos;케이팝 데몬 헌터스&apos; 오리지널사운드트랙(OST)이 영국 오피셜 싱글차트 &apos;톱 100&apos;에서 상승세를 보였다.
+25일(현지시간) 공개된 최신 차트에 따르면 애니메이션 속 인기 걸그룹 헌트릭스가 부른 &apos;골든&apos;(Golden)은 전주보다 5계단 상승한 4위로 5주 연속 싱글차트에 진입했다.
+극중 헌트릭스와 경쟁하는 보이그룹 사자 보이즈의 &apos;유어 아이돌&apos;(Your Idol)은 전주보다 9계단 순위를 끌어올린 14위를 기록했다.
+이와 함께 사자 보이즈 &apos;소다 팝&apos;(Soda Pop)이 17위로 처음 싱글차트에 진입하면서 &apos;케이팝 데몬 헌터스&apos; OST 3곡이 이번 주 동시 진입했다.
+&apos;케이팝 데몬 헌터스&apos;는 헌트릭스가 악령들로부터 인간 세계를 지키는 내용을 담은 작품이다. 지난달 공개 이후 넷플릭스 영화 부문 1위에 오르는 등 세계적인 인기를 끌고 있다. 지난 22일자 미국 빌보드 메인 싱글차트 &apos;핫 100&apos;에는 OST 8곡이 동시 진입했다.
+걸그룹 블랙핑크의 &apos;뛰어&apos;(JUMP)는 31위에 자리하며 2주 연속 싱글차트에 이름을 올렸다.
+블랙핑크 멤버 로제는 팝스타 브루노 마스와 듀엣한 &apos;아파트&apos;(APT.)가 40위를 차지하며 40주 연속 싱글차트에 머물렀다.
+cjs@yna.co.kr
+</p>
+<span class="txt-time">07-26 09:52</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726021600005" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726021600005" style="display: none"
+data-share-title="&apos;케데헌&apos; OST &apos;골든&apos; 英 싱글차트 4위…블랙핑크 &apos;뛰어&apos; 31위"
+data-share-body="(서울=연합뉴스) 최주성 기자 = 넷플릭스 애니메이션 영화 &apos;케이팝 데몬 헌터스&apos; 오리지널사운드트랙(OST)이 영국 오피셜 싱글차트 &apos;톱 100&apos;에서 상승세를 보였다. 25일..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726021600005"
+data-share-cid="AKR20250726021600005"
+data-share-img="https://img7.yna.co.kr/photo/cms/2025/06/24/35/PCM20250624000035005_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726021600005" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726020600004">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726020600004" class="img">
+<img src="https://img4.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072518450000401_T2.jpg" alt="길음동 칼부림 내기바둑 탓 추정…피의자 아직 의식회복 못 해" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726020600004" class="tit-news">
+<span class="title01">길음동 칼부림 내기바둑 탓 추정…피의자 아직 의식회복 못 해</span>
+</a>
+</strong>
+<p class="lead">
+(서울=연합뉴스) 홍준석 이율립 기자 = 지난 25일 저녁 서울 성북구 길음동 한 기원에서 고령 남성 3명이 흉기에 찔려 크게 다친 가운데, 경찰은 사건의 발단이 내기바둑이었을 가능성을 염두에 두고 수사를 진행 중이다.
+26일 경찰과 소방당국에 따르면 전날 피의자인 70대 남성 A씨에게 가슴과 손 등을 흉기에 찔린 80대 남성과 60대 남성은 현재 수술을 마치고 의식을 회복한 상태다. 하지만 복부에서 자해로 추정되는 자상이 발견된 A씨는 아직 의식을 찾지 못했다고 한다.
+경찰 관계자는 &quot;의식이 돌아온 피해자와 기원에 있었던 사람들부터 조사를 시작할 것&quot;이라며 &quot;피의자 조사는 의식이 돌아온 뒤에 가능하다&quot;고 말했다.
+경찰은 A씨가 피해자들과 내기바둑을 두다가 범행을 저질렀을 가능성이 있다고 보고 정확한 사건 경위를 파악 중이다. 사건 현장에서 화투패와 술병이 발견되기도 했지만, 사건 관계자들이 평소 화투를 치지는 않았던 것으로 전해졌다.
+A씨는 전날 오후 7시 37분께 길음동 기원 건물 계단에서 피해자들에게 흉기를 휘두른 혐의를 받는다. 경찰은 기원 문을 잠그고 저항하던 A씨를 테이저건 2발로 제압했다.
+honk0216@yna.co.kr
+</p>
+<span class="txt-time">07-26 09:52</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726020600004" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726020600004" style="display: none"
+data-share-title="길음동 칼부림 내기바둑 탓 추정…피의자 아직 의식회복 못 해"
+data-share-body="(서울=연합뉴스) 홍준석 이율립 기자 = 지난 25일 저녁 서울 성북구 길음동 한 기원에서 고령 남성 3명이 흉기에 찔려 크게 다친 가운데, 경찰은 사건의 발단이 내기바둑이었을 가..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726020600004"
+data-share-cid="AKR20250726020600004"
+data-share-img="https://img8.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072518450000401_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726020600004" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726021200004">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726021200004" class="img">
+<img src="https://img2.yna.co.kr/photo/yna/YH/2013/03/21/PYH2013032109770001300_T2.jpg" alt="김건희특검, 함성득 참고인 조사…명태균 공천개입 의혹" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726021200004" class="tit-news">
+<span class="title01">김건희특검, 함성득 참고인 조사…명태균 공천개입 의혹</span>
+</a>
+</strong>
+<p class="lead">
+(서울=연합뉴스) 이의진 기자 = 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 &apos;명태균 공천개입 의혹&apos;과 관련해 지난 25일 함성득 경기대 정치전문대학원장을 조사했다고 26일 밝혔다.
+특검팀은 참고인 신분으로 함 원장을 불러 2022년 4월 28일 정치 브로커 명태균씨와 나눈 문자 메시지에 대한 사실관계 등을 조사한 것으로 전해졌다.
+특검팀에 앞서 명씨 의혹을 수사한 검찰은 당시 함 원장이 명씨와 주고받은 메시지를 확보했다. 명씨는 &quot;형수에게 보낸 문자&quot;라며 김 여사에게 보낸 것으로 추정되는 메시지를 함 원장에게 공유한 것으로 전해졌다.
+이 메시지에는 &quot;사모님, 창원시 의창구 출마한 김영선 의원을 지켜달라. 대통령님과 사모님의 충복이 되겠다&quot;는 등의 내용이 담긴 것으로 알려졌다.
+특검팀은 27일에는 윤석열 전 대통령 부부의 2022년 국회의원 보궐선거 공천개입 의혹에 등장하는 국민의힘 윤상현 의원을 불러 조사한다.
+윤 의원은 당시 국민의힘 공천관리위원장이었다.
+윤 전 대통령 부부는 그해 대통령 선거 과정에서 명씨로부터 여론조사를 무상으로 받은 대가로 같은 해 치러진 보궐선거에서 김영선 전 의원이 공천받도록 해줬다는 혐의를 받는다.
+명씨는 총 81차례에 걸쳐 불법 여론조사를 해준 것으로 파악됐다.
+앞서 공개된 통화 녹취록에 따르면 윤 전 대통령은 국민의힘 보궐선거 공천 발표 전날인 2022년 5월 9일 명씨에게 &quot;내가 김영선이 경선 때부터 열심히 뛰었으니까 김영선이를 좀 해줘라 그랬는데, 말이 많네. 당에서&quot;라며 &quot;상현이(윤 의원)한테 내가 한 번 더 이야기할게. 걔가 공관위원장이니까&quot;라고 말했다.
+pual07@yna.co.kr
+</p>
+<span class="txt-time">07-26 09:41</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726021200004" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726021200004" style="display: none"
+data-share-title="김건희특검, 함성득 참고인 조사…명태균 공천개입 의혹"
+data-share-body="(서울=연합뉴스) 이의진 기자 = 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 &apos;명태균 공천개입 의혹&apos;과 관련해 지난 25일 함성득 경기대 정치전문대학원장을 조사했다고 2..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726021200004"
+data-share-cid="AKR20250726021200004"
+data-share-img="https://img8.yna.co.kr/photo/yna/YH/2013/03/21/PYH2013032109770001300_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726021200004" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726020900005">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726020900005" class="img">
+<img src="https://img6.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726020900005_01_i_T2.jpg" alt="신화 이민우 결혼…&quot;오랜 인연과 한 가족 되기로&quot;" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726020900005" class="tit-news">
+<span class="title01">신화 이민우 결혼…&quot;오랜 인연과 한 가족 되기로&quot;</span>
+</a>
+</strong>
+<p class="lead">
+(서울=연합뉴스) 최주성 기자 = 그룹 신화의 이민우(45)가 결혼 소식을 발표했다.
+26일 가요계에 따르면 이민우는 전날 자신의 인스타그램에 &quot;오랜 시간 알고 지낸 소중한 인연과 서로 같은 마음을 확인하고 한 가족이 되기로 했다&quot;며 &quot;따뜻한 마음으로 축복해주면 좋겠다&quot;고 썼다.
+이민우는 &quot;최근 여러 가지 상황을 겪으며 심적으로 힘들고 지쳤을 때 가족들과 많은 시간을 보내며 가족에 대한 의미를 되새겼다&quot;며 &quot;언젠가는 서로 힘이 되어 주는 나만의 가정을 꾸리고 싶다는 막연한 마음이 있었다&quot;고 말했다.
+1998년 그룹 신화로 데뷔한 이민우는 &apos;브랜드 뉴&apos;, &apos;퍼펙트 맨&apos; 등의 히트곡으로 사랑받았다. 화가 활동을 병행하는 그는 지난달 21일에는 첫 개인전 &apos;퓨리즘&apos;(PURISM)을 열기도 했다.
+이민우는 &quot;제게 또 다른 삶의 변화가 있겠지만 신화창조(팬클럽)와 가족의 사랑을 원동력으로 변함없는 활동을 이어가겠다&quot;고 밝혔다.
+이민우는 다음 달 KBS 2TV 예능 &apos;살림남&apos;에 출연해 예비 신부와의 결혼 준비 과정을 공개할 예정이다.
+cjs@yna.co.kr
+</p>
+<span class="txt-time">07-26 09:40</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726020900005" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726020900005" style="display: none"
+data-share-title="신화 이민우 결혼…&quot;오랜 인연과 한 가족 되기로&quot;"
+data-share-body="(서울=연합뉴스) 최주성 기자 = 그룹 신화의 이민우(45)가 결혼 소식을 발표했다. 26일 가요계에 따르면 이민우는 전날 자신의 인스타그램에 &quot;오랜 시간 알고 지낸 소중한 ..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726020900005"
+data-share-cid="AKR20250726020900005"
+data-share-img="https://img2.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726020900005_01_i_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726020900005" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250725092600051">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250725092600051" class="img">
+<img src="https://img9.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725092600051_01_i_T2.jpg" alt="비스텝·부산교육청, 청소년 과학문화 체험 기회 확대키로" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725092600051" class="tit-news">
+<span class="title01">비스텝·부산교육청, 청소년 과학문화 체험 기회 확대키로</span>
+</a>
+</strong>
+<p class="lead">
+(부산=연합뉴스) 김선호 기자 = 부산과학기술고등교육진흥원(BISTEP)과 한국과학기술단체총연합회 부울연합회(부울과총)는 최근 부산교육청과 청소년 대상 과학 문화 체험 프로그램 확대와 미래인재 양성을 위한 협력 방안을 논의했다고 26일 밝혔다.
+이 자리에서 2012년부터 부울과총이 해온 &apos;나눔과학특강&apos; 등 청소년 대상 과학 문화 체험 프로그램의 확대와 지역 과학기술 단체의 공동사업 추진 등이 주요 의제로 다뤄졌다.
+김영부 BISTEP 원장은 &quot;다양한 과학기술 단체와 협력해 미래 인재를 양성하겠다&quot;고 말했다.
+진성호 부울과총 회장은 &quot;시민 누구나 체감할 수 있는 과학기술 문화 확산에 힘쓰겠다&quot;고 말했다.
+BISTEP은 다음 달 11일 &apos;부산과학기술인 콜로키움&apos;을 열어 정책 소통의 장을 마련할 예정이다.
+wink@yna.co.kr
+</p>
+<span class="txt-time">07-26 09:33</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250725092600051" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250725092600051" style="display: none"
+data-share-title="비스텝·부산교육청, 청소년 과학문화 체험 기회 확대키로"
+data-share-body="(부산=연합뉴스) 김선호 기자 = 부산과학기술고등교육진흥원(BISTEP)과 한국과학기술단체총연합회 부울연합회(부울과총)는 최근 부산교육청과 청소년 대상 과학 문화 체험 프로그램 확..."
+data-share-url="https://www.yna.co.kr/view/AKR20250725092600051"
+data-share-cid="AKR20250725092600051"
+data-share-img="https://img3.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725092600051_01_i_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250725092600051" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726004900001">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726004900001" class="img">
+<img src="https://img5.yna.co.kr/photo/yna/YH/2025/07/26/PYH2025072601370000100_T2.jpg" alt="우의장, 루마니아 상원의장 만나 &quot;방산·원전 등 협력 강화&quot;" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726004900001" class="tit-news">
+<span class="title01">우의장, 루마니아 상원의장 만나 &quot;방산·원전 등 협력 강화&quot;</span>
+</a>
+</strong>
+<p class="lead">루마니아 상원의장 &quot;적극적 협력 약속…한반도 평화 지원할 것&quot;
+(부쿠레슈티&lt;루마니아&gt;=연합뉴스) 안정훈 기자 = 해외 순방 중인 우원식 국회의장은 25일(현지시간) 루마니아 고위급 정계 인사를 연이어 만나며 양국 간 교류 증진과 한반도 평화 확립을 위한 협조를 요청했다.
+우 의장은 이날 루마니아 부쿠레슈티에 위치한 인민궁전에서 미르체아 아브루데안 상원의장을 만나 &quot;방산 협력, 원전 협력, 인프라 협력 등 3대 전략 산업을 중심으로 (양국 간) 협력이 충분한 소지가 있다&quot;고 밝혔다.
+그는 또 &quot;대한민국의 가장 큰 고민은 남북 간의 평화&quot;라며 &quot;같은 민족임에도 남북 간의 긴장감 때문에 대화가 이뤄지지 못한다. 남북 간의 긴장 완화와 대화를 위해 국제 사회에서 한국의 정책에 대한 많은 지지를 부탁드린다&quot;고 요청했다.
+이에 아브루데안 상원의장은 &quot;한반도 평화를 위해서 저희가 지원하겠다&quot;며 &quot;지정학적 이유로 우크라이나 전쟁에 루마니아도 큰 위협을 느끼고 있다&quot;고 답했다.
+아브루데안 상원의장은 &quot;원전 사업과 방산 사업 협력에 대한 내용에 대해서 말씀해주셔서 감사드린다. 적극적인 협력을 기초로 지원할 것을 약속한다&quot;며 &quot;여러 분야의 협력 관계를 토대로 아끼지 않는 지원을 하도록 할 것&quot;이라고 덧붙였다.
+우 의장은 이날 소린 미하이 그린데아누 루마니아 하원의장, 일리에 볼로잔 총리와도 면담했다.
+또한 로베르트 이오나탄 시기아르터우 루마니아·한국 의원친선협회 협회장을 비롯해 전·현직 루마니아 의원과의 간담회를 진행했다.
+우 의장은 그린데아누 하원의장과의 예방 자리에서 유럽연합(EU)의 주요 항구도시 중 하나인 루마니아의 콘스탄차시를 중심으로 한 양국 간 협력 확대 가능성을 강조했다.
+우 의장은 &quot;부산항만공사와 콘스탄차 항만공사 간의 항만 개발, 운영 협력과 관련해서 업무협약(MOU)을 체결하고 협력의 틀이 마련돼 있다&quot;며 &quot;적극적으로 (양국간 협력이) 발전할 수 있도록 관심을 바</p>
+<span class="txt-time">07-26 09:30</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726004900001" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726004900001" style="display: none"
+data-share-title="우의장, 루마니아 상원의장 만나 &quot;방산·원전 등 협력 강화&quot;"
+data-share-body="(부쿠레슈티&lt;루마니아&gt;=연합뉴스) 안정훈 기자 = 해외 순방 중인 우원식 국회의장은 25일(현지시간) 루마니아 고위급 정계 인사를 연이어 만나며 양국 간 교류 증진과 한반도 평화 ..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726004900001"
+data-share-cid="AKR20250726004900001"
+data-share-img="https://img1.yna.co.kr/photo/yna/YH/2025/07/26/PYH2025072601370000100_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726004900001" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726019900007">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726019900007" class="img">
+<img src="https://img1.yna.co.kr/photo/yna/YH/2025/07/20/PYH2025072012400006100_T2.jpg" alt="&apos;7월 출루율 0.629&apos; kt 안현민, 규정 타석 진입 임박" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726019900007" class="tit-news">
+<span class="title01">&apos;7월 출루율 0.629&apos; kt 안현민, 규정 타석 진입 임박</span>
+</a>
+</strong>
+<p class="lead">다음 주 중 규정 타석 진입하면 타율, 출루율, 장타율 1위
+(서울=연합뉴스) 하남직 기자 = 안현민(21·kt wiz)이 규정 타석 진입(팀 경기 수 × 3.1)을 눈앞에 뒀다.
+안현민이 2025 한국프로야구 KBO리그 공식 순위에 이름을 올리면, 타자 부문 타이틀 경쟁은 &apos;안현민 중심&apos;으로 재편된다.
+25일까지 안현민은 67경기, 290타석에 들어서서 타율 0.369, 18홈런, 59타점, 출루율 0.483, 장타율 0.669를 올렸다.
+kt는 96경기를 치러, 소속팀 타자들의 규정 타석은 297타석이다.
+최근 매 경기 4∼5타석을 소화하는 안현민은 다음 주 중에는 규정 타석에 진입할 전망이다.
+25일 현재 타율 1위 빅터 레이예스(0.340·롯데 자이언츠), 출루율 1위 최형우(0.429·KIA 타이거즈), 장타율 1위 르윈 디아즈(0.616·삼성 라이온즈)는 안현민이 규정 타석에 진입하는 순간, 부문 1위 자리를 내줄 가능성이 크다.
+4월 10일 NC 다이노스전에서 한 타석만 서고, 그달 30일부터 본격적으로 1군 경기를 치른 안현민은 파괴력 때문에 주목받았다.
+안현민은 5월에 치른 27경기에서 홈런 9개를 쳤다.
+타 팀에 &apos;안현민 주의보&apos;가 내려졌고, 안현민과 대결하는 투수들의 집중력이 달라졌다.
+6월부터 안현민은 또 다른 장기를 발휘했다.
+상대의 유인구를 잘 참는 안현민의 &apos;눈 야구&apos;는 출루율 상승을 끌어냈다.
+안현민은 6월 볼넷 공동 1위(18개)에 올랐고, 7월에는 2위 노시환(12개·한화 이글스)보다 5개나 많은 볼넷 17개를 골라 단독 선두를 달린다.
+출루율은 6월 0.474로 3위에 올랐는데, 7월에는 0.629의 놀라운 수치를 찍어 압도적인 1위를 질주했다.
+7월 2위 구자욱(삼성 라이온즈)의 출루율은 0.516이다.
+상대 집중 견제 탓에 안현민의 홈런 수는 5월 9개에서 6월 4개, 7월 5개로 줄었</p>
+<span class="txt-time">07-26 09:24</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726019900007" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726019900007" style="display: none"
+data-share-title="&apos;7월 출루율 0.629&apos; kt 안현민, 규정 타석 진입 임박"
+data-share-body="(서울=연합뉴스) 하남직 기자 = 안현민(21·kt wiz)이 규정 타석 진입(팀 경기 수 × 3.1)을 눈앞에 뒀다. 안현민이 2025 한국프로야구 KBO리그 공식 순위에..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726019900007"
+data-share-cid="AKR20250726019900007"
+data-share-img="https://img5.yna.co.kr/photo/yna/YH/2025/07/20/PYH2025072012400006100_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726019900007" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+<li data-cid="AKR20250726019700007">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20250726019700007" class="img">
+<img src="https://img8.yna.co.kr/photo/etc/epa/2025/05/22/PEP20250522080201009_T2.jpg" alt="&apos;폭탄조&apos; 향한 맨유 아모링 감독의 경고 &quot;헐값에 내주지 않겠다&quot;" loading="lazy" >
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726019700007" class="tit-news">
+<span class="title01">&apos;폭탄조&apos; 향한 맨유 아모링 감독의 경고 &quot;헐값에 내주지 않겠다&quot;</span>
+</a>
+</strong>
+<p class="lead">가르나초·안토니·산초·말라시아 &apos;1군 전력서 제외&apos;
+(서울=연합뉴스) 이영호 기자 = 잉글랜드 프로축구 프리미어리그(EPL) 맨체스터 유나이티드(이하 맨유)를 지휘하는 후벵 아모링 감독이 1군 전력에서 제외된 선수들에 대해 &quot;헐값 방출은 없다&quot;라고 못을 박았다.
+영국 공영방송 BBC는 26일(한국시간) &quot;아모링 감독은 프리시즌 시작과 함께 소위 &apos;폭탄조(bomb squad)&apos;라고 불리는 마커스 래시퍼드, 알레한드로 가르나초, 안토니, 제이든 산초, 타이럴 말라시아를 1군 전력에서 제외했다&quot;라며 &quot;래시퍼드는 FC바르셀로나(스페인) 임대를 떠났지만 나머지 선수들은 미국 투어에서 제외돼 캐링턴 훈련장으로 복귀하라는 지시를 받았다&quot;고 전했다.
+레알 베티스(스페인) 임대를 떠났던 안토니는 완전 이적을 노리고 있고, 산초는 유벤투스(이탈리아)가 관심을 가지고 있고, 가르나초는 여러 팀의 러브콜을 받는 상태다.
+이에 대해 BBC는 &quot;안토니, 산초, 가르나초 등은 아직 이적 협상에 진전이 없는 상황&quot;이라며 &quot;이들에게 관심을 가진 구단들은 9월 1일 여름 이적시장 마감 직전까지 기다렸다가 이적료가 떨어지기를 기대하는 분위기&quot;라고 설명했다.
+하지만 이런 상황을 놓고 아모링 감독은 &quot;1군에서 밀려난 선수들을 헐값에 데려가려고 생각하는 다른 구단들은 충격을 받을 것&quot;이라며 강경한 입장을 드러냈다.
+아모링 감독은 &quot;구단은 이들 선수에 대한 적정한 이적료를 기준을 가지고 있다&quot;라며 &quot;그 가격에 맞지 않는다면 그들은 의심의 여지 없이 맨유의 선수&quot;라고 선을 그었다.
+그는 &quot;우리는 선수들이 시간을 갖고 이적을 결정할 수 있도록 배려하고 있다&quot;라며 &quot;다른 구단들도 마지막 시기에 움직일 것을 알고 있지만, 이적료가 맞지 않는다면 예상치 못한 결과를 얻을 수 있다. 나는 이들을 다시 받아들일 준비가 돼 있다&quot;고 강조했다.
+horn90@yna.co.kr
+</p>
+<span class="txt-time">07-26 09:22</span>
+<div class="btns-wrap01">
+<div class="tooltip-type01 tlp-share01">
+<button type="button" class="btn-type001 share01" data-cid="AKR20250726019700007" data-tool-open="pop-share01"><span class="ir-txt01">공유</span></button>
+<div class="tlp-content">
+<strong class="tit01">공유하기</strong>
+<div class="list01 share-script">
+<button type="button" class="btn-type101 kkt">
+<strong class="txt01">카카오톡</strong>
+</button>
+<button type="button" class="btn-type101 fb">
+<strong class="txt01">페이스북</strong>
+</button>
+<button type="button" class="btn-type101 tw">
+<strong class="txt01">X</strong>
+</button>
+<button type="button" class="btn-type101 fbm">
+<strong class="txt01">페이스북 메신저</strong>
+</button>
+<button type="button" class="btn-type101 band">
+<strong class="txt01">네이버 밴드</strong>
+</button>
+<button type="button" class="btn-type101 copy">
+<strong class="txt01">URL 복사</strong>
+</button>
+<div class="share-data-AKR20250726019700007" style="display: none"
+data-share-title="&apos;폭탄조&apos; 향한 맨유 아모링 감독의 경고 &quot;헐값에 내주지 않겠다&quot;"
+data-share-body="(서울=연합뉴스) 이영호 기자 = 잉글랜드 프로축구 프리미어리그(EPL) 맨체스터 유나이티드(이하 맨유)를 지휘하는 후벵 아모링 감독이 1군 전력에서 제외된 선수들에 대해 &quot;헐값 ..."
+data-share-url="https://www.yna.co.kr/view/AKR20250726019700007"
+data-share-cid="AKR20250726019700007"
+data-share-img="https://img2.yna.co.kr/photo/etc/epa/2025/05/22/PEP20250522080201009_P2.jpg">
+</div>
+</div>
+<button type="button" class="btn-type004 close01" data-tool-close="pop-share01"><span class="ir-txt01">닫기</span></button>
+<div class="tlp-copy">
+<span class="txt01">URL이 복사되었습니다.</span>
+</div>
+</div>
+</div>
+<button data-cid="AKR20250726019700007" type="button" class="btn-type001 scrap01">
+<span class="ir-txt01">북마크</span>
+</button>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<yna-paging total="500" real-total="3000" item-count="25" max-page="20" page-count="10">
+<div class="paging-type01">
+<strong class="num on">1</strong><a href="https://www.yna.co.kr/news/2" class="num">2</a><a href="https://www.yna.co.kr/news/3" class="num">3</a><a href="https://www.yna.co.kr/news/4" class="num">4</a><a href="https://www.yna.co.kr/news/5" class="num">5</a><a href="https://www.yna.co.kr/news/6" class="num">6</a><a href="https://www.yna.co.kr/news/7" class="num">7</a><a href="https://www.yna.co.kr/news/8" class="num">8</a><a href="https://www.yna.co.kr/news/9" class="num">9</a><a href="https://www.yna.co.kr/news/10" class="num">10</a>
+<a href="https://www.yna.co.kr/news/11" class="next"><span class="ir-txt01">다음 페이지</span></a>
+<a href="https://www.yna.co.kr/news/20" class="last"><span class="ir-txt01">마지막 페이지</span></a>
+</div>
+</yna-paging>
+</section>
+</div>
+<div class="section02">
+<div class="div-area01">
+<section class="box-type104 box-hotnews01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/theme/hotnews-history" class="tit01">핫뉴스</a>
+</h3>
+</header>
+<div class="list-type200">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250726020900005?section=culture/all" class="img">
+<picture class="pic">
+<img src="https://img6.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726020900005_01_i_T2.jpg" alt="신화 이민우 결혼…&quot;오랜 인연과 한 가족 되기로&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250726020900005?section=culture/all" class="tit-news">
+<span class="title01">신화 이민우 결혼…&quot;오랜 인연과 한 가족 되기로&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725062300062?section=society/all" class="img">
+<picture class="pic">
+<img src="https://img0.yna.co.kr/photo/cms/2021/03/19/64/PCM20210319000064990_T2.jpg" alt="행정복지센터서 &quot;기름값 줘&quot; 황당 요구…거절에 욕하며 &apos;퉤&apos;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725062300062?section=society/all" class="tit-news">
+<span class="title01">행정복지센터서 &quot;기름값 줘&quot; 황당 요구…거절에 욕하며 &apos;퉤&apos;</span>
+</a>
+</strong>
+</div>
+</div>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725068400542?section=industry/all" class="img">
+<picture class="pic">
+<img src="https://img0.yna.co.kr/photo/cms/2025/05/22/69/PCM20250522000069990_T2.jpg" alt="[길따라] 큰맘 먹고 비즈니스석 끊었는데 이코노미석으로 강등?" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725068400542?section=industry/all" class="tit-news">
+<span class="title01">[길따라] 큰맘 먹고 비즈니스석 끊었는데 이코노미석으로 강등?</span>
+</a>
+</strong>
+</div>
+</div>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725159400004?section=society/all" class="img">
+<picture class="pic">
+<img src="https://img3.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725159400004_01_i_T2.jpg" alt="프로야구 코치가 연인 감금·폭행하고 음주 무법질주…징역 1년" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725159400004?section=society/all" class="tit-news">
+<span class="title01">프로야구 코치가 연인 감금·폭행하고 음주 무법질주…징역 1년</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725100100061?section=society/all" class="img">
+<picture class="pic">
+<img src="https://img7.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725100100061_01_i_T2.jpg" alt="10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725100100061?section=society/all" class="tit-news">
+<span class="title01">10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄</span>
+</a>
+</strong>
+</div>
+</div>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725166600004?section=society/all" class="img">
+<picture class="pic">
+<img src="https://img0.yna.co.kr/photo/yna/YH/2025/07/21/PYH2025072100780001300_T2.jpg" alt="인천 아들 총격범, 27년 전 운영하던 비디오방서 성범죄 저질러" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725166600004?section=society/all" class="tit-news">
+<span class="title01">인천 아들 총격범, 27년 전 운영하던 비디오방서 성범죄 저질러</span>
+</a>
+</strong>
+</div>
+</div>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725095300051?section=society/all" class="img">
+<picture class="pic">
+<img src="https://img8.yna.co.kr/photo/cms/2025/03/27/29/PCM20250327000029990_T2.jpg" alt="&apos;현행범 체포에 앙심&apos; 출동 경찰관 고소했다가 징역형 집행유예" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725095300051?section=society/all" class="tit-news">
+<span class="title01">&apos;현행범 체포에 앙심&apos; 출동 경찰관 고소했다가 징역형 집행유예</span>
+</a>
+</strong>
+</div>
+</div>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20250725121751061?section=society/all" class="img">
+<picture class="pic">
+<img src="https://img3.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725121751061_02_i_T2.jpg" alt="송영규, 음주운전 혐의 불구속 송치…출연 드라마·연극 &apos;비상&apos;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20250725121751061?section=society/all" class="tit-news">
+<span class="title01">송영규, 음주운전 혐의 불구속 송치…출연 드라마·연극 &apos;비상&apos;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+</div>
+</div>
+</div>
+</section>
+<aside id="boxAdsRight01" class="aside-box003">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-right01"></div>
+<div class="area01 ads-right02"></div>
+<div class="area01 ads-right03"></div>
+<div class="area01 ads-right04"></div>
+<div class="area01 ads-right05"></div>
+<div class="area01 ads-right06"></div>
+<div class="area01 ads-right07"></div>
+<div class="area01 ads-right08"></div>
+<div class="area01 ads-right09"></div>
+<div class="area01 ads-right10"></div>
+<div class="area01 ads-right11"></div>
+<div class="area01 ads-right12"></div>
+<div class="area01 ads-right13"></div>
+<div class="area01 ads-right14"></div>
+<div class="area01 ads-right15"></div>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x01?ads-right01"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x02?ads-right02"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x03?ads-right03"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x04?ads-right04"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x05?ads-right05"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x06?ads-right06"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x07?ads-right07"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x08?ads-right08"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@x09?ads-right09"></yna-ad-script>
+</aside>
+</div>
+<div class="div-area02">
+<section class="box-type021 box-ranking-news01">
+<h3 class="ir-txt01">랭킹뉴스</h3>
+<div class="tab-type03 style01">
+<ul>
+<li class="active">
+<button type="button" class="tab" data-tab-target="ranking-most" data-stat-code="popularnews_tab">
+<span class="txt01">많이 본 뉴스</span>
+</button>
+</li>
+<li>
+<button type="button" class="tab" data-tab-target="ranking-empathy" data-stat-code="empathetic_news_tab">
+<span class="txt01">공감 많은 뉴스</span>
+</button>
+</li>
+</ul>
+</div>
+<div class="tab-content01">
+<div class="list-type202 number02 show" data-tab-catagory="ranking-most">
+<ol class="list01"></ol>
+<div class="btns-wrap03">
+<a href="https://www.yna.co.kr/theme/mostviewed/index" class="btn-type300 style20 arr01" >
+<span class="txt01">더보기</span>
+</a>
+</div>
+</div>
+<div class="list-type202 number02 hide" data-tab-catagory="ranking-empathy">
+<ol class="list01"></ol>
+<div class="btns-wrap03">
+<a href="https://www.yna.co.kr/theme/empathic/index" class="btn-type300 style20 arr01" >
+<span class="txt01">더보기</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<script id="rankingMost01_Template" type="text/x-handlebars-template">	
+	<li>
+		<div class="item-box01">
+			{{#if IMAGE}}
+				<figure class="img-con01">
+					<a href="https://www.yna.co.kr/view/{{CID}}" class="img" >
+						<img src="{{thumbnail IMAGE 'T2'}}" alt="{{escape TITLE}}" loading="lazy">
+					</a>
+				</figure>
+			{{/if}}
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a href="https://www.yna.co.kr/view/{{CID}}" class="tit-news" >
+						<span class="title01">{{{TITLE}}}</span>
+					</a>
+				</strong>
+			</div>
+		</div>
+	</li>
+</script>
+<script id="rankingEmpathy01_Template" type="text/x-handlebars-template">	
+	<li>
+		<div class="item-box01">
+			{{#if IMAGE}}
+				<figure class="img-con01">
+					<a href="https://www.yna.co.kr/view/{{CID}}" class="img" >
+						<img src="{{thumbnail IMAGE 'T2'}}" alt="{{escape TITLE}}" loading="lazy">
+					</a>
+				</figure>
+			{{/if}}
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a href="https://www.yna.co.kr/view/{{CID}}" class="tit-news" >
+						<span class="title01">{{{TITLE}}}</span>
+					</a>
+				</strong>
+			</div>
+		</div>
+	</li>
+</script>
+<aside class="aside-box205">
+<span class="ir-txt01">광고</span>
+<div class="area01">
+<yna-ad-script data-id="div-gpt-ad-1590374394954-0" data-desktop-ad="true" style="min-width: 300px; min-height: 250px;"></yna-ad-script>
+<script>
+	window["div-gpt-ad-1590374394954-0"] = function(){
+		googletag.cmd.push(function() { googletag.display("div-gpt-ad-1590374394954-0"); });
+	}    
+</script>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<aside class="aside-box005 aside-sticky03">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-fixed01">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x55?ads-fixed01"></yna-ad-script>
+</div>
+<div class="area01 ads-fixed03">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x53?ads-fixed03"></yna-ad-script>
+</div>
+</aside>
+</div>
+</div>
+<script id="toast01_Template" type="text/x-handlebars-template">
+	<div class="popup-type80">
+		<span class="txt01">{{ MESSAGE }}</span>
+	</div>
+</script>
+<div class="a11ykey-search01-start" tabindex="0"></div>
+<div class="popup-search01">
+<div class="search-zone01 active open-list">
+<fieldset>
+<legend>뉴스 검색어 입력 양식</legend>
+<div class="search-type01">
+<label for="keywordSrch01" class="ir-txt01">통합 검색</label>
+<input type="text" id="keywordSrch01" class="input01" placeholder="검색어를 입력해 주세요." autocomplete="off">
+<button type="button" class="btn-type013 btn-clear01" data-stat-code="search_btn_delete">
+<span class="ir-txt01">삭제</span>
+</button>
+<button type="button" class="btn-type012 search01" data-stat-code="search_btn_enter">
+<span class="ir-txt01">검색</span>
+</button>
+</div>
+</fieldset>
+<div class="search-auto"></div>
+</div>
+<button type="button" class="btn-type004 close01">
+<span class="ir-txt01">전체메뉴 닫기</span>
+</button>
+</div>
+<div class="a11ykey-menu01" tabindex="0"></div>
+<div id="wholeMenu01" class="popup-whole-home01">
+<header class="pop-header">
+<a class="logo-yna02" href="https://www.yna.co.kr"><strong class="ir-txt01">연합뉴스 홈페이지</strong></a>
+<button type="button" class="btn-type004 close01"><span class="ir-txt01">전체메뉴 닫기</span></button>
+</header>
+<div class="pop-content">
+<div class="mem-zone01 show"></div>
+<div class="nav-major01">
+<span class="tit-nav01">뉴스</span>
+<ul class="nav-menu01">
+<li class="latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="footer_news_latest" class="on">최신뉴스</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="footer_politics_depth01" >정치</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/politics/all" data-stat-code="footer_politics_depth02">정치전체</a></li>
+<li><a href="https://www.yna.co.kr/politics/president" data-stat-code="footer_politics_depth02">대통령실/총리실</a></li>
+<li><a href="https://www.yna.co.kr/politics/national-assembly" data-stat-code="footer_politics_depth02">국회/정당</a></li>
+<li><a href="https://www.yna.co.kr/politics/diplomacy" data-stat-code="footer_politics_depth02">외교</a></li>
+<li><a href="https://www.yna.co.kr/politics/defense" data-stat-code="footer_politics_depth02">국방</a></li>
+</ul>
+</li>
+<li class="nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" target="_blank" data-stat-code="footer_nk_depth01">북한</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/nk/news/all" target="_blank" data-stat-code="footer_nk_depth02">북한전체</a></li>
+<li><a href="https://www.yna.co.kr/nk/conference/index" target="_blank" data-stat-code="footer_nk_depth02">학술/연구</a></li>
+<li><a href="https://www.yna.co.kr/nk/overview/index" target="_blank" data-stat-code="footer_nk_depth02">북한 알아보기</a></li>
+<li><a href="https://www.yna.co.kr/nk/person/index" target="_blank" data-stat-code="footer_nk_depth02">인물</a></li>
+<li><a href="https://www.yna.co.kr/nk/video/index" target="_blank" data-stat-code="footer_nk_depth02">비주얼</a></li>
+<li><a href="https://www.yna.co.kr/nk/channel/nk-now" target="_blank" data-stat-code="footer_nk_depth02">NK NOW</a></li>
+</ul>
+</li>
+<li class="economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="footer_economy_depth01" >경제</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/economy/all" data-stat-code="footer_economy_depth02">경제전체</a></li>
+<li><a href="https://www.yna.co.kr/economy/economic-policy" data-stat-code="footer_economy_depth02">경제/정책</a></li>
+<li><a href="https://www.yna.co.kr/economy/finance" data-stat-code="footer_economy_depth02">금융</a></li>
+<li><a href="https://www.yna.co.kr/economy/real-estate" data-stat-code="footer_economy_depth02">부동산</a></li>
+<li><a href="https://www.yna.co.kr/economy/job-foundation" data-stat-code="footer_economy_depth02">취업/창업</a></li>
+<li><a href="https://www.yna.co.kr/economy/consumer" data-stat-code="footer_economy_depth02">소비자</a></li>
+</ul>
+</li>
+<li class="market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="footer_market_plus_depth01" >마켓+</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/market-plus/all" data-stat-code="footer_market_plus_depth02">마켓+전체</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/domestic-stock" data-stat-code="footer_market_plus_depth02">국내주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-stock" data-stat-code="footer_market_plus_depth02">해외주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/bond" data-stat-code="footer_market_plus_depth02">채권</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/fund-etf" data-stat-code="footer_market_plus_depth02">펀드/ETF</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-market" data-stat-code="footer_market_plus_depth02">글로벌시장</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/financial-investment" data-stat-code="footer_market_plus_depth02">증권/운용사</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/report" data-stat-code="footer_market_plus_depth02">리포트</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/disclosure" data-stat-code="footer_market_plus_depth02">공시</a></li>
+</ul>
+</li>
+<li class="industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="footer_industry_depth01" >산업</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/industry/all" data-stat-code="footer_industry_depth02">산업전체</a></li>
+<li><a href="https://www.yna.co.kr/industry/industrial-enterprise" data-stat-code="footer_industry_depth02">산업/기업</a></li>
+<li><a href="https://www.yna.co.kr/industry/electronics" data-stat-code="footer_industry_depth02">전기전자</a></li>
+<li><a href="https://www.yna.co.kr/industry/heavy-chemistry" data-stat-code="footer_industry_depth02">중화학</a></li>
+<li><a href="https://www.yna.co.kr/industry/automobile" data-stat-code="footer_industry_depth02">자동차</a></li>
+<li><a href="https://www.yna.co.kr/industry/construction" data-stat-code="footer_industry_depth02">건설</a></li>
+<li><a href="https://www.yna.co.kr/industry/energy-resource" data-stat-code="footer_industry_depth02">에너지/자원</a></li>
+<li><a href="https://www.yna.co.kr/industry/technology-science" data-stat-code="footer_industry_depth02">IT/과학</a></li>
+<li><a href="https://www.yna.co.kr/industry/game" data-stat-code="footer_industry_depth02">게임</a></li>
+<li><a href="https://www.yna.co.kr/industry/distribution-service-industry" data-stat-code="footer_industry_depth02">유통/서비스</a></li>
+<li><a href="https://www.yna.co.kr/industry/venture-business" data-stat-code="footer_industry_depth02">중기/벤처</a></li>
+<li><a href="https://www.yna.co.kr/industry/bioindustry-health" data-stat-code="footer_industry_depth02">바이오/헬스</a></li>
+<li><a href="https://www.yna.co.kr/industry/agriculture" data-stat-code="footer_industry_depth02">농림축산</a></li>
+<li><a href="https://www.yna.co.kr/industry/ocean-fishery" data-stat-code="footer_industry_depth02">해양수산</a></li>
+</ul>
+</li>
+<li class="society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="footer_society_depth01" >사회</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/society/all" data-stat-code="footer_society_depth02">사회전체</a></li>
+<li><a href="https://www.yna.co.kr/society/accident" data-stat-code="footer_society_depth02">사건/사고</a></li>
+<li><a href="https://www.yna.co.kr/society/court-prosecution" data-stat-code="footer_society_depth02">법원/검찰</a></li>
+<li><a href="https://www.yna.co.kr/society/education" data-stat-code="footer_society_depth02">교육</a></li>
+<li><a href="https://www.yna.co.kr/society/welfare-labor" data-stat-code="footer_society_depth02">복지/노동</a></li>
+<li><a href="https://www.yna.co.kr/society/environment" data-stat-code="footer_society_depth02">환경/기후변화</a></li>
+<li><a href="https://www.yna.co.kr/society/women-child" data-stat-code="footer_society_depth02">여성/아동</a></li>
+<li><a href="https://www.yna.co.kr/society/overseas-koreans" data-stat-code="footer_society_depth02">재외동포</a></li>
+<li><a href="https://www.yna.co.kr/society/multiple-cultures" data-stat-code="footer_society_depth02">다문화</a></li>
+</ul>
+</li>
+<li class="local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="footer_local_depth01" >전국</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/local/all" data-stat-code="footer_local_depth02" >전국전체</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeonggi/index" data-stat-code="footer_local_depth02">경기</a></li>
+<li><a href="https://www.yna.co.kr/local/incheon/index" data-stat-code="footer_local_depth02">인천</a></li>
+<li><a href="https://www.yna.co.kr/local/busan/index" data-stat-code="footer_local_depth02">부산</a></li>
+<li><a href="https://www.yna.co.kr/local/ulsan/index" data-stat-code="footer_local_depth02">울산</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeongnam/index" data-stat-code="footer_local_depth02">경남</a></li>
+<li><a href="https://www.yna.co.kr/local/daegu-gyeongbuk/index" data-stat-code="footer_local_depth02">대구/경북</a></li>
+<li><a href="https://www.yna.co.kr/local/gwangju-jeonnam/index" data-stat-code="footer_local_depth02">광주/전남</a></li>
+<li><a href="https://www.yna.co.kr/local/jeonbuk/index" data-stat-code="footer_local_depth02">전북</a></li>
+<li><a href="https://www.yna.co.kr/local/daejeon-chungnam-sejong/index" data-stat-code="footer_local_depth02">대전/충남/세종</a></li>
+<li><a href="https://www.yna.co.kr/local/chungbuk/index" data-stat-code="footer_local_depth02">충북</a></li>
+<li><a href="https://www.yna.co.kr/local/gangwon/index" data-stat-code="footer_local_depth02">강원</a></li>
+<li><a href="https://www.yna.co.kr/local/jeju/index" data-stat-code="footer_local_depth02">제주</a></li>
+</ul>
+</li>
+<li class="intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="footer_international_depth01" >세계</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/international/all" data-stat-code="footer_international_depth02">세계전체</a></li>
+<li><a href="https://www.yna.co.kr/international/correspondents/index" data-stat-code="footer_international_depth02">특파원</a></li>
+<li><a href="https://www.yna.co.kr/international/north-america" data-stat-code="footer_international_depth02">미국/북미</a></li>
+<li><a href="https://www.yna.co.kr/international/china" data-stat-code="footer_international_depth02">중국</a></li>
+<li><a href="https://www.yna.co.kr/international/japan" data-stat-code="footer_international_depth02">일본</a></li>
+<li><a href="https://www.yna.co.kr/international/asia-australia" data-stat-code="footer_international_depth02">아시아/호주</a></li>
+<li><a href="https://www.yna.co.kr/international/europe" data-stat-code="footer_international_depth02">유럽</a></li>
+<li><a href="https://www.yna.co.kr/international/centralsouth-america" data-stat-code="footer_international_depth02">중남미</a></li>
+<li><a href="https://www.yna.co.kr/international/middleeast-africa" data-stat-code="footer_international_depth02">중동/아프리카</a></li>
+<li><a href="https://www.yna.co.kr/international/international-org" data-stat-code="footer_international_depth02">국제기구</a></li>
+</ul>
+</li>
+<li class="culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="footer_culture_depth01" >문화</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/culture/all" data-stat-code="footer_culture_depth02">문화전체</a></li>
+<li><a href="https://www.yna.co.kr/culture/books" data-stat-code="footer_culture_depth02">책/문학</a></li>
+<li><a href="https://www.yna.co.kr/culture/cartoon" data-stat-code="footer_culture_depth02">만화/웹툰</a></li>
+<li><a href="https://www.yna.co.kr/culture/religion" data-stat-code="footer_culture_depth02">종교</a></li>
+<li><a href="https://www.yna.co.kr/culture/performance-exhibition" data-stat-code="footer_culture_depth02">공연/전시</a></li>
+<li><a href="https://www.yna.co.kr/culture/scholarship" data-stat-code="footer_culture_depth02">학술/문화재</a></li>
+<li><a href="https://www.yna.co.kr/culture/media" data-stat-code="footer_culture_depth02">미디어</a></li>
+<li><a href="https://www.yna.co.kr/culture/travel-leisure" data-stat-code="footer_culture_depth02">여행/레저</a></li>
+<li><a href="https://www.yna.co.kr/culture/life-information" data-stat-code="footer_culture_depth02">생활</a></li>
+</ul>
+</li>
+<li class="health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="footer_health_depth01" >건강</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/health/all" data-stat-code="footer_health_depth02">건강전체</a></li>
+<li><a href="https://www.yna.co.kr/health/health-note" data-stat-code="footer_health_depth02">헬스노트</a></li>
+<li><a href="https://www.yna.co.kr/health/weekly-wellness" data-stat-code="footer_health_depth02">위클리 건강</a></li>
+<li><a href="https://www.yna.co.kr/health/the-health/index" data-stat-code="footer_health_depth02">더건강 영상</a></li>
+</ul>
+</li>
+<li class="ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="footer_entertainment_depth01" >연예</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/entertainment/all" data-stat-code="footer_entertainment_depth02">연예전체</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/tv" data-stat-code="footer_entertainment_depth02">방송</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/movies" data-stat-code="footer_entertainment_depth02">영화</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/pop-song" data-stat-code="footer_entertainment_depth02">가요</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/global-entertainment" data-stat-code="footer_entertainment_depth02">해외연예</a></li>
+</ul>
+</li>
+<li class="sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="footer_sports_depth01" >스포츠</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/sports/all" data-stat-code="footer_sports_depth02">스포츠전체</a></li>
+<li><a href="https://www.yna.co.kr/sports/baseball" data-stat-code="footer_sports_depth02">야구</a></li>
+<li><a href="https://www.yna.co.kr/sports/football" data-stat-code="footer_sports_depth02">축구</a></li>
+<li><a href="https://www.yna.co.kr/sports/basketball-volleyball" data-stat-code="footer_sports_depth02">농구/배구</a></li>
+<li><a href="https://www.yna.co.kr/sports/golf" data-stat-code="footer_sports_depth02">골프</a></li>
+</ul>
+</li>
+<li class="opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="footer_opinion_depth01" >오피니언</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="people" data-nav-section="people" >
+<a href="https://www.yna.co.kr/people/index" data-stat-code="footer_people_depth01">사람들</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/people/all" data-stat-code="footer_people_depth02">사람들전체</a></li>
+<li><a href="https://www.yna.co.kr/people/personnel" data-stat-code="footer_people_depth02">인사</a></li>
+<li><a href="https://www.yna.co.kr/people/obituary-notice" data-stat-code="footer_people_depth02">부고</a></li>
+<li><a href="https://www.yna.co.kr/people/movement" data-stat-code="footer_people_depth02">동정/게시판</a></li>
+<li><a href="https://www.yna.co.kr/people/ceo" data-stat-code="footer_people_depth02">CEO</a></li>
+<li><a href="https://www.yna.co.kr/people/interview" data-stat-code="footer_people_depth02">인터뷰</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="nav-other01">
+<ul class="nav-menu11">
+<li class="newsplus">
+<strong>뉴스+</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/brand-news/index" data-stat-code="footer_brand_news" rel="nofollow" >브랜드뉴스</a></li>
+<li><a href="https://www.yna.co.kr/issue/index" data-stat-code="footer_issue" rel="nofollow" >이슈</a></li>
+<li><a href="https://www.yna.co.kr/report/factcheck" data-stat-code="footer_factcheck" rel="nofollow" >팩트체크</a></li>
+<li><a href="https://www.yna.co.kr/report/headline" data-stat-code="footer_headline" rel="nofollow" >이 시각 헤드라인</a></li>
+</ul>
+</li>
+<li class="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="footer_visual_depth01">비주얼뉴스</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/video/all" data-stat-code="footer_visual_depth02" >영상</a></li>
+<li><a href="https://www.yna.co.kr/photo/major" data-stat-code="footer_visual_depth02" >포토</a></li>
+<li><a href="https://www.yna.co.kr/gallery/index" data-stat-code="footer_visual_depth02" >화보</a></li>
+<li><a href="https://www.yna.co.kr/graphic/index" data-stat-code="footer_visual_depth02" >그래픽</a></li>
+<li><a href="https://www.yna.co.kr/digital/index" data-stat-code="footer_visual_depth02" >D스토리</a></li>
+</ul>
+</li>
+<li class="theme">
+<strong>테마별뉴스</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/theme/hotnews-history" data-stat-code="footer_theme_hotnews" rel="nofollow" >핫뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/headlines-history" data-stat-code="footer_theme_headlines" rel="nofollow" >주요뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/breaknews-history" data-stat-code="footer_theme_breaknews" rel="nofollow" >긴급뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/exclusive" data-stat-code="footer_theme_exclusive" rel="nofollow" >단독뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/mostviewed/index" data-stat-code="footer_theme_mostviewed" rel="nofollow" >많이 본 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/long-stay-news/index" data-stat-code="footer_theme_longstay_news" rel="nofollow" >오래 머문 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/empathic/index" data-stat-code="footer_theme_empathetic_news" rel="nofollow" >공감 많은 뉴스</a></li>
+</ul>
+</li>
+<li class="lang">
+<strong>외국어 뉴스</strong>
+<ul class="menu01">
+<li class="en"><a href="https://en.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_en">English</a></li>
+<li class="zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_cn">中文</a></li>
+<li class="ja"><a href="https://jp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_jp">日本語</a></li>
+<li class="ar"><a href="https://ar.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_ar">عربي</a></li>
+<li class="es"><a href="https://sp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_sp">Español</a></li>
+<li class="fr"><a href="https://fr.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_fr">Français</a></li>
+</ul>
+</li>
+<li class="product">
+<strong>뉴스상품</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">프리미엄뉴스</a></li>
+<li><a href="https://www.yna.co.kr/product/newsleader" rel="nofollow" data-stat-code="footer_product_newsleader">뉴스리더</a></li>
+<li><a href="https://www.yna.co.kr/product/personalisation" rel="nofollow" data-stat-code="footer_product_personalisation">인터넷맞춤형</a></li>
+<li><a href="https://www.yna.co.kr/product/press-release" rel="nofollow" data-stat-code="footer_product_press01">보도자료 해외배포</a></li>
+<li><a href="https://www.yna.co.kr/press-release/index" rel="nofollow" data-stat-code="footer_product_press02">보도자료 국내배포</a></li>
+</ul>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise_main">광고안내</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/advertisement/ktx" rel="nofollow" data-stat-code="footer_advertise_ktx">KTX 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/srt" rel="nofollow" data-stat-code="footer_advertise_srt">SRT 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/arex" rel="nofollow" data-stat-code="footer_advertise_arex">AREX 공항철도</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/mobile" rel="nofollow" data-stat-code="footer_advertise_mobile">모바일</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/pc" rel="nofollow" data-stat-code="footer_advertise_pc">PC</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/publication" rel="nofollow" data-stat-code="footer_advertise_publication">출판물</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/led" rel="nofollow" data-stat-code="footer_advertise_led">LED전광판</a></li>
+<li><a href="https://www.yna.co.kr/board/business/write" rel="nofollow" data-stat-code="footer_advertise_partner">사업제휴</a></li>
+</ul>
+</li>
+<li class="sales">
+<a href="https://www.helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+<ul class="menu01">
+<li><a href="https://www.helloarchive.co.kr/press/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_photo">보도사진</a></li>
+<li><a href="https://www.helloarchive.co.kr/graphic/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_graphic">그래픽</a></li>
+<li><a href="https://www.helloarchive.co.kr/movie/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_video">동영상</a></li>
+<li><a href="https://www.helloarchive.co.kr/person/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_person">인물</a></li>
+</ul>
+</li>
+<li class="publication">
+<strong>출판물</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/imazine/index" rel="nofollow" data-stat-code="footer_imazine">이매진</a></li>
+<li><a href="http://yearbook.yonhapnews.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_yearbook">연합연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/koreaannual" rel="nofollow" data-stat-code="footer_enyearbook">영문연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/book" rel="nofollow" data-stat-code="footer_publication_book">단행본</a></li>
+<li><a href="http://www.yonhapmidas.com/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_midas">월간 마이더스</a></li>
+</ul>
+</li>
+<li class="service">
+<strong>서비스안내</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/service/index" rel="nofollow" data-stat-code="footer_service_main">서비스 소개</a></li>
+<li><a href="https://www.yna.co.kr/service/app" rel="nofollow" data-stat-code="footer_service_app">모바일앱 안내</a></li>
+</ul>
+</li>
+</ul>
+<ul class="nav-menu12">
+<li class="safe">
+<a href="https://www.yna.co.kr/disaster/index" rel="nofollow" data-stat-code="footer_safe">재난포털</a>
+</li>
+<li class="weather">
+<a href="https://www.yna.co.kr/weather/index" data-stat-code="footer_weather" rel="nofollow" >날씨</a>
+</li>
+<li class="reporter">
+<a href="https://www.yna.co.kr/reporter/index" data-stat-code="footer_reporter" rel="nofollow" >기자</a>
+</li>
+<li class="letter">
+<button data-stat-code="footer_newsletter" data-stat-code="wholemenu_newsletter">뉴스레터</button>
+</li>
+<li class="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" rel="nofollow" data-stat-code="footer_jebo">제보</a>
+</li>
+<li class="product">
+<a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">뉴스상품</a>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise">광고안내</a>
+</li>
+<li class="sales">
+<a href="https://www.helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+</li>
+<li class="games">
+<a href="https://games.yna.co.kr/" rel="nofollow" data-stat-code="footer_games" data-stat-code="footer_games">연합뉴스 Games</a>
+</li>
+<li class="customer">
+<a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">서비스 문의</a>
+</li>
+</ul>
+<ul class="nav-menu13">
+<li class="customer">
+<a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a></li>
+<li><a href="https://www.yna.co.kr/board/faq/list" rel="nofollow">자주 묻는 질문</a></li>
+<li><a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">공지사항</a></li>
+<li><a href="https://www.yna.co.kr/board/ask/list" rel="nofollow">1:1 문의</a></li>
+</ul>
+</li>
+<li class="partner">
+<a href="https://www.yna.co.kr/aboutus/partner" rel="nofollow" data-stat-code="footer_subscriber">계약사/제휴문의</a>
+</li>
+</ul>
+<div class="hide01 a11ykey-navi01" tabindex="0" style="height: 0px;"></div>
+</div>
+<div class="nav-menu63">
+<strong class="tit">SNS</strong>
+<p class="txt01">다양한 채널에서 연합뉴스를 만나보세요!</p>
+<a href="https://www.facebook.com/yonhap" class="btn-type006 fb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_fb"><span class="ir-txt01">연합뉴스 페이스북</span></a>
+<a href="https://www.instagram.com/yonhap_news/" class="btn-type006 ins" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_ins"><span class="ir-txt01">연합뉴스 인스타그램</span></a>
+<a href="https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw" class="btn-type006 ytb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_youtube"><span class="ir-txt01">연합뉴스 유튜브</span></a>
+<a href="https://twitter.com/yonhaptweet" class="btn-type006 tw" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_tw"><span class="ir-txt01">연합뉴스 트위터</span></a>
+</div>
+</div>
+</div>
+<button type="button" class="btn-type042 btn-scroll-top display-none" data-stat-code="footer_scroll_top">
+<i class="ir-txt01">화면 상단으로 이동</i>
+</button>
+<div id="footer" class="wrap-footer hide-appview">
+<section class="footer-menu01">
+<div class="nav-menu61">
+<button class="btn-type301 style20 letter" data-stat-code="footer_newsletter">
+<span class="txt01">뉴스레터</span>
+</button>
+<a href="https://games.yna.co.kr/" class="btn-type301 style20 game" rel="nofollow" data-stat-code="footer_games">
+<span class="txt01">연합뉴스 Games</span>
+</a>
+<button class="btn-type301 style20 app">
+<span class="txt01">APP설치</span>
+</button>
+</div>
+<div class="nav-major01">
+<span class="tit-nav01">뉴스</span>
+<ul class="nav-menu01">
+<li class="latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="footer_news_latest" class="on">최신뉴스</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="footer_politics_depth01" >정치</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/politics/all" data-stat-code="footer_politics_depth02">정치전체</a></li>
+<li><a href="https://www.yna.co.kr/politics/president" data-stat-code="footer_politics_depth02">대통령실/총리실</a></li>
+<li><a href="https://www.yna.co.kr/politics/national-assembly" data-stat-code="footer_politics_depth02">국회/정당</a></li>
+<li><a href="https://www.yna.co.kr/politics/diplomacy" data-stat-code="footer_politics_depth02">외교</a></li>
+<li><a href="https://www.yna.co.kr/politics/defense" data-stat-code="footer_politics_depth02">국방</a></li>
+</ul>
+</li>
+<li class="nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" target="_blank" data-stat-code="footer_nk_depth01">북한</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/nk/news/all" target="_blank" data-stat-code="footer_nk_depth02">북한전체</a></li>
+<li><a href="https://www.yna.co.kr/nk/conference/index" target="_blank" data-stat-code="footer_nk_depth02">학술/연구</a></li>
+<li><a href="https://www.yna.co.kr/nk/overview/index" target="_blank" data-stat-code="footer_nk_depth02">북한 알아보기</a></li>
+<li><a href="https://www.yna.co.kr/nk/person/index" target="_blank" data-stat-code="footer_nk_depth02">인물</a></li>
+<li><a href="https://www.yna.co.kr/nk/video/index" target="_blank" data-stat-code="footer_nk_depth02">비주얼</a></li>
+<li><a href="https://www.yna.co.kr/nk/channel/nk-now" target="_blank" data-stat-code="footer_nk_depth02">NK NOW</a></li>
+</ul>
+</li>
+<li class="economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="footer_economy_depth01" >경제</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/economy/all" data-stat-code="footer_economy_depth02">경제전체</a></li>
+<li><a href="https://www.yna.co.kr/economy/economic-policy" data-stat-code="footer_economy_depth02">경제/정책</a></li>
+<li><a href="https://www.yna.co.kr/economy/finance" data-stat-code="footer_economy_depth02">금융</a></li>
+<li><a href="https://www.yna.co.kr/economy/real-estate" data-stat-code="footer_economy_depth02">부동산</a></li>
+<li><a href="https://www.yna.co.kr/economy/job-foundation" data-stat-code="footer_economy_depth02">취업/창업</a></li>
+<li><a href="https://www.yna.co.kr/economy/consumer" data-stat-code="footer_economy_depth02">소비자</a></li>
+</ul>
+</li>
+<li class="market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="footer_market_plus_depth01" >마켓+</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/market-plus/all" data-stat-code="footer_market_plus_depth02">마켓+전체</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/domestic-stock" data-stat-code="footer_market_plus_depth02">국내주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-stock" data-stat-code="footer_market_plus_depth02">해외주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/bond" data-stat-code="footer_market_plus_depth02">채권</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/fund-etf" data-stat-code="footer_market_plus_depth02">펀드/ETF</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-market" data-stat-code="footer_market_plus_depth02">글로벌시장</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/financial-investment" data-stat-code="footer_market_plus_depth02">증권/운용사</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/report" data-stat-code="footer_market_plus_depth02">리포트</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/disclosure" data-stat-code="footer_market_plus_depth02">공시</a></li>
+</ul>
+</li>
+<li class="industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="footer_industry_depth01" >산업</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/industry/all" data-stat-code="footer_industry_depth02">산업전체</a></li>
+<li><a href="https://www.yna.co.kr/industry/industrial-enterprise" data-stat-code="footer_industry_depth02">산업/기업</a></li>
+<li><a href="https://www.yna.co.kr/industry/electronics" data-stat-code="footer_industry_depth02">전기전자</a></li>
+<li><a href="https://www.yna.co.kr/industry/heavy-chemistry" data-stat-code="footer_industry_depth02">중화학</a></li>
+<li><a href="https://www.yna.co.kr/industry/automobile" data-stat-code="footer_industry_depth02">자동차</a></li>
+<li><a href="https://www.yna.co.kr/industry/construction" data-stat-code="footer_industry_depth02">건설</a></li>
+<li><a href="https://www.yna.co.kr/industry/energy-resource" data-stat-code="footer_industry_depth02">에너지/자원</a></li>
+<li><a href="https://www.yna.co.kr/industry/technology-science" data-stat-code="footer_industry_depth02">IT/과학</a></li>
+<li><a href="https://www.yna.co.kr/industry/game" data-stat-code="footer_industry_depth02">게임</a></li>
+<li><a href="https://www.yna.co.kr/industry/distribution-service-industry" data-stat-code="footer_industry_depth02">유통/서비스</a></li>
+<li><a href="https://www.yna.co.kr/industry/venture-business" data-stat-code="footer_industry_depth02">중기/벤처</a></li>
+<li><a href="https://www.yna.co.kr/industry/bioindustry-health" data-stat-code="footer_industry_depth02">바이오/헬스</a></li>
+<li><a href="https://www.yna.co.kr/industry/agriculture" data-stat-code="footer_industry_depth02">농림축산</a></li>
+<li><a href="https://www.yna.co.kr/industry/ocean-fishery" data-stat-code="footer_industry_depth02">해양수산</a></li>
+</ul>
+</li>
+<li class="society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="footer_society_depth01" >사회</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/society/all" data-stat-code="footer_society_depth02">사회전체</a></li>
+<li><a href="https://www.yna.co.kr/society/accident" data-stat-code="footer_society_depth02">사건/사고</a></li>
+<li><a href="https://www.yna.co.kr/society/court-prosecution" data-stat-code="footer_society_depth02">법원/검찰</a></li>
+<li><a href="https://www.yna.co.kr/society/education" data-stat-code="footer_society_depth02">교육</a></li>
+<li><a href="https://www.yna.co.kr/society/welfare-labor" data-stat-code="footer_society_depth02">복지/노동</a></li>
+<li><a href="https://www.yna.co.kr/society/environment" data-stat-code="footer_society_depth02">환경/기후변화</a></li>
+<li><a href="https://www.yna.co.kr/society/women-child" data-stat-code="footer_society_depth02">여성/아동</a></li>
+<li><a href="https://www.yna.co.kr/society/overseas-koreans" data-stat-code="footer_society_depth02">재외동포</a></li>
+<li><a href="https://www.yna.co.kr/society/multiple-cultures" data-stat-code="footer_society_depth02">다문화</a></li>
+</ul>
+</li>
+<li class="local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="footer_local_depth01" >전국</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/local/all" data-stat-code="footer_local_depth02" >전국전체</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeonggi/index" data-stat-code="footer_local_depth02">경기</a></li>
+<li><a href="https://www.yna.co.kr/local/incheon/index" data-stat-code="footer_local_depth02">인천</a></li>
+<li><a href="https://www.yna.co.kr/local/busan/index" data-stat-code="footer_local_depth02">부산</a></li>
+<li><a href="https://www.yna.co.kr/local/ulsan/index" data-stat-code="footer_local_depth02">울산</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeongnam/index" data-stat-code="footer_local_depth02">경남</a></li>
+<li><a href="https://www.yna.co.kr/local/daegu-gyeongbuk/index" data-stat-code="footer_local_depth02">대구/경북</a></li>
+<li><a href="https://www.yna.co.kr/local/gwangju-jeonnam/index" data-stat-code="footer_local_depth02">광주/전남</a></li>
+<li><a href="https://www.yna.co.kr/local/jeonbuk/index" data-stat-code="footer_local_depth02">전북</a></li>
+<li><a href="https://www.yna.co.kr/local/daejeon-chungnam-sejong/index" data-stat-code="footer_local_depth02">대전/충남/세종</a></li>
+<li><a href="https://www.yna.co.kr/local/chungbuk/index" data-stat-code="footer_local_depth02">충북</a></li>
+<li><a href="https://www.yna.co.kr/local/gangwon/index" data-stat-code="footer_local_depth02">강원</a></li>
+<li><a href="https://www.yna.co.kr/local/jeju/index" data-stat-code="footer_local_depth02">제주</a></li>
+</ul>
+</li>
+<li class="intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="footer_international_depth01" >세계</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/international/all" data-stat-code="footer_international_depth02">세계전체</a></li>
+<li><a href="https://www.yna.co.kr/international/correspondents/index" data-stat-code="footer_international_depth02">특파원</a></li>
+<li><a href="https://www.yna.co.kr/international/north-america" data-stat-code="footer_international_depth02">미국/북미</a></li>
+<li><a href="https://www.yna.co.kr/international/china" data-stat-code="footer_international_depth02">중국</a></li>
+<li><a href="https://www.yna.co.kr/international/japan" data-stat-code="footer_international_depth02">일본</a></li>
+<li><a href="https://www.yna.co.kr/international/asia-australia" data-stat-code="footer_international_depth02">아시아/호주</a></li>
+<li><a href="https://www.yna.co.kr/international/europe" data-stat-code="footer_international_depth02">유럽</a></li>
+<li><a href="https://www.yna.co.kr/international/centralsouth-america" data-stat-code="footer_international_depth02">중남미</a></li>
+<li><a href="https://www.yna.co.kr/international/middleeast-africa" data-stat-code="footer_international_depth02">중동/아프리카</a></li>
+<li><a href="https://www.yna.co.kr/international/international-org" data-stat-code="footer_international_depth02">국제기구</a></li>
+</ul>
+</li>
+<li class="culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="footer_culture_depth01" >문화</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/culture/all" data-stat-code="footer_culture_depth02">문화전체</a></li>
+<li><a href="https://www.yna.co.kr/culture/books" data-stat-code="footer_culture_depth02">책/문학</a></li>
+<li><a href="https://www.yna.co.kr/culture/cartoon" data-stat-code="footer_culture_depth02">만화/웹툰</a></li>
+<li><a href="https://www.yna.co.kr/culture/religion" data-stat-code="footer_culture_depth02">종교</a></li>
+<li><a href="https://www.yna.co.kr/culture/performance-exhibition" data-stat-code="footer_culture_depth02">공연/전시</a></li>
+<li><a href="https://www.yna.co.kr/culture/scholarship" data-stat-code="footer_culture_depth02">학술/문화재</a></li>
+<li><a href="https://www.yna.co.kr/culture/media" data-stat-code="footer_culture_depth02">미디어</a></li>
+<li><a href="https://www.yna.co.kr/culture/travel-leisure" data-stat-code="footer_culture_depth02">여행/레저</a></li>
+<li><a href="https://www.yna.co.kr/culture/life-information" data-stat-code="footer_culture_depth02">생활</a></li>
+</ul>
+</li>
+<li class="health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="footer_health_depth01" >건강</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/health/all" data-stat-code="footer_health_depth02">건강전체</a></li>
+<li><a href="https://www.yna.co.kr/health/health-note" data-stat-code="footer_health_depth02">헬스노트</a></li>
+<li><a href="https://www.yna.co.kr/health/weekly-wellness" data-stat-code="footer_health_depth02">위클리 건강</a></li>
+<li><a href="https://www.yna.co.kr/health/the-health/index" data-stat-code="footer_health_depth02">더건강 영상</a></li>
+</ul>
+</li>
+<li class="ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="footer_entertainment_depth01" >연예</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/entertainment/all" data-stat-code="footer_entertainment_depth02">연예전체</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/tv" data-stat-code="footer_entertainment_depth02">방송</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/movies" data-stat-code="footer_entertainment_depth02">영화</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/pop-song" data-stat-code="footer_entertainment_depth02">가요</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/global-entertainment" data-stat-code="footer_entertainment_depth02">해외연예</a></li>
+</ul>
+</li>
+<li class="sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="footer_sports_depth01" >스포츠</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/sports/all" data-stat-code="footer_sports_depth02">스포츠전체</a></li>
+<li><a href="https://www.yna.co.kr/sports/baseball" data-stat-code="footer_sports_depth02">야구</a></li>
+<li><a href="https://www.yna.co.kr/sports/football" data-stat-code="footer_sports_depth02">축구</a></li>
+<li><a href="https://www.yna.co.kr/sports/basketball-volleyball" data-stat-code="footer_sports_depth02">농구/배구</a></li>
+<li><a href="https://www.yna.co.kr/sports/golf" data-stat-code="footer_sports_depth02">골프</a></li>
+</ul>
+</li>
+<li class="opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="footer_opinion_depth01" >오피니언</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="people" data-nav-section="people" >
+<a href="https://www.yna.co.kr/people/index" data-stat-code="footer_people_depth01">사람들</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/people/all" data-stat-code="footer_people_depth02">사람들전체</a></li>
+<li><a href="https://www.yna.co.kr/people/personnel" data-stat-code="footer_people_depth02">인사</a></li>
+<li><a href="https://www.yna.co.kr/people/obituary-notice" data-stat-code="footer_people_depth02">부고</a></li>
+<li><a href="https://www.yna.co.kr/people/movement" data-stat-code="footer_people_depth02">동정/게시판</a></li>
+<li><a href="https://www.yna.co.kr/people/ceo" data-stat-code="footer_people_depth02">CEO</a></li>
+<li><a href="https://www.yna.co.kr/people/interview" data-stat-code="footer_people_depth02">인터뷰</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="nav-other01">
+<ul class="nav-menu11">
+<li class="newsplus">
+<strong>뉴스+</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/brand-news/index" data-stat-code="footer_brand_news" rel="nofollow" >브랜드뉴스</a></li>
+<li><a href="https://www.yna.co.kr/issue/index" data-stat-code="footer_issue" rel="nofollow" >이슈</a></li>
+<li><a href="https://www.yna.co.kr/report/factcheck" data-stat-code="footer_factcheck" rel="nofollow" >팩트체크</a></li>
+<li><a href="https://www.yna.co.kr/report/headline" data-stat-code="footer_headline" rel="nofollow" >이 시각 헤드라인</a></li>
+</ul>
+</li>
+<li class="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="footer_visual_depth01">비주얼뉴스</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/video/all" data-stat-code="footer_visual_depth02" >영상</a></li>
+<li><a href="https://www.yna.co.kr/photo/major" data-stat-code="footer_visual_depth02" >포토</a></li>
+<li><a href="https://www.yna.co.kr/gallery/index" data-stat-code="footer_visual_depth02" >화보</a></li>
+<li><a href="https://www.yna.co.kr/graphic/index" data-stat-code="footer_visual_depth02" >그래픽</a></li>
+<li><a href="https://www.yna.co.kr/digital/index" data-stat-code="footer_visual_depth02" >D스토리</a></li>
+</ul>
+</li>
+<li class="theme">
+<strong>테마별뉴스</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/theme/hotnews-history" data-stat-code="footer_theme_hotnews" rel="nofollow" >핫뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/headlines-history" data-stat-code="footer_theme_headlines" rel="nofollow" >주요뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/breaknews-history" data-stat-code="footer_theme_breaknews" rel="nofollow" >긴급뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/exclusive" data-stat-code="footer_theme_exclusive" rel="nofollow" >단독뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/mostviewed/index" data-stat-code="footer_theme_mostviewed" rel="nofollow" >많이 본 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/long-stay-news/index" data-stat-code="footer_theme_longstay_news" rel="nofollow" >오래 머문 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/empathic/index" data-stat-code="footer_theme_empathetic_news" rel="nofollow" >공감 많은 뉴스</a></li>
+</ul>
+</li>
+<li class="lang">
+<strong>외국어 뉴스</strong>
+<ul class="menu01">
+<li class="en"><a href="https://en.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_en">English</a></li>
+<li class="zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_cn">中文</a></li>
+<li class="ja"><a href="https://jp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_jp">日本語</a></li>
+<li class="ar"><a href="https://ar.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_ar">عربي</a></li>
+<li class="es"><a href="https://sp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_sp">Español</a></li>
+<li class="fr"><a href="https://fr.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_fr">Français</a></li>
+</ul>
+</li>
+<li class="product">
+<strong>뉴스상품</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">프리미엄뉴스</a></li>
+<li><a href="https://www.yna.co.kr/product/newsleader" rel="nofollow" data-stat-code="footer_product_newsleader">뉴스리더</a></li>
+<li><a href="https://www.yna.co.kr/product/personalisation" rel="nofollow" data-stat-code="footer_product_personalisation">인터넷맞춤형</a></li>
+<li><a href="https://www.yna.co.kr/product/press-release" rel="nofollow" data-stat-code="footer_product_press01">보도자료 해외배포</a></li>
+<li><a href="https://www.yna.co.kr/press-release/index" rel="nofollow" data-stat-code="footer_product_press02">보도자료 국내배포</a></li>
+</ul>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise_main">광고안내</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/advertisement/ktx" rel="nofollow" data-stat-code="footer_advertise_ktx">KTX 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/srt" rel="nofollow" data-stat-code="footer_advertise_srt">SRT 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/arex" rel="nofollow" data-stat-code="footer_advertise_arex">AREX 공항철도</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/mobile" rel="nofollow" data-stat-code="footer_advertise_mobile">모바일</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/pc" rel="nofollow" data-stat-code="footer_advertise_pc">PC</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/publication" rel="nofollow" data-stat-code="footer_advertise_publication">출판물</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/led" rel="nofollow" data-stat-code="footer_advertise_led">LED전광판</a></li>
+<li><a href="https://www.yna.co.kr/board/business/write" rel="nofollow" data-stat-code="footer_advertise_partner">사업제휴</a></li>
+</ul>
+</li>
+<li class="sales">
+<a href="https://www.helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+<ul class="menu01">
+<li><a href="https://www.helloarchive.co.kr/press/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_photo">보도사진</a></li>
+<li><a href="https://www.helloarchive.co.kr/graphic/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_graphic">그래픽</a></li>
+<li><a href="https://www.helloarchive.co.kr/movie/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_video">동영상</a></li>
+<li><a href="https://www.helloarchive.co.kr/person/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_person">인물</a></li>
+</ul>
+</li>
+<li class="publication">
+<strong>출판물</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/imazine/index" rel="nofollow" data-stat-code="footer_imazine">이매진</a></li>
+<li><a href="http://yearbook.yonhapnews.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_yearbook">연합연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/koreaannual" rel="nofollow" data-stat-code="footer_enyearbook">영문연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/book" rel="nofollow" data-stat-code="footer_publication_book">단행본</a></li>
+<li><a href="http://www.yonhapmidas.com/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_midas">월간 마이더스</a></li>
+</ul>
+</li>
+<li class="service">
+<strong>서비스안내</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/service/index" rel="nofollow" data-stat-code="footer_service_main">서비스 소개</a></li>
+<li><a href="https://www.yna.co.kr/service/app" rel="nofollow" data-stat-code="footer_service_app">모바일앱 안내</a></li>
+</ul>
+</li>
+</ul>
+<ul class="nav-menu12">
+<li class="safe">
+<a href="https://www.yna.co.kr/disaster/index" rel="nofollow" data-stat-code="footer_safe">재난포털</a>
+</li>
+<li class="weather">
+<a href="https://www.yna.co.kr/weather/index" data-stat-code="footer_weather" rel="nofollow" >날씨</a>
+</li>
+<li class="reporter">
+<a href="https://www.yna.co.kr/reporter/index" data-stat-code="footer_reporter" rel="nofollow" >기자</a>
+</li>
+<li class="letter">
+<button data-stat-code="footer_newsletter" data-stat-code="wholemenu_newsletter">뉴스레터</button>
+</li>
+<li class="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" rel="nofollow" data-stat-code="footer_jebo">제보</a>
+</li>
+<li class="product">
+<a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">뉴스상품</a>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise">광고안내</a>
+</li>
+<li class="sales">
+<a href="https://www.helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+</li>
+<li class="games">
+<a href="https://games.yna.co.kr/" rel="nofollow" data-stat-code="footer_games" data-stat-code="footer_games">연합뉴스 Games</a>
+</li>
+<li class="customer">
+<a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">서비스 문의</a>
+</li>
+</ul>
+<ul class="nav-menu13">
+<li class="customer">
+<a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a></li>
+<li><a href="https://www.yna.co.kr/board/faq/list" rel="nofollow">자주 묻는 질문</a></li>
+<li><a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">공지사항</a></li>
+<li><a href="https://www.yna.co.kr/board/ask/list" rel="nofollow">1:1 문의</a></li>
+</ul>
+</li>
+<li class="partner">
+<a href="https://www.yna.co.kr/aboutus/partner" rel="nofollow" data-stat-code="footer_subscriber">계약사/제휴문의</a>
+</li>
+</ul>
+<div class="hide01 a11ykey-navi01" tabindex="0" style="height: 0px;"></div>
+</div>
+<div class="lang-zone02 swiper-area">
+<ul class="lang-list swiper-wrapper">
+<li class="swiper-slide en"><a href="https://en.yna.co.kr" target="_blank" title="(새창)English" rel="nofollow">English</a></li>
+<li class="swiper-slide zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="(새창)Chinese Simplified Chinese characters" rel="nofollow">中文</a></li>
+<li class="swiper-slide ja"><a href="https://jp.yna.co.kr" target="_blank" title="(새창)Japanese" rel="nofollow">日文</a></li>
+<li class="swiper-slide ar"><a href="https://ar.yna.co.kr" target="_blank" title="(새창)Arabic" rel="nofollow">عربي</a></li>
+<li class="swiper-slide es"><a href="https://sp.yna.co.kr" target="_blank" title="(새창)Spanish" rel="nofollow">Español</a></li>
+<li class="swiper-slide fr"><a href="https://fr.yna.co.kr" target="_blank" title="(새창)French" rel="nofollow">Français</a></li>
+</ul>
+</div>
+</section>
+<section class="footer-menu02">
+<div class="nav-menu62">
+<strong class="tit">유튜브 채널</strong>
+<a href="https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw" class="btn-type202 yna a11y-footer-menu01" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_yonhapnews"><span class="txt01">연합뉴스</span></a>
+<a href="https://www.youtube.com/channel/UCHzW_7Mf8G0JxP4b0LoAd7A" class="btn-type202 tong-culture" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_tongtongtv"><span class="txt01">통통컬처</span></a>
+<a href="https://www.youtube.com/channel/UC9iULDnKYrLSjDgekRw_n9w" class="btn-type202 tong-tech" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_tongtong_tech"><span class="txt01">통통테크</span></a>
+<a href="https://www.youtube.com/channel/UCXjpzeB8_4F5kSiQYU5Ekvg?reload=9" class="btn-type202 tong-living" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_tongtong_living"><span class="txt01">더건강</span></a>
+<a href="https://www.youtube.com/channel/UCR-L8oZkHzgDh1ahJhH2WDQ" class="btn-type202 know" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_korea_now"><span class="txt01">KOREA NOW</span></a>
+<a href="https://www.youtube.com/channel/UChX-Cgkfava-G-LlfwC9v_g" class="btn-type202 nknow" target="_blank" title="새창" rel="nofollow" data-stat-code=" footer_channel_nk_now"><span class="txt01">NK NOW</span></a>
+<a href="https://www.youtube.com/@KVIBE_yonhap" class="btn-type202 kvibe" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_kvibe"><span class="txt01">K-VIBE</span></a>
+</div>
+<div class="nav-menu63">
+<strong class="tit">SNS</strong>
+<p class="txt01">다양한 채널에서 연합뉴스를 만나보세요!</p>
+<a href="https://www.facebook.com/yonhap" class="btn-type006 fb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_fb"><span class="ir-txt01">연합뉴스 페이스북</span></a>
+<a href="https://www.instagram.com/yonhap_news/" class="btn-type006 ins" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_ins"><span class="ir-txt01">연합뉴스 인스타그램</span></a>
+<a href="https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw" class="btn-type006 ytb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_youtube"><span class="ir-txt01">연합뉴스 유튜브</span></a>
+<a href="https://twitter.com/yonhaptweet" class="btn-type006 tw" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_tw"><span class="ir-txt01">연합뉴스 트위터</span></a>
+</div>
+</section>
+<footer class="footer-site01">
+<div class="area">
+<a class="logo-yna05" href="https://www.yna.co.kr">
+<strong class="ir-txt01">국가기간뉴스 통신사 연합뉴스</strong>
+</a>
+<address class="txt-address01">
+<span>연합뉴스 : 서울시 종로구 율곡로 2길 25 (02-398-3114)</span>
+<span>대표이사 : 황대일</span>
+<span>편집인 : 심인성</span>
+<span>등록번호 : 문화, 나00009</span>
+<span>등록일자 : 1980.12.29</span>
+<span>발행일자 : 1980.12.29</span>
+<span>사업자번호 : 102-81-23273</span>
+<span>통신판매업신고번호 : 2014-서울종로-0124</span>
+<span class="terms">
+<a href="https://join.yna.co.kr/ko/policy/terms" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_policy_terms">이용약관</a>
+<a href="https://join.yna.co.kr/ko/policy/privacy" target="_blank" title="새창" rel="nofollow" class="bold" data-stat-code="footer_privacy_policy">개인정보처리방침</a>
+<a href="https://join.yna.co.kr/ko/policy/youth" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_youth_policy">청소년보호정책(책임자 : 이충원)</a>
+</span>
+</address>
+<p class="txt-copyright01">©2025 Yonhapnews Agency</p>
+<div class="family-site">
+<button type="button" class="btn-type400-open"><span class="txt01">Family site</span><span class="ico-type05-open"><i class="ir-txt01">열기</i></span></button>
+<ul class="list01">
+<li>
+<a href="https://www.helloarchive.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_helloarchive">헬로아카이브</a>
+</li>
+<li>
+<a href="https://www.yonhapnewstv.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_yonhapnewstv">연합뉴스TV</a>
+</li>
+<li>
+<a href="https://news.einfomax.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_infomax">인포맥스</a>
+</li>
+<li>
+<a href="https://www.koreancenter.or.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_koreancenter">한민족센터</a>
+</li>
+<li>
+<a href="https://korean-vibe.com" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_kvibe">K-VIBE</a>
+</li>
+<li>
+<a href="https://recruit.yna.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_recruit">채용</a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/irclub/index" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_irclub">IR 클럽</a>
+</li>
+</ul>
+<button type="button" class="btn-type400-close">
+<span class="ico-type05-close"><i class="ir-txt01">Family site 닫기</i></span>
+</button>
+</div>
+</div>
+</footer>
+<ul class="footer-menu03">
+<li><a href="https://www.yna.co.kr/aboutus/company/index" rel="nofollow" data-stat-code="footer_aboutus">회사소개</a></li>
+<li><a href="https://www.yna.co.kr/policy/ethics" rel="nofollow" data-stat-code="footer_policy_ethics">윤리헌장</a></li>
+<li><a href="https://www.yna.co.kr/policy/copyright" rel="nofollow" data-stat-code="footer_copyright">저작권규약</a></li>
+<li><a href="https://www.yna.co.kr/board/rights/list" rel="nofollow" data-stat-code="footer_user_committee">수용자권익위원회</a></li>
+<li><a href="https://www.yna.co.kr/policy/complaint" rel="nofollow" data-stat-code="footer_ombudsman">고충처리</a></li>
+<li><a href="https://www.yna.co.kr/board/reader/list" rel="nofollow" data-stat-code="footer_bbs_reader">독자게시판</a></li>
+<li><a href="https://www.yna.co.kr/board/jebo/index" rel="nofollow" data-stat-code="footer_jebo">제보</a></li>
+<li><a href="https://www.yna.co.kr/press-release/index" rel="nofollow" data-stat-code="footer_press_release">보도자료</a></li>
+<li><a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a></li>
+<li><a href="https://www.yna.co.kr/rss/index" data-stat-code="footer_rss">RSS</a></li>
+<li><a href="https://www.yna.co.kr/sitemap/index" data-stat-code="footer_sitemap">사이트맵</a></li>
+</ul>
+</div>
+<aside class="aside-box381 sticky bottom-banner display-none">
+<span class="ir-txt01">광고</span>
+<div class="area01">
+<yna-ad-script data-tag-name="iframe" data-mobile-ad="true" data-app-ad="false" src="https://cdn.nhnace.com/libs/aceadlib.html?pub_code=1437834783&area_code=1118851301&pag=PAG&page_url=https%3A%2F%2Fwww.yna.co.kr&direct_url=" scrolling="no" width="100%" height="50" allowtransparency="true" allow="browsing-topics; attribution-reporting"></yna-ad-script>
+</div>
+<button type="button" class="btn-type309 btn-close01"><span class="txt01">광고삭제</span></button>
+</aside>
+</div>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@TopLeft?ads-top01"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/bulletin@TopRight?ads-top02"></yna-ad-script>
+<script id="siteJsonData">
+(function(){
+	SITE_DATA = JSON.stringify({
+		"SITE_ID":"000100010000",
+		"SITE_DEPTH":"2",
+		"SITE1_LINK":"/index",
+		"SITE1_LINK_NAME01":"index",
+		"SITE1_NAME":"연합뉴스",
+		"SITE1_NAME_APP":"연합뉴스",
+		"SITE2_LINK":"/news",
+		"SITE2_NAME":"최신뉴스",
+		"SITE2_NAME_APP":"최신뉴스",
+		"SITE3_LINK":"",
+		"SITE3_NAME":"",
+		"SITE3_NAME_APP":"",
+		"SITE_NAME":"최신뉴스",
+		"SITE_NAME_APP":"최신뉴스",
+		"SITE_SECTION":"/news",
+		"PAGE_TYPE": "",
+		"PAGE_PATH":"/",
+		"PAGE_NAME":"news",
+	});
+})();
+</script>
+<input type="hidden" id="domainId" value="1101">
+<script src="https://rd.yna.co.kr/common/js/cp.js?v=20250725_1657"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/global.js?v=20250725_1657"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/common.js?v=20250523_1545"></script>
+</body>
+</html>
+--- 뉴스 1 ---
+📰 제목: 소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급
+📝 내용: 3천643만명 신청…26일부터 출생연도 상관없이 신청
+(서울=연합뉴스) 오진송 기자 = '민생회복 소비쿠폰' 1차 신청 닷새간 전체 대상자의 72.0%인 3천642만5천598명이 신청했다고 행정안전부가 26일 밝혔다.
+지난 5일간 지급된 지원금은 6조5천703억원이다.
+지역별 신청률은 인천이 77.0%(232만4천53명)로 전국에서 가장 높았다. 신청자가 가장 적은 곳은 전남(66.1%·117만2천451명)이다.
+서울은 대상자의 72.1%인 657만8천408명이 신청을 마쳤다.
+지급방식별로는 신용·체크카드 2천696만569명, 선불카드 321만6천232명, 지역사랑상품권(모바일·카드) 564만6천922명, 지류 60만1천875명이다.
+소비쿠폰은 국민 1인당 15∼45만원을 지급하는 이재명 정부의 첫 경기부양책이다.
+1차 신청 첫 주(21∼25일)에는 신청자 폭주에 대비해 출생연도 끝자리를 기준으로 요일제 신청이 진행됐다.
+요일제 신청 종료로 이날부터 출생연도 끝자리에 상관없이 소비쿠폰 지급을 신청할 수 있다. 신청 마감 시한은 9월 12일 오후 6시다.
+신용·체크카드를 통한 지급은 카드사 홈페이지, 애플리케이션(앱), 콜센터, ARS 및 카카오뱅크·케이뱅크·토스·카카오페이 간편결제·네이버페이 간편결제 앱을 통해 온라인으로 신청할 수 있다. 온라인 신청이 어려우면 각 카드사와 연계된 은행영업점을 방문하면 된다.
+모바일·카드형 지역사랑상품권 지급은 자치단체별 지역사랑상품권 앱이나 읍면동 주민센터에서 직접 신청할 수 있다.
+선불카드나 지류형 지역사랑상품권으로 받길 희망하는 경우엔 주소지 관할 읍면동 주민센터를 방문해서 신청하면 된다.
+다만 주말에는 오프라인 신청이 불가능하다.
+소비쿠폰은 신청 다음 날부터 11월 30일까지 사용할 수 있다.
+사용처는 대형마트와 백화점, 유흥업소를 제외한 연 매출 30억원 이하의 소상공인 업체다.
+dindong@yna.co.
+⏰ 시간: 07-26 10:26
+🖼️ 이미지: https://img0.yna.co.kr/photo/yna/YH/2025/07/24/PYH2025072421390001300_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726023300530
+--- 뉴스 2 ---
+📰 제목: 대만 '친중' 야당의원 24명 파면투표 시작…여소야대 변화가능성
+📝 내용: 사상 최대 규모 의원 소환 '대 파면' 투표…정국 분수령 전망
+(서울=연합뉴스) 권수현 기자 = 대만에서 친중 성향의 제1야당 국민당 소속 의원 24명 등에 대한 파면(국민소환) 투표가 26일 시작됐다.
+대만 중앙통신사(CNA)와 로이터통신 등에 따르면 이날 오전 국민당 의원 24명과 부패 혐의로 정직 중인 무소속 가오훙안 신주시장의 해임 여부를 결정하는 파면투표가 현지 시각으로 이날 오전 8시 해당 선거구에서 시작됐다.
+'대파면'으로도 불리는 이번 파면투표는 라이칭더 총통 정권의 지지 속에 일부 지역 시민단체가 추진한 것이다.
+해당 시민단체들은 국민당 의원들이 친중행보로 라이 정부의 국방비 지출 예산을 삭감하는 등 국가 안보를 해치고 중국에 유리한 의제를 의회에서 추진한다며 파면투표를 청구했다.
+대만에서 현재 파면투표 대상이 된 국민당 의원은 총 31명이다. 24명에 대한 투표는 이날 진행되고 장치전 부입법원장(국회부의장)을 포함한 7명의 파면투표는 내달 23일 실시된다.
+대만은 이전에도 파면투표를 실시한 적이 있지만 이러한 규모는 사상 최대라고 로이터통신과 영국 BBC방송 등은 전했다.
+이번 투표는 '여소야대'인 현 정국 구도가 재편될 수 있다는 점에서 주목된다.
+민진당은 지난해 1월 대선에서 승리했지만 함께 치러진 총선에서는 51석을 얻는 데 그쳤다. 국민당은 52석을 차지하며 제1당이 됐고 민중당은 8석을 확보해 어느 당도 과반을 차지하지 못한 상태다.
+하지만 이번 투표 결과 야당 의원이 무더기로 자격을 잃게 되면 보궐선거 결과에 따라 여대야소 구도로 바뀌게 될 수 있다.
+정국 분수령이 될 이번 파면투표를 앞두고 대만 사회의 정치적 분열은 더욱 심해졌다. 투표 전날인 25일에도 수도 타이베이 총통부 앞에서는 파면 찬성과 반대 운동 단체들이 폭우 속에도 대규모 맞불 집회를 열었다.
+중국도 투표 결과를 예의주시하고 있다.
+중국의 대만 담당 기구인 국무
+⏰ 시간: 07-26 10:24
+🖼️ 이미지: https://img4.yna.co.kr/photo/etc/af/2025/07/26/PAF20250726094401009_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726023000009
+--- 뉴스 3 ---
+📰 제목: 폭염 속 구슬땀…경남 수해 피해지역 복구 이어져
+📝 내용: 자원봉사자·공무원 등 주말에도 일손 보태
+(산청=연합뉴스) 이정훈 기자 = 산청군 등 극한호우 피해가 극심한 서부 경남을 중심으로 26일 주민, 공무원, 자원봉사자들이 주말을 잊고 수해 복구에 일손을 보탰다.
+지난 19일 4일간 퍼부은 집중호우가 멈춘 뒤 일주일째 산청군, 합천군, 하동군, 의령군, 진주시 등 경남 곳곳에서 복구 활동이 이어졌다.
+토요일인 이날도 기업·기관·단체, 개인 자원봉사자, 공무원, 군 장병, 경찰관들이 수해 복구에 동참했다.
+그러나 산사태, 하천 범람, 침수로 발생한 피해 규모가 워낙 크고 지역이 광범위해 여전히 일손이 부족하다.
+18개 시군 전역에 폭염특보가 내려진 경남은 오전부터 30도를 훌쩍 넘을 정도로 폭염 기세가 무섭다.
+기상청은 이날 경남 낮 기온이 34도를 넘어설 것으로 예보했다.
+자원봉사자들은 뙤약볕 아래 비 오듯 흘러내리는 땀을 연신 닦으며 토사로 뒤덮인 시설하우스 정리, 주택 청소, 못 쓰는 가재도구·쓰레기 처리 등 굳은 일을 마다하지 않았다.
+경남 시군 여성민방위기동대는 집중호우가 그친 지난 20일부터 7일째 수해 피해 시군을 찾아 복구를 지원했다.
+함양군 여성민방위기동대 소속 주부 30여명은 이날 피해 규모가 가장 큰 산청군에서 침수 주택 정리, 집기류 세척 등을 도왔다.
+김미양 경남 여성민방위기동대 연합회장은 "시군마다 피해가 너무 심해 어떻게든 도움을 줘야겠다는 생각이 절로 날 정도였다"며 "이재민들이 집이 무너지지 않은 것 만해도 감사해하더라"고 현장 분위기를 전했다.
+그는 "우리를 보면 반가워서 울컥하는 이재민들을 보면 피곤한 몸이 저절로 움직여진다"고 말했다.
+딸기 농사를 주로 짓는 산청군 신안면 야정마을도 수해 복구에 한창이다.
+이 마을은 지난 19일 낮 양천강 둑이 터지면서 마을, 딸기 재배 시설하우스 전부가 물에 잠겼다.
+유진형 야정마을 이장은 "대민
+⏰ 시간: 07-26 10:21
+🖼️ 이미지: https://img9.yna.co.kr/photo/yna/YH/2025/07/22/PYH2025072207710005200_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726023100052
+--- 뉴스 4 ---
+📰 제목: 블랙핑크 '뛰어' 뮤직비디오 유튜브 1억뷰 달성
+📝 내용: 팀 통산 49번째 억대 조회수 영상
+(서울=연합뉴스) 최주성 기자 = 걸그룹 블랙핑크의 신곡 '뛰어'(JUMP) 뮤직비디오가 유튜브 1억뷰를 달성했다고 소속사 YG엔터테인먼트가 26일 밝혔다.
+이 뮤직비디오는 이날 오전 2시52분께 조회수 1억회를 넘어섰다. 지난 11일 공개된 지 15일 만이다.
+이로써 블랙핑크는 팀 통산 49번째 억대 조회수 영상을 보유하게 됐다.
+'뛰어'는 서부 영화의 한 장면을 떠올리게 하는 기타 연주와 개성 있는 멤버들의 목소리가 돋보이는 노래다.
+뮤직비디오는 팬들의 머릿속이 블랙핑크의 음악으로 가득 찬 모습, 멤버들에게 열광하는 군중의 모습 등을 표현했다. 공개 이후 8일 연속 글로벌 유튜브 일간 차트 1위를 차지하는 등 인기를 끌었다.
+블랙핑크는 지난 6일 경기도 고양종합운동장 주경기장을 시작으로 미국 로스앤젤레스, 뉴욕, 프랑스 파리 등 총 16개 도시를 순회하는 월드투어 '데드라인'(DEADLINE)을 진행하고 있다.
+cjs@yna.co.kr
+⏰ 시간: 07-26 10:16
+🖼️ 이미지: https://img2.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726022700005_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022700005
+--- 뉴스 5 ---
+📰 제목: 'MLS 올스타전 불참' 메시, 1경기 출전 금지…"메시 뿔났다"
+📝 내용: 함께 불참한 조르디 알바도 1경기 출전 금지 징계
+(서울=연합뉴스) 이영호 기자 = 미국 메이저리그사커(MLS) 인터 마이애미에서 뛰는 '슈퍼스타' 리오넬 메시와 조르디 알바가 올스타전 불참으로 1경기 출전 금지 징계를 받았다.
+MLS 사무국은 26일(한국시간) 메시와 알바에게 1경기 출전 금지 징계를 부과하면서 "두 선수는 이번 주 올스타전에 출전하지 않았다"라며 "사전 승인 없이 올스타전에 나서지 못하면 클럽 경기 1경기를 뛰지 못한다는 규정에 따라 27일 FC신시내티전에 나서지 못한다"고 발표했다.
+메시와 알바는 팬들과 미디어 투표를 통해 올스타전 명단에 이름을 올렸지만, 행사 당일인 24일 MLS 사무국에 불참을 특별한 사유 없이 통보해 논란이 불거졌다.
+MLS 커미셔너인 돈 가버는 "메시가 MLS를 얼마나 사랑하는지 알고 있다, MLS를 위해 다른 어떤 선수보다 많은 것을 해왔다"라며 "메시의 결정을 존중하지만 올스타전과 관련한 규정을 적용할 수 밖에 없다. 매우 어려운 과정이었다"라고 설명했다.
+그는 이어 "MLS는 앞으로 이 규정을 면밀히 검토할 예정"이라며 "선수들과 함께 대화하며 규정 발전을 논의할 계획"이라고 덧붙였다.
+반면 인터 마이애미는 사무국의 결정에 반발하고 나섰다.
+공동 구단주인 호르헤 마스는 취재진과 전화 인터뷰를 통해 MLS의 결정을 강하게 비판했다.
+메시와 계약 연장을 놓고 협의하고 있다고 밝힌 마스는 "메시가 매우 화가 났다. 이번 사건이 장기적으로 영향을 주지 않았으면 좋겠다"라며 "이번 결정은 MLS를 바라보는 메시의 인식에 영향을 줄 것"이라고 말했다.
+메시가 올스타전에 나서지 않은 이유는 최근 이어진 혹독한 일정 때문이다.
+ESPN에 따르면 '38세' 메시는 최근 35일 동안 9경기를 소화했다. 특히 국제축구연맹(FIFA) 클럽 월드컵에선 4경기를 풀타임으로 뛰었다.
+가버 MLS 커미셔너 역시 "인터 마이애미는
+⏰ 시간: 07-26 10:13
+🖼️ 이미지: https://img5.yna.co.kr/photo/etc/af/2025/07/26/PAF20250726047101009_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022900007
+--- 뉴스 6 ---
+📰 제목: 죽음의 문턱서 찾아낸 실존…日설치미술가 시오타 지하루 개인전
+📝 내용: "'나는 누구인가' 고민하며 작품 활동"…9월 7일까지 가나아트센터
+(서울=연합뉴스) 임순현 기자 = 흙에서 솟아난 검은 실이 전시관 전체로 치렁치렁 뻗어간다. 작가는 흙으로 상징되는 지구에서 생성된 생명이 우주 전체로 퍼져나가는 모습을 설치미술로 구현했다.
+실을 사용한 작품으로 생명의 근원을 탐구하는 일본의 설치미술가 시오타 지하루가 2022년 이후 3년 만에 국내에서 개인전을 열었다. 오는 9월 7일까지 서울 종로구 가나아트센터에서 열리는 개인전 '리턴 투 어스'(Return to Earth)는 두 번의 암 투병을 통해 삶과 죽음의 경계를 경험한 작가가 오랫동안 천착해온 실존과 정체성에 관한 고민을 예술로 승화한 작품 20여점을 전시한다.
+전시에서 가장 눈에 띄는 작품은 2층 3전시장에 설치된 '리턴 투 어스'다. 전시회 이름과 같은 이 작품은 25년에 걸친 작가의 예술적 여정과 철학이 오롯이 담긴 작품이다.
+25일 전시 프리뷰 행사에서 공개된 '리턴 투 어스'는 관람객을 압도하는 크기의 작품이었다. 혈관이나 나뭇가지처럼 서로 얽혀 뻗어 나가는 검은 실이 257.8㎡ 크기의 전시장을 가득 채웠다. 행사에 참석한 시오타는 "우주를 상징하는 검은 실이 중력에 의해 땅으로 떨어지는 모습을 형상화한 작품"이라며 "나는 누구인가, 산다는 것은 무엇인가를 고민하며 창작했다"고 소개했다.
+우주에서 땅으로 이어지는 검은 실들의 연결은 생명의 재생과 순환을 의미한다. 시오타는 "현실을 살아가는 사람 중에 다른 이와 연결되지 않은 사람은 아무도 없다고 생각한다"며 "'연결'이라는 단어에 여러 복합적인 의미를 담아 이번 작품을 제작했다"고 설명했다.
+시오타는 이번 작품이 유화로 시작해 설치미술로 자리 잡은 자신의 예술 행보에 정점을 찍는 작품이 될 것이라고 자신했다. 그는 "젊은 시절 그린 그림에서 누군가를 모방하는 듯한 기분이 들었고, 정작 나의 정체성은 찾을 수가 없었다"면서 "회화를 그만두고 시작한 설치미술에서는 드
+⏰ 시간: 07-26 10:12
+🖼️ 이미지: https://img2.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072511760001300_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022400005
+--- 뉴스 7 ---
+📰 제목: 울산 보건당국 "수해지역 수인성 감염병 우려…예방수칙 준수"
+📝 내용: (울산=연합뉴스) 장영은 기자 = 울산 울주군보건소는 최근 관내 집중호우에 이어 단수 피해에 따른 수인성·식품 매개 감염병 발생을 막기 위해 예방수칙 준수를 당부했다.
+26일 울주군보건소에 따르면 수해 발생지역은 하수관이 넘쳐 오염된 물이나 비위생적인 지하수, 하천수, 저장 수돗물을 사용할 수 있어 장관감염증, A형 간염, 장티푸스 등 수인성·식품 매개 감염병 발생이 우려된다.
+수인성·식품 매개 감염병은 오염된 물 또는 식품을 통해 병원성 미생물(세균, 바이러스 등)이 인체에 침투해 생긴다. 감염 시 설사, 복통, 오심, 구토 등의 증상을 보인다.
+이에 따라 울주군보건소는 '하절기 비상방역체계'를 통해 수인성·식품 매개 감염병 조기 인지 및 신속 대응을 위한 모니터링을 실시하고 위생수칙을 안내하고 있다.
+염병 예방수칙은 손 자주 씻기, 끓인 물이나 안전하게 포장된 물 마시기, 음식물은 충분히 가열해 섭취, 조리한 음식은 오래 보관하지 않기, 설사 증상이나 손에 상처가 있으면 조리하지 않기 등이다.
+울주군보건소 관계자는 "수해가 발생하면 수인성·식품 매개 감염병이 확산될 우려가 있다"며 "감염병 예방수칙을 준수하고, 의심 증상 발생 시 보건소에 신고해달라"고 말했다.
+young@yna.co.kr
+⏰ 시간: 07-26 10:10
+🖼️ 이미지: https://img9.yna.co.kr/photo/cms/2019/01/31/05/PCM20190131000105017_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725110200057
+--- 뉴스 8 ---
+📰 제목: 김하성, 단 10경기만 뛰고 10일짜리 부상자 명단…허리 염좌
+📝 내용: (서울=연합뉴스) 하남직 기자 = 김하성(29·탬파베이 레이스)이 올 시즌 메이저리그(MLB)에서 단 10경기만 뛰고 다시 부상자 명단(IL)에 올랐다.
+미국프로야구 탬파베이 구단은 26일(한국시간) "허리 염좌 증상을 앓는 김하성을 열흘짜리 IL에 올렸다"고 밝혔다.
+IL 등재 시점은 23일로 소급 적용됐다.
+김하성은 지난 22일 시카고 화이트삭스전에서 4회 볼넷으로 출루한 뒤 시즌 4번째 도루에 성공했으나 이 과정에서 허리를 다쳐 교체됐다.
+경기 뒤 김하성은 "슬라이딩 때 허리가 강하게 조이는 느낌이었다. 더 지켜봐야 정확한 상태를 알 수 있을 것 같다"고 말했다.
+케빈 캐시 탬파베이 감독은 "김하성이 26일에는 경기에 나설 수 있을 것"이라고 기대했지만, 사령탑의 바람은 이루어지지 않았다.
+김하성은 26일 신시내티 레즈와의 방문 경기를 앞두고 캐치볼을 하긴 했지만, 경기에 출장할 정도로 회복하지는 못했다.
+김하성은 지난해 8월에 어깨를 다쳐 수술대에 오르고, 올해 마이너리그 재활 경기를 치르다가 허벅지 통증을 느껴 빅리그 연기가 지연됐다.
+22일 화이트삭스전에서 허리 통증을 느낀 뒤 김하성은 "그동안 재활 훈련과 러닝 훈련, 컨디셔닝 훈련 등을 충실히 했다"며 "이번이 힘든 시기를 극복하는 마지막 상황이 되길 바란다"고 토로하기도 했다.
+하지만, 김하성은 또 IL에 올랐다.
+올 시즌 김하성의 MLB 성적은 10경기 31타수 7안타(타율 0.226), 1홈런, 3타점, OPS(출루율+장타율) 0.669다.
+단 10경기만 뛰고서 김하성은 다시 전열에서 이탈했다.
+jiks79@yna.co.kr
+⏰ 시간: 07-26 10:07
+🖼️ 이미지: https://img2.yna.co.kr/photo/ap/2025/07/22/PAP20250722056101009_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022600007
+--- 뉴스 9 ---
+📰 제목: 익산보석박물관, '전통 장신구, 한국 고유의 멋부림' 기획전
+📝 내용: (익산=연합뉴스) 김진방 기자 = 전북 익산보석박물관은 26일부터 오는 10월 9일까지 '전통 장신구, 한국 고유의 멋부림' 기획전을 연다.
+이번 전시는 전통 장신구를 재질별로 분류해 총 70점을 선보인다. 보석과 귀금속의 매력을 조명해 오늘날 K-문화의 원조 격인 우리 선조들의 예술성을 만날 수 있다.
+전시는 1부 '보석류', 2부 '금속류', 3부 '기타류' 등 3개 부문으로 구성된다.
+1부 '보석류'에서는 신분과 품격을 상징하는 '옥'을 비롯해 산호, 호박, 수정, 진주 등으로 만든 장신구를 선보인다. 특히 '영친왕비 백옥나비 원형떨잠'은 국가무형유산 김영희 옥장이 제작한 작품으로 궁중 예물의 화려함을 엿볼 수 있다.
+2부 '금속류'에서는 금박댕기, 금관자, 은대구 등 금, 은, 동으로 만든 장신구가 전시된다. 유연한 금속의 질감과 섬세한 세공미를 느낄 수 있다.
+3부 '기타류'에서는 대모갓끈, 흑단비녀, 낙죽잠 등 대모, 흑단, 대나무, 흑각으로 제작된 장신구를 통해 재료의 다양성과 독창적 아름다움을 감상할 수 있다.
+관람 시간은 오전 10시부터 오후 6시까지이며, 입장 마감은 오후 5시 10분이다.
+문의는 보석박물관 누리집(jewelmuseum.go.kr) 또는 전화(☎ 063-859-4772)로 하면 된다.
+보석박물관 관계자는 "우리 선조들은 실용성과 개성을 조화롭게 표현하기 위해 장신구를 착용했다"며 "이번 전시가 한국 전통 장신구의 주재료인 보석과 귀금속의 매력을 새롭게 발견하는 시간이 되길 바란다"고 말했다.
+chinakim@yna.co.kr
+⏰ 시간: 07-26 10:07
+🖼️ 이미지: https://img3.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726022500055_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022500055
+--- 뉴스 10 ---
+📰 제목: 김건희특검, 컴투스 송병준 소환…코바나컨텐츠 협찬 의혹 조사
+📝 내용: (서울=연합뉴스) 이의진 기자 = 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사가 운영한 전시기획사 코바나컨텐츠에 수억원의 대가성 협찬을 한 의혹을 받는 송병준 컴투스홀딩스 의장을 26일 소환했다.
+이날 오전 9시 45분께 서울 종로구 광화문빌딩 웨스트에 마련된 특검 사무실에 도착한 송 의장은 '김 여사와 아는 사이냐', '김 여사 측에서 전시회 후원 요청이 있었나' 등 취재진 질문에 아무런 대답을 하지 않았다.
+송 의장의 컴투스는 2015년부터 2019년까지 열린 코바나컨텐츠 주관 전시회에 총 2억2천만원가량을 협찬했다.
+이 시기는 윤 전 대통령의 서울중앙지검장 재임 기간과 일부 겹친다. 당시 송 의장의 형사 사건이 서울중앙지검에서 무혐의 처분되면서 대가성 후원이 아니냐는 의혹이 일었다.
+이후 코바나컨텐츠 협찬 관련 수사로 이 사안을 다시 들여다본 검찰은 2022년 3월 구체적인 청탁 여부를 확인하지 못했다며 불기소 처분했다.
+하지만 이 사건을 이첩 받은 특검팀은 다시 송 의장을 수사선상에 올려 윤 전 대통령, 김 여사와 연관성을 확인할 계획인 것으로 전해졌다.
+특검팀은 지난 25일 아크로비스타 지하상가 코바나컨텐츠 사무실과 컴투스홀딩스 본사를 압수수색했다. 영장에는 윤 전 대통령, 김 여사, 송 의장이 피의자로 적시된 것으로 알려졌다.
+pual07@yna.co.kr
+⏰ 시간: 07-26 10:07
+🖼️ 이미지: https://img7.yna.co.kr/photo/cms/2021/10/15/42/PCM20211015000142505_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022300004
+--- 뉴스 11 ---
+📰 제목: 김주형, PGA 3M오픈 유일 생존…안병훈·김시우·임성재 컷 탈락
+📝 내용: 180ｍ 이글 앞세운 김주형, 53위서 44위 점프…PO 진출 위해 안간힘
+(서울=연합뉴스) 김경윤 기자 = 김주형이 미국프로골프(PGA) 투어 3M 오픈(총상금 840만달러) 2라운드에서 순위를 소폭 끌어올리며 플레이오프 진출 희망을 이어갔다.
+김주형은 26일(한국시간) 미국 미네소타주 블레인의 TPC 트윈시티즈(파71·7천431야드)에서 열린 대회 2라운드에서 이글 1개, 버디 4개, 보기 3개를 합해 3언더파 68타를 쳤다.
+그는 중간 합계 6언더파 136타로 전날 공동 53위에서 9계단 상승한 공동 44위에 이름을 올렸다.
+공동 8위 그룹과는 4타 차이라 남은 라운드 결과에 따라 톱10 성적도 바라볼 수 있다.
+이날 김주형의 출발은 좋지 않았다. 전반에만 보기 3개를 범하는 등 두 타를 잃었다.
+그러나 11번 홀(파4)에서 환상적인 이글샷을 성공하며 반전의 기회를 만들었다.
+김주형이 페어웨이에서 친 두 번째 샷은 180.1ｍ를 날아가 홀 안으로 들어갔다.
+기세를 끌어올린 김주형은 12번 홀(파5)과 13번 홀(파3)에서 연속 버디를 잡아냈다.
+13번 홀에선 티샷이 벙커에 들어갔으나 높게 올린 두 번째 샷이 홀 안으로 떨어지면서 행운의 버디를 낚았다.
+그는 마지막 18번 홀(파5)에서도 버디를 잡으며 기분 좋게 라운드를 마쳤다.
+페덱스컵 랭킹 89위인 김주형은 이 대회와 다음 대회인 윈덤 챔피언십에서 랭킹을 70위 안으로 끌어올려야 플레이오프에 진출할 수 있다.
+이번 대회에 출전한 다른 한국 선수들은 모두 컷 탈락했다.
+안병훈은 2라운드 합계 3언더파 139타, 김시우는 2언더파 140타, 임성재는 이븐파 142타를 치면서 컷 탈락 기준인 5언더파를 채우지 못했다.
+페덱스컵 랭킹 67위인 안병훈은 대회 종료 후 70위 밖으로 떨어질 가능성이 커 보인다.
+한편 이번 대회는 톱랭킹 선수들이 대거 불참한 가운데 토르비에른 올레센(덴마크)이 중
+⏰ 시간: 07-26 10:03
+🖼️ 이미지: https://img5.yna.co.kr/photo/etc/gt/2025/07/24/PGT20250724137901009_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726022200007
+--- 뉴스 12 ---
+📰 제목: 10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄
+📝 내용: 법원 "통상적으로 예견할 수 있는 상황이었다고 단정 어려워"
+(수원=연합뉴스) 류수현 기자 = 새벽 시간대 왕복 10차로를 무단횡단하던 70대를 차로 들이받아 숨지게 한 운전자가 1심에 이어 항소심에서도 무죄를 선고받았다.
+26일 법조계에 따르면 수원지법 형사항소1-3부(김종근 부장판사)는 교통사고처리 특례법 위반 혐의로 기소된 A씨에게 무죄를 선고한 1심 판결에 불복한 검사의 항소를 기각했다.
+재판부는 A씨에게 무죄를 선고한 원심의 판단이 정당하다고 봤다.
+A씨는 2023년 1월 5일 오전 4시 30분께 화물차를 몰고 왕복 10차로 일반 도로를 운전하던 중 무단횡단하던 70대 B씨를 차로 들이받아 숨지게 한 혐의로 기소됐다.
+당시 도로 제한 속도는 시속 60㎞였으나 A씨는 이보다 시속 20㎞를 초과해 운전한 것으로 조사됐다.
+앞서 원심은 A씨가 녹색 신호에 따라 주행하던 중 B씨가 무단횡단을 하다가 벌어진 일이므로 통상적으로 예견할 수 있는 상황이었다고 단정하기 어렵고 A씨가 음주 또는 졸음운전 등 다른 과실을 범했다는 정황도 존재하지 않는다고 봤다.
+아울러 A씨가 제한속도를 위반하지 않았더라면 이 사건 교통사고가 발생하지 않았을 것이라는 점이 증명돼야 하는데 A씨가 주의의무를 다했다하더라도 B씨를 제때 발견했을 것이라고 확신하기 어려운 점 등을 고려하면 이 사건 공소사실은 범죄의 증명이 없는 경우에 해당한다고 판단했다.
+you@yna.co.kr
+⏰ 시간: 07-26 10:00
+🖼️ 이미지: https://img7.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725100100061_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725100100061
+--- 뉴스 13 ---
+📰 제목: [전국 주요 신문 톱뉴스](26일 조간)
+📝 내용: ▲ 국민일보 = 유급 의대생 복귀 허용 전례 없는 '3종 특혜'
+▲ 동아일보 = 美는 관세, 국내선 규제입법… 엎친데 덮친 韓기업
+▲ 조선일보 = 美 "주한미군 역할 재조정" 못박았다
+▲ 중앙일보 = 대통령실 긴급회의 "농산물도 협상 포함"
+▲ 한국일보 = "돈 내면 관세 깎아"… 韓 2000억불 이상 낼 수도
+▲ 매일경제 = 확장재정·AI 투자 李, 내달 직접 발표
+▲ 서울경제 = 트럼프장남 투자사 국내시장 상륙한다
+▲ 한국경제 = 美압박에 … 쌀·소고기 협상테이블 올린다
+(서울=연합뉴스)
+⏰ 시간: 07-26 10:00
+🖼️ 이미지: None
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726020300505
+--- 뉴스 14 ---
+📰 제목: [주요 신문 사설](26일 조간)
+📝 내용: ▲ 국민일보 = K관광 민낯 드러낸 '서핑 성지' 양양 괴담
+▲ 동아일보 = '관세 폭탄'에다 '더 센 상법'… 안팎 이중고에 시달리는 韓 기업
+'후보 교체 새벽 날치기는 불법'… 당연한 상식을 이제야 확인
+"공직자 의욕 꺾는 감사-수사 안 돼"… 정권 따라 흔들림 없어야
+▲ 조선일보 = '주한 미군은 중국 견제' 70년 안보 기본 틀이 바뀐다
+주요 쟁점 美 소고기 개방, 낡은 고정관념 버려야
+민주당 대표 경선 누가 더 비정상인지 경쟁하는 듯
+▲ 중앙일보 = 저성장의 덫 피하려면 기업 옥죄기 자제해야
+▲ 한국일보 = 한국 조이는 트럼프 압박, 더 큰 국익 위해 결단해야
+끔찍한 외국인 노동자 괴롭힘, 부끄러운 인권 현주소
+'이현령비현령' 직권남용 손질… 보복의 악순환 끊을 때
+▲ 매일경제 = 집중투표제라도 막아달라는 경제계 절규
+공무원 복지부동 부른 과도한 정책감사 폐지가 옳다
+지게차에 외국인 노동자 매달다니, 국격 문제다
+▲ 서울경제 = 한미 관세 협상 시한 임박… '국익 중심 실용 외교' 총력전 나설 때
+의대생 복귀, 조속히 의료 정상화하고 '특혜' 논란 재발 막아야
+"내란재판부 도입" "野 45명 제명"…巨與 강성 지지층만 바라보나
+▲ 한국경제 = 위기의 관세 협상 … 미국 고압적이지만 우리 내부도 문제
+해외투자마저 노조 파업 대상으로 만드는 노란봉투법
+차이나 머니의 공습, 기술 유출·부동산 투기 방지책 서둘러야
+(서울=연합뉴스)
+⏰ 시간: 07-26 10:00
+🖼️ 이미지: None
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726020400505
+--- 뉴스 15 ---
+📰 제목: [내주날씨] '체감온도 33도 내외' 무더운 날씨 계속…열대야 조심
+📝 내용: (서울=연합뉴스) 오진송 기자 = 다음 주(7월 28일∼8월 1일) 전국 대부분 지역의 최고 체감온도가 33도 내외로 올라 무더운 날이 이어지겠다.
+전국의 예상 아침 최저기온은 23∼27도, 낮 최고기온은 30∼34도로, 평년(최저기온 23∼25도, 최고기온 29∼33도)보다 높겠다.
+열대야가 나타나는 곳도 있겠으니 건강관리에 유의해야 한다.
+이번 예보 기간 우리나라 주변 기압계 변화에 따라 날씨가 변경될 가능성이 있으니 최신 예보를 계속 챙기는 것이 좋다.
+월요일인 28일 전국이 대체로 맑겠으나, 제주도는 흐리고 오전 중 곳곳에 비가 내리겠다. 28일 예상 아침 최저기온은 21∼27도, 낮 최고기온은 32∼36도다.
+화요일인 29일에는 제주를 제외한 전국이 대체로 맑겠고, 수요일인 30일부터는 전국이 흐린 날이 많겠다.
+다음은 주요 지역의 예상 최저·최고 기온.
+dindong@yna.co.kr
+⏰ 시간: 07-26 10:00
+🖼️ 이미지: https://img4.yna.co.kr/photo/yna/YH/2025/07/23/PYH2025072316200005300_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726021700530
+--- 뉴스 16 ---
+📰 제목: [속보] 소비쿠폰 닷새 만에 72% 신청…6조5천703억원 지급
+📝 내용: 
+⏰ 시간: 07-26 10:00
+🖼️ 이미지: https://img4.yna.co.kr/photo/yna/YH/2025/07/24/PYH2025072421060001300_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726021800530
+--- 뉴스 17 ---
+📰 제목: 여자배구 재미교포 오드리 박, 신인 드래프트 참가 어려울 듯
+📝 내용: 이중 국적 또는 특별귀화 추진했지만 9월 초까지 사실상 불가능
+(서울=연합뉴스) 이동칠 기자 = 재미교포 2세 여자배구 선수 오드리 박(23·한국 이름 박혜린)이 한국 V리그 무대 입성을 타진 중이지만, 10월 18일 개막하는 2025-2026시즌에는 뛰기 어려울 전망이다.
+미국 캘리포니아대학교 로스앤젤레스(UCLA) 배구부 주전 세터 출신의 오드리 박은 그동안 한국 V리그에 진출하기 위해 한국 국적 취득을 여러모로 노력해왔다.
+한국 국적자여야만 오는 9월 초 예정된 여자부 신인 드래프트에 참여할 수 있기 때문이다.
+오드리 박은 부모가 모두 한국에서 태어나 어린 시절에 이민을 간 재미교포 2세로 현재는 미국 국적을 가지고 있다.
+그는 세터로서 토스가 안정적이고 수비 능력을 갖춘 데다 키 180cm의 높이를 앞세워 블로킹에도 강점을 보인다.
+오드리 박은 대학 졸업 후 진로를 한국 여자 프로배구 구단 입단을 위해 준비해왔다.
+그러나 한국 국적 취득이 쉽지 않다.
+일반 귀화를 선택할 경우 미국 국적을 포기해야 하므로 '이중 국적'을 적극적으로 알아봤다.
+법무부에 제출할 서류 등을 준비했던 그는 그러나 이중 국적 취득이 예상보다 쉽지 않음을 확인했다.
+오드리 박의 V리그 입성을 돕는 관계자는 26일 "여러 경로로 이중국적 취득을 알아봤지만, 생각보다 까다롭다는 걸 확인했다"면서 "처음 추진했던 것에서 진척이 없는 상황"이라고 전했다.
+또 우수 스포츠 인재를 대상으로 하는 특별귀화도 여의치 않은 상황이다.
+대한배구협회 추천을 거쳐 법무부 국적심의원회 면접까지 통과해야 하는 데 시간상으로 9월 초까지 마무리하기 사실상 불가능하다.
+이 관계자는 "오드리 박에 대한 정보는 경기 영상 말고는 없기 때문에 배구협회로부터 추천받기 어려운 데다 법무부 심의도 많은 시간이 걸려 최소 3개월 안에 끝내는 걸 장담할 수 없다"면서 "내년에라도 도전
+⏰ 시간: 07-26 09:55
+🖼️ 이미지: https://img0.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726019500007_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726019500007
+--- 뉴스 18 ---
+📰 제목: '케데헌' OST '골든' 英 싱글차트 4위…블랙핑크 '뛰어' 31위
+📝 내용: '유어 아이돌'·'소다 팝'까지 OST 3곡 진입
+(서울=연합뉴스) 최주성 기자 = 넷플릭스 애니메이션 영화 '케이팝 데몬 헌터스' 오리지널사운드트랙(OST)이 영국 오피셜 싱글차트 '톱 100'에서 상승세를 보였다.
+25일(현지시간) 공개된 최신 차트에 따르면 애니메이션 속 인기 걸그룹 헌트릭스가 부른 '골든'(Golden)은 전주보다 5계단 상승한 4위로 5주 연속 싱글차트에 진입했다.
+극중 헌트릭스와 경쟁하는 보이그룹 사자 보이즈의 '유어 아이돌'(Your Idol)은 전주보다 9계단 순위를 끌어올린 14위를 기록했다.
+이와 함께 사자 보이즈 '소다 팝'(Soda Pop)이 17위로 처음 싱글차트에 진입하면서 '케이팝 데몬 헌터스' OST 3곡이 이번 주 동시 진입했다.
+'케이팝 데몬 헌터스'는 헌트릭스가 악령들로부터 인간 세계를 지키는 내용을 담은 작품이다. 지난달 공개 이후 넷플릭스 영화 부문 1위에 오르는 등 세계적인 인기를 끌고 있다. 지난 22일자 미국 빌보드 메인 싱글차트 '핫 100'에는 OST 8곡이 동시 진입했다.
+걸그룹 블랙핑크의 '뛰어'(JUMP)는 31위에 자리하며 2주 연속 싱글차트에 이름을 올렸다.
+블랙핑크 멤버 로제는 팝스타 브루노 마스와 듀엣한 '아파트'(APT.)가 40위를 차지하며 40주 연속 싱글차트에 머물렀다.
+cjs@yna.co.kr
+⏰ 시간: 07-26 09:52
+🖼️ 이미지: https://img1.yna.co.kr/photo/cms/2025/06/24/35/PCM20250624000035005_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726021600005
+--- 뉴스 19 ---
+📰 제목: 길음동 칼부림 내기바둑 탓 추정…피의자 아직 의식회복 못 해
+📝 내용: (서울=연합뉴스) 홍준석 이율립 기자 = 지난 25일 저녁 서울 성북구 길음동 한 기원에서 고령 남성 3명이 흉기에 찔려 크게 다친 가운데, 경찰은 사건의 발단이 내기바둑이었을 가능성을 염두에 두고 수사를 진행 중이다.
+26일 경찰과 소방당국에 따르면 전날 피의자인 70대 남성 A씨에게 가슴과 손 등을 흉기에 찔린 80대 남성과 60대 남성은 현재 수술을 마치고 의식을 회복한 상태다. 하지만 복부에서 자해로 추정되는 자상이 발견된 A씨는 아직 의식을 찾지 못했다고 한다.
+경찰 관계자는 "의식이 돌아온 피해자와 기원에 있었던 사람들부터 조사를 시작할 것"이라며 "피의자 조사는 의식이 돌아온 뒤에 가능하다"고 말했다.
+경찰은 A씨가 피해자들과 내기바둑을 두다가 범행을 저질렀을 가능성이 있다고 보고 정확한 사건 경위를 파악 중이다. 사건 현장에서 화투패와 술병이 발견되기도 했지만, 사건 관계자들이 평소 화투를 치지는 않았던 것으로 전해졌다.
+A씨는 전날 오후 7시 37분께 길음동 기원 건물 계단에서 피해자들에게 흉기를 휘두른 혐의를 받는다. 경찰은 기원 문을 잠그고 저항하던 A씨를 테이저건 2발로 제압했다.
+honk0216@yna.co.kr
+⏰ 시간: 07-26 09:52
+🖼️ 이미지: https://img4.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072518450000401_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726020600004
+--- 뉴스 20 ---
+📰 제목: 김건희특검, 함성득 참고인 조사…명태균 공천개입 의혹
+📝 내용: (서울=연합뉴스) 이의진 기자 = 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 '명태균 공천개입 의혹'과 관련해 지난 25일 함성득 경기대 정치전문대학원장을 조사했다고 26일 밝혔다.
+특검팀은 참고인 신분으로 함 원장을 불러 2022년 4월 28일 정치 브로커 명태균씨와 나눈 문자 메시지에 대한 사실관계 등을 조사한 것으로 전해졌다.
+특검팀에 앞서 명씨 의혹을 수사한 검찰은 당시 함 원장이 명씨와 주고받은 메시지를 확보했다. 명씨는 "형수에게 보낸 문자"라며 김 여사에게 보낸 것으로 추정되는 메시지를 함 원장에게 공유한 것으로 전해졌다.
+이 메시지에는 "사모님, 창원시 의창구 출마한 김영선 의원을 지켜달라. 대통령님과 사모님의 충복이 되겠다"는 등의 내용이 담긴 것으로 알려졌다.
+특검팀은 27일에는 윤석열 전 대통령 부부의 2022년 국회의원 보궐선거 공천개입 의혹에 등장하는 국민의힘 윤상현 의원을 불러 조사한다.
+윤 의원은 당시 국민의힘 공천관리위원장이었다.
+윤 전 대통령 부부는 그해 대통령 선거 과정에서 명씨로부터 여론조사를 무상으로 받은 대가로 같은 해 치러진 보궐선거에서 김영선 전 의원이 공천받도록 해줬다는 혐의를 받는다.
+명씨는 총 81차례에 걸쳐 불법 여론조사를 해준 것으로 파악됐다.
+앞서 공개된 통화 녹취록에 따르면 윤 전 대통령은 국민의힘 보궐선거 공천 발표 전날인 2022년 5월 9일 명씨에게 "내가 김영선이 경선 때부터 열심히 뛰었으니까 김영선이를 좀 해줘라 그랬는데, 말이 많네. 당에서"라며 "상현이(윤 의원)한테 내가 한 번 더 이야기할게. 걔가 공관위원장이니까"라고 말했다.
+pual07@yna.co.kr
+⏰ 시간: 07-26 09:41
+🖼️ 이미지: https://img2.yna.co.kr/photo/yna/YH/2013/03/21/PYH2013032109770001300_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726021200004
+--- 뉴스 21 ---
+📰 제목: 신화 이민우 결혼…"오랜 인연과 한 가족 되기로"
+📝 내용: (서울=연합뉴스) 최주성 기자 = 그룹 신화의 이민우(45)가 결혼 소식을 발표했다.
+26일 가요계에 따르면 이민우는 전날 자신의 인스타그램에 "오랜 시간 알고 지낸 소중한 인연과 서로 같은 마음을 확인하고 한 가족이 되기로 했다"며 "따뜻한 마음으로 축복해주면 좋겠다"고 썼다.
+이민우는 "최근 여러 가지 상황을 겪으며 심적으로 힘들고 지쳤을 때 가족들과 많은 시간을 보내며 가족에 대한 의미를 되새겼다"며 "언젠가는 서로 힘이 되어 주는 나만의 가정을 꾸리고 싶다는 막연한 마음이 있었다"고 말했다.
+1998년 그룹 신화로 데뷔한 이민우는 '브랜드 뉴', '퍼펙트 맨' 등의 히트곡으로 사랑받았다. 화가 활동을 병행하는 그는 지난달 21일에는 첫 개인전 '퓨리즘'(PURISM)을 열기도 했다.
+이민우는 "제게 또 다른 삶의 변화가 있겠지만 신화창조(팬클럽)와 가족의 사랑을 원동력으로 변함없는 활동을 이어가겠다"고 밝혔다.
+이민우는 다음 달 KBS 2TV 예능 '살림남'에 출연해 예비 신부와의 결혼 준비 과정을 공개할 예정이다.
+cjs@yna.co.kr
+⏰ 시간: 07-26 09:40
+🖼️ 이미지: https://img6.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726020900005_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726020900005
+--- 뉴스 22 ---
+📰 제목: 비스텝·부산교육청, 청소년 과학문화 체험 기회 확대키로
+📝 내용: (부산=연합뉴스) 김선호 기자 = 부산과학기술고등교육진흥원(BISTEP)과 한국과학기술단체총연합회 부울연합회(부울과총)는 최근 부산교육청과 청소년 대상 과학 문화 체험 프로그램 확대와 미래인재 양성을 위한 협력 방안을 논의했다고 26일 밝혔다.
+이 자리에서 2012년부터 부울과총이 해온 '나눔과학특강' 등 청소년 대상 과학 문화 체험 프로그램의 확대와 지역 과학기술 단체의 공동사업 추진 등이 주요 의제로 다뤄졌다.
+김영부 BISTEP 원장은 "다양한 과학기술 단체와 협력해 미래 인재를 양성하겠다"고 말했다.
+진성호 부울과총 회장은 "시민 누구나 체감할 수 있는 과학기술 문화 확산에 힘쓰겠다"고 말했다.
+BISTEP은 다음 달 11일 '부산과학기술인 콜로키움'을 열어 정책 소통의 장을 마련할 예정이다.
+wink@yna.co.kr
+⏰ 시간: 07-26 09:33
+🖼️ 이미지: https://img9.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725092600051_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725092600051
+--- 뉴스 23 ---
+📰 제목: 우의장, 루마니아 상원의장 만나 "방산·원전 등 협력 강화"
+📝 내용: 루마니아 상원의장 "적극적 협력 약속…한반도 평화 지원할 것"
+(부쿠레슈티<루마니아>=연합뉴스) 안정훈 기자 = 해외 순방 중인 우원식 국회의장은 25일(현지시간) 루마니아 고위급 정계 인사를 연이어 만나며 양국 간 교류 증진과 한반도 평화 확립을 위한 협조를 요청했다.
+우 의장은 이날 루마니아 부쿠레슈티에 위치한 인민궁전에서 미르체아 아브루데안 상원의장을 만나 "방산 협력, 원전 협력, 인프라 협력 등 3대 전략 산업을 중심으로 (양국 간) 협력이 충분한 소지가 있다"고 밝혔다.
+그는 또 "대한민국의 가장 큰 고민은 남북 간의 평화"라며 "같은 민족임에도 남북 간의 긴장감 때문에 대화가 이뤄지지 못한다. 남북 간의 긴장 완화와 대화를 위해 국제 사회에서 한국의 정책에 대한 많은 지지를 부탁드린다"고 요청했다.
+이에 아브루데안 상원의장은 "한반도 평화를 위해서 저희가 지원하겠다"며 "지정학적 이유로 우크라이나 전쟁에 루마니아도 큰 위협을 느끼고 있다"고 답했다.
+아브루데안 상원의장은 "원전 사업과 방산 사업 협력에 대한 내용에 대해서 말씀해주셔서 감사드린다. 적극적인 협력을 기초로 지원할 것을 약속한다"며 "여러 분야의 협력 관계를 토대로 아끼지 않는 지원을 하도록 할 것"이라고 덧붙였다.
+우 의장은 이날 소린 미하이 그린데아누 루마니아 하원의장, 일리에 볼로잔 총리와도 면담했다.
+또한 로베르트 이오나탄 시기아르터우 루마니아·한국 의원친선협회 협회장을 비롯해 전·현직 루마니아 의원과의 간담회를 진행했다.
+우 의장은 그린데아누 하원의장과의 예방 자리에서 유럽연합(EU)의 주요 항구도시 중 하나인 루마니아의 콘스탄차시를 중심으로 한 양국 간 협력 확대 가능성을 강조했다.
+우 의장은 "부산항만공사와 콘스탄차 항만공사 간의 항만 개발, 운영 협력과 관련해서 업무협약(MOU)을 체결하고 협력의 틀이 마련돼 있다"며 "적극적으로 (양국간 협력이) 발전할 수 있도록 관심을 바
+⏰ 시간: 07-26 09:30
+🖼️ 이미지: https://img5.yna.co.kr/photo/yna/YH/2025/07/26/PYH2025072601370000100_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726004900001
+--- 뉴스 24 ---
+📰 제목: '7월 출루율 0.629' kt 안현민, 규정 타석 진입 임박
+📝 내용: 다음 주 중 규정 타석 진입하면 타율, 출루율, 장타율 1위
+(서울=연합뉴스) 하남직 기자 = 안현민(21·kt wiz)이 규정 타석 진입(팀 경기 수 × 3.1)을 눈앞에 뒀다.
+안현민이 2025 한국프로야구 KBO리그 공식 순위에 이름을 올리면, 타자 부문 타이틀 경쟁은 '안현민 중심'으로 재편된다.
+25일까지 안현민은 67경기, 290타석에 들어서서 타율 0.369, 18홈런, 59타점, 출루율 0.483, 장타율 0.669를 올렸다.
+kt는 96경기를 치러, 소속팀 타자들의 규정 타석은 297타석이다.
+최근 매 경기 4∼5타석을 소화하는 안현민은 다음 주 중에는 규정 타석에 진입할 전망이다.
+25일 현재 타율 1위 빅터 레이예스(0.340·롯데 자이언츠), 출루율 1위 최형우(0.429·KIA 타이거즈), 장타율 1위 르윈 디아즈(0.616·삼성 라이온즈)는 안현민이 규정 타석에 진입하는 순간, 부문 1위 자리를 내줄 가능성이 크다.
+4월 10일 NC 다이노스전에서 한 타석만 서고, 그달 30일부터 본격적으로 1군 경기를 치른 안현민은 파괴력 때문에 주목받았다.
+안현민은 5월에 치른 27경기에서 홈런 9개를 쳤다.
+타 팀에 '안현민 주의보'가 내려졌고, 안현민과 대결하는 투수들의 집중력이 달라졌다.
+6월부터 안현민은 또 다른 장기를 발휘했다.
+상대의 유인구를 잘 참는 안현민의 '눈 야구'는 출루율 상승을 끌어냈다.
+안현민은 6월 볼넷 공동 1위(18개)에 올랐고, 7월에는 2위 노시환(12개·한화 이글스)보다 5개나 많은 볼넷 17개를 골라 단독 선두를 달린다.
+출루율은 6월 0.474로 3위에 올랐는데, 7월에는 0.629의 놀라운 수치를 찍어 압도적인 1위를 질주했다.
+7월 2위 구자욱(삼성 라이온즈)의 출루율은 0.516이다.
+상대 집중 견제 탓에 안현민의 홈런 수는 5월 9개에서 6월 4개, 7월 5개로 줄었
+⏰ 시간: 07-26 09:24
+🖼️ 이미지: https://img1.yna.co.kr/photo/yna/YH/2025/07/20/PYH2025072012400006100_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726019900007
+--- 뉴스 25 ---
+📰 제목: '폭탄조' 향한 맨유 아모링 감독의 경고 "헐값에 내주지 않겠다"
+📝 내용: 가르나초·안토니·산초·말라시아 '1군 전력서 제외'
+(서울=연합뉴스) 이영호 기자 = 잉글랜드 프로축구 프리미어리그(EPL) 맨체스터 유나이티드(이하 맨유)를 지휘하는 후벵 아모링 감독이 1군 전력에서 제외된 선수들에 대해 "헐값 방출은 없다"라고 못을 박았다.
+영국 공영방송 BBC는 26일(한국시간) "아모링 감독은 프리시즌 시작과 함께 소위 '폭탄조(bomb squad)'라고 불리는 마커스 래시퍼드, 알레한드로 가르나초, 안토니, 제이든 산초, 타이럴 말라시아를 1군 전력에서 제외했다"라며 "래시퍼드는 FC바르셀로나(스페인) 임대를 떠났지만 나머지 선수들은 미국 투어에서 제외돼 캐링턴 훈련장으로 복귀하라는 지시를 받았다"고 전했다.
+레알 베티스(스페인) 임대를 떠났던 안토니는 완전 이적을 노리고 있고, 산초는 유벤투스(이탈리아)가 관심을 가지고 있고, 가르나초는 여러 팀의 러브콜을 받는 상태다.
+이에 대해 BBC는 "안토니, 산초, 가르나초 등은 아직 이적 협상에 진전이 없는 상황"이라며 "이들에게 관심을 가진 구단들은 9월 1일 여름 이적시장 마감 직전까지 기다렸다가 이적료가 떨어지기를 기대하는 분위기"라고 설명했다.
+하지만 이런 상황을 놓고 아모링 감독은 "1군에서 밀려난 선수들을 헐값에 데려가려고 생각하는 다른 구단들은 충격을 받을 것"이라며 강경한 입장을 드러냈다.
+아모링 감독은 "구단은 이들 선수에 대한 적정한 이적료를 기준을 가지고 있다"라며 "그 가격에 맞지 않는다면 그들은 의심의 여지 없이 맨유의 선수"라고 선을 그었다.
+그는 "우리는 선수들이 시간을 갖고 이적을 결정할 수 있도록 배려하고 있다"라며 "다른 구단들도 마지막 시기에 움직일 것을 알고 있지만, 이적료가 맞지 않는다면 예상치 못한 결과를 얻을 수 있다. 나는 이들을 다시 받아들일 준비가 돼 있다"고 강조했다.
+horn90@yna.co.kr
+⏰ 시간: 07-26 09:22
+🖼️ 이미지: https://img8.yna.co.kr/photo/etc/epa/2025/05/22/PEP20250522080201009_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726019700007
+--- 뉴스 26 ---
+📰 제목: 신화 이민우 결혼…"오랜 인연과 한 가족 되기로"
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img6.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726020900005_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250726020900005?section=culture/all
+--- 뉴스 27 ---
+📰 제목: 행정복지센터서 "기름값 줘" 황당 요구…거절에 욕하며 '퉤'
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img0.yna.co.kr/photo/cms/2021/03/19/64/PCM20210319000064990_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725062300062?section=society/all
+--- 뉴스 28 ---
+📰 제목: [길따라] 큰맘 먹고 비즈니스석 끊었는데 이코노미석으로 강등?
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img0.yna.co.kr/photo/cms/2025/05/22/69/PCM20250522000069990_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725068400542?section=industry/all
+--- 뉴스 29 ---
+📰 제목: 프로야구 코치가 연인 감금·폭행하고 음주 무법질주…징역 1년
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img3.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725159400004_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725159400004?section=society/all
+--- 뉴스 30 ---
+📰 제목: 10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img7.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725100100061_01_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725100100061?section=society/all
+--- 뉴스 31 ---
+📰 제목: 인천 아들 총격범, 27년 전 운영하던 비디오방서 성범죄 저질러
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img0.yna.co.kr/photo/yna/YH/2025/07/21/PYH2025072100780001300_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725166600004?section=society/all
+--- 뉴스 32 ---
+📰 제목: '현행범 체포에 앙심' 출동 경찰관 고소했다가 징역형 집행유예
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img8.yna.co.kr/photo/cms/2025/03/27/29/PCM20250327000029990_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725095300051?section=society/all
+--- 뉴스 33 ---
+📰 제목: 송영규, 음주운전 혐의 불구속 송치…출연 드라마·연극 '비상'
+📝 내용: None
+⏰ 시간: None
+🖼️ 이미지: https://img3.yna.co.kr/etc/inner/KR/2025/07/25/AKR20250725121751061_02_i_T2.jpg
+
+📎 링크: https://www.yna.co.kr/view/AKR20250725121751061?section=society/all
+✅ 저장 전 제목 개수: 21
+📦 발행 후보 뉴스 개수(중복 제거됨): 32
+
+[발행] 소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급
+🕒 07-26 10:26
+📄 3천643만명 신청…26일부터 출생연도 상관없이 신청
+(서울=연합뉴스) 오진송 기자 = '민생회복 소비쿠폰' 1차 신청 닷새간 전체 대상자의 72.0%인 3천642만5천598명이 신청했다고 행정안전부가 26일 밝혔다.
+지난 5일간 지급된 지원금은 6조5천703억원이다.
+지역별 신청률은 인천이 77.0%(232만4천53명)로 전국에서 가장 높았다. 신청자가 가장 적은 곳은 전남(66.1%·117만2천451명)이다.
+서울은 대상자의 72.1%인 657만8천408명이 신청을 마쳤다.
+지급방식별로는 신용·체크카드 2천696만569명, 선불카드 321만6천232명, 지역사랑상품권(모바일·카드) 564만6천922명, 지류 60만1천875명이다.
+소비쿠폰은 국민 1인당 15∼45만원을 지급하는 이재명 정부의 첫 경기부양책이다.
+1차 신청 첫 주(21∼25일)에는 신청자 폭주에 대비해 출생연도 끝자리를 기준으로 요일제 신청이 진행됐다.
+요일제 신청 종료로 이날부터 출생연도 끝자리에 상관없이 소비쿠폰 지급을 신청할 수 있다. 신청 마감 시한은 9월 12일 오후 6시다.
+신용·체크카드를 통한 지급은 카드사 홈페이지, 애플리케이션(앱), 콜센터, ARS 및 카카오뱅크·케이뱅크·토스·카카오페이 간편결제·네이버페이 간편결제 앱을 통해 온라인으로 신청할 수 있다. 온라인 신청이 어려우면 각 카드사와 연계된 은행영업점을 방문하면 된다.
+모바일·카드형 지역사랑상품권 지급은 자치단체별 지역사랑상품권 앱이나 읍면동 주민센터에서 직접 신청할 수 있다.
+선불카드나 지류형 지역사랑상품권으로 받길 희망하는 경우엔 주소지 관할 읍면동 주민센터를 방문해서 신청하면 된다.
+다만 주말에는 오프라인 신청이 불가능하다.
+소비쿠폰은 신청 다음 날부터 11월 30일까지 사용할 수 있다.
+사용처는 대형마트와 백화점, 유흥업소를 제외한 연 매출 30억원 이하의 소상공인 업체다.
+dindong@yna.co.
+📄 https://www.yna.co.kr/view/AKR20250726023300530
+
+[발행] 인천 아들 총격범, 27년 전 운영하던 비디오방서 성범죄 저질러
+🕒 None
+📄 None
+📄 https://www.yna.co.kr/view/AKR20250725166600004?section=society/all
+
+[발행] 10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄
+🕒 07-26 10:00
+📄 법원 "통상적으로 예견할 수 있는 상황이었다고 단정 어려워"
+(수원=연합뉴스) 류수현 기자 = 새벽 시간대 왕복 10차로를 무단횡단하던 70대를 차로 들이받아 숨지게 한 운전자가 1심에 이어 항소심에서도 무죄를 선고받았다.
+26일 법조계에 따르면 수원지법 형사항소1-3부(김종근 부장판사)는 교통사고처리 특례법 위반 혐의로 기소된 A씨에게 무죄를 선고한 1심 판결에 불복한 검사의 항소를 기각했다.
+재판부는 A씨에게 무죄를 선고한 원심의 판단이 정당하다고 봤다.
+A씨는 2023년 1월 5일 오전 4시 30분께 화물차를 몰고 왕복 10차로 일반 도로를 운전하던 중 무단횡단하던 70대 B씨를 차로 들이받아 숨지게 한 혐의로 기소됐다.
+당시 도로 제한 속도는 시속 60㎞였으나 A씨는 이보다 시속 20㎞를 초과해 운전한 것으로 조사됐다.
+앞서 원심은 A씨가 녹색 신호에 따라 주행하던 중 B씨가 무단횡단을 하다가 벌어진 일이므로 통상적으로 예견할 수 있는 상황이었다고 단정하기 어렵고 A씨가 음주 또는 졸음운전 등 다른 과실을 범했다는 정황도 존재하지 않는다고 봤다.
+아울러 A씨가 제한속도를 위반하지 않았더라면 이 사건 교통사고가 발생하지 않았을 것이라는 점이 증명돼야 하는데 A씨가 주의의무를 다했다하더라도 B씨를 제때 발견했을 것이라고 확신하기 어려운 점 등을 고려하면 이 사건 공소사실은 범죄의 증명이 없는 경우에 해당한다고 판단했다.
+you@yna.co.kr
+📄 https://www.yna.co.kr/view/AKR20250725100100061
+
+✅ 저장 후 제목 개수: 24
+➕ 새로 추가된 제목 수: 3
+handles :  ['DCAE482A324EDBF3465BEC6B7248F5C8']
+스탑
+소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급
+['소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급', '인천 아들 총격범, 27년 전 운영하던 비디오방서 성범죄 저질러', '10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄']
+title 소비쿠폰 닷새 만에 신청률 72%…6조5천703억원 지급
+title 인천 아들 총격범, 27년 전 운영하던 비디오방서 성범죄 저질러
+title 10차로 무단횡단 70대 치어 숨지게 한 운전자 항소심도 무죄
+IDPW 개수: 30
+DB access----success!!
+시작
+File saved to: C:\Users\win\Desktop\티스토리\logfile.txt
