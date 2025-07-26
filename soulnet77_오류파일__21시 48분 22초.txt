@@ -1,0 +1,44 @@
+errolinkQQ C:/Users/aaa/OneDrive/Desktop/blog1/티스토리/새 폴더
+errolinkQQ_page3 C:\Users\aaa\OneDrive\Desktop\blog1\티스토리
+학습chatGPT2
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+경로가 존재합니다!
+시작
+File saved to: C:\Users\aaa\OneDrive\Desktop\blog1\티스토리\logfile.txt
