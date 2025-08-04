@@ -1,0 +1,119 @@
+BLOGLINK 0      https://cafe.naver.com/lvssgz
+1      https://cafe.naver.com/lvssgz
+2      https://cafe.naver.com/lvssgz
+3      https://cafe.naver.com/lvssgz
+4      https://cafe.naver.com/lvssgz
+                   ...              
+234    https://cafe.naver.com/lvssgz
+235    https://cafe.naver.com/lvssgz
+236    https://cafe.naver.com/lvssgz
+237    https://cafe.naver.com/lvssgz
+238    https://cafe.naver.com/lvssgz
+Name: 카페주소, Length: 239, dtype: object
+errolinkQQ C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\4b9b59733d4a43299aece66a5dafe043.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\e6eda6cf96b248d0a87ee09cba3e1999.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\eed87eb97d57490292968a2937c37666.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+전체 키워드 개수 :
+엑셀 개수 239
+DB access----success!!
+크롬드라이버 강제 종료 성공
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\65e2830115d541cfa2fcc387c3141c63.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\62b4ae75b32e4bcd92bcc49f1617d445.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\c974cb3650bc44f1a5125e61ea93aac7.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+전체 키워드 개수 :
+엑셀 개수 239
+DB access----success!!
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzaiL', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzaiM', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzaiL
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzawb', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzawc', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzawb
+시작
+File saved to: C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스\logfile.txt
