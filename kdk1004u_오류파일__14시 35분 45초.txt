@@ -1,0 +1,860 @@
+BLOGLINK 0      https://cafe.naver.com/lvssgz
+1      https://cafe.naver.com/lvssgz
+2      https://cafe.naver.com/lvssgz
+3      https://cafe.naver.com/lvssgz
+4      https://cafe.naver.com/lvssgz
+                   ...              
+234    https://cafe.naver.com/lvssgz
+235    https://cafe.naver.com/lvssgz
+236    https://cafe.naver.com/lvssgz
+237    https://cafe.naver.com/lvssgz
+238    https://cafe.naver.com/lvssgz
+Name: 카페주소, Length: 239, dtype: object
+errolinkQQ C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\9fa25e27153f4e4c8d0fecc274b03076.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\2f17b0f67ff147a3aa7449062aa258f5.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\d368650fdf2247899c3bcc9eab4b534e.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+전체 키워드 개수 :
+엑셀 개수 239
+DB access----success!!
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzv4i', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzv4l', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzv4i
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzwiK', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzwiL', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzwiK
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzwyd', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzwye', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzwyd
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+60
+14시 34분 28초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 9
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 10
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 11
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 12
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 13
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 14
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 15
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 16
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 17
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 18
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 19
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 20
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 21
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 22
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 23
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 24
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 25
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 26
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 27
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 28
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 29
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 30
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 31
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 32
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 33
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 34
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 35
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 36
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 37
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 38
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 39
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 40
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 41
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 42
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 43
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 44
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 45
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 46
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 47
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 48
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 49
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 50
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 51
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 52
+크롬드라이버 강제 종료 성공
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 53
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 54
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 55
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 56
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 57
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 58
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 59
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 60
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 61
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 62
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 63
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 64
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 65
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 66
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 67
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 68
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\1a8576caf347422da2f655e7a3ab1832.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\d9efdf81cfbe45efb70b1783e0800905.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\1a28f21f94c449be8a8524df3540214c.pyd
+Running main() from the .pyd file...
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 69
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+전체 키워드 개수 :
+엑셀 개수 239
+DB access----success!!
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzxvo', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzxvp', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzxvo
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 70
+시작
+File saved to: C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스\logfile.txt
+
+--- Captured Logs ---
+BLOGLINK 0      https://cafe.naver.com/lvssgz
+1      https://cafe.naver.com/lvssgz
+2      https://cafe.naver.com/lvssgz
+3      https://cafe.naver.com/lvssgz
+4      https://cafe.naver.com/lvssgz
+                   ...              
+234    https://cafe.naver.com/lvssgz
+235    https://cafe.naver.com/lvssgz
+236    https://cafe.naver.com/lvssgz
+237    https://cafe.naver.com/lvssgz
+238    https://cafe.naver.com/lvssgz
+Name: 카페주소, Length: 239, dtype: object
+errolinkQQ C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\9fa25e27153f4e4c8d0fecc274b03076.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\2f17b0f67ff147a3aa7449062aa258f5.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\d368650fdf2247899c3bcc9eab4b534e.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+전체 키워드 개수 :
+엑셀 개수 239
+DB access----success!!
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzv4i', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzv4l', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzv4i
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzwiK', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzwiL', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzwiK
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzwyd', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzwye', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzwyd
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x641af3+62339]
+	GetHandleVerifier [0x0x641b34+62404]
+	(No symbol) [0x0x482123]
+	(No symbol) [0x0x4ca86e]
+	(No symbol) [0x0x4cac0b]
+	(No symbol) [0x0x512f72]
+	(No symbol) [0x0x4ef404]
+	(No symbol) [0x0x5107a3]
+	(No symbol) [0x0x4ef1b6]
+	(No symbol) [0x0x4be7a2]
+	(No symbol) [0x0x4bf644]
+	GetHandleVerifier [0x0x8b6683+2637587]
+	GetHandleVerifier [0x0x8b1a8a+2618138]
+	GetHandleVerifier [0x0x66856a+220666]
+	GetHandleVerifier [0x0x658998+156200]
+	GetHandleVerifier [0x0x65f12d+182717]
+	GetHandleVerifier [0x0x649a38+94920]
+	GetHandleVerifier [0x0x649bc2+95314]
+	GetHandleVerifier [0x0x634d0a+9626]
+	BaseThreadInitThunk [0x0x75735d49+25]
+	RtlInitializeExceptionChain [0x0x7741d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7741d281+561]
+
+60
+14시 34분 28초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 9
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 10
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 11
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 12
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 13
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 14
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 15
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 16
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 17
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 18
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 19
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 20
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 21
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 22
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 23
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 24
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 25
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 26
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 27
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 28
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 29
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 30
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 31
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 32
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 33
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 34
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 35
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 36
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 37
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 38
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 39
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 40
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 41
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 42
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 43
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 44
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 45
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 46
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 47
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 48
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 49
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 50
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 51
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 52
+크롬드라이버 강제 종료 성공
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 53
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 54
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 55
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 56
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 57
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 58
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 59
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 60
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 61
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 62
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 63
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 64
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 65
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 66
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 67
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 68
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\1a8576caf347422da2f655e7a3ab1832.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\d9efdf81cfbe45efb70b1783e0800905.pyd
+Running main() from the .pyd file...
+Captured output: 138
+최신 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rlaeo\AppData\Local\Temp\1a28f21f94c449be8a8524df3540214c.pyd
+Running main() from the .pyd file...
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 69
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 138
+내 드라이버 버전 :: 138
+전체 키워드 개수 :
+엑셀 개수 239
+DB access----success!!
+지금 아이디 :
+kdk1004u
+ID2 kdk1004u
+PW2 kim1004u##
+CATEGORY 핫딜 게시판
+keyword_excel 필립스 에어프라이어
+BLOGLINK https://cafe.naver.com/lvssgz
+FRONTWORD 
+ENDWORD 
+coupangAPI_ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+coupangAPI_SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+coupang_imageCheck X
+ACCESS_KEY 81362960-b6ee-4362-bfd8-9e795b07c0b0
+SECRET_KEY 15941cacd685290032d87541ed09a587a5d2f38f
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=필립스 에어프라이어&channel=user', 'shortenUrl': 'https://link.coupang.com/a/cIzxvo', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF8509535&pageKey=%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4&traceid=V0-183-f59bbb38eb02a65a'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/cIzxvp', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF8509535&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/cIzxvo
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 70
+시작
+File saved to: C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스\logfile.txt
+
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 71
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 72
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 73
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 74
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 75
+시작
+File saved to: C:\Users\rlaeo\OneDrive\바탕 화면\자동화프로그램들\네이버카페_쿠팡파트너스\logfile.txt
