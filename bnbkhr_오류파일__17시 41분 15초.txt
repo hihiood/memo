@@ -1,0 +1,47 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\9900124090364859a36b7b767f192d28.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\385b7f521b314c02808451fc4d65cc1b.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\eaa9eb5ae4a9409a98201cda25546d3b.pyd
+Running main() from the .pyd file...
+Captured output: 135
+내 드라이버 버전 :: 135
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 135
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7205.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\Desktop\쇼츠 프로그램\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\Desktop\쇼츠 프로그램\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\Desktop\쇼츠 프로그램\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\Desktop\쇼츠 프로그램\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive\Desktop\쇼츠 프로그램
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\Desktop\쇼츠 프로그램\logfile.txt
