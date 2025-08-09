@@ -1,0 +1,36 @@
+chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\e3aae46e1ebf4b1896879e973c39a739.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 크롬 버전 :: 138
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\d2ffd8b0022b4e95a53327da2c04fab7.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\204d75630fa743d88cca37215718a0aa.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 138
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 138
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\USER\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\USER\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
