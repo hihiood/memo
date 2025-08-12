@@ -1,0 +1,27 @@
+2
+3
+----------------------------import --------
+에러메세지44
+'username'
+Downloading Mychromecheck.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Download complete: Mychromecheck.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading RealchromeVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Download complete: RealchromeVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading driverVersion.cp310-win_amd64.pyd from https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Download complete: driverVersion.cp310-win_amd64.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 139
+
+시작
+File saved to: C:\OneDrive_2025-07-31\네이버플레이스\유효타\logfile.txt
