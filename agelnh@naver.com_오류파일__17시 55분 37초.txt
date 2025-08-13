@@ -1,0 +1,1312 @@
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\950c4619536946658e41e9cff1a42cbb.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\7ea537237c50454e8d31e644dfce2f62.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\0e847edf0c634b299a66951bf62f55dc.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 138
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7205.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\ageln\Desktop\블로그자동화프로그램\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\ageln\Desktop\블로그자동화프로그램\temp_chromedriver
+Existing ChromeDriver found at C:\Users\ageln\Desktop\블로그자동화프로그램\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\ageln\Desktop\블로그자동화프로그램\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\ageln\Desktop\블로그자동화프로그램
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\d9fa6469190a4e229b0caf7bed3632bf.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\7fd8e12d8a054e88afffdf791aa91a37.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\78ab723271104ac7ad650d7e48654153.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 139
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\7a1d7475c3e94849b880957574891e94.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\f443a6634592495ea31546c168904480.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\ageln\AppData\Local\Temp\aa5f630776c94ad1aa3b0f4ec91b2979.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 139
+소액 민사소송절차는
+title 소액 민사소송절차는
+전체 키워드 개수 :
+엑셀 개수 1
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+DB access----success!!
+1--now_device_check 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+1--device_check_DB 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+23now_device_check 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+23device_check_DB 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+지금 아이디 :
+excel_counter 0
+lawyer-info1
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  소액 민사소송절차는 소액 민사소송절차는
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['4c']
+selected_elements_raw ['The small civil litigation procedure is a small civil litigation procedure', '소액 민사소송절차는 소액 민사소송절차는', 'offline', 'f4781aa9f1a33aa9cb1639e79945391d', 'ko']
+The small civil litigation procedure is a small civil litigation procedureoffline
+The small civil litigation procedure is a small civil litigation procedureoffline
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Close-up of antique wooden rocking chair, rustic weathered oak, surrounded by golden foliage, warm lighting, antique store
+===
+lock_open_right
+lock_open_right
+===
+모델
+최고 품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: create image[[The small civil litigation procedure is a small civil litigation procedureoffline]]  please related image please make image png file or jpg file with image generator 
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  소액 민사소송절차는 소액 민사소송절차는
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['4c']
+selected_elements_raw ['The small civil litigation procedure is a small civil litigation procedure', '소액 민사소송절차는 소액 민사소송절차는', 'offline', 'f4781aa9f1a33aa9cb1639e79945391d', 'ko']
+The small civil litigation procedure is a small civil litigation procedureoffline
+The small civil litigation procedure is a small civil litigation procedureoffline
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+A macro photograph of a colorful tiny gnome riding a snail through a thick green forest, magical, fantasy
+===
+lock_open_right
+lock_open_right
+===
+모델
+최고 품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: create image[[The small civil litigation procedure is a small civil litigation procedureoffline]]  please related image please make image png file or jpg file with image generator 
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+이미지 존재함
+IMAGE_PATH_PATH C:\Users\ageln\Desktop\블로그자동화프로그램\이미지-20250514T111023Z-1-001\이미지
+image_file Image0.png
+img_sub_send 387176
+체크------이미지
+체크22------이미지
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="f8a41de0e96c560af0bcb482b96e2fb7")>
+체크3
+체크4
+현재 URL: https://chatgpt.com/?model=gpt-4o-mini
+수집된 텍스트: 주제 : 소액 민사소송절차는 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 6개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 6개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자~30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+
+---끝
+---체
+임시 채팅 켜기
+---끝
+---체
+
+---끝
+---체
+임시 채팅 켜기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in using gpt
+matches2: 소액 민사소송절차 이해와 대응 전략
+text2: <h2 style='font-size:26px;' align='left'>소액 민사소송이란 무엇인가?</h2> <b>소액 민사소송</b>은 일반 민사소송과 달리 금액이 비교적 작은 사건을 신속하게 해결하기 위해 마련된 절차입니다. 한국 법원에서는 금액 기준을 3천만 원 이하로 제한하고 있으며, 주로 금전청구, 임차보증금 반환, 소액 채권 회수 등 생활 속에서 발생할 수 있는 분쟁이 해당됩니다. 소액 민사소송의 특징은 다음과 같습니다. <li>서류 제출과 절차가 간소화되어 있습니다.</li> <li>재판 기간이 비교적 짧아 신속한 판결을 받을 수 있습니다.</li> <li>법정 비용이 일반 민사소송보다 낮습니다.</li>
+실무적으로는 피해자가 직접 사건을 제기할 수 있으며, 변호사 없이 진행 가능하다는 점에서 접근성이 높습니다. 하지만, 금액이 작다고 방심하면 상대방의 대응에 의해 계획이 늦어질 수 있으므로 준비가 중요합니다. 소액 사건이라고 해서 절차를 대충 진행하면 안 되며, 증거자료를 철저히 준비하고 사건의 핵심 쟁점을 명확히 해야 합니다.
+<h2 style='font-size:26px;' align='left'>소액 민사소송의 절차 단계</h2> 소액 민사소송 절차는 크게 <b>청구서 제출 → 답변서 제출 → 변론기일 → 판결</b>의 순으로 진행됩니다. <table border='1' style="text-align:center; width:100%"> <tr> <th style="background-color: lightblue; text-align:center">단계</th> <th style="background-color: lightblue; text-align:center">주요 내용</th> <th style="background-color: lightblue; text-align:center">유의사항</th> </tr> <tr> <td>청구서 제출</td> <td>소송을 제기하는 단계로, 사건의 사실관계, 청구금액, 증거자료를 제출</td> <td>사실관계와 금액 산정이 정확해야 함</td> </tr> <tr> <td>답변서 제출</td> <td>피고가 청구에 대해 입장을 밝히는 단계</td> <td>불이익을 피하려면 기한 내 제출 필요</td> </tr> <tr> <td>변론기일</td> <td>양측이 법정에서 주장과 증거를 제출</td> <td>증인 및 자료 준비 철저</td> </tr> <tr> <td>판결</td> <td>재판부가 사건을 심리하여 판결</td> <td>승소 시 집행 절차를 준비</td> </tr> </table> 각 단계마다 정확한 절차 준수와 증거 제출이 중요합니다. 변호사가 없는 경우에도 법원에서 제공하는 안내문을 통해 기본 절차를 안내받을 수 있습니다. <h2 style='font-size:26px;' align='left'>증거 수집과 제출 방법</h2> 소액 민사소송에서 승소를 위해서는 <b>증거의 확보와 정리</b>가 핵심입니다. <li>계약서, 영수증, 송금 내역 등 객관적 자료를 확보합니다.</li> <li>문자메시지, 이메일, 녹취자료 등 사건과 관련된 모든 기록을 수집합니다.</li> <li>증거 목록을 정리하고, 법원에 제출할 형식으로 준비합니다.</li>
+법원은 증거의 신뢰성과 적법성을 중요시하므로, 사본 제출 시 원본을 반드시 보관해야 하며, 필요시 법원에서 원본을 확인할 수 있도록 합니다. 또한, 증거는 사건의 핵심 쟁점을 뒷받침하도록 구성해야 하며, 단순히 자료만 나열해서는 설득력이 부족합니다.
+<h2 style='font-size:26px;' align='left'>소송 비용과 법적 부담</h2> 소액 민사소송은 일반 민사소송보다 비용 부담이 낮은 편입니다. <table border='1' style="text-align:center; width:100%"> <tr> <th style="background-color: lightblue; text-align:center">구분</th> <th style="background-color: lightblue; text-align:center">금액</th> <th style="background-color: lightblue; text-align:center">비고</th> </tr> <tr> <td>인지대</td> <td>청구금액의 약 0.5~1%</td> <td>최소 1,000원부터</td> </tr> <tr> <td>송달료</td> <td>약 5,000원~10,000원</td> <td>서류 발송 비용</td> </tr> <tr> <td>기타 비용</td> <td>증인·감정료 등 별도</td> <td>사건 내용에 따라 다름</td> </tr> </table> 비용 부담이 낮다고 해서 절차를 대충 진행하면 오히려 불리할 수 있습니다. 필요한 증거 확보와 준비에는 시간과 노력이 필요하며, 법적 절차를 이해하고 대응하는 것이 중요합니다. <h2 style='font-size:26px;' align='left'>판결 이후 집행 절차</h2> 소액 민사소송에서 승소 판결을 받았다고 해서 끝나는 것은 아닙니다. 상대방이 자발적으로 이행하지 않으면 <b>강제집행</b>을 진행해야 합니다. <li>승소판결문을 받은 후 법원에 강제집행 신청</li> <li>상대방의 재산을 조사하고 압류 또는 경매 절차 진행</li> <li>급여, 예금, 부동산 등 집행 가능한 재산 확보</li> 집행 과정에서도 전문 변호사 조력을 받으면 불필요한 절차 지연과 비용을 최소화할 수 있습니다. 소액 사건이라도 상대방이 적극적으로 회피할 경우, 적절한 법적 대응 계획이 필요합니다. <h2 style='font-size:26px;' align='left'>효과적인 소액 민사소송 대응 전략</h2> 효과적인 대응을 위해서는 사전 준비가 무엇보다 중요합니다. <b>전략적 준비 요소</b> <li>사건의 핵심 쟁점을 명확히 정리</li> <li>증거 확보와 자료 정리</li> <li>상대방의 가능성 있는 주장 분석</li> <li>재판 준비와 증인, 자료 제출 계획</li> <li>판결 이후 집행 계획 수립</li> 이러한 준비는 단순히 승소를 넘어서, 사건을 신속하고 안정적으로 해결하는 데 큰 도움이 됩니다. 소액 사건이라도 계획 없이 진행하면 오히려 시간과 비용이 낭비될 수 있으므로, 철저한 사전 준비가 필요합니다.
+check_word_length 0
+len(kkq) 3129
+DB access----success!!
+2--now_device_check 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+2--device_check_DB 6FC68A00-EE20-11ED-A513-DF9FDD2F6100
+타이틀에 ['네이버 : 로그인', '로그인', '네이버', '새 탭'] 포함된 Chrome 창이 없습니다.
+제목  소액 민사소송절차는
+cookies [{'domain': '.naver.com', 'expiry': 1789629573, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'DIPqBsw36PH9'}, {'domain': '.naver.com', 'expiry': 1755075465, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1755075165'}, {'domain': '.naver.com', 'expiry': 1789635165, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'acIBKXHhsR3PhUtqpxkRX3bOedQXlMFSLTeIIgmRVIo='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'CC602955830E25C3E86A80C48A9A4D7F.jvm1'}, {'domain': '.naver.com', 'expiry': 1755155973, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1755076965, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1755075165'}, {'domain': '.naver.com', 'expiry': 1789635165, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '5N4FPMEFHSOGQ'}, {'domain': '.blog.naver.com', 'expiry': 1789629602, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'd21582e7-c70f-483e-b7ed-208f6863164f'}, {'domain': '.naver.com', 'expiry': 1789629595, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'D0wtF7RSsWnqZTjHUaBUwJX4uHMN6XKMfE1ZR7hW3SNvCYWRZ7nxKKbB4cWy/Nzc'}, {'domain': '.naver.com', 'expiry': 1757661595, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '240736673'}, {'domain': '.naver.com', 'expiry': 1757667162, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABmQ6IH772nErOUKT7SOx5UX4FMvPLlDSGArVJg7DWzCiqQyzQ1wI9B9s6+mqzHhifVX1jIFX/98uMBC+q0i2nuAbdNsaHnONLivvTWAgNifQxri15QpGrQDOgur+b9JIqVVsoIz6DxRvMWAjnANu2kTioV/ja4xRId0W3Eu8eiWp6QM3KIZW7O2u0HcqSq11JzYZ4gdolcbnhMorGOZhbkKlNK51O7rZxL1lQR4T4ra4auecuOF2ckFvjtaG0V8TwGmbO9F5yu+4pq06ptxCKqFOgKzjXmLl5HT4UhQxMB+CY4KJDo7DnojO17fUDmj2gb4LpOY1L/jFl1G5jH0XsG1N6AK2aqYB4XGpRuaWyR8fPqG69KtoaE+Xrx+U1XZHPUnzyggT+p2Veuja2nsv49UXs0If/6dy96zzEo3BujUcOEk3qUkpa1blLQo4G0DNmBEr8iHIUCbCdOOwwQlsW46iTp5jRvjX1ncFf1onmjoQt5J/zv8A+SxuTtlphGRuAqUH1rS2UcRNMC5S4l7uPT18oaB1mFSKu+XAxXvpJ4/EI'}]
+NAC -> DIPqBsw36PH9
+SRT5 -> 1755075165
+BUC -> acIBKXHhsR3PhUtqpxkRX3bOedQXlMFSLTeIIgmRVIo=
+JSESSIONID -> CC602955830E25C3E86A80C48A9A4D7F.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1755075165
+NNB -> 5N4FPMEFHSOGQ
+BA_DEVICE -> d21582e7-c70f-483e-b7ed-208f6863164f
+NID_AUT -> D0wtF7RSsWnqZTjHUaBUwJX4uHMN6XKMfE1ZR7hW3SNvCYWRZ7nxKKbB4cWy/Nzc
+nid_inf -> 240736673
+NID_SES -> AAABmQ6IH772nErOUKT7SOx5UX4FMvPLlDSGArVJg7DWzCiqQyzQ1wI9B9s6+mqzHhifVX1jIFX/98uMBC+q0i2nuAbdNsaHnONLivvTWAgNifQxri15QpGrQDOgur+b9JIqVVsoIz6DxRvMWAjnANu2kTioV/ja4xRId0W3Eu8eiWp6QM3KIZW7O2u0HcqSq11JzYZ4gdolcbnhMorGOZhbkKlNK51O7rZxL1lQR4T4ra4auecuOF2ckFvjtaG0V8TwGmbO9F5yu+4pq06ptxCKqFOgKzjXmLl5HT4UhQxMB+CY4KJDo7DnojO17fUDmj2gb4LpOY1L/jFl1G5jH0XsG1N6AK2aqYB4XGpRuaWyR8fPqG69KtoaE+Xrx+U1XZHPUnzyggT+p2Veuja2nsv49UXs0If/6dy96zzEo3BujUcOEk3qUkpa1blLQo4G0DNmBEr8iHIUCbCdOOwwQlsW46iTp5jRvjX1ncFf1onmjoQt5J/zv8A+SxuTtlphGRuAqUH1rS2UcRNMC5S4l7uPT18oaB1mFSKu+XAxXvpJ4/EI
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=lawyer-info1&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId lawyer-info1
+handles :  ['8860D029A3F2CB08218086FBAE1C3EDE']
+스탑
+브라우저 로그인 체크 1
+IMAGE_PATH_PATH C:\Users\ageln\Desktop\블로그자동화프로그램\이미지-20250514T111023Z-1-001\이미지
+['C:\\Users\\ageln\\Desktop\\블로그자동화프로그램\\이미지-20250514T111023Z-1-001\\이미지\\titled_image.png']
+title_image ['C:\\Users\\ageln\\Desktop\\블로그자동화프로그램\\이미지-20250514T111023Z-1-001\\이미지\\titled_image.png']
+대표 이미지 관련 폴더가 없습니다.
+[]
+----------------------------import --------
+에러메세지
+list index out of range
+타이틀에 ['네이버 : 로그인', '로그인', '네이버', '새 탭'] 포함된 Chrome 창이 없습니다.
+360
+17시 52분 53초
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 0
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 1
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 2
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 3
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 4
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 5
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 6
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 7
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 8
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 9
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 10
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 11
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 12
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 13
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 14
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 15
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 16
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 17
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 18
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 19
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 20
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 21
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 22
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 23
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 24
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 25
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 26
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 27
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 28
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 29
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 30
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 31
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 32
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 33
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 34
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 35
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 36
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 37
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 38
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 39
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 40
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 41
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 42
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 43
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 44
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 45
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 46
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 47
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 48
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 49
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 50
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 51
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 52
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 53
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 54
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 55
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 56
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 57
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 58
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 59
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 60
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 61
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 62
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 63
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 64
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 65
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 66
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 67
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 68
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 69
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 70
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 71
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 72
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 73
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 74
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 75
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 76
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 77
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 78
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 79
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 80
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 81
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 82
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 83
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 84
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 85
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 86
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 87
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 88
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 89
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 90
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 91
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 92
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 93
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 94
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 95
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 96
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 97
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 98
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 99
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 100
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 101
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 102
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 103
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 104
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 105
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 106
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 107
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 108
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 109
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 110
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 111
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 112
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 113
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 114
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 115
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 116
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 117
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 118
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 119
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 120
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 121
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 122
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 123
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 124
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 125
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 126
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 127
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 128
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 129
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 130
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 131
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 132
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 133
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 134
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 135
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 136
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 137
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 138
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 139
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 140
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 141
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 142
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 143
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 144
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 145
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 146
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 147
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 148
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 149
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 150
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 151
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 152
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 153
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 154
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 155
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 156
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 157
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 158
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 159
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 160
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 161
+timeclock_forLoop 360.0
+asdf2 21600
+동작중 162
+시작
+File saved to: C:\Users\ageln\Desktop\블로그자동화프로그램\logfile.txt
