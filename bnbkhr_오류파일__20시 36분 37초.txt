@@ -1,0 +1,401 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\f6ca1122c7174c53ae2da60f53a708ab.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\820d04bbcbd747adbf9bdac1649b9489.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\f364a9a9662c41c988c2e2a08d50be82.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 139
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+모든 mp3 파일 1분 이상 확인(이상없음)
+모드3
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  정원용 벤치 고르기 팁 정원용 벤치 고르기 팁
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['4c']
+selected_elements_raw ['Garden bench choice tips for benches for gardens', '정원용 벤치 고르기 팁 정원용 벤치 고르기 팁', 'offline', 'f4781aa9f1a33aa9cb1639e79945391d', 'ko']
+Garden bench choice tips for benches for gardensoffline
+Garden bench choice tips for benches for gardensoffline
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+image_buffer 4
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  정원용 벤치 고르기 팁 정원용 벤치 고르기 팁
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['4c']
+selected_elements_raw ['Garden bench choice tips for benches for gardens', '정원용 벤치 고르기 팁 정원용 벤치 고르기 팁', 'offline', 'f4781aa9f1a33aa9cb1639e79945391d', 'ko']
+Garden bench choice tips for benches for gardensoffline
+Garden bench choice tips for benches for gardensoffline
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+===
+image_buffer 4
+어느 날 갑자기  
+정원이 예뻐 보여  
+벤치를 놓고 싶어  
+마음이 들었어  
+인터넷을 켜서  
+벤치를 찾아보니  
+종류가 엄청 많아  
+목재, 금속, 플라스틱  
+올바른 선택 위해  
+고민이 생겨나지  
+우선 목재는 따뜻  
+분위기 연출 좋아  
+금속은 내구성 훌륭  
+무게도 꽤 나가지  
+플라스틱은 가벼워  
+관리도 쉽다지만  
+취향과 어울림을  
+고려해야 하겠지  
+색상과 크기 모두  
+장소 맞춤이 중요  
+이리저리 고민 후  
+결국 하나 선택해  
+새로운 정원 풍경  
+기대되어 신나네  
+bgm_length 31.104
+fixed_image Image0.png
+y 191
+y 1671
+fixed_image Image1.png
+y 191
+y 1671
+fixed_image Image2.png
+y 191
+y 1671
+fixed_image Image3.png
+y 191
+y 1671
+fixed_image Image4.png
+y 191
+y 1671
+fixed_image Image5.png
+y 191
+y 1671
+fixed_image Image6.png
+y 191
+y 1671
+fixed_image Image7.png
+y 191
+y 1671
+찾음
+----------------------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc81723+62531]
+	GetHandleVerifier [0x0xc81764+62596]
+	(No symbol) [0x0xac2113]
+	(No symbol) [0x0xb0a8be]
+	(No symbol) [0x0xb0ac5b]
+	(No symbol) [0x0xb533c2]
+	(No symbol) [0x0xb2f464]
+	(No symbol) [0x0xb50bea]
+	(No symbol) [0x0xb2f216]
+	(No symbol) [0x0xafe805]
+	(No symbol) [0x0xaff6a4]
+	GetHandleVerifier [0x0xefc903+2663971]
+	GetHandleVerifier [0x0xef7bba+2644186]
+	GetHandleVerifier [0x0xca867a+222106]
+	GetHandleVerifier [0x0xc98798+156856]
+	GetHandleVerifier [0x0xc9f10d+183853]
+	GetHandleVerifier [0x0xc896f8+95256]
+	GetHandleVerifier [0x0xc89882+95650]
+	GetHandleVerifier [0x0xc7492a+9802]
+	BaseThreadInitThunk [0x0x7583fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x777a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x777a827e+238]
+
+timeclock .!entry4
+asdf 900
+동작중 0
+timeclock .!entry4
+asdf 900
+동작중 1
+timeclock .!entry4
+asdf 900
+동작중 2
+timeclock .!entry4
+asdf 900
+동작중 3
+timeclock .!entry4
+asdf 900
+동작중 4
+timeclock .!entry4
+asdf 900
+동작중 5
+timeclock .!entry4
+asdf 900
+동작중 6
+timeclock .!entry4
+asdf 900
+동작중 7
+timeclock .!entry4
+asdf 900
+동작중 8
+timeclock .!entry4
+asdf 900
+동작중 9
+timeclock .!entry4
+asdf 900
+동작중 10
+timeclock .!entry4
+asdf 900
+동작중 11
+timeclock .!entry4
+asdf 900
+동작중 12
+timeclock .!entry4
+asdf 900
+동작중 13
+timeclock .!entry4
+asdf 900
+동작중 14
+timeclock .!entry4
+asdf 900
+동작중 15
+timeclock .!entry4
+asdf 900
+동작중 16
+timeclock .!entry4
+asdf 900
+동작중 17
+timeclock .!entry4
+asdf 900
+동작중 18
+timeclock .!entry4
+asdf 900
+동작중 19
+timeclock .!entry4
+asdf 900
+동작중 20
+timeclock .!entry4
+asdf 900
+동작중 21
+timeclock .!entry4
+asdf 900
+동작중 22
+timeclock .!entry4
+asdf 900
+동작중 23
+timeclock .!entry4
+asdf 900
+동작중 24
+timeclock .!entry4
+asdf 900
+동작중 25
+timeclock .!entry4
+asdf 900
+동작중 26
+timeclock .!entry4
+asdf 900
+동작중 27
+timeclock .!entry4
+asdf 900
+동작중 28
+timeclock .!entry4
+asdf 900
+동작중 29
+timeclock .!entry4
+asdf 900
+동작중 30
+timeclock .!entry4
+asdf 900
+동작중 31
+timeclock .!entry4
+asdf 900
+동작중 32
+timeclock .!entry4
+asdf 900
+동작중 33
+timeclock .!entry4
+asdf 900
+동작중 34
+timeclock .!entry4
+asdf 900
+동작중 35
+timeclock .!entry4
+asdf 900
+동작중 36
+timeclock .!entry4
+asdf 900
+동작중 37
+timeclock .!entry4
+asdf 900
+동작중 38
+timeclock .!entry4
+asdf 900
+동작중 39
+timeclock .!entry4
+asdf 900
+동작중 40
+timeclock .!entry4
+asdf 900
+동작중 41
+timeclock .!entry4
+asdf 900
+동작중 42
+timeclock .!entry4
+asdf 900
+동작중 43
+timeclock .!entry4
+asdf 900
+동작중 44
+timeclock .!entry4
+asdf 900
+동작중 45
+timeclock .!entry4
+asdf 900
+동작중 46
+timeclock .!entry4
+asdf 900
+동작중 47
+timeclock .!entry4
+asdf 900
+동작중 48
+timeclock .!entry4
+asdf 900
+동작중 49
+timeclock .!entry4
+asdf 900
+동작중 50
+timeclock .!entry4
+asdf 900
+동작중 51
+timeclock .!entry4
+asdf 900
+동작중 52
+timeclock .!entry4
+asdf 900
+동작중 53
+timeclock .!entry4
+asdf 900
+동작중 54
+timeclock .!entry4
+asdf 900
+동작중 55
+timeclock .!entry4
+asdf 900
+동작중 56
+timeclock .!entry4
+asdf 900
+동작중 57
+timeclock .!entry4
+asdf 900
+동작중 58
+timeclock .!entry4
+asdf 900
+동작중 59
+timeclock .!entry4
+asdf 900
+동작중 60
+timeclock .!entry4
+asdf 900
+동작중 61
+timeclock .!entry4
+asdf 900
+동작중 62
+timeclock .!entry4
+asdf 900
+동작중 63
+timeclock .!entry4
+asdf 900
+동작중 64
+timeclock .!entry4
+asdf 900
+동작중 65
+timeclock .!entry4
+asdf 900
+동작중 66
+timeclock .!entry4
+asdf 900
+동작중 67
+timeclock .!entry4
+asdf 900
+동작중 68
+timeclock .!entry4
+asdf 900
+동작중 69
+timeclock .!entry4
+asdf 900
+동작중 70
+timeclock .!entry4
+asdf 900
+동작중 71
+timeclock .!entry4
+asdf 900
+동작중 72
+timeclock .!entry4
+asdf 900
+동작중 73
+timeclock .!entry4
+asdf 900
+동작중 74
+timeclock .!entry4
+asdf 900
+동작중 75
+시작
+File saved to: C:\Users\user\Desktop\최신쇼츠5.14일\쇼츠 프로그램1\logfile.txt
