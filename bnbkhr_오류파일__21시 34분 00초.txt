@@ -1,0 +1,25 @@
+config_dir C:\Users\user\AppData\Local\MyApp
+현재 설정: {'username': 'bnbkhr', 'password': 'bnbkhr'}
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\a8a5857602ed42588ffcdc9972b7e4eb.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\9fb91a978425448cb0cd6fc01231101b.pyd
+Running main() from the .pyd file...
+Captured output: 139
+최신 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\7d7e0ef711364a63ae3af6e4dcc005d2.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 139
+내 드라이버 버전 :: 139
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+File saved to: C:\Users\user\Desktop\최신쇼츠5.14일\쇼츠 프로그램1\logfile.txt
