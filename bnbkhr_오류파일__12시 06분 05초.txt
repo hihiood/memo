@@ -1,0 +1,428 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3569c10485a1474b8557d63a9835c8e9.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\0545d53786f34205888b417aec5c85f5.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\8525e76cc6b34a16b4dbad869873b5d4.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 138
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7205.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
+
+--- Captured Logs ---
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3569c10485a1474b8557d63a9835c8e9.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\0545d53786f34205888b417aec5c85f5.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\8525e76cc6b34a16b4dbad869873b5d4.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 138
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7205.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
+
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\b855e75b53e045b994722bcb6a8b236d.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\bc20a964f3d1411b83caae57c59e3a59.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\fd4a6b9fb9c9441ba62487d96e0464d7.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 139
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\bec3c96f94a6489694667522489245f5.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\57975f6f4a1d4e17bb6269cdde4079cf.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\694672603a304e7d842cc2660d31fe1f.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 139
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7259.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
+
+--- Captured Logs ---
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3569c10485a1474b8557d63a9835c8e9.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\0545d53786f34205888b417aec5c85f5.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\8525e76cc6b34a16b4dbad869873b5d4.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 138
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7205.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
+
+--- Captured Logs ---
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3569c10485a1474b8557d63a9835c8e9.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\0545d53786f34205888b417aec5c85f5.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\8525e76cc6b34a16b4dbad869873b5d4.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 138
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7205.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
+
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\b855e75b53e045b994722bcb6a8b236d.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 크롬 버전 :: 139
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\bc20a964f3d1411b83caae57c59e3a59.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\fd4a6b9fb9c9441ba62487d96e0464d7.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 139
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 139
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\bec3c96f94a6489694667522489245f5.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\57975f6f4a1d4e17bb6269cdde4079cf.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\694672603a304e7d842cc2660d31fe1f.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 139
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7259.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\msi\OneDrive\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\msi\OneDrive\temp_chromedriver
+Existing ChromeDriver found at C:\Users\msi\OneDrive\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\msi\OneDrive\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\msi\OneDrive
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
+
+DB access----success!!
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\c1c2eb6f9fc04bfab29b493601a367cb.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\d0006d77cb1e486089a9a5407f0b2190.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\2be6dd75ccd44de9b1314b40e3748166.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 드라이버 버전 :: 140
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 140
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: C:\Users\msi\OneDrive\logfile.txt
