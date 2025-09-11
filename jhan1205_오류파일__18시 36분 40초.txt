@@ -1,0 +1,42 @@
+chatGPT1
+맨아래
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\8946b7fb7ade4daabad5da935dcb84ae.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\e09df6ecf0ec4ad7a9b74774f9411b8b.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\AD\AppData\Local\Temp\dceaffb0cc9a4270a4e18314e9cfdb2c.pyd
+Running main() from the .pyd file...
+Captured output: 139
+내 드라이버 버전 :: 139
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 139
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7259.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: C:\Users\AD\Desktop\새 폴더\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to C:\Users\AD\Desktop\새 폴더\temp_chromedriver
+Existing ChromeDriver found at C:\Users\AD\Desktop\새 폴더\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted C:\Users\AD\Desktop\새 폴더\chromedriver.exe
+ChromeDriver copied and moved to current folder: C:\Users\AD\Desktop\새 폴더
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\AD\Desktop\새 폴더\logfile.txt
