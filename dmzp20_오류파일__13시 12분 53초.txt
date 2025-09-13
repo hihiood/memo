@@ -1,0 +1,30 @@
+DB access----success!!
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\41bd843ba1e0406f90b6abc980a2c55a.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\3228f8473b8b422abfa5105d2c820a55.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\506738639a8d45848c395c3ebd2cc7fb.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 드라이버 버전 :: 140
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 140
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+1분 이하 mp3 파일 존재 ::  {'책_넘기는_소리.mp3', '감수성(가요이므로 쓰려면 앞에 몇 초만 살짝 사용).mp3'}
+시작
+File saved to: C:\Users\Admin\Desktop\프로그램\5.쇼츠 자동화 키워드 포스팅\logfile.txt
