@@ -1,0 +1,52 @@
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\027e5658795d4c639d9803c8d2a314c9.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\65a66d5a9c904a5ebe9ea074e5bc0f8d.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+chatGPT1
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\af28a5599db24a01a200a6ed89d9da3f.pyd
+Running main() from the .pyd file...
+맨위
+Captured output: 140
+내 드라이버 버전 :: 140
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 140
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\28644d308a994362bbdc698eaa6e7cf0.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\8f4818ab4634454ab662c48504184062.pyd
+Running main() from the .pyd file...
+Captured output: 140
+최신 크롬 버전 :: 140
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\e01ba7d86a06450aba6f1ba8937ee789.pyd
+Running main() from the .pyd file...
+Captured output: 140
+내 드라이버 버전 :: 140
+=========================================
+내 크롬 버전 :: 140
+최신 크롬 버전 :: 140
+내 드라이버 버전 :: 140
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
