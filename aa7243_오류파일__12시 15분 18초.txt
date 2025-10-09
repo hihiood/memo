@@ -1,0 +1,46 @@
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+2
+0    쏘울터치 부천피부관리
+1    쏘울터치 부천피부관리
+Name: 작업 매장, dtype: object
+IP 변경중...
+
+변경된 IP : 183.78.130.136
+
+더보기
+머지???
+부천여드름피부관리
+부천여드름피부관리 더보기
+머지???
+부천여드름피부관리
+이미지
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+--------------total error-------import --------
+에러메세지
+IP 변경중...
+
+변경된 IP : 49.254.141.204
+
+시작
+File saved to: C:\Users\royalcomputer\Downloads\플레이스\logfile.txt
