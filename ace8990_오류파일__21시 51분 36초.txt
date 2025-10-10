@@ -1,0 +1,2857 @@
+----------------------------import --------
+에러메세지44
+'username'
+GPT-3.5
+중간
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\726ebf15325142778e0f9e571b1abd7c.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\2eaf75b4f7424d44acb68f231275260a.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\945dd8293ff2436788a1bf113f234366.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\d993fd844c9d4ea0a6c6afeaeb9580c3.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\db59528938c74e4da845d349307234e2.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\8e7d42e694bf4253befdc2b2dc685017.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\094b72ded09747ed917245eede3ffc52.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\301cbf16c8ea4227bf39c385ef37aad9.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\temp\c4e2bda60d9a4b4a81a5a6c1e14f8599.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기
+title 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기
+구토, 설사로 인한 탈수 예방: 이온음료와 보리차를 미지근하게 마시기
+title 구토, 설사로 인한 탈수 예방: 이온음료와 보리차를 미지근하게 마시기
+미음과 맑은 유동식으로 시작하기: 장 점막에 부담을 주지 않는 방법
+title 미음과 맑은 유동식으로 시작하기: 장 점막에 부담을 주지 않는 방법
+염분과 칼륨 보충을 위한 맑은 육수 섭취와 소량씩 자주 먹는 원칙
+title 염분과 칼륨 보충을 위한 맑은 육수 섭취와 소량씩 자주 먹는 원칙
+정수기 물 대신 전해질이 포함된 음료를 마셔야 하는 이유
+title 정수기 물 대신 전해질이 포함된 음료를 마셔야 하는 이유
+흰죽, 쌀죽으로 식사 단계 천천히 올리기: 잡곡 대신 흰쌀을 고집해야 하는 이유
+title 흰죽, 쌀죽으로 식사 단계 천천히 올리기: 잡곡 대신 흰쌀을 고집해야 하는 이유
+단백질 보충을 위한 저지방 음식: 흰살 생선, 두부, 계란찜 조리법
+title 단백질 보충을 위한 저지방 음식: 흰살 생선, 두부, 계란찜 조리법
+채소는 푹 익히거나 데쳐서 먹기: 부드러운 채소 (애호박, 버섯, 양배추) 위주 섭취
+title 채소는 푹 익히거나 데쳐서 먹기: 부드러운 채소 (애호박, 버섯, 양배추) 위주 섭취
+바나나와 으깬 감자: 설사로 인한 칼륨 손실 보충과 펙틴 성분의 장 기능 개선 효과
+title 바나나와 으깬 감자: 설사로 인한 칼륨 손실 보충과 펙틴 성분의 장 기능 개선 효과
+양배추의 비타민 U, K: 위 점막 보호 효과로 위장 질환에 좋은 이유
+title 양배추의 비타민 U, K: 위 점막 보호 효과로 위장 질환에 좋은 이유
+매실차의 강력한 살균/해독 효과: 설사 완화와 독성 물질 분해 작용
+title 매실차의 강력한 살균/해독 효과: 설사 완화와 독성 물질 분해 작용
+바실러스균이 풍부한 된장죽: 장내 미생물 환경 회복과 면역력 증진
+title 바실러스균이 풍부한 된장죽: 장내 미생물 환경 회복과 면역력 증진
+생강차의 항염증 작용과 소화 기능 개선: 장염 증상을 다스리는 방법
+title 생강차의 항염증 작용과 소화 기능 개선: 장염 증상을 다스리는 방법
+설사와 탈수를 유발하는 단당류와 카페인 음료 (콜라, 사이다, 커피)
+title 설사와 탈수를 유발하는 단당류와 카페인 음료 (콜라, 사이다, 커피)
+장 점막을 자극하는 유제품: 생우유, 요구르트, 아이스크림을 피해야 하는 기간
+title 장 점막을 자극하는 유제품: 생우유, 요구르트, 아이스크림을 피해야 하는 기간
+소화 불량과 설사를 악화시키는 지방과 기름진 음식 (치킨, 튀김, 삼겹살)
+title 소화 불량과 설사를 악화시키는 지방과 기름진 음식 (치킨, 튀김, 삼겹살)
+가스를 유발하고 소화가 어려운 잡곡, 생채소, 해조류, 견과류
+title 가스를 유발하고 소화가 어려운 잡곡, 생채소, 해조류, 견과류
+설사가 멈춘 후에도 일반식을 천천히 시작해야 하는 이유와 재발 방지
+title 설사가 멈춘 후에도 일반식을 천천히 시작해야 하는 이유와 재발 방지
+장염 후 섭취를 고려해야 할 복합 프로바이오틱스: 장내 미생물 회복 돕기
+title 장염 후 섭취를 고려해야 할 복합 프로바이오틱스: 장내 미생물 회복 돕기
+평소 위장 기능 강화에 좋은 호박, 토마토를 꾸준히 섭취하는 습관
+title 평소 위장 기능 강화에 좋은 호박, 토마토를 꾸준히 섭취하는 습관
+전체 키워드 개수 :
+엑셀 개수 3
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+DB access----success!!
+1--now_device_check A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+1--device_check_DB A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+operate_check DB access----success!!
+DB access----success!!
+23now_device_check A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+23device_check_DB A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+지금 아이디 :
+excel_counter 0
+kkung0324
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours', '장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기', 'ko']
+Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours
+Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours
+===
+확인
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Silver coin with an smiling cat, words 5 catnips
+===
+lock_open_right
+lock_open_right
+===
+모델
+최고 품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+close
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+수집된 텍스트: al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+--->수집된 텍스트22: 이미지 생성 al in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+--->a 길이22 :  306
+--->텍스트 길이22 :  270
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours', '장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기', 'ko']
+Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours
+Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of a cat floating in space wearing an astronaut suit, with the earth in the background
+===
+lock_open_right
+lock_open_right
+===
+모델
+최고 품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: create image[[Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 3
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours', '장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기 장염 초기 금식이 필수인 이유와 12~24시간 동안 장 휴식 주기', 'ko']
+Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours
+Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+photorealistic woman wearing a hat of frogs, collared shirt
+===
+lock_open_right
+lock_open_right
+===
+모델
+최고 품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: create image[[Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours Why fasting is essential in the early stages of enteritis and giving intestinal rest for 12 to 24 hours]]  please related image please make image png file or jpg file with image generator 
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 3
+이미지 존재함
+IMAGE_PATH_PATH C:\blog\image
+image_file Image0.png
+img_sub_send 475800
+체크------이미지
+체크22------이미지
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+origin*********!!!!!!!!!!!!!!!!!!!!!***************html-buffer3
+ 
+바드1111111111111111111111111111111111111
+<class 'str'>
+GPT안에서  
+h2 맨드는 중...................
+장염 초기 치료 방법과 금식의 중요성에 대해 알아보자
+returnbuffer 장염 초기 치료 방법과 금식의 중요성에 대해 알아보자
+buffer3_h2 장염 초기 치료 방법과 금식의 중요성에 대해 알아보자
+<class 'str'>
+GPT안에서  
+realkey 장염
+realkey2 초기
+realkey3 금식
+realkey4 필수인
+must_excel_1 장염
+must_excel_2 초기
+must_excel_3 금식
+must_excel_4 필수인
+----------------------------import --------
+에러메세지
+check_word_length 650
+len(kkq) 1
+DB access----success!!
+23now_device_check A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+23device_check_DB A4C14D56-F1AC-CED5-9F16-BF55D78E8742
+지금 아이디 :
+excel_counter 1
+mymini325
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  구토, 설사로 인한 탈수 예방: 이온음료와 보리차를 미지근하게 마시기 구토, 설사로 인한 탈수 예방: 이온음료와 보리차를 미지근하게 마시기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Prevent dehydration due to vomiting and diarrhea: Drink isotonic beverages and barley tea lukewarm Prevent dehydration due to vomiting and diarrhea: Drink ionic beverages and barley tea lukewarm', '구토, 설사로 인한 탈수 예방: 이온음료와 보리차를 미지근하게 마시기 구토, 설사로 인한 탈수 예방: 이온음료와 보리차를 미지근하게 마시기', 'ko']
+Prevent dehydration due to vomiting and diarrhea: Drink isotonic beverages and barley tea lukewarm Prevent dehydration due to vomiting and diarrhea: Drink ionic beverages and barley tea lukewarm
+Prevent dehydration due to vomiting and diarrhea: Drink isotonic beverages and barley tea lukewarm Prevent dehydration due to vomiting and diarrhea: Drink ionic beverages and barley tea lukewarm
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Close-up photo of a spider spinning its web, showcasing the intricate details and delicate threads, with an emphasis on the textures and colors of the web
+===
+lock_open_right
+lock_open_right
+===
+모델
+최고 품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: create image[[Prevent dehydration due to vomiting and diarrhea: Drink isotonic beverages and barley tea lukewarm Prevent dehydration due to vomiting and diarrhea: Drink ionic beverages and barley tea lukewarm]]  please related image please make image png file or jpg file with image generator 
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+시작
+File saved to: C:\blog\네이버 블로그\logfile.txt
