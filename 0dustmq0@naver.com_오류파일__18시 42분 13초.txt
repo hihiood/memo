@@ -1,0 +1,29 @@
+2
+3
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+2
+0    테디뵈르하우스 롯데월드몰점
+1    테디뵈르하우스 롯데월드몰점
+Name: 작업 매장, dtype: object
+--------------total error-------import --------
+에러메세지
+--------------total error-------import --------
+에러메세지
+시작
+File saved to: C:\Users\나\Desktop\라오 프로그램\네이버플레이스\유효타\logfile.txt
