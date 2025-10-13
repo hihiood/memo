@@ -1,0 +1,79 @@
+chatGPT1
+맨위
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
+
+--- Captured Logs ---
+chatGPT1
+맨위
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
+
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
+
+--- Captured Logs ---
+chatGPT1
+맨위
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
+
+--- Captured Logs ---
+chatGPT1
+맨위
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
+
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
+
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\4c2fdf84daee4585b421b6304d2da6d8.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\7efdce88878942b2ac8c50f9e4ce6e4d.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\8a37ce259139483dbcb43668b60d1868.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\42e72402ea9c4a69b27eb1392755c17a.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\112378854c0545f38e4cecbbfbd2e9ac.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\2ed5a97fe676440384d22e0308461f4d.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
