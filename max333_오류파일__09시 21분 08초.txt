@@ -1,0 +1,98 @@
+buffers_g ['', '', '', '', '']
+시작
+realID max333
+realPW Kukjin1001!!
+로그인 성공
+모드4
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+7
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+클립
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+클립
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+클립
+---여기
+쇼핑
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='192.168.219.107', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000241DF966BF0>, 'Connection to 192.168.219.107 timed out. (connect timeout=None)'))
+---------captcha-------import --------
+에러메세지
+local variable 'response' referenced before assignment
+----
+영수증 캡차 
+* recording
+시작
+File saved to: C:\Users\royalcomputer\Desktop\Marketing\logfile.txt
