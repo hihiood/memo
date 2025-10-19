@@ -1,0 +1,321 @@
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3ce6dd8f8d8c435b8031fb106365f31e.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\b2cd6176640547d4a180cd47d0faf067.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\5f7fcdd3bd6c4304a9a24ac7b8643e98.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 138
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7340.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to D:\희래쇼츠7.1\쇼츠 프로그램1\temp_chromedriver
+Existing ChromeDriver found at D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe
+ChromeDriver copied and moved to current folder: D:\희래쇼츠7.1\쇼츠 프로그램1
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+DB access----success!!
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
+
+--- Captured Logs ---
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3ce6dd8f8d8c435b8031fb106365f31e.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\b2cd6176640547d4a180cd47d0faf067.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\5f7fcdd3bd6c4304a9a24ac7b8643e98.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 138
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7340.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to D:\희래쇼츠7.1\쇼츠 프로그램1\temp_chromedriver
+Existing ChromeDriver found at D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe
+ChromeDriver copied and moved to current folder: D:\희래쇼츠7.1\쇼츠 프로그램1
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+DB access----success!!
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
+
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\c5dc0bea0e9946e08153ea625b1ff906.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\811c132d084d4553b5d03829313ce5c9.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\629ee6a0c1f84784a5240f4c33bfe938.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+DB access----success!!
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
+
+--- Captured Logs ---
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3ce6dd8f8d8c435b8031fb106365f31e.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\b2cd6176640547d4a180cd47d0faf067.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\5f7fcdd3bd6c4304a9a24ac7b8643e98.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 138
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7340.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to D:\희래쇼츠7.1\쇼츠 프로그램1\temp_chromedriver
+Existing ChromeDriver found at D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe
+ChromeDriver copied and moved to current folder: D:\희래쇼츠7.1\쇼츠 프로그램1
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+DB access----success!!
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
+
+--- Captured Logs ---
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\3ce6dd8f8d8c435b8031fb106365f31e.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\b2cd6176640547d4a180cd47d0faf067.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\5f7fcdd3bd6c4304a9a24ac7b8643e98.pyd
+Running main() from the .pyd file...
+Captured output: 138
+내 드라이버 버전 :: 138
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 138
+드라이버 업데이트 필요
+Found Chromedriver: .\chromedriverNew10.exe
+Chromedriver executed successfully!
+Output:
+ Downloading ChromeDriver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7340.0/win32/chromedriver-win32.zip...
+Download complete! Saved at: D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.zip
+ZIP Contents: ['chromedriver-win32/LICENSE.chromedriver', 'chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver', 'chromedriver-win32/chromedriver.exe']
+Files extracted to D:\희래쇼츠7.1\쇼츠 프로그램1\temp_chromedriver
+Existing ChromeDriver found at D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe, attempting to delete.
+Any running chromedriver.exe processes were terminated.
+Successfully deleted D:\희래쇼츠7.1\쇼츠 프로그램1\chromedriver.exe
+ChromeDriver copied and moved to current folder: D:\희래쇼츠7.1\쇼츠 프로그램1
+Setup complete! ChromeDriver is ready to use.
+
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+DB access----success!!
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
+
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\c5dc0bea0e9946e08153ea625b1ff906.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\811c132d084d4553b5d03829313ce5c9.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\629ee6a0c1f84784a5240f4c33bfe938.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+DB access----success!!
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
+
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\2d9ef37ae8b04bc9903a7d9a97a4fdf7.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\c2f1fd8df8e24b0fa9d7980d2d730bfa.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\msi\AppData\Local\Temp\a55fa0d61f5c444795dbb4092fd6cc4d.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+folder_to_check C:\Users\msi\chromeCookie\Profile chatGPT1\Default
+손상된 프로필 삭제 완료: C:\Users\msi\chromeCookie\Profile chatGPT1
+{insertreplycomment2.get()} chatGPT1
+시작
+DB access----success!!
+===================시작==================
+로그인 성공
+printed_warnings set()
+시작
+File saved to: D:\희래쇼츠7.1\쇼츠 프로그램1\logfile.txt
