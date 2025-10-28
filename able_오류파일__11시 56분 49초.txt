@@ -1,0 +1,909 @@
+DOCS_modelChunk not found.
+An error occurred: 
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\497571695983417b81631f01cdb3564c.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\e8ad2f3e3b7e426c94f324f786f9b6e3.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\25195a6a750e40df90907ce739f92663.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\f1c08dbe55454baba0410cf052af4243.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\f215459c04a4421bbd19e95646127179.pyd
+Running main() from the .pyd file...
+Captured output: 141
+최신 크롬 버전 :: 141
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\dfe01c64ae9949228d0e6effdc646a54.pyd
+Running main() from the .pyd file...
+Captured output: 141
+내 드라이버 버전 :: 141
+=========================================
+내 크롬 버전 :: 141
+최신 크롬 버전 :: 141
+내 드라이버 버전 :: 141
+서초구 방문요양 신청하기
+title 서초구 방문요양 신청하기
+강남구 방문요양 신청하기
+title 강남구 방문요양 신청하기
+송파구 방문요양 신청하기
+title 송파구 방문요양 신청하기
+강동구 방문요양 신청하기
+title 강동구 방문요양 신청하기
+동작구 방문요양 신청하기
+title 동작구 방문요양 신청하기
+관악구 방문요양 신청하기
+title 관악구 방문요양 신청하기
+영등포구 방문요양 신청하기
+title 영등포구 방문요양 신청하기
+강서구 방문요양 신청하기
+title 강서구 방문요양 신청하기
+양천구 방문요양 신청하기
+title 양천구 방문요양 신청하기
+구로구 방문요양 신청하기
+title 구로구 방문요양 신청하기
+금천구 방문요양 신청하기
+title 금천구 방문요양 신청하기
+종로구 방문요양 신청하기
+title 종로구 방문요양 신청하기
+중구 방문요양 신청하기
+title 중구 방문요양 신청하기
+동대문구 방문요양 신청하기
+title 동대문구 방문요양 신청하기
+중랑구 방문요양 신청하기
+title 중랑구 방문요양 신청하기
+마포구 방문요양 신청하기
+title 마포구 방문요양 신청하기
+용산구 방문요양 신청하기
+title 용산구 방문요양 신청하기
+성동구 방문요양 신청하기
+title 성동구 방문요양 신청하기
+광진구 방문요양 신청하기
+title 광진구 방문요양 신청하기
+은평구 방문요양 신청하기
+title 은평구 방문요양 신청하기
+서대문구 방문요양 신청하기
+title 서대문구 방문요양 신청하기
+성북구 방문요양 신청하기
+title 성북구 방문요양 신청하기
+강북구 방문요양 신청하기
+title 강북구 방문요양 신청하기
+도봉구 방문요양 신청하기
+title 도봉구 방문요양 신청하기
+노원구 방문요양 신청하기
+title 노원구 방문요양 신청하기
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+전체 키워드 개수 :
+엑셀 개수 1
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+DB access----success!!
+1--now_device_check 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+1--device_check_DB 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+operate_check DB access----success!!
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+hihiy00
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+Image_fx.jpg 파일이 titled_image.png로 저장되었습니다.
+IMAGE_PATH_PATH C:\Users\HOME\Desktop\자동프로그햄\네이버블로그\image_fx
+image_file titled_image.png
+img_sub_send 1873060
+체크------이미지
+체크22------이미지
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="e3f609be3673b9f6d2614f41b5fabcdb")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-6900282ac9d08191a9607c3a3c055010-keeomaeci-jaeganoinbogjisenteo']
+ID_gmemo https://chatgpt.com/g/g-6900282ac9d08191a9607c3a3c055010-keeomaeci-jaeganoinbogjisenteo
+체크4
+현재 URL: https://chatgpt.com/g/g-6900282ac9d08191a9607c3a3c055010-keeomaeci-jaeganoinbogjisenteo
+수집된 텍스트: 주제 : 방문요양 신청하는 방법이 알고싶어요장기요양등급 발급 도움을 받고싶어요방문요양 본인부담금에 관해 알고싶어요
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9cfe43+66515]
+	GetHandleVerifier [0x0x9cfe84+66580]
+	(No symbol) [0x0x7bdc48]
+	(No symbol) [0x0x808704]
+	(No symbol) [0x0x808aab]
+	(No symbol) [0x0x84f482]
+	(No symbol) [0x0x82b214]
+	(No symbol) [0x0x84cba7]
+	(No symbol) [0x0x82afc6]
+	(No symbol) [0x0x7fc2ca]
+	(No symbol) [0x0x7fd154]
+	GetHandleVerifier [0x0xc27353+2521315]
+	GetHandleVerifier [0x0xc222d3+2500707]
+	GetHandleVerifier [0x0x9f7c94+229924]
+	GetHandleVerifier [0x0x9e81f8+165768]
+	GetHandleVerifier [0x0x9eecad+193085]
+	GetHandleVerifier [0x0x9d8158+100072]
+	GetHandleVerifier [0x0x9d82f0+100480]
+	GetHandleVerifier [0x0x9c25aa+11066]
+	BaseThreadInitThunk [0x0x7652fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776782ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7767827e+238]
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<방문요양신청 방법과 장기요양등급 발급·본인부담금 완벽 가이드>>]]^^엔터^^방문요양은 혼자서 일상생활을 유지하기 어려운 어르신께 요양보호사가 정기적으로 방문하여 돌봄 서비스를 제공하는 제도입니다. 하지만 방문요양을 이용하기 위해서는 반드시 장기요양등급 신청 및 인정 절차를 거쳐야 하며, 등급 판정에 따라 본인부담금이 달라집니다. 이번 글에서는 방문요양을 신청하는 방법, 장기요양등급 발급 절차, 그리고 본인부담금에 대한 상세 내용을 단계별로 안내드립니다.^^엔터^^방문요양을 이용하기 위해서는 **국민건강보험공단(이하 건보공단)**에 ‘장기요양인정신청’을 해야 합니다. 신청은 어르신 본인 또는 가족, 보호자, 복지센터 담당자가 대신할 수도 있습니다.^^엔터^^📌 신청 방법^^엔터^^방문 신청: 가까운 국민건강보험공단 지사 방문^^엔터^^전화 신청: 공단 고객센터(1577-1000)에 전화 후 접수^^엔터^^팩스·우편 신청: 관련 서류를 작성 후 공단으로 송부^^엔터^^📌 준비 서류^^엔터^^장기요양인정신청서 (공단 양식)^^엔터^^신분증 사본^^엔터^^의료기관의 진단서 또는 소견서 (치매, 중풍 등 관련 질환이 있다면 첨부 시 유리)^^엔터^^신청 후 공단 직원이 직접 가정에 방문하여 어르신의 상태를 조사합니다.^^엔터^^
+조사는 신체활동 능력(세수, 옷입기, 식사, 배변 등), 인지상태, 행동변화 등을 평가하는데, 이를 ‘장기요양 인정조사’라고 합니다.^^엔터^^조사가 끝나면 ‘장기요양등급판정위원회’에서 종합 점수를 바탕으로 등급을 결정합니다.^^엔터^^
+등급은 다음과 같습니다.^^엔터^^1등급: 전적으로 도움 필요 (가장 중증)^^엔터^^2등급: 대부분의 일상에 도움이 필요한 경우^^엔터^^3등급: 부분적인 도움 필요^^엔터^^4등급: 일상생활의 일부에서 도움 필요^^엔터^^5등급: 치매 등 인지저하 중심의 경증 대상자^^엔터^^인지지원등급: 신체 기능은 유지되나 치매 등 인지기능 저하가 있는 경우^^엔터^^등급 결과는 보통 신청 후 30일 이내에 우편 또는 문자로 통보됩니다.^^엔터^^
+이때 등급이 확정되면 어르신은 바로 방문요양 서비스를 이용할 자격을 얻게 됩니다.^^엔터^^등급이 나온 후에는 요양서비스 제공기관을 선택해야 합니다.^^엔터^^
+예를 들어 케어매치+재가노인복지센터와 같은 전문 재가복지센터를 통해 서비스를 신청하면,^^엔터^^
+센터 담당자가 어르신의 건강상태, 가정환경, 생활습관 등을 종합적으로 평가하여^^엔터^^
+가장 적합한 요양보호사를 연결해드립니다.^^엔터^^센터에서는^^엔터^^방문요양 (식사, 청소, 세면, 말벗 등)^^엔터^^방문목욕^^엔터^^복지용구(보행기, 침대 등)^^엔터^^
+등의 서비스를 맞춤형으로 연계해드립니다.^^엔터^^장기요양등급이 확정되면, 어르신은 건강보험 혜택을 통해 요양비 대부분을 지원받게 됩니다.^^엔터^^
+이때 본인이 부담해야 하는 금액은 15% 이하로 매우 낮습니다.^^엔터^^📌 본인부담금 비율 예시^^엔터^^일반 대상자: 15%^^엔터^^기초생활수급자: 0% (전액 지원)^^엔터^^차상위계층: 7.5%^^엔터^^예를 들어 월 100만 원 상당의 방문요양 서비스를 이용하신다면,^^엔터^^
+일반 어르신은 약 15만 원만 부담하면 됩니다.^^엔터^^또한, 소득 수준이나 가정 형편에 따라 본인부담금 경감제도도 있으니^^엔터^^
+케어매치+재가노인복지센터 상담을 통해 자세히 안내받을 수 있습니다.^^엔터^^케어매치+재가노인복지센터에서는^^엔터^^
+장기요양등급 신청에서부터 요양보호사 연결까지 전 과정을 원스톱으로 지원합니다.^^엔터^^✔ 장기요양등급신청 서류 준비 및 공단 접수 대행^^엔터^^
+✔ 방문조사 대비 및 평가 항목 안내^^엔터^^
+✔ 등급 결과 확인 및 이의신청 도움^^엔터^^
+✔ 맞춤형 요양보호사 배정^^엔터^^
+✔ 방문목욕, 복지용구 등 추가 서비스 연계^^엔터^^즉, 어르신과 가족이 복잡한 절차로 스트레스 받지 않도록^^엔터^^
+전담요원이 처음부터 끝까지 함께합니다.^^엔터^^방문요양 신청은 어렵지 않습니다.^^엔터^^
+다만 장기요양등급신청을 먼저 해야 한다는 점만 기억하시면 됩니다.^^엔터^^
+케어매치+재가노인복지센터는 어르신의 신체·인지 상태를 세심히 고려하여^^엔터^^
+가장 적합한 등급신청 및 요양서비스 이용을 도와드리고 있습니다.^^엔터^^📞 지금 바로 전화 한 통으로 상담 가능합니다.^^엔터^^
+케어매치+재가노인복지센터 고객상담: 1555-0804^^엔터^^어르신의 편안한 일상과 가족의 돌봄 부담 완화를 위해,^^엔터^^
+케어매치가 든든한 동반자가 되어드리겠습니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 방문요양신청 방법과 장기요양등급 발급·본인부담금 완벽 가이드
+text2: ^^엔터^^^^엔터^^방문요양은 혼자서 일상생활을 유지하기 어려운 어르신께 요양보호사가 정기적으로 방문하여 돌봄 서비스를 제공하는 제도입니다. 하지만 방문요양을 이용하기 위해서는 반드시 장기요양등급 신청 및 인정 절차를 거쳐야 하며, 등급 판정에 따라 본인부담금이 달라집니다. 이번 글에서는 방문요양을 신청하는 방법, 장기요양등급 발급 절차, 그리고 본인부담금에 대한 상세 내용을 단계별로 안내드립니다.^^엔터^^방문요양을 이용하기 위해서는 **국민건강보험공단(이하 건보공단)**에 ‘장기요양인정신청’을 해야 합니다. 신청은 어르신 본인 또는 가족, 보호자, 복지센터 담당자가 대신할 수도 있습니다.^^엔터^^📌 신청 방법^^엔터^^방문 신청: 가까운 국민건강보험공단 지사 방문^^엔터^^전화 신청: 공단 고객센터(1577-1000)에 전화 후 접수^^엔터^^팩스·우편 신청: 관련 서류를 작성 후 공단으로 송부^^엔터^^📌 준비 서류^^엔터^^장기요양인정신청서 (공단 양식)^^엔터^^신분증 사본^^엔터^^의료기관의 진단서 또는 소견서 (치매, 중풍 등 관련 질환이 있다면 첨부 시 유리)^^엔터^^신청 후 공단 직원이 직접 가정에 방문하여 어르신의 상태를 조사합니다.^^엔터^^
+조사는 신체활동 능력(세수, 옷입기, 식사, 배변 등), 인지상태, 행동변화 등을 평가하는데, 이를 ‘장기요양 인정조사’라고 합니다.^^엔터^^조사가 끝나면 ‘장기요양등급판정위원회’에서 종합 점수를 바탕으로 등급을 결정합니다.^^엔터^^
+등급은 다음과 같습니다.^^엔터^^1등급: 전적으로 도움 필요 (가장 중증)^^엔터^^2등급: 대부분의 일상에 도움이 필요한 경우^^엔터^^3등급: 부분적인 도움 필요^^엔터^^4등급: 일상생활의 일부에서 도움 필요^^엔터^^5등급: 치매 등 인지저하 중심의 경증 대상자^^엔터^^인지지원등급: 신체 기능은 유지되나 치매 등 인지기능 저하가 있는 경우^^엔터^^등급 결과는 보통 신청 후 30일 이내에 우편 또는 문자로 통보됩니다.^^엔터^^
+이때 등급이 확정되면 어르신은 바로 방문요양 서비스를 이용할 자격을 얻게 됩니다.^^엔터^^등급이 나온 후에는 요양서비스 제공기관을 선택해야 합니다.^^엔터^^
+예를 들어 케어매치+재가노인복지센터와 같은 전문 재가복지센터를 통해 서비스를 신청하면,^^엔터^^
+센터 담당자가 어르신의 건강상태, 가정환경, 생활습관 등을 종합적으로 평가하여^^엔터^^
+가장 적합한 요양보호사를 연결해드립니다.^^엔터^^센터에서는^^엔터^^방문요양 (식사, 청소, 세면, 말벗 등)^^엔터^^방문목욕^^엔터^^복지용구(보행기, 침대 등)^^엔터^^
+등의 서비스를 맞춤형으로 연계해드립니다.^^엔터^^장기요양등급이 확정되면, 어르신은 건강보험 혜택을 통해 요양비 대부분을 지원받게 됩니다.^^엔터^^
+이때 본인이 부담해야 하는 금액은 15% 이하로 매우 낮습니다.^^엔터^^📌 본인부담금 비율 예시^^엔터^^일반 대상자: 15%^^엔터^^기초생활수급자: 0% (전액 지원)^^엔터^^차상위계층: 7.5%^^엔터^^예를 들어 월 100만 원 상당의 방문요양 서비스를 이용하신다면,^^엔터^^
+일반 어르신은 약 15만 원만 부담하면 됩니다.^^엔터^^또한, 소득 수준이나 가정 형편에 따라 본인부담금 경감제도도 있으니^^엔터^^
+케어매치+재가노인복지센터 상담을 통해 자세히 안내받을 수 있습니다.^^엔터^^케어매치+재가노인복지센터에서는^^엔터^^
+장기요양등급 신청에서부터 요양보호사 연결까지 전 과정을 원스톱으로 지원합니다.^^엔터^^✔ 장기요양등급신청 서류 준비 및 공단 접수 대행^^엔터^^
+✔ 방문조사 대비 및 평가 항목 안내^^엔터^^
+✔ 등급 결과 확인 및 이의신청 도움^^엔터^^
+✔ 맞춤형 요양보호사 배정^^엔터^^
+✔ 방문목욕, 복지용구 등 추가 서비스 연계^^엔터^^즉, 어르신과 가족이 복잡한 절차로 스트레스 받지 않도록^^엔터^^
+전담요원이 처음부터 끝까지 함께합니다.^^엔터^^방문요양 신청은 어렵지 않습니다.^^엔터^^
+다만 장기요양등급신청을 먼저 해야 한다는 점만 기억하시면 됩니다.^^엔터^^
+케어매치+재가노인복지센터는 어르신의 신체·인지 상태를 세심히 고려하여^^엔터^^
+가장 적합한 등급신청 및 요양서비스 이용을 도와드리고 있습니다.^^엔터^^📞 지금 바로 전화 한 통으로 상담 가능합니다.^^엔터^^
+케어매치+재가노인복지센터 고객상담: 1555-0804^^엔터^^어르신의 편안한 일상과 가족의 돌봄 부담 완화를 위해,^^엔터^^
+케어매치가 든든한 동반자가 되어드리겠습니다.^^엔터^^
+check_word_length 0
+len(kkq) 2208
+DB access----success!!
+2--now_device_check 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+2--device_check_DB 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+제목  서초구 방문요양 신청하기
+✅ Chrome 실행 파일 찾음: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile hihiy00 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile hihiy00
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile hihiy00)
+-----------cookies_value_WEBBLOG--------import --------
+에러메세지 main
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=141.0.7390.123)
+Stacktrace:
+	GetHandleVerifier [0x0x6c0dd3+66371]
+	GetHandleVerifier [0x0x6c0e14+66436]
+	(No symbol) [0x0x4a4c03]
+	(No symbol) [0x0x48345d]
+	(No symbol) [0x0x5178ee]
+	(No symbol) [0x0x532219]
+	(No symbol) [0x0x510e86]
+	(No symbol) [0x0x4e260e]
+	(No symbol) [0x0x4e34e4]
+	GetHandleVerifier [0x0x912003+2495859]
+	GetHandleVerifier [0x0x90d0c4+2475572]
+	GetHandleVerifier [0x0x6e91d2+231234]
+	GetHandleVerifier [0x0x6d8ce8+164440]
+	GetHandleVerifier [0x0x6e005d+193997]
+	GetHandleVerifier [0x0x6c8eb8+99368]
+	GetHandleVerifier [0x0x6c9052+99778]
+	GetHandleVerifier [0x0x6b32fa+10346]
+	BaseThreadInitThunk [0x0x7652fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776782ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7767827e+238]
+
+브라우저 로그인 체크 1
+✅ Chrome 실행 파일 찾음: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile hihiy00 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile hihiy00
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile hihiy00)
+cookies [{'domain': '.naver.com', 'expiry': 1761620311, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1761620011'}, {'domain': '.naver.com', 'expiry': 1761621811, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1761620011'}, {'domain': '.naver.com', 'expiry': 1796180011, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'L_S-cxfZ4vPCJFQpYVNzL5Jlb6kxJHkr570kZx6vXIU='}, {'domain': '.naver.com', 'expiry': 1796180011, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '7EBVC6JLGAAGS'}, {'domain': '.nid.naver.com', 'expiry': 1778900010, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'GWBhkHk/zOhdMd1bqbtHc+UdKkEawYhhr9ZS5+wE9jCxm4tAqtFv+AIK6DQxwPtLF1TRY+YZXJuN0xAqpVxfFg58fPZb5UeWwIZ1jWPHRUGBnIVnVCiFVM7br5tR1zmyZpUpNFgg3WoUiXCHn/Lo/GYSVh03yNdsoBzKGO2s8WM='}, {'domain': '.naver.com', 'expiry': 1761706411, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1793156011, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1796180011, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3WfcDoBzUrGwA'}]
+SRT5 -> 1761620011
+SRT30 -> 1761620011
+BUC -> L_S-cxfZ4vPCJFQpYVNzL5Jlb6kxJHkr570kZx6vXIU=
+NNB -> 7EBVC6JLGAAGS
+NID_JST -> GWBhkHk/zOhdMd1bqbtHc+UdKkEawYhhr9ZS5+wE9jCxm4tAqtFv+AIK6DQxwPtLF1TRY+YZXJuN0xAqpVxfFg58fPZb5UeWwIZ1jWPHRUGBnIVnVCiFVM7br5tR1zmyZpUpNFgg3WoUiXCHn/Lo/GYSVh03yNdsoBzKGO2s8WM=
+NACT -> 1
+nid_slevel -> 1
+NAC -> 3WfcDoBzUrGwA
+쿠키 체크
+frame None
+cookies {'NAC': '3WfcDoBzUrGwA', 'NNB': '7EBVC6JLGAAGS', 'BA_DEVICE': '971ff54c-1156-4b76-971a-1dea739d8387', 'stat_yn': '1', 'page_uid': 'ipH1SlprfjCssfzzVZwssssssRl-064457', 'nid_inf': '', 'NID_AUT': '', 'NID_JKL': '', 'NACT': '1', 'BUC': 'L_S-cxfZ4vPCJFQpYVNzL5Jlb6kxJHkr570kZx6vXIU=', 'JSESSIONID': 'EB6022D944A4E08A0CBFFB5035C40896.jvm1', 'NID_SES': ''}
+userNaverId=naverIDID2
+userNaverId hihiy00
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1796180049, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'dp1CZTMHdjBFoTX6WOR0Ou6UQWxOJMNfHwENn5RB8OI='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '71290FF4ADB502122DD7697C26FD46A5.jvm1'}, {'domain': '.naver.com', 'expiry': 1761706411, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1796180049, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '7EBVC6JLGAAGS'}, {'domain': '.blog.naver.com', 'expiry': 1796180049, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'e6183cb4-45fa-4f2c-b96b-03f01fcc7651'}, {'domain': '.naver.com', 'expiry': 1796180042, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '3Tf/hFwQUm/8MjlCdRJMWcxguQtdcxuuWpZxzm2IJUaanXOiovNGIZ43QM7UP2Mc'}, {'domain': '.naver.com', 'expiry': 1764212042, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1548893334'}, {'domain': '.naver.com', 'expiry': 1796180011, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3WfcDoBzUrGwA'}, {'domain': '.naver.com', 'expiry': 1761620349, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1761620011'}, {'domain': '.naver.com', 'expiry': 1761621849, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1761620011'}, {'domain': '.naver.com', 'expiry': 1764212042, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABlVbhDVF9u0sefDi4PNAKRil4QN0Lern6T7kpkNPkUik/Onawh3nXXBVqlUejNOMjf+GHVRutNg3gO4gBe3afsZRm7OKmvcqRw4XL/GUMVDsgQ/+uNeSEl90ijAy6T686s4CFSwzwGuKHCADnbXqody26vg0tQST68rnc8uoKfHU2YZxjlEn0hzPaVyl0P32TGdy3XtH4C8vhAPowrmQOTb6sN5rSAS0MqGm8L62vG2FMb5UO53JRxtA1OdR4mwZVcuzABBVyAzK7iHX/ViwHHdo1pDMTADbMYhFIANpdV/Rskwb882MfGLR8E3N35JxPmhhZKAxQUBwmYPySDTHXSljRUPV+HxGdinQCqIzlI0bELfOXDYfwwD+QyabB2YvnJPHJtsXoMAag+mkAn5oSovKwIk20d3hP6AAG/+gyMTw4Wrfcc6DtTBNHODhAXhIgvwRp0cQQNRON43kovQMYq1Lk2rPiFyPItu033ExjjpBoB+T2puVr10G/iickmMmXuk7l0y3ALdo5E4iBxhYod8oCow7pi0waoRCSPXaow/NY'}]
+BUC -> dp1CZTMHdjBFoTX6WOR0Ou6UQWxOJMNfHwENn5RB8OI=
+JSESSIONID -> 71290FF4ADB502122DD7697C26FD46A5.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> 7EBVC6JLGAAGS
+BA_DEVICE -> e6183cb4-45fa-4f2c-b96b-03f01fcc7651
+NID_AUT -> 3Tf/hFwQUm/8MjlCdRJMWcxguQtdcxuuWpZxzm2IJUaanXOiovNGIZ43QM7UP2Mc
+nid_inf -> 1548893334
+NAC -> 3WfcDoBzUrGwA
+SRT5 -> 1761620011
+SRT30 -> 1761620011
+NID_SES -> AAABlVbhDVF9u0sefDi4PNAKRil4QN0Lern6T7kpkNPkUik/Onawh3nXXBVqlUejNOMjf+GHVRutNg3gO4gBe3afsZRm7OKmvcqRw4XL/GUMVDsgQ/+uNeSEl90ijAy6T686s4CFSwzwGuKHCADnbXqody26vg0tQST68rnc8uoKfHU2YZxjlEn0hzPaVyl0P32TGdy3XtH4C8vhAPowrmQOTb6sN5rSAS0MqGm8L62vG2FMb5UO53JRxtA1OdR4mwZVcuzABBVyAzK7iHX/ViwHHdo1pDMTADbMYhFIANpdV/Rskwb882MfGLR8E3N35JxPmhhZKAxQUBwmYPySDTHXSljRUPV+HxGdinQCqIzlI0bELfOXDYfwwD+QyabB2YvnJPHJtsXoMAag+mkAn5oSovKwIk20d3hP6AAG/+gyMTw4Wrfcc6DtTBNHODhAXhIgvwRp0cQQNRON43kovQMYq1Lk2rPiFyPItu033ExjjpBoB+T2puVr10G/iickmMmXuk7l0y3ALdo5E4iBxhYod8oCow7pi0waoRCSPXaow/NY
+ua Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+lang ko-KR
+handles :  ['99FA9A4C08C1A4382661AAA362BB1116', '2A719B6EF815F047111C5E1661A7BDAB']
+스탑
+스탑
+브라우저 로그인 체크 2
+IMAGE_PATH_PATH C:\Users\HOME\Desktop\자동프로그햄\네이버블로그\image_fx
+['C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\image_fx\\titled_image.png']
+title_image ['C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\image_fx\\titled_image.png']
+선택된 파일: C:\Users\HOME\Desktop\자동프로그햄\네이버블로그\대표이미지\대표이미지-법무법인 에이블.jpg
+['C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+['C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\자동프로그햄\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+8개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+선택된 파일: C:\Users\HOME\Desktop\자동프로그햄\네이버블로그\마지막이미지\마지막이미지.jpg
+baUserKey: 7a3ef1605b7e0f52d031726d7514b4ab098b61db68756a0844e6a0a17c177ab9
+
+{"isSuccess":true,"result":{"blogId":"carematch_plus","vid":null,"defaultEditorVersion":4,"writeFontOptions":{"fontType":1,"fontSize":15,"fontColor":"","lineSpace":180,"textAlign":0},"formView":{"categoryListFormView":{"defaultCategoryId":1,"categoryFormViewList":[{"categoryNo":1,"categoryName":"간병정보","parentCategoryNo":-1,"directorySeq":0,"challengeType":null,"blockYn":false,"open":true,"challengeCategory":false},{"categoryNo":6,"categoryName":"간병뉴스","parentCategoryNo":-1,"directorySeq":0,"challengeType":null,"blockYn":false,"open":true,"challengeCategory":false},{"categoryNo":7,"categoryName":"건강정보","parentCategoryNo":-1,"directorySeq":0,"challengeType":null,"blockYn":false,"open":true,"challengeCategory":false}]},"postConfiguration":{"openType":2,"commentYn":true,"sympathyYn":true,"scrapType":2,"searchYn":true,"outSideAllowYn":true,"twitterPostingYn":false,"facebookPostingYn":false,"commercialUsesYn":null,"contentsModification":null,"cclYn":false},"postFormMeta":{"logNo":null,"categoryId":null,"directorySeq":null,"directoryDetail":null,"mrBlogTalkCode":null,"postWriteTimeType":"now","tags":"첫글","themeSourceCode":0,"bookThemeInfoPk":null,"moviePanelParticipation":false,"greenReviewBannerYn":false,"continueSaved":false,"noticePostYn":false,"autoByCategoryYn":false,"postLocationSupportYn":false,"postLocationJson":null,"prePostDate":null,"thisDayPostInfo":null,"scrapYn":false},"editorSource":"eKjN8ZMWjjDFitQw+dLPVg==","skinInfo":{"contentWidth":966,"columnCount":1},"talkTalkInfo":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false}},"directoryGroups":"[{\"seq\":1,\"name\":\"엔터테인먼트·예술\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":5,\"name\":\"문학·책\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":1,\"alias\":\"book\",\"lcsAlias\":\"book\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":1,\"useYnAsInt\":1},{\"seq\":6,\"name\":\"영화\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":\"movie\",\"lcsAlias\":\"movie\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":8,\"name\":\"미술·디자인\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"art\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":7,\"name\":\"공연·전시\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"exhibition\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":11,\"name\":\"음악\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"music\",\"lcsAlias\":\"music\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":9,\"name\":\"드라마\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"drama\",\"lcsAlias\":\"drama\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":12,\"name\":\"스타·연예인\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"star\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":13,\"name\":\"만화·애니\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"comics\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":1,\"useYnAsInt\":1},{\"seq\":10,\"name\":\"방송\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"broadcasting\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":1,\"useYnAsInt\":1}]},{\"seq\":2,\"name\":\"생활·노하우·쇼핑\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":14,\"name\":\"일상·생각\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"thought\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":15,\"name\":\"육아·결혼\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"baby\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":16,\"name\":\"반려동물\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"pet\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":17,\"name\":\"좋은글·이미지\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"image\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":18,\"name\":\"패션·미용\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"fashion\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":19,\"name\":\"인테리어·DIY\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"interior\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":20,\"name\":\"요리·레시피\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":4,\"alias\":\"recipe\",\"lcsAlias\":\"recipe\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":1,\"useYnAsInt\":1},{\"seq\":21,\"name\":\"상품리뷰\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"shop\",\"lcsAlias\":\"shop\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":36,\"name\":\"원예·재배\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"plant\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1}]},{\"seq\":3,\"name\":\"취미·여가·여행\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":22,\"name\":\"게임\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":5,\"alias\":\"game\",\"lcsAlias\":\"game\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":1,\"useYnAsInt\":1},{\"seq\":23,\"name\":\"스포츠\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"sports\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":24,\"name\":\"사진\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"photo\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":25,\"name\":\"자동차\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"car\",\"lcsAlias\":\"car\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":26,\"name\":\"취미\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"hobby\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":27,\"name\":\"국내여행\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"domestic\",\"lcsAlias\":\"domestic\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":28,\"name\":\"세계여행\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"overseas\",\"lcsAlias\":\"overseas\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":29,\"name\":\"맛집\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"food\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1}]},{\"seq\":4,\"name\":\"지식·동향\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":30,\"name\":\"IT·컴퓨터\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"it\",\"lcsAlias\":\"it\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":31,\"name\":\"사회·정치\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"politics\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":32,\"name\":\"건강·의학\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"health\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":0,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":33,\"name\":\"비즈니스·경제\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"economy\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":35,\"name\":\"어학·외국어\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"language\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1},{\"seq\":34,\"name\":\"교육·학문\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"education\",\"nclickId\":null,\"parent\":false,\"leafYnAsInt\":1,\"relatedYnAsInt\":1,\"mainYnAsInt\":0,\"useYnAsInt\":1}]}]","isWrite":false,"isWriterBlogOwner":true,"hasModelTransformConflict":false,"isTargetUseBlogModule":false,"blogModuleUrl":"https://api-blog.blog.naver.com"}}
+editorSource: eKjN8ZMWjjDFitQw+dLPVg==
+
+{"isSuccess":true,"result":{"appCode":"blogpc001","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc2MTYyMzY3NywidXNlcklkIjoiaGloaXkwMCJ9.l3ViUDSqBp0lu4o4maDPvqfXAd7QIaW72tUA_vh3G5M","documentModel":null,"talktalk":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false},"mrBlog":null,"initialFocusIndex":1,"skinInfo":{"contentWidth":966,"columnCount":1},"maxVideoUploadSize":1073741824,"maxVideoPlayTime":900,"userInfo":{"nickName":"돌봄친구"},"editorInfo":{"textInfo":{"fontFamily":"nanumgothic","fontSizeCode":"fs15","fontColor":"null","lineHeight":1.8,"align":"left","rightOrJustifyAlign":false}},"isWrite":null,"sellerNo":null,"isAiWriter":false}}
+------------------
+token_value eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc2MTYyMzY3NywidXNlcklkIjoiaGloaXkwMCJ9.l3ViUDSqBp0lu4o4maDPvqfXAd7QIaW72tUA_vh3G5M
+{"editorInfo":{"id":"01K8MBTBHT0ZZYKP8B1XV7RPMF","adobeExpressAvailable":true,"snsImageUploadLimitCount":50,"audioUploadLimitFileSize":104857600,"fileUploadLimitFileSize":10485760,"thumbnailType":{"small":"s2","normal":"w1","vr360":"preview966_544","panorama":"preview966_544"},"videoUploadLimitCount":10,"maxTagLength":120,"viewColumnCount":0,"imageUploadLimitCount":50,"defaultTheme":"default","useTooltip":true,"imageMinimumWidth":100,"fileUploadMaxCount":20,"videoMinimumHeight":300,"videoMinimumWidth":300,"maxCanvasWidth":"100%","buildProperty":"real","docType":"normal","imageMinimumHeight":50,"codeTextMaxLength":5000,"dthumbDomain":"https://dthumb-phinf.pstatic.net","useAutoSave":true,"useReservationMenu":true,"cloudMaxImageCount":50,"placesMapInfo":{"image-marker-selected-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-x2-20180830.png","image-marker-selected-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-20180920.png","image-dot-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-x2-20180830.png","image-dot-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-20180830.png","image-place4-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-20180920.png","image-place5-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-x2-20180920.png","image-place5-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-20180920.png","image-place2-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-x2-20180920.png","image-place1-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-x2-20180920.png","image-place3-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-20180920.png","image-place1-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-20180920.png","image-place2-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-20180920.png","image-place3-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-x2-20180920.png","image-place4-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-x2-20180920.png","image-marker-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-x2-20180920.png","image-marker-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-20180920.png"},"convertLimitSize":5000000,"maxSaveSkip":50},"userInfo":{"userId":"hihiy00","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc2MTYyMzY3NywidXNlcklkIjoiaGloaXkwMCJ9.l3ViUDSqBp0lu4o4maDPvqfXAd7QIaW72tUA_vh3G5M"},"infraInfo":{"mapInfra":{"googleMapChannelId":"naver_blog","googleMapClientKey":"AIzaSyDKo6MfoC1plkhfaMG_fS87pSQjOUMlOhA"},"formulaEditor":{"popupUrl":"//presources.editor.naver.com/matheditor/index.html"},"photoInfra":{"imageHost":"https://blogfiles.pstatic.net","domain":"blog.upphoto.naver.com","upphotoServer":"ecommerce"},"videoInfra":{"serviceId":2},"nCloud":{"popupUrl":"//mybox.naver.com/selectFile.nhn","callbackPageUrl":"https://blog.naver.com/upload/RabbitNDriveUploadCallback.naver"}},"apiInfo":{"fetchPhotoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/photo-uploader/session-key","fetchVideoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/session-url","fetchVideoUploaderToken":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/token","fetchAudioUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/audio-uploader/session-key","fetchCoordByIp":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/coordinate","fetchLocationOfImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/exif/locations","fetchDomesticCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/location/kr","fetchDomesticBulkCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/locations/kr","fetchNaverStaticMap":"https://platform.editor.naver.com/api/blogpc001/v2/map/naver/staticmap","fetchGoogleStaticMap":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/staticmap","fetchTopicKeyword":"https://platform.editor.naver.com/api/blogpc001/v1/topics","fetchWordCount":"https://platform.editor.naver.com/api/blogpc001/v1/word-count","fetchMultiCrawler":"https://platform.editor.naver.com/api/blogpc001/v1/oglink","fetchInfraPopupToken":"https://platform.editor.naver.com/api/blogpc001/v1/token/infra-popup","fetchFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchNaverGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/addresses","fetchErratas":"https://platform.editor.naver.com/api/blogpc001/v2/speller/erratas","fetchGoogleNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/nearby/locations","fetchNaverNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGoogleAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/place/ac","fetchNaverAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/place/ac","fetchGoogleGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/geocode","fetchFavoriteFilters":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchBookBestSellers":"https://platform.editor.naver.com/api/blogpc001/v1/material/books/best-seller","fetchBooks":"https://platform.editor.naver.com/api/blogpc001/v1/material/books","fetchBoxOfficeMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies/box-office","fetchMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies","fetchRecommandedBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast/recommend","fetchBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v2/material/broadcast","fetchRecommandedShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show/recommend","fetchShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show","fetchRecommendedSports":"https://platform.editor.naver.com/api/blogpc001/v1/material/sports/recommend","fetchSports":"https://platform.editor.naver.com/api/blogpc001/v1/material/sports","fetchNewMusic":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics/new","fetchMusics":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics","fetchShoppingItems":"https://platform.editor.naver.com/api/blogpc001/v1/material/shopping/items","fetchPopularNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/popular","fetchRecommendedTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel/popular","fetchTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel","fetchNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news","fetchRealEstateAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate/ac","fetchRealEstateComplex":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate/complex","fetchImages":"https://platform.editor.naver.com/api/blogpc001/v1/images","fetchRecommendedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/recommend","fetchStickers":"https://platform.editor.naver.com/api/blogpc001/v1/stickers","fetchNewsDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/detail","fetchNaverPlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGooglePlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/text/locations","deleteFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","updateFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchAuthorizedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/storep/right-url","fetchPurchasedImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/purchased","updateStickerUseFlag":"https://platform.editor.naver.com/api/blogpc001/v1/stickers/validation","fetchCalculatedResult":"https://platform.editor.naver.com/api/blogpc001/v1/calculation","fetchTranslate":"https://platform.editor.naver.com/api/blogpc001/v1/translate","fetchMoments":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchClips":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchStocks":"https://platform.editor.naver.com/api/blogpc001/v1/material/stocks/search","fetchStockDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/stocks/detail","fetchStockAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/material/stocks/ac","addNCloudFile":"//blog.naver.com/RabbitNDriveFileUpload.naver","streamIntro":"https://ax.editor.naver.com/api/blogpc001/prompts/intro/v1","fetchMyTemplates":"//blog.naver.com/RabbitTemplateList.naver","fetchPartialTemplates":"//blog.naver.com/PartTemplateList.naver","streamOutro":"https://ax.editor.naver.com/api/blogpc001/prompts/outro/v1","fetchMyTemplate":"//blog.naver.com/RabbitTemplateRead.naver","fetchSearch":"https://ax.editor.naver.com/api/blogpc001/persona/_search/v1","fetchRecommendedTemplate":"//blog.naver.com/RecommendTemplateRead.naver","streamTitle":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/title/v1","fetchConvertedDocument":"//upconvert.editor.naver.com/v2/convert/blog","deleteMyTemplate":"//blog.naver.com/RabbitTemplateDelete.naver","streamArticle":"https://ax.editor.naver.com/api/blogpc001/prompts/article/v1","streamContinue":"https://ax.editor.naver.com/api/blogpc001/writer/_continue/v1","addMyTemplate":"//blog.naver.com/RabbitTemplateWrite.naver","fetchAuthToken":"//blog.naver.com/RabbitTokenGenerate.naver","fetchOutline":"https://ax.editor.naver.com/api/blogpc001/prompts/outline/v1","streamTags":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/tags/v1","streamExpand":"https://ax.editor.naver.com/api/blogpc001/writer/_expand/v1","fetchConvertedHtml":"//upconvert.editor.naver.com/blog/html/components","fetchFilter":"https://ax.editor.naver.com/api/blogpc001/tool/aifilter/v1","streamSummarize":"https://ax.editor.naver.com/api/blogpc001/writer/_summarize/v1","streamRewrite":"https://ax.editor.naver.com/api/blogpc001/writer/_rewrite/v1","addNCloudVideo":"//blog.naver.com/RabbitNDriveVideoUpload.naver","addFile":"https://platform.editor.naver.com/api/blogpc001/v2/upload/file","fetchRecommendedTemplates":"//blog.naver.com/RecommendTemplateList.naver"},"serviceInfo":{"appCode":"blogpc001","isInHouse":true}}
+<Response [200]>
+9090909090909090
+
+{"isSuccess":true,"result":{"autoSaveNo":1761620078225}}
+9090909090909090
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'int'>
+sdfasdfwhile
+파일을 찾을 수 없습니다. 이미지 삽입
+현재 타임스탬프(ms): 1761620078641
+{"result_code":1,"result_data":{"message":"success"}}
+도움말x
+-231123--a
+---------123----------------import --------
+에러메세지
+Message: Timed out waiting for alerts to appear
+
+-231123ttt--a
+------ttt---123----------------import --------
+에러메세지
+Message: Timed out waiting for alerts to appear
+
+NAVER
+blog
+
+저장
+0
+발행
+
+사진
+
+
+MYBOX
+
+
+동영상
+
+
+스티커
+
+
+
+인용구 선택
+
+인용구
+
+
+구분선 선택
+
+구분선
+
+링크
+
+
+파일
+
+
+일정
+
+
+소스코드
+
+
+표
+
+
+수식
+
+
+
+장소
+
+
+내돈내산
+
+
+글감
+
+
+
+내 클립
+
+
+라이브러리
+
+
+템플릿
+
+본문
+
+나눔고딕
+
+15
+
+
+
+굵게
+
+
+기울이기
+
+
+밑줄
+
+
+취소선
+
+
+
+
+글자색
+
+
+
+
+배경색
+
+
+
+정렬
+
+
+줄간격
+
+
+목록
+
+
+
+머리글자
+
+
+위첨자
+
+
+아래첨자
+
+
+특수문자
+
+
+링크
+
+
+
+번역
+
+
+
+맞춤법
+
+
+
+{title_blog}
+
+
+
+
+
+
+
+
+내용
+이미지
+끝
+
+
+
+추가할 컴포넌트를 선택하세요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+글감
+
+
+
+
+
+
+
+
+
+
+handles :  ['9EAB2DCAC92D3D301B768B78B400D53D']
+스탑
+1
+11시 55분 54초
+timeclock_forLoop 1.0
+asdf2 60
+동작중 0
+timeclock_forLoop 1.0
+asdf2 60
+동작중 1
+timeclock_forLoop 1.0
+asdf2 60
+동작중 2
+timeclock_forLoop 1.0
+asdf2 60
+동작중 3
+timeclock_forLoop 1.0
+asdf2 60
+동작중 4
+timeclock_forLoop 1.0
+asdf2 60
+동작중 5
+timeclock_forLoop 1.0
+asdf2 60
+동작중 6
+timeclock_forLoop 1.0
+asdf2 60
+동작중 7
+timeclock_forLoop 1.0
+asdf2 60
+동작중 8
+timeclock_forLoop 1.0
+asdf2 60
+동작중 9
+timeclock_forLoop 1.0
+asdf2 60
+동작중 10
+timeclock_forLoop 1.0
+asdf2 60
+동작중 11
+timeclock_forLoop 1.0
+asdf2 60
+동작중 12
+timeclock_forLoop 1.0
+asdf2 60
+동작중 13
+timeclock_forLoop 1.0
+asdf2 60
+동작중 14
+timeclock_forLoop 1.0
+asdf2 60
+동작중 15
+timeclock_forLoop 1.0
+asdf2 60
+동작중 16
+timeclock_forLoop 1.0
+asdf2 60
+동작중 17
+timeclock_forLoop 1.0
+asdf2 60
+동작중 18
+timeclock_forLoop 1.0
+asdf2 60
+동작중 19
+timeclock_forLoop 1.0
+asdf2 60
+동작중 20
+timeclock_forLoop 1.0
+asdf2 60
+동작중 21
+timeclock_forLoop 1.0
+asdf2 60
+동작중 22
+timeclock_forLoop 1.0
+asdf2 60
+동작중 23
+timeclock_forLoop 1.0
+asdf2 60
+동작중 24
+timeclock_forLoop 1.0
+asdf2 60
+동작중 25
+timeclock_forLoop 1.0
+asdf2 60
+동작중 26
+timeclock_forLoop 1.0
+asdf2 60
+동작중 27
+timeclock_forLoop 1.0
+asdf2 60
+동작중 28
+timeclock_forLoop 1.0
+asdf2 60
+동작중 29
+timeclock_forLoop 1.0
+asdf2 60
+동작중 30
+timeclock_forLoop 1.0
+asdf2 60
+동작중 31
+timeclock_forLoop 1.0
+asdf2 60
+동작중 32
+timeclock_forLoop 1.0
+asdf2 60
+동작중 33
+timeclock_forLoop 1.0
+asdf2 60
+동작중 34
+timeclock_forLoop 1.0
+asdf2 60
+동작중 35
+timeclock_forLoop 1.0
+asdf2 60
+동작중 36
+timeclock_forLoop 1.0
+asdf2 60
+동작중 37
+timeclock_forLoop 1.0
+asdf2 60
+동작중 38
+timeclock_forLoop 1.0
+asdf2 60
+동작중 39
+timeclock_forLoop 1.0
+asdf2 60
+동작중 40
+timeclock_forLoop 1.0
+asdf2 60
+동작중 41
+timeclock_forLoop 1.0
+asdf2 60
+동작중 42
+timeclock_forLoop 1.0
+asdf2 60
+동작중 43
+timeclock_forLoop 1.0
+asdf2 60
+동작중 44
+timeclock_forLoop 1.0
+asdf2 60
+동작중 45
+timeclock_forLoop 1.0
+asdf2 60
+동작중 46
+timeclock_forLoop 1.0
+asdf2 60
+동작중 47
+timeclock_forLoop 1.0
+asdf2 60
+동작중 48
+timeclock_forLoop 1.0
+asdf2 60
+동작중 49
+timeclock_forLoop 1.0
+asdf2 60
+동작중 50
+timeclock_forLoop 1.0
+asdf2 60
+동작중 51
+timeclock_forLoop 1.0
+asdf2 60
+동작중 52
+timeclock_forLoop 1.0
+asdf2 60
+동작중 53
+timeclock_forLoop 1.0
+asdf2 60
+동작중 54
+시작
+File saved to: C:\Users\HOME\Desktop\자동프로그햄\네이버블로그\logfile.txt
