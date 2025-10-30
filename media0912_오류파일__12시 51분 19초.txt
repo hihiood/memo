@@ -1,0 +1,336 @@
+2
+3
+DOCS_modelChunk not found.
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+2
+0    천안더맑은치과의원
+1    천안더맑은치과의원
+Name: 작업 매장, dtype: object
+IP 변경중...
+
+변경된 IP : 115.144.176.110
+
+더보기
+머지???
+천안치과
+천안치과 더보기
+머지???
+천안치과
+next_check_click True
+map 찾는중
+map 찾음2
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+3
+------------------
+4
+------------------
+5
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+81
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+ㄴㅇㄻㄴㅇ
+행복플란트치과의원
+새늘치과의원
+샤인이치과의원 천안치과
+우리가족치과의원치과
+서울베스트치과의원치과
+스마트플란트치과의원치과
+불당본점 서울비디치과의원치과
+서울니어치과의원 천안치과
+천안더맑은치과의원 천안치과
+맘애든어린이치과의원치과
+바른탑치과의원치과
+열린치과병원치과
+CMC우성구강악안면외과치과의원
+턱앤사랑니치과의원
+365아홉가지약속치과의원치과
+천안365치과의원치과
+청당 앤 미소치과의원치과
+천안영플란트치과의원치과
+진플란트치과의원치과
+단국대학교치과대학병원치과
+참조은치과병원치과
+한림홍치과의원치과
+새늘치과의원치과
+행복플란트치과의원치과
+허밍치과의원
+더보스톤치과병원 천안 불당
+더보스톤치과병원 천안 불당치과
+다나웰치과의원치과
+딩동댕꾸러기치과의원치과
+두정서울비디치과의원치과
+아홉가지약속백석치과의원치과
+삼아이치과의원치과
+열린치과의원치과
+문치과병원치과
+서울수석치과교정과치과의원치과
+더조은치과의원 천안치과
+탑플란트치과의원 천안
+보스톤연합치과의원
+생명나무치과의원치과
+턱앤사랑니치과의원치과
+불당치과교정과치과의원치과
+서울두정치과의원치과
+더건강한치과의원치과
+서울다시봄치과의원치과
+두정자연치과의원치과
+연세편안한치과의원치과
+CMC우성구강악안면외과치과의원치과
+연세이라인치과교정과치과의원치과
+딩동댕꾸러기치과의원
+두정자연치과의원
+송하유승훈소아치과의원치과
+고상덕치과의원치과
+키즈웰치과의원치과
+쌍용치과의원치과
+바른이치과교정과치과의원 천안치과
+보스톤연합치과의원치과
+유스치과의원치과
+훈키즈치과의원치과
+가온치과병원치과
+서울강남플란트치과의원 천안점치과
+생명나무치과의원
+보스톤탑치과의원치과
+차암조은치과의원치과
+굿모닝치과의원치과
+천안 베스트 덴 치과의원치과
+한빛치과의원치과
+디즈니치과의원치과
+서울사계절치과의원치과
+고려치과병원치과
+웰치과의원치과
+청당왕치과의원치과
+리건치과의원치과
+여기치과의원치과
+가지런e치과교정과치과의원치과
+불당드림치과의원치과
+뉴욕치과의원치과
+최우창치과의원치과
+시엘치과의원치과
+백석미소담은치과의원치과
+서울바르다치과의원치과
+정세영치과의원치과
+namelist[Q5].text 행복플란트치과의원
+namelist[Q5].text 새늘치과의원
+namelist[Q5].text 샤인이치과의원 천안치과
+namelist[Q5].text 우리가족치과의원치과
+namelist[Q5].text 서울베스트치과의원치과
+namelist[Q5].text 스마트플란트치과의원치과
+namelist[Q5].text 불당본점 서울비디치과의원치과
+namelist[Q5].text 서울니어치과의원 천안치과
+namelist[Q5].text 천안더맑은치과의원 천안치과
+namelist[Q5].text 맘애든어린이치과의원치과
+namelist[Q5].text 바른탑치과의원치과
+namelist[Q5].text 열린치과병원치과
+namelist[Q5].text CMC우성구강악안면외과치과의원
+namelist[Q5].text 턱앤사랑니치과의원
+namelist[Q5].text 365아홉가지약속치과의원치과
+namelist[Q5].text 천안365치과의원치과
+namelist[Q5].text 청당 앤 미소치과의원치과
+namelist[Q5].text 천안영플란트치과의원치과
+namelist[Q5].text 진플란트치과의원치과
+namelist[Q5].text 단국대학교치과대학병원치과
+namelist[Q5].text 참조은치과병원치과
+namelist[Q5].text 한림홍치과의원치과
+namelist[Q5].text 새늘치과의원치과
+namelist[Q5].text 행복플란트치과의원치과
+namelist[Q5].text 허밍치과의원
+namelist[Q5].text 더보스톤치과병원 천안 불당
+namelist[Q5].text 더보스톤치과병원 천안 불당치과
+namelist[Q5].text 다나웰치과의원치과
+namelist[Q5].text 딩동댕꾸러기치과의원치과
+namelist[Q5].text 두정서울비디치과의원치과
+namelist[Q5].text 아홉가지약속백석치과의원치과
+namelist[Q5].text 삼아이치과의원치과
+namelist[Q5].text 열린치과의원치과
+namelist[Q5].text 문치과병원치과
+namelist[Q5].text 서울수석치과교정과치과의원치과
+namelist[Q5].text 더조은치과의원 천안치과
+namelist[Q5].text 탑플란트치과의원 천안
+namelist[Q5].text 보스톤연합치과의원
+namelist[Q5].text 생명나무치과의원치과
+namelist[Q5].text 턱앤사랑니치과의원치과
+namelist[Q5].text 불당치과교정과치과의원치과
+namelist[Q5].text 서울두정치과의원치과
+namelist[Q5].text 더건강한치과의원치과
+namelist[Q5].text 서울다시봄치과의원치과
+namelist[Q5].text 두정자연치과의원치과
+namelist[Q5].text 연세편안한치과의원치과
+namelist[Q5].text CMC우성구강악안면외과치과의원치과
+namelist[Q5].text 연세이라인치과교정과치과의원치과
+namelist[Q5].text 딩동댕꾸러기치과의원
+namelist[Q5].text 두정자연치과의원
+namelist[Q5].text 송하유승훈소아치과의원치과
+namelist[Q5].text 고상덕치과의원치과
+namelist[Q5].text 키즈웰치과의원치과
+namelist[Q5].text 쌍용치과의원치과
+namelist[Q5].text 바른이치과교정과치과의원 천안치과
+namelist[Q5].text 보스톤연합치과의원치과
+namelist[Q5].text 유스치과의원치과
+namelist[Q5].text 훈키즈치과의원치과
+namelist[Q5].text 가온치과병원치과
+namelist[Q5].text 서울강남플란트치과의원 천안점치과
+namelist[Q5].text 생명나무치과의원
+namelist[Q5].text 보스톤탑치과의원치과
+namelist[Q5].text 차암조은치과의원치과
+namelist[Q5].text 굿모닝치과의원치과
+namelist[Q5].text 천안 베스트 덴 치과의원치과
+namelist[Q5].text 한빛치과의원치과
+namelist[Q5].text 디즈니치과의원치과
+namelist[Q5].text 서울사계절치과의원치과
+namelist[Q5].text 고려치과병원치과
+namelist[Q5].text 웰치과의원치과
+namelist[Q5].text 청당왕치과의원치과
+namelist[Q5].text 리건치과의원치과
+namelist[Q5].text 여기치과의원치과
+namelist[Q5].text 가지런e치과교정과치과의원치과
+namelist[Q5].text 불당드림치과의원치과
+namelist[Q5].text 뉴욕치과의원치과
+namelist[Q5].text 최우창치과의원치과
+namelist[Q5].text 시엘치과의원치과
+namelist[Q5].text 백석미소담은치과의원치과
+namelist[Q5].text 서울바르다치과의원치과
+namelist[Q5].text 정세영치과의원치과
+<selenium.webdriver.remote.webelement.WebElement (session="e542f66b45491e51d19e4edca210f3b0", element="f.EE691D11B2C9DFAECB40ABEC525C6E67.d.BFEE5EEDC310C45B8F006DF52F3F278E.e.1189")>
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+--------------total error-------import --------
+에러메세지
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".SbNoJ"}
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+	GetHandleVerifier [0x0x714f53+61299]
+	GetHandleVerifier [0x0x714f94+61364]
+	(No symbol) [0x0x4f4fd8]
+	(No symbol) [0x0x53f9a4]
+	(No symbol) [0x0x53fd4b]
+	(No symbol) [0x0x534f71]
+	(No symbol) [0x0x562484]
+	(No symbol) [0x0x534e74]
+	(No symbol) [0x0x5625f4]
+	(No symbol) [0x0x583e40]
+	(No symbol) [0x0x562236]
+	(No symbol) [0x0x5335ca]
+	(No symbol) [0x0x534454]
+	GetHandleVerifier [0x0x962913+2476339]
+	GetHandleVerifier [0x0x95d9e7+2456071]
+	GetHandleVerifier [0x0x73e4e2+230658]
+	GetHandleVerifier [0x0x72e0a8+164040]
+	GetHandleVerifier [0x0x73561d+194109]
+	GetHandleVerifier [0x0x71d388+95144]
+	GetHandleVerifier [0x0x71d520+95552]
+	GetHandleVerifier [0x0x70881a+10298]
+	BaseThreadInitThunk [0x0x75815d49+25]
+	RtlInitializeExceptionChain [0x0x773ad03b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x773acfc1+561]
+
+시작
+File saved to: C:\Users\J\Desktop\OneDrive_2025-10-30\네이버플레이스\유효타\logfile.txt
