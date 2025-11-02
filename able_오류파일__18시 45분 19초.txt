@@ -1,0 +1,48 @@
+학습chatGPT1
+맨위
+ID_IMAGE ID1.png
+src_folder C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png']
+[INFO] VPN 창 후보 선택: hwnd=330338, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 None
+---log checker---
+loc None
+loc_ID None
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 122.45.190.175
+ID_IMAGE ID1.png
+src_folder C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png']
+[INFO] VPN 창 후보 선택: hwnd=330338, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 None
+---log checker---
+loc None
+loc_ID None
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 122.45.190.175
+시작
+File saved to: C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\logfile.txt
