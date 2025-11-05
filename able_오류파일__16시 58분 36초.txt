@@ -1,0 +1,3492 @@
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\0d339d9e8cb04b3ba1d817ac9dd6e4cb.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\95f1380193d3403f9f8e18a3f105f069.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\2331da9332384a0cb8106a2120f5d5af.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\dd9c76f2edb841d28e1bce93d122c631.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\fdd4126258904ba0a415117d02a0ff38.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\5c44c65e8b3542e897709faf56c5b934.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+title 교통사고전문변호사
+title 성매매 초범 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+title 학교폭력 처분 전문 변호사의 조력으로 현명하게 대처하세요
+title 디지털 성범죄 피해 회복 위한 전문 변호사의 조력
+title 성매매 단속 전문 변호사의 조력으로 최선의 대응 전략을 세우세요.
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', 'Unnamed: 7', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+1    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+2    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+3    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+4    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+1    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+2    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+3    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+4    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+1    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+2    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+3    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+4    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    피해자와 형사합의를 하지 못하였습니다.\n법원에 공탁금을 공탁하지 않았습니다. \n...
+1                   성매매 초범 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+2                      학교폭력 처분 전문 변호사의 조력으로 현명하게 대처하세요
+3                          디지털 성범죄 피해 회복 위한 전문 변호사의 조력
+4                 성매매 단속 전문 변호사의 조력으로 최선의 대응 전략을 세우세요.
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    태극무늬
+1    태극무늬
+2    태극무늬
+3    태극무늬
+4    태극무늬
+Name: 이미지 프롬프트, dtype: object
+엑셀 개수 5
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+DB access----success!!
+1--now_device_check 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+1--device_check_DB 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+operate_check DB access----success!!
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+mija4111
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고전문변호사 교통사고전문변호사
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Traffic Accident Lawyer Traffic Accident Lawyer', '교통사고전문변호사 교통사고전문변호사', 'ko']
+Traffic Accident Lawyer Traffic Accident Lawyer
+Traffic Accident Lawyer Traffic Accident Lawyer
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Street photography of a dog in a cute and fluffy hat, purple and pink tones, quiet french cafe, diffused lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+수집된 텍스트: 태극무늬
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고전문변호사 교통사고전문변호사
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Traffic Accident Lawyer Traffic Accident Lawyer', '교통사고전문변호사 교통사고전문변호사', 'ko']
+Traffic Accident Lawyer Traffic Accident Lawyer
+Traffic Accident Lawyer Traffic Accident Lawyer
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Conceptual illustration of a robotic hummingbird pollinating a field of glowing neon flowers, digital art
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 태극무늬
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="99adac95fd0026aa5cabcdedda42b24c")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68ae510577fc819192ef216a375635f6-keunsarang-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-68ae510577fc819192ef216a375635f6-keunsarang-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-68ae510577fc819192ef216a375635f6-keunsarang-byeongweon
+수집된 텍스트: 주제 : 피해자와 형사합의를 하지 못하였습니다.법원에 공탁금을 공탁하지 않았습니다. 대인배상1 책임보험만 가입하였습니다.
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3358c3
+	0x335904
+	0x14e76d
+	0x19a09d
+	0x19a47b
+	0x1e1802
+	0x1bc9b4
+	0x1deea6
+	0x1bc766
+	0x18dac0
+	0x18ede4
+	0x5b7974
+	0x5b2bea
+	0x35e5b4
+	0x34dd28
+	0x354d8d
+	0x33ded8
+	0x33e09c
+	0x327d1a
+	0x75b5fcc9
+	0x772b82ae
+	0x772b827e
+	0
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<형사합의가 어려운 상황, 대인배상1만 가입 시 대응 방법>>]]^^엔터^^형사사건으로 인해 피해자가 발생했지만, 합의가 원활히 이루어지지 않을 때는 피의자나 가족 입장에서 매우 큰 심리적 부담을 느끼게 됩니다. 특히 피해자와 형사합의를 하지 못한 상황에서 법원 공탁금도 준비하지 못하고, 대인배상Ⅰ(자동차 책임보험) 만 가입되어 있다면 앞으로 어떻게 대응해야 할지 막막하실 수 있습니다. 이번 글에서는 이러한 상황에서의 기본적인 이해와 대응 방향을 안내드립니다.^^엔터^^형사합의를 하지 못함^^엔터^^
+→ 피해자가 합의에 응하지 않거나, 합의금 수준에 이견이 있는 경우 형사재판에서 ‘피해 회복 노력 부족’으로 불리하게 작용할 수 있습니다.^^엔터^^공탁금 미공탁 상태^^엔터^^
+→ 공탁금은 피해자에게 직접 합의가 어려울 때 ‘성의 표시’로 법원에 예치하는 제도입니다.^^엔터^^
+공탁이 없다는 것은 ‘형사적 참작 사유’ 중 하나가 빠진 상태이므로, 양형 시 불리할 가능성이 있습니다.^^엔터^^대인배상Ⅰ만 가입한 상태^^엔터^^
+→ 자동차보험의 대인배상Ⅰ(책임보험) 은 법으로 정해진 ‘최소 보상한도’만을 지급합니다.^^엔터^^
+즉, 피해자의 상해 정도가 중하거나 장기 치료가 필요한 경우, 보험금으로는 충분한 배상이 되지 않을 수 있습니다.^^엔터^^
+대인배상Ⅱ(임의보험)가 없다면 초과 부분은 본인이 부담해야 합니다.^^엔터^^진정서 제출^^엔터^^
+피해자에게 진심을 담은 사과문 또는 반성문을 제출하면, 재판부에서 ‘반성의 태도’로 일부 참작할 수 있습니다.^^엔터^^경제적 사정 소명^^엔터^^
+공탁금 마련이 어려운 이유(실직, 생계 곤란 등)를 객관적으로 입증하면, 법원이 이를 고려할 수 있습니다.^^엔터^^보험처리 진행 증명^^엔터^^
+이미 대인배상Ⅰ을 통해 피해자 치료비가 일부라도 지급된 사실을 서류로 제출하면, ‘피해 회복 노력’으로 인정받을 가능성이 있습니다.^^엔터^^수사 단계 (경찰·검찰 조사 중)^^엔터^^조사 시 ‘합의 노력을 했으나 실패한 경위’를 구체적으로 진술하십시오.^^엔터^^피해자 연락이 어려운 경우, 변호사 또는 보험사를 통해 간접 협의를 시도한 내역을 남기는 것이 좋습니다.^^엔터^^공판 단계 (법원)^^엔터^^반성문, 진정서, 보험금 지급 내역 등을 증거로 제출하십시오.^^엔터^^가능하다면 부분 공탁(소액이라도)을 시도하는 것도 도움이 됩니다.^^엔터^^변호인 조력 받기^^엔터^^
+형사합의가 불가능하거나 공탁이 어려운 경우, 전문 변호사의 조언으로 양형 자료를 체계적으로 준비하는 것이 중요합니다.^^엔터^^보험사 담당자와 협의^^엔터^^
+대인배상Ⅰ에서 어떤 범위까지 지급되는지, 피해자의 치료비가 얼마나 지원되는지 확인하십시오.^^엔터^^경제적 어려움이 있다면^^엔터^^
+공탁금 대신 ‘진정성 있는 반성 자료’(반성문, 봉사활동 계획 등)로 대체 방안을 마련할 수 있습니다.^^엔터^^피해자와 합의하지 못하고 공탁도 하지 못했다고 해서 모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 진정한 반성의 태도, 피해 회복 노력, 재범 가능성 등을 종합적으로 판단합니다.^^엔터^^지금이라도 할 수 있는 조치를 정리해 제출하면, 재판부가 이를 긍정적으로 평가할 여지가 충분히 있습니다.^^엔터^^
+무엇보다 보험사 지급내역과 진심이 담긴 반성 자료를 꾸준히 제출하는 것이 중요합니다.^^엔터^^정리하자면:^^엔터^^피해자와의 합의 실패 → 반성문·진정서로 보완^^엔터^^공탁금이 어려움 → 사정서·부분공탁으로 대체^^엔터^^대인배상Ⅰ만 있음 → 보험금 지급 증빙 제출^^엔터^^어려운 상황이지만, 성실한 태도와 절차적 대응으로 결과를 개선할 수 있습니다.^^엔터^^
+혼자 판단하기 어렵다면, 변호사 상담을 통해 현재 상황에 맞는 전략을 세워보시길 권합니다.^^엔터^^<<<전체 글 끝>>>
+⚠️ 이모지가 2개 미만입니다 → split 불가 → 중앙 분할 수행
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<형사합의가 어려운 상황, 대인배상1만 가입 시 대응 방법>>]]^^엔터^^형사사건으로 인해 피해자가 발생했지만, 합의가 원활히 이루어지지 않을 때는 피의자나 가족 입장에서 매우 큰 심리적 부담을 느끼게 됩니다. 특히 피해자와 형사합의를 하지 못한 상황에서 법원 공탁금도 준비하지 못하고, 대인배상Ⅰ(자동차 책임보험) 만 가입되어 있다면 앞으로 어떻게 대응해야 할지 막막하실 수 있습니다. 이번 글에서는 이러한 상황에서의 기본적인 이해와 대응 방향을 안내드립니다.^^엔터^^형사합의를 하지 못함^^엔터^^
+→ 피해자가 합의에 응하지 않거나, 합의금 수준에 이견이 있는 경우 형사재판에서 ‘피해 회복 노력 부족’으로 불리하게 작용할 수 있습니다.^^엔터^^공탁금 미공탁 상태^^엔터^^
+→ 공탁금은 피해자에게 직접 합의가 어려울 때 ‘성의 표시’로 법원에 예치하는 제도입니다.^^엔터^^
+공탁이 없다는 것은 ‘형사적 참작 사유’ 중 하나가 빠진 상태이므로, 양형 시 불리할 가능성이 있습니다.^^엔터^^대인배상Ⅰ만 가입한 상태^^엔터^^
+→ 자동차보험의 대인배상Ⅰ(책임보험) 은 법으로 정해진 ‘최소 보상한도’만을 지급합니다.^^엔터^^
+즉, 피해자의 상해 정도가 중하거나 장기 치료가 필요한 경우, 보험금으로는 충분한 배상이 되지 않을 수 있습니다.^^엔터^^
+대인배상Ⅱ(임의보험)가 없다면 초과 부분은 본인이 부담해야 합니다.^^엔터^^진정서 제출^^엔터^^
+피해자에게 진심을 담은 사과문 또는 반성문을 제출하면, 재판부에서 ‘반성의 태도’로 일부 참작할 수 있습니다.^^엔터^^경제적 사정 소명^^엔터^^
+공탁금 마련이 어려운 이유(실직, 생계 곤란 등)를 객관적으로 입증하면, 법원이 이를 고려할 수 있습니다.^^엔터^^보험처리 진행 증명^^엔터^^
+이미 대인배상Ⅰ을 통해 피해자 치료비가 일부라도 지급된 사실을 서류로 제출하면, ‘피해 회복 노
+===== B 영역 =====
+력’으로 인정받을 가능성이 있습니다.^^엔터^^수사 단계 (경찰·검찰 조사 중)^^엔터^^조사 시 ‘합의 노력을 했으나 실패한 경위’를 구체적으로 진술하십시오.^^엔터^^피해자 연락이 어려운 경우, 변호사 또는 보험사를 통해 간접 협의를 시도한 내역을 남기는 것이 좋습니다.^^엔터^^공판 단계 (법원)^^엔터^^반성문, 진정서, 보험금 지급 내역 등을 증거로 제출하십시오.^^엔터^^가능하다면 부분 공탁(소액이라도)을 시도하는 것도 도움이 됩니다.^^엔터^^변호인 조력 받기^^엔터^^
+형사합의가 불가능하거나 공탁이 어려운 경우, 전문 변호사의 조언으로 양형 자료를 체계적으로 준비하는 것이 중요합니다.^^엔터^^보험사 담당자와 협의^^엔터^^
+대인배상Ⅰ에서 어떤 범위까지 지급되는지, 피해자의 치료비가 얼마나 지원되는지 확인하십시오.^^엔터^^경제적 어려움이 있다면^^엔터^^
+공탁금 대신 ‘진정성 있는 반성 자료’(반성문, 봉사활동 계획 등)로 대체 방안을 마련할 수 있습니다.^^엔터^^피해자와 합의하지 못하고 공탁도 하지 못했다고 해서 모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 진정한 반성의 태도, 피해 회복 노력, 재범 가능성 등을 종합적으로 판단합니다.^^엔터^^지금이라도 할 수 있는 조치를 정리해 제출하면, 재판부가 이를 긍정적으로 평가할 여지가 충분히 있습니다.^^엔터^^
+무엇보다 보험사 지급내역과 진심이 담긴 반성 자료를 꾸준히 제출하는 것이 중요합니다.^^엔터^^정리하자면:^^엔터^^피해자와의 합의 실패 → 반성문·진정서로 보완^^엔터^^공탁금이 어려움 → 사정서·부분공탁으로 대체^^엔터^^대인배상Ⅰ만 있음 → 보험금 지급 증빙 제출^^엔터^^어려운 상황이지만, 성실한 태도와 절차적 대응으로 결과를 개선할 수 있습니다.^^엔터^^
+혼자 판단하기 어렵다면, 변호사 상담을 통해 현재 상황에 맞는 전략을 세워보시길 권합니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<형사합의가 어려운 상황, 대인배상1만 가입 시 대응 방법>>]]^^엔터^^형사사건으로 인해 피해자가 발생했지만, 합의가 원활히 이루어지지 않을 때는 피의자나 가족 입장에서 매우 큰 심리적 부담을 느끼게 됩니다. 특히 피해자와 형사합의를 하지 못한 상황에서 법원 공탁금도 준비하지 못하고, 대인배상Ⅰ(자동차 책임보험) 만 가입되어 있다면 앞으로 어떻게 대응해야 할지 막막하실 수 있습니다. 이번 글에서는 이러한 상황에서의 기본적인 이해와 대응 방향을 안내드립니다.^^엔터^^형사합의를 하지 못함^^엔터^^
+→ 피해자가 합의에 응하지 않거나, 합의금 수준에 이견이 있는 경우 형사재판에서 ‘피해 회복 노력 부족’으로 불리하게 작용할 수 있습니다.^^엔터^^공탁금 미공탁 상태^^엔터^^
+→ 공탁금은 피해자에게 직접 합의가 어려울 때 ‘성의 표시’로 법원에 예치하는 제도입니다.^^엔터^^
+공탁이 없다는 것은 ‘형사적 참작 사유’ 중 하나가 빠진 상태이므로, 양형 시 불리할 가능성이 있습니다.^^엔터^^대인배상Ⅰ만 가입한 상태^^엔터^^
+→ 자동차보험의 대인배상Ⅰ(책임보험) 은 법으로 정해진 ‘최소 보상한도’만을 지급합니다.^^엔터^^
+즉, 피해자의 상해 정도가 중하거나 장기 치료가 필요한 경우, 보험금으로는 충분한 배상이 되지 않을 수 있습니다.^^엔터^^
+대인배상Ⅱ(임의보험)가 없다면 초과 부분은 본인이 부담해야 합니다.^^엔터^^진정서 제출^^엔터^^
+피해자에게 진심을 담은 사과문 또는 반성문을 제출하면, 재판부에서 ‘반성의 태도’로 일부 참작할 수 있습니다.^^엔터^^경제적 사정 소명^^엔터^^
+공탁금 마련이 어려운 이유(실직, 생계 곤란 등)를 객관적으로 입증하면, 법원이 이를 고려할 수 있습니다.^^엔터^^보험처리 진행 증명^^엔터^^
+이미 대인배상Ⅰ을 통해 피해자 치료비가 일부라도 지급된 사실을 서류로 제출하면, ‘피해 회복 노력’으로 인정받을 가능성이 있습니다.^^엔터^^수사 단계 (경찰·검찰 조사 중)^^엔터^^조사 시 ‘합의 노력을 했으나 실패한 경위’를 구체적으로 진술하십시오.^^엔터^^피해자 연락이 어려운 경우, 변호사 또는 보험사를 통해 간접 협의를 시도한 내역을 남기는 것이 좋습니다.^^엔터^^공판 단계 (법원)^^엔터^^반성문, 진정서, 보험금 지급 내역 등을 증거로 제출하십시오.^^엔터^^가능하다면 부분 공탁(소액이라도)을 시도하는 것도 도움이 됩니다.^^엔터^^변호인 조력 받기^^엔터^^
+형사합의가 불가능하거나 공탁이 어려운 경우, 전문 변호사의 조언으로 양형 자료를 체계적으로 준비하는 것이 중요합니다.^^엔터^^보험사 담당자와 협의^^엔터^^
+대인배상Ⅰ에서 어떤 범위까지 지급되는지, 피해자의 치료비가 얼마나 지원되는지 확인하십시오.^^엔터^^경제적 어려움이 있다면^^엔터^^
+공탁금 대신 ‘진정성 있는 반성 자료’(반성문, 봉사활동 계획 등)로 대체 방안을 마련할 수 있습니다.^^엔터^^피해자와 합의하지 못하고 공탁도 하지 못했다고 해서 모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 진정한 반성의 태도, 피해 회복 노력, 재범 가능성 등을 종합적으로 판단합니다.^^엔터^^지금이라도 할 수 있는 조치를 정리해 제출하면, 재판부가 이를 긍정적으로 평가할 여지가 충분히 있습니다.^^엔터^^
+무엇보다 보험사 지급내역과 진심이 담긴 반성 자료를 꾸준히 제출하는 것이 중요합니다.^^엔터^^정리하자면:^^엔터^^피해자와의 합의 실패 → 반성문·진정서로 보완^^엔터^^공탁금이 어려움 → 사정서·부분공탁으로 대체^^엔터^^대인배상Ⅰ만 있음 → 보험금 지급 증빙 제출^^엔터^^어려운 상황이지만, 성실한 태도와 절차적 대응으로 결과를 개선할 수 있습니다.^^엔터^^
+혼자 판단하기 어렵다면, 변호사 상담을 통해 현재 상황에 맞는 전략을 세워보시길 권합니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 형사합의가 어려운 상황, 대인배상1만 가입 시 대응 방법
+text2: ^^엔터^^^^엔터^^형사사건으로 인해 피해자가 발생했지만, 합의가 원활히 이루어지지 않을 때는 피의자나 가족 입장에서 매우 큰 심리적 부담을 느끼게 됩니다. 특히 피해자와 형사합의를 하지 못한 상황에서 법원 공탁금도 준비하지 못하고, 대인배상Ⅰ(자동차 책임보험) 만 가입되어 있다면 앞으로 어떻게 대응해야 할지 막막하실 수 있습니다. 이번 글에서는 이러한 상황에서의 기본적인 이해와 대응 방향을 안내드립니다.^^엔터^^형사합의를 하지 못함^^엔터^^
+→ 피해자가 합의에 응하지 않거나, 합의금 수준에 이견이 있는 경우 형사재판에서 ‘피해 회복 노력 부족’으로 불리하게 작용할 수 있습니다.^^엔터^^공탁금 미공탁 상태^^엔터^^
+→ 공탁금은 피해자에게 직접 합의가 어려울 때 ‘성의 표시’로 법원에 예치하는 제도입니다.^^엔터^^
+공탁이 없다는 것은 ‘형사적 참작 사유’ 중 하나가 빠진 상태이므로, 양형 시 불리할 가능성이 있습니다.^^엔터^^대인배상Ⅰ만 가입한 상태^^엔터^^
+→ 자동차보험의 대인배상Ⅰ(책임보험) 은 법으로 정해진 ‘최소 보상한도’만을 지급합니다.^^엔터^^
+즉, 피해자의 상해 정도가 중하거나 장기 치료가 필요한 경우, 보험금으로는 충분한 배상이 되지 않을 수 있습니다.^^엔터^^
+대인배상Ⅱ(임의보험)가 없다면 초과 부분은 본인이 부담해야 합니다.^^엔터^^진정서 제출^^엔터^^
+피해자에게 진심을 담은 사과문 또는 반성문을 제출하면, 재판부에서 ‘반성의 태도’로 일부 참작할 수 있습니다.^^엔터^^경제적 사정 소명^^엔터^^
+공탁금 마련이 어려운 이유(실직, 생계 곤란 등)를 객관적으로 입증하면, 법원이 이를 고려할 수 있습니다.^^엔터^^보험처리 진행 증명^^엔터^^
+이미 대인배상Ⅰ을 통해 피해자 치료비가 일부라도 지급된 사실을 서류로 제출하면, ‘피해 회복 노력’으로 인정받을 가능성이 있습니다.^^엔터^^수사 단계 (경찰·검찰 조사 중)^^엔터^^조사 시 ‘합의 노력을 했으나 실패한 경위’를 구체적으로 진술하십시오.^^엔터^^피해자 연락이 어려운 경우, 변호사 또는 보험사를 통해 간접 협의를 시도한 내역을 남기는 것이 좋습니다.^^엔터^^공판 단계 (법원)^^엔터^^반성문, 진정서, 보험금 지급 내역 등을 증거로 제출하십시오.^^엔터^^가능하다면 부분 공탁(소액이라도)을 시도하는 것도 도움이 됩니다.^^엔터^^변호인 조력 받기^^엔터^^
+형사합의가 불가능하거나 공탁이 어려운 경우, 전문 변호사의 조언으로 양형 자료를 체계적으로 준비하는 것이 중요합니다.^^엔터^^보험사 담당자와 협의^^엔터^^
+대인배상Ⅰ에서 어떤 범위까지 지급되는지, 피해자의 치료비가 얼마나 지원되는지 확인하십시오.^^엔터^^경제적 어려움이 있다면^^엔터^^
+공탁금 대신 ‘진정성 있는 반성 자료’(반성문, 봉사활동 계획 등)로 대체 방안을 마련할 수 있습니다.^^엔터^^피해자와 합의하지 못하고 공탁도 하지 못했다고 해서 모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 진정한 반성의 태도, 피해 회복 노력, 재범 가능성 등을 종합적으로 판단합니다.^^엔터^^지금이라도 할 수 있는 조치를 정리해 제출하면, 재판부가 이를 긍정적으로 평가할 여지가 충분히 있습니다.^^엔터^^
+무엇보다 보험사 지급내역과 진심이 담긴 반성 자료를 꾸준히 제출하는 것이 중요합니다.^^엔터^^정리하자면:^^엔터^^피해자와의 합의 실패 → 반성문·진정서로 보완^^엔터^^공탁금이 어려움 → 사정서·부분공탁으로 대체^^엔터^^대인배상Ⅰ만 있음 → 보험금 지급 증빙 제출^^엔터^^어려운 상황이지만, 성실한 태도와 절차적 대응으로 결과를 개선할 수 있습니다.^^엔터^^
+혼자 판단하기 어렵다면, 변호사 상담을 통해 현재 상황에 맞는 전략을 세워보시길 권합니다.^^엔터^^
+check_word_length 0
+len(kkq) 1828
+ID_IMAGE ID1.png
+src_folder C:\Users\HOME\Desktop\x\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png', 'C:\\MyApp\\images\\ID5.png', 'C:\\MyApp\\images\\ID6.png', 'C:\\MyApp\\images\\ID7.png', 'C:\\MyApp\\images\\ID8.png', 'C:\\MyApp\\images\\ID9.png', 'C:\\MyApp\\images\\ID10.png']
+[INFO] VPN 창 후보 선택: hwnd=1312466, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1584, 499)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 12번째 시도에서 이미지 발견: Point(x=1654, y=802)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1654, y=802)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? None
+뒤로 가는 버튼 못 찾음
+---log checker---
+loc None
+loc_ID Point(x=1654, y=802)
+loc_GREEN None
+loc_GRAY Point(x=1603, y=482)
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 222.112.224.167
+DB access----success!!
+2--now_device_check 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+2--device_check_DB 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+제목  교통사고전문변호사
+✅ Chrome 실행 파일 찾음: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile mija4111 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile mija4111
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile mija4111)
+cookies [{'domain': '.naver.com', 'expiry': 1762329307, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1762329007'}, {'domain': '.naver.com', 'expiry': 1762330807, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1762329007'}, {'domain': '.naver.com', 'expiry': 1796889007, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '9r_7UJJrL0yIDBqCRpQuiicIVKs4BSYuUCV21eEXYgg='}, {'domain': '.naver.com', 'expiry': 1796889007, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'RQZXZDNPAEFWS'}, {'domain': '.nid.naver.com', 'expiry': 1779609006, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'of5LKBe0Cyr0lGNBMBSiC3naxhHMV+ZkUghkI60cghUllx+DzH/eNHr0nvqU3h+PZLVuOpNj3DfdNl6lAQVvxHC1vCelCvkdw5ueka11fpSzrykcXoaJnKhjbper7xZfstyD/jsLt5QAzBDvqhZCt8bwDoJnEthEipJB602Pc3Q='}, {'domain': '.naver.com', 'expiry': 1762415407, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1793865006, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1796889007, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2TNrB0AksGaE'}]
+SRT5 -> 1762329007
+SRT30 -> 1762329007
+BUC -> 9r_7UJJrL0yIDBqCRpQuiicIVKs4BSYuUCV21eEXYgg=
+NNB -> RQZXZDNPAEFWS
+NID_JST -> of5LKBe0Cyr0lGNBMBSiC3naxhHMV+ZkUghkI60cghUllx+DzH/eNHr0nvqU3h+PZLVuOpNj3DfdNl6lAQVvxHC1vCelCvkdw5ueka11fpSzrykcXoaJnKhjbper7xZfstyD/jsLt5QAzBDvqhZCt8bwDoJnEthEipJB602Pc3Q=
+NACT -> 1
+nid_slevel -> 1
+NAC -> 2TNrB0AksGaE
+쿠키 체크
+frame None
+cookies {'NAC': '2TNrB0AksGaE', 'NNB': 'RQZXZDNPAEFWS', 'BA_DEVICE': '971ff54c-1156-4b76-971a-1dea739d8387', 'stat_yn': '1', 'page_uid': 'ipH1SlprfjCssfzzVZwssssssRl-064457', 'nid_inf': '', 'NID_AUT': '', 'NID_JKL': '', 'NACT': '1', 'BUC': '9r_7UJJrL0yIDBqCRpQuiicIVKs4BSYuUCV21eEXYgg=', 'JSESSIONID': 'EB6022D944A4E08A0CBFFB5035C40896.jvm1', 'NID_SES': ''}
+userNaverId=naverIDID2
+userNaverId mija4111
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1762415407, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1796889047, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'RQZXZDNPAEFWS'}, {'domain': '.blog.naver.com', 'expiry': 1796889047, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8533829e-2aae-40f7-9551-f59175357ca7'}, {'domain': '.naver.com', 'expiry': 1796889039, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'nX/xQ54+HSaDYkqGh6LpkEG47Cl0If9l5g+tAWIfCMBHTCytFr5tHrOapc1wKnkD'}, {'domain': '.naver.com', 'expiry': 1764921039, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1443089540'}, {'domain': '.naver.com', 'expiry': 1796889007, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2TNrB0AksGaE'}, {'domain': '.naver.com', 'expiry': 1762329347, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1762329007'}, {'domain': '.naver.com', 'expiry': 1762330847, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1762329007'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'DBC687367FED7082EEB514A670D1F7D1.jvm1'}, {'domain': '.naver.com', 'expiry': 1796889047, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1tBLapiTPXmcoVpVbIbHYzINEuONhgDTA4-YeZQ1D7k='}, {'domain': '.naver.com', 'expiry': 1764921039, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABlwo+4Poy65V1MQaPEtALZdfYvq4dl7RMpUFlAwakaYPf9+/1iTpSz0q1SIg+Z8DFaIb7sWKaCTzZ1UGMffxmBc+dcJBIWP+J+xYqOZFkpoJRapZFvthqDQv+N+uFb8zMoW/4LBJazQZE2DTU19gF5fuSSfZ9K+kg5tpIw7R2L0e9M+UkeXLlt5+xNJYIgbKzKffOX+Xq6lh8RPIIIXVrUK3jpEmfLaFcGkZD+Rc/GGQ8YTQEnEBvwCVHsPd7eqRv2pBgxhFMmd8MuL9Xxmx3znT7TcYFxzuhrN4O9z6K5X6Qm6bqj+lhbmMyQVSC/W2GB3XQCa5m4VYYhvjcvMnK6o4fFltnrAsv7Fs7r+cMfX2uK/W9VXlkMZbiZAo5mEcZ1b9MXlQEZbCa2DE0DJVbP8uSUIQNJzbN9824rpbIGchzis2uc5FHDgdHXh9Cr5hNT0DUcktatVIgOiLBDzK4yaPNmcEl2XYuZkRItOqyu2r0iD7KBXxZVSGIyZorn7jwEPsJBIc8NJpC5hS64OGmCnFvhgATzUEvDqOhAmtTgDid'}]
+NACT -> 1
+stat_yn -> 1
+NNB -> RQZXZDNPAEFWS
+BA_DEVICE -> 8533829e-2aae-40f7-9551-f59175357ca7
+NID_AUT -> nX/xQ54+HSaDYkqGh6LpkEG47Cl0If9l5g+tAWIfCMBHTCytFr5tHrOapc1wKnkD
+nid_inf -> 1443089540
+NAC -> 2TNrB0AksGaE
+SRT5 -> 1762329007
+SRT30 -> 1762329007
+JSESSIONID -> DBC687367FED7082EEB514A670D1F7D1.jvm1
+BUC -> 1tBLapiTPXmcoVpVbIbHYzINEuONhgDTA4-YeZQ1D7k=
+NID_SES -> AAABlwo+4Poy65V1MQaPEtALZdfYvq4dl7RMpUFlAwakaYPf9+/1iTpSz0q1SIg+Z8DFaIb7sWKaCTzZ1UGMffxmBc+dcJBIWP+J+xYqOZFkpoJRapZFvthqDQv+N+uFb8zMoW/4LBJazQZE2DTU19gF5fuSSfZ9K+kg5tpIw7R2L0e9M+UkeXLlt5+xNJYIgbKzKffOX+Xq6lh8RPIIIXVrUK3jpEmfLaFcGkZD+Rc/GGQ8YTQEnEBvwCVHsPd7eqRv2pBgxhFMmd8MuL9Xxmx3znT7TcYFxzuhrN4O9z6K5X6Qm6bqj+lhbmMyQVSC/W2GB3XQCa5m4VYYhvjcvMnK6o4fFltnrAsv7Fs7r+cMfX2uK/W9VXlkMZbiZAo5mEcZ1b9MXlQEZbCa2DE0DJVbP8uSUIQNJzbN9824rpbIGchzis2uc5FHDgdHXh9Cr5hNT0DUcktatVIgOiLBDzK4yaPNmcEl2XYuZkRItOqyu2r0iD7KBXxZVSGIyZorn7jwEPsJBIc8NJpC5hS64OGmCnFvhgATzUEvDqOhAmtTgDid
+ua Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+lang ko-KR
+lawyer643
+handles :  ['83AA29F8F06B2C25691F4C62AC2EDFFA']
+스탑
+브라우저 로그인 체크 1
+IMAGE_PATH_PATH C:\Users\HOME\Desktop\x\네이버블로그\image_b
+[]
+title_image []
+타이틀 이미지 찾을 수 없습니다.
+어짜피 타이틀 이미지를 경로에서 찾기 때문에 이건 당연히 못찾음
+선택된 파일: C:\Users\HOME\Desktop\x\네이버블로그\대표이미지\대표이미지-법무법인 에이블.jpg
+human_dirs jpg_files ['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+8개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+정렬된 파일 목록:
+C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지\마지막이미지.jpg
+⚠️ 이미지 개수는 최소 3개 입니다.
+asdf 60000000
+동작중 0
+asdf 60000000
+동작중 1
+asdf 60000000
+동작중 2
+asdf 60000000
+동작중 3
+asdf 60000000
+동작중 4
+asdf 60000000
+동작중 5
+asdf 60000000
+동작중 6
+asdf 60000000
+동작중 7
+asdf 60000000
+동작중 8
+asdf 60000000
+동작중 9
+asdf 60000000
+동작중 10
+asdf 60000000
+동작중 11
+asdf 60000000
+동작중 12
+asdf 60000000
+동작중 13
+asdf 60000000
+동작중 14
+asdf 60000000
+동작중 15
+asdf 60000000
+동작중 16
+asdf 60000000
+동작중 17
+asdf 60000000
+동작중 18
+asdf 60000000
+동작중 19
+asdf 60000000
+동작중 20
+asdf 60000000
+동작중 21
+asdf 60000000
+동작중 22
+asdf 60000000
+동작중 23
+asdf 60000000
+동작중 24
+asdf 60000000
+동작중 25
+asdf 60000000
+동작중 26
+asdf 60000000
+동작중 27
+asdf 60000000
+동작중 28
+asdf 60000000
+동작중 29
+asdf 60000000
+동작중 30
+asdf 60000000
+동작중 31
+asdf 60000000
+동작중 32
+asdf 60000000
+동작중 33
+asdf 60000000
+동작중 34
+asdf 60000000
+동작중 35
+asdf 60000000
+동작중 36
+asdf 60000000
+동작중 37
+asdf 60000000
+동작중 38
+asdf 60000000
+동작중 39
+asdf 60000000
+동작중 40
+asdf 60000000
+동작중 41
+asdf 60000000
+동작중 42
+asdf 60000000
+동작중 43
+asdf 60000000
+동작중 44
+asdf 60000000
+동작중 45
+asdf 60000000
+동작중 46
+DB access----success!!
+60
+16시 51분 47초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\08f66d0110ab46879aeb0922dcac7507.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\ee30541b44ae4193bcc7943a9ab7220e.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\c938a5ffa7494bb6b45660896b68c800.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\586faee6e1af481cb697752b661f8b82.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\a27c515520314648b9b1700326c248f1.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\HOME\AppData\Local\Temp\383e2e8fcb67426cbe304775eb477c75.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+title 교통사고전문변호사
+title 성매매 초범 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+title 학교폭력 처분 전문 변호사의 조력으로 현명하게 대처하세요
+title 디지털 성범죄 피해 회복 위한 전문 변호사의 조력
+title 성매매 단속 전문 변호사의 조력으로 최선의 대응 전략을 세우세요.
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', 'Unnamed: 7', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+1    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+2    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+3    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+4    C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+1    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+2    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+3    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+4    C:\Users\HOME\Desktop\x\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+1    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+2    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+3    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+4    C:\Users\HOME\Desktop\x\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    피해자와 형사합의를 하지 못하였습니다.\n법원에 공탁금을 공탁하지 않았습니다. \n...
+1                   성매매 초범 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+2                      학교폭력 처분 전문 변호사의 조력으로 현명하게 대처하세요
+3                          디지털 성범죄 피해 회복 위한 전문 변호사의 조력
+4                 성매매 단속 전문 변호사의 조력으로 최선의 대응 전략을 세우세요.
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    태극무늬
+1    태극무늬
+2    태극무늬
+3    태극무늬
+4    태극무늬
+Name: 이미지 프롬프트, dtype: object
+엑셀 개수 5
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+DB access----success!!
+1--now_device_check 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+1--device_check_DB 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+mija4111
+IPaddress_flask http://125.240.193.5:4500/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고전문변호사 교통사고전문변호사
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Traffic Accident Lawyer Traffic Accident Lawyer', '교통사고전문변호사 교통사고전문변호사', 'ko']
+Traffic Accident Lawyer Traffic Accident Lawyer
+Traffic Accident Lawyer Traffic Accident Lawyer
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Close-up photograph of a pair of mismatched socks with different patterns, on a dark blue velvet wooden background.
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 태극무늬
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고전문변호사 교통사고전문변호사
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Traffic Accident Lawyer Traffic Accident Lawyer', '교통사고전문변호사 교통사고전문변호사', 'ko']
+Traffic Accident Lawyer Traffic Accident Lawyer
+Traffic Accident Lawyer Traffic Accident Lawyer
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Vintage style illustrated logo for a sausage company, emblem of a cartoon german dachshund holding a sausage in its mouth, wearing a red polka dotted bandana, text reads dachshund delights
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 태극무늬
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="393772ce90e1c58b5f9c76a4b6d603a7")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68ae510577fc819192ef216a375635f6-keunsarang-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-68ae510577fc819192ef216a375635f6-keunsarang-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-68ae510577fc819192ef216a375635f6-keunsarang-byeongweon
+수집된 텍스트: 주제 : 피해자와 형사합의를 하지 못하였습니다.법원에 공탁금을 공탁하지 않았습니다. 대인배상1 책임보험만 가입하였습니다.
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3358c3
+	0x335904
+	0x14e76d
+	0x19a09d
+	0x19a47b
+	0x1e1802
+	0x1bc9b4
+	0x1deea6
+	0x1bc766
+	0x18dac0
+	0x18ede4
+	0x5b7974
+	0x5b2bea
+	0x35e5b4
+	0x34dd28
+	0x354d8d
+	0x33ded8
+	0x33e09c
+	0x327d1a
+	0x75b5fcc9
+	0x772b82ae
+	0x772b827e
+	0
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<형사합의가 어려운 상황, 공탁 없이도 가능한 현실적 대응방법>>]]^^엔터^^갑작스러운 교통사고나 형사 사건으로 인해 가해자 신분이 되는 경우, 대부분 가장 먼저 고민하는 것은 피해자와의 형사합의입니다. 하지만 현실에서는 피해자가 연락을 거부하거나, 금전적 요구가 과도해 합의가 이루어지지 않는 경우도 많습니다.^^엔터^^
+“피해자와 형사합의를 하지 못하였습니다. 공탁금도 공탁하지 않았습니다. 대인배상Ⅰ 책임보험만 가입하였습니다.” — 이런 상황이라면, 앞으로 어떻게 대응해야 할지 막막하실 겁니다.^^엔터^^형사합의는 재판에서 **양형(형량 결정)**에 영향을 미치는 중요한 요소입니다. 합의가 이루어지면 피해회복 의지가 인정되어 벌금형이나 집행유예로 감형될 가능성이 높습니다.^^엔터^^
+하지만 합의가 되지 않았다고 해서 반드시 **중형(실형)**으로 이어지는 것은 아닙니다. 법원은 사고의 경위, 피고인의 반성 정도, 피해자 부상 정도, 보험 가입 여부 등을 종합적으로 판단합니다.^^엔터^^피해자와 합의가 불가능할 때, 대신 선택할 수 있는 방법이 공탁금 제도입니다.^^엔터^^
+공탁금은 피해자에게 지급할 금액을 법원에 예치해두는 절차로,^^엔터^^
+피해자가 수령하지 않더라도 “피해보상 의지를 보였다”는 점이 양형에 긍정적으로 작용합니다.^^엔터^^공탁금을 예치하지 않은 상태라면,^^엔터^^형사재판 시 진심 어린 반성문 제출,^^엔터^^사고 경위와 사후 조치(보험처리, 치료비 지급 노력 등)에 대한 구체적 소명,^^엔터^^대인배상Ⅰ 보험 처리 내역서 제출 등이 대안이 될 수 있습니다.^^엔터^^대인배상Ⅰ은 자동차 의무보험으로, 법이 정한 최소한의 보상만 가능합니다.^^엔터^^
+즉, 피해자의 부상 정도가 심하거나 치료 기간이 길어질 경우 실제 손해액보다 적은 보상이 이뤄집니다.^^엔터^^
+이때 피해자는 추가 손해배상을 민사소송으로 청구할 수 있으며,^^엔터^^
+그 과정에서 가해자에게 형사합의를 요구할 수도 있습니다.^^엔터^^따라서, 대인배상Ⅰ만 가입되어 있다면^^엔터^^추가 치료비나 위자료를 본인 부담으로 해결할 가능성을 염두에 두고,^^엔터^^향후 형사재판 대비를 위해 변호인 조력을 받는 것이 좋습니다.^^엔터^^피해자와의 합의나 공탁이 어렵다면, 다음 순서로 대응해보세요.^^엔터^^① 보험사 처리 진행 상황 확인^^엔터^^
+→ 대인배상Ⅰ 처리 내역을 명확히 정리해 법원에 제출합니다.^^엔터^^② 진정서 및 반성문 준비^^엔터^^
+→ 피해 회복 의지를 보여주는 서류는 감형에 큰 도움이 됩니다.^^엔터^^③ 재판부에 선처 요청^^엔터^^
+→ 경제적 사정, 가족 부양 사유, 초범 여부 등을 상세히 설명합니다.^^엔터^^④ 전문가 상담 권장^^엔터^^
+→ 형사전문 변호사나 법률구조공단의 무료 상담을 통해,^^엔터^^
+사건별 최적의 대응 전략을 세울 수 있습니다.^^엔터^^형사합의가 이루어지지 않았고, 공탁금도 예치하지 못했다고 해서^^엔터^^
+모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 단순히 금전적 합의만이 아닌, 피해자에 대한 진심 어린 사과와 피해 회복 노력의 정도를 함께 평가합니다.^^엔터^^현재 가능한 모든 방법을 활용해^^엔터^^
+보험사 처리, 반성문 제출, 법률 상담 등을 진행하신다면^^엔터^^
+결과적으로 보다 선처받을 가능성은 충분히 있습니다.^^엔터^^형사합의가 어렵다면, 공탁 또는 법률상 조치로 대체할 수 있습니다.^^엔터^^
+감정적인 대응보다 체계적인 준비와 전문가 상담이 무엇보다 중요합니다.^^엔터^^
+조금 늦었더라도 지금부터 차근차근 준비해보세요.^^엔터^^<<<전체 글 끝>>>
+⚠️ 이모지가 2개 미만입니다 → split 불가 → 중앙 분할 수행
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<형사합의가 어려운 상황, 공탁 없이도 가능한 현실적 대응방법>>]]^^엔터^^갑작스러운 교통사고나 형사 사건으로 인해 가해자 신분이 되는 경우, 대부분 가장 먼저 고민하는 것은 피해자와의 형사합의입니다. 하지만 현실에서는 피해자가 연락을 거부하거나, 금전적 요구가 과도해 합의가 이루어지지 않는 경우도 많습니다.^^엔터^^
+“피해자와 형사합의를 하지 못하였습니다. 공탁금도 공탁하지 않았습니다. 대인배상Ⅰ 책임보험만 가입하였습니다.” — 이런 상황이라면, 앞으로 어떻게 대응해야 할지 막막하실 겁니다.^^엔터^^형사합의는 재판에서 **양형(형량 결정)**에 영향을 미치는 중요한 요소입니다. 합의가 이루어지면 피해회복 의지가 인정되어 벌금형이나 집행유예로 감형될 가능성이 높습니다.^^엔터^^
+하지만 합의가 되지 않았다고 해서 반드시 **중형(실형)**으로 이어지는 것은 아닙니다. 법원은 사고의 경위, 피고인의 반성 정도, 피해자 부상 정도, 보험 가입 여부 등을 종합적으로 판단합니다.^^엔터^^피해자와 합의가 불가능할 때, 대신 선택할 수 있는 방법이 공탁금 제도입니다.^^엔터^^
+공탁금은 피해자에게 지급할 금액을 법원에 예치해두는 절차로,^^엔터^^
+피해자가 수령하지 않더라도 “피해보상 의지를 보였다”는 점이 양형에 긍정적으로 작용합니다.^^엔터^^공탁금을 예치하지 않은 상태라면,^^엔터^^형사재판 시 진심 어린 반성문 제출,^^엔터^^사고 경위와 사후 조치(보험처리, 치료비 지급 노력 등)에 대한 구체적 소명,^^엔터^^대인배상Ⅰ 보험 처리 내역서 제출 등이 대안이 될 수 있습니다.^^엔터^^대인배상Ⅰ은 자동차 의무보험으로, 법이 정한 최소한의 보상만 가능합니다.^^엔터^^
+즉, 피해자의 부상 정도가 심하거나 치료 기간이 길어질 경우 
+===== B 영역 =====
+실제 손해액보다 적은 보상이 이뤄집니다.^^엔터^^
+이때 피해자는 추가 손해배상을 민사소송으로 청구할 수 있으며,^^엔터^^
+그 과정에서 가해자에게 형사합의를 요구할 수도 있습니다.^^엔터^^따라서, 대인배상Ⅰ만 가입되어 있다면^^엔터^^추가 치료비나 위자료를 본인 부담으로 해결할 가능성을 염두에 두고,^^엔터^^향후 형사재판 대비를 위해 변호인 조력을 받는 것이 좋습니다.^^엔터^^피해자와의 합의나 공탁이 어렵다면, 다음 순서로 대응해보세요.^^엔터^^① 보험사 처리 진행 상황 확인^^엔터^^
+→ 대인배상Ⅰ 처리 내역을 명확히 정리해 법원에 제출합니다.^^엔터^^② 진정서 및 반성문 준비^^엔터^^
+→ 피해 회복 의지를 보여주는 서류는 감형에 큰 도움이 됩니다.^^엔터^^③ 재판부에 선처 요청^^엔터^^
+→ 경제적 사정, 가족 부양 사유, 초범 여부 등을 상세히 설명합니다.^^엔터^^④ 전문가 상담 권장^^엔터^^
+→ 형사전문 변호사나 법률구조공단의 무료 상담을 통해,^^엔터^^
+사건별 최적의 대응 전략을 세울 수 있습니다.^^엔터^^형사합의가 이루어지지 않았고, 공탁금도 예치하지 못했다고 해서^^엔터^^
+모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 단순히 금전적 합의만이 아닌, 피해자에 대한 진심 어린 사과와 피해 회복 노력의 정도를 함께 평가합니다.^^엔터^^현재 가능한 모든 방법을 활용해^^엔터^^
+보험사 처리, 반성문 제출, 법률 상담 등을 진행하신다면^^엔터^^
+결과적으로 보다 선처받을 가능성은 충분히 있습니다.^^엔터^^형사합의가 어렵다면, 공탁 또는 법률상 조치로 대체할 수 있습니다.^^엔터^^
+감정적인 대응보다 체계적인 준비와 전문가 상담이 무엇보다 중요합니다.^^엔터^^
+조금 늦었더라도 지금부터 차근차근 준비해보세요.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<형사합의가 어려운 상황, 공탁 없이도 가능한 현실적 대응방법>>]]^^엔터^^갑작스러운 교통사고나 형사 사건으로 인해 가해자 신분이 되는 경우, 대부분 가장 먼저 고민하는 것은 피해자와의 형사합의입니다. 하지만 현실에서는 피해자가 연락을 거부하거나, 금전적 요구가 과도해 합의가 이루어지지 않는 경우도 많습니다.^^엔터^^
+“피해자와 형사합의를 하지 못하였습니다. 공탁금도 공탁하지 않았습니다. 대인배상Ⅰ 책임보험만 가입하였습니다.” — 이런 상황이라면, 앞으로 어떻게 대응해야 할지 막막하실 겁니다.^^엔터^^형사합의는 재판에서 **양형(형량 결정)**에 영향을 미치는 중요한 요소입니다. 합의가 이루어지면 피해회복 의지가 인정되어 벌금형이나 집행유예로 감형될 가능성이 높습니다.^^엔터^^
+하지만 합의가 되지 않았다고 해서 반드시 **중형(실형)**으로 이어지는 것은 아닙니다. 법원은 사고의 경위, 피고인의 반성 정도, 피해자 부상 정도, 보험 가입 여부 등을 종합적으로 판단합니다.^^엔터^^피해자와 합의가 불가능할 때, 대신 선택할 수 있는 방법이 공탁금 제도입니다.^^엔터^^
+공탁금은 피해자에게 지급할 금액을 법원에 예치해두는 절차로,^^엔터^^
+피해자가 수령하지 않더라도 “피해보상 의지를 보였다”는 점이 양형에 긍정적으로 작용합니다.^^엔터^^공탁금을 예치하지 않은 상태라면,^^엔터^^형사재판 시 진심 어린 반성문 제출,^^엔터^^사고 경위와 사후 조치(보험처리, 치료비 지급 노력 등)에 대한 구체적 소명,^^엔터^^대인배상Ⅰ 보험 처리 내역서 제출 등이 대안이 될 수 있습니다.^^엔터^^대인배상Ⅰ은 자동차 의무보험으로, 법이 정한 최소한의 보상만 가능합니다.^^엔터^^
+즉, 피해자의 부상 정도가 심하거나 치료 기간이 길어질 경우 실제 손해액보다 적은 보상이 이뤄집니다.^^엔터^^
+이때 피해자는 추가 손해배상을 민사소송으로 청구할 수 있으며,^^엔터^^
+그 과정에서 가해자에게 형사합의를 요구할 수도 있습니다.^^엔터^^따라서, 대인배상Ⅰ만 가입되어 있다면^^엔터^^추가 치료비나 위자료를 본인 부담으로 해결할 가능성을 염두에 두고,^^엔터^^향후 형사재판 대비를 위해 변호인 조력을 받는 것이 좋습니다.^^엔터^^피해자와의 합의나 공탁이 어렵다면, 다음 순서로 대응해보세요.^^엔터^^① 보험사 처리 진행 상황 확인^^엔터^^
+→ 대인배상Ⅰ 처리 내역을 명확히 정리해 법원에 제출합니다.^^엔터^^② 진정서 및 반성문 준비^^엔터^^
+→ 피해 회복 의지를 보여주는 서류는 감형에 큰 도움이 됩니다.^^엔터^^③ 재판부에 선처 요청^^엔터^^
+→ 경제적 사정, 가족 부양 사유, 초범 여부 등을 상세히 설명합니다.^^엔터^^④ 전문가 상담 권장^^엔터^^
+→ 형사전문 변호사나 법률구조공단의 무료 상담을 통해,^^엔터^^
+사건별 최적의 대응 전략을 세울 수 있습니다.^^엔터^^형사합의가 이루어지지 않았고, 공탁금도 예치하지 못했다고 해서^^엔터^^
+모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 단순히 금전적 합의만이 아닌, 피해자에 대한 진심 어린 사과와 피해 회복 노력의 정도를 함께 평가합니다.^^엔터^^현재 가능한 모든 방법을 활용해^^엔터^^
+보험사 처리, 반성문 제출, 법률 상담 등을 진행하신다면^^엔터^^
+결과적으로 보다 선처받을 가능성은 충분히 있습니다.^^엔터^^형사합의가 어렵다면, 공탁 또는 법률상 조치로 대체할 수 있습니다.^^엔터^^
+감정적인 대응보다 체계적인 준비와 전문가 상담이 무엇보다 중요합니다.^^엔터^^
+조금 늦었더라도 지금부터 차근차근 준비해보세요.^^엔터^^<<<전체 글 끝>>>
+matches2: 형사합의가 어려운 상황, 공탁 없이도 가능한 현실적 대응방법
+text2: ^^엔터^^^^엔터^^갑작스러운 교통사고나 형사 사건으로 인해 가해자 신분이 되는 경우, 대부분 가장 먼저 고민하는 것은 피해자와의 형사합의입니다. 하지만 현실에서는 피해자가 연락을 거부하거나, 금전적 요구가 과도해 합의가 이루어지지 않는 경우도 많습니다.^^엔터^^
+“피해자와 형사합의를 하지 못하였습니다. 공탁금도 공탁하지 않았습니다. 대인배상Ⅰ 책임보험만 가입하였습니다.” — 이런 상황이라면, 앞으로 어떻게 대응해야 할지 막막하실 겁니다.^^엔터^^형사합의는 재판에서 **양형(형량 결정)**에 영향을 미치는 중요한 요소입니다. 합의가 이루어지면 피해회복 의지가 인정되어 벌금형이나 집행유예로 감형될 가능성이 높습니다.^^엔터^^
+하지만 합의가 되지 않았다고 해서 반드시 **중형(실형)**으로 이어지는 것은 아닙니다. 법원은 사고의 경위, 피고인의 반성 정도, 피해자 부상 정도, 보험 가입 여부 등을 종합적으로 판단합니다.^^엔터^^피해자와 합의가 불가능할 때, 대신 선택할 수 있는 방법이 공탁금 제도입니다.^^엔터^^
+공탁금은 피해자에게 지급할 금액을 법원에 예치해두는 절차로,^^엔터^^
+피해자가 수령하지 않더라도 “피해보상 의지를 보였다”는 점이 양형에 긍정적으로 작용합니다.^^엔터^^공탁금을 예치하지 않은 상태라면,^^엔터^^형사재판 시 진심 어린 반성문 제출,^^엔터^^사고 경위와 사후 조치(보험처리, 치료비 지급 노력 등)에 대한 구체적 소명,^^엔터^^대인배상Ⅰ 보험 처리 내역서 제출 등이 대안이 될 수 있습니다.^^엔터^^대인배상Ⅰ은 자동차 의무보험으로, 법이 정한 최소한의 보상만 가능합니다.^^엔터^^
+즉, 피해자의 부상 정도가 심하거나 치료 기간이 길어질 경우 실제 손해액보다 적은 보상이 이뤄집니다.^^엔터^^
+이때 피해자는 추가 손해배상을 민사소송으로 청구할 수 있으며,^^엔터^^
+그 과정에서 가해자에게 형사합의를 요구할 수도 있습니다.^^엔터^^따라서, 대인배상Ⅰ만 가입되어 있다면^^엔터^^추가 치료비나 위자료를 본인 부담으로 해결할 가능성을 염두에 두고,^^엔터^^향후 형사재판 대비를 위해 변호인 조력을 받는 것이 좋습니다.^^엔터^^피해자와의 합의나 공탁이 어렵다면, 다음 순서로 대응해보세요.^^엔터^^① 보험사 처리 진행 상황 확인^^엔터^^
+→ 대인배상Ⅰ 처리 내역을 명확히 정리해 법원에 제출합니다.^^엔터^^② 진정서 및 반성문 준비^^엔터^^
+→ 피해 회복 의지를 보여주는 서류는 감형에 큰 도움이 됩니다.^^엔터^^③ 재판부에 선처 요청^^엔터^^
+→ 경제적 사정, 가족 부양 사유, 초범 여부 등을 상세히 설명합니다.^^엔터^^④ 전문가 상담 권장^^엔터^^
+→ 형사전문 변호사나 법률구조공단의 무료 상담을 통해,^^엔터^^
+사건별 최적의 대응 전략을 세울 수 있습니다.^^엔터^^형사합의가 이루어지지 않았고, 공탁금도 예치하지 못했다고 해서^^엔터^^
+모든 것이 끝난 것은 아닙니다.^^엔터^^
+법원은 단순히 금전적 합의만이 아닌, 피해자에 대한 진심 어린 사과와 피해 회복 노력의 정도를 함께 평가합니다.^^엔터^^현재 가능한 모든 방법을 활용해^^엔터^^
+보험사 처리, 반성문 제출, 법률 상담 등을 진행하신다면^^엔터^^
+결과적으로 보다 선처받을 가능성은 충분히 있습니다.^^엔터^^형사합의가 어렵다면, 공탁 또는 법률상 조치로 대체할 수 있습니다.^^엔터^^
+감정적인 대응보다 체계적인 준비와 전문가 상담이 무엇보다 중요합니다.^^엔터^^
+조금 늦었더라도 지금부터 차근차근 준비해보세요.^^엔터^^
+check_word_length 0
+len(kkq) 1712
+ID_IMAGE ID1.png
+src_folder C:\Users\HOME\Desktop\x\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png', 'C:\\MyApp\\images\\ID5.png', 'C:\\MyApp\\images\\ID6.png', 'C:\\MyApp\\images\\ID7.png', 'C:\\MyApp\\images\\ID8.png', 'C:\\MyApp\\images\\ID9.png', 'C:\\MyApp\\images\\ID10.png']
+[INFO] VPN 창 후보 선택: hwnd=1312466, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1584, 499)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1654, y=307)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1654, y=307)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+이미 접속중 입니다. 돌아갑니다 520
+뒤로 넘어가기 530
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1654, y=307)
+loc_GREEN Point(x=1590, y=487)
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 222.112.224.167
+DB access----success!!
+2--now_device_check 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+2--device_check_DB 301FCCAA-C5BC-11E7-B40D-921CDCB86B00
+타이틀에 ['네이버 : 로그인', '로그인', '네이버', '새 탭'] 포함된 Chrome 창이 없습니다.
+제목  교통사고전문변호사
+✅ Chrome 실행 파일 찾음: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile mija4111 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile mija4111
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile mija4111)
+cookies [{'domain': '.naver.com', 'expiry': 1796889007, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2TNrB0AksGaE'}, {'domain': '.naver.com', 'expiry': 1762329709, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1762329410'}, {'domain': '.naver.com', 'expiry': 1796889409, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'dt2LKXM3RgQDconNvn6A_Y90Z5Gv5kITEsWr1yLEU1M='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7941A51FD73EB513CA164D2BF8F59473.jvm1'}, {'domain': '.naver.com', 'expiry': 1762415407, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1796889409, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'RQZXZDNPAEFWS'}, {'domain': '.blog.naver.com', 'expiry': 1796889047, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '8533829e-2aae-40f7-9551-f59175357ca7'}, {'domain': '.naver.com', 'expiry': 1796889039, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'nX/xQ54+HSaDYkqGh6LpkEG47Cl0If9l5g+tAWIfCMBHTCytFr5tHrOapc1wKnkD'}, {'domain': '.naver.com', 'expiry': 1764921039, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1443089540'}, {'domain': '.naver.com', 'expiry': 1762331209, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1762329007'}, {'domain': '.naver.com', 'expiry': 1764921039, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABlwo+4Poy65V1MQaPEtALZdfYvq4dl7RMpUFlAwakaYPf9+/1iTpSz0q1SIg+Z8DFaIb7sWKaCTzZ1UGMffxmBc+dcJBIWP+J+xYqOZFkpoJRapZFvthqDQv+N+uFb8zMoW/4LBJazQZE2DTU19gF5fuSSfZ9K+kg5tpIw7R2L0e9M+UkeXLlt5+xNJYIgbKzKffOX+Xq6lh8RPIIIXVrUK3jpEmfLaFcGkZD+Rc/GGQ8YTQEnEBvwCVHsPd7eqRv2pBgxhFMmd8MuL9Xxmx3znT7TcYFxzuhrN4O9z6K5X6Qm6bqj+lhbmMyQVSC/W2GB3XQCa5m4VYYhvjcvMnK6o4fFltnrAsv7Fs7r+cMfX2uK/W9VXlkMZbiZAo5mEcZ1b9MXlQEZbCa2DE0DJVbP8uSUIQNJzbN9824rpbIGchzis2uc5FHDgdHXh9Cr5hNT0DUcktatVIgOiLBDzK4yaPNmcEl2XYuZkRItOqyu2r0iD7KBXxZVSGIyZorn7jwEPsJBIc8NJpC5hS64OGmCnFvhgATzUEvDqOhAmtTgDid'}]
+NAC -> 2TNrB0AksGaE
+SRT5 -> 1762329410
+BUC -> dt2LKXM3RgQDconNvn6A_Y90Z5Gv5kITEsWr1yLEU1M=
+JSESSIONID -> 7941A51FD73EB513CA164D2BF8F59473.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> RQZXZDNPAEFWS
+BA_DEVICE -> 8533829e-2aae-40f7-9551-f59175357ca7
+NID_AUT -> nX/xQ54+HSaDYkqGh6LpkEG47Cl0If9l5g+tAWIfCMBHTCytFr5tHrOapc1wKnkD
+nid_inf -> 1443089540
+SRT30 -> 1762329007
+NID_SES -> AAABlwo+4Poy65V1MQaPEtALZdfYvq4dl7RMpUFlAwakaYPf9+/1iTpSz0q1SIg+Z8DFaIb7sWKaCTzZ1UGMffxmBc+dcJBIWP+J+xYqOZFkpoJRapZFvthqDQv+N+uFb8zMoW/4LBJazQZE2DTU19gF5fuSSfZ9K+kg5tpIw7R2L0e9M+UkeXLlt5+xNJYIgbKzKffOX+Xq6lh8RPIIIXVrUK3jpEmfLaFcGkZD+Rc/GGQ8YTQEnEBvwCVHsPd7eqRv2pBgxhFMmd8MuL9Xxmx3znT7TcYFxzuhrN4O9z6K5X6Qm6bqj+lhbmMyQVSC/W2GB3XQCa5m4VYYhvjcvMnK6o4fFltnrAsv7Fs7r+cMfX2uK/W9VXlkMZbiZAo5mEcZ1b9MXlQEZbCa2DE0DJVbP8uSUIQNJzbN9824rpbIGchzis2uc5FHDgdHXh9Cr5hNT0DUcktatVIgOiLBDzK4yaPNmcEl2XYuZkRItOqyu2r0iD7KBXxZVSGIyZorn7jwEPsJBIc8NJpC5hS64OGmCnFvhgATzUEvDqOhAmtTgDid
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=lawyer643&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+cookies {'NAC': '2TNrB0AksGaE', 'NNB': 'RQZXZDNPAEFWS', 'BA_DEVICE': '971ff54c-1156-4b76-971a-1dea739d8387', 'stat_yn': '1', 'page_uid': 'ipH1SlprfjCssfzzVZwssssssRl-064457', 'nid_inf': '1443089540', 'NID_AUT': 'nX/xQ54+HSaDYkqGh6LpkEG47Cl0If9l5g+tAWIfCMBHTCytFr5tHrOapc1wKnkD', 'NID_JKL': '', 'NACT': '1', 'BUC': 'dt2LKXM3RgQDconNvn6A_Y90Z5Gv5kITEsWr1yLEU1M=', 'JSESSIONID': 'EB6022D944A4E08A0CBFFB5035C40896.jvm1', 'NID_SES': 'AAABlwo+4Poy65V1MQaPEtALZdfYvq4dl7RMpUFlAwakaYPf9+/1iTpSz0q1SIg+Z8DFaIb7sWKaCTzZ1UGMffxmBc+dcJBIWP+J+xYqOZFkpoJRapZFvthqDQv+N+uFb8zMoW/4LBJazQZE2DTU19gF5fuSSfZ9K+kg5tpIw7R2L0e9M+UkeXLlt5+xNJYIgbKzKffOX+Xq6lh8RPIIIXVrUK3jpEmfLaFcGkZD+Rc/GGQ8YTQEnEBvwCVHsPd7eqRv2pBgxhFMmd8MuL9Xxmx3znT7TcYFxzuhrN4O9z6K5X6Qm6bqj+lhbmMyQVSC/W2GB3XQCa5m4VYYhvjcvMnK6o4fFltnrAsv7Fs7r+cMfX2uK/W9VXlkMZbiZAo5mEcZ1b9MXlQEZbCa2DE0DJVbP8uSUIQNJzbN9824rpbIGchzis2uc5FHDgdHXh9Cr5hNT0DUcktatVIgOiLBDzK4yaPNmcEl2XYuZkRItOqyu2r0iD7KBXxZVSGIyZorn7jwEPsJBIc8NJpC5hS64OGmCnFvhgATzUEvDqOhAmtTgDid'}
+쿠키 체크--2
+쿠키 체크--3
+===============
+scripts [<script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/global/RemoveSubDomain-12d2f16_https.js" type="text/javascript"></script>, <script>
+
+
+
+
+
+
+var mylogURL = 'https://blog.naver.com';
+var adminURL = 'https://admin.blog.naver.com';
+var noteURL = 'https://note.naver.com';
+var itemURL = 'https://item.naver.com';
+var cafeURL = 'https://cafe.naver.com';
+var profileURL = 'https://blog.naver.com';
+var blogURL = 'https://blog.naver.com';
+var blogURLHttp = 'https://blog.naver.com';
+var prologueURL = 'https://blog.naver.com';
+var sectionURL = 'https://section.blog.naver.com';
+var memologURL = 'https://blog.naver.com';
+var lifeURL = 'https://lifelog.blog.naver.com';
+var uploadURL = 'https://upload.blog.naver.com';
+var imageURL = 'https://blogimgs.pstatic.net';
+var attachURL = 'https://blogfiles.pstatic.net';
+var thumbnailURL = 'https://blogthumb.pstatic.net';
+var nonCachedThumbnailURL = 'https://blogthumb.pstatic.net';
+var filetransURL = 'http://filetrans.blog.naver.com';
+var item2_bridgeURL = 'http://bridge.item2.naver.com';
+var idURL = 'http://nid.naver.com';
+var idURLSecret = 'https://nid.naver.com';
+var mapviewURL = 'http://mapview.naver.com';
+var exifURL = 'https://exif-blog.ssl.phinf.net';
+var viewerImageUrl = imageURL + "/blog20/blog/layout_photo/viewer/";
+var domainURL = "";
+var greenReviewCampaignURL = 'http://campaign.naver.com';
+var writeURL = 'https://blog.naver.com';
+var spiURL = 'https://ssl.pstatic.net/spi';
+var blogProfileThumbnailUrl='https://blogpfthumb-phinf.pstatic.net';
+var naverCommentStaticURL = 'https://ssl.pstatic.net/static.cbox';
+var naverCommentApiURL = 'https://apis.naver.com/commentBox/cbox9';
+var naverCommentApiProxyURL = 'https://apis.naver.com/commentBox/blogid';
+var itemImagesURL = 'https://blogimgs.pstatic.net/item';
+
+var sCssUrlForPhotoLayer = 'https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/css/storyphoto_original_viewer-adf5d27_https.css';
+var commonStatDailyURL = 'https://blog.stat.naver.com';
+var baUrl = 'https://scv-blog.io.naver.com/jackpotlog/v1/logs';
+
+
+
+
+
+var blogId = 'lawyer643' || 'lawyer643';  
+var userId = 'lawyer643'; 
+var userNo = '167193349'; 
+var userNaverId = 'mija4111';
+var baUserKey = 'b63236f6de1b825e8b85042efde34c60e1b1942dea083581d5601e1d636e654e';
+var userIdNo = "2dotkk";
+
+
+
+var isWritingBlocked = false;
+var isWritingBlockedBySpamIP = false;
+var isWritingBlockedBySpamIPManually = false;
+var isLoggedIn = true;
+var isShortestContentAreaWidth = false;
+
+var blogOwner = true; 
+
+var blogNo = '167193349';
+var nickName = 'lawyer643';
+var isInitializingBlog = false;
+var rightClickOpenYn = false;
+var isMylogBlocked = false;
+var isBlogBlock = false;
+var blockOrWriteBlock = false;
+var autoSourcingYn = true;
+
+
+var isMemolog = false;
+var isMemologList = false;
+var isPrologue = false;
+
+
+var isBlogMe = false;
+
+var isUsingUrl = false;
+
+
+var isRequestFromIPad = false;
+
+
+var isOverIOS5_0Version = false;
+var isOverAndroidJellybeanVersion = false;
+var isCommingNaverApp = false;
+var isUsingNaverKitkatEngine = false;
+var isAndroidKitkatVersion = false;
+
+var defaultSmartEditorVersion = 2;
+
+var adContentLocation = "-1";
+var gAdBucket = "";
+
+
+
+
+
+
+var readOnlyStatus = false;
+var readOnlyStatusAll = false;
+var readOnlyLinkErrorMsg = '죄송합니다. 블로그 서비스 점검 중입니다. \n점검 시간 동안은 기능 이용이 제한됩니다. \n자세한 내용은 블로그 홈 공지사항을 참고해주세요.';
+var readOnlyCommentMsg = '12월 17일(월) 오전 0시~8시 서비스 점검으로 댓글 작성이 제한됩니다. \n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+var sIsTagReadOnly = '';
+var sTagSorryText = '죄송합니다. 태그 서비스 점검 중입니다.\n점검 시간 동안은 일부 서비스 이용이 제한됩니다.\n자세한 내용은 공지사항을 참조하세요.';
+var blogQuickPostingUseType = "NOT_USING"; 
+
+
+
+
+var isCommentReadOnly = false;
+var sCommentReadOnlyBlockSubmit = '죄송합니다. 블로그 댓글, 답글 서비스 점검 중에는 이용이 제한됩니다.';
+var sCommentReadOnlyWriteMsg = '서비스 점검으로 댓글 작성이 제한됩니다.\n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+ 
+
+
+
+
+
+
+
+var isJeagleDebug = false;
+
+
+
+
+
+var skinId = "0";
+var skinType = "N";
+
+var isEnglish = "false";
+
+var areaCode = "11B10101";
+var weatherType = "0";
+
+var currencySign = "ALL";
+
+var listNumVisitor = '5';
+var isVisitorOpen = true;
+var isCategoryOpen = true;
+var writingMaterialListType = '1'
+var previewCalType = '';
+
+
+
+var oExternalWidget = [];
+
+
+var calType = "";
+
+
+var curLog = 'https://blog.naver.com';
+var playerType = '0';
+var playerDesign = '1';
+
+
+var isCommentOpen = false;
+var listNumComment = 5;
+
+
+var isBuddyOpen = false;
+
+
+
+var userSelectMenu = '';
+
+
+var visitorgpData = '';
+var vigitorSetUrl = '';
+var vigitorPropUrl = '/versioning//common/swf/Widget/visitorGP/VisitorGP-50a2c61.xml';
+var visitorgp_vars = {
+	setUrl    : vigitorSetUrl,
+	req_url   : '/NVisitorgp4Ajax.naver?blogId=' + blogId,
+	prop_url  : vigitorPropUrl,
+	graphType : visitorgpData,
+	flashvars : function(){
+		return "req_url=" + this.req_url +"&prop_url=" + this.prop_url +"&graphType=" + this.graphType;
+	},
+	height    : 121
+};
+
+
+
+var watchData = '';
+var watch_design = {
+	name    : watchData.split('|')[0],
+	font    : watchData.split('|')[1],
+	color   : watchData.split('|')[2],
+	bgcolor : watchData.split('|')[3]
+}
+var watch_vars = {
+	blogId : blogId,
+	skinType : skinType,
+	skinId : skinId
+}
+
+
+var serviceId = '';
+var naverId = '';
+var happyBeanApiURL = '';
+var reqparam = '';
+var HAPPYBEAN_API_URL = "";
+var HAPPYBEAN_FUND_URL = "";
+//var HAPPYBEAN_MY_URL   = "";
+var HAPPYBEAN_DONATION_URL = "";
+
+
+
+
+var selectCategoryNo = "";
+
+
+var aNonWidget = ['rss', 'powered','adpost','buddyconnect','greenreview'];
+<!-- var aWidget = ['gnb', 'externalwidget','music'];  -->
+var aWidget = [];
+
+
+aWidget.push('profile');
+
+aWidget.push('category');
+
+aWidget.push('stat');
+
+aWidget.push('rss');
+
+aWidget.push('search');
+
+aWidget.push('title');
+
+aWidget.push('menu');
+
+aWidget.push('content');
+
+aWidget.push('gnb');
+
+aWidget.push('externalwidget');
+
+var bIsRemocon = false;
+var bIsPreview = document.location.href.indexOf("PostPreview.nhn") > -1 || document.location.href.indexOf("MemologMemoPreview.nhn") > -1;
+
+var isTopLayoutEmpty = false;
+
+var openSideType = "1";
+var foldSideType = "2";
+
+var g_ContentShareObject = {
+	adPostPreview : false,
+	adPostPreviewSide : false,
+	adPostPreviewContent : false,
+	adPostAlign : "",
+	adPostCount : ""
+};
+
+var blogDomainUrl = "";
+var sAjaxFlashUrl = '/versioning//common/lib/ajax.flash/ajax-885363e.swf';
+var isHappyBeanLeverage = false;
+
+
+var doc = document.documentElement;
+doc.setAttribute('data-useragent',navigator.userAgent);
+var gbIsNotOpenBlogUser = "false" === "true";
+var gbIsNPayAccepted = "false";
+var gbIsPayAcceptedOrBefore = "false";
+</script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Jindo152-313837964_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutTopCommon-1044321278_https.js" type="text/javascript"></script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/JindoComponent-190469086_https.js" type="text/javascript"></script>, <script type="text/javascript">
+	var gbTrackingCode = '';
+	var gbTrackingCodeReferer = '';
+</script>, <script type="text/javascript">JEagleEyeClient.setEnable(isJeagleDebug);</script>, <script type="text/javascript">
+	var autoCompleteToSearchSwitch = "true" === "true";
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarSearch-fb8fefd_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/LayerPopup-a141e19_https.js"></script>, <script src="https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PhotoViewerNew-88085474_https.js" type="text/javascript"></script>, <script>
+        window.profileImagePhotoViewerOn = true;
+    </script>, <script type="text/javascript">
+    $Fn(function () {
+        var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
+        var beyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+
+        PhotoViewerNew.initThumbnailTypeW3840EnableDomainListJson(thumbnailTypeW3840EnableDomainListJson);
+        if (typeof mylogBaEventSender != 'undefined' && typeof baUserKey != 'undefined') {
+            PhotoViewerNew.initBeyondAnalytics(mylogBaEventSender, beyondAnalyticsUrl, baUserKey)
+        }
+    }).attach(window, "load");
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/3.2.1/jquery-3.2.1-d2d8ca4_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/jquery.loadTemplate-1.5.10.min-c0311fc_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/lottie.min-0e23629_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/BlogDomainRegisterLayer-947857105_https.js" type="text/javascript"></script>, <script type="text/javascript">
+    jQuery.noConflict();
+</script>, <script type="text/javascript">
+	var gnb_service="blog";
+	var gnb_template="gnb_utf8";
+	var gnb_brightness=1;
+	var gnb_url='https://blog.naver.com/lawyer643';
+	var gnb_logout = gnb_url;
+	var gnb_login = gnb_url;
+	var gnb_login_on_top = true;
+	var gnb_item_hide_option= 1|4|8|16|128;
+	var isGetGnbCalled = false;
+	
+	window.onload = function() {
+		if (!isGetGnbCalled) {
+			getGNB();
+			isGetGnbCalled = true;
+		}
+		setSkipNavigationInfo();
+	};
+	
+	//웹접근성 스킵네비게이션 설정
+	function setSkipNavigationInfo() {
+		var contentsId;
+		if ($("postListBody")) {
+			contentsId = "postListBody";
+		} else {
+			contentsId = "post-area";
+		}
+
+		if (contentsId) {
+			$("goContentsAreaLink").href = "#" + contentsId;
+
+			if (document.getElementById("goContentsAreaLink").addEventListener) {
+				document.getElementById("goContentsAreaLink").addEventListener(
+						'click', onClickChangeFocus, false);
+			} else if (document.getElementById("goContentsAreaLink").attachEvent) {	//IE8을 위한 이벤트 등록 리스너
+				document.getElementById("goContentsAreaLink").attachEvent(
+						'click', onClickChangeFocus);
+			}
+
+			function onClickChangeFocus() {
+				var t = document.getElementById(contentsId);
+				t.tabIndex = -1;
+				t.focus();
+				return false;
+			};
+		}
+	}
+
+
+	var goMarketAdmin = function (isWheelEvent) {
+		sendClickNlog('gnb_myb.itemlist','');
+		if (userAgentUtil.isSafariBrowser() || userAgentUtil.isUnderIE11VersionBrowser()){
+			if (confirm("이 브라우저는 현재 블로그 마켓 관리를 지원하지 않습니다.\n 네이버 웨일 등 다른 브라우저를 이용하시기 바랍니다.\n 지금 네이버 웨일을 설치하시겠습니까?")) {
+				window.open("https://whale.naver.com/ko/download");
+				return;
+			}
+
+			return;
+		}
+
+		if ("" === 'fee_not_set') {
+			if (confirm("배송비 설정을 마친 후 마켓 관리 메뉴에 접근할 수 있습니다. 배송비 설정으로 이동하시겠습니까?")) {
+				window.location = 'https://seller.blog.naver.com' + "/market/deliveryFee";
+				return;
+			}
+
+			return;
+		}
+
+
+		if(isWheelEvent){
+			window.open('https://seller.blog.naver.com' + "/market/my");
+			return;
+		}
+
+		if (window.parent) {
+			window.parent.location = 'https://seller.blog.naver.com' + "/market/my";
+			return;
+		}
+
+		window.location = 'https://seller.blog.naver.com' + "/market/my";
+	};
+</script>, <script charset="utf-8" id="gnb-script" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Wed Nov 05 16:56:56 KST 2025" type="text/javascript"></script>, <script type="text/javascript">
+    var doc = document.documentElement;
+    doc.setAttribute('data-useragent',navigator.userAgent);
+setTimeout(function() {
+	if (!isGetGnbCalled) {
+		getGNB();
+		isGetGnbCalled = true;
+	}
+}, 1500);
+</script>, <script id="naverCommentCustomCssTpl" type="text/template">
+#post-area .commentbox_header,
+#post-area .u_cbox \{background:{=comment} !important;\}
+
+#post-area .u_cbox .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_target_name,
+#post-area .u_cbox .u_cbox_comment .u_cbox_text_wrap,
+#post-area .u_cbox .u_cbox_date,
+#post-area .u_cbox .u_cbox_btn_report,
+#post-area .u_cbox .u_cbox_btn_unhide,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_cnt_page,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_num_page,
+#post-area .commentbox_header .btn_write_comment,
+#post-area .commentbox_header .commentbox_pagination .num,
+#post-area .commentbox_header .btn_pagination .icon,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_stat_secret,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_ico_open \{color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_info_base .u_cbox_ico_bar \{background-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before \{border-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_mine .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page .u_cbox_num_page,
+#post-area .commentbox_header .commentbox_pagination .num strong,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_editor .u_cbox_txt_editor \{color:{=pcol3} !important;\}
+
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on:before,
+#post-area .u_cbox .u_cbox_ico_editor \{border-color:{=pcol3} !important;\}
+
+#post-area .u_cbox .u_cbox_content_wrap:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_comment .u_cbox_write_wrap:before,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before
+\{border-color:{=pcol2};\}
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/global/RemoveSubDomain-12d2f16_https.js" type="text/javascript"></script>, <script type="text/javascript">
+
+
+
+
+
+
+
+var isAutoPlayYN = false;
+
+
+var tagOpenModeType = '0';
+var tagMarkDisplayIfPostTagEmpty = false;
+
+var categoryNo = '';
+var parentCategoryNo = '';
+var categoryParentCategoryNo = '';
+var currentCategoryNo;
+if(categoryNo=="" && parentCategoryNo == ""){ 
+	currentCategoryNo = 0;
+}else if((categoryNo=="" || categoryNo=="0") && parentCategoryNo != ""){  
+	currentCategoryNo = parentCategoryNo;
+}else if(categoryNo!=""){  
+	currentCategoryNo = categoryNo;
+}
+
+var viewDate = '' || ''; 
+
+
+
+var isFromSearch = false;	
+var isFromSection = false;	
+
+var forFocusingTargetId = "";
+
+var isFirstPage = false;	
+var from = '';	
+var search_logNo = "";
+
+var postListTopCurrentPage = '';
+var categoryName = "";
+
+var gsGfMarketUrl = 'http://m.gfmarket.naver.com';
+
+
+var userTopListCurrentPage = "";
+var userTopListCount = "";
+var userTopListOpen = false; 
+var userTopListManageOpen = false; 
+var isTopListOpen = false; 
+var topListPostCount = "5"; 
+
+var isTopListCategoryEmpty = true;
+if (!isTopListCategoryEmpty) {
+	isTopListOpen = false; 
+	topListPostCount = ""; 
+}
+
+var isThumbnailList = false;
+var isThumbnailView = false;
+
+var aPostSendInfo = [];
+var aPostBaseInfo = [];
+var aPostFiles = [];
+var aPostVideoInfo = [];
+var aPostImageFileSizeInfo = [];
+var aPostAutoSourcingHtmlView = [];
+var aQueuePost = []; 
+var htInitData = [];
+
+var paramLogNo = '';
+var blogId = 'lawyer643';
+var isAfterWrite = false;
+
+
+var isRecommendedBlog = false;
+
+var gdidTag = [];
+var g_ssc = "blog.post";
+var nsc = "blog.post";
+var nFirstLogNo = "";
+var pagePerPostCount = 1;
+
+
+var sCommentNoPosition = '';	
+var isCommentAreaOpen = false;
+var postBottomOptionalAreaType = '';
+var commentAreaOpenType = '';
+var isRelayAreaOpen = false;
+var isSympathyAreaOpen = false;
+var relayAreaOpenType = '';
+var firstPostLogNo = "";
+var firstPostIsAllOpenPost = false;
+var searchImg = '';
+var searchVid = '';
+var blockedBlog = 'false';
+var videoAutoPlay = blockedBlog === 'false';
+
+
+var currentPage = '1';
+var tagParam = '' || '&logNo=224062345293';
+
+
+var imageWidth = '' || '936';
+
+
+var maxNoticePostCount = '5';
+var gbIsPostCommentOpen = false;
+
+
+var isDoPostAggregate = false;
+
+
+var apiGwUrl = 'https://apis.naver.com/';
+var likeItVideoEnable = true;
+var likeItVideoIdListJson = '[]';
+var likeItVideoContentsIdMapJson = '{}';
+
+
+
+var blogNicknameOrBlogId = 'lawyer643';
+
+
+var videoPlayerUrl = "https://ssl.pstatic.net/t.static.blog/mylog/versioning//lib/prismplayer/prismplayer-pc-1.0.6.min-b19d4f3_https.js";
+var advertiseInfoUrl = 'https://api.tv.naver.com';
+var isDevPhase = "false";
+var isStagePhase = "false";
+var isNotHasSe3AndSeOne = false;
+var isScrap = 'false' === 'true';
+
+var postAdvertiseEnableYN = false;
+
+var rproductId = '';
+var bLoginUser = 'true' === 'true';
+var isVideoSubtitleInsertEnable = 'true'  === 'true';
+
+var userNaverId = 'mija4111';
+var showCoupon = '' === 'true';
+var gPcUrl = 'https://blog.naver.com';
+var hasProduct = 'false' === 'true';
+var feEnv = 'real';
+var infEnv = 'real';
+var	gbIsInf = "" == "true" ? true : false;
+var endPageProductMap = JSON.parse('{"224062345293":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"temporaryStopSeller":false,"tradeInterruptionSeller":false,"leaveRequestSeller":false}}');
+var feMobileUrl= "https://fe-m.blog.naver.com";
+
+var blogModuleJs= "https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/post/market/blogModule-f861a1b_https.js";
+
+var itemFactoryDomainDisabled = "true" === "true";
+
+var powerLinkABATestJson = JSON.parse('{}');
+var beyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+var baUserKey = "b63236f6de1b825e8b85042efde34c60e1b1942dea083581d5601e1d636e654e";
+var userIdNo = "2dotkk";
+
+
+
+
+
+
+
+
+	gUserId = "lawyer643";
+	gBlogId = "lawyer643";
+	gSE3Url = "https://blog.editor.naver.com/";
+    gsSesseionId = "EB6022D944A4E08A0CBFFB5035C40896.jvm1";
+    gsSearchKeyword = "";
+    gsBlogOwnerYn = true? "Y" : "N";
+    
+    gIsRabbitWriterOn = 'true';
+	gsSaInfo = "";
+	gbIsNotOpenBlogUser = "false" === "true";
+	gUserNaverId = "mija4111";
+
+	
+	
+		nFirstLogNo = "224062345293";		
+        gnFirstLogNo = "224062345293";
+        gsFirstCategoryName = "\uAC8C\uC2DC\uD310";
+
+	
+	
+	gdidTag[1] = "90000003_00000000000000342B28104D";
+	aPostAutoSourcingHtmlView[1] = "";
+	
+	
+		aPostFiles[1] = JSON.parse('[]'.replace(/\\'/g, ''));
+	
+	aPostVideoInfo[1] = [];
+	
+	aPostImageFileSizeInfo[1] = '{\'\/MjAyNTExMDJfNDYg\/MDAxNzYyMDkwMTg4ODc1.XPAyTKjYCOf7AiQI0L0AwldIwKPOl4XF0WSzQdpWLGAg.L9FUK3sXZBRNrDOD2FauRMWd6RmZ1HCAPjGuA4rDdl4g.PNG\/image.png\': \'374,119|image.png\' , \'\/MjAyNTExMDJfNzcg\/MDAxNzYyMDkwMTg5NzUz.IoM6d3JF6KknKIqRtQCg83BUizeVaEgBfFZunJDsEZ4g.yaHjW0WocIsA5WQA3MmqKdUEDepiroYFayi-h517DBog.PNG\/image.png\': \'358,359|image.png\' , \'\/MjAyNTExMDJfNTUg\/MDAxNzYyMDkwMTkwNTI1.LXZeE2VZBK3ahxqJDn0qRZbiJGTBl_pYnJBXZr75k4cg.T8IKZfY-UR2890K3Pibl5cGjjYHsn4OrIP7Svgifo-gg.PNG\/image.png\': \'311,991|image.png\' , \'\/MjAyNTExMDJfMTgg\/MDAxNzYyMDkwMTkxMjQx.BSm-SVip5QCQIeq4yUWcnYl1Law3LTYEskXgaHNCykgg.oPeigegygbU2A1qZYZ2Pix9c4PwtmeoFdCeUKflpOXcg.PNG\/image.png\': \'298,681|image.png\' , \'\/MjAyNTExMDJfMTk4\/MDAxNzYyMDkwMTkxOTg5.vcJAljim90MR5rSV1wJc-aKox8tcwwk_Ly4lBS7jBY8g.gw-g_0dF9LjwOldM1pT7Z5rSB3ocjSMv9w6Gx09_rqAg.PNG\/image.png\': \'271,647|image.png\' , \'\/MjAyNTExMDJfMTEx\/MDAxNzYyMDkwMTkyNjM5.PTuu-i7HjRxtQKgFLbFpjtCF5ZjiNVnSmlpuSCN3cJAg.y5e18lVT9vmILN8pjnbzSyFnlfcSMMvivCKYfEomBnUg.PNG\/image.png\': \'227,238|image.png\' , \'\/MjAyNTExMDJfMjA5\/MDAxNzYyMDkwMTkzNTky.CaXr2Or9ObU8OZchdurE54U5PgklPnDt9UMzXHO1OuQg.bug7WI0uJ7xIdJd7UFcGq1LfxDPfHwBnIqf-DnsezYQg.PNG\/image.png\': \'289,592|image.png\' , \'\/MjAyNTExMDJfMTUx\/MDAxNzYyMDkwMTk2Nzcw.Bsq8jWDlokTD5Fx-TqzdYE20szGd1gAftItCNTovJi0g.p7SI-Kl3CyQfKKP8K4aiSUzEfA9bH63uhI0CUcaB00Yg.JPEG\/image.jpg\': \'27,442|image.jpg\' , \'\/MjAyNTExMDJfMTYx\/MDAxNzYyMDkwMTk3NTY3.Z36allnWwwKETHnkz8k97KWkPRHW_-QLZO8WxAxiMTEg.Bu95OBmhFax3KOf7drtqzwDurNId6zg9KwgLCrF0zmEg.JPEG\/image.jpg\': \'26,200|image.jpg\' , \'\/MjAyNTExMDJfMjcy\/MDAxNzYyMDkwMTk4NDYy.f0Sert9DBCzajU43CogODfrbWoaBDNuubfTpLUUZIGQg.ysS-oEiIFvbx_iqD5RVrQA_tW9n-uFuDaySmqn4IGl4g.JPEG\/image.jpg\': \'29,923|image.jpg\' , \'\/MjAyNTExMDJfMjAy\/MDAxNzYyMDkwMTk5MTQ4.iWyN8WeR_Nu1B7vWagxyc_5id-N4E6ALtWFApY5j48Qg.tXypoi2X7J3XS9E5zcI4x90noZcARVarcrBGbMVaur8g.JPEG\/image.jpg\': \'27,037|image.jpg\' , \'\/MjAyNTExMDJfMjUz\/MDAxNzYyMDkwMTk5ODQy.qvQ38bq6qfgsssELmlKGYd81_UCnrIJvU0AYFDUoWEIg.CIF7fOHnXLnHH6xxAbamUriobQQwvgjp-5yC1UkHIB8g.JPEG\/image.jpg\': \'27,673|image.jpg\' , \'\/MjAyNTExMDJfMTQ2\/MDAxNzYyMDkwMjAwNjAx.CCwUdNPHKEF58C97KYuX2mxt0ynJAjXyW7Z7ttZrsCUg.z4CLe92-n-EZfsTk3cxJu7K_iNFIOP8Yr8_wArP7s-wg.JPEG\/image.jpg\': \'28,998|image.jpg\' , \'\/MjAyNTExMDJfMTMz\/MDAxNzYyMDkwMjAxNzk5.FC0oi4GmMynEn7rxBPZA9Tqeq2QsbggZccp2OMMIQHgg.M5NH-icUaHBfodTF3yRp5QB1Y_gosrhFTJB5XJxdircg.JPEG\/image.jpg\': \'28,013|image.jpg\' , \'\/MjAyNTExMDJfMTA0\/MDAxNzYyMDkwMjAyNzIx.-5dnS6UUuXqugWhmgxAex1AcRilcAZsaPgp0Gahhvngg.MiFDAOH2k-U_YP5KY-1h3CI5fM0JsJ6UcrBHd3sFrmkg.JPEG\/image.jpg\': \'23,980|image.jpg\' , \'\/MjAyNTExMDJfMjU4\/MDAxNzYyMDkwMjAzNjY3.8_7vUC6CXMaxrNm1PpN2umLAw5rvvaEHidzLqADzAJ8g.9dIj53dRv4m9tc9LYNKUP-jBEGkiHUnmnmXcJpuB5Uwg.JPEG\/image.jpg\': \'4,137|image.jpg\' , \'\/MjAyNTExMDJfODYg\/MDAxNzYyMDkwMjA0Mzcx.plKza2Il7Ek9GNYpVmw7UW9bD6KpRXbKqZ_M1oXWUg0g.vaLwp-rIQa9TllVmYB0yAlIIAw7rm8hcUfPjD5ilSo0g.JPEG\/image.jpg\': \'4,137|image.jpg\' , \'\/MjAyNTExMDJfMTc4\/MDAxNzYyMDkwMjA1MjA0.IZ_YxqkAUUt2ycbTMChEq41GAGHuAD0LHP2i8pVlCBwg.5yhrFEmvCKEv-jB4dS430JXpei0oqzXTKaJpMSRsxcAg.JPEG\/image.jpg\': \'4,137|image.jpg\' , \'\/MjAyNTExMDJfMTky\/MDAxNzYyMDkwMjA2MTY5.XE3KvNSYky08wAZ80e8V_m3pJvJTw_65Atmpof9EAzcg.wrxdx_4zASB-g53XzOpz_s-bRZz8uErWT9QRToSvltAg.JPEG\/image.jpg\': \'4,137|image.jpg\' , \'\/MjAyNTExMDJfMjg0\/MDAxNzYyMDkwMjA3MDQy.mN6dn_8q1ljagiAUStfVUR_oWYIlnIBUeBEt7TWdqNUg.d2ZFW-MLp-vmRPy5psCjSNgeyAdk8vKeDso_JN4cycIg.JPEG\/image.jpg\': \'4,137|image.jpg\'}';
+	aPostSendInfo[1] = [];
+	aPostBaseInfo[1] = "224062345293|0|1|1||0|false|4|MYLOG";
+	aQueuePost.push({logNo : '224062345293',tagNames : ''}); 	
+
+
+
+
+
+
+
+
+//<!--
+	htInitData[0] = {
+		
+		
+		style  : "text",
+		
+		textClass : "pcol2",
+		barClass : "fil3 pcol2b",
+		align : "right",
+		onLoginRedirect : function() {window.open("https://nid.naver.com/nidlogin.login?svctype=16448&url=" + encodeURIComponent(blogURL + "/post/common/reloadOpenerParentAndClose.jsp"), "", 'width=400px, height=500px, scrollbars=yes, resizable=yes');},
+
+		evkey  : "blog",
+		servicename : "블로그",
+		title  : "\uAD50\uD1B5\uC0AC\uACE0\uC804\uBB38\uBCC0\uD638\uC0AC",
+		source : "https://blog.naver.com/lawyer643/224062345293",
+		me2key : "",
+		tags   : ["네이버블로그", "lawyer643\uB2D8\uC758 \uBE14\uB85C\uADF8"],
+
+
+		me : {
+			
+			display:"off",
+			
+			feedInfo : "블로거의 글이",
+			popupType : "C",
+			targetUrl : "/subscribe/blog/applyFeedRelation.nhn",
+			serviceId : "blog",
+			feedGroupId : "neighbor",
+			feedId : ["lawyer643"],
+			feedName : ["lawyer643\uB2D8\uC758 \uBE14\uB85C\uADF8"],
+			feedUrl : ["https://blog.naver.com/lawyer643" ],
+			selected : ['Y']
+		},
+		
+
+		
+		
+		
+		me2day : {sourceUrl : "https://blog.naver.com/PostView.naver?blogId=lawyer643&logNo=224062345293"},
+		
+		
+
+		
+		
+		
+		mail : {
+			srvid   : "blog",
+			srvurl  : "http://bookmark.naver.com/getRichMailTmpl.ajax?sourceUrl="
+			 + encodeURIComponent("https://blog.naver.com/PostView.naver?blogId=lawyer643&logNo=224062345293")
+		},
+		facebook : {sourceUrl : "https://blog.naver.com/PostView.naver?blogId=lawyer643&logNo=224062345293"},
+		
+		
+
+		cafe : {
+			proxyUrl : "/ScrapToCafe.naver?blogId=lawyer643&logNo=224062345293&inAppNavigation=true" 
+			
+		},
+		blog : {
+			
+			display:"off",
+			
+			proxyUrl : "/ScrapToBlog.naver?blogId=lawyer643&logNo=224062345293&loadOnModalView=true&template=modal&isShowingGnb=false"
+		}
+	};
+
+
+// 스크립트 오류를 방지하지 위해서 막아논 부분.
+//-->
+function splugin_oninitialize(nCount) {
+	return htInitData[nCount - 1];
+}
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostTopCommon-603656815_https.js" type="text/javascript"></script>, <script type="text/javascript">
+var MrBlog = $Class({
+	$init : function(){
+		this.elMrBlogContents = $('mrblogcontents');
+		this._setEvent();
+	},
+
+	_setEvent : function(){
+		$Fn(this._onClick,this).attach(this.elMrBlogContents, 'click');		
+	},
+
+	_onClick : function(we){
+		var el = we.element;
+		var welAnchor = $Element(utility.getElement(el, 'a') || el);
+		if(!welAnchor){return;}
+		var aParam = utility.getParam(welAnchor.className());
+		if(welAnchor.hasClass("_goAnswer")){this.goAnswer(we);}
+	},
+
+	goAnswer : function(we) {
+		sendClickNlog('mrb.answer','');
+	} 
+});
+var mrBlog = new MrBlog();
+</script>, <script class="__se_module_data" data-module-v2='{"type": "v2_image", "id": "SE-10b9e7ce-edc9-4ab4-a1f4-1ea8c197982d", "data": {"ctype": "image", "ai": "false" }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_text", "id": "SE-6d429e57-d2cd-4cc2-85a2-91f40dec5d10", "data": {"ctype": "text"  }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_imageGroup", "id" :"SE-4dc4e63d-abfd-455d-b9ad-28008c78290d", "data": { "layout" : "slide" }}' data-module-v2='{"type": "v2_imageGroup", "id": "SE-4dc4e63d-abfd-455d-b9ad-28008c78290d", "data": {"ctype": "imageGroup", "layout": "slide", "images": [ {"ctype": "image", "id": "SE-3023bed0-067e-470f-9e94-6a8b2176c69c", "ai": "false" } , {"ctype": "image", "id": "SE-86c7f8c1-9b0c-41b1-abec-6613ae485998", "ai": "false" } , {"ctype": "image", "id": "SE-9e3200e2-15d2-4542-9b8e-2ef1f0cd1285", "ai": "false" } , {"ctype": "image", "id": "SE-c8ecbe50-eb48-4468-85b3-54a12c563147", "ai": "false" } , {"ctype": "image", "id": "SE-4efa7ec3-3881-4fa5-a8a2-b88b7958b077", "ai": "false" } , {"ctype": "image", "id": "SE-c2cb739a-3ab5-4d69-a163-1278e959aa33", "ai": "false" } ] }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_image", "id": "SE-87b9e647-6bef-4542-a898-e80fcd5097ee", "data": {"ctype": "image", "ai": "false" }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_image", "id": "SE-9e04e3e1-3b87-46c9-8fdc-f5ef118f8362", "data": {"ctype": "image", "ai": "false" }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_imageGroup", "id" :"SE-d39c1b00-b550-494f-a388-f7d3f7c81634", "data": { "layout" : "collage" }}' data-module-v2='{"type": "v2_imageGroup", "id": "SE-d39c1b00-b550-494f-a388-f7d3f7c81634", "data": {"ctype": "imageGroup", "layout": "collage", "images": [ {"ctype": "image", "id": "SE-593b90be-9ed5-4221-a0bf-efe7b32bcb34", "ai": "false" } , {"ctype": "image", "id": "SE-19365a95-712e-4692-954e-b04a9b3b294f", "ai": "false" } , {"ctype": "image", "id": "SE-8b99f825-dbfe-493a-aec5-f340d40f9198", "ai": "false" } , {"ctype": "image", "id": "SE-f12cb5c2-dda8-4147-9400-07700390d46d", "ai": "false" } , {"ctype": "image", "id": "SE-10901d76-67df-4dcb-9b88-77b122a16122", "ai": "false" } , {"ctype": "image", "id": "SE-673b4ce6-f4aa-4c4d-9a0f-198ce761d4a8", "ai": "false" } , {"ctype": "image", "id": "SE-afc25a53-1500-4581-9142-a3283a90f8f8", "ai": "false" } , {"ctype": "image", "id": "SE-aea4bf84-d871-4f4b-b626-98cc95587ad1", "ai": "false" } , {"ctype": "image", "id": "SE-67816b64-c7e6-438f-829c-ea65fb5a1151", "ai": "false" } , {"ctype": "image", "id": "SE-7859528e-b6a8-47ad-a6d3-bde8bc2691fc", "ai": "false" } , {"ctype": "image", "id": "SE-5150496f-e879-4c41-b14e-cab9c29abb6f", "ai": "false" } , {"ctype": "image", "id": "SE-45c71b8b-3a59-41f0-ac05-0a30da8b365f", "ai": "false" } , {"ctype": "image", "id": "SE-9c8a5702-728b-438e-b146-1b84d1742283", "ai": "false" } ] }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_map", "id" :"SE-574e3668-222a-4f6a-978a-5cbbf28adb8a", "data" : { "layout": "default", "searchEngine" : "naver", "places" : [{"placeId":"38014577","name":"법무법인 에이블 서초사무소","address":"서울특별시 서초구 법원로3길 15 401호","latlng":{"@ctype":"position","latitude":37.493148,"longitude":127.0088396},"searchType":"s","tel":"0507-1489-5779","bookingUrl":null}] }}' data-module-v2='{"type":"v2_map", "id" :"SE-574e3668-222a-4f6a-978a-5cbbf28adb8a", "data" : { "layout": "default", "searchEngine" : "naver", "places" : [{"placeId":"38014577","name":"법무법인 에이블 서초사무소","address":"서울특별시 서초구 법원로3길 15 401호","latlng":{"@ctype":"position","latitude":37.493148,"longitude":127.0088396},"searchType":"s","tel":"0507-1489-5779","bookingUrl":null}] }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_text", "id": "SE-7001f6fa-f0bf-4817-9734-e3ff4086b0e1", "data": {"ctype": "text"  }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_image", "id": "SE-9668049c-9010-4aa6-bd72-7d965b7732a1", "data": {"ctype": "image", "ai": "false" }}' type="text/data"></script>, <script src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/SspAdPost-203710914_https.js" type="text/javascript"></script>, <script>
+									var gAdPostUnitIdForPC = false;
+									var gNotAdPostUnitIdForPC = "pc_blog_bottom_nrs";
+								</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//lib/egjs/visible.pkgd.min-7735f57_https.js" type="text/javascript"></script>, <script type="text/javascript">
+function ImageLazyLoader(selectors) {
+   this.selectors = selectors;
+}
+
+var imageLazyLoadVisible = new eg.Visible(document, {
+    targetClass : "egjs-visible",
+    expandSize : "100"
+});
+
+var imageLoad = function(el) {
+    var img = $Element(el);
+
+    // gifmp4인 경우 재생처리
+    if (img.hasClass("_gifmp4") && img._element.tagName === "VIDEO" && img._element.paused) {
+        img._element.play().catch(function(){
+            var gifUrl = img.attr("data-gif-url");
+            if (!gifUrl) {
+                return;
+            }
+            img.attr("poster", gifUrl);
+        });
+        return;
+    }
+
+    var realSrc = img.attr("data-lazy-src");
+    if (!realSrc) {
+        return;
+    }
+
+    img.attr("src", realSrc);
+    img.attr("data-lazy-src", "");
+};
+
+ImageLazyLoader.prototype.loadImages = function () {
+    var containers = this.selectors instanceof HTMLElement ? [this.selectors] : jindo.$$(this.selectors);
+    $A(containers).forEach($Fn(function (element) {
+        this.loadImagesForEachContainer($Element(element));
+    }, this).bind());
+
+    imageLazyLoadVisible.on("change", function(e) {
+        e.visible.forEach(imageLoad);
+    });
+
+    imageLazyLoadVisible.check();
+};
+
+
+ImageLazyLoader.prototype.loadImagesForEachContainer = function (postContentArea) {
+    $A(postContentArea.queryAll("img")).forEach($Fn(function (imgEl) {
+        $Element(imgEl).addClass("egjs-visible");
+    }, this).bind());
+
+    $A(postContentArea.queryAll("video._gifmp4")).forEach($Fn(function (imgEl) {
+        $Element(imgEl).addClass("egjs-visible");
+    }, this).bind());
+
+    //marquee tag안에 이미지가 있을경우 이미지가 loading되지 않는 현상이 발생하여 예외처리 진행
+    $A(postContentArea.queryAll("marquee")).forEach(function (marqueeEl) {
+        $A($Element(marqueeEl).queryAll("img")).forEach(function (img) {
+            imageLoad(img);
+        });
+    });
+};
+
+var imageLazyLoader = new ImageLazyLoader("#postListBody .post, .post.prologue");
+imageLazyLoader.loadImages();
+
+$Fn(function() {
+    $Fn(function(){
+        imageLazyLoadVisible.check();
+    }).attach(window, "scroll");
+}).attach(window, "domready");
+
+$Fn(function() {
+    imageLazyLoadVisible.check();
+}).attach(window, "load");
+
+</script>, <script type="text/javascript">
+	
+
+	var isConvertEnabled = 'true' === 'true';
+
+	function closeCompletePopup() {
+		var lyr_popup = document.getElementById("challengePopLayer");
+		lyr_popup.style.display = 'none';
+		window.document.body.style.overflow = '';
+
+		var lyr_popup_dimmed = document.getElementById("challengePopLayerDimmed");
+		if (lyr_popup_dimmed) {
+			lyr_popup_dimmed.style.display = 'none';
+		}
+	}
+
+	function suggestConvert(logNo, isSupportSE3, scrapPostYn, editorversion) {
+
+		if (isConvertEnabled && !isSupportSE3) {
+
+			if (editorversion === 1) {
+				alert("SE1.0 으로 작성된 글로\n수정 발행 시 이미지가 모두 사라집니다.\n글 내 이미지를 저장하여\n재업로드 후 발행 부탁 드립니다.");
+			}
+
+			if (confirm("스마트에디터 ONE으로 글을 수정합니다.\n발행 전에 글감이 잘 노출되는지 확인해 주세요.")) {
+				location.href = "lawyer643/postupdate?logNo=" + logNo + "&isConvert=true";
+			}
+		} else {
+			location.href = "lawyer643/postupdate?logNo=" + logNo;
+		}
+	}
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostViewBottom-564783722_https.js" type="text/javascript"></script>, <script type="text/javascript">
+	
+	postViewBottomTitleListController.start(blogId, nFirstLogNo, '' == 'true', parentCategoryNo, currentCategoryNo, categoryName, viewDate, '', from, 'false', '');
+</script>, <script type="text/javascript">
+    var fromClosedPost = "false" === "true";
+    var isStage = "false" === "true";
+    var blogRealHttpDomain = "http://blog.naver.com";
+    var blogNewsProxyUrl = "https://blog.naver.com/api/news/article";
+	var nilOptions = {
+        devMode: "true"=="false",
+            topReferer : (function() {
+                if (fromClosedPost) {
+                    return '';
+                }
+
+                var ref = "";
+                var isMobile = function() {
+                    return window.location.host.indexOf('m.blog.naver.com') >= 0;
+                };
+
+                if (isMobile()){
+                    return document.referrer;
+                } else {
+                    if (ref == '') {
+                        if (parent != window && parent.location.href == document.referrer) {
+                            return '';
+                        } else {
+                            return document.referrer;
+                        }
+                    } else {
+                        return ref;
+                    }
+                }
+            })()
+	}
+</script>, <script charset="utf-8" id="socialPluginCustomTag" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?v=1468607.0"></script>, <script>
+	window.onload = function() {
+        window.__splugin = SocialPlugIn_Core({
+            //소셜 플러그인 기본 설정
+            // nEvent Key
+            "evKey"       : "blog",
+            // 서비스명
+            "serviceName" : "블로그",
+            // 출처
+            "sourceName"  : "lawyer643..",
+            "sendNClick"  : 'off',
+            "nClickCode" : {
+                'blog': { 'in': 'shr_lyr.blog', 'out': 'shr.blog' },
+                'cafe': { 'in': 'shr_lyr.cafe', 'out': 'shr.cafe' },
+                'bookmark': { 'in': 'shr_lyr.bookmark', 'out': 'shr.bookmark' },
+                'memo':     { 'in': 'shr_lyr.memo',     'out': 'shr.memo' },
+                'mail':     { 'in': 'shr_lyr.mail',     'out': 'shr.mail' },
+                'band':     { 'in': 'shr_lyr.band',     'out': 'shr.band' },
+                'line':     { 'in': 'shr_lyr.line',     'out': 'shr.line' },
+                'twitter':  { 'in': 'shr_lyr.twitter',  'out': 'shr.twitter' },
+                'facebook': { 'in': 'shr_lyr.facebook', 'out': 'shr.facebook' },
+                'weibo':    { 'in': 'shr_lyr.weibo',    'out': 'shr.weibo' },
+                'reddit':   { 'in': 'shr_lyr.reddit',   'out': 'shr.reddit' },
+                'copyurl':  { 'in': 'shr_lyr.copyurl' },
+                'release':  { 'out': 'shr.sharebtn' }
+        	},
+			"darkMode"      : false
+        });
+	}
+	</script>, <script defer="" src="https://editor-static.pstatic.net/v/basic/1.70.1/se.viewer.js?v=1.70.1-20251015184820" type="text/javascript"></script>, <script type="text/javascript">
+    var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
+    var photoViewerSocialPluginInfoJson = document.getElementById('socialPluginInfoJson').innerText;
+    var photoViewerBeyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+    $Fn(function () {
+        PhotoViewerNew.init(mylogBaEventSender,
+            photoViewerBeyondAnalyticsUrl,
+            baUserKey,
+            photoViewerSocialPluginInfoJson,
+            thumbnailTypeW3840EnableDomainListJson);
+    }).attach(window, "load");
+</script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostBottomCommon-1167190698_https.js" type="text/javascript"></script>, <script type="text/javascript">
+new InstallBlogAppPush();
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/versioning_nil_ntm-2034686_https.js" type="text/javascript"></script>, <script type="text/javascript">
+        var urlDomain = 'http://blog.naver.com';
+
+        // stage의 경우 real과 동일하게 집계되게 하기 위하여 real로 처리
+        if(isStage){
+            urlDomain = blogRealHttpDomain;
+        }
+
+        var nilNtmLibUrl = "https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/nilForNtm-89afd2f_https.js";
+        var gdid = '90000003_00000000000000342B28104D';
+        var firstTitle = '\uAD50\uD1B5\uC0AC\uACE0\uC804\uBB38\uBCC0\uD638\uC0AC';
+        var sBlogIdForNil = 'lawyer643';
+        var uri = urlDomain + '/lawyer643/224062345293';
+        var relationType = 0;
+        var blogOwnerRelationType = 0;
+        var referrer = nilOptions.topReferer;
+        var dimension_1 = "";
+        var optional_1 = true;
+        var event_category = "post_view";
+        var isNilAnalystLeaveEvent = "";
+        var isPostList = !!isPostList;
+        // postList 인 경우, 첫번째 포스트에 대한 상품 첨부 여부를 보낸다.
+        var firstPostHasProduct = false;
+        //ba
+        var postWriteDate = "1762090310471";
+        var attachmentSetCount = null;
+        var postTopics = null;
+
+        $Fn(function () {
+            try {
+                new nilNtmForBlogCVAnalyst(sBlogIdForNil, uri, relationType, gdid, dimension_1, referrer, optional_1, event_category, nilNtmLibUrl, isPostList, isNilAnalystLeaveEvent, firstPostHasProduct);
+            } catch (e) {}
+        }).attach(window, "load");
+
+    </script>, <script charset="utf-8" src="https://static-like.pstatic.net/js/reaction/dist/reaction.min.js?v=1468607.0" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/like/reaction.lottie-03755cf_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Tutorial-356186781_https.js" type="text/javascript"></script>, <script type="text/javascript">
+
+$Fn(function() {
+    try {
+        reaction.init({
+            type: "face",
+			domain : "https://blog.like.naver.com",
+			staticDomain : "https://static-like.pstatic.net",
+            cssId : "blog",
+            isMobile : false,
+            maxCount : 9999,
+            isHiddenCount : false,
+            highlightCount : 50,
+            highlightClassname : "double_heart",
+			isUseApigw : true,
+			isZeroFace: true,
+			isDuplication: false,
+			apigwInfo : {
+				domain : "https://apis.naver.com/blogserver/like",
+				pool : "blogid"
+			},
+			isAllowLongPress: true,
+			faceButtonMaxIconCount: 3,
+            callback : {
+                click : function(param){
+					if (gbIsNotOpenBlogUser) {
+						var oOptions = {
+							wrapperDivId: "domainRegisterWrap"
+							, title: "공감을 남기려면 블로그 아이디가 필요해요."
+							, confirmBtnValue: "아이디 만들기"
+							, win: window
+							, isLightVersion: true
+							, clickCodePrefix : "bsu*l.like"
+							, initialCode : "bsu*l.like"
+							, callbackFn: function () {
+								location.reload();
+							},
+							apiUrl: {
+								recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+								duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+								blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver"
+							}
+						};
+						blogDomainRegisterLayer.init(oOptions);
+						blogDomainRegisterLayer.show();
+						return false;
+					}
+
+					try {
+						var cid = param.target.closest(".u_likeit_list_module").getAttribute("data-cid")
+						oSympathyLayer.reloadLogNo =  cid.substring(cid.lastIndexOf("_")+1)
+					} catch(e) {}
+                },
+                clicked : function(){
+                    oSympathyLayer.reloadSympathyLayer();
+                }
+            }
+        });
+
+		ReactionLottie(".u_ico._icon", function(element) {
+			return element.parentElement.getAttribute("data-type");
+		});
+    } catch(e){}
+
+    //튜토리얼
+    
+
+	//블로그마켓 웰컴
+	
+
+	// 블로그 마켓 탈퇴 알림
+	
+
+}).attach(window, "load");
+
+var isPostList = true;
+
+function showBlogDomainRegisterLayer(event){
+	event.preventDefault();
+	event.stopPropagation();
+
+	var oOptions = {
+		wrapperDivId: "domainRegisterWrap"
+		/*, registerBtnEl: angular.element(document.querySelector(attr['bgBlogDomainRegisterBtnId']))*/
+		, title: "사용하실 블로그 아이디를 입력해주세요."
+		, confirmBtnValue: "확인"
+		, win: window
+		, isChangeLayer: false
+		, clickCodePrefix : "bsu*i."
+		, initialCode: "bsu*i"
+		, callbackFn: function () {
+			location.reload();
+		},
+		closeFn: function () {
+			location.reload();
+		},
+		apiUrl: {
+			recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+			duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+			blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver",
+			blogBasicInfoUpdateUrl: "/blogdomain/BlogBasicInfoUpdate.naver",
+			profileImageUploadUrl: "/blogdomain/ProfileImageUpload.naver",
+			profileImageUploadFromUrlUrl: "/blogdomain/ProfileImageUploadFromUrl.naver",
+			blogInfoUrl: "/blogdomain/BlogBasicInfo.naver",
+			recommendBlogByPersonalThemeListUrl: "/blogdomain/RecommendBlogByPersonalThemeList.naver",
+			recommendBlogAddBuddyUrl: "/blogdomain/SimpleBuddyAdd.naver",
+			recommendBlogRemoveBuddyUrl: "/blogdomain/SimpleBuddyRemove.naver",
+			profileDefaultImageUrl: "/blogdomain/ProfileDefaultImage.naver",
+			personalThemeUpdateUrl: "/blogdomain/SimplePersonalThemeUpdate.naver",
+			personalThemeListUrl:"/blogdomain/SimplePersonalThemeList.naver"
+		},
+		blogUrl: blogURL
+	};
+	blogDomainRegisterLayer.init(oOptions);
+	blogDomainRegisterLayer.showSuggestionLayer();
+}
+
+function showBlogDomainRegisterLayerBuddyAdd() {
+	var oOptions = {
+		wrapperDivId: "domainRegisterWrap"
+		, title: "이웃을 추가하려면 블로그 아이디가 필요해요."
+		, confirmBtnValue: "아이디 만들기"
+		, win: window
+		, isLightVersion: true
+		, clickCodePrefix : "bsu*l.add"
+		, initialCode: "bsu*l.add"
+		, callbackFn: function () {
+			location.reload();
+		},
+		apiUrl: {
+			recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+			duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+			blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver"
+		}
+	};
+	blogDomainRegisterLayer.init(oOptions);
+	blogDomainRegisterLayer.show();
+}
+
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/3.2.1/jquery-3.2.1-d2d8ca4_https.js" type="text/javascript"></script>, <script type="text/javascript">
+    jQuery.noConflict();
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/ntm/ntm-blog-web-0f5c6ad_https.js"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/NtmBaLog-986277545_https.js" type="text/javascript"></script>, <script>
+    var baParams = {};
+    // [BA] 공통
+    baParams.baUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+    baParams.baSceneId = 'blog_home';
+    
+    baParams.baUserKey = 'b63236f6de1b825e8b85042efde34c60e1b1942dea083581d5601e1d636e654e';
+    baParams.trackingCode = '';
+    
+
+    // [BA] post_end, blog_home, category
+    
+    baParams.blogNo = '167193349';
+    
+
+    // [BA] post_end, comment
+    
+    baParams.logNo = '224062345293';
+    
+
+    // [BA] blog_home
+    
+    baParams.bRelationType = '0';
+    baParams.uRelationType = '0';
+    
+
+    // [BA] category
+    
+
+    // [BA] lnb
+    
+
+    // [BA] search
+    baParams.range = '';
+    baParams.searchText = '';
+
+    // [BA] admin
+    baParams.settingMenu = '';
+
+    MylogPageViewSender.init(baParams);
+</script>, <script id="tpl_video" type="text/template">
+	<span class="ico_video">동영상</span>
+</script>, <script id="tpl_recommend_buddy" type="text/template">
+<strong class="tit">{=recommendTitle}</strong>
+<div class="lyr_cont">
+	<a href="/{=blogId}" target="_blank" onclick="sendClickNlog('bap.blog','');">
+		<div class="bloger">
+			<span class="thumb"><img src="{=profileImageUrl}" width="35" height="35" alt="섬네일"></span>
+			<span class="txt">
+				<strong class="nick">{=nickname}</strong>
+				<span class="dsc">{=blogName}</span>
+			</span>
+		</div>
+	<a>
+	<a href="#" class="btn_add_buddy _addBuddy _param({=blogId})"><span class="ico"></span>이웃추가</a>
+</div>
+<a href="#" class="btn_close _closeLayer">이웃추가 레이어 닫기</a>
+</script>, <script type="text/javascript">
+	var wordCheck;
+	function setWordCheckObject(obj) {
+		wordCheck = obj;
+	}
+</script>, <script type="text/javascript">
+if (!window.nhn) window.nhn = {};
+if (!window.nhn.Blog) window.nhn.Blog = {};
+if (!window.nhn.Blog.SocialApp) window.nhn.Blog.SocialApp = {};
+
+var gsNDriveUrl = "https://mybox.naver.com";
+var gsStaticNetUrl = "https://ssl.pstatic.net/static";
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarAreaHandler-696228c_https.js" type="text/javascript"></script>, <script type="text/javascript">
+function openLoginPopup() {
+	var closeUrl = blogURL + "/post/common/reloadOpenerParentAndClose.jsp";
+	window.open(idURLSecret + "/nidlogin.login?mode=form&template=plogin&url="+closeUrl,"loginPopup","width=400,height=267");
+	return;
+}
+
+var blogId = 'lawyer643';
+</script>, <script type="text/javascript">
+if ( typeof g_ssc == 'undefined') {
+	g_ssc = "blog.post";
+}
+if (typeof nsc == 'undefined') {
+    nsc = "blog.post";
+}
+
+var ccsrv="cc.naver.com";
+var nclk_evt = 3;
+
+var bIsNotLoginUser = "false" === "true";
+var sIdSecretUrl = 'https://nid.naver.com';
+
+
+</script>]
+90909090909090
+mija4111
+userNaverId=feed_id2
+userNaverId mija4111
+handles :  ['C5C7BC831FDF8430AE1FFC77DCEDD986']
+스탑
+브라우저 로그인 체크 1
+IMAGE_PATH_PATH C:\Users\HOME\Desktop\x\네이버블로그\image_b
+[]
+title_image []
+타이틀 이미지 찾을 수 없습니다.
+어짜피 타이틀 이미지를 경로에서 찾기 때문에 이건 당연히 못찾음
+선택된 파일: C:\Users\HOME\Desktop\x\네이버블로그\대표이미지\대표이미지-법무법인 에이블.jpg
+human_dirs jpg_files ['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진1.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진2.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진3.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진4.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진5.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진6.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진7.jpg', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\인물이미지\\변호사사진8.jpg']
+8개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+정렬된 파일 목록:
+C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지\마지막이미지1.jpg
+C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지\변호사사진2.jpg
+C:\Users\HOME\Desktop\x\네이버블로그\마지막이미지\변호사사진3.jpg
+baUserKey: b63236f6de1b825e8b85042efde34c60e1b1942dea083581d5601e1d636e654e
+
+{"isSuccess":true,"result":{"blogId":"lawyer643","vid":null,"defaultEditorVersion":4,"writeFontOptions":{"fontType":1,"fontSize":15,"fontColor":"","lineSpace":180,"textAlign":0},"formView":{"categoryListFormView":{"defaultCategoryId":1,"categoryFormViewList":[{"categoryNo":1,"categoryName":"게시판","parentCategoryNo":-1,"directorySeq":0,"challengeType":null,"blockYn":false,"challengeCategory":false,"open":true}]},"postConfiguration":{"openType":2,"commentYn":true,"sympathyYn":true,"scrapType":2,"searchYn":true,"outSideAllowYn":true,"twitterPostingYn":false,"facebookPostingYn":false,"commercialUsesYn":null,"contentsModification":null,"cclYn":false},"postFormMeta":{"logNo":null,"categoryId":null,"directorySeq":null,"directoryDetail":null,"mrBlogTalkCode":null,"postWriteTimeType":"now","tags":null,"themeSourceCode":0,"bookThemeInfoPk":null,"moviePanelParticipation":false,"greenReviewBannerYn":false,"continueSaved":false,"noticePostYn":false,"autoByCategoryYn":false,"postLocationSupportYn":false,"postLocationJson":null,"prePostDate":null,"thisDayPostInfo":null,"scrapYn":false},"editorSource":"A8q0MN51931QBfwN5PfVmw==","skinInfo":{"contentWidth":966,"columnCount":1},"talkTalkInfo":{"talkTalkAccountList":null,"isLinked":false,"isJoin":false}},"directoryGroups":"[{\"seq\":1,\"name\":\"엔터테인먼트·예술\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":5,\"name\":\"문학·책\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":1,\"alias\":\"book\",\"lcsAlias\":\"book\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":6,\"name\":\"영화\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":\"movie\",\"lcsAlias\":\"movie\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":8,\"name\":\"미술·디자인\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"art\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":7,\"name\":\"공연·전시\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"exhibition\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":11,\"name\":\"음악\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"music\",\"lcsAlias\":\"music\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":9,\"name\":\"드라마\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"drama\",\"lcsAlias\":\"drama\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":12,\"name\":\"스타·연예인\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"star\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":13,\"name\":\"만화·애니\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"comics\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":10,\"name\":\"방송\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"broadcasting\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1,\"relatedYnAsInt\":1}]},{\"seq\":2,\"name\":\"생활·노하우·쇼핑\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":14,\"name\":\"일상·생각\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"thought\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":15,\"name\":\"육아·결혼\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"baby\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":16,\"name\":\"반려동물\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"pet\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":17,\"name\":\"좋은글·이미지\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"image\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":18,\"name\":\"패션·미용\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"fashion\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":19,\"name\":\"인테리어·DIY\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"interior\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":20,\"name\":\"요리·레시피\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":4,\"alias\":\"recipe\",\"lcsAlias\":\"recipe\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":21,\"name\":\"상품리뷰\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"shop\",\"lcsAlias\":\"shop\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":36,\"name\":\"원예·재배\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"plant\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0}]},{\"seq\":3,\"name\":\"취미·여가·여행\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":22,\"name\":\"게임\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":5,\"alias\":\"game\",\"lcsAlias\":\"game\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":1,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":23,\"name\":\"스포츠\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"sports\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":24,\"name\":\"사진\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"photo\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":25,\"name\":\"자동차\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"car\",\"lcsAlias\":\"car\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":26,\"name\":\"취미\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"hobby\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":27,\"name\":\"국내여행\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"domestic\",\"lcsAlias\":\"domestic\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":28,\"name\":\"세계여행\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"overseas\",\"lcsAlias\":\"overseas\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":29,\"name\":\"맛집\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"food\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1}]},{\"seq\":4,\"name\":\"지식·동향\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":30,\"name\":\"IT·컴퓨터\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"it\",\"lcsAlias\":\"it\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":31,\"name\":\"사회·정치\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"politics\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":32,\"name\":\"건강·의학\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"health\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":0},{\"seq\":33,\"name\":\"비즈니스·경제\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"economy\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":35,\"name\":\"어학·외국어\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"language\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1},{\"seq\":34,\"name\":\"교육·학문\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"education\",\"nclickId\":null,\"parent\":false,\"useYnAsInt\":1,\"mainYnAsInt\":0,\"leafYnAsInt\":1,\"relatedYnAsInt\":1}]}]","isWrite":false,"isWriterBlogOwner":true,"hasModelTransformConflict":false,"isTargetUseBlogModule":false,"blogModuleUrl":"https://api-blog.blog.naver.com"}}
+editorSource: A8q0MN51931QBfwN5PfVmw==
+
+{"isSuccess":true,"result":{"appCode":"blogpc001","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc2MjMzMzAyMywidXNlcklkIjoibWlqYTQxMTEifQ.uwm2DyiFSjStY0XrWMW2-UFtdrf6bTHNXWTKuoc0Gxg","documentModel":null,"talktalk":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false},"mrBlog":null,"initialFocusIndex":1,"skinInfo":{"contentWidth":966,"columnCount":1},"maxVideoUploadSize":1073741824,"maxVideoPlayTime":900,"userInfo":{"nickName":"lawyer643"},"editorInfo":{"textInfo":{"fontFamily":"nanumgothic","fontSizeCode":"fs15","fontColor":"null","lineHeight":1.8,"align":"left","rightOrJustifyAlign":false}},"isWrite":null,"sellerNo":null,"isAiWriter":false}}
+------------------
+token_value eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc2MjMzMzAyMywidXNlcklkIjoibWlqYTQxMTEifQ.uwm2DyiFSjStY0XrWMW2-UFtdrf6bTHNXWTKuoc0Gxg
+{"editorInfo":{"id":"01K99G9VSP8MA94JV3NGJ87BT4","adobeExpressAvailable":true,"snsImageUploadLimitCount":50,"audioUploadLimitFileSize":104857600,"fileUploadLimitFileSize":10485760,"thumbnailType":{"small":"s2","normal":"w1","vr360":"preview966_544","panorama":"preview966_544"},"videoUploadLimitCount":10,"maxTagLength":120,"viewColumnCount":0,"imageUploadLimitCount":50,"defaultTheme":"default","useTooltip":true,"imageMinimumWidth":100,"fileUploadMaxCount":20,"videoMinimumHeight":300,"videoMinimumWidth":300,"maxCanvasWidth":"100%","buildProperty":"real","docType":"normal","imageMinimumHeight":50,"codeTextMaxLength":5000,"dthumbDomain":"https://dthumb-phinf.pstatic.net","useAutoSave":true,"useReservationMenu":true,"cloudMaxImageCount":50,"placesMapInfo":{"image-marker-selected-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-x2-20180830.png","image-marker-selected-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-20180920.png","image-dot-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-x2-20180830.png","image-dot-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-20180830.png","image-place4-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-20180920.png","image-place5-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-x2-20180920.png","image-place5-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-20180920.png","image-place2-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-x2-20180920.png","image-place1-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-x2-20180920.png","image-place3-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-20180920.png","image-place1-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-20180920.png","image-place2-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-20180920.png","image-place3-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-x2-20180920.png","image-place4-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-x2-20180920.png","image-marker-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-x2-20180920.png","image-marker-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-20180920.png"},"convertLimitSize":5000000,"maxSaveSkip":50},"userInfo":{"userId":"mija4111","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc2MjMzMzAyMywidXNlcklkIjoibWlqYTQxMTEifQ.uwm2DyiFSjStY0XrWMW2-UFtdrf6bTHNXWTKuoc0Gxg"},"infraInfo":{"mapInfra":{"googleMapChannelId":"naver_blog","googleMapClientKey":"AIzaSyDKo6MfoC1plkhfaMG_fS87pSQjOUMlOhA"},"formulaEditor":{"popupUrl":"//presources.editor.naver.com/matheditor/index.html"},"photoInfra":{"imageHost":"https://blogfiles.pstatic.net","domain":"blog.upphoto.naver.com","upphotoServer":"ecommerce"},"videoInfra":{"serviceId":2},"nCloud":{"popupUrl":"//mybox.naver.com/selectFile.nhn","callbackPageUrl":"https://blog.naver.com/upload/RabbitNDriveUploadCallback.naver"}},"apiInfo":{"fetchPhotoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/photo-uploader/session-key","fetchVideoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/session-url","fetchVideoUploaderToken":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/token","fetchAudioUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/audio-uploader/session-key","fetchCoordByIp":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/coordinate","fetchLocationOfImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/exif/locations","fetchDomesticCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/location/kr","fetchDomesticBulkCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/locations/kr","fetchNaverStaticMap":"https://platform.editor.naver.com/api/blogpc001/v2/map/naver/staticmap","fetchGoogleStaticMap":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/staticmap","fetchTopicKeyword":"https://platform.editor.naver.com/api/blogpc001/v1/topics","fetchWordCount":"https://platform.editor.naver.com/api/blogpc001/v1/word-count","fetchMultiCrawler":"https://platform.editor.naver.com/api/blogpc001/v1/oglink","fetchInfraPopupToken":"https://platform.editor.naver.com/api/blogpc001/v1/token/infra-popup","fetchFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchNaverGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/addresses","fetchErratas":"https://platform.editor.naver.com/api/blogpc001/v2/speller/erratas","fetchGoogleNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/nearby/locations","fetchNaverNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGoogleAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/place/ac","fetchNaverAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/place/ac","fetchGoogleGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/geocode","fetchFavoriteFilters":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchBookBestSellers":"https://platform.editor.naver.com/api/blogpc001/v1/material/books/best-seller","fetchBooks":"https://platform.editor.naver.com/api/blogpc001/v1/material/books","fetchBoxOfficeMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies/box-office","fetchMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies","fetchRecommandedBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast/recommend","fetchBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v2/material/broadcast","fetchRecommandedShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show/recommend","fetchShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show","fetchRecommendedSports":"https://platform.editor.naver.com/api/blogpc001/v1/material/sports/recommend","fetchSports":"https://platform.editor.naver.com/api/blogpc001/v1/material/sports","fetchNewMusic":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics/new","fetchMusics":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics","fetchShoppingItems":"https://platform.editor.naver.com/api/blogpc001/v1/material/shopping/items","fetchPopularNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/popular","fetchRecommendedTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel/popular","fetchTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel","fetchNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news","fetchRealEstateAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate/ac","fetchRealEstateComplex":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate/complex","fetchImages":"https://platform.editor.naver.com/api/blogpc001/v1/images","fetchRecommendedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/recommend","fetchStickers":"https://platform.editor.naver.com/api/blogpc001/v1/stickers","fetchNewsDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/detail","fetchNaverPlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGooglePlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/text/locations","deleteFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","updateFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchAuthorizedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/storep/right-url","fetchPurchasedImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/purchased","updateStickerUseFlag":"https://platform.editor.naver.com/api/blogpc001/v1/stickers/validation","fetchCalculatedResult":"https://platform.editor.naver.com/api/blogpc001/v1/calculation","fetchTranslate":"https://platform.editor.naver.com/api/blogpc001/v1/translate","fetchMoments":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchClips":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchStocks":"https://platform.editor.naver.com/api/blogpc001/v1/material/stocks/search","fetchStockDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/stocks/detail","fetchStockAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/material/stocks/ac","addNCloudFile":"//blog.naver.com/RabbitNDriveFileUpload.naver","streamIntro":"https://ax.editor.naver.com/api/blogpc001/prompts/intro/v1","fetchMyTemplates":"//blog.naver.com/RabbitTemplateList.naver","fetchPartialTemplates":"//blog.naver.com/PartTemplateList.naver","streamOutro":"https://ax.editor.naver.com/api/blogpc001/prompts/outro/v1","fetchMyTemplate":"//blog.naver.com/RabbitTemplateRead.naver","fetchSearch":"https://ax.editor.naver.com/api/blogpc001/persona/_search/v1","fetchRecommendedTemplate":"//blog.naver.com/RecommendTemplateRead.naver","streamTitle":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/title/v1","fetchConvertedDocument":"//upconvert.editor.naver.com/v2/convert/blog","deleteMyTemplate":"//blog.naver.com/RabbitTemplateDelete.naver","streamArticle":"https://ax.editor.naver.com/api/blogpc001/prompts/article/v1","streamContinue":"https://ax.editor.naver.com/api/blogpc001/writer/_continue/v1","addMyTemplate":"//blog.naver.com/RabbitTemplateWrite.naver","fetchAuthToken":"//blog.naver.com/RabbitTokenGenerate.naver","fetchOutline":"https://ax.editor.naver.com/api/blogpc001/prompts/outline/v1","streamTags":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/tags/v1","streamExpand":"https://ax.editor.naver.com/api/blogpc001/writer/_expand/v1","fetchConvertedHtml":"//upconvert.editor.naver.com/blog/html/components","fetchFilter":"https://ax.editor.naver.com/api/blogpc001/tool/aifilter/v1","streamSummarize":"https://ax.editor.naver.com/api/blogpc001/writer/_summarize/v1","streamRewrite":"https://ax.editor.naver.com/api/blogpc001/writer/_rewrite/v1","addNCloudVideo":"//blog.naver.com/RabbitNDriveVideoUpload.naver","addFile":"https://platform.editor.naver.com/api/blogpc001/v2/upload/file","fetchRecommendedTemplates":"//blog.naver.com/RecommendTemplateList.naver"},"serviceInfo":{"appCode":"blogpc001","isInHouse":true}}
+<Response [200]>
+9090909090909090
+
+{"isSuccess":true,"result":{"autoSaveNo":1762329423904}}
+9090909090909090
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'int'>
+sdfasdfwhile
+image1_10 ['C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image1.png', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image2.png', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image3.png', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image4.png', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image5.png', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image6.png', 'C:\\Users\\HOME\\Desktop\\x\\네이버블로그\\image_b\\Image7.png']
+현재 타임스탬프(ms): 1762329452258
+{"result_code":1,"result_data":{"message":"success"}}
+-------- 로그 체크--------
+<Response [200]>
+{"cookies_encoded":"gASVxQMAAAAAAAB9lCiMA05BQ5SMDDJUTnJCMEFrc0dhRZSMA05OQpSMDVJRWlhaRE5QQUVGV1OUjAlCQV9ERVZJQ0WUjCQ5NzFmZjU0Yy0xMTU2LTRiNzYtOTcxYS0xZGVhNzM5ZDgzODeUjAdzdGF0X3lulIwBMZSMB25pZF9pbmaUjAoxNDQzMDg5NTQwlIwHTklEX0FVVJSMQG5YL3hRNTQrSFNhRFlrcUdoNkxwa0VHNDdDbDBJZjlsNWcrdEFXSWZDTUJIVEN5dEZyNXRIck9hcGMxd0tua0SUjAdOSURfSktMlIwAlIwETkFDVJRoCIwIcGFnZV91aWSUjCJpcU1QYWRwekw4VnNzN0NXbzVDc3Nzc3N0ZWgtNDEwMjE2lIwHTklEX1NFU5RYMAIAAEFBQUJsd28rNFBveTY1VjFNUWFQRXRBTFpkZll2cTRkbDdSTXBVRmxBd2FrYVlQZjkrLzFpVHBTejBxMVNJZytaOERGYUliN3NXS2FDVHpaMVVHTWZmeG1CYytkY0pCSVdQK0oreFlxT1pGa3BvSlJhcFpGdnRocURRditOK3VGYjh6TW9XLzRMQkphelFaRTJEVFUxOWdGNWZ1U1NmWjlLK2tnNXRwSXc3UjJMMGU5TStVa2VYTGx0NSt4TkpZSWdiS3pLZmZPWCtYcTZsaDhSUElJSVhWclVLM2pwRW1mTGFGY0drWkQrUmMvR0dROFlUUUVuRUJ2d0NWSHNQZDdlcVJ2MnBCZ3hoRk1tZDhNdUw5WHhteDN6blQ3VGNZRnh6dWhyTjRPOXo2SzVYNlFtNmJxaitsaGJtTXlRVlNDL1cyR0IzWFFDYTVtNFZZWWh2amN2TW5LNm80ZkZsdG5yQXN2N0ZzN3IrY01mWDJ1Sy9XOVZYbGtNWmJpWkFvNW1FY1oxYjlNWGxRRVpiQ2EyREUwREpWYlA4dVNVSVFOSnpiTjk4MjRycGJJR2NoemlzMnVjNUZIRGdkSFhoOUNyNWhOVDBEVWNrdGF0VklnT2lMQkR6SzR5YVBObWNFbDJYWXVaa1JJdE9xeXUycjBpRDdLQlh4WlZTR0l5Wm9ybjdqd0VQc0pCSWM4TkpwQzVoUzY0T0dtQ25GdmhnQVR6VUV2RHFPaEFtdFRnRGlklIwDQlVDlIwsZHQyTEtYTTNSZ1FEY29uTnZuNkFfWTkwWjVHdjVrSVRFc1dyMXlMRVUxTT2UjApKU0VTU0lPTklElIwlQ0E5MzkwQjU2OEFGRjUxNkUwQ0U0REYwMTlGOUZBOTguanZtMZR1Lg==","document_encoded":"gASVbmcAAAAAAAB9lCiMBmJsb2dJZJSMCWxhd3llcjY0M5SMDWRvY3VtZW50TW9kZWyUWEVjAAB7ImRvY3VtZW50SWQiOiAiIiwgImRvY3VtZW50IjogeyJ2ZXJzaW9uIjogIjIuOC44IiwgInRoZW1lIjogImRlZmF1bHQiLCAibGFuZ3VhZ2UiOiAia28tS1IiLCAiaWQiOiAiMDFLOTlHOVZTUDhNQTk0SlYzTkdKODdCVDQiLCAiY29tcG9uZW50cyI6IFt7ImlkIjogIlNFLWZjNjdjNzEwLTU1YzktNDI1ZC04NTFhLTUwODIxNzQ3YWExNSIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJ0aXRsZSI6IFt7ImlkIjogIlNFLTkyZjA4NjFmLWNlYzEtNGQwZS04M2Q1LTdmYWZmZjI1OWM2ZCIsICJub2RlcyI6IFt7ImlkIjogIlNFLTU3ZDAyNGYzLTZiNGYtNDIzNS04NjlhLTZhNDEwNjFhNWIzYiIsICJ2YWx1ZSI6ICJcdWFkNTBcdWQxYjVcdWMwYWNcdWFjZTBcdWM4MDRcdWJiMzhcdWJjYzBcdWQ2MzhcdWMwYWMiLCAiQGN0eXBlIjogInRleHROb2RlIn1dLCAiQGN0eXBlIjogInBhcmFncmFwaCJ9XSwgInN1YlRpdGxlIjogbnVsbCwgImFsaWduIjogImxlZnQiLCAiQGN0eXBlIjogImRvY3VtZW50VGl0bGUifSwgeyJpZCI6ICJTRS03NjQwYWNmOS04NGVhLTQxNDYtYjdlMy1mZWMzNTRmODZkNjgiLCAibGF5b3V0IjogImRlZmF1bHQiLCAidmFsdWUiOiBbeyJpZCI6ICJTRS05NzI0YWFlZi03ZTg2LTRiOGQtOGJjNi0wZmJhMmRmMzk1OTkiLCAibm9kZXMiOiBbeyJpZCI6ICJTRS05Mzc0NTBjNS03M2MxLTQ5YTAtYmRjOC0yZTMyYzFkZjIyODAiLCAidmFsdWUiOiAiXHVhZDUwXHVkMWI1XHVjMGFjXHVhY2UwXHVjODA0XHViYjM4XHViY2MwXHVkNjM4XHVjMGFjIiwgInN0eWxlIjogeyJmb250Q29sb3IiOiAiIzAwNzhjYiIsICJmb250U2l6ZUNvZGUiOiAiZnMyNCIsICJAY3R5cGUiOiAibm9kZVN0eWxlIn0sICJAY3R5cGUiOiAidGV4dE5vZGUifV0sICJAY3R5cGUiOiAicGFyYWdyYXBoIn1dLCAic291cmNlIjogbnVsbCwgIkBjdHlwZSI6ICJxdW90YXRpb24ifSwgeyJpZCI6ICJTRS02ZjZiYzY4OS02OWE3LTRhMWUtOTg5ZC1kYTg2ZjlhZTBjZDIiLCAibGF5b3V0IjogImRlZmF1bHQiLCAiYWxpZ24iOiAiY2VudGVyIiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TlRFeE1EVmZORGdnL01EQXhOell5TXpJNU5ETXhOek15LmtxaVpVWVVsMzlVSHNHWlNDRnd1NF9xMFFpaXZjWHNNYlpUTXZVc3daMDRnLm9NMGhQa1lUTTVVdVNjY3hrUHBCR1NpZVJPT0NjQmxfcnlFV01Zdkl2NXNnLlBORy9pbWFnZS5wbmc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TlRFeE1EVmZORGdnL01EQXhOell5TXpJNU5ETXhOek15LmtxaVpVWVVsMzlVSHNHWlNDRnd1NF9xMFFpaXZjWHNNYlpUTXZVc3daMDRnLm9NMGhQa1lUTTVVdVNjY3hrUHBCR1NpZVJPT0NjQmxfcnlFV01Zdkl2NXNnLlBORy9pbWFnZS5wbmciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMzc0MTE5LCAid2lkdGgiOiA5NjYsICJ3aWR0aFBlcmNlbnRhZ2UiOiAwLCAiaGVpZ2h0IjogOTY2LCAib3JpZ2luYWxXaWR0aCI6IDk2NiwgIm9yaWdpbmFsSGVpZ2h0IjogOTY2LCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IHRydWUsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImNhcHR1cmUiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS0yNTJjZGIxNS1kNjFhLTRjZjAtODU0NC0xOWExNTliNjFjMTQiLCAibGF5b3V0IjogImRlZmF1bHQiLCAidmFsdWUiOiBbeyJpZCI6ICJTRS0zYjM5MzVmOC05ZmFiLTRiY2ItYTg5Mi0xYTkyMmUwY2Y5MTQiLCAibm9kZXMiOiBbeyJpZCI6ICJTRS03Y2UyNGUxNS1hOTBmLTQ1MzYtOTA4Ni03N2Y0ODMzY2QwODgiLCAidmFsdWUiOiAiXHJcblxyXG5cdWFjMTFcdWM3OTFcdWMyYTRcdWI3ZWNcdWM2YjQgXHVhZDUwXHVkMWI1XHVjMGFjXHVhY2UwXHViMDk4IFx1ZDYxNVx1YzBhYyBcdWMwYWNcdWFjNzRcdWM3M2NcdWI4NWMgXHVjNzc4XHVkNTc0IFx1YWMwMFx1ZDU3NFx1Yzc5MCBcdWMyZTBcdWJkODRcdWM3NzQgXHViNDE4XHViMjk0IFx1YWNiZFx1YzZiMCwgXHViMzAwXHViZDgwXHViZDg0IFx1YWMwMFx1YzdhNSBcdWJhM2NcdWM4MDAgXHVhY2UwXHViYmZjXHVkNTU4XHViMjk0IFx1YWM4M1x1Yzc0MCBcdWQ1M2NcdWQ1NzRcdWM3OTBcdWM2NDBcdWM3NTggXHVkNjE1XHVjMGFjXHVkNTY5XHVjNzU4XHVjNzg1XHViMmM4XHViMmU0LlxyXHVkNTU4XHVjOWMwXHViOWNjIFx1ZDYwNFx1YzJlNFx1YzVkMFx1YzExY1x1YjI5NCBcdWQ1M2NcdWQ1NzRcdWM3OTBcdWFjMDAgXHVjNWYwXHViNzdkXHVjNzQ0IFx1YWM3MFx1YmQ4MFx1ZDU1OFx1YWM3MFx1YjA5OCwgXHVhZTA4XHVjODA0XHVjODAxIFx1YzY5NFx1YWQ2Y1x1YWMwMCBcdWFjZmNcdWIzYzRcdWQ1NzQgXHVkNTY5XHVjNzU4XHVhYzAwIFx1Yzc3NFx1YjhlOFx1YzViNFx1YzljMFx1YzljMCBcdWM1NGFcdWIyOTQgXHVhY2JkXHVjNmIwXHViM2M0IFx1YjljZVx1YzJiNVx1YjJjOFx1YjJlNC5cclxyXG5cdTIwMWNcdWQ1M2NcdWQ1NzRcdWM3OTBcdWM2NDAgXHVkNjE1XHVjMGFjXHVkNTY5XHVjNzU4XHViOTdjIFx1ZDU1OFx1YzljMCBcdWJhYmJcdWQ1NThcdWM2MDBcdWMyYjVcdWIyYzhcdWIyZTQuXHJcdWFjZjVcdWQwYzFcdWFlMDhcdWIzYzQgXHVhY2Y1XHVkMGMxXHVkNTU4XHVjOWMwIFx1YzU0YVx1YzU1OFx1YzJiNVx1YjJjOFx1YjJlNC5cclx1YjMwMFx1Yzc3OFx1YmMzMFx1YzBjMVx1MjE2MCBcdWNjNDVcdWM3ODRcdWJjZjRcdWQ1ZDhcdWI5Y2MgXHVhYzAwXHVjNzg1XHVkNTU4XHVjNjAwXHVjMmI1XHViMmM4XHViMmU0LlxyXHUyMDFkIFx1MjAxNCBcdWM3NzRcdWI3ZjAgXHVjMGMxXHVkNjY5XHVjNzc0XHViNzdjXHViYTc0LCBcdWM1NWVcdWM3M2NcdWI4NWMgXHVjNWI0XHViNWJiXHVhYzhjIFx1YjMwMFx1Yzc1MVx1ZDU3NFx1YzU3YyBcdWQ1NjBcdWM5YzAgXHViOWM5XHViOWM5XHVkNTU4XHVjMmU0IFx1YWM4MVx1YjJjOFx1YjJlNC5cclxyXG5cdWQ2MTVcdWMwYWNcdWQ1NjlcdWM3NThcdWIyOTQgXHVjN2FjXHVkMzEwXHVjNWQwXHVjMTFjIFx1YzU5MVx1ZDYxNShcdWQ2MTVcdWI3YzkgXHVhY2IwXHVjODE1KVx1YzVkMCBcdWM2MDFcdWQ1YTVcdWM3NDQgXHViYmY4XHVjZTU4XHViMjk0IFx1YzkxMVx1YzY5NFx1ZDU1YyBcdWM2OTRcdWMxOGNcdWM3ODVcdWIyYzhcdWIyZTQuXHJcdWQ1NjlcdWM3NThcdWFjMDAgXHVjNzc0XHViOGU4XHVjNWI0XHVjOWMwXHViYTc0IFx1ZDUzY1x1ZDU3NFx1ZDY4Y1x1YmNmNSBcdWM3NThcdWM5YzBcdWFjMDAgXHVjNzc4XHVjODE1XHViNDE4XHVjNWI0IFx1YmM4Y1x1YWUwOFx1ZDYxNVx1Yzc3NFx1YjA5OCBcdWM5ZDFcdWQ1ODlcdWM3MjBcdWM2MDhcdWI4NWMgXHVhYzEwXHVkNjE1XHViNDIwIFx1YWMwMFx1YjJhNVx1YzEzMVx1Yzc3NCBcdWIxOTJcdWMyYjVcdWIyYzhcdWIyZTQuXHJcclxuXHVkNTU4XHVjOWMwXHViOWNjIFx1ZDU2OVx1Yzc1OFx1YWMwMCBcdWI0MThcdWM5YzAgXHVjNTRhXHVjNTU4XHViMmU0XHVhY2UwIFx1ZDU3NFx1YzExYyBcdWJjMThcdWI0ZGNcdWMyZGMgXHVjOTExXHVkNjE1KFx1YzJlNFx1ZDYxNSlcdWM3M2NcdWI4NWMgXHVjNzc0XHVjNWI0XHVjOWMwXHViMjk0IFx1YWM4M1x1Yzc0MCBcdWM1NDRcdWIyZDlcdWIyYzhcdWIyZTQuXHJcdWJjOTVcdWM2ZDBcdWM3NDAgXHVjMGFjXHVhY2UwXHVjNzU4IFx1YWNiZFx1YzcwNCwgXHVkNTNjXHVhY2UwXHVjNzc4XHVjNzU4IFx1YmMxOFx1YzEzMSBcdWM4MTVcdWIzYzQsIFx1ZDUzY1x1ZDU3NFx1Yzc5MCBcdWJkODBcdWMwYzEgXHVjODE1XHViM2M0LCBcdWJjZjRcdWQ1ZDggXHVhYzAwXHVjNzg1IFx1YzVlY1x1YmQ4MCBcdWI0ZjFcdWM3NDQgXHVjODg1XHVkNTY5XHVjODAxXHVjNzNjXHViODVjIFx1ZDMxMFx1YjJlOFx1ZDU2OVx1YjJjOFx1YjJlNC5cclxyXG5cdWQ1M2NcdWQ1NzRcdWM3OTBcdWM2NDAgXHVkNTY5XHVjNzU4XHVhYzAwIFx1YmQ4OFx1YWMwMFx1YjJhNVx1ZDU2MCBcdWI1NGMsIFx1YjMwMFx1YzJlMCBcdWMxMjBcdWQwZGRcdWQ1NjAgXHVjMjE4IFx1Yzc4OFx1YjI5NCBcdWJjMjlcdWJjOTVcdWM3NzQgXHVhY2Y1XHVkMGMxXHVhZTA4IFx1YzgxY1x1YjNjNFx1Yzc4NVx1YjJjOFx1YjJlNC5cclxyXG5cdWFjZjVcdWQwYzFcdWFlMDhcdWM3NDAgXHVkNTNjXHVkNTc0XHVjNzkwXHVjNWQwXHVhYzhjIFx1YzljMFx1YWUwOVx1ZDU2MCBcdWFlMDhcdWM1NjFcdWM3NDQgXHViYzk1XHVjNmQwXHVjNWQwIFx1YzYwOFx1Y2U1OFx1ZDU3NFx1YjQ1MFx1YjI5NCBcdWM4MDhcdWNjMjhcdWI4NWMsXHJcblx1ZDUzY1x1ZDU3NFx1Yzc5MFx1YWMwMCBcdWMyMThcdWI4MzlcdWQ1NThcdWM5YzAgXHVjNTRhXHViMzU0XHViNzdjXHViM2M0IFx1MjAxY1x1ZDUzY1x1ZDU3NFx1YmNmNFx1YzBjMSBcdWM3NThcdWM5YzBcdWI5N2MgXHViY2Y0XHVjNjAwXHViMmU0XHUyMDFkXHViMjk0IFx1YzgxMFx1Yzc3NCBcdWM1OTFcdWQ2MTVcdWM1ZDAgXHVhZTBkXHVjODE1XHVjODAxXHVjNzNjXHViODVjIFx1Yzc5MVx1YzZhOVx1ZDU2OVx1YjJjOFx1YjJlNC5cclxyXG5cdWFjZjVcdWQwYzFcdWFlMDhcdWM3NDQgXHVjNjA4XHVjZTU4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWMwYzFcdWQwZGNcdWI3N2NcdWJhNzQsXHJcblx1ZDYxNVx1YzBhY1x1YzdhY1x1ZDMxMCBcdWMyZGMgXHVjOWM0XHVjMmVjIFx1YzViNFx1YjliMCBcdWJjMThcdWMxMzFcdWJiMzggXHVjODFjXHVjZDljLFxyXG5cdWMwYWNcdWFjZTAgXHVhY2JkXHVjNzA0XHVjNjQwIFx1YzBhY1x1ZDZjNCBcdWM4NzBcdWNlNTgoXHViY2Y0XHVkNWQ4XHVjYzk4XHViOWFjLCBcdWNlNThcdWI4Y2NcdWJlNDQgXHVjOWMwXHVhZTA5IFx1YjE3OFx1YjgyNSBcdWI0ZjEpXHVjNWQwIFx1YjMwMFx1ZDU1YyBcdWFkNmNcdWNjYjRcdWM4MDEgXHVjMThjXHViYTg1LFxyXG5cdWIzMDBcdWM3NzhcdWJjMzBcdWMwYzFcdTIxNjAgXHViY2Y0XHVkNWQ4IFx1Y2M5OFx1YjlhYyBcdWIwYjRcdWM1ZWRcdWMxMWMgXHVjODFjXHVjZDljIFx1YjRmMVx1Yzc3NCBcdWIzMDBcdWM1NDhcdWM3NzQgXHViNDIwIFx1YzIxOCBcdWM3ODhcdWMyYjVcdWIyYzhcdWIyZTQuXHJcclxuXHViMzAwXHVjNzc4XHViYzMwXHVjMGMxXHUyMTYwXHVjNzQwIFx1Yzc5MFx1YjNkOVx1Y2MyOCBcdWM3NThcdWJiMzRcdWJjZjRcdWQ1ZDhcdWM3M2NcdWI4NWMsIFx1YmM5NVx1Yzc3NCBcdWM4MTVcdWQ1NWMgXHVjZDVjXHVjMThjXHVkNTVjXHVjNzU4IFx1YmNmNFx1YzBjMVx1YjljYyBcdWFjMDBcdWIyYTVcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcclxuXHVjOTg5LCBcdWQ1M2NcdWQ1NzRcdWM3OTBcdWM3NTggXHViZDgwXHVjMGMxIFx1YzgxNVx1YjNjNFx1YWMwMCBcdWMyZWNcdWQ1NThcdWFjNzBcdWIwOTggXHVjZTU4XHViOGNjIFx1YWUzMFx1YWMwNFx1Yzc3NCBcdWFlMzhcdWM1YjRcdWM5YzggXHVhY2JkXHVjNmIwIFx1YzJlNFx1YzgxYyBcdWMxOTBcdWQ1NzRcdWM1NjFcdWJjZjRcdWIyZTQgXHVjODAxXHVjNzQwIFx1YmNmNFx1YzBjMVx1Yzc3NCBcdWM3NzRcdWI5MDRcdWM5ZDFcdWIyYzhcdWIyZTQuIiwgInN0eWxlIjogeyJmb250Q29sb3IiOiAiIzAwMDAwMCIsICJmb250RmFtaWx5IjogInN5c3RlbSIsICJmb250U2l6ZUNvZGUiOiAiZnMxOSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiI2ZmZmZmZiIsICJpdGFsaWMiOiBmYWxzZSwgInVuZGVybGluZSI6IGZhbHNlLCAiQGN0eXBlIjogIm5vZGVTdHlsZSJ9LCAiQGN0eXBlIjogInRleHROb2RlIn1dLCAiQGN0eXBlIjogInBhcmFncmFwaCJ9XSwgIkBjdHlwZSI6ICJ0ZXh0In0sIHsiaWQiOiAiU0UtOTIxNWYyMTUtZjBjMC00NDg3LTgyMzEtMjBkMzYwYjAzZjRlIiwgImxheW91dCI6ICJzbGlkZSIsICJjb250ZW50TW9kZSI6ICJleHRlbmQiLCAiY2FwdGlvbiI6IG51bGwsICJpbWFnZXMiOiBbeyJpZCI6ICJTRS02YTE5NTZlNi0yYTc1LTQwOTQtYTI0Yy0yNzNjMzdhMjRhNzciLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk1qZzIvTURBeE56WXlNekk1TkRNeU16Z3cuS0toN0UtRjBsNzhLR2NOS1Ria0hCU1pDVXdfcXJjTXVKRWdpYjhndE4wOGcuUmJxdUNmTmE0eTRjRDlkS1pOTm8yZF9yNk8zbExaS0tGTEgwcmNLTll3a2cuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1qZzIvTURBeE56WXlNekk1TkRNeU16Z3cuS0toN0UtRjBsNzhLR2NOS1Ria0hCU1pDVXdfcXJjTXVKRWdpYjhndE4wOGcuUmJxdUNmTmE0eTRjRDlkS1pOTm8yZF9yNk8zbExaS0tGTEgwcmNLTll3a2cuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAxMDA4MzAsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS1kN2I5MjVkZC01ZWZlLTQ2YjItODkwYy02MDk1MDQxNmM2NzQiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk16QWcvTURBeE56WXlNekk1TkRNek1EUTMuRThrRV8ydG8tWktKZTBHdFFmWUtvdHhuWTNlcWFxRXRkanRYdHp1cGJnNGcudW8wMmdud0RTNE9ybFJCVElBN0Z0U3F4RWUyb0lvOE9fM1pXejFoNFZaVWcuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk16QWcvTURBeE56WXlNekk1TkRNek1EUTMuRThrRV8ydG8tWktKZTBHdFFmWUtvdHhuWTNlcWFxRXRkanRYdHp1cGJnNGcudW8wMmdud0RTNE9ybFJCVElBN0Z0U3F4RWUyb0lvOE9fM1pXejFoNFZaVWcuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAzNDMyMTUsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS01ZTlkNjI1YS1hMzVjLTQwM2MtOWIwNC00YTk4NTU5MWU3MjUiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk5qVWcvTURBeE56WXlNekk1TkRNek56STQuNlRWdTVTTG1PLV8wRVN0VER6Tl9lMUg5Qk9Qak9tNGdXYTM2eEFydXFrc2cuakZSU3l6X1ZDamItZVNJYnBLc05GY1B2a0pZYTVjWWhpZDlKUXV6WWxjZ2cuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk5qVWcvTURBeE56WXlNekk1TkRNek56STQuNlRWdTVTTG1PLV8wRVN0VER6Tl9lMUg5Qk9Qak9tNGdXYTM2eEFydXFrc2cuakZSU3l6X1ZDamItZVNJYnBLc05GY1B2a0pZYTVjWWhpZDlKUXV6WWxjZ2cuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAzNDI1NDEsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS04Y2UzNTNlYS00NzZjLTQzOWQtYmI4Ny04ZTJhODExNjBjZjQiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk1qVWcvTURBeE56WXlNekk1TkRNME16UTQuOF9TQnV5MmREN1VJUWswNVJnOTBKWk1ZWl9MN1FNaXQteXJRTXV5QTJQSWcuZDZLTFkzSWIyV1VyNVB6amQ4b1NoTzFTLVFwWEc2OHBfbjFERUJUSkZHc2cuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1qVWcvTURBeE56WXlNekk1TkRNME16UTQuOF9TQnV5MmREN1VJUWswNVJnOTBKWk1ZWl9MN1FNaXQteXJRTXV5QTJQSWcuZDZLTFkzSWIyV1VyNVB6amQ4b1NoTzFTLVFwWEc2OHBfbjFERUJUSkZHc2cuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAyMjU0MDgsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS04OGE1MmYxMS1lN2EzLTRhYjMtYWM0MC1hMmNlNGFhODRlZjQiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk16Z2cvTURBeE56WXlNekk1TkRNMU1qRTMuRkZ5bzhETnpTWEVrNE5lQngxc0VadXNMRlpxekRuWjhVTXluME1RRzltMGcuSG5xZlg5WHpkaERHelYwRkJ3bjllZGRRMW1MUjl2Z09OcWNmbzYwY0ZZa2cuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk16Z2cvTURBeE56WXlNekk1TkRNMU1qRTMuRkZ5bzhETnpTWEVrNE5lQngxc0VadXNMRlpxekRuWjhVTXluME1RRzltMGcuSG5xZlg5WHpkaERHelYwRkJ3bjllZGRRMW1MUjl2Z09OcWNmbzYwY0ZZa2cuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiA2NTcyNTcsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS1mMTkzYzMxOS1lYWJkLTQ3NjctODYwNi03NDU4NTUzODA0NGEiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk1qSWcvTURBeE56WXlNekk1TkRNMU9UWTIuR0l3YVFvZmxRUlNSWnUxREhJLXVLRHFfbE9WUmFnOU0tRUpMa3B0dS03UWcuTWtPVDlMN29RTlRDbUtrNlhHVVhuYkJOcFJhTnZEaDBPdkY2Nzc0WEh3d2cuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1qSWcvTURBeE56WXlNekk1TkRNMU9UWTIuR0l3YVFvZmxRUlNSWnUxREhJLXVLRHFfbE9WUmFnOU0tRUpMa3B0dS03UWcuTWtPVDlMN29RTlRDbUtrNlhHVVhuYkJOcFJhTnZEaDBPdkY2Nzc0WEh3d2cuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAyMjY2ODIsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifV0sICJAY3R5cGUiOiAiaW1hZ2VHcm91cCJ9LCB7ImlkIjogIlNFLTk0YTcxNTJlLTc2ODYtNDY2My1iYWExLTMyZDMyNDk4ZTJjYSIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJhbGlnbiI6ICJjZW50ZXIiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk1UVTAvTURBeE56WXlNekk1TkRNMk5qZ3kuZkVYWVVBVXVKaGNQOHVGUXh1Y1BtSkF3b2Z6QS1NZ0pqMGJEeUZtU2xNc2cuYjZMTG9LVjlSZ1BZSmxLNFI3dDkzZWlTRWUwLVVwNV84Mm5nUXB0U0I5MGcuSlBFRy9pbWFnZS5qcGciLCAiaW50ZXJuYWxSZXNvdXJjZSI6IGZhbHNlLCAicmVwcmVzZW50IjogZmFsc2UsICJwYXRoIjogIi9NakF5TlRFeE1EVmZNVFUwL01EQXhOell5TXpJNU5ETTJOamd5LmZFWFlVQVV1SmhjUDh1RlF4dWNQbUpBd29mekEtTWdKajBiRHlGbVNsTXNnLmI2TExvS1Y5UmdQWUpsSzRSN3Q5M2VpU0VlMC1VcDVfODJuZ1FwdFNCOTBnLkpQRUcvaW1hZ2UuanBnIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDEzNDY2MCwgIndpZHRoIjogNzczLCAid2lkdGhQZXJjZW50YWdlIjogMCwgImhlaWdodCI6IDc3MywgIm9yaWdpbmFsV2lkdGgiOiA3NzMsICJvcmlnaW5hbEhlaWdodCI6IDc3MywgImZpbGVOYW1lIjogImltYWdlLmpwZyIsICJjYXB0aW9uIjogbnVsbCwgImxpbmsiOiAiIiwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiB0cnVlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJjYXB0dXJlIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtOTAyODE0MGMtODUxNi00YWQ0LWJjNDMtNGMzZDdmOGM1YTZjIiwgImxheW91dCI6ICJkZWZhdWx0IiwgImFsaWduIjogImNlbnRlciIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5URXhNRFZmTVRRMS9NREF4TnpZeU16STVORE00T0RBMy5YdWI3WVZNa19rbFJnVVdPWEdpbDhxcXA4ZUs2ME1rWmFvOE5KMGo0YndzZy5TU01qd2VKbXBxLWtaMEVNOWg4ZGVrbEhaTXdUal9KX081U2JVZjhyeWRNZy5KUEVHL2ltYWdlLmpwZyIsICJpbnRlcm5hbFJlc291cmNlIjogZmFsc2UsICJyZXByZXNlbnQiOiBmYWxzZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1UUTEvTURBeE56WXlNekk1TkRNNE9EQTMuWHViN1lWTWtfa2xSZ1VXT1hHaWw4cXFwOGVLNjBNa1phbzhOSjBqNGJ3c2cuU1NNandlSm1wcS1rWjBFTTloOGRla2xIWk13VGpfSl9PNVNiVWY4cnlkTWcuSlBFRy9pbWFnZS5qcGciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMjc0NDIsICJ3aWR0aCI6IDM4NiwgIndpZHRoUGVyY2VudGFnZSI6IDAsICJoZWlnaHQiOiAzODYsICJvcmlnaW5hbFdpZHRoIjogMzg2LCAib3JpZ2luYWxIZWlnaHQiOiAzODYsICJmaWxlTmFtZSI6ICJpbWFnZS5qcGciLCAiY2FwdGlvbiI6IG51bGwsICJsaW5rIjogIiIsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogdHJ1ZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAiY2FwdHVyZSIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgIkBjdHlwZSI6ICJpbWFnZSJ9LCB7ImlkIjogIlNFLWIwYTU4NTI5LWVmZmQtNGZhNC04ZTNiLTlmNTY2MGQxZWUwYSIsICJsYXlvdXQiOiAiY29sbGFnZSIsICJjb250ZW50TW9kZSI6ICJleHRlbmQiLCAiY2FwdGlvbiI6IG51bGwsICJpbWFnZXMiOiBbeyJpZCI6ICJTRS1kN2Y2YzA1MC1hMDAyLTQ3NGEtYTQ1Yy1jZmQ3MzAxZDY5ZjkiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk1UVTEvTURBeE56WXlNekk1TkRRd09UWXkudWlEcERGeExUS3hTOUVuWnRHMWZaTVltanNEZnZQQS1vSUhpaXpaNHFaa2cuQU9XNXVZUnhCLUYwOWtEX2lxUjNiT0Z3MkNCRE1SUm4zcms1eHYtUktqWWcuSlBFRy9pbWFnZS5qcGc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TlRFeE1EVmZNVFUxL01EQXhOell5TXpJNU5EUXdPVFl5LnVpRHBERnhMVEt4UzlFblp0RzFmWk1ZbWpzRGZ2UEEtb0lIaWl6WjRxWmtnLkFPVzV1WVJ4Qi1GMDlrRF9pcVIzYk9GdzJDQkRNUlJuM3JrNXh2LVJLallnLkpQRUcvaW1hZ2UuanBnIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDI3NDQyLCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLmpwZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IGZhbHNlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtM2IzOTE0YzItMTJlMC00M2Y3LTg0NzAtMGQ5NDU4YThjZjgwIiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TlRFeE1EVmZNakkzL01EQXhOell5TXpJNU5EUTBNREl3LmFrUUtmU2JLQVc3c3JXNnRwcXJEdUJ5MWl0UlBsRDNNWjFtaVpkUTB2NmNnLk1VSHBqLW13X2VKVWpubXpwQVJKYTRFTGkwaTlZd1hHcVJ3a3F3U0xkTThnLkpQRUcvaW1hZ2UuanBnP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5URXhNRFZmTWpJMy9NREF4TnpZeU16STVORFEwTURJdy5ha1FLZlNiS0FXN3NyVzZ0cHFyRHVCeTFpdFJQbEQzTVoxbWlaZFEwdjZjZy5NVUhwai1td19lSlVqbm16cEFSSmE0RUxpMGk5WXdYR3FSd2txd1NMZE04Zy5KUEVHL2ltYWdlLmpwZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAyNjIwMCwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5qcGciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiBmYWxzZSwgIkBjdHlwZSI6ICJpbWFnZSJ9LCB7ImlkIjogIlNFLTI5NWJjMDllLWUxYjQtNDc0Ni04MTgyLTIxZWYzOGE0ZWZkNyIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5URXhNRFZmTVRVNC9NREF4TnpZeU16STVORFEwTnpnMC56eXhkR1JxYTd0NHNZTGo5aU9neV9ZM0JKUnllY0lxaWtxVmlUSTNDZjc4Zy5jYTZwUjUtSm5XRDZxQkVWdS13UnZnekFsdWN0enVlOFJFeG1QU3dmRXkwZy5KUEVHL2ltYWdlLmpwZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1UVTQvTURBeE56WXlNekk1TkRRME56ZzAuenl4ZEdScWE3dDRzWUxqOWlPZ3lfWTNCSlJ5ZWNJcWlrcVZpVEkzQ2Y3OGcuY2E2cFI1LUpuV0Q2cUJFVnUtd1J2Z3pBbHVjdHp1ZThSRXhtUFN3ZkV5MGcuSlBFRy9pbWFnZS5qcGciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMjk5MjMsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UuanBnIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS1hYmIxZDMxNS0wMjk0LTRhNDQtOTJmNy1lMzgwNmMwYTAxMDIiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk9UVWcvTURBeE56WXlNekk1TkRRMU5qTTIuOU5sSEk3TVFzY01VMVZtZ3V2bjhHVVlnUXZiVjd4Z0I2NnRHUmxZUmsyZ2cuY2N3MkhpUm9sbzNSQzVXSThmQVROOVZVZEd5VE9hNzVlY280eFp3MjRoNGcuSlBFRy9pbWFnZS5qcGc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TlRFeE1EVmZPVFVnL01EQXhOell5TXpJNU5EUTFOak0yLjlObEhJN01Rc2NNVTFWbWd1dm44R1VZZ1F2YlY3eGdCNjZ0R1JsWVJrMmdnLmNjdzJIaVJvbG8zUkM1V0k4ZkFUTjlWVWRHeVRPYTc1ZWNvNHhadzI0aDRnLkpQRUcvaW1hZ2UuanBnIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDI3MDM3LCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLmpwZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IGZhbHNlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtNzU1MzUxZDMtMzM2MS00MTE4LWJmN2ItZTVmNGUxNzkxMWQ2IiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TlRFeE1EVmZNakkwL01EQXhOell5TXpJNU5EUTJOalE0Lmc5Z1N6OWRLZTRPRTVCaEd2Z0FndS1zbmlMbElFVEIxSFk0bERaY1hXajhnLi1pMGxwTENDXzZOcXktTTNjOWpDQjhQLWR0MW01OERiMjZxU2xCWHROSUFnLkpQRUcvaW1hZ2UuanBnP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5URXhNRFZmTWpJMC9NREF4TnpZeU16STVORFEyTmpRNC5nOWdTejlkS2U0T0U1QmhHdmdBZ3Utc25pTGxJRVRCMUhZNGxEWmNYV2o4Zy4taTBscExDQ182TnF5LU0zYzlqQ0I4UC1kdDFtNThEYjI2cVNsQlh0TklBZy5KUEVHL2ltYWdlLmpwZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAyNzY3MywgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5qcGciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiBmYWxzZSwgIkBjdHlwZSI6ICJpbWFnZSJ9LCB7ImlkIjogIlNFLTNlNjE3NmU0LTBhMjctNDJmYy04Yzg1LTI1OTkxMDEyMTJlZCIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5URXhNRFZmTWpNZy9NREF4TnpZeU16STVORFEzTXpjei5HQjJlVjlBTXJLR0ZVb1R2ZTJWNk1XYkxhbFktUVZ3TXNfOWozc2FUdzUwZy4wbG5ON0pJS0hZblBCX3dyclNkUWVzdDJvU3hIYm1SbndLS3I5MHBtRXI4Zy5KUEVHL2ltYWdlLmpwZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1qTWcvTURBeE56WXlNekk1TkRRM016Y3ouR0IyZVY5QU1yS0dGVW9UdmUyVjZNV2JMYWxZLVFWd01zXzlqM3NhVHc1MGcuMGxuTjdKSUtIWW5QQl93cnJTZFFlc3Qyb1N4SGJtUm53S0tyOTBwbUVyOGcuSlBFRy9pbWFnZS5qcGciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMjg5OTgsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UuanBnIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogZmFsc2UsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS00NTA4ZWJlMy0wMWM5LTQ2N2UtYTlkNS0wNmRlNDNhODAyN2IiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOVEV4TURWZk1qVXovTURBeE56WXlNekk1TkRRNU1ETTAuNi1TYVUxdmRsdFJZcGJuektzOWdJcDNTUzZpZ1J1MGVNdmRoNWxNUlNCY2cuR0RyN2F1OS1DOUJ1ZjlhdWo0YW1DTXNBUjl2cl9kUVY3X1c4OUpmam5yZ2cuSlBFRy9pbWFnZS5qcGc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TlRFeE1EVmZNalV6L01EQXhOell5TXpJNU5EUTVNRE0wLjYtU2FVMXZkbHRSWXBibnpLczlnSXAzU1M2aWdSdTBlTXZkaDVsTVJTQmNnLkdEcjdhdTktQzlCdWY5YXVqNGFtQ01zQVI5dnJfZFFWN19XODlKZmpucmdnLkpQRUcvaW1hZ2UuanBnIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDI4MDEzLCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLmpwZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IGZhbHNlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtNDFhNWI2Y2YtNTkwOS00M2U2LWE3YmQtNDVhNmU5MmQ2MDRiIiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TlRFeE1EVmZNVGd4L01EQXhOell5TXpJNU5EVXdPRFF4Ll8zbVFZVmZPZW1NdUwxV0ZjcG9kaldQOGFFZXlSOHpYY3ZPRm9maGN5OXNnLnBmVWpXZ2hQNzYzQ2tnT09MUHUzUlRfeGpJWXl3VzltaFJObmtrZkx4M1FnLkpQRUcvaW1hZ2UuanBnP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5URXhNRFZmTVRneC9NREF4TnpZeU16STVORFV3T0RReC5fM21RWVZmT2VtTXVMMVdGY3BvZGpXUDhhRWV5Ujh6WGN2T0ZvZmhjeTlzZy5wZlVqV2doUDc2M0NrZ09PTFB1M1JUX3hqSVl5d1c5bWhSTm5ra2ZMeDNRZy5KUEVHL2ltYWdlLmpwZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAyMzk4MCwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5qcGciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiBmYWxzZSwgIkBjdHlwZSI6ICJpbWFnZSJ9XSwgIkBjdHlwZSI6ICJpbWFnZUdyb3VwIn0sIHsiaWQiOiAiU0UtYzU2MTc3YjEtYzBjZi00MGQzLWEzYmItMjgzN2MwMmJkNzY0IiwgImxheW91dCI6ICJkZWZhdWx0IiwgImFsaWduIjogImNlbnRlciIsICJzZWFyY2hFbmdpbmUiOiAibmF2ZXIiLCAidGh1bWJuYWlsIjogeyJzcmMiOiAiaHR0cHM6Ly9zaW1nLnBzdGF0aWMubmV0L3N0YXRpYy5tYXAvdjIvbWFwL3N0YXRpY21hcC5iaW4/Y2FsbGVyPXNtYXJ0ZWRpdG9yJm1hcmtlcnM9c2l6ZSUzQW1pZCU3Q2NvbG9yJTNBMHgxMWNjNzMlN0N0eXBlJTNBZCU3Q3ZpZXdTaXplUmF0aW8lM0EwLjclN0Nwb3MlM0ExMjcuMDA4ODM5NiUyMDM3LjQ5MzE0OCZ3PTcwMCZoPTMxNSZzY2FsZT0yJmRhdGF2ZXJzaW9uPTE3NS4xOCIsICJAY3R5cGUiOiAidGh1bWJuYWlsIn0sICJwbGFjZXMiOiBbeyJwbGFjZUlkIjogIjM4MDE0NTc3IiwgIm5hbWUiOiAiXHViYzk1XHViYjM0XHViYzk1XHVjNzc4IFx1YzVkMFx1Yzc3NFx1YmUxNCBcdWMxMWNcdWNkMDhcdWMwYWNcdWJiMzRcdWMxOGMiLCAiYWRkcmVzcyI6ICJcdWMxMWNcdWM2YjhcdWQyYjlcdWJjYzRcdWMyZGMgXHVjMTFjXHVjZDA4XHVhZDZjIFx1YmM5NVx1YzZkMFx1Yjg1YzNcdWFlMzggMTUgNDAxXHVkNjM4IiwgImxhdGxuZyI6IHsibGF0aXR1ZGUiOiAzNy40OTMxNDgsICJsb25naXR1ZGUiOiAxMjcuMDA4ODM5NiwgIkBjdHlwZSI6ICJwb3NpdGlvbiJ9LCAic2VhcmNoVHlwZSI6ICJzIiwgImJvb2tpbmdVcmwiOiBudWxsLCAidGVsIjogIjA1MDctMTQ4OS01Nzc5IiwgIkBjdHlwZSI6ICJwbGFjZSJ9XSwgIkBjdHlwZSI6ICJwbGFjZXNNYXAifSwgeyJpZCI6ICJTRS1iN2NhM2VlNC03Y2ZjLTRhOTUtYTRiZi1kZDk0YWNmYzVmNzciLCAibGF5b3V0IjogImRlZmF1bHQiLCAidmFsdWUiOiBbeyJpZCI6ICJTRS1jZmJiNDIzYS1lNThlLTQwZDgtOGM0Ny00ZGIwODlkZjI4NzUiLCAibm9kZXMiOiBbeyJpZCI6ICJTRS1mZGE3MzEyMC1mMjhmLTQ1MTMtODIwOC02MWNiNzM0N2E0OWMiLCAidmFsdWUiOiAiXHJcclxuXHVjNzc0XHViNTRjIFx1ZDUzY1x1ZDU3NFx1Yzc5MFx1YjI5NCBcdWNkOTRcdWFjMDAgXHVjMTkwXHVkNTc0XHViYzMwXHVjMGMxXHVjNzQ0IFx1YmJmY1x1YzBhY1x1YzE4Y1x1YzFhMVx1YzczY1x1Yjg1YyBcdWNjYWRcdWFkNmNcdWQ1NjAgXHVjMjE4IFx1Yzc4OFx1YzczY1x1YmE3MCxcclxuXHVhZGY4IFx1YWNmY1x1YzgxNVx1YzVkMFx1YzExYyBcdWFjMDBcdWQ1NzRcdWM3OTBcdWM1ZDBcdWFjOGMgXHVkNjE1XHVjMGFjXHVkNTY5XHVjNzU4XHViOTdjIFx1YzY5NFx1YWQ2Y1x1ZDU2MCBcdWMyMThcdWIzYzQgXHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LlxyXHJcblx1YjUzMFx1Yjc3Y1x1YzExYywgXHViMzAwXHVjNzc4XHViYzMwXHVjMGMxXHUyMTYwXHViOWNjIFx1YWMwMFx1Yzc4NVx1YjQxOFx1YzViNCBcdWM3ODhcdWIyZTRcdWJhNzRcclxuXHVjZDk0XHVhYzAwIFx1Y2U1OFx1YjhjY1x1YmU0NFx1YjA5OCBcdWM3MDRcdWM3OTBcdWI4Y2NcdWI5N2MgXHViY2Y4XHVjNzc4IFx1YmQ4MFx1YjJmNFx1YzczY1x1Yjg1YyBcdWQ1NzRcdWFjYjBcdWQ1NjAgXHVhYzAwXHViMmE1XHVjMTMxXHVjNzQ0IFx1YzVmY1x1YjQ1MFx1YzVkMCBcdWI0NTBcdWFjZTAsXHJcblx1ZDVhNVx1ZDZjNCBcdWQ2MTVcdWMwYWNcdWM3YWNcdWQzMTAgXHViMzAwXHViZTQ0XHViOTdjIFx1YzcwNFx1ZDU3NCBcdWJjYzBcdWQ2MzhcdWM3NzggXHVjODcwXHViODI1XHVjNzQ0IFx1YmMxYlx1YjI5NCBcdWFjODNcdWM3NzQgXHVjODhiXHVjMmI1XHViMmM4XHViMmU0LlxyXHJcblx1ZDUzY1x1ZDU3NFx1Yzc5MFx1YzY0MFx1Yzc1OCBcdWQ1NjlcdWM3NThcdWIwOTggXHVhY2Y1XHVkMGMxXHVjNzc0IFx1YzViNFx1YjgzNVx1YjJlNFx1YmE3NCwgXHViMmU0XHVjNzRjIFx1YzIxY1x1YzExY1x1Yjg1YyBcdWIzMDBcdWM3NTFcdWQ1NzRcdWJjZjRcdWMxMzhcdWM2OTQuXHJcblx1MjQ2MCBcdWJjZjRcdWQ1ZDhcdWMwYWMgXHVjYzk4XHViOWFjIFx1YzljNFx1ZDU4OSBcdWMwYzFcdWQ2NjkgXHVkNjU1XHVjNzc4XHJcblx1MjE5MiBcdWIzMDBcdWM3NzhcdWJjMzBcdWMwYzFcdTIxNjAgXHVjYzk4XHViOWFjIFx1YjBiNFx1YzVlZFx1Yzc0NCBcdWJhODVcdWQ2NTVcdWQ3ODggXHVjODE1XHViOWFjXHVkNTc0IFx1YmM5NVx1YzZkMFx1YzVkMCBcdWM4MWNcdWNkOWNcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcclxuXHUyNDYxIFx1YzljNFx1YzgxNVx1YzExYyBcdWJjMGYgXHViYzE4XHVjMTMxXHViYjM4IFx1YzkwMFx1YmU0NFxyXG5cdTIxOTIgXHVkNTNjXHVkNTc0IFx1ZDY4Y1x1YmNmNSBcdWM3NThcdWM5YzBcdWI5N2MgXHViY2Y0XHVjNWVjXHVjOGZjXHViMjk0IFx1YzExY1x1Yjk1OFx1YjI5NCBcdWFjMTBcdWQ2MTVcdWM1ZDAgXHVkMDcwIFx1YjNjNFx1YzZjMFx1Yzc3NCBcdWI0MjlcdWIyYzhcdWIyZTQuXHJcclxuXHUyNDYyIFx1YzdhY1x1ZDMxMFx1YmQ4MFx1YzVkMCBcdWMxMjBcdWNjOTggXHVjNjk0XHVjY2FkXHJcblx1MjE5MiBcdWFjYmRcdWM4MWNcdWM4MDEgXHVjMGFjXHVjODE1LCBcdWFjMDBcdWM4NzEgXHViZDgwXHVjNTkxIFx1YzBhY1x1YzcyMCwgXHVjZDA4XHViYzk0IFx1YzVlY1x1YmQ4MCBcdWI0ZjFcdWM3NDQgXHVjMGMxXHVjMTM4XHVkNzg4IFx1YzEyNFx1YmE4NVx1ZDU2OVx1YjJjOFx1YjJlNC5cclxyXG5cdTI0NjMgXHVjODA0XHViYjM4XHVhYzAwIFx1YzBjMVx1YjJmNCBcdWFkOGNcdWM3YTVcclxuXHUyMTkyIFx1ZDYxNVx1YzBhY1x1YzgwNFx1YmIzOCBcdWJjYzBcdWQ2MzhcdWMwYWNcdWIwOTggXHViYzk1XHViOTYwXHVhZDZjXHVjODcwXHVhY2Y1XHViMmU4XHVjNzU4IFx1YmIzNFx1YjhjYyBcdWMwYzFcdWIyZjRcdWM3NDQgXHVkMWI1XHVkNTc0LFxyXG5cdWMwYWNcdWFjNzRcdWJjYzQgXHVjZDVjXHVjODAxXHVjNzU4IFx1YjMwMFx1Yzc1MSBcdWM4MDRcdWI3YjVcdWM3NDQgXHVjMTM4XHVjNmI4IFx1YzIxOCBcdWM3ODhcdWMyYjVcdWIyYzhcdWIyZTQuXHJcclxuXHVkNjE1XHVjMGFjXHVkNTY5XHVjNzU4XHVhYzAwIFx1Yzc3NFx1YjhlOFx1YzViNFx1YzljMFx1YzljMCBcdWM1NGFcdWM1NThcdWFjZTAsIFx1YWNmNVx1ZDBjMVx1YWUwOFx1YjNjNCBcdWM2MDhcdWNlNThcdWQ1NThcdWM5YzAgXHViYWJiXHVkNTg4XHViMmU0XHVhY2UwIFx1ZDU3NFx1YzExY1xyXG5cdWJhYThcdWI0ZTAgXHVhYzgzXHVjNzc0IFx1YjA1ZFx1YjA5YyBcdWFjODNcdWM3NDAgXHVjNTQ0XHViMmQ5XHViMmM4XHViMmU0LlxyXHJcblx1YmM5NVx1YzZkMFx1Yzc0MCBcdWIyZThcdWMyMWNcdWQ3ODggXHVhZTA4XHVjODA0XHVjODAxIFx1ZDU2OVx1Yzc1OFx1YjljY1x1Yzc3NCBcdWM1NDRcdWIyY2MsIFx1ZDUzY1x1ZDU3NFx1Yzc5MFx1YzVkMCBcdWIzMDBcdWQ1NWMgXHVjOWM0XHVjMmVjIFx1YzViNFx1YjliMCBcdWMwYWNcdWFjZmNcdWM2NDAgXHVkNTNjXHVkNTc0IFx1ZDY4Y1x1YmNmNSBcdWIxNzhcdWI4MjVcdWM3NTggXHVjODE1XHViM2M0XHViOTdjIFx1ZDU2OFx1YWVkOCBcdWQzYzlcdWFjMDBcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcclxuXHVkNjA0XHVjN2FjIFx1YWMwMFx1YjJhNVx1ZDU1YyBcdWJhYThcdWI0ZTAgXHViYzI5XHViYzk1XHVjNzQ0IFx1ZDY1Y1x1YzZhOVx1ZDU3NFxyXG5cdWJjZjRcdWQ1ZDhcdWMwYWMgXHVjYzk4XHViOWFjLCBcdWJjMThcdWMxMzFcdWJiMzggXHVjODFjXHVjZDljLCBcdWJjOTVcdWI5NjAgXHVjMGMxXHViMmY0IFx1YjRmMVx1Yzc0NCBcdWM5YzRcdWQ1ODlcdWQ1NThcdWMyZTBcdWIyZTRcdWJhNzRcclxuXHVhY2IwXHVhY2ZjXHVjODAxXHVjNzNjXHViODVjIFx1YmNmNFx1YjJlNCBcdWMxMjBcdWNjOThcdWJjMWJcdWM3NDQgXHVhYzAwXHViMmE1XHVjMTMxXHVjNzQwIFx1Y2RhOVx1YmQ4NFx1ZDc4OCBcdWM3ODhcdWMyYjVcdWIyYzhcdWIyZTQuXHJcclxuXHVkNjE1XHVjMGFjXHVkNTY5XHVjNzU4XHVhYzAwIFx1YzViNFx1YjgzNVx1YjJlNFx1YmE3NCwgXHVhY2Y1XHVkMGMxIFx1YjYxMFx1YjI5NCBcdWJjOTVcdWI5NjBcdWMwYzEgXHVjODcwXHVjZTU4XHViODVjIFx1YjMwMFx1Y2NiNFx1ZDU2MCBcdWMyMTggXHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LlxyXHJcblx1YWMxMFx1YzgxNVx1YzgwMVx1Yzc3OCBcdWIzMDBcdWM3NTFcdWJjZjRcdWIyZTQgXHVjY2I0XHVhY2M0XHVjODAxXHVjNzc4IFx1YzkwMFx1YmU0NFx1YzY0MCBcdWM4MDRcdWJiMzhcdWFjMDAgXHVjMGMxXHViMmY0XHVjNzc0IFx1YmIzNFx1YzVjN1x1YmNmNFx1YjJlNCBcdWM5MTFcdWM2OTRcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcclxuXHVjODcwXHVhZTA4IFx1YjJhNlx1YzVjOFx1YjM1NFx1Yjc3Y1x1YjNjNCBcdWM5YzBcdWFlMDhcdWJkODBcdWQxMzAgXHVjYzI4XHVhZGZjXHVjYzI4XHVhZGZjIFx1YzkwMFx1YmU0NFx1ZDU3NFx1YmNmNFx1YzEzOFx1YzY5NC5cclxuIiwgInN0eWxlIjogeyJmb250Q29sb3IiOiAiIzAwMDAwMCIsICJmb250RmFtaWx5IjogInN5c3RlbSIsICJmb250U2l6ZUNvZGUiOiAiZnMxOSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiI2ZmZmZmZiIsICJpdGFsaWMiOiBmYWxzZSwgInVuZGVybGluZSI6IGZhbHNlLCAiQGN0eXBlIjogIm5vZGVTdHlsZSJ9LCAiQGN0eXBlIjogInRleHROb2RlIn1dLCAiQGN0eXBlIjogInBhcmFncmFwaCJ9XSwgIkBjdHlwZSI6ICJ0ZXh0In0sIHsiaWQiOiAiU0UtYWE0ZjRiYmYtZmY4YS00NjM0LThlMzctOTU5MTE4NmZjMzZhIiwgImxheW91dCI6ICJkZWZhdWx0IiwgImFsaWduIjogImNlbnRlciIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5URXhNRFZmTVRZZy9NREF4TnpZeU16STVORFV4T0Rrei5Zc1E2UXVNRF9sWUl5aXNQMU5IVHBjS21KZHJxWk0wV1JVa3cydm4wWEU0Zy5UOUhON0hrTk5kWGkycHp0VFNJeElrWUZzUF80RXZZbTRYLW1fRHZxTnVjZy5KUEVHL2ltYWdlLmpwZyIsICJpbnRlcm5hbFJlc291cmNlIjogZmFsc2UsICJyZXByZXNlbnQiOiBmYWxzZSwgInBhdGgiOiAiL01qQXlOVEV4TURWZk1UWWcvTURBeE56WXlNekk1TkRVeE9Ea3ouWXNRNlF1TURfbFlJeWlzUDFOSFRwY0ttSmRycVpNMFdSVWt3MnZuMFhFNGcuVDlITjdIa05OZFhpMnB6dFRTSXhJa1lGc1BfNEV2WW00WC1tX0R2cU51Y2cuSlBFRy9pbWFnZS5qcGciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMjYyMDAsICJ3aWR0aCI6IDM4NiwgIndpZHRoUGVyY2VudGFnZSI6IDAsICJoZWlnaHQiOiAzODYsICJvcmlnaW5hbFdpZHRoIjogMzg2LCAib3JpZ2luYWxIZWlnaHQiOiAzODYsICJmaWxlTmFtZSI6ICJpbWFnZS5qcGciLCAiY2FwdGlvbiI6IG51bGwsICJsaW5rIjogIiIsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogdHJ1ZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAiY2FwdHVyZSIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgIkBjdHlwZSI6ICJpbWFnZSJ9XSwgImRpIjogeyJkaWYiOiBmYWxzZSwgImRpbyI6IFt7ImRpcyI6ICJOIiwgImRpYSI6IHsidCI6IDAsICJwIjogMCwgInN0IjogMTQsICJzayI6IDN9fV19fX2UjA5tZWRpYVJlc291cmNlc5SMIXsiaW1hZ2UiOltdLCJ2aWRlbyI6W10sImZpbGUiOltdfZSMEHBvcHVsYXRpb25QYXJhbXOUWJIDAAB7ImNvbmZpZ3VyYXRpb24iOiB7Im9wZW5UeXBlIjogMiwgImNvbW1lbnRZbiI6IHRydWUsICJzZWFyY2hZbiI6IHRydWUsICJzeW1wYXRoeVluIjogdHJ1ZSwgInNjcmFwVHlwZSI6IDIsICJvdXRTaWRlQWxsb3dZbiI6IHRydWUsICJ0d2l0dGVyUG9zdGluZ1luIjogZmFsc2UsICJmYWNlYm9va1Bvc3RpbmdZbiI6IGZhbHNlLCAiY2NsWW4iOiBmYWxzZX0sICJwb3B1bGF0aW9uTWV0YSI6IHsiY2F0ZWdvcnlJZCI6IDEsICJsb2dObyI6IG51bGwsICJkaXJlY3RvcnlTZXEiOiAwLCAiZGlyZWN0b3J5RGV0YWlsIjogbnVsbCwgIm1yQmxvZ1RhbGtDb2RlIjogbnVsbCwgInBvc3RXcml0ZVRpbWVUeXBlIjogIm5vdyIsICJ0YWdzIjogIlx1YWQ1MFx1ZDFiNVx1YzBhY1x1YWNlMFx1YzgwNFx1YmIzOFx1YmNjMFx1ZDYzOFx1YzBhYyxcdWFkNTBcdWQxYjVcdWMwYWNcdWFjZTBcdWM4MDRcdWJiMzhcdWJjYzBcdWQ2MzhcdWMwYWMsXHVhZDUwXHVkMWI1XHVjMGFjXHVhY2UwXHVjODA0XHViYjM4XHViY2MwXHVkNjM4XHVjMGFjLFx1YWQ1MFx1ZDFiNVx1YzBhY1x1YWNlMFx1YzgwNFx1YmIzOFx1YmNjMFx1ZDYzOFx1YzBhYyIsICJtb3ZpZVBhbmVsUGFydGljaXBhdGlvbiI6IGZhbHNlLCAiZ3JlZW5SZXZpZXdCYW5uZXJZbiI6IGZhbHNlLCAiY29udGludWVTYXZlZCI6IGZhbHNlLCAibm90aWNlUG9zdFluIjogZmFsc2UsICJhdXRvQnlDYXRlZ29yeVluIjogZmFsc2UsICJwb3N0TG9jYXRpb25TdXBwb3J0WW4iOiBmYWxzZSwgInBvc3RMb2NhdGlvbkpzb24iOiBudWxsLCAicHJlUG9zdERhdGUiOiBudWxsLCAidGhpc0RheVBvc3RJbmZvIjogbnVsbCwgInNjcmFwWW4iOiBmYWxzZSwgImF1dG9TYXZlTm8iOiAxNzYyMzI5NDI2MDQyfSwgImVkaXRvclNvdXJjZSI6ICJBOHEwTU41MTkzMVFCZndONVBmVm13PT0ifZSMEXByb2R1Y3RBcGlWZXJzaW9ulIwCdjGUdS4=","headers_encoded":"gASVWwMAAAAAAAB9lCiMBmFjY2VwdJSMIWFwcGxpY2F0aW9uL2pzb24sIHRleHQvcGxhaW4sICovKpSMD2FjY2VwdC1sYW5ndWFnZZSMI2tvLUtSLGtvO3E9MC45LGVuLVVTO3E9MC44LGVuO3E9MC43lIwMY29udGVudC10eXBllIwhYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVklIwGb3JpZ2lulIwWaHR0cHM6Ly9ibG9nLm5hdmVyLmNvbZSMCHByaW9yaXR5lIwGdT0xLCBplIwHcmVmZXJlcpRYIQEAAGh0dHBzOi8vYmxvZy5uYXZlci5jb20vUG9zdFdyaXRlRm9ybS5uYXZlcj9ibG9nSWQ9bGF3eWVyNjQzJlJlZGlyZWN0PVdyaXRlJnJlZGlyZWN0PVdyaXRlJndpZGdldFR5cGVDYWxsPXRydWUmZnJvbT1zZWN0aW9uJnRvcFJlZmVyZXI9aHR0cHMlM0ElMkYlMkZzZWN0aW9uLmJsb2cubmF2ZXIuY29tJTJGQmxvZ0hvbWUubmF2ZXIlM0ZkaXJlY3RvcnlObyUzRDAlMjZjdXJyZW50UGFnZSUzRDElMjZncm91cElkJTNEMCZ0cmFja2luZ0NvZGU9YmxvZ19zZWN0aW9uaG9tZV9wYyZkaXJlY3RBY2Nlc3M9ZmFsc2WUjAlzZWMtY2gtdWGUjEAiTm90L0EpQnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjEyNiIsICJHb29nbGUgQ2hyb21lIjt2PSIxMjYilIwQc2VjLWNoLXVhLW1vYmlsZZSMAj8wlIwSc2VjLWNoLXVhLXBsYXRmb3JtlIwJIldpbmRvd3MilIwOc2VjLWZldGNoLWRlc3SUjAVlbXB0eZSMDnNlYy1mZXRjaC1tb2RllIwEY29yc5SMDnNlYy1mZXRjaC1zaXRllIwLc2FtZS1vcmlnaW6UjAp1c2VyLWFnZW50lIxvTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2lHUu"}
+
+----------------
+에러메세지 cookies_value_WEBBLOG_TEMP
+Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: useAutomationExtension
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3358c3
+	0x335904
+	0x14e76d
+	0x1780d7
+	0x179d90
+	0x17434c
+	0x1c72a4
+	0x1c6ccf
+	0x1c850f
+	0x1c830a
+	0x1bc766
+	0x18dac0
+	0x18ede4
+	0x5b7974
+	0x5b2bea
+	0x35e5b4
+	0x34dd28
+	0x354d8d
+	0x33ded8
+	0x33e09c
+	0x327d1a
+	0x75b5fcc9
+	0x772b82ae
+	0x772b827e
+	0
+
+cookies_value_WEBBLOG_TEMP 최종발행 title 이슈
+
+🎯 총 0개의 블로그 창 닫음 완료
+16시 57분 32초
+timeclock 1.0
+asdf 60
+동작중 0
+timeclock 1.0
+asdf 60
+동작중 1
+timeclock 1.0
+asdf 60
+동작중 2
+timeclock 1.0
+asdf 60
+동작중 3
+timeclock 1.0
+asdf 60
+동작중 4
+timeclock 1.0
+asdf 60
+동작중 5
+timeclock 1.0
+asdf 60
+동작중 6
+timeclock 1.0
+asdf 60
+동작중 7
+timeclock 1.0
+asdf 60
+동작중 8
+timeclock 1.0
+asdf 60
+동작중 9
+timeclock 1.0
+asdf 60
+동작중 10
+timeclock 1.0
+asdf 60
+동작중 11
+timeclock 1.0
+asdf 60
+동작중 12
+timeclock 1.0
+asdf 60
+동작중 13
+timeclock 1.0
+asdf 60
+동작중 14
+timeclock 1.0
+asdf 60
+동작중 15
+timeclock 1.0
+asdf 60
+동작중 16
+timeclock 1.0
+asdf 60
+동작중 17
+timeclock 1.0
+asdf 60
+동작중 18
+timeclock 1.0
+asdf 60
+동작중 19
+timeclock 1.0
+asdf 60
+동작중 20
+timeclock 1.0
+asdf 60
+동작중 21
+timeclock 1.0
+asdf 60
+동작중 22
+timeclock 1.0
+asdf 60
+동작중 23
+timeclock 1.0
+asdf 60
+동작중 24
+timeclock 1.0
+asdf 60
+동작중 25
+timeclock 1.0
+asdf 60
+동작중 26
+timeclock 1.0
+asdf 60
+동작중 27
+timeclock 1.0
+asdf 60
+동작중 28
+timeclock 1.0
+asdf 60
+동작중 29
+timeclock 1.0
+asdf 60
+동작중 30
+timeclock 1.0
+asdf 60
+동작중 31
+timeclock 1.0
+asdf 60
+동작중 32
+timeclock 1.0
+asdf 60
+동작중 33
+timeclock 1.0
+asdf 60
+동작중 34
+timeclock 1.0
+asdf 60
+동작중 35
+timeclock 1.0
+asdf 60
+동작중 36
+timeclock 1.0
+asdf 60
+동작중 37
+timeclock 1.0
+asdf 60
+동작중 38
+timeclock 1.0
+asdf 60
+동작중 39
+timeclock 1.0
+asdf 60
+동작중 40
+timeclock 1.0
+asdf 60
+동작중 41
+timeclock 1.0
+asdf 60
+동작중 42
+timeclock 1.0
+asdf 60
+동작중 43
+timeclock 1.0
+asdf 60
+동작중 44
+timeclock 1.0
+asdf 60
+동작중 45
+timeclock 1.0
+asdf 60
+동작중 46
+timeclock 1.0
+asdf 60
+동작중 47
+timeclock 1.0
+asdf 60
+동작중 48
+timeclock 1.0
+asdf 60
+동작중 49
+timeclock 1.0
+asdf 60
+동작중 50
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+60
+16시 58분 26초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+시작
+File saved to: C:\Users\HOME\Desktop\x\네이버블로그\logfile.txt
