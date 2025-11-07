@@ -1,0 +1,714 @@
+buffers_g ['', '', '', '', '']
+외부 IP: 123.213.92.46
+외부 IP: 123.213.92.46
+시작
+realID beom160329
+realPW ekdud1380
+로그인 성공
+모드4
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+150
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+클립
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+클립
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01328130>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329270>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01328460>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329A50>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132A1A0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132A8F0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132B040>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78FE80>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132AB90>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132A4A0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329990>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329450>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD013282E0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132B7F0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01328C10>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329B70>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329DE0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132A8C0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132AB00>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132B370>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78DF00>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78E7A0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78EAD0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132BC70>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329F00>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329510>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD01329450>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78E9E0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78E800>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD7E78FF70>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+---------captcha-------import --------
+에러메세지
+HTTPConnectionPool(host='125.240.193.5', port=8006): Max retries exceeded with url: /translate_VOICE_CAPTCHA2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001AD0132B3A0>, 'Connection to 125.240.193.5 timed out. (connect timeout=None)'))
+----------------------------import --------
+에러메세지22
+Message: element not interactable
+  (Session info: chrome=142.0.7444.61)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10b58d3
+	0x10b5914
+	0xece5bb
+	0xf1b2dd
+	0xf0fdf5
+	0xf3c96c
+	0xf0f854
+	0xf3cb24
+	0xf5eea6
+	0xf3c766
+	0xf0dac0
+	0xf0ede4
+	0x1337974
+	0x1332bea
+	0x10de5c4
+	0x10cdd38
+	0x10d4d9d
+	0x10bdee8
+	0x10be0ac
+	0x10a7d2a
+	0x773cfcc9
+	0x77e682ae
+	0x77e6827e
+
+영수증 캡차 
+* recording
+* done recording
+--전송 시작
+result_string BAD
+응?
+시작
+File saved to: C:\Users\admin\Desktop\쇼핑트래픽\logfile.txt
