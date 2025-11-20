@@ -1,0 +1,203 @@
+ID_IMAGE ID1.png
+src_folder C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1769726, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1597, 430)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1661, y=645)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1661, y=645)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1368, y=138)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1661, y=645)
+loc_GREEN None
+loc_GRAY Point(x=1612, y=414)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1368, y=138)
+외부 IP: 210.182.182.42
+시작
+File saved to: C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\logfile.txt
+
+--- Captured Logs ---
+ID_IMAGE ID1.png
+src_folder C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1769726, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1597, 430)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1661, y=645)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1661, y=645)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1368, y=138)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1661, y=645)
+loc_GREEN None
+loc_GRAY Point(x=1612, y=414)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1368, y=138)
+외부 IP: 210.182.182.42
+시작
+File saved to: C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\logfile.txt
+
+ID_IMAGE ID1.png
+src_folder C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1769726, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1597, 430)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1661, y=645)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1661, y=645)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1368, y=138)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1661, y=645)
+loc_GREEN None
+loc_GRAY Point(x=1612, y=414)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1368, y=138)
+외부 IP: 210.182.182.42
+ID_IMAGE ID1.png
+src_folder C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1769726, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1597, 430)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1664, y=235)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1664, y=235)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+이미 접속중 입니다. 돌아갑니다 520
+뒤로 넘어가기 530
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1664, y=235)
+loc_GREEN Point(x=1601, y=417)
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 210.182.182.42
+시작
+File saved to: C:\Users\하슬기\Desktop\프로그램250808\네이버블로그\logfile.txt
