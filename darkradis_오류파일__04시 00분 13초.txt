@@ -1,0 +1,173 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+2
+0    우정소갈비 첨단점
+1    우정소갈비 첨단점
+Name: 작업 매장, dtype: object
+--------------total error-------import --------
+에러메세지
+Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0xad4f53+61299]
+	GetHandleVerifier [0x0xad4f94+61364]
+	(No symbol) [0x0x8b4fd8]
+	(No symbol) [0x0x8ea970]
+	(No symbol) [0x0x8e5d2a]
+	(No symbol) [0x0x92e26c]
+	(No symbol) [0x0x92db6a]
+	(No symbol) [0x0x922236]
+	(No symbol) [0x0x8f35ca]
+	(No symbol) [0x0x8f4454]
+	GetHandleVerifier [0x0xd22913+2476339]
+	GetHandleVerifier [0x0xd1d9e7+2456071]
+	GetHandleVerifier [0x0xafe4e2+230658]
+	GetHandleVerifier [0x0xaee0a8+164040]
+	GetHandleVerifier [0x0xaf561d+194109]
+	GetHandleVerifier [0x0xadd388+95144]
+	GetHandleVerifier [0x0xadd520+95552]
+	GetHandleVerifier [0x0xac881a+10298]
+	BaseThreadInitThunk [0x0x76807ba9+25]
+	RtlInitializeExceptionChain [0x0x7792c3ab+107]
+	RtlClearBits [0x0x7792c32f+191]
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0xad4f53+61299]
+	GetHandleVerifier [0x0xad4f94+61364]
+	(No symbol) [0x0x8b4fd8]
+	(No symbol) [0x0x8ea970]
+	(No symbol) [0x0x8e5d2a]
+	(No symbol) [0x0x92e26c]
+	(No symbol) [0x0x92db6a]
+	(No symbol) [0x0x922236]
+	(No symbol) [0x0x8f35ca]
+	(No symbol) [0x0x8f4454]
+	GetHandleVerifier [0x0xd22913+2476339]
+	GetHandleVerifier [0x0xd1d9e7+2456071]
+	GetHandleVerifier [0x0xafe4e2+230658]
+	GetHandleVerifier [0x0xaee0a8+164040]
+	GetHandleVerifier [0x0xaf561d+194109]
+	GetHandleVerifier [0x0xadd388+95144]
+	GetHandleVerifier [0x0xadd520+95552]
+	GetHandleVerifier [0x0xac881a+10298]
+	BaseThreadInitThunk [0x0x76807ba9+25]
+	RtlInitializeExceptionChain [0x0x7792c3ab+107]
+	RtlClearBits [0x0x7792c32f+191]
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0xad4f53+61299]
+	GetHandleVerifier [0x0xad4f94+61364]
+	(No symbol) [0x0x8b4fd8]
+	(No symbol) [0x0x8ea970]
+	(No symbol) [0x0x8e5d2a]
+	(No symbol) [0x0x92e26c]
+	(No symbol) [0x0x92db6a]
+	(No symbol) [0x0x922236]
+	(No symbol) [0x0x8f35ca]
+	(No symbol) [0x0x8f4454]
+	GetHandleVerifier [0x0xd22913+2476339]
+	GetHandleVerifier [0x0xd1d9e7+2456071]
+	GetHandleVerifier [0x0xafe4e2+230658]
+	GetHandleVerifier [0x0xaee0a8+164040]
+	GetHandleVerifier [0x0xaf561d+194109]
+	GetHandleVerifier [0x0xadd388+95144]
+	GetHandleVerifier [0x0xadd520+95552]
+	GetHandleVerifier [0x0xac881a+10298]
+	BaseThreadInitThunk [0x0x76807ba9+25]
+	RtlInitializeExceptionChain [0x0x7792c3ab+107]
+	RtlClearBits [0x0x7792c32f+191]
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0xad4f53+61299]
+	GetHandleVerifier [0x0xad4f94+61364]
+	(No symbol) [0x0x8b4fd8]
+	(No symbol) [0x0x8ea970]
+	(No symbol) [0x0x8e5d2a]
+	(No symbol) [0x0x92e26c]
+	(No symbol) [0x0x92db6a]
+	(No symbol) [0x0x922236]
+	(No symbol) [0x0x8f35ca]
+	(No symbol) [0x0x8f4454]
+	GetHandleVerifier [0x0xd22913+2476339]
+	GetHandleVerifier [0x0xd1d9e7+2456071]
+	GetHandleVerifier [0x0xafe4e2+230658]
+	GetHandleVerifier [0x0xaee0a8+164040]
+	GetHandleVerifier [0x0xaf561d+194109]
+	GetHandleVerifier [0x0xadd388+95144]
+	GetHandleVerifier [0x0xadd520+95552]
+	GetHandleVerifier [0x0xac881a+10298]
+	BaseThreadInitThunk [0x0x76807ba9+25]
+	RtlInitializeExceptionChain [0x0x7792c3ab+107]
+	RtlClearBits [0x0x7792c32f+191]
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0xad4f53+61299]
+	GetHandleVerifier [0x0xad4f94+61364]
+	(No symbol) [0x0x8b4fd8]
+	(No symbol) [0x0x8ea970]
+	(No symbol) [0x0x8e5d2a]
+	(No symbol) [0x0x92e26c]
+	(No symbol) [0x0x92db6a]
+	(No symbol) [0x0x922236]
+	(No symbol) [0x0x8f35ca]
+	(No symbol) [0x0x8f4454]
+	GetHandleVerifier [0x0xd22913+2476339]
+	GetHandleVerifier [0x0xd1d9e7+2456071]
+	GetHandleVerifier [0x0xafe4e2+230658]
+	GetHandleVerifier [0x0xaee0a8+164040]
+	GetHandleVerifier [0x0xaf561d+194109]
+	GetHandleVerifier [0x0xadd388+95144]
+	GetHandleVerifier [0x0xadd520+95552]
+	GetHandleVerifier [0x0xac881a+10298]
+	BaseThreadInitThunk [0x0x76807ba9+25]
+	RtlInitializeExceptionChain [0x0x7792c3ab+107]
+	RtlClearBits [0x0x7792c32f+191]
+
+시작
+File saved to: C:\Users\A\Desktop\OneDrive_2025-11-14\네이버플레이스\유효타\logfile.txt
