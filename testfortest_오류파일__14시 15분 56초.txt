@@ -1,0 +1,259 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+----------------------------import --------
+에러메세지44
+'username'
+DB access----success!!
+DB access----success!!
+DB access----success!!
+chaeck_category adsence_click/////
+1562
+273
+1488
+349
+1528
+308
+1489
+307
+1480
+327
+1584
+226
+scrollcounter 10
+1
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\d475a78b6fca4b92b6a43f9515537145.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\2dfcf8c2b0c342b68b0d014ace707ce0.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\364cef4690b244a5abf1dc4ad35bceb8.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+-----------------------------------
+name_counter 1
+numpy.size(User)-1 0
+-----------------------------------
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+중간 점검
+sub_working 0
+link_number 0
+working[link_number] 10
+Real_link[link_number] 김포공항주차대행
+
+Naver
+
+블로그
+카페
+인플루언서
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+number_hrefA 34
+1488
+349
+1528
+308
+1489
+307
+1480
+327
+1584
+226
+handles :  ['5745C941CDF3D0A3206E731FFB471C15']
+스탑
+크롬드라이버 강제 종료 성공
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50403): Max retries exceeded with url: /session/2576494658eec279c2f989835cd2e026/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002302B0B6AA0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+DB access----success!!
+chaeck_category adsence_click/////
+801
+385
+143
+826
+117
+782
+801
+324
+97
+485
+754
+555
+scrollcounter 10
+1
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\6d74c002d9834e3e9d143ac82ffae3c5.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\609d4851bc2f405e8c6e16dc99780aa8.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\b78ac71b2cfa498787b4592e9700b3ac.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+-----------------------------------
+name_counter 1
+numpy.size(User)-1 0
+-----------------------------------
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+중간 점검
+sub_working 0
+link_number 0
+working[link_number] 3
+Real_link[link_number] 김포공항주차대행
+
+Naver
+
+블로그
+카페
+인플루언서
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+print_text.text 김포공항 주차대행 최저가 주차 예약 요금
+print_text.text 김포공항 주차장 주차비 국내선 주차대행 요금
+print_text.text 김포공항 주차대행 비용 김포공항 주차장 후기
+print_text.text 김포공항 공식 주차대행 예약 주차비용 할인
+print_text.text 김포공항 주차장 비용 주차대행 최저가 후기
+print_text.text 김포공항 주차비용 공식 주차대행 주차예약 비교 후기
+print_text.text 김포공항 공식 주차대행 예약 요금 비교
+print_text.text 김포공항 주차대행 예약 장기 최저가 주차비 요금
+print_text.text 김포공항 주차비용 공식 주차대행 예약 이용 후기
+print_text.text 김포공항주차대행 김포공항주차장예약 팁
+print_text.text 김포공항 주차대행 비용 주차비 할인받기
+print_text.text 김포공항 최저가 주차대행 비용 주차비 할인 후기
+print_text.text 김포공항 공식주차대행 예약 국내선 후기
+print_text.text 김포공항주차대행 공항동 오름주차대행 내돈내산 공식주차장 대신 추천 솔직후기
+print_text.text 김포공항 공식 주차대행 김포공항 주차비용 장기 주차 예약
+print_text.text 김포공항 주차대행 주차비 요금 예약
+print_text.text 김포공항 공식 주차대행 예약 국내선 1주차장 혜택
+print_text.text 김포공항 주차대행 예약 주차비 공식 주차대행 비교 실내
+print_text.text 김포공항 공식주차대행 주차비 가격 주차장 비교예약
+print_text.text 김포공항 주차대행 주차비 저렴한 주차장 예약
+print_text.text 원고료 먹튀 업체 김포공항 달 주차대행 주차장
+print_text.text 김포공항 주차대행 가격 내돈내산 주차장 요금
+print_text.text 김포공항 공식 주차대행 예약 주차비용
+print_text.text 김포공항주차장 김포공항주차대행 주차비 예약
+print_text.text 3박4일 제주도 여행 제주공항 면세점 화장품 쇼핑 & 김포공항 주차대행 주차비 주차장 요금
+print_text.text 김포공항 주차대행 공식 민영 주차장 주차비 최저가 비교 후기
+print_text.text 김포공항 공식주차대행 예약 근처 공영주차장 요금 비용
+print_text.text 김포공항 주차대행 5만원❤️ 주차비 김포공항 주차장 예약!
+print_text.text 김포공항 주차대행 | 합리적 가격 당일예약 실내주차 코리아 주차대행
+print_text.text 김포공항 주차장 국내선 주차 현황 주차대행 주차비
+print_text.text 김포공항 주차장 예약 주차비 요금 주차대행 가격 추천
+print_text.text 김포공항주차대행 내돈대산 여행 준비
+print_text.text 김포공항 주차대행 서비스 김포공항 실내 주차장 국내선 주차비 할인 예약
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+number_hrefA 34
+143
+826
+117
+782
+801
+324
+97
+485
+754
+555
+handles :  ['D1D9587DBAF22E5AA0D7CF974003CE6C', '0188D24C7E06DA3E84E29DCCDFDC6393']
+스탑
+스탑
+중간 점검
+sub_working 1
+link_number 0
+working[link_number] 3
+Real_link[link_number] 김포공항주차대행
+
+Naver
+
+블로그
+카페
+인플루언서
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+number_hrefA 34
+254
+220
+1182
+733
+801
+324
+215
+532
+210
+799
+시작
+File saved to: C:\Users\rhlgm\Desktop\OneDrive_2025-11-26\logfile.txt
