@@ -1,0 +1,187 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+DB access----success!!
+chaeck_category adsence_click/////
+1565
+165
+1280
+255
+1540
+258
+1519
+348
+597
+746
+606
+771
+scrollcounter 5
+1
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\749e6ae5613b47879ee2b63ee35cd783.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\9105beccb182430a866de2aa00f05882.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\91316138bcbf432fba3a0928e9ed06fb.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+-----------------------------------
+name_counter 1
+numpy.size(User)-1 0
+-----------------------------------
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+중간 점검
+sub_working 0
+link_number 0
+working[link_number] 3
+Real_link[link_number] 김포공항주차대행
+
+Naver
+
+블로그
+카페
+인플루언서
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+print_text.text 김포공항 주차대행 최저가 주차 예약 요금
+print_text.text 김포공항 주차대행 비용 김포공항 주차장 후기
+print_text.text 김포공항 주차장 주차비 국내선 주차대행 요금
+print_text.text 김포공항 공식 주차대행 예약 주차비용 할인
+print_text.text 김포공항 주차장 비용 주차대행 최저가 후기
+print_text.text 김포공항 주차비용 공식 주차대행 주차예약 비교 후기
+print_text.text 김포공항 공식 주차대행 예약 요금 비교
+print_text.text 김포공항 주차대행 예약 장기 최저가 주차비 요금
+print_text.text 김포공항 주차비용 공식 주차대행 예약 이용 후기
+print_text.text 김포공항주차대행 김포공항주차장예약 팁
+print_text.text 김포공항 주차대행 비용 주차비 할인받기
+print_text.text 김포공항 최저가 주차대행 비용 주차비 할인 후기
+print_text.text 김포공항 공식주차대행 예약 국내선 후기
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+print_text.text 김포공항 주차대행 최저가 주차 예약 요금
+print_text.text 김포공항 주차대행 비용 김포공항 주차장 후기
+print_text.text 김포공항 주차장 주차비 국내선 주차대행 요금
+print_text.text 김포공항 공식 주차대행 예약 주차비용 할인
+print_text.text 김포공항 주차장 비용 주차대행 최저가 후기
+print_text.text 김포공항 주차비용 공식 주차대행 주차예약 비교 후기
+print_text.text 김포공항 공식 주차대행 예약 요금 비교
+print_text.text 김포공항 주차대행 예약 장기 최저가 주차비 요금
+print_text.text 김포공항 주차비용 공식 주차대행 예약 이용 후기
+print_text.text 김포공항주차대행 김포공항주차장예약 팁
+print_text.text 김포공항 주차대행 비용 주차비 할인받기
+print_text.text 김포공항 최저가 주차대행 비용 주차비 할인 후기
+print_text.text 김포공항 공식주차대행 예약 국내선 후기
+print_text.text 김포공항주차대행 공항동 오름주차대행 내돈내산 공식주차장 대신 추천 솔직후기
+print_text.text 김포공항 공식 주차대행 김포공항 주차비용 장기 주차 예약
+print_text.text 김포공항 주차대행 주차비 요금 예약
+print_text.text 김포공항 공식 주차대행 예약 국내선 1주차장 혜택
+print_text.text 김포공항 주차대행 예약 주차비 공식 주차대행 비교 실내
+print_text.text 김포공항 공식주차대행 주차비 가격 주차장 비교예약
+print_text.text 김포공항 주차대행 주차비 저렴한 주차장 예약
+print_text.text 원고료 먹튀 업체 김포공항 달 주차대행 주차장
+print_text.text 김포공항 주차대행 가격 내돈내산 주차장 요금
+print_text.text 김포공항 공식 주차대행 예약 주차비용
+print_text.text 김포공항주차장 김포공항주차대행 주차비 예약
+print_text.text 3박4일 제주도 여행 제주공항 면세점 화장품 쇼핑 & 김포공항 주차대행 주차비 주차장 요금
+print_text.text 김포공항 주차대행 공식 민영 주차장 주차비 최저가 비교 후기
+print_text.text 김포공항 공식주차대행 예약 근처 공영주차장 요금 비용
+print_text.text 김포공항 주차대행 5만원❤️ 주차비 김포공항 주차장 예약!
+print_text.text 김포공항 주차대행 | 합리적 가격 당일예약 실내주차 코리아 주차대행
+print_text.text 김포공항 주차장 국내선 주차 현황 주차대행 주차비
+print_text.text 김포공항 주차장 예약 주차비 요금 주차대행 가격 추천
+print_text.text 김포공항주차대행 내돈대산 여행 준비
+print_text.text 김포공항 주차대행 서비스 김포공항 실내 주차장 국내선 주차비 할인 예약
+print_text.text 김포공항 주차대행 비용 주차비용 김포공항 국내선 1주차장
+print_text.text 김포공항 주차대행 비용 김포공항 주차비
+print_text.text 김포공항 주차대행 비용 주차비 주차장
+print_text.text 김포공항 주차대행 비용 공식 주차비 비교 예약
+print_text.text 김포공항 주차비용 주차대행 내돈내산 후기
+print_text.text 김포공항주차대행 최저가 주차장
+print_text.text 김포공항주차대행 주차장 주차비
+print_text.text 김포공항 주차대행 최저가 주차 예약 요금
+print_text.text 김포공항 주차대행 비용 김포공항 주차장 후기
+print_text.text 김포공항 주차장 주차비 국내선 주차대행 요금
+print_text.text 김포공항 공식 주차대행 예약 주차비용 할인
+print_text.text 김포공항 주차장 비용 주차대행 최저가 후기
+print_text.text 김포공항 주차비용 공식 주차대행 주차예약 비교 후기
+print_text.text 김포공항 공식 주차대행 예약 요금 비교
+print_text.text 김포공항 주차대행 예약 장기 최저가 주차비 요금
+print_text.text 김포공항 주차비용 공식 주차대행 예약 이용 후기
+print_text.text 김포공항주차대행 김포공항주차장예약 팁
+print_text.text 김포공항 주차대행 비용 주차비 할인받기
+print_text.text 김포공항 최저가 주차대행 비용 주차비 할인 후기
+print_text.text 김포공항 공식주차대행 예약 국내선 후기
+print_text.text 김포공항주차대행 공항동 오름주차대행 내돈내산 공식주차장 대신 추천 솔직후기
+print_text.text 김포공항 공식 주차대행 김포공항 주차비용 장기 주차 예약
+print_text.text 김포공항 주차대행 주차비 요금 예약
+print_text.text 김포공항 공식 주차대행 예약 국내선 1주차장 혜택
+print_text.text 김포공항 주차대행 예약 주차비 공식 주차대행 비교 실내
+print_text.text 김포공항 공식주차대행 주차비 가격 주차장 비교예약
+print_text.text 김포공항 주차대행 주차비 저렴한 주차장 예약
+print_text.text 원고료 먹튀 업체 김포공항 달 주차대행 주차장
+print_text.text 김포공항 주차대행 가격 내돈내산 주차장 요금
+print_text.text 김포공항 공식 주차대행 예약 주차비용
+print_text.text 김포공항주차장 김포공항주차대행 주차비 예약
+print_text.text 3박4일 제주도 여행 제주공항 면세점 화장품 쇼핑 & 김포공항 주차대행 주차비 주차장 요금
+print_text.text 김포공항 주차대행 공식 민영 주차장 주차비 최저가 비교 후기
+print_text.text 김포공항 공식주차대행 예약 근처 공영주차장 요금 비용
+print_text.text 김포공항 주차대행 5만원❤️ 주차비 김포공항 주차장 예약!
+print_text.text 김포공항 주차대행 | 합리적 가격 당일예약 실내주차 코리아 주차대행
+print_text.text 김포공항 주차장 국내선 주차 현황 주차대행 주차비
+print_text.text 김포공항 주차장 예약 주차비 요금 주차대행 가격 추천
+print_text.text 김포공항주차대행 내돈대산 여행 준비
+print_text.text 김포공항 주차대행 서비스 김포공항 실내 주차장 국내선 주차비 할인 예약
+print_text.text 김포공항 주차대행 가격 공식 주차대행 예약 비교
+print_text.text 김포공항 주차대행 라라 예약 요금 할인 비용 발렛
+print_text.text 김포공항 주차대행 가격 주차장 예약 후기
+print_text.text 김포공항 주차대행 공식 주차비 할인 이용
+print_text.text 김포공항 주차대행 공식 주차대행 가격 서비스 비교 할인 예약 팁
+print_text.text 김포공항 주차대행 주차장 주차비 주차요금
+print_text.text 김포공항 주차대행 예약하면 시간 절약 주차비 할인
+print_text.text 김포공항 주차대행 가격 주차장 주차비 혜택
+print_text.text 김포공항 공식주차대행 예약 주차 현황 꿀팁
+print_text.text 라라주차대행 안전하고 믿을 수 있는 김포공항 공식 주차대행 이용후기 요금
+print_text.text 김포공항 공식 주차대행 예약 주차장 다자녀 할인 요금
+print_text.text 김포공항 주차대행 추천 자스민 주차장 요금 및 후기
+print_text.text 김포공항 주차대행 내돈내산 공영 주차 만차 손오공주차대행 이용 후기
+print_text.text 김포공항 국내선 하루 주차비 김포공항주차대행 주차장 예약
+print_text.text 김포공항 주차대행 국내선 국제선 주차장 예약 주차비
+print_text.text 김포공항 주차장 예약 방법 주차대행 주차요금
+print_text.text 김포공항 주차대행 주차비 제주여행의 시작은
+print_text.text 편리했던 김포공항 주차대행 주차비 위치
+print_text.text 김포공항 주차대행 요금 궁금하다면 김포공항주차비 주차장예약 알아보기
+print_text.text 김포공항 주차대행 비용 합리적인 안전한 주차장
+시작
+File saved to: E:\SynologyDrive\23 [애드센스 작업치는것]\(main)방문자 개선 project\###########new version\naver트래픽 프로그램\네이버 인플 블로그\logfile.txt
