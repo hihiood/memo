@@ -1,0 +1,624 @@
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\하슬기\AppData\Local\Temp\3a954ed0155b4deeb8188ad863c5f25b.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\하슬기\AppData\Local\Temp\2533e5327f3840c7a9473d3b4f8e9e9c.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\하슬기\AppData\Local\Temp\13c5110a20f24686bfd8ad9e3ad13724.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2025-11-27 14:55:37
+now: 2025-11-27 14:57:19.870876
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\하슬기\AppData\Local\Temp\7772d56d989b42e99bc6c16a04712646.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\하슬기\AppData\Local\Temp\cb57a964eea1453ab515f3706b94bae8.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\하슬기\AppData\Local\Temp\bac07820e44a44e0b8cecd03a8c46ae6.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+title 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+title 대구 교통사고 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+title 부산 교통사고 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+title 광명 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+title 경기도 교통사고 변호사 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\하슬기\Desktop\네이버블로그-가해자\고정이미지\3
+1    C:\Users\하슬기\Desktop\네이버블로그-가해자\고정이미지\3
+2    C:\Users\하슬기\Desktop\네이버블로그-가해자\고정이미지\3
+3    C:\Users\하슬기\Desktop\네이버블로그-가해자\고정이미지\3
+4    C:\Users\하슬기\Desktop\네이버블로그-가해자\고정이미지\3
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\하슬기\Desktop\네이버블로그-가해자\인물이미지
+1    C:\Users\하슬기\Desktop\네이버블로그-가해자\인물이미지
+2    C:\Users\하슬기\Desktop\네이버블로그-가해자\인물이미지
+3    C:\Users\하슬기\Desktop\네이버블로그-가해자\인물이미지
+4    C:\Users\하슬기\Desktop\네이버블로그-가해자\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\하슬기\Desktop\네이버블로그-가해자\대표이미지
+1    C:\Users\하슬기\Desktop\네이버블로그-가해자\대표이미지
+2    C:\Users\하슬기\Desktop\네이버블로그-가해자\대표이미지
+3    C:\Users\하슬기\Desktop\네이버블로그-가해자\대표이미지
+4    C:\Users\하슬기\Desktop\네이버블로그-가해자\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    서울/ 자동차 대 사람 , 검찰기준 중상해+12대중과실 신호위반, 100% / 하반...
+1    대구/ 자동차 대 사람 , 검찰기준 중상해+12대중과실 신호위반, 100% / 하반...
+2    부산/ 자동차 대 사람 , 검찰기준 중상해+12대중과실 신호위반, 100% / 하반...
+3    광명/ 자동차 대 사람 , 검찰기준 중상해+12대중과실 신호위반, 100% / 하반...
+4    경기도/ 자동차 대 사람 , 검찰기준 중상해+12대중과실 신호위반, 100% / 하...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 가해자\네이버블...
+1    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 가해자\네이버블...
+2    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 가해자\네이버블...
+3    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 가해자\네이버블...
+4    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 가해자\네이버블...
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    신호위반 교통사고
+1    신호위반 교통사고
+2    신호위반 교통사고
+3    신호위반 교통사고
+4    신호위반 교통사고
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\하슬기\Desktop\네이버블로그-가해자\홍보이미지\무면허
+1    C:\Users\하슬기\Desktop\네이버블로그-가해자\홍보이미지\무면허
+2    C:\Users\하슬기\Desktop\네이버블로그-가해자\홍보이미지\무면허
+3    C:\Users\하슬기\Desktop\네이버블로그-가해자\홍보이미지\무면허
+4    C:\Users\하슬기\Desktop\네이버블로그-가해자\홍보이미지\무면허
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:010-5240-4972
+1    tel:010-5240-4972
+2    tel:010-5240-4972
+3    tel:010-5240-4972
+4    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    https://youtu.be/75uwA5xfnTw?si=rSoQEr43WMMuhYyJ
+1    https://youtu.be/75uwA5xfnTw?si=rSoQEr43WMMuhYyJ
+2    https://youtu.be/75uwA5xfnTw?si=rSoQEr43WMMuhYyJ
+3    https://youtu.be/75uwA5xfnTw?si=rSoQEr43WMMuhYyJ
+4    https://youtu.be/75uwA5xfnTw?si=rSoQEr43WMMuhYyJ
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    교통사고전문변호사/교통사고중상해/형사합의/형사사건/사망사고/형사합의금/12대증과실/...
+1    교통사고전문변호사/교통사고중상해/형사합의/형사사건/사망사고/형사합의금/12대증과실/...
+2    교통사고전문변호사/교통사고중상해/형사합의/형사사건/사망사고/형사합의금/12대증과실/...
+3    교통사고전문변호사/교통사고중상해/형사합의/형사사건/사망사고/형사합의금/12대증과실/...
+4    교통사고전문변호사/교통사고중상해/형사합의/형사사건/사망사고/형사합의금/12대증과실/...
+Name: 태그, dtype: object
+엑셀 개수 5
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: AFDA31CF-23C1-4B07-8849-FC5CEEBE8EA4
+DB access----success!!
+1--now_device_check AFDA31CF-23C1-4B07-8849-FC5CEEBE8EA4
+1--device_check_DB AFDA31CF-23C1-4B07-8849-FC5CEEBE8EA4
+operate_check DB access----success!!
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+gzette2836
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ["Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence", '서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례', 'ko']
+Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence
+Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of a meerkat wearing a monocle and a top hat, in the style of a vintage portrait painting, dramatic lighting, soft colors, use of brown and beige
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 신호위반 교통사고
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ["Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence", '서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례', 'ko']
+Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence
+Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Black and white photograph of a lone wolf howling at the moon, night, sharp focus on the wolf, snowy mountain top, landscape photography
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 신호위반 교통사고
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ["Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence", '서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례 서울 12대중과실 신호위반으로 피해자가 하반신마비가 된 사건 성공사례', 'ko']
+Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence
+Seoul 12 Successful cases of a case where a victim became paralyzed from the waist down due to a traffic signal violation Success stories of a case where a victim became paralyzed from the waist down due to a traffic signal violation of Seoul's 12 Public Negligence
+시작
+File saved to: C:\Users\하슬기\Desktop\네이버블로그-가해자\logfile.txt
