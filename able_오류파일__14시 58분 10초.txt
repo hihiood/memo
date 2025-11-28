@@ -1,0 +1,1564 @@
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\814d7a1a5d3748d7b90916aefb0f5434.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\6b44e20f12c14586a1a9038952a97bcb.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\32982ba261564971946442e45414752f.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2025-11-28 14:51:29
+now: 2025-11-28 14:52:38.928293
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\a9d41295512745c58615945d2846edd6.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\fac292869add4d6c993febe7496803d6.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\b660cc359b3f431796419857f4bcf28d.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+title 고신대병원 24시간가능 간병인
+title 강북삼성병원 종일제 간병인
+title 서울큰나무병원 24시간가능 간병인
+title 건국대병원 종일제 간병인
+title 원주세브란스병원 24시간가능 간병인
+title 경희대병원 종일제 간병인
+title 척편한병원 친절한 간병인
+title 명지병원 24시간가능 간병인
+title 서울성모병원 종일제 간병인
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+title 
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+9                                               없음
+10                                              없음
+11                                              없음
+12                                              없음
+13                                              없음
+14                                              없음
+15                                              없음
+16                                              없음
+17                                              없음
+18                                              없음
+19                                              없음
+20                                              없음
+21                                              없음
+22                                              없음
+23                                              없음
+24                                              없음
+25                                              없음
+26                                              없음
+27                                              없음
+28                                              없음
+29                                              없음
+30                                              없음
+31                                              없음
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+9                                              없음
+10                                             없음
+11                                             없음
+12                                             없음
+13                                             없음
+14                                             없음
+15                                             없음
+16                                             없음
+17                                             없음
+18                                             없음
+19                                             없음
+20                                             없음
+21                                             없음
+22                                             없음
+23                                             없음
+24                                             없음
+25                                             없음
+26                                             없음
+27                                             없음
+28                                             없음
+29                                             없음
+30                                             없음
+31                                             없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+9                                              없음
+10                                             없음
+11                                             없음
+12                                             없음
+13                                             없음
+14                                             없음
+15                                             없음
+16                                             없음
+17                                             없음
+18                                             없음
+19                                             없음
+20                                             없음
+21                                             없음
+22                                             없음
+23                                             없음
+24                                             없음
+25                                             없음
+26                                             없음
+27                                             없음
+28                                             없음
+29                                             없음
+30                                             없음
+31                                             없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+1     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+2     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+3     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+4     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+5     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+6     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+7     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+8     케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+9                                                    없음
+10                                                   없음
+11                                                   없음
+12                                                   없음
+13                                                   없음
+14                                                   없음
+15                                                   없음
+16                                                   없음
+17                                                   없음
+18                                                   없음
+19                                                   없음
+20                                                   없음
+21                                                   없음
+22                                                   없음
+23                                                   없음
+24                                                   없음
+25                                                   없음
+26                                                   없음
+27                                                   없음
+28                                                   없음
+29                                                   없음
+30                                                   없음
+31                                                   없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+19    없음
+20    없음
+21    없음
+22    없음
+23    없음
+24    없음
+25    없음
+26    없음
+27    없음
+28    없음
+29    없음
+30    없음
+31    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+2     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+3     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+4     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+5     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+6     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+7     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+8     병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+9                                 없음
+10                                없음
+11                                없음
+12                                없음
+13                                없음
+14                                없음
+15                                없음
+16                                없음
+17                                없음
+18                                없음
+19                                없음
+20                                없음
+21                                없음
+22                                없음
+23                                없음
+24                                없음
+25                                없음
+26                                없음
+27                                없음
+28                                없음
+29                                없음
+30                                없음
+31                                없음
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+9                                              없음
+10                                             없음
+11                                             없음
+12                                             없음
+13                                             없음
+14                                             없음
+15                                             없음
+16                                             없음
+17                                             없음
+18                                             없음
+19                                             없음
+20                                             없음
+21                                             없음
+22                                             없음
+23                                             없음
+24                                             없음
+25                                             없음
+26                                             없음
+27                                             없음
+28                                             없음
+29                                             없음
+30                                             없음
+31                                             없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0     tel:1555-0801
+1     tel:1555-0801
+2     tel:1555-0801
+3     tel:1555-0801
+4     tel:1555-0801
+5     tel:1555-0801
+6     tel:1555-0801
+7     tel:1555-0801
+8     tel:1555-0801
+9                없음
+10               없음
+11               없음
+12               없음
+13               없음
+14               없음
+15               없음
+16               없음
+17               없음
+18               없음
+19               없음
+20               없음
+21               없음
+22               없음
+23               없음
+24               없음
+25               없음
+26               없음
+27               없음
+28               없음
+29               없음
+30               없음
+31               없음
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0     https://youtube.com/shorts/xLvL-m1VcSc?si=BOCv...
+1     https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+2     https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+3     https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+4                          https://youtu.be/8Dsp9S4l0JE
+5     https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+6     https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+7                          https://youtu.be/8Dsp9S4l0JE
+8     https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+9                                                    없음
+10                                                   없음
+11                                                   없음
+12                                                   없음
+13                                                   없음
+14                                                   없음
+15                                                   없음
+16                                                   없음
+17                                                   없음
+18                                                   없음
+19                                                   없음
+20                                                   없음
+21                                                   없음
+22                                                   없음
+23                                                   없음
+24                                                   없음
+25                                                   없음
+26                                                   없음
+27                                                   없음
+28                                                   없음
+29                                                   없음
+30                                                   없음
+31                                                   없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+2     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+3     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+4     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+5     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+6     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+7     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+8     병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+9                                                    없음
+10                                                   없음
+11                                                   없음
+12                                                   없음
+13                                                   없음
+14                                                   없음
+15                                                   없음
+16                                                   없음
+17                                                   없음
+18                                                   없음
+19                                                   없음
+20                                                   없음
+21                                                   없음
+22                                                   없음
+23                                                   없음
+24                                                   없음
+25                                                   없음
+26                                                   없음
+27                                                   없음
+28                                                   없음
+29                                                   없음
+30                                                   없음
+31                                                   없음
+Name: 태그, dtype: object
+엑셀 개수 9
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  고신대병원 24시간가능 간병인 고신대병원 24시간가능 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital', '고신대병원 24시간가능 간병인 고신대병원 24시간가능 간병인', 'ko']
+Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital
+Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+photorealistic woman wearing a hat of frogs, collared shirt
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  고신대병원 24시간가능 간병인 고신대병원 24시간가능 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital', '고신대병원 24시간가능 간병인 고신대병원 24시간가능 간병인', 'ko']
+Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital
+Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Wide angle framing of a packed lecture hall, a gorilla in a tweed suit and glasses is in front of the chalkboard, giving a lecture, digital painting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  고신대병원 24시간가능 간병인 고신대병원 24시간가능 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital', '고신대병원 24시간가능 간병인 고신대병원 24시간가능 간병인', 'ko']
+Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital
+Caregiver available 24 hours a day at Kosin University Hospital Carer available 24 hours a day at Kosin University Hospital
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Close-up of antique wooden rocking chair, rustic weathered oak, surrounded by golden foliage, warm lighting, antique store
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="db2a62180d70102e7b9684c3bcc66a6c")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+수집된 텍스트: 주제 : 케어매치는 간병인 배상책임보험에 의무가입되어있다법률자문회사를 통해 법률상담서비스를 제공하고있다간병보험청구를 위한 보험서류 발급이 가능하다
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7c4103
+	0x7c4144
+	0x5ce71d
+	0x61a03d
+	0x61a41b
+	0x6617f2
+	0x63c954
+	0x65ee17
+	0x63c706
+	0x60da30
+	0x60ed54
+	0xa357b4
+	0xa3098a
+	0x7ec392
+	0x7dc4c8
+	0x7e324d
+	0x7cc478
+	0x7cc63c
+	0x7b67ca
+	0x77c1fcc9
+	0x77e782ae
+	0x77e7827e
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<케어매치 간병 보험·법률 지원으로 더 안전한 돌봄 환경 제공>>]]^^엔터^^🔵 간병이 필요한 순간, 더욱 중요한 건 ‘안전한 서비스’^^엔터^^
+가족의 건강 문제로 간병이 필요해지는 순간, 가장 먼저 떠오르는 고민은 “정말 믿고 맡길 수 있을까?” 하는 신뢰에 대한 문제입니다.^^엔터^^
+간병은 단순한 신체 돌봄을 넘어 환자와 보호자의 심리적 안정을 책임지는 일인 만큼, 서비스의 안전성과 투명성은 무엇보다 중요합니다.^^엔터^^
+케어매치는 이러한 보호자의 걱정을 덜어드리기 위해 간병인 안전 제도와 법률 지원 체계를 강화해 나가고 있습니다.^^엔터^^🔵 간병인 모두 배상책임보험 의무가입으로 안심 돌봄 보장^^엔터^^
+케어매치에 등록된 모든 간병인은 간병인 배상책임보험에 의무 가입되어 있어, 돌봄 과정에서 발생할 수 있는 예기치 못한 사고에 대비할 수 있습니다.^^엔터^^
+이 제도는 보호자와 환자를 위한 안전장치이자, 간병인이 더욱 책임감 있는 돌봄을 제공할 수 있게 하는 기반입니다.^^엔터^^
+안전한 간병 환경을 위해 케어매치는 보험 가입 여부를 철저히 관리하며, 모든 간병 서비스가 믿을 수 있는 체계 안에서 이루어지도록 보장합니다.^^엔터^^🔵 전문 법률자문회사를 통한 법률 상담 서비스 제공^^엔터^^
+간병 과정에서 예상치 못한 문제나 법적 조언이 필요할 수 있습니다.^^엔터^^
+이를 대비해 케어매치는 전문 법률자문회사와 협업하여 법률 상담 서비스를 제공하고 있으며, 보호자가 어려운 상황에서도 전문적인 조언을 받을 수 있도록 지원합니다.^^엔터^^
+이 서비스는 간병 계약, 분쟁 예방, 권리 안내 등 다양한 분야에서 도움을 드리며, 보호자와 간병인 모두가 불필요한 걱정 없이 서비스를 이용할 수 있게 돕습니다.^^엔터^^🔵 간병보험 청구를 위한 필수 서류 발급 가능^^엔터^^
+간병보험이 가입되어 있는 경우, 보험 청구를 위해 필요한 서류를 발급받아야 하는 상황이 자주 발생합니다.^^엔터^^
+케어매치는 간병보험 청구에 필요한 서류 발급을 지원하여 보호자가 복잡한 절차로 시간을 허비하지 않도록 돕습니다.^^엔터^^
+서류 준비 과정의 번거로움을 최소화하고, 빠르고 정확한 발급을 통해 필요 시 보험 청구가 원활히 진행될 수 있도록 도와드립니다.^^엔터^^🔵 케어매치를 선택해야 하는 이유, 한층 더 강화된 신뢰 서비스^^엔터^^간병인 배상책임보험 의무 가입으로 안정성 강화^^엔터^^법률자문회사 연계 상담으로 예상치 못한 상황도 대비^^엔터^^간병보험 청구 서류 발급 지원으로 편리한 절차^^엔터^^전국 어디서든 이용 가능한 간병 매칭 서비스^^엔터^^실명 인증 및 교육을 갖춘 검증된 간병인 구성^^엔터^^
+케어매치는 서비스의 질뿐 아니라, 보호자의 마음까지 케어하는 ‘안전 시스템’을 함께 제공합니다.^^엔터^^🔵 마무리 / 상담 안내^^엔터^^
+간병이 필요할 때, 그리고 더욱 안전한 서비스를 원할 때,^^엔터^^
+케어매치 상담으로 해결하세요.^^엔터^^
+전문 상담원이 환자 상태와 필요 사항을 세심하게 확인하고, 신뢰할 수 있는 간병인을 빠르게 연결해드립니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<케어매치 간병 보험·법률 지원으로 더 안전한 돌봄 환경 제공>>]]^^엔터^^🔵 간병이 필요한 순간, 더욱 중요한 건 ‘안전한 서비스’^^엔터^^
+가족의 건강 문제로 간병이 필요해지는 순간, 가장 먼저 떠오르는 고민은 “정말 믿고 맡길 수 있을까?” 하는 신뢰에 대한 문제입니다.^^엔터^^
+간병은 단순한 신체 돌봄을 넘어 환자와 보호자의 심리적 안정을 책임지는 일인 만큼, 서비스의 안전성과 투명성은 무엇보다 중요합니다.^^엔터^^
+케어매치는 이러한 보호자의 걱정을 덜어드리기 위해 간병인 안전 제도와 법률 지원 체계를 강화해 나가고 있습니다.^^엔터^^
+===== B 영역 =====
+🔵 간병인 모두 배상책임보험 의무가입으로 안심 돌봄 보장^^엔터^^
+케어매치에 등록된 모든 간병인은 간병인 배상책임보험에 의무 가입되어 있어, 돌봄 과정에서 발생할 수 있는 예기치 못한 사고에 대비할 수 있습니다.^^엔터^^
+이 제도는 보호자와 환자를 위한 안전장치이자, 간병인이 더욱 책임감 있는 돌봄을 제공할 수 있게 하는 기반입니다.^^엔터^^
+안전한 간병 환경을 위해 케어매치는 보험 가입 여부를 철저히 관리하며, 모든 간병 서비스가 믿을 수 있는 체계 안에서 이루어지도록 보장합니다.^^엔터^^🔵 전문 법률자문회사를 통한 법률 상담 서비스 제공^^엔터^^
+간병 과정에서 예상치 못한 문제나 법적 조언이 필요할 수 있습니다.^^엔터^^
+이를 대비해 케어매치는 전문 법률자문회사와 협업하여 법률 상담 서비스를 제공하고 있으며, 보호자가 어려운 상황에서도 전문적인 조언을 받을 수 있도록 지원합니다.^^엔터^^
+이 서비스는 간병 계약, 분쟁 예방, 권리 안내 등 다양한 분야에서 도움을 드리며, 보호자와 간병인 모두가 불필요한 걱정 없이 서비스를 이용할 수 있게 돕습니다.^^엔터^^🔵 간병보험 청구를 위한 필수 서류 발급 가능^^엔터^^
+간병보험이 가입되어 있는 경우, 보험 청구를 위해 필요한 서류를 발급받아야 하는 상황이 자주 발생합니다.^^엔터^^
+케어매치는 간병보험 청구에 필요한 서류 발급을 지원하여 보호자가 복잡한 절차로 시간을 허비하지 않도록 돕습니다.^^엔터^^
+서류 준비 과정의 번거로움을 최소화하고, 빠르고 정확한 발급을 통해 필요 시 보험 청구가 원활히 진행될 수 있도록 도와드립니다.^^엔터^^🔵 케어매치를 선택해야 하는 이유, 한층 더 강화된 신뢰 서비스^^엔터^^간병인 배상책임보험 의무 가입으로 안정성 강화^^엔터^^법률자문회사 연계 상담으로 예상치 못한 상황도 대비^^엔터^^간병보험 청구 서류 발급 지원으로 편리한 절차^^엔터^^전국 어디서든 이용 가능한 간병 매칭 서비스^^엔터^^실명 인증 및 교육을 갖춘 검증된 간병인 구성^^엔터^^
+케어매치는 서비스의 질뿐 아니라, 보호자의 마음까지 케어하는 ‘안전 시스템’을 함께 제공합니다.^^엔터^^🔵 마무리 / 상담 안내^^엔터^^
+간병이 필요할 때, 그리고 더욱 안전한 서비스를 원할 때,^^엔터^^
+케어매치 상담으로 해결하세요.^^엔터^^
+전문 상담원이 환자 상태와 필요 사항을 세심하게 확인하고, 신뢰할 수 있는 간병인을 빠르게 연결해드립니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<케어매치 간병 보험·법률 지원으로 더 안전한 돌봄 환경 제공>>]]^^엔터^^🔵 간병이 필요한 순간, 더욱 중요한 건 ‘안전한 서비스’^^엔터^^
+가족의 건강 문제로 간병이 필요해지는 순간, 가장 먼저 떠오르는 고민은 “정말 믿고 맡길 수 있을까?” 하는 신뢰에 대한 문제입니다.^^엔터^^
+간병은 단순한 신체 돌봄을 넘어 환자와 보호자의 심리적 안정을 책임지는 일인 만큼, 서비스의 안전성과 투명성은 무엇보다 중요합니다.^^엔터^^
+케어매치는 이러한 보호자의 걱정을 덜어드리기 위해 간병인 안전 제도와 법률 지원 체계를 강화해 나가고 있습니다.^^엔터^^🔵 간병인 모두 배상책임보험 의무가입으로 안심 돌봄 보장^^엔터^^
+케어매치에 등록된 모든 간병인은 간병인 배상책임보험에 의무 가입되어 있어, 돌봄 과정에서 발생할 수 있는 예기치 못한 사고에 대비할 수 있습니다.^^엔터^^
+이 제도는 보호자와 환자를 위한 안전장치이자, 간병인이 더욱 책임감 있는 돌봄을 제공할 수 있게 하는 기반입니다.^^엔터^^
+안전한 간병 환경을 위해 케어매치는 보험 가입 여부를 철저히 관리하며, 모든 간병 서비스가 믿을 수 있는 체계 안에서 이루어지도록 보장합니다.^^엔터^^🔵 전문 법률자문회사를 통한 법률 상담 서비스 제공^^엔터^^
+간병 과정에서 예상치 못한 문제나 법적 조언이 필요할 수 있습니다.^^엔터^^
+이를 대비해 케어매치는 전문 법률자문회사와 협업하여 법률 상담 서비스를 제공하고 있으며, 보호자가 어려운 상황에서도 전문적인 조언을 받을 수 있도록 지원합니다.^^엔터^^
+이 서비스는 간병 계약, 분쟁 예방, 권리 안내 등 다양한 분야에서 도움을 드리며, 보호자와 간병인 모두가 불필요한 걱정 없이 서비스를 이용할 수 있게 돕습니다.^^엔터^^🔵 간병보험 청구를 위한 필수 서류 발급 가능^^엔터^^
+간병보험이 가입되어 있는 경우, 보험 청구를 위해 필요한 서류를 발급받아야 하는 상황이 자주 발생합니다.^^엔터^^
+케어매치는 간병보험 청구에 필요한 서류 발급을 지원하여 보호자가 복잡한 절차로 시간을 허비하지 않도록 돕습니다.^^엔터^^
+서류 준비 과정의 번거로움을 최소화하고, 빠르고 정확한 발급을 통해 필요 시 보험 청구가 원활히 진행될 수 있도록 도와드립니다.^^엔터^^🔵 케어매치를 선택해야 하는 이유, 한층 더 강화된 신뢰 서비스^^엔터^^간병인 배상책임보험 의무 가입으로 안정성 강화^^엔터^^법률자문회사 연계 상담으로 예상치 못한 상황도 대비^^엔터^^간병보험 청구 서류 발급 지원으로 편리한 절차^^엔터^^전국 어디서든 이용 가능한 간병 매칭 서비스^^엔터^^실명 인증 및 교육을 갖춘 검증된 간병인 구성^^엔터^^
+케어매치는 서비스의 질뿐 아니라, 보호자의 마음까지 케어하는 ‘안전 시스템’을 함께 제공합니다.^^엔터^^🔵 마무리 / 상담 안내^^엔터^^
+간병이 필요할 때, 그리고 더욱 안전한 서비스를 원할 때,^^엔터^^
+케어매치 상담으로 해결하세요.^^엔터^^
+전문 상담원이 환자 상태와 필요 사항을 세심하게 확인하고, 신뢰할 수 있는 간병인을 빠르게 연결해드립니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 케어매치 간병 보험·법률 지원으로 더 안전한 돌봄 환경 제공
+text2: ^^엔터^^^^엔터^^🔵 간병이 필요한 순간, 더욱 중요한 건 ‘안전한 서비스’^^엔터^^
+가족의 건강 문제로 간병이 필요해지는 순간, 가장 먼저 떠오르는 고민은 “정말 믿고 맡길 수 있을까?” 하는 신뢰에 대한 문제입니다.^^엔터^^
+간병은 단순한 신체 돌봄을 넘어 환자와 보호자의 심리적 안정을 책임지는 일인 만큼, 서비스의 안전성과 투명성은 무엇보다 중요합니다.^^엔터^^
+케어매치는 이러한 보호자의 걱정을 덜어드리기 위해 간병인 안전 제도와 법률 지원 체계를 강화해 나가고 있습니다.^^엔터^^🔵 간병인 모두 배상책임보험 의무가입으로 안심 돌봄 보장^^엔터^^
+케어매치에 등록된 모든 간병인은 간병인 배상책임보험에 의무 가입되어 있어, 돌봄 과정에서 발생할 수 있는 예기치 못한 사고에 대비할 수 있습니다.^^엔터^^
+이 제도는 보호자와 환자를 위한 안전장치이자, 간병인이 더욱 책임감 있는 돌봄을 제공할 수 있게 하는 기반입니다.^^엔터^^
+안전한 간병 환경을 위해 케어매치는 보험 가입 여부를 철저히 관리하며, 모든 간병 서비스가 믿을 수 있는 체계 안에서 이루어지도록 보장합니다.^^엔터^^🔵 전문 법률자문회사를 통한 법률 상담 서비스 제공^^엔터^^
+간병 과정에서 예상치 못한 문제나 법적 조언이 필요할 수 있습니다.^^엔터^^
+이를 대비해 케어매치는 전문 법률자문회사와 협업하여 법률 상담 서비스를 제공하고 있으며, 보호자가 어려운 상황에서도 전문적인 조언을 받을 수 있도록 지원합니다.^^엔터^^
+이 서비스는 간병 계약, 분쟁 예방, 권리 안내 등 다양한 분야에서 도움을 드리며, 보호자와 간병인 모두가 불필요한 걱정 없이 서비스를 이용할 수 있게 돕습니다.^^엔터^^🔵 간병보험 청구를 위한 필수 서류 발급 가능^^엔터^^
+간병보험이 가입되어 있는 경우, 보험 청구를 위해 필요한 서류를 발급받아야 하는 상황이 자주 발생합니다.^^엔터^^
+케어매치는 간병보험 청구에 필요한 서류 발급을 지원하여 보호자가 복잡한 절차로 시간을 허비하지 않도록 돕습니다.^^엔터^^
+서류 준비 과정의 번거로움을 최소화하고, 빠르고 정확한 발급을 통해 필요 시 보험 청구가 원활히 진행될 수 있도록 도와드립니다.^^엔터^^🔵 케어매치를 선택해야 하는 이유, 한층 더 강화된 신뢰 서비스^^엔터^^간병인 배상책임보험 의무 가입으로 안정성 강화^^엔터^^법률자문회사 연계 상담으로 예상치 못한 상황도 대비^^엔터^^간병보험 청구 서류 발급 지원으로 편리한 절차^^엔터^^전국 어디서든 이용 가능한 간병 매칭 서비스^^엔터^^실명 인증 및 교육을 갖춘 검증된 간병인 구성^^엔터^^
+케어매치는 서비스의 질뿐 아니라, 보호자의 마음까지 케어하는 ‘안전 시스템’을 함께 제공합니다.^^엔터^^🔵 마무리 / 상담 안내^^엔터^^
+간병이 필요할 때, 그리고 더욱 안전한 서비스를 원할 때,^^엔터^^
+케어매치 상담으로 해결하세요.^^엔터^^
+전문 상담원이 환자 상태와 필요 사항을 세심하게 확인하고, 신뢰할 수 있는 간병인을 빠르게 연결해드립니다.^^엔터^^
+check_word_length 0
+len(kkq) 1480
+ID_IMAGE ID9.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=132636, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1553, 525)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID9.PNG
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 4번째 시도에서 이미지 발견: Point(x=1616, y=841)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+loc_ID 495 Point(x=1616, y=841)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1328, y=235)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1616, y=841)
+loc_GREEN None
+loc_GRAY Point(x=1567, y=510)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1328, y=235)
+외부 IP: 221.150.125.35
+DB access----success!!
+2--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+2--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+제목  고신대병원 24시간가능 간병인
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile carematch77 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile carematch77
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile carematch77)
+cookies [{'domain': '.naver.com', 'expiry': 1764309715, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1764309413'}, {'domain': '.naver.com', 'expiry': 1764311215, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1764307554'}, {'domain': '.nid.naver.com', 'expiry': 1795845414, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1'}, {'domain': '.naver.com', 'expiry': 1798869415, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '52cPZA6dU7gXSEii-i_AvCxs6nARXzRVvEfzjF6ad9w='}, {'domain': '.naver.com', 'expiry': 1798869415, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'JHITSDT5AEUWS'}, {'domain': '.nid.naver.com', 'expiry': 1781589414, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'Xxa4kcwqAZ6xPaLFLxvWtsOjkPO9Pa1aKT+GVccTOj3FSXDqHmjTAE+FSB4Srl8QqUv2EVWAJbI+WS6aLXBx4xOBoHf9v7zIVrSln8YotvEKXWGgA+CObl94DGo6bm82OtyAHwNMLm2eqvxxxMvok/EFwyiNwVdX9xwYJi/ZKMU='}, {'domain': '.naver.com', 'expiry': 1764381439, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1798855039, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '9sneDwhC2e2QA'}, {'domain': '.nid.naver.com', 'expiry': 1798855039, 'httpOnly': False, 'name': 'nid_buk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'ASFW3VWQ5MNWS'}]
+SRT5 -> 1764309413
+SRT30 -> 1764307554
+nid_slevel -> -1
+BUC -> 52cPZA6dU7gXSEii-i_AvCxs6nARXzRVvEfzjF6ad9w=
+NNB -> JHITSDT5AEUWS
+NID_JST -> Xxa4kcwqAZ6xPaLFLxvWtsOjkPO9Pa1aKT+GVccTOj3FSXDqHmjTAE+FSB4Srl8QqUv2EVWAJbI+WS6aLXBx4xOBoHf9v7zIVrSln8YotvEKXWGgA+CObl94DGo6bm82OtyAHwNMLm2eqvxxxMvok/EFwyiNwVdX9xwYJi/ZKMU=
+NACT -> 1
+NAC -> 9sneDwhC2e2QA
+nid_buk -> ASFW3VWQ5MNWS
+쿠키 체크
+frame None
+cookies {'NAC': '9sneDwhC2e2QA', 'NNB': 'JHITSDT5AEUWS', 'BA_DEVICE': '971ff54c-1156-4b76-971a-1dea739d8387', 'stat_yn': '1', 'page_uid': 'ipH1SlprfjCssfzzVZwssssssRl-064457', 'nid_inf': '', 'NID_AUT': '', 'NID_JKL': '', 'NACT': '1', 'BUC': '52cPZA6dU7gXSEii-i_AvCxs6nARXzRVvEfzjF6ad9w=', 'JSESSIONID': 'EB6022D944A4E08A0CBFFB5035C40896.jvm1', 'NID_SES': ''}
+userNaverId=naverIDID2
+userNaverId carematch77
+--------check12
+--------check13
+영수증 캡차 
+----------------------------import --------
+에러메세지55
+영수증 캡차 
+----------------------------import --------
+에러메세지55
+영수증 캡차 
+----------------------------import --------
+에러메세지55
+영수증 캡차 
+----------------------------import --------
+에러메세지55
+영수증 캡차 
+----------------------------import --------
+에러메세지55
+영수증 캡차 
+----------------------------import --------
+에러메세지55
+영수증 캡차 
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
