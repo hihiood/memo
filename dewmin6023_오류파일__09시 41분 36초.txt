@@ -1,0 +1,91 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+78
+0       간판을더하다 송도
+1       간판을더하다 동탄
+2     핏더라운지 PT&헬스
+3       간판을더하다 김포
+4       간판을더하다 인천
+         ...     
+73      간판을더하다 김포
+74      간판을더하다 동탄
+75      간판을더하다 송도
+76    핏더라운지 PT&헬스
+77      간판을더하다 김포
+Name: 작업 매장, Length: 78, dtype: object
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+--------------total error-------import --------
+에러메세지
+local variable 'random' referenced before assignment
+시작
+File saved to: C:\Users\song\Desktop\네이버 플레이스 프로그램\유효타\logfile.txt
