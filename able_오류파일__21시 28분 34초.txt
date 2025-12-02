@@ -1,0 +1,874 @@
+ID_IMAGE ID1.png
+src_folder C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1049054, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1376, 453)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[17회 시도] 이미지 못 찾음 → PageDown 시도
+[18회 시도] 이미지 못 찾음 → PageDown 시도
+[19회 시도] 이미지 못 찾음 → PageDown 시도
+[20회 시도] 이미지 못 찾음 → PageDown 시도
+[21회 시도] 이미지 못 찾음 → PageDown 시도
+[22회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 23번째 시도에서 이미지 발견: Point(x=1452, y=706)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1452, y=706)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1452, y=706)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 122.45.190.175
+시작
+File saved to: C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\logfile.txt
+
+--- Captured Logs ---
+ID_IMAGE ID1.png
+src_folder C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1049054, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1376, 453)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[17회 시도] 이미지 못 찾음 → PageDown 시도
+[18회 시도] 이미지 못 찾음 → PageDown 시도
+[19회 시도] 이미지 못 찾음 → PageDown 시도
+[20회 시도] 이미지 못 찾음 → PageDown 시도
+[21회 시도] 이미지 못 찾음 → PageDown 시도
+[22회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 23번째 시도에서 이미지 발견: Point(x=1452, y=706)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1452, y=706)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1452, y=706)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 122.45.190.175
+시작
+File saved to: C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\logfile.txt
+
+ID_IMAGE ID1.png
+src_folder C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png']
+[INFO] VPN 창 후보 선택: hwnd=1049054, title='HotVPN'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'HotVPN'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1376, 453)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID1.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[17회 시도] 이미지 못 찾음 → PageDown 시도
+[18회 시도] 이미지 못 찾음 → PageDown 시도
+[19회 시도] 이미지 못 찾음 → PageDown 시도
+[20회 시도] 이미지 못 찾음 → PageDown 시도
+[21회 시도] 이미지 못 찾음 → PageDown 시도
+[22회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 23번째 시도에서 이미지 발견: Point(x=1452, y=706)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID1.png
+selected_path2 C:\MyApp\images\ID1.png
+loc_ID 495 Point(x=1452, y=706)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1191, y=220)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1452, y=706)
+loc_GREEN None
+loc_GRAY Point(x=1390, y=441)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1191, y=220)
+외부 IP: 210.182.182.36
+학습chatGPT1
+맨위
+메모장 저장 모드 → use_note_for_post = False
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\asgfdg\AppData\Local\Temp\6c326a7a72dc41a2bc016c5715092ad2.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\asgfdg\AppData\Local\Temp\e3b1405aa68b4e0485a51bb8b5d7b78a.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\asgfdg\AppData\Local\Temp\f7f459b595be48aab74fc969504bf1fb.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2025-12-02 21:21:12
+now: 2025-12-02 21:26:32.535211
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\asgfdg\AppData\Local\Temp\f9b91b4e7fa547aab27844b156967662.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\asgfdg\AppData\Local\Temp\825f2996dee54267b11e1bcfa00e8515.pyd
+Running main() from the .pyd file...
+Captured output: 142
+최신 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\asgfdg\AppData\Local\Temp\e056c3b9ea8946b0a871aadd3e0fb16a.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 142
+내 드라이버 버전 :: 142
+title 교통사고전문변호사
+title 성매매 초범 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+title 학교폭력 처분 전문 변호사의 조력으로 현명하게 대처하세요
+title 디지털 성범죄 피해 회복 위한 전문 변호사의 조력
+title 성매매 단속 전문 변호사의 조력으로 최선의 대응 전략을 세우세요.
+title 학교폭력 전문가의 조력으로 현명하게 대처하세요
+title 학교폭력 합의금 전문가의 조력으로 현명하게 해결하세요
+title 성범죄 형사 고소 전문가의 조력으로 현명하게 대처하세요
+title 개인회생 기각 이대로 포기할 수 없다면? 전문가의 조력으로 최선의 결과를 만들어 드립니다.
+title 학교폭력 소송 감당하기 어려운 비용? 전문가의 조력으로 합리적인 해결책을 찾아드립니다.
+title 개인회생 변제금 미납 전문가의 조력으로 희망을 찾으세요
+title 개인회생 원금감면 전문가의 조력으로 가능성을 높여보세요
+title 금품갈취 학교폭력 전문 변호사의 조력으로 힘든 싸움 이겨내세요
+title 노래방성매매 관련 법률 문제 전문가의 조력으로 현명하게 대처하세요
+title 사진유포죄 전문 변호사의 조력으로 침해된 권리 되찾으세요.
+title 성범죄 혐의 전문 변호사의 조력으로 극복하세요
+title 오피 성매매 관련 법률 위반 전문 변호사의 조력으로 현명하게 대처하세요.
+title 학교폭력 가해자 전문 변호사의 조력으로 최선의 결과를 얻을 수 있습니다.
+title 학교폭력 처분 단계 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+title 개인회생 퇴직금 희망을 되찾는 전문가의 조력
+title 마사지샵 성매매 전문 변호사의 조력으로 법적리스크 최소화
+title 유사강간 고소 전문 변호사의 조력으로 현명하게 대응하세요
+title 청소년 성매매 사건 전문 변호사의 조력으로 올바른 해결책을 찾으십시오.
+title 가출청소년 성매매 전문 변호사의 조력으로 희망을 찾으세요
+title 성범죄 조사 전문가의 조력으로 불안감을 해소하세요
+title 디지털포렌식수사 명확한 증거 확보로 당신의 권리를 지켜드립니다
+title 핸드폰압수수색 전문가의 조력으로 불안감을 해소하세요
+title 개인회생 파산비용 전문가의 도움으로 합리적인 해결책을 찾아보세요.
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+1     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+2     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+3     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+4     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+5     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+6     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+7     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+8     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+9     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+10    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+11    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+12    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+13    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+14    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+15    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+16    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+17    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+18    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+19    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+20    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+21    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+22    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+23    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+24    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+25    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+26    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+27    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\고정이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+1     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+2     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+3     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+4     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+5     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+6     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+7     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+8     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+9     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+10    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+11    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+12    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+13    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+14    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+15    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+16    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+17    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+18    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+19    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+20    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+21    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+22    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+23    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+24    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+25    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+26    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+27    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+1     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+2     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+3     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+4     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+5     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+6     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+7     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+8     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+9     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+10    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+11    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+12    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+13    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+14    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+15    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+16    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+17    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+18    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+19    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+20    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+21    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+22    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+23    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+24    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+25    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+26    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+27    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0     피해자와 형사합의를 하지 못하였습니다.\n법원에 공탁금을 공탁하지 않았습니다. \n...
+1                    성매매 초범 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+2                       학교폭력 처분 전문 변호사의 조력으로 현명하게 대처하세요
+3                           디지털 성범죄 피해 회복 위한 전문 변호사의 조력
+4                  성매매 단속 전문 변호사의 조력으로 최선의 대응 전략을 세우세요.
+5                             학교폭력 전문가의 조력으로 현명하게 대처하세요
+6                         학교폭력 합의금 전문가의 조력으로 현명하게 해결하세요
+7                        성범죄 형사 고소 전문가의 조력으로 현명하게 대처하세요
+8     개인회생 기각 이대로 포기할 수 없다면? 전문가의 조력으로 최선의 결과를 만들어 드...
+9      학교폭력 소송 감당하기 어려운 비용? 전문가의 조력으로 합리적인 해결책을 찾아드립니다.
+10                       개인회생 변제금 미납 전문가의 조력으로 희망을 찾으세요
+11                       개인회생 원금감면 전문가의 조력으로 가능성을 높여보세요
+12                   금품갈취 학교폭력 전문 변호사의 조력으로 힘든 싸움 이겨내세요
+13                 노래방성매매 관련 법률 문제 전문가의 조력으로 현명하게 대처하세요
+14                     사진유포죄 전문 변호사의 조력으로 침해된 권리 되찾으세요.
+15                            성범죄 혐의 전문 변호사의 조력으로 극복하세요
+16             오피 성매매 관련 법률 위반 전문 변호사의 조력으로 현명하게 대처하세요.
+17             학교폭력 가해자 전문 변호사의 조력으로 최선의 결과를 얻을 수 있습니다.
+18               학교폭력 처분 단계 전문 변호사의 조력으로 최선의 결과를 도출하세요.
+19                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+20                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+21                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+22                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+23                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+24                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+25                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+26                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+27                             개인회생 퇴직금 희망을 되찾는 전문가의 조력
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+19    없음
+20    없음
+21    없음
+22    없음
+23    없음
+24    없음
+25    없음
+26    없음
+27    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     태극무늬
+1     태극무늬
+2     태극무늬
+3     태극무늬
+4     태극무늬
+5     태극무늬
+6     태극무늬
+7     태극무늬
+8     태극무늬
+9     태극무늬
+10    태극무늬
+11    태극무늬
+12    태극무늬
+13    태극무늬
+14    태극무늬
+15    태극무늬
+16    태극무늬
+17    태극무늬
+18    태극무늬
+19    태극무늬
+20    태극무늬
+21    태극무늬
+22    태극무늬
+23    태극무늬
+24    태극무늬
+25    태극무늬
+26    태극무늬
+27    태극무늬
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+1     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+2     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+3     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+4     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+5     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+6     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+7     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+8     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+9     C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+10    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+11    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+12    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+13    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+14    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+15    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+16    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+17    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+18    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+19    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+20    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+21    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+22    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+23    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+24    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+25    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+26    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+27    C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0     tel:010-5240-4972
+1     tel:010-5240-4972
+2     tel:010-5240-4972
+3     tel:010-5240-4972
+4     tel:010-5240-4972
+5     tel:010-5240-4972
+6     tel:010-5240-4972
+7     tel:010-5240-4972
+8     tel:010-5240-4972
+9     tel:010-5240-4972
+10    tel:010-5240-4972
+11    tel:010-5240-4972
+12    tel:010-5240-4972
+13    tel:010-5240-4972
+14    tel:010-5240-4972
+15    tel:010-5240-4972
+16    tel:010-5240-4972
+17    tel:010-5240-4972
+18    tel:010-5240-4972
+19    tel:010-5240-4972
+20    tel:010-5240-4972
+21    tel:010-5240-4972
+22    tel:010-5240-4972
+23    tel:010-5240-4972
+24    tel:010-5240-4972
+25    tel:010-5240-4972
+26    tel:010-5240-4972
+27    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0     https://www.youtube.com/watch?v=KynW0fj4E9s
+1     https://www.youtube.com/watch?v=KynW0fj4E9s
+2     https://www.youtube.com/watch?v=KynW0fj4E9s
+3     https://www.youtube.com/watch?v=KynW0fj4E9s
+4     https://www.youtube.com/watch?v=KynW0fj4E9s
+5     https://www.youtube.com/watch?v=KynW0fj4E9s
+6     https://www.youtube.com/watch?v=KynW0fj4E9s
+7     https://www.youtube.com/watch?v=KynW0fj4E9s
+8     https://www.youtube.com/watch?v=KynW0fj4E9s
+9     https://www.youtube.com/watch?v=KynW0fj4E9s
+10    https://www.youtube.com/watch?v=KynW0fj4E9s
+11    https://www.youtube.com/watch?v=KynW0fj4E9s
+12    https://www.youtube.com/watch?v=KynW0fj4E9s
+13    https://www.youtube.com/watch?v=KynW0fj4E9s
+14    https://www.youtube.com/watch?v=KynW0fj4E9s
+15    https://www.youtube.com/watch?v=KynW0fj4E9s
+16    https://www.youtube.com/watch?v=KynW0fj4E9s
+17    https://www.youtube.com/watch?v=KynW0fj4E9s
+18    https://www.youtube.com/watch?v=KynW0fj4E9s
+19    https://www.youtube.com/watch?v=KynW0fj4E9s
+20    https://www.youtube.com/watch?v=KynW0fj4E9s
+21    https://www.youtube.com/watch?v=KynW0fj4E9s
+22    https://www.youtube.com/watch?v=KynW0fj4E9s
+23    https://www.youtube.com/watch?v=KynW0fj4E9s
+24    https://www.youtube.com/watch?v=KynW0fj4E9s
+25    https://www.youtube.com/watch?v=KynW0fj4E9s
+26    https://www.youtube.com/watch?v=KynW0fj4E9s
+27    https://www.youtube.com/watch?v=KynW0fj4E9s
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0     교통사고전문변호사/교통사고중상해
+1     교통사고전문변호사/교통사고중상해
+2     교통사고전문변호사/교통사고중상해
+3     교통사고전문변호사/교통사고중상해
+4     교통사고전문변호사/교통사고중상해
+5     교통사고전문변호사/교통사고중상해
+6     교통사고전문변호사/교통사고중상해
+7     교통사고전문변호사/교통사고중상해
+8     교통사고전문변호사/교통사고중상해
+9     교통사고전문변호사/교통사고중상해
+10    교통사고전문변호사/교통사고중상해
+11    교통사고전문변호사/교통사고중상해
+12    교통사고전문변호사/교통사고중상해
+13    교통사고전문변호사/교통사고중상해
+14    교통사고전문변호사/교통사고중상해
+15    교통사고전문변호사/교통사고중상해
+16    교통사고전문변호사/교통사고중상해
+17    교통사고전문변호사/교통사고중상해
+18    교통사고전문변호사/교통사고중상해
+19    교통사고전문변호사/교통사고중상해
+20    교통사고전문변호사/교통사고중상해
+21    교통사고전문변호사/교통사고중상해
+22    교통사고전문변호사/교통사고중상해
+23    교통사고전문변호사/교통사고중상해
+24    교통사고전문변호사/교통사고중상해
+25    교통사고전문변호사/교통사고중상해
+26    교통사고전문변호사/교통사고중상해
+27    교통사고전문변호사/교통사고중상해
+Name: 태그, dtype: object
+엑셀 개수 28
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 785D53BE-A774-4A7D-8FC4-FA9749D59BDD
+DB access----success!!
+1--now_device_check 785D53BE-A774-4A7D-8FC4-FA9749D59BDD
+1--device_check_DB 785D53BE-A774-4A7D-8FC4-FA9749D59BDD
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+yerning4854
+use_note_for_post,use_note_for_post False
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="f9a5797eb9b8aa59d3bfcbd60779b75e")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68a552e0e2988191bdfaa9c9dc1bc622-beobmubeobin-eibeul-seulgi']
+ID_gmemo https://chatgpt.com/g/g-68a552e0e2988191bdfaa9c9dc1bc622-beobmubeobin-eibeul-seulgi
+체크4
+현재 URL: https://chatgpt.com/g/g-68a552e0e2988191bdfaa9c9dc1bc622-beobmubeobin-eibeul-seulgi
+수집된 텍스트: 주제 : 피해자와 형사합의를 하지 못하였습니다.법원에 공탁금을 공탁하지 않았습니다. 대인배상1 책임보험만 가입하였습니다.
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12b4103
+	0x12b4144
+	0x10be71d
+	0x110a03d
+	0x110a41b
+	0x11517f2
+	0x112c954
+	0x114ee17
+	0x112c706
+	0x10fda30
+	0x10fed54
+	0x15257b4
+	0x152098a
+	0x12dc392
+	0x12cc4c8
+	0x12d324d
+	0x12bc478
+	0x12bc63c
+	0x12a67ca
+	0x7737fcc9
+	0x77a382ae
+	0x77a3827e
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<형사합의·공탁 없이 진행된 교통사고 대응 전략 안내>>]]^^엔터^^🔴 형사합의나 공탁이 없다면 형사처벌 가능성이 높아집니다^^엔터^^
+피해자와 형사합의를 하지 못한 상황에서 공탁까지 이루어지지 않았다면, 법원은 피고인의 반성 및 피해 회복 의지를 낮게 평가할 수 있습니다. 특히 대인배상Ⅰ 책임보험만 가입된 경우 피해 보상의 한계가 명확해, 교통사고처리특례법의 보호를 받기 어려울 수 있습니다. 이 경우 형사처벌 가능성이 더 높아지며 개별적인 대응 전략이 반드시 필요합니다.^^엔터^^🟠 초기 경찰·검찰 조사에서의 진술이 결과를 크게 좌우합니다^^엔터^^
+합의가 되지 않은 사건은 수사기관이 피의자의 과실과 태도를 더욱 엄격하게 판단합니다. 이때 조사 과정에서의 한 문장, 한 설명이 처분 결과를 바꿀 수 있습니다. 불리한 표현이나 과장된 과실 인정은 형사처벌을 더 무겁게 만들 수 있습니다. 교통사고전문변호사는 초기 진술부터 방향을 잡아 불필요한 형사 리스크를 최소화하도록 돕습니다.^^엔터^^🟡 형사합의 부재 시, 전략적 공탁 여부가 형량을 좌우합니다^^엔터^^
+피해자와 합의가 불가한 상황에서는 공탁이 사실상 ‘피해 회복 의지’의 중요한 증거가 됩니다. 그러나 현재 공탁을 하지 않은 상태라면 법원은 이를 불리하게 해석할 수 있습니다. 무리하게 재판이 진행될 경우 벌금이 아닌 실형 가능성도 배제하기 어렵습니다. 변호인은 사건의 경중에 따라 공탁 필요 여부, 시기, 공탁액을 조율하여 가장 효과적인 전략을 제시합니다.^^엔터^^🟢 대인배상Ⅰ만 가입된 경우 보상 한계가 분명합니다^^엔터^^
+대인배상Ⅰ(책임보험)은 법에서 정한 최저한도의 보상만 가능하며, 그 이상의 손해는 개인이 부담해야 합니다. 이 때문에 피해자는 충분한 피해 회복이 되지 않았다며 강력하게 처벌을 요구하는 경향이 있습니다. 또한 책임보험만으로는 형사처벌을 면할 수 없기에, 이를 보완할 변호인의 역할이 매우 중요합니다.^^엔터^^🔵 전문 교통사고 변호인의 조력이 필요한 이유^^엔터^^
+합의 없음, 공탁 없음, 책임보험만 가입된 상태라면 사건은 이미 ‘불리한 구조’로 진행됩니다. 이 상황은 변호사 없이 대응하기 매우 어렵고, 초기 전략 하나가 결과를 크게 바꿀 수 있습니다. 교통사고 전문 변호사는 수사 대응, 공탁 전략, 양형 자료 준비 등을 종합적으로 조율하여 처벌을 낮추는 방향으로 사건을 정리합니다.^^엔터^^🔴 지금 필요한 것은 사안별 맞춤 전략입니다^^엔터^^
+피해자와 합의가 어려운지, 공탁이 가능한지, 사고 경위가 어떤지에 따라 대응 방식은 완전히 달라집니다. 책임보험만 가입된 상태라도 업무상 과실의 범위, 피해자의 상해 정도, 초동 진술에 따라 충분히 형량을 낮출 여지는 존재합니다. 초기 수사 단계에서 전략을 재정비해 형사처벌 위험을 줄이는 것이 가장 우선입니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<형사합의·공탁 없이 진행된 교통사고 대응 전략 안내>>]]^^엔터^^🔴 형사합의나 공탁이 없다면 형사처벌 가능성이 높아집니다^^엔터^^
+피해자와 형사합의를 하지 못한 상황에서 공탁까지 이루어지지 않았다면, 법원은 피고인의 반성 및 피해 회복 의지를 낮게 평가할 수 있습니다. 특히 대인배상Ⅰ 책임보험만 가입된 경우 피해 보상의 한계가 명확해, 교통사고처리특례법의 보호를 받기 어려울 수 있습니다. 이 경우 형사처벌 가능성이 더 높아지며 개별적인 대응 전략이 반드시 필요합니다.^^엔터^^
+===== B 영역 =====
+🟠 초기 경찰·검찰 조사에서의 진술이 결과를 크게 좌우합니다^^엔터^^
+합의가 되지 않은 사건은 수사기관이 피의자의 과실과 태도를 더욱 엄격하게 판단합니다. 이때 조사 과정에서의 한 문장, 한 설명이 처분 결과를 바꿀 수 있습니다. 불리한 표현이나 과장된 과실 인정은 형사처벌을 더 무겁게 만들 수 있습니다. 교통사고전문변호사는 초기 진술부터 방향을 잡아 불필요한 형사 리스크를 최소화하도록 돕습니다.^^엔터^^🟡 형사합의 부재 시, 전략적 공탁 여부가 형량을 좌우합니다^^엔터^^
+피해자와 합의가 불가한 상황에서는 공탁이 사실상 ‘피해 회복 의지’의 중요한 증거가 됩니다. 그러나 현재 공탁을 하지 않은 상태라면 법원은 이를 불리하게 해석할 수 있습니다. 무리하게 재판이 진행될 경우 벌금이 아닌 실형 가능성도 배제하기 어렵습니다. 변호인은 사건의 경중에 따라 공탁 필요 여부, 시기, 공탁액을 조율하여 가장 효과적인 전략을 제시합니다.^^엔터^^🟢 대인배상Ⅰ만 가입된 경우 보상 한계가 분명합니다^^엔터^^
+대인배상Ⅰ(책임보험)은 법에서 정한 최저한도의 보상만 가능하며, 그 이상의 손해는 개인이 부담해야 합니다. 이 때문에 피해자는 충분한 피해 회복이 되지 않았다며 강력하게 처벌을 요구하는 경향이 있습니다. 또한 책임보험만으로는 형사처벌을 면할 수 없기에, 이를 보완할 변호인의 역할이 매우 중요합니다.^^엔터^^🔵 전문 교통사고 변호인의 조력이 필요한 이유^^엔터^^
+합의 없음, 공탁 없음, 책임보험만 가입된 상태라면 사건은 이미 ‘불리한 구조’로 진행됩니다. 이 상황은 변호사 없이 대응하기 매우 어렵고, 초기 전략 하나가 결과를 크게 바꿀 수 있습니다. 교통사고 전문 변호사는 수사 대응, 공탁 전략, 양형 자료 준비 등을 종합적으로 조율하여 처벌을 낮추는 방향으로 사건을 정리합니다.^^엔터^^🔴 지금 필요한 것은 사안별 맞춤 전략입니다^^엔터^^
+피해자와 합의가 어려운지, 공탁이 가능한지, 사고 경위가 어떤지에 따라 대응 방식은 완전히 달라집니다. 책임보험만 가입된 상태라도 업무상 과실의 범위, 피해자의 상해 정도, 초동 진술에 따라 충분히 형량을 낮출 여지는 존재합니다. 초기 수사 단계에서 전략을 재정비해 형사처벌 위험을 줄이는 것이 가장 우선입니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<형사합의·공탁 없이 진행된 교통사고 대응 전략 안내>>]]^^엔터^^🔴 형사합의나 공탁이 없다면 형사처벌 가능성이 높아집니다^^엔터^^
+피해자와 형사합의를 하지 못한 상황에서 공탁까지 이루어지지 않았다면, 법원은 피고인의 반성 및 피해 회복 의지를 낮게 평가할 수 있습니다. 특히 대인배상Ⅰ 책임보험만 가입된 경우 피해 보상의 한계가 명확해, 교통사고처리특례법의 보호를 받기 어려울 수 있습니다. 이 경우 형사처벌 가능성이 더 높아지며 개별적인 대응 전략이 반드시 필요합니다.^^엔터^^🟠 초기 경찰·검찰 조사에서의 진술이 결과를 크게 좌우합니다^^엔터^^
+합의가 되지 않은 사건은 수사기관이 피의자의 과실과 태도를 더욱 엄격하게 판단합니다. 이때 조사 과정에서의 한 문장, 한 설명이 처분 결과를 바꿀 수 있습니다. 불리한 표현이나 과장된 과실 인정은 형사처벌을 더 무겁게 만들 수 있습니다. 교통사고전문변호사는 초기 진술부터 방향을 잡아 불필요한 형사 리스크를 최소화하도록 돕습니다.^^엔터^^🟡 형사합의 부재 시, 전략적 공탁 여부가 형량을 좌우합니다^^엔터^^
+피해자와 합의가 불가한 상황에서는 공탁이 사실상 ‘피해 회복 의지’의 중요한 증거가 됩니다. 그러나 현재 공탁을 하지 않은 상태라면 법원은 이를 불리하게 해석할 수 있습니다. 무리하게 재판이 진행될 경우 벌금이 아닌 실형 가능성도 배제하기 어렵습니다. 변호인은 사건의 경중에 따라 공탁 필요 여부, 시기, 공탁액을 조율하여 가장 효과적인 전략을 제시합니다.^^엔터^^🟢 대인배상Ⅰ만 가입된 경우 보상 한계가 분명합니다^^엔터^^
+대인배상Ⅰ(책임보험)은 법에서 정한 최저한도의 보상만 가능하며, 그 이상의 손해는 개인이 부담해야 합니다. 이 때문에 피해자는 충분한 피해 회복이 되지 않았다며 강력하게 처벌을 요구하는 경향이 있습니다. 또한 책임보험만으로는 형사처벌을 면할 수 없기에, 이를 보완할 변호인의 역할이 매우 중요합니다.^^엔터^^🔵 전문 교통사고 변호인의 조력이 필요한 이유^^엔터^^
+합의 없음, 공탁 없음, 책임보험만 가입된 상태라면 사건은 이미 ‘불리한 구조’로 진행됩니다. 이 상황은 변호사 없이 대응하기 매우 어렵고, 초기 전략 하나가 결과를 크게 바꿀 수 있습니다. 교통사고 전문 변호사는 수사 대응, 공탁 전략, 양형 자료 준비 등을 종합적으로 조율하여 처벌을 낮추는 방향으로 사건을 정리합니다.^^엔터^^🔴 지금 필요한 것은 사안별 맞춤 전략입니다^^엔터^^
+피해자와 합의가 어려운지, 공탁이 가능한지, 사고 경위가 어떤지에 따라 대응 방식은 완전히 달라집니다. 책임보험만 가입된 상태라도 업무상 과실의 범위, 피해자의 상해 정도, 초동 진술에 따라 충분히 형량을 낮출 여지는 존재합니다. 초기 수사 단계에서 전략을 재정비해 형사처벌 위험을 줄이는 것이 가장 우선입니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 형사합의·공탁 없이 진행된 교통사고 대응 전략 안내
+text2: ^^엔터^^^^엔터^^🔴 형사합의나 공탁이 없다면 형사처벌 가능성이 높아집니다^^엔터^^
+피해자와 형사합의를 하지 못한 상황에서 공탁까지 이루어지지 않았다면, 법원은 피고인의 반성 및 피해 회복 의지를 낮게 평가할 수 있습니다. 특히 대인배상Ⅰ 책임보험만 가입된 경우 피해 보상의 한계가 명확해, 교통사고처리특례법의 보호를 받기 어려울 수 있습니다. 이 경우 형사처벌 가능성이 더 높아지며 개별적인 대응 전략이 반드시 필요합니다.^^엔터^^🟠 초기 경찰·검찰 조사에서의 진술이 결과를 크게 좌우합니다^^엔터^^
+합의가 되지 않은 사건은 수사기관이 피의자의 과실과 태도를 더욱 엄격하게 판단합니다. 이때 조사 과정에서의 한 문장, 한 설명이 처분 결과를 바꿀 수 있습니다. 불리한 표현이나 과장된 과실 인정은 형사처벌을 더 무겁게 만들 수 있습니다. 교통사고전문변호사는 초기 진술부터 방향을 잡아 불필요한 형사 리스크를 최소화하도록 돕습니다.^^엔터^^🟡 형사합의 부재 시, 전략적 공탁 여부가 형량을 좌우합니다^^엔터^^
+피해자와 합의가 불가한 상황에서는 공탁이 사실상 ‘피해 회복 의지’의 중요한 증거가 됩니다. 그러나 현재 공탁을 하지 않은 상태라면 법원은 이를 불리하게 해석할 수 있습니다. 무리하게 재판이 진행될 경우 벌금이 아닌 실형 가능성도 배제하기 어렵습니다. 변호인은 사건의 경중에 따라 공탁 필요 여부, 시기, 공탁액을 조율하여 가장 효과적인 전략을 제시합니다.^^엔터^^🟢 대인배상Ⅰ만 가입된 경우 보상 한계가 분명합니다^^엔터^^
+대인배상Ⅰ(책임보험)은 법에서 정한 최저한도의 보상만 가능하며, 그 이상의 손해는 개인이 부담해야 합니다. 이 때문에 피해자는 충분한 피해 회복이 되지 않았다며 강력하게 처벌을 요구하는 경향이 있습니다. 또한 책임보험만으로는 형사처벌을 면할 수 없기에, 이를 보완할 변호인의 역할이 매우 중요합니다.^^엔터^^🔵 전문 교통사고 변호인의 조력이 필요한 이유^^엔터^^
+합의 없음, 공탁 없음, 책임보험만 가입된 상태라면 사건은 이미 ‘불리한 구조’로 진행됩니다. 이 상황은 변호사 없이 대응하기 매우 어렵고, 초기 전략 하나가 결과를 크게 바꿀 수 있습니다. 교통사고 전문 변호사는 수사 대응, 공탁 전략, 양형 자료 준비 등을 종합적으로 조율하여 처벌을 낮추는 방향으로 사건을 정리합니다.^^엔터^^🔴 지금 필요한 것은 사안별 맞춤 전략입니다^^엔터^^
+피해자와 합의가 어려운지, 공탁이 가능한지, 사고 경위가 어떤지에 따라 대응 방식은 완전히 달라집니다. 책임보험만 가입된 상태라도 업무상 과실의 범위, 피해자의 상해 정도, 초동 진술에 따라 충분히 형량을 낮출 여지는 존재합니다. 초기 수사 단계에서 전략을 재정비해 형사처벌 위험을 줄이는 것이 가장 우선입니다.^^엔터^^
+--체크(memo1)
+--체크(memo2)
+--체크(memo3)
+--체크(memo4)
+path C:\Users\asgfdg\AppData\Local\Temp\notes_collect\교통사고전문변호사_20251202_212801.txt
+시작
+File saved to: C:\Users\asgfdg\Desktop\프로그램250808\네이버블로그\logfile.txt
