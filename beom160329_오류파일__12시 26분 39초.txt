@@ -1,0 +1,354 @@
+buffers_g ['', '', '', '', '']
+시작
+realID beom160329
+realPW ekdud1380
+로그인 성공
+모드4
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+699
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56674
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1280d23
+	0x1280d64
+	0x106e6dd
+	0x10aa958
+	0x10a9992
+	0x109fbe5
+	0x109fa16
+	0x10e7826
+	0x10e7047
+	0x10db2e6
+	0x10ad321
+	0x10ae1d4
+	0x14d4d64
+	0x14d031b
+	0x14ecbfa
+	0x129ac28
+	0x12a2c2d
+	0x1289028
+	0x12891e9
+	0x1273578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56714
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1100d23
+	0x1100d64
+	0xeee6dd
+	0xf2a958
+	0xf29992
+	0xf1fbe5
+	0xf1fa16
+	0xf67826
+	0xf67047
+	0xf5b2e6
+	0xf2d321
+	0xf2e1d4
+	0x1354d64
+	0x135031b
+	0x136cbfa
+	0x111ac28
+	0x1122c2d
+	0x1109028
+	0x11091e9
+	0x10f3578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56749
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa50d23
+	0xa50d64
+	0x83e6dd
+	0x87a958
+	0x879992
+	0x86fbe5
+	0x86fa16
+	0x8b7826
+	0x8b7047
+	0x8ab2e6
+	0x87d321
+	0x87e1d4
+	0xca4d64
+	0xca031b
+	0xcbcbfa
+	0xa6ac28
+	0xa72c2d
+	0xa59028
+	0xa591e9
+	0xa43578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56789
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd50d23
+	0xd50d64
+	0xb3e6dd
+	0xb7a958
+	0xb79992
+	0xb6fbe5
+	0xb6fa16
+	0xbb7826
+	0xbb7047
+	0xbab2e6
+	0xb7d321
+	0xb7e1d4
+	0xfa4d64
+	0xfa031b
+	0xfbcbfa
+	0xd6ac28
+	0xd72c2d
+	0xd59028
+	0xd591e9
+	0xd43578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56827
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12f0d23
+	0x12f0d64
+	0x10de6dd
+	0x111a958
+	0x1119992
+	0x110fbe5
+	0x110fa16
+	0x1157826
+	0x1157047
+	0x114b2e6
+	0x111d321
+	0x111e1d4
+	0x1544d64
+	0x154031b
+	0x155cbfa
+	0x130ac28
+	0x1312c2d
+	0x12f9028
+	0x12f91e9
+	0x12e3578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56865
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x400d23
+	0x400d64
+	0x1ee6dd
+	0x22a958
+	0x229992
+	0x21fbe5
+	0x21fa16
+	0x267826
+	0x267047
+	0x25b2e6
+	0x22d321
+	0x22e1d4
+	0x654d64
+	0x65031b
+	0x66cbfa
+	0x41ac28
+	0x422c2d
+	0x409028
+	0x4091e9
+	0x3f3578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56908
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1290d23
+	0x1290d64
+	0x107e6dd
+	0x10ba958
+	0x10b9992
+	0x10afbe5
+	0x10afa16
+	0x10f7826
+	0x10f7047
+	0x10eb2e6
+	0x10bd321
+	0x10be1d4
+	0x14e4d64
+	0x14e031b
+	0x14fcbfa
+	0x12aac28
+	0x12b2c2d
+	0x1299028
+	0x12991e9
+	0x1283578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56945
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x10e0d23
+	0x10e0d64
+	0xece6dd
+	0xf0a958
+	0xf09992
+	0xeffbe5
+	0xeffa16
+	0xf47826
+	0xf47047
+	0xf3b2e6
+	0xf0d321
+	0xf0e1d4
+	0x1334d64
+	0x133031b
+	0x134cbfa
+	0x10fac28
+	0x1102c2d
+	0x10e9028
+	0x10e91e9
+	0x10d3578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56983
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7e0d23
+	0x7e0d64
+	0x5ce6dd
+	0x60a958
+	0x609992
+	0x5ffbe5
+	0x5ffa16
+	0x647826
+	0x647047
+	0x63b2e6
+	0x60d321
+	0x60e1d4
+	0xa34d64
+	0xa3031b
+	0xa4cbfa
+	0x7fac28
+	0x802c2d
+	0x7e9028
+	0x7e91e9
+	0x7d3578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:57022
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1230d23
+	0x1230d64
+	0x101e6dd
+	0x105a958
+	0x1059992
+	0x104fbe5
+	0x104fa16
+	0x1097826
+	0x1097047
+	0x108b2e6
+	0x105d321
+	0x105e1d4
+	0x1484d64
+	0x148031b
+	0x149cbfa
+	0x124ac28
+	0x1252c2d
+	0x1239028
+	0x12391e9
+	0x1223578
+	0x7597fcc9
+	0x77ae82ae
+	0x77ae827e
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+699
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\쇼핑트래픽\logfile.txt
