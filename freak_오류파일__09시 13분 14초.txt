@@ -1,0 +1,209 @@
+buffers_g ['', '', '', '', '']
+시작
+realID freak
+realPW freakidea
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\화야\Desktop\트래픽\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+3
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 49.254.238.30
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:52374
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb00d23
+	0xb00d64
+	0x8ee6dd
+	0x92a958
+	0x929992
+	0x91fbe5
+	0x91fa16
+	0x967826
+	0x967047
+	0x95b2e6
+	0x92d321
+	0x92e1d4
+	0xd54d64
+	0xd5031b
+	0xd6cbfa
+	0xb1ac28
+	0xb22c2d
+	0xb09028
+	0xb091e9
+	0xaf3578
+	0x75e1fcc9
+	0x77d982ae
+	0x77d9827e
+
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 49.254.124.108
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:52398
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x470d23
+	0x470d64
+	0x25e6dd
+	0x29a958
+	0x299992
+	0x28fbe5
+	0x28fa16
+	0x2d7826
+	0x2d7047
+	0x2cb2e6
+	0x29d321
+	0x29e1d4
+	0x6c4d64
+	0x6c031b
+	0x6dcbfa
+	0x48ac28
+	0x492c2d
+	0x479028
+	0x4791e9
+	0x463578
+	0x75e1fcc9
+	0x77d982ae
+	0x77d9827e
+
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 49.254.191.70
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:52414
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4f0d23
+	0x4f0d64
+	0x2de6dd
+	0x31a958
+	0x319992
+	0x30fbe5
+	0x30fa16
+	0x357826
+	0x357047
+	0x34b2e6
+	0x31d321
+	0x31e1d4
+	0x744d64
+	0x74031b
+	0x75cbfa
+	0x50ac28
+	0x512c2d
+	0x4f9028
+	0x4f91e9
+	0x4e3578
+	0x75e1fcc9
+	0x77d982ae
+	0x77d9827e
+
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 124.198.114.214
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:52428
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe70d23
+	0xe70d64
+	0xc5e6dd
+	0xc9a958
+	0xc99992
+	0xc8fbe5
+	0xc8fa16
+	0xcd7826
+	0xcd7047
+	0xccb2e6
+	0xc9d321
+	0xc9e1d4
+	0x10c4d64
+	0x10c031b
+	0x10dcbfa
+	0xe8ac28
+	0xe92c2d
+	0xe79028
+	0xe791e9
+	0xe63578
+	0x75e1fcc9
+	0x77d982ae
+	0x77d9827e
+
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 124.198.114.214
+외부 IP: 124.198.114.214
+--------mode4 전체 error-------------import --------
+에러메세지
+local variable 'time' referenced before assignment
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 124.198.114.214
+외부 IP: 124.198.114.214
+--------mode4 전체 error-------------import --------
+에러메세지
+local variable 'time' referenced before assignment
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 124.198.114.214
+외부 IP: 124.198.114.214
+--------mode4 전체 error-------------import --------
+에러메세지
+local variable 'time' referenced before assignment
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 124.198.114.214
+외부 IP: 124.198.114.214
+--------mode4 전체 error-------------import --------
+에러메세지
+local variable 'time' referenced before assignment
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 115.144.209.216
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:52457
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x840d23
+	0x840d64
+	0x62e6dd
+	0x66a958
+	0x669992
+	0x65fbe5
+	0x65fa16
+	0x6a7826
+	0x6a7047
+	0x69b2e6
+	0x66d321
+	0x66e1d4
+	0xa94d64
+	0xa9031b
+	0xaacbfa
+	0x85ac28
+	0x862c2d
+	0x849028
+	0x8491e9
+	0x833578
+	0x75e1fcc9
+	0x77d982ae
+	0x77d9827e
+
+모든 Chrome 프로세스를 종료했습니다.
+시작
+File saved to: C:\Users\화야\Desktop\트래픽\logfile.txt
