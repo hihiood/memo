@@ -1,0 +1,48 @@
+----------------------------import --------
+에러메세지44
+'username'
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\b830816bbef14c5fb317b0beb4b06d8f.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\a0a3d598d76b47bbb897838779a24386.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\6bcf019d97cf424da51d372eaaf4318e.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 142
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\tt\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\tt\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\tt\Desktop\매크로\OneDrive_2025-12-04 카페\logfile.txt
