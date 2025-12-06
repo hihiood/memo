@@ -1,0 +1,95 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\f609f1f61aa449d89b72dc183e208c33.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\557c1d1b7c2f44cf870ecac4b0bd47cd.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5fb862f4dffd449a9a765fc663c126b9.pyd
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5fb6949cfa464e3ea40b53f5ab5b5026.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\a7f9db10826342a3913986c17ba12c6f.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\56adeb575355464cbd4a95b55b64e55e.pyd
+Running main() from the .pyd file...
+Captured output: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 에러 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\238f613ee32d4898be88c306e8f7ada5.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 크롬 버전 :: 142
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\0d9e6c818d814f4eab67c31ea20343e3.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\8230ffdcdd904b72a81e8ed28fdb8210.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 142
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 142
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\관악구물구나무\Downloads\네이버카페_정보성\네이버카페_정보성\logfile.txt
