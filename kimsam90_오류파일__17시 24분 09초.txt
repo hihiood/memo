@@ -1,0 +1,38 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\455d472c564e49e4befaf357332f9a6b.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\550dbae2d8084134852c5d2b01f51f75.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\2442a6e03f2e46afabcb2c9328e94a3f.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\관악구물구나무\Downloads\네이버카페_정보성\네이버카페_정보성\logfile.txt
