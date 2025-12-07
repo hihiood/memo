@@ -1,0 +1,29 @@
+DOCS_modelChunk not found.
+An error occurred: 
+chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\ab36662a620b481a97eaa5070989ccc7.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\1acac56c83334a72b0c454cbb77843d7.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\USER\AppData\Local\Temp\d77d5e72a6524031b10b79f47a4549e9.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\USER\Downloads\folder\logfile.txt
