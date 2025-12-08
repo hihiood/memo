@@ -1,0 +1,99 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+DB access----success!!
+chaeck_category adsence_click/////
+610
+47
+812
+62
+843
+32
+860
+73
+890
+43
+849
+45
+scrollcounter 10
+총 작업개수: 3
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\0a10867312ae42d3af7fbf9dbb4eb20b.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\064870fe8faa4c6bb10ce2ef60c6a54a.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\b79ecf5c1a2145c88000120170844286.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+out of internet
+--------------total error-------import --------
+에러메세지
+local variable 'driver' referenced before assignment
+크롬드라이버 강제 종료 성공
+DB access----success!!
+chaeck_category adsence_click/////
+610
+47
+812
+62
+843
+32
+860
+73
+890
+43
+849
+45
+scrollcounter 10
+총 작업개수: 3
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\a1f261176a344d0684f51652c46ee17c.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\547b54bbcf034b8589513b46d6da2052.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\4339f95849cd46b68e720767ca19c59d.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+out of internet
+--------------total error-------import --------
+에러메세지
+local variable 'driver' referenced before assignment
+시작
+File saved to: C:\Users\admin\Downloads\OneDrive_2025-11-26 (2)\logfile.txt
