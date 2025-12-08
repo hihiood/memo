@@ -1,0 +1,56 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+DB access----success!!
+chaeck_category adsence_click/////
+216
+275
+545
+92
+182
+312
+603
+96
+467
+81
+441
+87
+scrollcounter 11
+총 작업개수: 3
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\71219d2a35d545c58b7d324c8464d940.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\1c9ea82b433d4de1a91db2f302b6f68b.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\60af794426ca41868ee47e615154234d.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+out of internet
+--------------total error-------import --------
+에러메세지
+local variable 'driver' referenced before assignment
+시작
+File saved to: C:\Users\admin\Downloads\OneDrive_2025-11-26 (2)\logfile.txt
