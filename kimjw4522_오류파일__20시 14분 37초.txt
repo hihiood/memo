@@ -1,0 +1,79 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+DB access----success!!
+chaeck_category adsence_click/////
+216
+275
+545
+92
+182
+312
+603
+96
+467
+81
+441
+87
+scrollcounter 11
+총 작업개수: 3
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\9e69c5dd9284425aaedc865d18b23a20.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\8e3659cf039b4fb685726069a0ff3232.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\admin\AppData\Local\Temp\64987975297e4929adbff1c358234d39.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+--------------total error-------import --------
+에러메세지
+Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd06d03
+	0xd06d44
+	0xade90d
+	0xb14e7f
+	0xb1014a
+	0xb58ba3
+	0xb5851a
+	0xb4c8d6
+	0xb1dc50
+	0xb1ef74
+	0xf5c9f4
+	0xf57b95
+	0xd2fdd4
+	0xd1fb38
+	0xd26aad
+	0xd0f198
+	0xd0f35c
+	0xcf8ffa
+	0x760dfcc9
+	0x773f82ae
+	0x773f827e
+
+시작
+File saved to: C:\Users\admin\Downloads\OneDrive_2025-11-26 (2)\logfile.txt
