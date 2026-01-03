@@ -1,0 +1,72 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+2
+0    해운대 피부관리
+1    해운대 피부관리
+Name: 작업 매장, dtype: object
+find_name 해운대 피부관리
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x656d03
+	0x656d44
+	0x42e90d
+	0x47a23d
+	0x47a61b
+	0x4c1a42
+	0x49cb24
+	0x4bf088
+	0x49c8d6
+	0x46dc50
+	0x46ef74
+	0x8ac9f4
+	0x8a7b95
+	0x67fdd4
+	0x66fb38
+	0x676aad
+	0x65f198
+	0x65f35c
+	0x648ffa
+	0x760b5d49
+	0x771ad5db
+	0x771ad561
+
+시작
+File saved to: C:\Users\USER\Desktop\마케팅 프로그램\OneDrive_2026-01-02\네이버플레이스\유효타\logfile.txt
