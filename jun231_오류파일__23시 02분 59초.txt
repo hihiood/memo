@@ -1,0 +1,365 @@
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224134175261', '2~2', '2~2', '2~2', '100~120', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224134175261', '2~2', '2~2', '2~2', '100~120', '대기')
+개수 :  1.0
+선택된 값 DD:  107
+체류시간 :  ['100', '120']
+blogname_insert_data https://blog.naver.com/deepgreenads/224134175261
+1
+testLogID 224134175261
+['https:', '', 'blog.naver.com', 'deepgreenads', '224134175261']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!']
+아이디 :::  ['koojaok1', 'sesjjmk']
+비밀번호 :::  ['choi451045!', 'choi451045!']
+선택된 값 D:  2
+오에?
+[*] No process is using port 9222.
+cookies [{'domain': '.naver.com', 'expiry': 1802074178, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ZheLDwhi5diqA'}, {'domain': '.naver.com', 'expiry': 1767535361, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535061'}, {'domain': '.naver.com', 'expiry': 1802095061, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'OfK5wuG_VFANS_R8Fdrl5XLJO4QePh4-vATJ0ZAF4Po='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '64115BA9719510383359DA3FEF88D27D.jvm1'}, {'domain': '.naver.com', 'expiry': 1767600578, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767536861, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767533385'}, {'domain': '.naver.com', 'expiry': 1802095061, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'C56BHKSDEBNGS'}, {'domain': '.blog.naver.com', 'expiry': 1802074211, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '53f74f66-f60b-4b6d-a966-6aa7dd7dac2e'}, {'domain': '.naver.com', 'expiry': 1802074205, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'Vla3Ujca/wpE56MnOsvsyQdn7Ldqo6cuhnSU6W4zaKNdR7gMfPesiO165ptwdmK6'}, {'domain': '.naver.com', 'expiry': 1770106205, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1399463586'}, {'domain': '.naver.com', 'expiry': 1770125384, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABg1IXErJHzg0WWFsSpcoYzh5YZDqwBq5FgyRs29PAU9CnTsity/6GeIEh0fPyhA2uygYPIo7w2MnTISsagy4bMXOL9qJHunIM+ttd8CRlpMLNkRXv6w4MiVS+GJ2PiaDZZIxD1t8rCpaxL88UYSVbjGzMU7Gw+Nsh5IYxJqVOsQZ5+bn7ZvlY+gmYmZToOkOmSS07CcZRVSp1GtkfzNOJlNddTzamE7vaFOZ/M6epXNGJM2IRYKvTLhuVTJQ7ZehhVcg/u+cfoh1tIvFQ8iVRy3P89WDWcUsKwhFVqLF8W1Bd/jT+BQjF1zD8qkVoVUVrjPqx7hp9ojydJU3pNlNi8Of7h+iaAfH7KUXr7qTNl9SHYKAdi/76HuMVTD0LcE9/dtMsNrYBZKd1j7od1Ipg1GvloVMXI2EYk6lmosq0OrzzCpUAb5rTgx3LEQuu6wsQC3a2kxSkQGk9g5Nvc5C4PsuY8Zd7L7omFkT6ZEFYe1hvC113sNzUYgBjP22M/CCHsifkeCekHqpbF37bkNr7pHo='}]
+NAC -> ZheLDwhi5diqA
+SRT5 -> 1767535061
+BUC -> OfK5wuG_VFANS_R8Fdrl5XLJO4QePh4-vATJ0ZAF4Po=
+JSESSIONID -> 64115BA9719510383359DA3FEF88D27D.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1767533385
+NNB -> C56BHKSDEBNGS
+BA_DEVICE -> 53f74f66-f60b-4b6d-a966-6aa7dd7dac2e
+NID_AUT -> Vla3Ujca/wpE56MnOsvsyQdn7Ldqo6cuhnSU6W4zaKNdR7gMfPesiO165ptwdmK6
+nid_inf -> 1399463586
+NID_SES -> AAABg1IXErJHzg0WWFsSpcoYzh5YZDqwBq5FgyRs29PAU9CnTsity/6GeIEh0fPyhA2uygYPIo7w2MnTISsagy4bMXOL9qJHunIM+ttd8CRlpMLNkRXv6w4MiVS+GJ2PiaDZZIxD1t8rCpaxL88UYSVbjGzMU7Gw+Nsh5IYxJqVOsQZ5+bn7ZvlY+gmYmZToOkOmSS07CcZRVSp1GtkfzNOJlNddTzamE7vaFOZ/M6epXNGJM2IRYKvTLhuVTJQ7ZehhVcg/u+cfoh1tIvFQ8iVRy3P89WDWcUsKwhFVqLF8W1Bd/jT+BQjF1zD8qkVoVUVrjPqx7hp9ojydJU3pNlNi8Of7h+iaAfH7KUXr7qTNl9SHYKAdi/76HuMVTD0LcE9/dtMsNrYBZKd1j7od1Ipg1GvloVMXI2EYk6lmosq0OrzzCpUAb5rTgx3LEQuu6wsQC3a2kxSkQGk9g5Nvc5C4PsuY8Zd7L7omFkT6ZEFYe1hvC113sNzUYgBjP22M/CCHsifkeCekHqpbF37bkNr7pHo=
+실행 중 오류 발생2: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.170)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe16d03
+	0xe16d44
+	0xbee90d
+	0xbdee6a
+	0xbdeb9d
+	0xbdca1e
+	0xbdd5d7
+	0xbea35e
+	0xbfc275
+	0xc01dc6
+	0xbddc56
+	0xbfbb08
+	0xc7f3c0
+	0xc5c8d6
+	0xc2dc50
+	0xc2ef74
+	0x106c9f4
+	0x1067b95
+	0xe3fdd4
+	0xe2fb38
+	0xe36aad
+	0xe1f198
+	0xe1f35c
+	0xe08ffa
+	0x75ca5d49
+	0x7738d5db
+	0x7738d561
+
+Task 1의 상태가 '대기'로 변경되었습니다.
+----------------------
+1
+[('1', 'https://blog.naver.com/deepgreenads/224134175261', '2~2', '2~2', '2~2', '100~120', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224134175261', '2~2', '2~2', '2~2', '100~120', '대기')
+개수 :  1.0
+선택된 값 DD:  107
+체류시간 :  ['100', '120']
+blogname_insert_data https://blog.naver.com/deepgreenads/224134175261
+1
+testLogID 224134175261
+['https:', '', 'blog.naver.com', 'deepgreenads', '224134175261']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!']
+아이디 :::  ['sesjjmk', 'koojaok1']
+비밀번호 :::  ['choi451045!', 'choi451045!']
+선택된 값 D:  2
+오에?
+[*] No process is using port 9222.
+cookies [{'domain': '.naver.com', 'expiry': 1802074123, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'kOQqB4Qx7uDL'}, {'domain': '.naver.com', 'expiry': 1767535382, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535082'}, {'domain': '.naver.com', 'expiry': 1802095082, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '_UENmTHs2fDxHaBszEAM3mBQvFXMHPTYXcsjj8GSsRM='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '433D4EF43037B9FE405AD4F75D74F67F.jvm1'}, {'domain': '.naver.com', 'expiry': 1767600523, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767536882, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535082'}, {'domain': '.naver.com', 'expiry': 1802095082, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'YTJ364IMEBNGS'}, {'domain': '.blog.naver.com', 'expiry': 1802074156, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '745ed698-7eb8-49c9-ad49-cfa961c0cf17'}, {'domain': '.naver.com', 'expiry': 1802074150, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'QtT0Mr3QJl5GNwoDkfddkN+okT07olOTyQYnFzvqPG03vSPJqKXwFfc3wJVzmhf7'}, {'domain': '.naver.com', 'expiry': 1770106150, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1483308341'}, {'domain': '.naver.com', 'expiry': 1770127080, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABj8t7v2Rr6SOjpuZFzPTlvGH7Naty6WlePN1FHp1tW0bj00c25yeVNep04MWCv6kEldjEwlDXxAroUSR0ljMtu8I9wF8m2eSGyEjlqNpbgNLCQkoXG0RYtGKxDRMZi+8PVSFmpZjUFxWr6ycFmEd6vWDFajBXPjmAJiiOgGi/EflUH0If7uOpCufn2FhWyA2GRgvNHf9yx0hb4O2gMpj9nPA641HKMAy4tODLTN2nWsQo9ImohTRscKA4MKpQDrMTTlBtfQJAUyBb2LUciblHk3H4jxKHmC13QQERLsHxh/cRSwH06VeCdpaknKbnC/VdHnybBl7/YmffN3FKnPsbzGZERwodMmfWmkdlRXyUCg74qeZqqwSzciP1GKCOZXdlsrWNTfgKRA161mnJB57d74fIgi4RisQPfkqRcM6dU2ZThjMalaqs+XmAA+SSm2I54F62lnjhPWzyXwGxgmv/F4GT8kT07fYswNWMJnLh7vN+I0j6tMrNbteFSjooF8Dbmc+EP4b4+DK0wGu1MxRX+Pc='}]
+NAC -> kOQqB4Qx7uDL
+SRT5 -> 1767535082
+BUC -> _UENmTHs2fDxHaBszEAM3mBQvFXMHPTYXcsjj8GSsRM=
+JSESSIONID -> 433D4EF43037B9FE405AD4F75D74F67F.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1767535082
+NNB -> YTJ364IMEBNGS
+BA_DEVICE -> 745ed698-7eb8-49c9-ad49-cfa961c0cf17
+NID_AUT -> QtT0Mr3QJl5GNwoDkfddkN+okT07olOTyQYnFzvqPG03vSPJqKXwFfc3wJVzmhf7
+nid_inf -> 1483308341
+NID_SES -> AAABj8t7v2Rr6SOjpuZFzPTlvGH7Naty6WlePN1FHp1tW0bj00c25yeVNep04MWCv6kEldjEwlDXxAroUSR0ljMtu8I9wF8m2eSGyEjlqNpbgNLCQkoXG0RYtGKxDRMZi+8PVSFmpZjUFxWr6ycFmEd6vWDFajBXPjmAJiiOgGi/EflUH0If7uOpCufn2FhWyA2GRgvNHf9yx0hb4O2gMpj9nPA641HKMAy4tODLTN2nWsQo9ImohTRscKA4MKpQDrMTTlBtfQJAUyBb2LUciblHk3H4jxKHmC13QQERLsHxh/cRSwH06VeCdpaknKbnC/VdHnybBl7/YmffN3FKnPsbzGZERwodMmfWmkdlRXyUCg74qeZqqwSzciP1GKCOZXdlsrWNTfgKRA161mnJB57d74fIgi4RisQPfkqRcM6dU2ZThjMalaqs+XmAA+SSm2I54F62lnjhPWzyXwGxgmv/F4GT8kT07fYswNWMJnLh7vN+I0j6tMrNbteFSjooF8Dbmc+EP4b4+DK0wGu1MxRX+Pc=
+실행 중 오류 발생2: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.170)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe16d03
+	0xe16d44
+	0xbee90d
+	0xbdee6a
+	0xbdeb9d
+	0xbdca1e
+	0xbdd5d7
+	0xbea35e
+	0xbfc275
+	0xc01dc6
+	0xbddc56
+	0xbfbb08
+	0xc7f3c0
+	0xc5c8d6
+	0xc2dc50
+	0xc2ef74
+	0x106c9f4
+	0x1067b95
+	0xe3fdd4
+	0xe2fb38
+	0xe36aad
+	0xe1f198
+	0xe1f35c
+	0xe08ffa
+	0x75ca5d49
+	0x7738d5db
+	0x7738d561
+
+Task 1의 상태가 '대기'로 변경되었습니다.
+크롬드라이버 강제 종료 성공
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224134175261', '2~2', '2~2', '2~2', '100~120', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224134175261', '2~2', '2~2', '2~2', '100~120', '대기')
+개수 :  1.0
+선택된 값 DD:  120
+체류시간 :  ['100', '120']
+blogname_insert_data https://blog.naver.com/deepgreenads/224134175261
+1
+testLogID 224134175261
+['https:', '', 'blog.naver.com', 'deepgreenads', '224134175261']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!']
+아이디 :::  ['koojaok1', 'sesjjmk']
+비밀번호 :::  ['choi451045!', 'choi451045!']
+선택된 값 D:  2
+오에?
+[*] No process is using port 9222.
+cookies [{'domain': '.naver.com', 'expiry': 1802074178, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ZheLDwhi5diqA'}, {'domain': '.naver.com', 'expiry': 1767535572, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535272'}, {'domain': '.naver.com', 'expiry': 1802095272, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4h3uEXZIKtExqE8hxH3emgTZAW7oExj5xsejCzt7nFE='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '09772DBE2A08C61B633181E9D56F1FB8.jvm1'}, {'domain': '.naver.com', 'expiry': 1767600578, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767537072, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535272'}, {'domain': '.naver.com', 'expiry': 1802095272, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'C56BHKSDEBNGS'}, {'domain': '.blog.naver.com', 'expiry': 1802074211, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '53f74f66-f60b-4b6d-a966-6aa7dd7dac2e'}, {'domain': '.naver.com', 'expiry': 1802074205, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'Vla3Ujca/wpE56MnOsvsyQdn7Ldqo6cuhnSU6W4zaKNdR7gMfPesiO165ptwdmK6'}, {'domain': '.naver.com', 'expiry': 1770106205, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1399463586'}, {'domain': '.naver.com', 'expiry': 1770125384, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABg1IXErJHzg0WWFsSpcoYzh5YZDqwBq5FgyRs29PAU9CnTsity/6GeIEh0fPyhA2uygYPIo7w2MnTISsagy4bMXOL9qJHunIM+ttd8CRlpMLNkRXv6w4MiVS+GJ2PiaDZZIxD1t8rCpaxL88UYSVbjGzMU7Gw+Nsh5IYxJqVOsQZ5+bn7ZvlY+gmYmZToOkOmSS07CcZRVSp1GtkfzNOJlNddTzamE7vaFOZ/M6epXNGJM2IRYKvTLhuVTJQ7ZehhVcg/u+cfoh1tIvFQ8iVRy3P89WDWcUsKwhFVqLF8W1Bd/jT+BQjF1zD8qkVoVUVrjPqx7hp9ojydJU3pNlNi8Of7h+iaAfH7KUXr7qTNl9SHYKAdi/76HuMVTD0LcE9/dtMsNrYBZKd1j7od1Ipg1GvloVMXI2EYk6lmosq0OrzzCpUAb5rTgx3LEQuu6wsQC3a2kxSkQGk9g5Nvc5C4PsuY8Zd7L7omFkT6ZEFYe1hvC113sNzUYgBjP22M/CCHsifkeCekHqpbF37bkNr7pHo='}]
+NAC -> ZheLDwhi5diqA
+SRT5 -> 1767535272
+BUC -> 4h3uEXZIKtExqE8hxH3emgTZAW7oExj5xsejCzt7nFE=
+JSESSIONID -> 09772DBE2A08C61B633181E9D56F1FB8.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1767535272
+NNB -> C56BHKSDEBNGS
+BA_DEVICE -> 53f74f66-f60b-4b6d-a966-6aa7dd7dac2e
+NID_AUT -> Vla3Ujca/wpE56MnOsvsyQdn7Ldqo6cuhnSU6W4zaKNdR7gMfPesiO165ptwdmK6
+nid_inf -> 1399463586
+NID_SES -> AAABg1IXErJHzg0WWFsSpcoYzh5YZDqwBq5FgyRs29PAU9CnTsity/6GeIEh0fPyhA2uygYPIo7w2MnTISsagy4bMXOL9qJHunIM+ttd8CRlpMLNkRXv6w4MiVS+GJ2PiaDZZIxD1t8rCpaxL88UYSVbjGzMU7Gw+Nsh5IYxJqVOsQZ5+bn7ZvlY+gmYmZToOkOmSS07CcZRVSp1GtkfzNOJlNddTzamE7vaFOZ/M6epXNGJM2IRYKvTLhuVTJQ7ZehhVcg/u+cfoh1tIvFQ8iVRy3P89WDWcUsKwhFVqLF8W1Bd/jT+BQjF1zD8qkVoVUVrjPqx7hp9ojydJU3pNlNi8Of7h+iaAfH7KUXr7qTNl9SHYKAdi/76HuMVTD0LcE9/dtMsNrYBZKd1j7od1Ipg1GvloVMXI2EYk6lmosq0OrzzCpUAb5rTgx3LEQuu6wsQC3a2kxSkQGk9g5Nvc5C4PsuY8Zd7L7omFkT6ZEFYe1hvC113sNzUYgBjP22M/CCHsifkeCekHqpbF37bkNr7pHo=
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=mongmoms&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId koojaok1
+handles :  ['01F1A4FFBBC781CD19AFD798B2BE078A']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224134175261","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":3,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@574269e2":{"reactionType":"like","count":3,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"7bfc41d228ebc4d92ca4cae54d6b015979818c78aee507727efa667764e721dd2be60b2cbf12b9df100886bbaac0932b078b155f2fa7606336a413ca5f96a6d5","timestamp":1767535288687,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@7fee7a82]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+오에?
+[!] Killing PID 0 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1802074123, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'kOQqB4Qx7uDL'}, {'domain': '.naver.com', 'expiry': 1767535605, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535305'}, {'domain': '.naver.com', 'expiry': 1802095305, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'NJDweFYC2WXi4Ged-dzt0Ntw2SwrhvD-LRfqHIfgk0Q='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1064C9AC81D9B3C010C554016D718D0B.jvm1'}, {'domain': '.naver.com', 'expiry': 1767600523, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767537105, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767535305'}, {'domain': '.naver.com', 'expiry': 1802095305, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'YTJ364IMEBNGS'}, {'domain': '.blog.naver.com', 'expiry': 1802074156, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '745ed698-7eb8-49c9-ad49-cfa961c0cf17'}, {'domain': '.naver.com', 'expiry': 1802074150, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'QtT0Mr3QJl5GNwoDkfddkN+okT07olOTyQYnFzvqPG03vSPJqKXwFfc3wJVzmhf7'}, {'domain': '.naver.com', 'expiry': 1770106150, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1483308341'}, {'domain': '.naver.com', 'expiry': 1770127304, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABkHg+8RP3p/RgJO2Wd2ofDNATXCRidLTSg1EpuWP9M1nh/pwFtKs985zBeGhXBKqV1hVcdwk+q48DAFQdmPM8PkhajcqqXYY4vuBYr3W1AVi14KYqqwP0c5j9cM4ceCwpsQry+djo+XSHmfNcmuoKX7kPmRpwiASL6kWqtkAFSpDrPvKKqnDjP9AKqZW065lp7YciNfBXDhrFIksK48qhZp+EEh4hxZ7RcQQfPB4pBCYSFbBqK7ucP3YVMyrfuVJcHUFEQhVjpO6R9JMRCSfNAiZ7uv9NszfnLLZwX8CqU2EBWf4acx+gGL7GyKrJOTM3SpC+Q8Vc11gryT1awXRCQvWEWa7cmcZq4WWHoxtikzzdjlu4ZvoZtvDj6KI0UR9ufDkOUHIGtlRSBkmknAvxdSVPGkOLTh2sihE67WZleijC0cSByI1DSVr58rvbZsSqjyX2pIKCDQu2vFx3WVmfaNwc7GU/7HrK1kyLE5ain1iZUH2AXohYprTn4tg3Bi/belnhis6IQR4cSUEa7obNloU='}]
+NAC -> kOQqB4Qx7uDL
+SRT5 -> 1767535305
+BUC -> NJDweFYC2WXi4Ged-dzt0Ntw2SwrhvD-LRfqHIfgk0Q=
+JSESSIONID -> 1064C9AC81D9B3C010C554016D718D0B.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1767535305
+NNB -> YTJ364IMEBNGS
+BA_DEVICE -> 745ed698-7eb8-49c9-ad49-cfa961c0cf17
+NID_AUT -> QtT0Mr3QJl5GNwoDkfddkN+okT07olOTyQYnFzvqPG03vSPJqKXwFfc3wJVzmhf7
+nid_inf -> 1483308341
+NID_SES -> AAABkHg+8RP3p/RgJO2Wd2ofDNATXCRidLTSg1EpuWP9M1nh/pwFtKs985zBeGhXBKqV1hVcdwk+q48DAFQdmPM8PkhajcqqXYY4vuBYr3W1AVi14KYqqwP0c5j9cM4ceCwpsQry+djo+XSHmfNcmuoKX7kPmRpwiASL6kWqtkAFSpDrPvKKqnDjP9AKqZW065lp7YciNfBXDhrFIksK48qhZp+EEh4hxZ7RcQQfPB4pBCYSFbBqK7ucP3YVMyrfuVJcHUFEQhVjpO6R9JMRCSfNAiZ7uv9NszfnLLZwX8CqU2EBWf4acx+gGL7GyKrJOTM3SpC+Q8Vc11gryT1awXRCQvWEWa7cmcZq4WWHoxtikzzdjlu4ZvoZtvDj6KI0UR9ufDkOUHIGtlRSBkmknAvxdSVPGkOLTh2sihE67WZleijC0cSByI1DSVr58rvbZsSqjyX2pIKCDQu2vFx3WVmfaNwc7GU/7HrK1kyLE5ain1iZUH2AXohYprTn4tg3Bi/belnhis6IQR4cSUEa7obNloU=
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=sesjjmk&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId sesjjmk
+handles :  ['C264DF503B8ED25BD521F8F38493BAB5']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224134175261","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":3,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@683cf3c7":{"reactionType":"like","count":3,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"9b66716b1c57fc7a49085d17a1143bd0b8e53678b3badb300b0c555e85d365e506766dcd12a2301b16619e25ada87066e7499cf65b5b655335aeb9b49e187c7f","timestamp":1767535321474,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+❌ 현재 서버 장애 감지: https://sgtestflask.autoprogram.blog/
+⚠ 백업 서버 시도: https://vmwareflask.autoprogram.life/
+➡ 절체 성공 → 현재 서버: https://vmwareflask.autoprogram.life/
+🔄 라디오 버튼 자동 변경 → 서버2 선택됨
+<Response [200]>
+{"serviceId":"BLOG","displayId":"BLOG","contentsId":"deepgreenads_224134175261","message":"공감이 되었습니다.","categoryId":"post","reactionType":"like","count":4,"isReacted":true,"countType":"DEFAULT","nolimitUserCount":0}
+==================
+message_value 공감이 되었습니다.
+==================
+아아디 개수 부족으로 좋아요 작업 종료
+선택된 값 F:  100
+randomtimeAA 100
+asdf 100
+동작중 0
+randomtimeAA 100
+asdf 100
+동작중 1
+randomtimeAA 100
+asdf 100
+동작중 2
+randomtimeAA 100
+asdf 100
+동작중 3
+randomtimeAA 100
+asdf 100
+동작중 4
+randomtimeAA 100
+asdf 100
+동작중 5
+randomtimeAA 100
+asdf 100
+동작중 6
+randomtimeAA 100
+asdf 100
+동작중 7
+randomtimeAA 100
+asdf 100
+동작중 8
+randomtimeAA 100
+asdf 100
+동작중 9
+randomtimeAA 100
+asdf 100
+동작중 10
+randomtimeAA 100
+asdf 100
+동작중 11
+randomtimeAA 100
+asdf 100
+동작중 12
+randomtimeAA 100
+asdf 100
+동작중 13
+randomtimeAA 100
+asdf 100
+동작중 14
+randomtimeAA 100
+asdf 100
+동작중 15
+randomtimeAA 100
+asdf 100
+동작중 16
+randomtimeAA 100
+asdf 100
+동작중 17
+randomtimeAA 100
+asdf 100
+동작중 18
+randomtimeAA 100
+asdf 100
+동작중 19
+randomtimeAA 100
+asdf 100
+동작중 20
+randomtimeAA 100
+asdf 100
+동작중 21
+randomtimeAA 100
+asdf 100
+동작중 22
+randomtimeAA 100
+asdf 100
+동작중 23
+randomtimeAA 100
+asdf 100
+동작중 24
+randomtimeAA 100
+asdf 100
+동작중 25
+randomtimeAA 100
+asdf 100
+동작중 26
+randomtimeAA 100
+asdf 100
+동작중 27
+randomtimeAA 100
+asdf 100
+동작중 28
+randomtimeAA 100
+asdf 100
+동작중 29
+randomtimeAA 100
+asdf 100
+동작중 30
+randomtimeAA 100
+asdf 100
+동작중 31
+randomtimeAA 100
+asdf 100
+동작중 32
+randomtimeAA 100
+asdf 100
+동작중 33
+randomtimeAA 100
+asdf 100
+동작중 34
+randomtimeAA 100
+asdf 100
+동작중 35
+randomtimeAA 100
+asdf 100
+동작중 36
+randomtimeAA 100
+asdf 100
+동작중 37
+randomtimeAA 100
+asdf 100
+동작중 38
+randomtimeAA 100
+asdf 100
+동작중 39
+randomtimeAA 100
+asdf 100
+동작중 40
+randomtimeAA 100
+asdf 100
+동작중 41
+randomtimeAA 100
+asdf 100
+동작중 42
+randomtimeAA 100
+asdf 100
+동작중 43
+randomtimeAA 100
+asdf 100
+동작중 44
