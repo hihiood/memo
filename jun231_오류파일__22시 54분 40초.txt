@@ -1,0 +1,44 @@
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+
+DB access----success!!
+DB access----success!!
+         블로그 주소 스크랩 개수 좋아요 개수 댓글 개수 체류시간(초) 새로운글 확인 시간(분)
+0  deepgreenads    5~5    5~5   5~5     0~0           5~5
+         블로그 주소 스크랩 개수 좋아요 개수 댓글 개수 체류시간(초) 새로운글 확인 시간(분)
+0  deepgreenads    5~5    5~5   5~5     0~0           5~5
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/cheekyhodori/224127027019', '2~2', '0~0', '0~0', '10000~1000000', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/cheekyhodori/224127027019', '2~2', '0~0', '0~0', '10000~1000000', '대기')
+개수 :  1.0
+선택된 값 DD:  111069
+체류시간 :  ['10000', '1000000']
+blogname_insert_data https://blog.naver.com/cheekyhodori/224127027019
+9
+testLogID 224127027019
+['https:', '', 'blog.naver.com', 'cheekyhodori', '224127027019']
+testID cheekyhodori
+['leo9third/zlzlznzn231!aA']
+아이디 :::  ['leo9third']
+비밀번호 :::  ['zlzlznzn231!aA']
+선택된 값 D:  0
+선택된 값 G:  2
