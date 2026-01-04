@@ -1,0 +1,65 @@
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+어라
+for_use_date 
+
+DB access----success!!
+DB access----success!!
+         블로그 주소 스크랩 개수 좋아요 개수 댓글 개수 체류시간(초) 새로운글 확인 시간(분)
+0  deepgreenads    5~5    5~5   5~5     0~0           5~5
+         블로그 주소 스크랩 개수 좋아요 개수 댓글 개수 체류시간(초) 새로운글 확인 시간(분)
+0  deepgreenads    5~5    5~5   5~5     0~0           5~5
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/cheekyhodori/224127027019', '2~2', '0~0', '0~0', '10000~1000000', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/cheekyhodori/224127027019', '2~2', '0~0', '0~0', '10000~1000000', '대기')
+개수 :  1.0
+선택된 값 DD:  111069
+체류시간 :  ['10000', '1000000']
+blogname_insert_data https://blog.naver.com/cheekyhodori/224127027019
+9
+testLogID 224127027019
+['https:', '', 'blog.naver.com', 'cheekyhodori', '224127027019']
+testID cheekyhodori
+['leo9third/zlzlznzn231!aA']
+아이디 :::  ['leo9third']
+비밀번호 :::  ['zlzlznzn231!aA']
+선택된 값 D:  0
+선택된 값 G:  2
+오에?
+[*] No process is using port 9222.
+cookies [{'domain': '.naver.com', 'expiry': 1767535187, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767534888'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AB8A58BD2F81ECF8D358AF76F8E0F43C.jvm1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767536687, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767534888'}, {'domain': '.blog.naver.com', 'expiry': 1798891173, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9949eb38-ef03-491b-bb69-20cd341bc0e1'}, {'domain': '.naver.com', 'expiry': 1798891167, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1RRoS4P8H2f9zNws5k49oOilL6XTawREtz2RPoW/rLHfJrsLP3dUrUCvuiXHCAyw'}, {'domain': '.naver.com', 'expiry': 1770126887, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABm0fa1Khx4OojgVzNLmnxElaVx7bXgOeag9ZWsjax6JUptX5WiFXZa1w24XT8EWs6gI/XX/LdEy+r4SiqpaNrkXlKlVDo0K6g3S8iChuHiHQa7/oJHMI1JBD4FUOV8+KbDpTAtcDSYxFFMKYpBvVArWMJSne/IglA6s14M+3HukUicm0NKeZohKWigErzWJCrmtJdAHeSZ9dY4UKqotjKBoMNlGzdsiLmmD4EsRT5EQkr0sBODtULniQk/vM5eZTxate5LkUftGLL3yBXirZYcVRF+NFEGXoWS3627vdeNHE/KyEZGmB/7CKWT6qh7E2kAVY+zw4OpYxA86v3WjWRtLwsEI+rutFJIR3ylR1Mx1lao8Xnk1rI8YWzW84bJHTGfeyq3WTAC9lyey+vXTkUGDZYxDLUER9KiRHGMAvYQn83oOvqS4/IFqZqZM715eh5JzxmcFhKZHDN30Dy3QqIuHRpZsCkpbVOjMLUJn9l2T6pnGJyl/jPg1Ql6aMToW+djxlegWezVmM5bkeAW3UVGp3Ks10aJTe5S+WDpHKYyo4D'}, {'domain': '.naver.com', 'expiry': 1767616998, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802094887, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'eWJ3x57e8BB39tkiaiH-y6vuroxmoYUdENuwpJ3wu5M='}, {'domain': '.naver.com', 'expiry': 1802094887, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '63CKKKERWUSWS'}, {'domain': '.naver.com', 'expiry': 1802090598, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'U4hIB0Ae3XJZB'}]
+SRT5 -> 1767534888
+JSESSIONID -> AB8A58BD2F81ECF8D358AF76F8E0F43C.jvm1
+stat_yn -> 1
+SRT30 -> 1767534888
+BA_DEVICE -> 9949eb38-ef03-491b-bb69-20cd341bc0e1
+NID_AUT -> 1RRoS4P8H2f9zNws5k49oOilL6XTawREtz2RPoW/rLHfJrsLP3dUrUCvuiXHCAyw
+NID_SES -> AAABm0fa1Khx4OojgVzNLmnxElaVx7bXgOeag9ZWsjax6JUptX5WiFXZa1w24XT8EWs6gI/XX/LdEy+r4SiqpaNrkXlKlVDo0K6g3S8iChuHiHQa7/oJHMI1JBD4FUOV8+KbDpTAtcDSYxFFMKYpBvVArWMJSne/IglA6s14M+3HukUicm0NKeZohKWigErzWJCrmtJdAHeSZ9dY4UKqotjKBoMNlGzdsiLmmD4EsRT5EQkr0sBODtULniQk/vM5eZTxate5LkUftGLL3yBXirZYcVRF+NFEGXoWS3627vdeNHE/KyEZGmB/7CKWT6qh7E2kAVY+zw4OpYxA86v3WjWRtLwsEI+rutFJIR3ylR1Mx1lao8Xnk1rI8YWzW84bJHTGfeyq3WTAC9lyey+vXTkUGDZYxDLUER9KiRHGMAvYQn83oOvqS4/IFqZqZM715eh5JzxmcFhKZHDN30Dy3QqIuHRpZsCkpbVOjMLUJn9l2T6pnGJyl/jPg1Ql6aMToW+djxlegWezVmM5bkeAW3UVGp3Ks10aJTe5S+WDpHKYyo4D
+NACT -> 1
+BUC -> eWJ3x57e8BB39tkiaiH-y6vuroxmoYUdENuwpJ3wu5M=
+NNB -> 63CKKKERWUSWS
+NAC -> U4hIB0Ae3XJZB
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=passion_clothes&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId leo9third
+handles :  ['A8037CFFA2A6EAA46A901D025BA1D4A6']
+스탑
