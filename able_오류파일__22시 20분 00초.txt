@@ -1,0 +1,2559 @@
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/superlaw11/223743396729', '0~0', '0~0', '1~1', '0~0', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/superlaw11/223743396729', '0~0', '0~0', '1~1', '0~0', '대기')
+개수 :  1.0
+선택된 값 DD:  0
+체류시간 :  ['0', '0']
+blogname_insert_data https://blog.naver.com/superlaw11/223743396729
+9
+testLogID 223743396729
+['https:', '', 'blog.naver.com', 'superlaw11', '223743396729']
+testID superlaw11
+아이디 : ['superlaw11', 'jungseungyeop']
+비밀번호 : ['manman@@0110', 'carecare0110@@']
+닉네임 : ['superlaw11', 'carecare246']
+선택된 값 D:  0
+선택된 값 G:  0
+필터링된 계정: ['jungseungyeop'] ['carecare246']
+선택된 값 ((댓글)) :  1
+cookies_value_WEBBLOG 에서 current_proxy0 None
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile jungseungyeop 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile jungseungyeop
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile jungseungyeop)
+cookies [{'domain': '.naver.com', 'expiry': 1802235640, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Ur0gB4wzbt8F'}, {'domain': '.naver.com', 'expiry': 1767704470, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767704171'}, {'domain': '.naver.com', 'expiry': 1802264170, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'yXJF6Exbguknidl_AJOrKboZ5TPyCkDW3k934xAieE0='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AEC21FE6F3F8F47DBB5621CD3C03D029.jvm1'}, {'domain': '.naver.com', 'expiry': 1767762040, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767705970, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767701406'}, {'domain': '.naver.com', 'expiry': 1802264170, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3DCA4QXZSZOGS'}, {'domain': '.blog.naver.com', 'expiry': 1802236551, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b1c213fe-3a59-4898-9cc3-56dbfcb04b44'}, {'domain': '.naver.com', 'expiry': 1802236543, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'pSSz+CAhjn4QxZIQwmOMgkHOzXjIsX3jsiWGyBiEz/ARoFq3a2/fhJj3vnNI+Y3R'}, {'domain': '.naver.com', 'expiry': 1770268543, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1948513978'}, {'domain': '.naver.com', 'expiry': 1770293404, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABisZwTgunthQm2rLXwTkPnLU287PP/Jmbsi31+SA3SSY0wg8Bjw0d3BpxkxDyYnu0AfKL1PNDRreOfN/PG/SAMQCzItbXy6g/dNoVRDynYkOcWlXo7rh6VipfsCcccTxWAsb40Qrtt8qCwks6U2qsCqd+2XAVkLb4UyfhVOHYX119cD9WKwpFA0zFIbJNkOpsrQ4rkLLFOCe4+NYxrBur83vvcET5GqermvbMmSPy0vmP4SnboOReVtHL4+mx4nJf8bxY4wmFXLNII5bxxJUK66+hTqtHvrOaK1feuBoQroRll1Ga3Dml0KPg6eeLWR7MhyvKblEOSds83aCq785Xv+GvcovQYJ5IEJ/8QFquupxkQe2pjV8ryrVyQtQjL+tU2SHnLb9YFlQSUy1yuAj/7BflzjOLUp2b8cEx8R4A3Vo7Q4T6PPkQ2jIAQKAmJ/B/csqFIhf9F8O1TPxNRH+0W+2Xl9VQZnDU4491JwjJg1I47XM+88zG+GesardGg8316AqfY4PgHvg1uGqKBwjA0vE='}]
+NAC -> Ur0gB4wzbt8F
+SRT5 -> 1767704171
+BUC -> yXJF6Exbguknidl_AJOrKboZ5TPyCkDW3k934xAieE0=
+JSESSIONID -> AEC21FE6F3F8F47DBB5621CD3C03D029.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1767701406
+NNB -> 3DCA4QXZSZOGS
+BA_DEVICE -> b1c213fe-3a59-4898-9cc3-56dbfcb04b44
+NID_AUT -> pSSz+CAhjn4QxZIQwmOMgkHOzXjIsX3jsiWGyBiEz/ARoFq3a2/fhJj3vnNI+Y3R
+nid_inf -> -1948513978
+NID_SES -> AAABisZwTgunthQm2rLXwTkPnLU287PP/Jmbsi31+SA3SSY0wg8Bjw0d3BpxkxDyYnu0AfKL1PNDRreOfN/PG/SAMQCzItbXy6g/dNoVRDynYkOcWlXo7rh6VipfsCcccTxWAsb40Qrtt8qCwks6U2qsCqd+2XAVkLb4UyfhVOHYX119cD9WKwpFA0zFIbJNkOpsrQ4rkLLFOCe4+NYxrBur83vvcET5GqermvbMmSPy0vmP4SnboOReVtHL4+mx4nJf8bxY4wmFXLNII5bxxJUK66+hTqtHvrOaK1feuBoQroRll1Ga3Dml0KPg6eeLWR7MhyvKblEOSds83aCq785Xv+GvcovQYJ5IEJ/8QFquupxkQe2pjV8ryrVyQtQjL+tU2SHnLb9YFlQSUy1yuAj/7BflzjOLUp2b8cEx8R4A3Vo7Q4T6PPkQ2jIAQKAmJ/B/csqFIhf9F8O1TPxNRH+0W+2Xl9VQZnDU4491JwjJg1I47XM+88zG+GesardGg8316AqfY4PgHvg1uGqKBwjA0vE=
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=carecare246&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+===============
+scripts [<script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/global/RemoveSubDomain-12d2f16_https.js" type="text/javascript"></script>, <script>
+
+
+
+
+
+
+var mylogURL = 'https://blog.naver.com';
+var adminURL = 'https://admin.blog.naver.com';
+var noteURL = 'https://note.naver.com';
+var itemURL = 'https://item.naver.com';
+var cafeURL = 'https://cafe.naver.com';
+var profileURL = 'https://blog.naver.com';
+var blogURL = 'https://blog.naver.com';
+var blogURLHttp = 'https://blog.naver.com';
+var prologueURL = 'https://blog.naver.com';
+var sectionURL = 'https://section.blog.naver.com';
+var memologURL = 'https://blog.naver.com';
+var lifeURL = 'https://lifelog.blog.naver.com';
+var uploadURL = 'https://upload.blog.naver.com';
+var imageURL = 'https://blogimgs.pstatic.net';
+var attachURL = 'https://blogfiles.pstatic.net';
+var thumbnailURL = 'https://blogthumb.pstatic.net';
+var nonCachedThumbnailURL = 'https://blogthumb.pstatic.net';
+var filetransURL = 'http://filetrans.blog.naver.com';
+var item2_bridgeURL = 'http://bridge.item2.naver.com';
+var idURL = 'http://nid.naver.com';
+var idURLSecret = 'https://nid.naver.com';
+var mapviewURL = 'http://mapview.naver.com';
+var exifURL = 'https://exif-blog.ssl.phinf.net';
+var viewerImageUrl = imageURL + "/blog20/blog/layout_photo/viewer/";
+var domainURL = "";
+var greenReviewCampaignURL = 'http://campaign.naver.com';
+var writeURL = 'https://blog.naver.com';
+var spiURL = 'https://ssl.pstatic.net/spi';
+var blogProfileThumbnailUrl='https://blogpfthumb-phinf.pstatic.net';
+var naverCommentStaticURL = 'https://ssl.pstatic.net/static.cbox';
+var naverCommentApiURL = 'https://apis.naver.com/commentBox/cbox9';
+var naverCommentApiProxyURL = 'https://apis.naver.com/commentBox/blogid';
+var itemImagesURL = 'https://blogimgs.pstatic.net/item';
+
+var sCssUrlForPhotoLayer = 'https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/css/storyphoto_original_viewer-adf5d27_https.css';
+var commonStatDailyURL = 'https://blog.stat.naver.com';
+var baUrl = 'https://scv-blog.io.naver.com/jackpotlog/v1/logs';
+
+
+
+
+
+var blogId = 'carecare246' || 'carecare246';  
+var userId = 'carecare246'; 
+var userNo = '167114532'; 
+var userNaverId = 'jungseungyeop';
+var baUserKey = '0c5a6c7b6ebab2ee913169bea4ea94052b1f771baed56d8cf3a755dc74cbb032';
+var userIdNo = "2csUpG";
+
+
+
+var isWritingBlocked = false;
+var isWritingBlockedBySpamIP = false;
+var isWritingBlockedBySpamIPManually = false;
+var isLoggedIn = true;
+var isShortestContentAreaWidth = false;
+
+var blogOwner = true; 
+
+var blogNo = '167114532';
+var nickName = '법무법인에이블';
+var isInitializingBlog = false;
+var rightClickOpenYn = false;
+var isMylogBlocked = false;
+var isBlogBlock = false;
+var blockOrWriteBlock = false;
+var autoSourcingYn = true;
+
+
+var isMemolog = false;
+var isMemologList = false;
+var isPrologue = false;
+
+
+var isBlogMe = false;
+
+var isUsingUrl = false;
+
+
+var isRequestFromIPad = false;
+
+
+var isOverIOS5_0Version = false;
+var isOverAndroidJellybeanVersion = false;
+var isCommingNaverApp = false;
+var isUsingNaverKitkatEngine = false;
+var isAndroidKitkatVersion = false;
+
+var defaultSmartEditorVersion = 2;
+
+var adContentLocation = "-1";
+var gAdBucket = "";
+
+
+
+
+
+
+var readOnlyStatus = false;
+var readOnlyStatusAll = false;
+var readOnlyLinkErrorMsg = '죄송합니다. 블로그 서비스 점검 중입니다. \n점검 시간 동안은 기능 이용이 제한됩니다. \n자세한 내용은 블로그 홈 공지사항을 참고해주세요.';
+var readOnlyCommentMsg = '12월 17일(월) 오전 0시~8시 서비스 점검으로 댓글 작성이 제한됩니다. \n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+var sIsTagReadOnly = '';
+var sTagSorryText = '죄송합니다. 태그 서비스 점검 중입니다.\n점검 시간 동안은 일부 서비스 이용이 제한됩니다.\n자세한 내용은 공지사항을 참조하세요.';
+var blogQuickPostingUseType = "NOT_USING"; 
+
+
+
+
+var isCommentReadOnly = false;
+var sCommentReadOnlyBlockSubmit = '죄송합니다. 블로그 댓글, 답글 서비스 점검 중에는 이용이 제한됩니다.';
+var sCommentReadOnlyWriteMsg = '서비스 점검으로 댓글 작성이 제한됩니다.\n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+ 
+
+
+
+
+
+
+
+var isJeagleDebug = false;
+
+
+
+
+
+var skinId = "0";
+var skinType = "C";
+
+var isEnglish = "false";
+
+var areaCode = "11B10101";
+var weatherType = "0";
+
+var currencySign = "ALL";
+
+var listNumVisitor = '5';
+var isVisitorOpen = true;
+var isCategoryOpen = true;
+var writingMaterialListType = '1'
+var previewCalType = '';
+
+
+
+var oExternalWidget = [];
+
+
+var calType = "";
+
+
+var curLog = 'https://blog.naver.com';
+var playerType = '0';
+var playerDesign = '0';
+
+
+var isCommentOpen = false;
+var listNumComment = 5;
+
+
+var isBuddyOpen = false;
+
+
+
+var userSelectMenu = '';
+
+
+var visitorgpData = '';
+var vigitorSetUrl = '';
+var vigitorPropUrl = '/versioning//common/swf/Widget/visitorGP/VisitorGP-50a2c61.xml';
+var visitorgp_vars = {
+	setUrl    : vigitorSetUrl,
+	req_url   : '/NVisitorgp4Ajax.naver?blogId=' + blogId,
+	prop_url  : vigitorPropUrl,
+	graphType : visitorgpData,
+	flashvars : function(){
+		return "req_url=" + this.req_url +"&prop_url=" + this.prop_url +"&graphType=" + this.graphType;
+	},
+	height    : 121
+};
+
+
+
+var watchData = '';
+var watch_design = {
+	name    : watchData.split('|')[0],
+	font    : watchData.split('|')[1],
+	color   : watchData.split('|')[2],
+	bgcolor : watchData.split('|')[3]
+}
+var watch_vars = {
+	blogId : blogId,
+	skinType : skinType,
+	skinId : skinId
+}
+
+
+var serviceId = '';
+var naverId = '';
+var happyBeanApiURL = '';
+var reqparam = '';
+var HAPPYBEAN_API_URL = "";
+var HAPPYBEAN_FUND_URL = "";
+//var HAPPYBEAN_MY_URL   = "";
+var HAPPYBEAN_DONATION_URL = "";
+
+
+
+
+var selectCategoryNo = "";
+
+
+var aNonWidget = ['rss', 'powered','adpost','buddyconnect','greenreview'];
+<!-- var aWidget = ['gnb', 'externalwidget','music'];  -->
+var aWidget = [];
+
+
+aWidget.push('profile');
+
+aWidget.push('category');
+
+aWidget.push('stat');
+
+aWidget.push('rss');
+
+aWidget.push('search');
+
+aWidget.push('buddyconnect');
+
+aWidget.push('title');
+
+aWidget.push('menu');
+
+aWidget.push('content');
+
+aWidget.push('gnb');
+
+aWidget.push('externalwidget');
+
+var bIsRemocon = false;
+var bIsPreview = document.location.href.indexOf("PostPreview.nhn") > -1 || document.location.href.indexOf("MemologMemoPreview.nhn") > -1;
+
+var isTopLayoutEmpty = false;
+
+var openSideType = "1";
+var foldSideType = "2";
+
+var g_ContentShareObject = {
+	adPostPreview : false,
+	adPostPreviewSide : false,
+	adPostPreviewContent : false,
+	adPostAlign : "",
+	adPostCount : ""
+};
+
+var blogDomainUrl = "";
+var sAjaxFlashUrl = '/versioning//common/lib/ajax.flash/ajax-885363e.swf';
+var isHappyBeanLeverage = false;
+
+
+var doc = document.documentElement;
+doc.setAttribute('data-useragent',navigator.userAgent);
+var gbIsNotOpenBlogUser = "false" === "true";
+var gbIsNPayAccepted = "false";
+var gbIsPayAcceptedOrBefore = "false";
+</script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Jindo152-313837964_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutTopCommon-1044321278_https.js" type="text/javascript"></script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/JindoComponent-190469086_https.js" type="text/javascript"></script>, <script type="text/javascript">
+	var gbTrackingCode = '';
+	var gbTrackingCodeReferer = '';
+</script>, <script type="text/javascript">JEagleEyeClient.setEnable(isJeagleDebug);</script>, <script type="text/javascript">
+	var autoCompleteToSearchSwitch = "true" === "true";
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarSearch-fb8fefd_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/LayerPopup-a141e19_https.js"></script>, <script src="https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PhotoViewerNew-88085474_https.js" type="text/javascript"></script>, <script>
+        window.profileImagePhotoViewerOn = true;
+    </script>, <script type="text/javascript">
+    $Fn(function () {
+        var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
+        var beyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+
+        PhotoViewerNew.initThumbnailTypeW3840EnableDomainListJson(thumbnailTypeW3840EnableDomainListJson);
+        if (typeof mylogBaEventSender != 'undefined' && typeof baUserKey != 'undefined') {
+            PhotoViewerNew.initBeyondAnalytics(mylogBaEventSender, beyondAnalyticsUrl, baUserKey)
+        }
+    }).attach(window, "load");
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/3.2.1/jquery-3.2.1-d2d8ca4_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/jquery.loadTemplate-1.5.10.min-c0311fc_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/lottie.min-0e23629_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/BlogDomainRegisterLayer-947857105_https.js" type="text/javascript"></script>, <script type="text/javascript">
+    jQuery.noConflict();
+</script>, <script type="text/javascript">
+	var gnb_service="blog";
+	var gnb_template="gnb_utf8";
+	var gnb_brightness=1;
+	var gnb_url='https://blog.naver.com/carecare246';
+	var gnb_logout = gnb_url;
+	var gnb_login = gnb_url;
+	var gnb_login_on_top = true;
+	var gnb_item_hide_option= 1|4|8|16|128;
+	var isGetGnbCalled = false;
+	
+	window.onload = function() {
+		if (!isGetGnbCalled) {
+			getGNB();
+			isGetGnbCalled = true;
+		}
+		setSkipNavigationInfo();
+	};
+	
+	//웹접근성 스킵네비게이션 설정
+	function setSkipNavigationInfo() {
+		var contentsId;
+		if ($("postListBody")) {
+			contentsId = "postListBody";
+		} else {
+			contentsId = "post-area";
+		}
+
+		if (contentsId) {
+			$("goContentsAreaLink").href = "#" + contentsId;
+
+			if (document.getElementById("goContentsAreaLink").addEventListener) {
+				document.getElementById("goContentsAreaLink").addEventListener(
+						'click', onClickChangeFocus, false);
+			} else if (document.getElementById("goContentsAreaLink").attachEvent) {	//IE8을 위한 이벤트 등록 리스너
+				document.getElementById("goContentsAreaLink").attachEvent(
+						'click', onClickChangeFocus);
+			}
+
+			function onClickChangeFocus() {
+				var t = document.getElementById(contentsId);
+				t.tabIndex = -1;
+				t.focus();
+				return false;
+			};
+		}
+	}
+
+
+	var goMarketAdmin = function (isWheelEvent) {
+		sendClickNlog('gnb_myb.itemlist','');
+		if (userAgentUtil.isSafariBrowser() || userAgentUtil.isUnderIE11VersionBrowser()){
+			if (confirm("이 브라우저는 현재 블로그 마켓 관리를 지원하지 않습니다.\n 네이버 웨일 등 다른 브라우저를 이용하시기 바랍니다.\n 지금 네이버 웨일을 설치하시겠습니까?")) {
+				window.open("https://whale.naver.com/ko/download");
+				return;
+			}
+
+			return;
+		}
+
+		if ("" === 'fee_not_set') {
+			if (confirm("배송비 설정을 마친 후 마켓 관리 메뉴에 접근할 수 있습니다. 배송비 설정으로 이동하시겠습니까?")) {
+				window.location = 'https://seller.blog.naver.com' + "/market/deliveryFee";
+				return;
+			}
+
+			return;
+		}
+
+
+		if(isWheelEvent){
+			window.open('https://seller.blog.naver.com' + "/market/my");
+			return;
+		}
+
+		if (window.parent) {
+			window.parent.location = 'https://seller.blog.naver.com' + "/market/my";
+			return;
+		}
+
+		window.location = 'https://seller.blog.naver.com' + "/market/my";
+	};
+</script>, <script charset="utf-8" id="gnb-script" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Tue Jan 06 21:56:18 KST 2026" type="text/javascript"></script>, <script type="text/javascript">
+    var doc = document.documentElement;
+    doc.setAttribute('data-useragent',navigator.userAgent);
+setTimeout(function() {
+	if (!isGetGnbCalled) {
+		getGNB();
+		isGetGnbCalled = true;
+	}
+}, 1500);
+</script>, <script id="naverCommentCustomCssTpl" type="text/template">
+#post-area .commentbox_header,
+#post-area .u_cbox \{background:{=comment} !important;\}
+
+#post-area .u_cbox .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_target_name,
+#post-area .u_cbox .u_cbox_comment .u_cbox_text_wrap,
+#post-area .u_cbox .u_cbox_date,
+#post-area .u_cbox .u_cbox_btn_report,
+#post-area .u_cbox .u_cbox_btn_unhide,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_cnt_page,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_num_page,
+#post-area .commentbox_header .btn_write_comment,
+#post-area .commentbox_header .commentbox_pagination .num,
+#post-area .commentbox_header .btn_pagination .icon,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_stat_secret,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_ico_open \{color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_info_base .u_cbox_ico_bar \{background-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before \{border-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_mine .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page .u_cbox_num_page,
+#post-area .commentbox_header .commentbox_pagination .num strong,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_editor .u_cbox_txt_editor \{color:{=pcol3} !important;\}
+
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on:before,
+#post-area .u_cbox .u_cbox_ico_editor \{border-color:{=pcol3} !important;\}
+
+#post-area .u_cbox .u_cbox_content_wrap:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_comment .u_cbox_write_wrap:before,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before
+\{border-color:{=pcol2};\}
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/global/RemoveSubDomain-12d2f16_https.js" type="text/javascript"></script>, <script type="text/javascript">
+
+
+
+
+
+
+
+var isAutoPlayYN = false;
+
+
+var tagOpenModeType = '0';
+var tagMarkDisplayIfPostTagEmpty = false;
+
+var categoryNo = '';
+var parentCategoryNo = '';
+var categoryParentCategoryNo = '';
+var currentCategoryNo;
+if(categoryNo=="" && parentCategoryNo == ""){ 
+	currentCategoryNo = 0;
+}else if((categoryNo=="" || categoryNo=="0") && parentCategoryNo != ""){  
+	currentCategoryNo = parentCategoryNo;
+}else if(categoryNo!=""){  
+	currentCategoryNo = categoryNo;
+}
+
+var viewDate = '' || ''; 
+
+
+
+var isFromSearch = false;	
+var isFromSection = false;	
+
+var forFocusingTargetId = "";
+
+var isFirstPage = false;	
+var from = '';	
+var search_logNo = "";
+
+var postListTopCurrentPage = '';
+var categoryName = "";
+
+var gsGfMarketUrl = 'http://m.gfmarket.naver.com';
+
+
+var userTopListCurrentPage = "";
+var userTopListCount = "";
+var userTopListOpen = false; 
+var userTopListManageOpen = false; 
+var isTopListOpen = false; 
+var topListPostCount = "5"; 
+
+var isTopListCategoryEmpty = true;
+if (!isTopListCategoryEmpty) {
+	isTopListOpen = false; 
+	topListPostCount = ""; 
+}
+
+var isThumbnailList = false;
+var isThumbnailView = false;
+
+var aPostSendInfo = [];
+var aPostBaseInfo = [];
+var aPostFiles = [];
+var aPostVideoInfo = [];
+var aPostImageFileSizeInfo = [];
+var aPostAutoSourcingHtmlView = [];
+var aQueuePost = []; 
+var htInitData = [];
+
+var paramLogNo = '';
+var blogId = 'carecare246';
+var isAfterWrite = false;
+
+
+var isRecommendedBlog = false;
+
+var gdidTag = [];
+var g_ssc = "blog.post";
+var nsc = "blog.post";
+var nFirstLogNo = "";
+var pagePerPostCount = 1;
+
+
+var sCommentNoPosition = '';	
+var isCommentAreaOpen = false;
+var postBottomOptionalAreaType = '';
+var commentAreaOpenType = '';
+var isRelayAreaOpen = false;
+var isSympathyAreaOpen = false;
+var relayAreaOpenType = '';
+var firstPostLogNo = "";
+var firstPostIsAllOpenPost = false;
+var searchImg = '';
+var searchVid = '';
+var blockedBlog = 'false';
+var videoAutoPlay = blockedBlog === 'false';
+
+
+var currentPage = '1';
+var tagParam = '' || '&logNo=224132164014';
+
+
+var imageWidth = '' || '936';
+
+
+var maxNoticePostCount = '5';
+var gbIsPostCommentOpen = false;
+
+
+var isDoPostAggregate = false;
+
+
+var apiGwUrl = 'https://apis.naver.com/';
+var likeItVideoEnable = true;
+var likeItVideoIdListJson = '[]';
+var likeItVideoContentsIdMapJson = '{}';
+
+
+
+var blogNicknameOrBlogId = '법무법인에이블';
+
+
+var videoPlayerUrl = "https://ssl.pstatic.net/t.static.blog/mylog/versioning//lib/prismplayer/prismplayer-pc-1.0.6.min-b19d4f3_https.js";
+var advertiseInfoUrl = 'https://api.tv.naver.com';
+var isDevPhase = "false";
+var isStagePhase = "false";
+var isNotHasSe3AndSeOne = false;
+var isScrap = 'false' === 'true';
+
+var postAdvertiseEnableYN = false;
+
+var rproductId = '';
+var bLoginUser = 'true' === 'true';
+var isVideoSubtitleInsertEnable = 'true'  === 'true';
+
+var userNaverId = 'jungseungyeop';
+var showCoupon = '' === 'true';
+var gPcUrl = 'https://blog.naver.com';
+var hasProduct = 'false' === 'true';
+var feEnv = 'real';
+var infEnv = 'real';
+var	gbIsInf = "" == "true" ? true : false;
+var endPageProductMap = JSON.parse('{"224132164014":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"leaveRequestSeller":false,"tradeInterruptionSeller":false,"temporaryStopSeller":false}}');
+var feMobileUrl= "https://fe-m.blog.naver.com";
+
+var blogModuleJs= "https://feblog.pstatic.net/module/real/market/market_1.0.0/js/market.js";
+
+var itemFactoryDomainDisabled = "true" === "true";
+
+var powerLinkABATestJson = JSON.parse('{}');
+var beyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+var baUserKey = "0c5a6c7b6ebab2ee913169bea4ea94052b1f771baed56d8cf3a755dc74cbb032";
+var userIdNo = "2csUpG";
+
+
+
+
+
+
+
+
+	gUserId = "carecare246";
+	gBlogId = "carecare246";
+	gSE3Url = "https://blog.editor.naver.com/";
+    gsSesseionId = "EB6022D944A4E08A0CBFFB5035C40896.jvm1";
+    gsSearchKeyword = "";
+    gsBlogOwnerYn = true? "Y" : "N";
+    
+    gIsRabbitWriterOn = 'true';
+	gsSaInfo = "";
+	gbIsNotOpenBlogUser = "false" === "true";
+	gUserNaverId = "jungseungyeop";
+
+	
+	
+		nFirstLogNo = "224132164014";		
+        gnFirstLogNo = "224132164014";
+        gsFirstCategoryName = "\uAD50\uD1B5\uC0AC\uACE0\uC815\uBCF4";
+
+	
+	
+	gdidTag[1] = "90000003_00000000000000342F5169AE";
+	aPostAutoSourcingHtmlView[1] = "";
+	
+	
+		aPostFiles[1] = JSON.parse('[]'.replace(/\\'/g, ''));
+	
+	aPostVideoInfo[1] = [];
+	
+	aPostImageFileSizeInfo[1] = '{\'\/MjAyNjAxMDJfMjQz\/MDAxNzY3MzYyNzMyMTI0.CM3qxEECkn2KDZcq-aDvMAkar-Y21zOqR74C3RRf_3Ig.w-l_fwd9ZPXow_pdhKHEmXz7FMmCnHV1eW6tBiyJ7X4g.PNG\/image.png\': \'237,146|image.png\' , \'\/MjAyNjAxMDJfMTEg\/MDAxNzY3MzYyNzMyODc1.3rhEKYqNI_8J6idFLJ0ngpBCVPpfcGstzDSawW0gvbkg.z83eD8s4hbVqrNXUnlVNmS9_KABUao9luLbEViXVrX4g.PNG\/image.png\': \'275,049|image.png\' , \'\/MjAyNjAxMDJfNTAg\/MDAxNzY3MzYyNzMzNTUz.56T29y4-BjMLxTIROI0Cm_2ns16Stgx4EtEkBhJd_Ssg.BHAhG5s26B4xsIYHC68ho72QrH6oDxHP8Bbrp4VjvD4g.PNG\/image.png\': \'316,826|image.png\' , \'\/MjAyNjAxMDJfOTEg\/MDAxNzY3MzYyNzM0Mzk5.ThIAc4W6oohLpcVn_sWvFKTJj8JJVbcMD6oU08TWAh4g.IhdT9AFYwgitXT_NLStm9JnzeuiaOQIivKh-5mvouowg.PNG\/image.png\': \'335,580|image.png\' , \'\/MjAyNjAxMDJfMjky\/MDAxNzY3MzYyNzM1MDQ0.LClM5R1wKBQMCfxzADdyd76-k0jr0Skpow1bPeFBxMMg.wCbenmmrobp5x8kt9cXV8RvyDo_fic4nFKR-_4gOa-Mg.PNG\/image.png\': \'230,814|image.png\' , \'\/MjAyNjAxMDJfMjc1\/MDAxNzY3MzYyNzM1OTY5.uBb1JMCGgwGUcjpUN0lr1g6r8-7x1UlbjidG9gGaUpUg.8XOmHD0-Qii8LNhYlcAzoDKJ5mlz-8sOgPTLhGl4AOYg.PNG\/image.png\': \'243,239|image.png\' , \'\/MjAyNjAxMDJfMjE1\/MDAxNzY3MzYyNzM2NjI4.QYKzV1qN4yNp2emqQPK_xmrxbfEZlIsLtEH6ZvkL-CQg.4Qirby8EDnNuXjcE9Hwqex-gwEhReyL0JA8CvJPs3Y8g.PNG\/image.png\': \'263,126|image.png\' , \'\/MjAyNjAxMDJfMTA4\/MDAxNzY3MzYyNzM3NDIw.DBw7Mj8qTu-5d4XR8GePHriCdeo3ObrARbU9L-H5QGkg.Qxy6v87PisjS7NOM7g5_z6dHF2nTaJvqbRxL9szGDDgg.PNG\/image.png\': \'268,396|image.png\' , \'\/MjAyNjAxMDJfMjIy\/MDAxNzY3MzYyNzM4MDc0.68VQ2ehakBOITrdmzs25PMnISqqe34h92AYzmzIyxIsg._IYerkqagu2Z2hPW5mvMBXEW18tAW0xWUCiLMUGp4Ecg.PNG\/image.png\': \'256,211|image.png\' , \'\/MjAyNjAxMDJfMjU3\/MDAxNzY3MzYyNzM4NzI3.DV8VR9Qc7XBUkUzyJGSxbocXPVzKZIjH2n9oXdzDcHAg.qUthw-0Tja1jb-OGK7PrX_CCdBiIC1lVwH-bBu4st6sg.PNG\/image.png\': \'252,362|image.png\' , \'\/MjAyNjAxMDJfMjIz\/MDAxNzY3MzYyNzM5Mzcw.YLnUBvSxcRhx1KAp31yJggvwhP3_DEVmJfQ0Guf2tzIg.ujc-FXzygR11boZ_QHCkdNhCh6cfPWfe2LraGNJvwNkg.PNG\/image.png\': \'298,125|image.png\' , \'\/MjAyNjAxMDJfMTk0\/MDAxNzY3MzYyNzQwMTAz.EJ6nexyWIy88KBqyJzZDQ-VZq8-KdlFStV2I_R9HrZog.tGOw26kO2a9XcwCw22YiyitRws4p0SQR_Q4fnEnDhPIg.PNG\/image.png\': \'185,938|image.png\'}';
+	aPostSendInfo[1] = [];
+	aPostBaseInfo[1] = "224132164014|0|1|1||0|false|4|MYLOG";
+	aQueuePost.push({logNo : '224132164014',tagNames : ''}); 	
+
+
+
+
+
+
+
+
+//<!--
+	htInitData[0] = {
+		
+		
+		style  : "text",
+		
+		textClass : "pcol2",
+		barClass : "fil3 pcol2b",
+		align : "right",
+		onLoginRedirect : function() {window.open("https://nid.naver.com/nidlogin.login?svctype=16448&url=" + encodeURIComponent(blogURL + "/post/common/reloadOpenerParentAndClose.jsp"), "", 'width=400px, height=500px, scrollbars=yes, resizable=yes');},
+
+		evkey  : "blog",
+		servicename : "블로그",
+		title  : "\uC81C\uC8FC\uACF5\uD56D\uC11C \uC9C4\uC5D0\uC5B4 \uC804\uB825\uC7A5\uCE58 \uACFC\uC5F4\u2026122\uBA85 \uB300\uD53C",
+		source : "https://blog.naver.com/carecare246/224132164014",
+		me2key : "",
+		tags   : ["네이버블로그", "\u2192\u2192\u2192\uBC95\uBB34\uBC95\uC778\uC5D0\uC774\uBE14\u2190\u2190\u2190"],
+
+
+		me : {
+			
+			display:"off",
+			
+			feedInfo : "블로거의 글이",
+			popupType : "C",
+			targetUrl : "/subscribe/blog/applyFeedRelation.nhn",
+			serviceId : "blog",
+			feedGroupId : "neighbor",
+			feedId : ["carecare246"],
+			feedName : ["\u2192\u2192\u2192\uBC95\uBB34\uBC95\uC778\uC5D0\uC774\uBE14\u2190\u2190\u2190"],
+			feedUrl : ["https://blog.naver.com/carecare246" ],
+			selected : ['Y']
+		},
+		
+
+		
+		
+		
+		me2day : {sourceUrl : "https://blog.naver.com/PostView.naver?blogId=carecare246&logNo=224132164014"},
+		
+		
+
+		
+		
+		
+		mail : {
+			srvid   : "blog",
+			srvurl  : "http://bookmark.naver.com/getRichMailTmpl.ajax?sourceUrl="
+			 + encodeURIComponent("https://blog.naver.com/PostView.naver?blogId=carecare246&logNo=224132164014")
+		},
+		facebook : {sourceUrl : "https://blog.naver.com/PostView.naver?blogId=carecare246&logNo=224132164014"},
+		
+		
+
+		cafe : {
+			proxyUrl : "/ScrapToCafe.naver?blogId=carecare246&logNo=224132164014&inAppNavigation=true" 
+			
+		},
+		blog : {
+			
+			display:"off",
+			
+			proxyUrl : "/ScrapToBlog.naver?blogId=carecare246&logNo=224132164014&loadOnModalView=true&template=modal&isShowingGnb=false"
+		}
+	};
+
+
+// 스크립트 오류를 방지하지 위해서 막아논 부분.
+//-->
+function splugin_oninitialize(nCount) {
+	return htInitData[nCount - 1];
+}
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostTopCommon-603656815_https.js" type="text/javascript"></script>, <script type="text/javascript">
+var MrBlog = $Class({
+	$init : function(){
+		this.elMrBlogContents = $('mrblogcontents');
+		this._setEvent();
+	},
+
+	_setEvent : function(){
+		$Fn(this._onClick,this).attach(this.elMrBlogContents, 'click');		
+	},
+
+	_onClick : function(we){
+		var el = we.element;
+		var welAnchor = $Element(utility.getElement(el, 'a') || el);
+		if(!welAnchor){return;}
+		var aParam = utility.getParam(welAnchor.className());
+		if(welAnchor.hasClass("_goAnswer")){this.goAnswer(we);}
+	},
+
+	goAnswer : function(we) {
+		sendClickNlog('mrb.answer','');
+	} 
+});
+var mrBlog = new MrBlog();
+</script>, <script class="__se_module_data" data-module-v2='{"type": "v2_text", "id": "SE-d0ffed38-14e5-45b0-8edc-3ca2527bd6a4", "data": {"ctype": "text"  }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_text", "id": "SE-75022f08-4596-4686-aacf-52ab68580f38", "data": {"ctype": "text"  }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_image", "id": "SE-e94fb879-58e5-4d17-91de-9dd583c9cfc6", "data": {"ctype": "image", "ai": "false", "fileSize": "332701" }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_imageGroup", "id" :"SE-51572e02-482f-45ce-93c4-8771b8dc5014", "data": { "layout" : "slide" }}' data-module-v2='{"type": "v2_imageGroup", "id": "SE-51572e02-482f-45ce-93c4-8771b8dc5014", "data": {"ctype": "imageGroup", "layout": "slide", "images": [ {"ctype": "image", "id": "SE-dca729f3-35c0-4ce1-b60d-1d73f137a2ba", "ai": "true", "fileSize": "237146" } , {"ctype": "image", "id": "SE-fec41b42-da68-478a-b445-a18d0f4be57c", "ai": "true", "fileSize": "275049" } , {"ctype": "image", "id": "SE-0a8e7c45-d043-43c7-a86f-a84f90325463", "ai": "true", "fileSize": "316826" } , {"ctype": "image", "id": "SE-c379b926-8f6d-407e-ba6a-c503cc66092e", "ai": "true", "fileSize": "335580" } , {"ctype": "image", "id": "SE-7bfcbbbd-ff2c-4544-b212-5bdf001f8067", "ai": "true", "fileSize": "230814" } , {"ctype": "image", "id": "SE-1865fc0f-3de2-4c8e-a4f1-60807a981583", "ai": "true", "fileSize": "243239" } ] }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_imageGroup", "id" :"SE-883b91c4-52fa-4f37-b0e4-b4b4c3f408d8", "data": { "layout" : "slide" }}' data-module-v2='{"type": "v2_imageGroup", "id": "SE-883b91c4-52fa-4f37-b0e4-b4b4c3f408d8", "data": {"ctype": "imageGroup", "layout": "slide", "images": [ {"ctype": "image", "id": "SE-94de21e4-3cc5-4f10-b52f-ea16f9233250", "ai": "true", "fileSize": "263126" } , {"ctype": "image", "id": "SE-8c823dfa-4e48-4c66-82b4-51bdddd880ac", "ai": "true", "fileSize": "268396" } , {"ctype": "image", "id": "SE-353ba9ad-1f2a-4b5d-95ee-02afd7d708de", "ai": "true", "fileSize": "256211" } , {"ctype": "image", "id": "SE-3b4f8573-7317-4c65-8b3b-f23c3f961373", "ai": "true", "fileSize": "252362" } , {"ctype": "image", "id": "SE-c09ebd13-52d3-4613-9722-b6a2b9bd8c68", "ai": "true", "fileSize": "298125" } , {"ctype": "image", "id": "SE-7e5f5426-a81b-486b-a489-c932e8ba317b", "ai": "true", "fileSize": "185938" } ] }}' type="text/data"></script>, <script src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/SspAdPost-511951527_https.js" type="text/javascript"></script>, <script>
+									var gAdPostUnitIdForPC = false;
+									var gNotAdPostUnitIdForPC = "pc_blog_bottom_nrs";
+								</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//lib/egjs/visible.pkgd.min-7735f57_https.js" type="text/javascript"></script>, <script type="text/javascript">
+function ImageLazyLoader(selectors) {
+   this.selectors = selectors;
+}
+
+var imageLazyLoadVisible = new eg.Visible(document, {
+    targetClass : "egjs-visible",
+    expandSize : "100"
+});
+
+var imageLoad = function(el) {
+    var img = $Element(el);
+
+    // gifmp4인 경우 재생처리
+    if (img.hasClass("_gifmp4") && img._element.tagName === "VIDEO" && img._element.paused) {
+        img._element.play().catch(function(){
+            var gifUrl = img.attr("data-gif-url");
+            if (!gifUrl) {
+                return;
+            }
+            img.attr("poster", gifUrl);
+        });
+        return;
+    }
+
+    var realSrc = img.attr("data-lazy-src");
+    if (!realSrc) {
+        return;
+    }
+
+    img.attr("src", realSrc);
+    img.attr("data-lazy-src", "");
+};
+
+ImageLazyLoader.prototype.loadImages = function () {
+    var containers = this.selectors instanceof HTMLElement ? [this.selectors] : jindo.$$(this.selectors);
+    $A(containers).forEach($Fn(function (element) {
+        this.loadImagesForEachContainer($Element(element));
+    }, this).bind());
+
+    imageLazyLoadVisible.on("change", function(e) {
+        e.visible.forEach(imageLoad);
+    });
+
+    imageLazyLoadVisible.check();
+};
+
+
+ImageLazyLoader.prototype.loadImagesForEachContainer = function (postContentArea) {
+    $A(postContentArea.queryAll("img")).forEach($Fn(function (imgEl) {
+        $Element(imgEl).addClass("egjs-visible");
+    }, this).bind());
+
+    $A(postContentArea.queryAll("video._gifmp4")).forEach($Fn(function (imgEl) {
+        $Element(imgEl).addClass("egjs-visible");
+    }, this).bind());
+
+    //marquee tag안에 이미지가 있을경우 이미지가 loading되지 않는 현상이 발생하여 예외처리 진행
+    $A(postContentArea.queryAll("marquee")).forEach(function (marqueeEl) {
+        $A($Element(marqueeEl).queryAll("img")).forEach(function (img) {
+            imageLoad(img);
+        });
+    });
+};
+
+var imageLazyLoader = new ImageLazyLoader("#postListBody .post, .post.prologue");
+imageLazyLoader.loadImages();
+
+$Fn(function() {
+    $Fn(function(){
+        imageLazyLoadVisible.check();
+    }).attach(window, "scroll");
+}).attach(window, "domready");
+
+$Fn(function() {
+    imageLazyLoadVisible.check();
+}).attach(window, "load");
+
+</script>, <script type="text/javascript">
+	
+
+	var isConvertEnabled = 'true' === 'true';
+
+	function closeCompletePopup() {
+		var lyr_popup = document.getElementById("challengePopLayer");
+		lyr_popup.style.display = 'none';
+		window.document.body.style.overflow = '';
+
+		var lyr_popup_dimmed = document.getElementById("challengePopLayerDimmed");
+		if (lyr_popup_dimmed) {
+			lyr_popup_dimmed.style.display = 'none';
+		}
+	}
+
+	function suggestConvert(logNo, isSupportSE3, scrapPostYn, editorversion) {
+
+		if (isConvertEnabled && !isSupportSE3) {
+
+			if (editorversion === 1) {
+				alert("SE1.0 으로 작성된 글로\n수정 발행 시 이미지가 모두 사라집니다.\n글 내 이미지를 저장하여\n재업로드 후 발행 부탁 드립니다.");
+			}
+
+			if (confirm("스마트에디터 ONE으로 글을 수정합니다.\n발행 전에 글감이 잘 노출되는지 확인해 주세요.")) {
+				location.href = "carecare246/postupdate?logNo=" + logNo + "&isConvert=true";
+			}
+		} else {
+			location.href = "carecare246/postupdate?logNo=" + logNo;
+		}
+	}
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostViewBottom-564783722_https.js" type="text/javascript"></script>, <script type="text/javascript">
+	
+	postViewBottomTitleListController.start(blogId, nFirstLogNo, '' == 'true', parentCategoryNo, currentCategoryNo, categoryName, viewDate, '', from, 'false', '');
+</script>, <script type="text/javascript">
+    var fromClosedPost = "false" === "true";
+    var isStage = "false" === "true";
+    var blogRealHttpDomain = "http://blog.naver.com";
+    var blogNewsProxyUrl = "https://blog.naver.com/api/news/article";
+	var nilOptions = {
+        devMode: "true"=="false",
+            topReferer : (function() {
+                if (fromClosedPost) {
+                    return '';
+                }
+
+                var ref = "";
+                var isMobile = function() {
+                    return window.location.host.indexOf('m.blog.naver.com') >= 0;
+                };
+
+                if (isMobile()){
+                    return document.referrer;
+                } else {
+                    if (ref == '') {
+                        if (parent != window && parent.location.href == document.referrer) {
+                            return '';
+                        } else {
+                            return document.referrer;
+                        }
+                    } else {
+                        return ref;
+                    }
+                }
+            })()
+	}
+</script>, <script charset="utf-8" id="socialPluginCustomTag" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?v=1473086.0"></script>, <script>
+	window.onload = function() {
+        window.__splugin = SocialPlugIn_Core({
+            //소셜 플러그인 기본 설정
+            // nEvent Key
+            "evKey"       : "blog",
+            // 서비스명
+            "serviceName" : "블로그",
+            // 출처
+            "sourceName"  : "\u2192\u2192\u2192\uBC95\uBB34..",
+            "sendNClick"  : 'off',
+            "nClickCode" : {
+                'blog': { 'in': 'shr_lyr.blog', 'out': 'shr.blog' },
+                'cafe': { 'in': 'shr_lyr.cafe', 'out': 'shr.cafe' },
+                'bookmark': { 'in': 'shr_lyr.bookmark', 'out': 'shr.bookmark' },
+                'memo':     { 'in': 'shr_lyr.memo',     'out': 'shr.memo' },
+                'mail':     { 'in': 'shr_lyr.mail',     'out': 'shr.mail' },
+                'band':     { 'in': 'shr_lyr.band',     'out': 'shr.band' },
+                'line':     { 'in': 'shr_lyr.line',     'out': 'shr.line' },
+                'twitter':  { 'in': 'shr_lyr.twitter',  'out': 'shr.twitter' },
+                'facebook': { 'in': 'shr_lyr.facebook', 'out': 'shr.facebook' },
+                'weibo':    { 'in': 'shr_lyr.weibo',    'out': 'shr.weibo' },
+                'reddit':   { 'in': 'shr_lyr.reddit',   'out': 'shr.reddit' },
+                'copyurl':  { 'in': 'shr_lyr.copyurl' },
+                'release':  { 'out': 'shr.sharebtn' }
+        	},
+			"darkMode"      : false
+        });
+	}
+	</script>, <script defer="" src="https://editor-static.pstatic.net/v/basic/1.70.1/se.viewer.js?v=1.70.1-20251015184820" type="text/javascript"></script>, <script type="text/javascript">
+    var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
+    var photoViewerSocialPluginInfoJson = document.getElementById('socialPluginInfoJson').innerText;
+    var photoViewerBeyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+    $Fn(function () {
+        PhotoViewerNew.init(mylogBaEventSender,
+            photoViewerBeyondAnalyticsUrl,
+            baUserKey,
+            photoViewerSocialPluginInfoJson,
+            thumbnailTypeW3840EnableDomainListJson);
+    }).attach(window, "load");
+</script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostBottomCommon-933883609_https.js" type="text/javascript"></script>, <script type="text/javascript">
+new InstallBlogAppPush();
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/versioning_nil_ntm-2034686_https.js" type="text/javascript"></script>, <script type="text/javascript">
+        var urlDomain = 'http://blog.naver.com';
+
+        // stage의 경우 real과 동일하게 집계되게 하기 위하여 real로 처리
+        if(isStage){
+            urlDomain = blogRealHttpDomain;
+        }
+
+        var nilNtmLibUrl = "https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/nilForNtm-89afd2f_https.js";
+        var gdid = '90000003_00000000000000342F5169AE';
+        var firstTitle = '\uC81C\uC8FC\uACF5\uD56D\uC11C \uC9C4\uC5D0\uC5B4 \uC804\uB825\uC7A5\uCE58 \uACFC\uC5F4\u2026122\uBA85 \uB300\uD53C';
+        var sBlogIdForNil = 'carecare246';
+        var uri = urlDomain + '/carecare246/224132164014';
+        var relationType = 0;
+        var blogOwnerRelationType = 0;
+        var referrer = nilOptions.topReferer;
+        var dimension_1 = "";
+        var optional_1 = true;
+        var event_category = "post_view";
+        var isNilAnalystLeaveEvent = "";
+        var isPostList = !!isPostList;
+        // postList 인 경우, 첫번째 포스트에 대한 상품 첨부 여부를 보낸다.
+        var firstPostHasProduct = false;
+        //ba
+        var postWriteDate = "1767362834403";
+        var attachmentSetCount = null;
+        var postTopics = null;
+
+        $Fn(function () {
+            try {
+                new nilNtmForBlogCVAnalyst(sBlogIdForNil, uri, relationType, gdid, dimension_1, referrer, optional_1, event_category, nilNtmLibUrl, isPostList, isNilAnalystLeaveEvent, firstPostHasProduct);
+            } catch (e) {}
+        }).attach(window, "load");
+
+    </script>, <script charset="utf-8" src="https://static-like.pstatic.net/js/reaction/dist/reaction.min.js?v=1473086.0" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/like/reaction.lottie-03755cf_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Tutorial-356186781_https.js" type="text/javascript"></script>, <script type="text/javascript">
+
+$Fn(function() {
+    try {
+        reaction.init({
+            type: "face",
+			domain : "https://blog.like.naver.com",
+			staticDomain : "https://static-like.pstatic.net",
+            cssId : "blog",
+            isMobile : false,
+            maxCount : 9999,
+            isHiddenCount : false,
+            highlightCount : 50,
+            highlightClassname : "double_heart",
+			isUseApigw : true,
+			isZeroFace: true,
+			isDuplication: false,
+			apigwInfo : {
+				domain : "https://apis.naver.com/blogserver/like",
+				pool : "blogid"
+			},
+			isAllowLongPress: true,
+			faceButtonMaxIconCount: 3,
+            callback : {
+                click : function(param){
+					if (gbIsNotOpenBlogUser) {
+						var oOptions = {
+							wrapperDivId: "domainRegisterWrap"
+							, title: "공감을 남기려면 블로그 아이디가 필요해요."
+							, confirmBtnValue: "아이디 만들기"
+							, win: window
+							, isLightVersion: true
+							, clickCodePrefix : "bsu*l.like"
+							, initialCode : "bsu*l.like"
+							, callbackFn: function () {
+								location.reload();
+							},
+							apiUrl: {
+								recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+								duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+								blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver"
+							}
+						};
+						blogDomainRegisterLayer.init(oOptions);
+						blogDomainRegisterLayer.show();
+						return false;
+					}
+
+					try {
+						var cid = param.target.closest(".u_likeit_list_module").getAttribute("data-cid")
+						oSympathyLayer.reloadLogNo =  cid.substring(cid.lastIndexOf("_")+1)
+					} catch(e) {}
+                },
+                clicked : function(){
+                    oSympathyLayer.reloadSympathyLayer();
+                }
+            }
+        });
+
+		ReactionLottie(".u_ico._icon", function(element) {
+			return element.parentElement.getAttribute("data-type");
+		});
+    } catch(e){}
+
+    //튜토리얼
+    
+
+	//블로그마켓 웰컴
+	
+
+	// 블로그 마켓 탈퇴 알림
+	
+
+}).attach(window, "load");
+
+var isPostList = true;
+
+function showBlogDomainRegisterLayer(event){
+	event.preventDefault();
+	event.stopPropagation();
+
+	var oOptions = {
+		wrapperDivId: "domainRegisterWrap"
+		/*, registerBtnEl: angular.element(document.querySelector(attr['bgBlogDomainRegisterBtnId']))*/
+		, title: "사용하실 블로그 아이디를 입력해주세요."
+		, confirmBtnValue: "확인"
+		, win: window
+		, isChangeLayer: false
+		, clickCodePrefix : "bsu*i."
+		, initialCode: "bsu*i"
+		, callbackFn: function () {
+			location.reload();
+		},
+		closeFn: function () {
+			location.reload();
+		},
+		apiUrl: {
+			recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+			duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+			blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver",
+			blogBasicInfoUpdateUrl: "/blogdomain/BlogBasicInfoUpdate.naver",
+			profileImageUploadUrl: "/blogdomain/ProfileImageUpload.naver",
+			profileImageUploadFromUrlUrl: "/blogdomain/ProfileImageUploadFromUrl.naver",
+			blogInfoUrl: "/blogdomain/BlogBasicInfo.naver",
+			recommendBlogByPersonalThemeListUrl: "/blogdomain/RecommendBlogByPersonalThemeList.naver",
+			recommendBlogAddBuddyUrl: "/blogdomain/SimpleBuddyAdd.naver",
+			recommendBlogRemoveBuddyUrl: "/blogdomain/SimpleBuddyRemove.naver",
+			profileDefaultImageUrl: "/blogdomain/ProfileDefaultImage.naver",
+			personalThemeUpdateUrl: "/blogdomain/SimplePersonalThemeUpdate.naver",
+			personalThemeListUrl:"/blogdomain/SimplePersonalThemeList.naver"
+		},
+		blogUrl: blogURL
+	};
+	blogDomainRegisterLayer.init(oOptions);
+	blogDomainRegisterLayer.showSuggestionLayer();
+}
+
+function showBlogDomainRegisterLayerBuddyAdd() {
+	var oOptions = {
+		wrapperDivId: "domainRegisterWrap"
+		, title: "이웃을 추가하려면 블로그 아이디가 필요해요."
+		, confirmBtnValue: "아이디 만들기"
+		, win: window
+		, isLightVersion: true
+		, clickCodePrefix : "bsu*l.add"
+		, initialCode: "bsu*l.add"
+		, callbackFn: function () {
+			location.reload();
+		},
+		apiUrl: {
+			recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+			duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+			blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver"
+		}
+	};
+	blogDomainRegisterLayer.init(oOptions);
+	blogDomainRegisterLayer.show();
+}
+
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/3.2.1/jquery-3.2.1-d2d8ca4_https.js" type="text/javascript"></script>, <script type="text/javascript">
+    jQuery.noConflict();
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/ntm/ntm-blog-web-0f5c6ad_https.js"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/NtmBaLog-986277545_https.js" type="text/javascript"></script>, <script>
+    var baParams = {};
+    // [BA] 공통
+    baParams.baUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+    baParams.baSceneId = 'blog_home';
+    
+    baParams.baUserKey = '0c5a6c7b6ebab2ee913169bea4ea94052b1f771baed56d8cf3a755dc74cbb032';
+    baParams.trackingCode = '';
+    
+
+    // [BA] post_end, blog_home, category
+    
+    baParams.blogNo = '167114532';
+    
+
+    // [BA] post_end, comment
+    
+    baParams.logNo = '224132164014';
+    
+
+    // [BA] blog_home
+    
+    baParams.bRelationType = '0';
+    baParams.uRelationType = '0';
+    
+
+    // [BA] category
+    
+
+    // [BA] lnb
+    
+
+    // [BA] search
+    baParams.range = '';
+    baParams.searchText = '';
+
+    // [BA] admin
+    baParams.settingMenu = '';
+
+    MylogPageViewSender.init(baParams);
+</script>, <script id="tpl_video" type="text/template">
+	<span class="ico_video">동영상</span>
+</script>, <script id="tpl_recommend_buddy" type="text/template">
+<strong class="tit">{=recommendTitle}</strong>
+<div class="lyr_cont">
+	<a href="/{=blogId}" target="_blank" onclick="sendClickNlog('bap.blog','');">
+		<div class="bloger">
+			<span class="thumb"><img src="{=profileImageUrl}" width="35" height="35" alt="섬네일"></span>
+			<span class="txt">
+				<strong class="nick">{=nickname}</strong>
+				<span class="dsc">{=blogName}</span>
+			</span>
+		</div>
+	<a>
+	<a href="#" class="btn_add_buddy _addBuddy _param({=blogId})"><span class="ico"></span>이웃추가</a>
+</div>
+<a href="#" class="btn_close _closeLayer">이웃추가 레이어 닫기</a>
+</script>, <script type="text/javascript">
+	var wordCheck;
+	function setWordCheckObject(obj) {
+		wordCheck = obj;
+	}
+</script>, <script type="text/javascript">
+if (!window.nhn) window.nhn = {};
+if (!window.nhn.Blog) window.nhn.Blog = {};
+if (!window.nhn.Blog.SocialApp) window.nhn.Blog.SocialApp = {};
+
+var gsNDriveUrl = "https://mybox.naver.com";
+var gsStaticNetUrl = "https://ssl.pstatic.net/static";
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarAreaHandler-696228c_https.js" type="text/javascript"></script>, <script type="text/javascript">
+function openLoginPopup() {
+	var closeUrl = blogURL + "/post/common/reloadOpenerParentAndClose.jsp";
+	window.open(idURLSecret + "/nidlogin.login?mode=form&template=plogin&url="+closeUrl,"loginPopup","width=400,height=267");
+	return;
+}
+
+var blogId = 'carecare246';
+</script>, <script type="text/javascript">
+if ( typeof g_ssc == 'undefined') {
+	g_ssc = "blog.post";
+}
+if (typeof nsc == 'undefined') {
+    nsc = "blog.post";
+}
+
+var ccsrv="cc.naver.com";
+var nclk_evt = 3;
+
+var bIsNotLoginUser = "false" === "true";
+var sIdSecretUrl = 'https://nid.naver.com';
+
+
+</script>]
+90909090909090
+jungseungyeop
+userNaverId=feed_id2
+userNaverId jungseungyeop
+handles :  ['E135723ABCB086088DEC09B8025D0526']
+스탑
+status GOOD
+계정 상태 좋음 6
+status GOOD
+blogname_insert_data,blogname_insert_data superlaw11
+comment_insert_data,comment_insert_data 1~1
+사용될 댓글 내용: 추억 잘 쌓고 갑니다~
+first_data_title {'title': 'none', 'logid': 223743396729, 'blogname_insert_data': 'superlaw11'}
+Message: 요청을 성공적으로 처리하였습니다.
+resultlike 성공
+댓글 작업 다 끝내서 종료
+선택된 값 G:  0
+randomtimeAA 0
+asdf 0
+동작중 0
+randomtimeAA 0
+asdf 0
+동작중 1
+randomtimeAA 0
+asdf 0
+동작중 2
+randomtimeAA 0
+asdf 0
+동작중 3
+randomtimeAA 0
+asdf 0
+동작중 4
+모든 작업이 완료되었습니다. 2 (in task)->실제 tstorypost는 살아있음
+data_check 1
+data_check 1
+----------------------
+1
+[('1', 'https://blog.naver.com/superlaw11/223743396729', '0~0', '0~0', '1~1', '0~0', '동작')]
+크롬드라이버 강제 종료 성공
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/superlaw11/223727751341', '0~0', '0~0', '1~1', '0~0', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/superlaw11/223727751341', '0~0', '0~0', '1~1', '0~0', '대기')
+개수 :  1.0
+선택된 값 DD:  0
+체류시간 :  ['0', '0']
+blogname_insert_data https://blog.naver.com/superlaw11/223727751341
+1
+testLogID 223727751341
+['https:', '', 'blog.naver.com', 'superlaw11', '223727751341']
+testID superlaw11
+아이디 : ['superlaw11', 'jungseungyeop']
+비밀번호 : ['manman@@0110', 'carecare0110@@']
+닉네임 : ['superlaw11', 'carecare246']
+선택된 값 D:  0
+선택된 값 G:  0
+필터링된 계정: ['jungseungyeop'] ['carecare246']
+선택된 값 ((댓글)) :  1
+cookies_value_WEBBLOG 에서 current_proxy0 None
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile jungseungyeop 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile jungseungyeop
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile jungseungyeop)
+cookies [{'domain': '.naver.com', 'expiry': 1802235640, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Ur0gB4wzbt8F'}, {'domain': '.naver.com', 'expiry': 1767705859, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767705560'}, {'domain': '.naver.com', 'expiry': 1802265559, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'kCpB3cj9b7PZApijhD2pqm698sVHnMOc4CGlvofmcaw='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'FE635C6CAD50920810D32957998BEC5F.jvm1'}, {'domain': '.naver.com', 'expiry': 1767762040, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1767707359, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767701406'}, {'domain': '.naver.com', 'expiry': 1802265559, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3DCA4QXZSZOGS'}, {'domain': '.blog.naver.com', 'expiry': 1802236551, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b1c213fe-3a59-4898-9cc3-56dbfcb04b44'}, {'domain': '.naver.com', 'expiry': 1802236543, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'pSSz+CAhjn4QxZIQwmOMgkHOzXjIsX3jsiWGyBiEz/ARoFq3a2/fhJj3vnNI+Y3R'}, {'domain': '.naver.com', 'expiry': 1770268543, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1948513978'}, {'domain': '.naver.com', 'expiry': 1770297559, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhxeWn55U81Gkaklu/N9snEB8jEvJ6N8JH3D3GjnN+IFo9vmbVjkUGi/HSOQ+bfCSMPUp+Vut8umk3+0Rgwy+T7o/6NnBw2pvcfaak5Ae6jJxNMI5Z7qtj8ZzqJCBLmAmCW2/yIIxz/csUTQwL880RGdsLot1EXQUma0ALHmglD0UfeHm1jI46EbBN2c2gozCciBJ7XNQmZSVlYu3x/5OtubmhzUEDopdGPAL3DC2ZjtlC/YY9mECJRDFobP01Ev3CJjD0/a8jGt/eDZuGeMphwjyXcgEmVOClaca+5xxaNsuZHXLdSTQFUcqwbp2Ga0oBHLVoVJUJBUY0oXuTE8YXex9fBOY64EvRJT9hNmyPYFomg8x3qV5SREtf48hLSLoTd92IidgvGuVqf62PduDEEa9bQkpdwUR6hg7OtBujpV7DBOmjRQz7tvulx5adlkpz9cqXby1XiGMhxQS42IHNTfK17uFnUgcG61zIMP80QjgA9YuvL77Yb9WeK71yxtoEZNmLvdA5WAlIGHCrKxu1UI='}]
+NAC -> Ur0gB4wzbt8F
+SRT5 -> 1767705560
+BUC -> kCpB3cj9b7PZApijhD2pqm698sVHnMOc4CGlvofmcaw=
+JSESSIONID -> FE635C6CAD50920810D32957998BEC5F.jvm1
+NACT -> 1
+stat_yn -> 1
+SRT30 -> 1767701406
+NNB -> 3DCA4QXZSZOGS
+BA_DEVICE -> b1c213fe-3a59-4898-9cc3-56dbfcb04b44
+NID_AUT -> pSSz+CAhjn4QxZIQwmOMgkHOzXjIsX3jsiWGyBiEz/ARoFq3a2/fhJj3vnNI+Y3R
+nid_inf -> -1948513978
+NID_SES -> AAABhxeWn55U81Gkaklu/N9snEB8jEvJ6N8JH3D3GjnN+IFo9vmbVjkUGi/HSOQ+bfCSMPUp+Vut8umk3+0Rgwy+T7o/6NnBw2pvcfaak5Ae6jJxNMI5Z7qtj8ZzqJCBLmAmCW2/yIIxz/csUTQwL880RGdsLot1EXQUma0ALHmglD0UfeHm1jI46EbBN2c2gozCciBJ7XNQmZSVlYu3x/5OtubmhzUEDopdGPAL3DC2ZjtlC/YY9mECJRDFobP01Ev3CJjD0/a8jGt/eDZuGeMphwjyXcgEmVOClaca+5xxaNsuZHXLdSTQFUcqwbp2Ga0oBHLVoVJUJBUY0oXuTE8YXex9fBOY64EvRJT9hNmyPYFomg8x3qV5SREtf48hLSLoTd92IidgvGuVqf62PduDEEa9bQkpdwUR6hg7OtBujpV7DBOmjRQz7tvulx5adlkpz9cqXby1XiGMhxQS42IHNTfK17uFnUgcG61zIMP80QjgA9YuvL77Yb9WeK71yxtoEZNmLvdA5WAlIGHCrKxu1UI=
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=carecare246&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+===============
+scripts [<script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/global/RemoveSubDomain-12d2f16_https.js" type="text/javascript"></script>, <script>
+
+
+
+
+
+
+var mylogURL = 'https://blog.naver.com';
+var adminURL = 'https://admin.blog.naver.com';
+var noteURL = 'https://note.naver.com';
+var itemURL = 'https://item.naver.com';
+var cafeURL = 'https://cafe.naver.com';
+var profileURL = 'https://blog.naver.com';
+var blogURL = 'https://blog.naver.com';
+var blogURLHttp = 'https://blog.naver.com';
+var prologueURL = 'https://blog.naver.com';
+var sectionURL = 'https://section.blog.naver.com';
+var memologURL = 'https://blog.naver.com';
+var lifeURL = 'https://lifelog.blog.naver.com';
+var uploadURL = 'https://upload.blog.naver.com';
+var imageURL = 'https://blogimgs.pstatic.net';
+var attachURL = 'https://blogfiles.pstatic.net';
+var thumbnailURL = 'https://blogthumb.pstatic.net';
+var nonCachedThumbnailURL = 'https://blogthumb.pstatic.net';
+var filetransURL = 'http://filetrans.blog.naver.com';
+var item2_bridgeURL = 'http://bridge.item2.naver.com';
+var idURL = 'http://nid.naver.com';
+var idURLSecret = 'https://nid.naver.com';
+var mapviewURL = 'http://mapview.naver.com';
+var exifURL = 'https://exif-blog.ssl.phinf.net';
+var viewerImageUrl = imageURL + "/blog20/blog/layout_photo/viewer/";
+var domainURL = "";
+var greenReviewCampaignURL = 'http://campaign.naver.com';
+var writeURL = 'https://blog.naver.com';
+var spiURL = 'https://ssl.pstatic.net/spi';
+var blogProfileThumbnailUrl='https://blogpfthumb-phinf.pstatic.net';
+var naverCommentStaticURL = 'https://ssl.pstatic.net/static.cbox';
+var naverCommentApiURL = 'https://apis.naver.com/commentBox/cbox9';
+var naverCommentApiProxyURL = 'https://apis.naver.com/commentBox/blogid';
+var itemImagesURL = 'https://blogimgs.pstatic.net/item';
+
+var sCssUrlForPhotoLayer = 'https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/css/storyphoto_original_viewer-adf5d27_https.css';
+var commonStatDailyURL = 'https://blog.stat.naver.com';
+var baUrl = 'https://scv-blog.io.naver.com/jackpotlog/v1/logs';
+
+
+
+
+
+var blogId = 'carecare246' || 'carecare246';  
+var userId = 'carecare246'; 
+var userNo = '167114532'; 
+var userNaverId = 'jungseungyeop';
+var baUserKey = '0c5a6c7b6ebab2ee913169bea4ea94052b1f771baed56d8cf3a755dc74cbb032';
+var userIdNo = "2csUpG";
+
+
+
+var isWritingBlocked = false;
+var isWritingBlockedBySpamIP = false;
+var isWritingBlockedBySpamIPManually = false;
+var isLoggedIn = true;
+var isShortestContentAreaWidth = false;
+
+var blogOwner = true; 
+
+var blogNo = '167114532';
+var nickName = '법무법인에이블';
+var isInitializingBlog = false;
+var rightClickOpenYn = false;
+var isMylogBlocked = false;
+var isBlogBlock = false;
+var blockOrWriteBlock = false;
+var autoSourcingYn = true;
+
+
+var isMemolog = false;
+var isMemologList = false;
+var isPrologue = false;
+
+
+var isBlogMe = false;
+
+var isUsingUrl = false;
+
+
+var isRequestFromIPad = false;
+
+
+var isOverIOS5_0Version = false;
+var isOverAndroidJellybeanVersion = false;
+var isCommingNaverApp = false;
+var isUsingNaverKitkatEngine = false;
+var isAndroidKitkatVersion = false;
+
+var defaultSmartEditorVersion = 2;
+
+var adContentLocation = "-1";
+var gAdBucket = "";
+
+
+
+
+
+
+var readOnlyStatus = false;
+var readOnlyStatusAll = false;
+var readOnlyLinkErrorMsg = '죄송합니다. 블로그 서비스 점검 중입니다. \n점검 시간 동안은 기능 이용이 제한됩니다. \n자세한 내용은 블로그 홈 공지사항을 참고해주세요.';
+var readOnlyCommentMsg = '12월 17일(월) 오전 0시~8시 서비스 점검으로 댓글 작성이 제한됩니다. \n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+var sIsTagReadOnly = '';
+var sTagSorryText = '죄송합니다. 태그 서비스 점검 중입니다.\n점검 시간 동안은 일부 서비스 이용이 제한됩니다.\n자세한 내용은 공지사항을 참조하세요.';
+var blogQuickPostingUseType = "NOT_USING"; 
+
+
+
+
+var isCommentReadOnly = false;
+var sCommentReadOnlyBlockSubmit = '죄송합니다. 블로그 댓글, 답글 서비스 점검 중에는 이용이 제한됩니다.';
+var sCommentReadOnlyWriteMsg = '서비스 점검으로 댓글 작성이 제한됩니다.\n더욱 안정적인 서비스로 찾아뵙겠습니다. 불편하시더라도 조금만 기다려주세요.';
+ 
+
+
+
+
+
+
+
+var isJeagleDebug = false;
+
+
+
+
+
+var skinId = "0";
+var skinType = "C";
+
+var isEnglish = "false";
+
+var areaCode = "11B10101";
+var weatherType = "0";
+
+var currencySign = "ALL";
+
+var listNumVisitor = '5';
+var isVisitorOpen = true;
+var isCategoryOpen = true;
+var writingMaterialListType = '1'
+var previewCalType = '';
+
+
+
+var oExternalWidget = [];
+
+
+var calType = "";
+
+
+var curLog = 'https://blog.naver.com';
+var playerType = '0';
+var playerDesign = '0';
+
+
+var isCommentOpen = false;
+var listNumComment = 5;
+
+
+var isBuddyOpen = false;
+
+
+
+var userSelectMenu = '';
+
+
+var visitorgpData = '';
+var vigitorSetUrl = '';
+var vigitorPropUrl = '/versioning//common/swf/Widget/visitorGP/VisitorGP-50a2c61.xml';
+var visitorgp_vars = {
+	setUrl    : vigitorSetUrl,
+	req_url   : '/NVisitorgp4Ajax.naver?blogId=' + blogId,
+	prop_url  : vigitorPropUrl,
+	graphType : visitorgpData,
+	flashvars : function(){
+		return "req_url=" + this.req_url +"&prop_url=" + this.prop_url +"&graphType=" + this.graphType;
+	},
+	height    : 121
+};
+
+
+
+var watchData = '';
+var watch_design = {
+	name    : watchData.split('|')[0],
+	font    : watchData.split('|')[1],
+	color   : watchData.split('|')[2],
+	bgcolor : watchData.split('|')[3]
+}
+var watch_vars = {
+	blogId : blogId,
+	skinType : skinType,
+	skinId : skinId
+}
+
+
+var serviceId = '';
+var naverId = '';
+var happyBeanApiURL = '';
+var reqparam = '';
+var HAPPYBEAN_API_URL = "";
+var HAPPYBEAN_FUND_URL = "";
+//var HAPPYBEAN_MY_URL   = "";
+var HAPPYBEAN_DONATION_URL = "";
+
+
+
+
+var selectCategoryNo = "";
+
+
+var aNonWidget = ['rss', 'powered','adpost','buddyconnect','greenreview'];
+<!-- var aWidget = ['gnb', 'externalwidget','music'];  -->
+var aWidget = [];
+
+
+aWidget.push('profile');
+
+aWidget.push('category');
+
+aWidget.push('stat');
+
+aWidget.push('rss');
+
+aWidget.push('search');
+
+aWidget.push('buddyconnect');
+
+aWidget.push('title');
+
+aWidget.push('menu');
+
+aWidget.push('content');
+
+aWidget.push('gnb');
+
+aWidget.push('externalwidget');
+
+var bIsRemocon = false;
+var bIsPreview = document.location.href.indexOf("PostPreview.nhn") > -1 || document.location.href.indexOf("MemologMemoPreview.nhn") > -1;
+
+var isTopLayoutEmpty = false;
+
+var openSideType = "1";
+var foldSideType = "2";
+
+var g_ContentShareObject = {
+	adPostPreview : false,
+	adPostPreviewSide : false,
+	adPostPreviewContent : false,
+	adPostAlign : "",
+	adPostCount : ""
+};
+
+var blogDomainUrl = "";
+var sAjaxFlashUrl = '/versioning//common/lib/ajax.flash/ajax-885363e.swf';
+var isHappyBeanLeverage = false;
+
+
+var doc = document.documentElement;
+doc.setAttribute('data-useragent',navigator.userAgent);
+var gbIsNotOpenBlogUser = "false" === "true";
+var gbIsNPayAccepted = "false";
+var gbIsPayAcceptedOrBefore = "false";
+</script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Jindo152-313837964_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutTopCommon-1044321278_https.js" type="text/javascript"></script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/JindoComponent-190469086_https.js" type="text/javascript"></script>, <script type="text/javascript">
+	var gbTrackingCode = '';
+	var gbTrackingCodeReferer = '';
+</script>, <script type="text/javascript">JEagleEyeClient.setEnable(isJeagleDebug);</script>, <script type="text/javascript">
+	var autoCompleteToSearchSwitch = "true" === "true";
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarSearch-fb8fefd_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/LayerPopup-a141e19_https.js"></script>, <script src="https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PhotoViewerNew-88085474_https.js" type="text/javascript"></script>, <script>
+        window.profileImagePhotoViewerOn = true;
+    </script>, <script type="text/javascript">
+    $Fn(function () {
+        var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
+        var beyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+
+        PhotoViewerNew.initThumbnailTypeW3840EnableDomainListJson(thumbnailTypeW3840EnableDomainListJson);
+        if (typeof mylogBaEventSender != 'undefined' && typeof baUserKey != 'undefined') {
+            PhotoViewerNew.initBeyondAnalytics(mylogBaEventSender, beyondAnalyticsUrl, baUserKey)
+        }
+    }).attach(window, "load");
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/3.2.1/jquery-3.2.1-d2d8ca4_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/jquery.loadTemplate-1.5.10.min-c0311fc_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/lottie.min-0e23629_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/BlogDomainRegisterLayer-947857105_https.js" type="text/javascript"></script>, <script type="text/javascript">
+    jQuery.noConflict();
+</script>, <script type="text/javascript">
+	var gnb_service="blog";
+	var gnb_template="gnb_utf8";
+	var gnb_brightness=1;
+	var gnb_url='https://blog.naver.com/carecare246';
+	var gnb_logout = gnb_url;
+	var gnb_login = gnb_url;
+	var gnb_login_on_top = true;
+	var gnb_item_hide_option= 1|4|8|16|128;
+	var isGetGnbCalled = false;
+	
+	window.onload = function() {
+		if (!isGetGnbCalled) {
+			getGNB();
+			isGetGnbCalled = true;
+		}
+		setSkipNavigationInfo();
+	};
+	
+	//웹접근성 스킵네비게이션 설정
+	function setSkipNavigationInfo() {
+		var contentsId;
+		if ($("postListBody")) {
+			contentsId = "postListBody";
+		} else {
+			contentsId = "post-area";
+		}
+
+		if (contentsId) {
+			$("goContentsAreaLink").href = "#" + contentsId;
+
+			if (document.getElementById("goContentsAreaLink").addEventListener) {
+				document.getElementById("goContentsAreaLink").addEventListener(
+						'click', onClickChangeFocus, false);
+			} else if (document.getElementById("goContentsAreaLink").attachEvent) {	//IE8을 위한 이벤트 등록 리스너
+				document.getElementById("goContentsAreaLink").attachEvent(
+						'click', onClickChangeFocus);
+			}
+
+			function onClickChangeFocus() {
+				var t = document.getElementById(contentsId);
+				t.tabIndex = -1;
+				t.focus();
+				return false;
+			};
+		}
+	}
+
+
+	var goMarketAdmin = function (isWheelEvent) {
+		sendClickNlog('gnb_myb.itemlist','');
+		if (userAgentUtil.isSafariBrowser() || userAgentUtil.isUnderIE11VersionBrowser()){
+			if (confirm("이 브라우저는 현재 블로그 마켓 관리를 지원하지 않습니다.\n 네이버 웨일 등 다른 브라우저를 이용하시기 바랍니다.\n 지금 네이버 웨일을 설치하시겠습니까?")) {
+				window.open("https://whale.naver.com/ko/download");
+				return;
+			}
+
+			return;
+		}
+
+		if ("" === 'fee_not_set') {
+			if (confirm("배송비 설정을 마친 후 마켓 관리 메뉴에 접근할 수 있습니다. 배송비 설정으로 이동하시겠습니까?")) {
+				window.location = 'https://seller.blog.naver.com' + "/market/deliveryFee";
+				return;
+			}
+
+			return;
+		}
+
+
+		if(isWheelEvent){
+			window.open('https://seller.blog.naver.com' + "/market/my");
+			return;
+		}
+
+		if (window.parent) {
+			window.parent.location = 'https://seller.blog.naver.com' + "/market/my";
+			return;
+		}
+
+		window.location = 'https://seller.blog.naver.com' + "/market/my";
+	};
+</script>, <script charset="utf-8" id="gnb-script" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Tue Jan 06 22:19:27 KST 2026" type="text/javascript"></script>, <script type="text/javascript">
+    var doc = document.documentElement;
+    doc.setAttribute('data-useragent',navigator.userAgent);
+setTimeout(function() {
+	if (!isGetGnbCalled) {
+		getGNB();
+		isGetGnbCalled = true;
+	}
+}, 1500);
+</script>, <script id="naverCommentCustomCssTpl" type="text/template">
+#post-area .commentbox_header,
+#post-area .u_cbox \{background:{=comment} !important;\}
+
+#post-area .u_cbox .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_target_name,
+#post-area .u_cbox .u_cbox_comment .u_cbox_text_wrap,
+#post-area .u_cbox .u_cbox_date,
+#post-area .u_cbox .u_cbox_btn_report,
+#post-area .u_cbox .u_cbox_btn_unhide,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_cnt_page,
+#post-area .u_cbox .u_cbox_paginate .u_cbox_num_page,
+#post-area .commentbox_header .btn_write_comment,
+#post-area .commentbox_header .commentbox_pagination .num,
+#post-area .commentbox_header .btn_pagination .icon,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_stat_secret,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_ico_open \{color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_info_base .u_cbox_ico_bar \{background-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before \{border-color:{=pcol2} !important;\}
+
+#post-area .u_cbox .u_cbox_mine .u_cbox_name_area,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page .u_cbox_num_page,
+#post-area .commentbox_header .commentbox_pagination .num strong,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_ico_recomm:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on .u_cbox_cnt_recomm,
+#post-area .u_cbox .u_cbox_ico_editor .u_cbox_txt_editor \{color:{=pcol3} !important;\}
+
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn.on:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm_on:before,
+#post-area .u_cbox .u_cbox_ico_editor \{border-color:{=pcol3} !important;\}
+
+#post-area .u_cbox .u_cbox_content_wrap:before,
+#post-area .u_cbox .u_cbox_comment_box:before,
+#post-area .u_cbox .u_cbox_comment .u_cbox_write_wrap:before,
+#post-area .u_cbox .u_cbox_tool .u_cbox_btn_reply:before,
+#post-area .u_cbox .u_cbox_work_sub .u_cbox_work_box:before,
+#post-area .u_cbox .u_cbox_ico_reply,
+#post-area .u_cbox .u_cbox_paginate strong.u_cbox_page:before,
+#post-area .commentbox_header:before,
+#post-area .commentbox_header .btn_pagination a:before,
+#post-area .post-btn .postre .u_likeit_list_module .u_likeit_list_btn:before,
+#post-area .u_cbox .u_cbox_recomm_set .u_cbox_btn_recomm:before
+\{border-color:{=pcol2};\}
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/global/RemoveSubDomain-12d2f16_https.js" type="text/javascript"></script>, <script type="text/javascript">
+
+
+
+
+
+
+
+var isAutoPlayYN = false;
+
+
+var tagOpenModeType = '0';
+var tagMarkDisplayIfPostTagEmpty = false;
+
+var categoryNo = '';
+var parentCategoryNo = '';
+var categoryParentCategoryNo = '';
+var currentCategoryNo;
+if(categoryNo=="" && parentCategoryNo == ""){ 
+	currentCategoryNo = 0;
+}else if((categoryNo=="" || categoryNo=="0") && parentCategoryNo != ""){  
+	currentCategoryNo = parentCategoryNo;
+}else if(categoryNo!=""){  
+	currentCategoryNo = categoryNo;
+}
+
+var viewDate = '' || ''; 
+
+
+
+var isFromSearch = false;	
+var isFromSection = false;	
+
+var forFocusingTargetId = "";
+
+var isFirstPage = false;	
+var from = '';	
+var search_logNo = "";
+
+var postListTopCurrentPage = '';
+var categoryName = "";
+
+var gsGfMarketUrl = 'http://m.gfmarket.naver.com';
+
+
+var userTopListCurrentPage = "";
+var userTopListCount = "";
+var userTopListOpen = false; 
+var userTopListManageOpen = false; 
+var isTopListOpen = false; 
+var topListPostCount = "5"; 
+
+var isTopListCategoryEmpty = true;
+if (!isTopListCategoryEmpty) {
+	isTopListOpen = false; 
+	topListPostCount = ""; 
+}
+
+var isThumbnailList = false;
+var isThumbnailView = false;
+
+var aPostSendInfo = [];
+var aPostBaseInfo = [];
+var aPostFiles = [];
+var aPostVideoInfo = [];
+var aPostImageFileSizeInfo = [];
+var aPostAutoSourcingHtmlView = [];
+var aQueuePost = []; 
+var htInitData = [];
+
+var paramLogNo = '';
+var blogId = 'carecare246';
+var isAfterWrite = false;
+
+
+var isRecommendedBlog = false;
+
+var gdidTag = [];
+var g_ssc = "blog.post";
+var nsc = "blog.post";
+var nFirstLogNo = "";
+var pagePerPostCount = 1;
+
+
+var sCommentNoPosition = '';	
+var isCommentAreaOpen = false;
+var postBottomOptionalAreaType = '';
+var commentAreaOpenType = '';
+var isRelayAreaOpen = false;
+var isSympathyAreaOpen = false;
+var relayAreaOpenType = '';
+var firstPostLogNo = "";
+var firstPostIsAllOpenPost = false;
+var searchImg = '';
+var searchVid = '';
+var blockedBlog = 'false';
+var videoAutoPlay = blockedBlog === 'false';
+
+
+var currentPage = '1';
+var tagParam = '' || '&logNo=224132164014';
+
+
+var imageWidth = '' || '936';
+
+
+var maxNoticePostCount = '5';
+var gbIsPostCommentOpen = false;
+
+
+var isDoPostAggregate = false;
+
+
+var apiGwUrl = 'https://apis.naver.com/';
+var likeItVideoEnable = true;
+var likeItVideoIdListJson = '[]';
+var likeItVideoContentsIdMapJson = '{}';
+
+
+
+var blogNicknameOrBlogId = '법무법인에이블';
+
+
+var videoPlayerUrl = "https://ssl.pstatic.net/t.static.blog/mylog/versioning//lib/prismplayer/prismplayer-pc-1.0.6.min-b19d4f3_https.js";
+var advertiseInfoUrl = 'https://api.tv.naver.com';
+var isDevPhase = "false";
+var isStagePhase = "false";
+var isNotHasSe3AndSeOne = false;
+var isScrap = 'false' === 'true';
+
+var postAdvertiseEnableYN = false;
+
+var rproductId = '';
+var bLoginUser = 'true' === 'true';
+var isVideoSubtitleInsertEnable = 'true'  === 'true';
+
+var userNaverId = 'jungseungyeop';
+var showCoupon = '' === 'true';
+var gPcUrl = 'https://blog.naver.com';
+var hasProduct = 'false' === 'true';
+var feEnv = 'real';
+var infEnv = 'real';
+var	gbIsInf = "" == "true" ? true : false;
+var endPageProductMap = JSON.parse('{"224132164014":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"tradeInterruptionSeller":false,"temporaryStopSeller":false,"leaveRequestSeller":false}}');
+var feMobileUrl= "https://fe-m.blog.naver.com";
+
+var blogModuleJs= "https://feblog.pstatic.net/module/real/market/market_1.0.0/js/market.js";
+
+var itemFactoryDomainDisabled = "true" === "true";
+
+var powerLinkABATestJson = JSON.parse('{}');
+var beyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+var baUserKey = "0c5a6c7b6ebab2ee913169bea4ea94052b1f771baed56d8cf3a755dc74cbb032";
+var userIdNo = "2csUpG";
+
+
+
+
+
+
+
+
+	gUserId = "carecare246";
+	gBlogId = "carecare246";
+	gSE3Url = "https://blog.editor.naver.com/";
+    gsSesseionId = "EB6022D944A4E08A0CBFFB5035C40896.jvm1";
+    gsSearchKeyword = "";
+    gsBlogOwnerYn = true? "Y" : "N";
+    
+    gIsRabbitWriterOn = 'true';
+	gsSaInfo = "";
+	gbIsNotOpenBlogUser = "false" === "true";
+	gUserNaverId = "jungseungyeop";
+
+	
+	
+		nFirstLogNo = "224132164014";		
+        gnFirstLogNo = "224132164014";
+        gsFirstCategoryName = "\uAD50\uD1B5\uC0AC\uACE0\uC815\uBCF4";
+
+	
+	
+	gdidTag[1] = "90000003_00000000000000342F5169AE";
+	aPostAutoSourcingHtmlView[1] = "";
+	
+	
+		aPostFiles[1] = JSON.parse('[]'.replace(/\\'/g, ''));
+	
+	aPostVideoInfo[1] = [];
+	
+	aPostImageFileSizeInfo[1] = '{\'\/MjAyNjAxMDJfMjQz\/MDAxNzY3MzYyNzMyMTI0.CM3qxEECkn2KDZcq-aDvMAkar-Y21zOqR74C3RRf_3Ig.w-l_fwd9ZPXow_pdhKHEmXz7FMmCnHV1eW6tBiyJ7X4g.PNG\/image.png\': \'237,146|image.png\' , \'\/MjAyNjAxMDJfMTEg\/MDAxNzY3MzYyNzMyODc1.3rhEKYqNI_8J6idFLJ0ngpBCVPpfcGstzDSawW0gvbkg.z83eD8s4hbVqrNXUnlVNmS9_KABUao9luLbEViXVrX4g.PNG\/image.png\': \'275,049|image.png\' , \'\/MjAyNjAxMDJfNTAg\/MDAxNzY3MzYyNzMzNTUz.56T29y4-BjMLxTIROI0Cm_2ns16Stgx4EtEkBhJd_Ssg.BHAhG5s26B4xsIYHC68ho72QrH6oDxHP8Bbrp4VjvD4g.PNG\/image.png\': \'316,826|image.png\' , \'\/MjAyNjAxMDJfOTEg\/MDAxNzY3MzYyNzM0Mzk5.ThIAc4W6oohLpcVn_sWvFKTJj8JJVbcMD6oU08TWAh4g.IhdT9AFYwgitXT_NLStm9JnzeuiaOQIivKh-5mvouowg.PNG\/image.png\': \'335,580|image.png\' , \'\/MjAyNjAxMDJfMjky\/MDAxNzY3MzYyNzM1MDQ0.LClM5R1wKBQMCfxzADdyd76-k0jr0Skpow1bPeFBxMMg.wCbenmmrobp5x8kt9cXV8RvyDo_fic4nFKR-_4gOa-Mg.PNG\/image.png\': \'230,814|image.png\' , \'\/MjAyNjAxMDJfMjc1\/MDAxNzY3MzYyNzM1OTY5.uBb1JMCGgwGUcjpUN0lr1g6r8-7x1UlbjidG9gGaUpUg.8XOmHD0-Qii8LNhYlcAzoDKJ5mlz-8sOgPTLhGl4AOYg.PNG\/image.png\': \'243,239|image.png\' , \'\/MjAyNjAxMDJfMjE1\/MDAxNzY3MzYyNzM2NjI4.QYKzV1qN4yNp2emqQPK_xmrxbfEZlIsLtEH6ZvkL-CQg.4Qirby8EDnNuXjcE9Hwqex-gwEhReyL0JA8CvJPs3Y8g.PNG\/image.png\': \'263,126|image.png\' , \'\/MjAyNjAxMDJfMTA4\/MDAxNzY3MzYyNzM3NDIw.DBw7Mj8qTu-5d4XR8GePHriCdeo3ObrARbU9L-H5QGkg.Qxy6v87PisjS7NOM7g5_z6dHF2nTaJvqbRxL9szGDDgg.PNG\/image.png\': \'268,396|image.png\' , \'\/MjAyNjAxMDJfMjIy\/MDAxNzY3MzYyNzM4MDc0.68VQ2ehakBOITrdmzs25PMnISqqe34h92AYzmzIyxIsg._IYerkqagu2Z2hPW5mvMBXEW18tAW0xWUCiLMUGp4Ecg.PNG\/image.png\': \'256,211|image.png\' , \'\/MjAyNjAxMDJfMjU3\/MDAxNzY3MzYyNzM4NzI3.DV8VR9Qc7XBUkUzyJGSxbocXPVzKZIjH2n9oXdzDcHAg.qUthw-0Tja1jb-OGK7PrX_CCdBiIC1lVwH-bBu4st6sg.PNG\/image.png\': \'252,362|image.png\' , \'\/MjAyNjAxMDJfMjIz\/MDAxNzY3MzYyNzM5Mzcw.YLnUBvSxcRhx1KAp31yJggvwhP3_DEVmJfQ0Guf2tzIg.ujc-FXzygR11boZ_QHCkdNhCh6cfPWfe2LraGNJvwNkg.PNG\/image.png\': \'298,125|image.png\' , \'\/MjAyNjAxMDJfMTk0\/MDAxNzY3MzYyNzQwMTAz.EJ6nexyWIy88KBqyJzZDQ-VZq8-KdlFStV2I_R9HrZog.tGOw26kO2a9XcwCw22YiyitRws4p0SQR_Q4fnEnDhPIg.PNG\/image.png\': \'185,938|image.png\'}';
+	aPostSendInfo[1] = [];
+	aPostBaseInfo[1] = "224132164014|0|1|1||0|false|4|MYLOG";
+	aQueuePost.push({logNo : '224132164014',tagNames : ''}); 	
+
+
+
+
+
+
+
+
+//<!--
+	htInitData[0] = {
+		
+		
+		style  : "text",
+		
+		textClass : "pcol2",
+		barClass : "fil3 pcol2b",
+		align : "right",
+		onLoginRedirect : function() {window.open("https://nid.naver.com/nidlogin.login?svctype=16448&url=" + encodeURIComponent(blogURL + "/post/common/reloadOpenerParentAndClose.jsp"), "", 'width=400px, height=500px, scrollbars=yes, resizable=yes');},
+
+		evkey  : "blog",
+		servicename : "블로그",
+		title  : "\uC81C\uC8FC\uACF5\uD56D\uC11C \uC9C4\uC5D0\uC5B4 \uC804\uB825\uC7A5\uCE58 \uACFC\uC5F4\u2026122\uBA85 \uB300\uD53C",
+		source : "https://blog.naver.com/carecare246/224132164014",
+		me2key : "",
+		tags   : ["네이버블로그", "\u2192\u2192\u2192\uBC95\uBB34\uBC95\uC778\uC5D0\uC774\uBE14\u2190\u2190\u2190"],
+
+
+		me : {
+			
+			display:"off",
+			
+			feedInfo : "블로거의 글이",
+			popupType : "C",
+			targetUrl : "/subscribe/blog/applyFeedRelation.nhn",
+			serviceId : "blog",
+			feedGroupId : "neighbor",
+			feedId : ["carecare246"],
+			feedName : ["\u2192\u2192\u2192\uBC95\uBB34\uBC95\uC778\uC5D0\uC774\uBE14\u2190\u2190\u2190"],
+			feedUrl : ["https://blog.naver.com/carecare246" ],
+			selected : ['Y']
+		},
+		
+
+		
+		
+		
+		me2day : {sourceUrl : "https://blog.naver.com/PostView.naver?blogId=carecare246&logNo=224132164014"},
+		
+		
+
+		
+		
+		
+		mail : {
+			srvid   : "blog",
+			srvurl  : "http://bookmark.naver.com/getRichMailTmpl.ajax?sourceUrl="
+			 + encodeURIComponent("https://blog.naver.com/PostView.naver?blogId=carecare246&logNo=224132164014")
+		},
+		facebook : {sourceUrl : "https://blog.naver.com/PostView.naver?blogId=carecare246&logNo=224132164014"},
+		
+		
+
+		cafe : {
+			proxyUrl : "/ScrapToCafe.naver?blogId=carecare246&logNo=224132164014&inAppNavigation=true" 
+			
+		},
+		blog : {
+			
+			display:"off",
+			
+			proxyUrl : "/ScrapToBlog.naver?blogId=carecare246&logNo=224132164014&loadOnModalView=true&template=modal&isShowingGnb=false"
+		}
+	};
+
+
+// 스크립트 오류를 방지하지 위해서 막아논 부분.
+//-->
+function splugin_oninitialize(nCount) {
+	return htInitData[nCount - 1];
+}
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostTopCommon-603656815_https.js" type="text/javascript"></script>, <script type="text/javascript">
+var MrBlog = $Class({
+	$init : function(){
+		this.elMrBlogContents = $('mrblogcontents');
+		this._setEvent();
+	},
+
+	_setEvent : function(){
+		$Fn(this._onClick,this).attach(this.elMrBlogContents, 'click');		
+	},
+
+	_onClick : function(we){
+		var el = we.element;
+		var welAnchor = $Element(utility.getElement(el, 'a') || el);
+		if(!welAnchor){return;}
+		var aParam = utility.getParam(welAnchor.className());
+		if(welAnchor.hasClass("_goAnswer")){this.goAnswer(we);}
+	},
+
+	goAnswer : function(we) {
+		sendClickNlog('mrb.answer','');
+	} 
+});
+var mrBlog = new MrBlog();
+</script>, <script class="__se_module_data" data-module-v2='{"type": "v2_text", "id": "SE-d0ffed38-14e5-45b0-8edc-3ca2527bd6a4", "data": {"ctype": "text"  }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_text", "id": "SE-75022f08-4596-4686-aacf-52ab68580f38", "data": {"ctype": "text"  }}' type="text/data"></script>, <script class="__se_module_data" data-module-v2='{"type": "v2_image", "id": "SE-e94fb879-58e5-4d17-91de-9dd583c9cfc6", "data": {"ctype": "image", "ai": "false", "fileSize": "332701" }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_imageGroup", "id" :"SE-51572e02-482f-45ce-93c4-8771b8dc5014", "data": { "layout" : "slide" }}' data-module-v2='{"type": "v2_imageGroup", "id": "SE-51572e02-482f-45ce-93c4-8771b8dc5014", "data": {"ctype": "imageGroup", "layout": "slide", "images": [ {"ctype": "image", "id": "SE-dca729f3-35c0-4ce1-b60d-1d73f137a2ba", "ai": "true", "fileSize": "237146" } , {"ctype": "image", "id": "SE-fec41b42-da68-478a-b445-a18d0f4be57c", "ai": "true", "fileSize": "275049" } , {"ctype": "image", "id": "SE-0a8e7c45-d043-43c7-a86f-a84f90325463", "ai": "true", "fileSize": "316826" } , {"ctype": "image", "id": "SE-c379b926-8f6d-407e-ba6a-c503cc66092e", "ai": "true", "fileSize": "335580" } , {"ctype": "image", "id": "SE-7bfcbbbd-ff2c-4544-b212-5bdf001f8067", "ai": "true", "fileSize": "230814" } , {"ctype": "image", "id": "SE-1865fc0f-3de2-4c8e-a4f1-60807a981583", "ai": "true", "fileSize": "243239" } ] }}' type="text/data"></script>, <script class="__se_module_data" data-module='{"type":"v2_imageGroup", "id" :"SE-883b91c4-52fa-4f37-b0e4-b4b4c3f408d8", "data": { "layout" : "slide" }}' data-module-v2='{"type": "v2_imageGroup", "id": "SE-883b91c4-52fa-4f37-b0e4-b4b4c3f408d8", "data": {"ctype": "imageGroup", "layout": "slide", "images": [ {"ctype": "image", "id": "SE-94de21e4-3cc5-4f10-b52f-ea16f9233250", "ai": "true", "fileSize": "263126" } , {"ctype": "image", "id": "SE-8c823dfa-4e48-4c66-82b4-51bdddd880ac", "ai": "true", "fileSize": "268396" } , {"ctype": "image", "id": "SE-353ba9ad-1f2a-4b5d-95ee-02afd7d708de", "ai": "true", "fileSize": "256211" } , {"ctype": "image", "id": "SE-3b4f8573-7317-4c65-8b3b-f23c3f961373", "ai": "true", "fileSize": "252362" } , {"ctype": "image", "id": "SE-c09ebd13-52d3-4613-9722-b6a2b9bd8c68", "ai": "true", "fileSize": "298125" } , {"ctype": "image", "id": "SE-7e5f5426-a81b-486b-a489-c932e8ba317b", "ai": "true", "fileSize": "185938" } ] }}' type="text/data"></script>, <script src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/SspAdPost-511951527_https.js" type="text/javascript"></script>, <script>
+									var gAdPostUnitIdForPC = false;
+									var gNotAdPostUnitIdForPC = "pc_blog_bottom_nrs";
+								</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//lib/egjs/visible.pkgd.min-7735f57_https.js" type="text/javascript"></script>, <script type="text/javascript">
+function ImageLazyLoader(selectors) {
+   this.selectors = selectors;
+}
+
+var imageLazyLoadVisible = new eg.Visible(document, {
+    targetClass : "egjs-visible",
+    expandSize : "100"
+});
+
+var imageLoad = function(el) {
+    var img = $Element(el);
+
+    // gifmp4인 경우 재생처리
+    if (img.hasClass("_gifmp4") && img._element.tagName === "VIDEO" && img._element.paused) {
+        img._element.play().catch(function(){
+            var gifUrl = img.attr("data-gif-url");
+            if (!gifUrl) {
+                return;
+            }
+            img.attr("poster", gifUrl);
+        });
+        return;
+    }
+
+    var realSrc = img.attr("data-lazy-src");
+    if (!realSrc) {
+        return;
+    }
+
+    img.attr("src", realSrc);
+    img.attr("data-lazy-src", "");
+};
+
+ImageLazyLoader.prototype.loadImages = function () {
+    var containers = this.selectors instanceof HTMLElement ? [this.selectors] : jindo.$$(this.selectors);
+    $A(containers).forEach($Fn(function (element) {
+        this.loadImagesForEachContainer($Element(element));
+    }, this).bind());
+
+    imageLazyLoadVisible.on("change", function(e) {
+        e.visible.forEach(imageLoad);
+    });
+
+    imageLazyLoadVisible.check();
+};
+
+
+ImageLazyLoader.prototype.loadImagesForEachContainer = function (postContentArea) {
+    $A(postContentArea.queryAll("img")).forEach($Fn(function (imgEl) {
+        $Element(imgEl).addClass("egjs-visible");
+    }, this).bind());
+
+    $A(postContentArea.queryAll("video._gifmp4")).forEach($Fn(function (imgEl) {
+        $Element(imgEl).addClass("egjs-visible");
+    }, this).bind());
+
+    //marquee tag안에 이미지가 있을경우 이미지가 loading되지 않는 현상이 발생하여 예외처리 진행
+    $A(postContentArea.queryAll("marquee")).forEach(function (marqueeEl) {
+        $A($Element(marqueeEl).queryAll("img")).forEach(function (img) {
+            imageLoad(img);
+        });
+    });
+};
+
+var imageLazyLoader = new ImageLazyLoader("#postListBody .post, .post.prologue");
+imageLazyLoader.loadImages();
+
+$Fn(function() {
+    $Fn(function(){
+        imageLazyLoadVisible.check();
+    }).attach(window, "scroll");
+}).attach(window, "domready");
+
+$Fn(function() {
+    imageLazyLoadVisible.check();
+}).attach(window, "load");
+
+</script>, <script type="text/javascript">
+	
+
+	var isConvertEnabled = 'true' === 'true';
+
+	function closeCompletePopup() {
+		var lyr_popup = document.getElementById("challengePopLayer");
+		lyr_popup.style.display = 'none';
+		window.document.body.style.overflow = '';
+
+		var lyr_popup_dimmed = document.getElementById("challengePopLayerDimmed");
+		if (lyr_popup_dimmed) {
+			lyr_popup_dimmed.style.display = 'none';
+		}
+	}
+
+	function suggestConvert(logNo, isSupportSE3, scrapPostYn, editorversion) {
+
+		if (isConvertEnabled && !isSupportSE3) {
+
+			if (editorversion === 1) {
+				alert("SE1.0 으로 작성된 글로\n수정 발행 시 이미지가 모두 사라집니다.\n글 내 이미지를 저장하여\n재업로드 후 발행 부탁 드립니다.");
+			}
+
+			if (confirm("스마트에디터 ONE으로 글을 수정합니다.\n발행 전에 글감이 잘 노출되는지 확인해 주세요.")) {
+				location.href = "carecare246/postupdate?logNo=" + logNo + "&isConvert=true";
+			}
+		} else {
+			location.href = "carecare246/postupdate?logNo=" + logNo;
+		}
+	}
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostViewBottom-564783722_https.js" type="text/javascript"></script>, <script type="text/javascript">
+	
+	postViewBottomTitleListController.start(blogId, nFirstLogNo, '' == 'true', parentCategoryNo, currentCategoryNo, categoryName, viewDate, '', from, 'false', '');
+</script>, <script type="text/javascript">
+    var fromClosedPost = "false" === "true";
+    var isStage = "false" === "true";
+    var blogRealHttpDomain = "http://blog.naver.com";
+    var blogNewsProxyUrl = "https://blog.naver.com/api/news/article";
+	var nilOptions = {
+        devMode: "true"=="false",
+            topReferer : (function() {
+                if (fromClosedPost) {
+                    return '';
+                }
+
+                var ref = "";
+                var isMobile = function() {
+                    return window.location.host.indexOf('m.blog.naver.com') >= 0;
+                };
+
+                if (isMobile()){
+                    return document.referrer;
+                } else {
+                    if (ref == '') {
+                        if (parent != window && parent.location.href == document.referrer) {
+                            return '';
+                        } else {
+                            return document.referrer;
+                        }
+                    } else {
+                        return ref;
+                    }
+                }
+            })()
+	}
+</script>, <script charset="utf-8" id="socialPluginCustomTag" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?v=1473087.0"></script>, <script>
+	window.onload = function() {
+        window.__splugin = SocialPlugIn_Core({
+            //소셜 플러그인 기본 설정
+            // nEvent Key
+            "evKey"       : "blog",
+            // 서비스명
+            "serviceName" : "블로그",
+            // 출처
+            "sourceName"  : "\u2192\u2192\u2192\uBC95\uBB34..",
+            "sendNClick"  : 'off',
+            "nClickCode" : {
+                'blog': { 'in': 'shr_lyr.blog', 'out': 'shr.blog' },
+                'cafe': { 'in': 'shr_lyr.cafe', 'out': 'shr.cafe' },
+                'bookmark': { 'in': 'shr_lyr.bookmark', 'out': 'shr.bookmark' },
+                'memo':     { 'in': 'shr_lyr.memo',     'out': 'shr.memo' },
+                'mail':     { 'in': 'shr_lyr.mail',     'out': 'shr.mail' },
+                'band':     { 'in': 'shr_lyr.band',     'out': 'shr.band' },
+                'line':     { 'in': 'shr_lyr.line',     'out': 'shr.line' },
+                'twitter':  { 'in': 'shr_lyr.twitter',  'out': 'shr.twitter' },
+                'facebook': { 'in': 'shr_lyr.facebook', 'out': 'shr.facebook' },
+                'weibo':    { 'in': 'shr_lyr.weibo',    'out': 'shr.weibo' },
+                'reddit':   { 'in': 'shr_lyr.reddit',   'out': 'shr.reddit' },
+                'copyurl':  { 'in': 'shr_lyr.copyurl' },
+                'release':  { 'out': 'shr.sharebtn' }
+        	},
+			"darkMode"      : false
+        });
+	}
+	</script>, <script defer="" src="https://editor-static.pstatic.net/v/basic/1.70.1/se.viewer.js?v=1.70.1-20251015184820" type="text/javascript"></script>, <script type="text/javascript">
+    var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
+    var photoViewerSocialPluginInfoJson = document.getElementById('socialPluginInfoJson').innerText;
+    var photoViewerBeyondAnalyticsUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+    $Fn(function () {
+        PhotoViewerNew.init(mylogBaEventSender,
+            photoViewerBeyondAnalyticsUrl,
+            baUserKey,
+            photoViewerSocialPluginInfoJson,
+            thumbnailTypeW3840EnableDomainListJson);
+    }).attach(window, "load");
+</script>, <script charset="utf-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/PostBottomCommon-933883609_https.js" type="text/javascript"></script>, <script type="text/javascript">
+new InstallBlogAppPush();
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/versioning_nil_ntm-2034686_https.js" type="text/javascript"></script>, <script type="text/javascript">
+        var urlDomain = 'http://blog.naver.com';
+
+        // stage의 경우 real과 동일하게 집계되게 하기 위하여 real로 처리
+        if(isStage){
+            urlDomain = blogRealHttpDomain;
+        }
+
+        var nilNtmLibUrl = "https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/nilForNtm-89afd2f_https.js";
+        var gdid = '90000003_00000000000000342F5169AE';
+        var firstTitle = '\uC81C\uC8FC\uACF5\uD56D\uC11C \uC9C4\uC5D0\uC5B4 \uC804\uB825\uC7A5\uCE58 \uACFC\uC5F4\u2026122\uBA85 \uB300\uD53C';
+        var sBlogIdForNil = 'carecare246';
+        var uri = urlDomain + '/carecare246/224132164014';
+        var relationType = 0;
+        var blogOwnerRelationType = 0;
+        var referrer = nilOptions.topReferer;
+        var dimension_1 = "";
+        var optional_1 = true;
+        var event_category = "post_view";
+        var isNilAnalystLeaveEvent = "";
+        var isPostList = !!isPostList;
+        // postList 인 경우, 첫번째 포스트에 대한 상품 첨부 여부를 보낸다.
+        var firstPostHasProduct = false;
+        //ba
+        var postWriteDate = "1767362834403";
+        var attachmentSetCount = null;
+        var postTopics = null;
+
+        $Fn(function () {
+            try {
+                new nilNtmForBlogCVAnalyst(sBlogIdForNil, uri, relationType, gdid, dimension_1, referrer, optional_1, event_category, nilNtmLibUrl, isPostList, isNilAnalystLeaveEvent, firstPostHasProduct);
+            } catch (e) {}
+        }).attach(window, "load");
+
+    </script>, <script charset="utf-8" src="https://static-like.pstatic.net/js/reaction/dist/reaction.min.js?v=1473087.0" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/like/reaction.lottie-03755cf_https.js" type="text/javascript"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Tutorial-356186781_https.js" type="text/javascript"></script>, <script type="text/javascript">
+
+$Fn(function() {
+    try {
+        reaction.init({
+            type: "face",
+			domain : "https://blog.like.naver.com",
+			staticDomain : "https://static-like.pstatic.net",
+            cssId : "blog",
+            isMobile : false,
+            maxCount : 9999,
+            isHiddenCount : false,
+            highlightCount : 50,
+            highlightClassname : "double_heart",
+			isUseApigw : true,
+			isZeroFace: true,
+			isDuplication: false,
+			apigwInfo : {
+				domain : "https://apis.naver.com/blogserver/like",
+				pool : "blogid"
+			},
+			isAllowLongPress: true,
+			faceButtonMaxIconCount: 3,
+            callback : {
+                click : function(param){
+					if (gbIsNotOpenBlogUser) {
+						var oOptions = {
+							wrapperDivId: "domainRegisterWrap"
+							, title: "공감을 남기려면 블로그 아이디가 필요해요."
+							, confirmBtnValue: "아이디 만들기"
+							, win: window
+							, isLightVersion: true
+							, clickCodePrefix : "bsu*l.like"
+							, initialCode : "bsu*l.like"
+							, callbackFn: function () {
+								location.reload();
+							},
+							apiUrl: {
+								recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+								duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+								blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver"
+							}
+						};
+						blogDomainRegisterLayer.init(oOptions);
+						blogDomainRegisterLayer.show();
+						return false;
+					}
+
+					try {
+						var cid = param.target.closest(".u_likeit_list_module").getAttribute("data-cid")
+						oSympathyLayer.reloadLogNo =  cid.substring(cid.lastIndexOf("_")+1)
+					} catch(e) {}
+                },
+                clicked : function(){
+                    oSympathyLayer.reloadSympathyLayer();
+                }
+            }
+        });
+
+		ReactionLottie(".u_ico._icon", function(element) {
+			return element.parentElement.getAttribute("data-type");
+		});
+    } catch(e){}
+
+    //튜토리얼
+    
+
+	//블로그마켓 웰컴
+	
+
+	// 블로그 마켓 탈퇴 알림
+	
+
+}).attach(window, "load");
+
+var isPostList = true;
+
+function showBlogDomainRegisterLayer(event){
+	event.preventDefault();
+	event.stopPropagation();
+
+	var oOptions = {
+		wrapperDivId: "domainRegisterWrap"
+		/*, registerBtnEl: angular.element(document.querySelector(attr['bgBlogDomainRegisterBtnId']))*/
+		, title: "사용하실 블로그 아이디를 입력해주세요."
+		, confirmBtnValue: "확인"
+		, win: window
+		, isChangeLayer: false
+		, clickCodePrefix : "bsu*i."
+		, initialCode: "bsu*i"
+		, callbackFn: function () {
+			location.reload();
+		},
+		closeFn: function () {
+			location.reload();
+		},
+		apiUrl: {
+			recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+			duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+			blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver",
+			blogBasicInfoUpdateUrl: "/blogdomain/BlogBasicInfoUpdate.naver",
+			profileImageUploadUrl: "/blogdomain/ProfileImageUpload.naver",
+			profileImageUploadFromUrlUrl: "/blogdomain/ProfileImageUploadFromUrl.naver",
+			blogInfoUrl: "/blogdomain/BlogBasicInfo.naver",
+			recommendBlogByPersonalThemeListUrl: "/blogdomain/RecommendBlogByPersonalThemeList.naver",
+			recommendBlogAddBuddyUrl: "/blogdomain/SimpleBuddyAdd.naver",
+			recommendBlogRemoveBuddyUrl: "/blogdomain/SimpleBuddyRemove.naver",
+			profileDefaultImageUrl: "/blogdomain/ProfileDefaultImage.naver",
+			personalThemeUpdateUrl: "/blogdomain/SimplePersonalThemeUpdate.naver",
+			personalThemeListUrl:"/blogdomain/SimplePersonalThemeList.naver"
+		},
+		blogUrl: blogURL
+	};
+	blogDomainRegisterLayer.init(oOptions);
+	blogDomainRegisterLayer.showSuggestionLayer();
+}
+
+function showBlogDomainRegisterLayerBuddyAdd() {
+	var oOptions = {
+		wrapperDivId: "domainRegisterWrap"
+		, title: "이웃을 추가하려면 블로그 아이디가 필요해요."
+		, confirmBtnValue: "아이디 만들기"
+		, win: window
+		, isLightVersion: true
+		, clickCodePrefix : "bsu*l.add"
+		, initialCode: "bsu*l.add"
+		, callbackFn: function () {
+			location.reload();
+		},
+		apiUrl: {
+			recommendDomainListUrl: "/blogdomain/RecommendBlogDomainList.naver",
+			duplicateCheckUrl: "/blogdomain/BlogDomainDuplicateCheck.naver",
+			blogDomainRegisterUrl: "/blogdomain/BlogDomainRegistration.naver"
+		}
+	};
+	blogDomainRegisterLayer.init(oOptions);
+	blogDomainRegisterLayer.show();
+}
+
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/jquery/3.2.1/jquery-3.2.1-d2d8ca4_https.js" type="text/javascript"></script>, <script type="text/javascript">
+    jQuery.noConflict();
+</script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/lib/ntm/ntm-blog-web-0f5c6ad_https.js"></script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/NtmBaLog-986277545_https.js" type="text/javascript"></script>, <script>
+    var baParams = {};
+    // [BA] 공통
+    baParams.baUrl = "https://scv-blog.io.naver.com/jackpotlog/v1/logs";
+    baParams.baSceneId = 'blog_home';
+    
+    baParams.baUserKey = '0c5a6c7b6ebab2ee913169bea4ea94052b1f771baed56d8cf3a755dc74cbb032';
+    baParams.trackingCode = '';
+    
+
+    // [BA] post_end, blog_home, category
+    
+    baParams.blogNo = '167114532';
+    
+
+    // [BA] post_end, comment
+    
+    baParams.logNo = '224132164014';
+    
+
+    // [BA] blog_home
+    
+    baParams.bRelationType = '0';
+    baParams.uRelationType = '0';
+    
+
+    // [BA] category
+    
+
+    // [BA] lnb
+    
+
+    // [BA] search
+    baParams.range = '';
+    baParams.searchText = '';
+
+    // [BA] admin
+    baParams.settingMenu = '';
+
+    MylogPageViewSender.init(baParams);
+</script>, <script id="tpl_video" type="text/template">
+	<span class="ico_video">동영상</span>
+</script>, <script id="tpl_recommend_buddy" type="text/template">
+<strong class="tit">{=recommendTitle}</strong>
+<div class="lyr_cont">
+	<a href="/{=blogId}" target="_blank" onclick="sendClickNlog('bap.blog','');">
+		<div class="bloger">
+			<span class="thumb"><img src="{=profileImageUrl}" width="35" height="35" alt="섬네일"></span>
+			<span class="txt">
+				<strong class="nick">{=nickname}</strong>
+				<span class="dsc">{=blogName}</span>
+			</span>
+		</div>
+	<a>
+	<a href="#" class="btn_add_buddy _addBuddy _param({=blogId})"><span class="ico"></span>이웃추가</a>
+</div>
+<a href="#" class="btn_close _closeLayer">이웃추가 레이어 닫기</a>
+</script>, <script type="text/javascript">
+	var wordCheck;
+	function setWordCheckObject(obj) {
+		wordCheck = obj;
+	}
+</script>, <script type="text/javascript">
+if (!window.nhn) window.nhn = {};
+if (!window.nhn.Blog) window.nhn.Blog = {};
+if (!window.nhn.Blog.SocialApp) window.nhn.Blog.SocialApp = {};
+
+var gsNDriveUrl = "https://mybox.naver.com";
+var gsStaticNetUrl = "https://ssl.pstatic.net/static";
+</script>, <script charset="UTF-8" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js" type="text/javascript"></script>, <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarAreaHandler-696228c_https.js" type="text/javascript"></script>, <script type="text/javascript">
+function openLoginPopup() {
+	var closeUrl = blogURL + "/post/common/reloadOpenerParentAndClose.jsp";
+	window.open(idURLSecret + "/nidlogin.login?mode=form&template=plogin&url="+closeUrl,"loginPopup","width=400,height=267");
+	return;
+}
+
+var blogId = 'carecare246';
+</script>, <script type="text/javascript">
+if ( typeof g_ssc == 'undefined') {
+	g_ssc = "blog.post";
+}
+if (typeof nsc == 'undefined') {
+    nsc = "blog.post";
+}
+
+var ccsrv="cc.naver.com";
+var nclk_evt = 3;
+
+var bIsNotLoginUser = "false" === "true";
+var sIdSecretUrl = 'https://nid.naver.com';
+
+
+</script>]
+90909090909090
+jungseungyeop
+userNaverId=feed_id2
+userNaverId jungseungyeop
+handles :  ['6D2C605564757CC9A829E43D8AB39E9E']
+스탑
+status GOOD
+계정 상태 좋음 6
+status GOOD
+blogname_insert_data,blogname_insert_data superlaw11
+comment_insert_data,comment_insert_data 1~1
+사용될 댓글 내용: 추억 잘 쌓고 갑니다~
+first_data_title {'title': 'none', 'logid': 223727751341, 'blogname_insert_data': 'superlaw11'}
+Message: 요청을 성공적으로 처리하였습니다.
+resultlike 성공
+댓글 작업 다 끝내서 종료
+선택된 값 G:  0
+randomtimeAA 0
+asdf 0
+동작중 0
+randomtimeAA 0
+asdf 0
+동작중 1
+randomtimeAA 0
+asdf 0
+동작중 2
+randomtimeAA 0
+asdf 0
+동작중 3
+randomtimeAA 0
+asdf 0
+동작중 4
+모든 작업이 완료되었습니다. 2 (in task)->실제 tstorypost는 살아있음
+data_check 1
+data_check 1
+----------------------
+1
+[('1', 'https://blog.naver.com/superlaw11/223727751341', '0~0', '0~0', '1~1', '0~0', '동작')]
