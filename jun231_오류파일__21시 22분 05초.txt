@@ -1,0 +1,76 @@
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+2
+[('1', 'https://blog.naver.com/passion_clothes/224092345704', '0~0', '0~0', '5~5', '0~0', '대기'), ('2', 'https://blog.naver.com/leo9/224092368179', '0~0', '0~0', '5~5', '0~0', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/passion_clothes/224092345704', '0~0', '0~0', '5~5', '0~0', '대기')
+개수 :  1.0
+선택된 값 DD:  0
+체류시간 :  ['0', '0']
+blogname_insert_data https://blog.naver.com/passion_clothes/224092345704
+4
+testLogID 224092345704
+['https:', '', 'blog.naver.com', 'passion_clothes', '224092345704']
+testID passion_clothes
+아이디 : ['leo9second', 'leo9third']
+비밀번호 : ['tbswg135!aABCD', 'zlzlznzn231!aA']
+닉네임 : ['leo9', 'passion_clothes']
+선택된 값 D:  0
+선택된 값 G:  0
+필터링된 계정: ['leo9second'] ['leo9']
+선택된 값 ((댓글)) :  5
+cookies_value_WEBBLOG 에서 current_proxy0 None
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile leo9second 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile leo9second
+❌ Selenium 연결 실패: Message: session not created: cannot connect to chrome at 127.0.0.1:9234
+from session not created: This version of ChromeDriver only supports Chrome version 141
+Current browser version is 143.0.7499.170
+Stacktrace:
+	GetHandleVerifier [0x0x520dd3+66371]
+	GetHandleVerifier [0x0x520e14+66436]
+	(No symbol) [0x0x304c03]
+	(No symbol) [0x0x33fc88]
+	(No symbol) [0x0x33ec59]
+	(No symbol) [0x0x334e9f]
+	(No symbol) [0x0x334cc6]
+	(No symbol) [0x0x37cd6b]
+	(No symbol) [0x0x37c66a]
+	(No symbol) [0x0x370e86]
+	(No symbol) [0x0x34260e]
+	(No symbol) [0x0x3434e4]
+	GetHandleVerifier [0x0x772003+2495859]
+	GetHandleVerifier [0x0x76d0c4+2475572]
+	GetHandleVerifier [0x0x5491d2+231234]
+	GetHandleVerifier [0x0x538ce8+164440]
+	GetHandleVerifier [0x0x54005d+193997]
+	GetHandleVerifier [0x0x528eb8+99368]
+	GetHandleVerifier [0x0x529052+99778]
+	GetHandleVerifier [0x0x5132fa+10346]
+	BaseThreadInitThunk [0x0x76625d49+25]
+	RtlInitializeExceptionChain [0x0x77b1d5db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77b1d561+561]
+
+
+[THREAD EXCEPTION] (Thread-2 (real_start_thread2))
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "E:\SynologyDrive\35 공감 좋아요 댓글 작업 프로그램(naver)\실시간 링크 글 추적 프로그램\법무법인able댓글 관리\Able_ShareLikeReply2.py", line 12721, in real_start_thread2
+    check_and_update_status2()
+  File "E:\SynologyDrive\35 공감 좋아요 댓글 작업 프로그램(naver)\실시간 링크 글 추적 프로그램\법무법인able댓글 관리\Able_ShareLikeReply2.py", line 12613, in check_and_update_status2
+    real_start_thread_safe2(insert_data)
+  File "E:\SynologyDrive\35 공감 좋아요 댓글 작업 프로그램(naver)\실시간 링크 글 추적 프로그램\법무법인able댓글 관리\Able_ShareLikeReply2.py", line 12680, in real_start_thread_safe2
+    real_start2(insert_data)
+  File "E:\SynologyDrive\35 공감 좋아요 댓글 작업 프로그램(naver)\실시간 링크 글 추적 프로그램\법무법인able댓글 관리\Able_ShareLikeReply2.py", line 13080, in real_start2
+    big_operation2_forLINK(blogname_insert_data,scrap_insert_data,like_insert_data,comment_insert_data,longtime_insert_data)
+  File "E:\SynologyDrive\35 공감 좋아요 댓글 작업 프로그램(naver)\실시간 링크 글 추적 프로그램\법무법인able댓글 관리\Able_ShareLikeReply2.py", line 3723, in big_operation2_forLINK
+    NNB,NAC,NID_AUT,NID_SES,NID_JKL,BUC,nid_inf ,blogID,userNaverId=cookies_value_WEBBLOG(IDID[LikeaccountCounter],PWPW[LikeaccountCounter])
+  File "E:\SynologyDrive\35 공감 좋아요 댓글 작업 프로그램(naver)\실시간 링크 글 추적 프로그램\법무법인able댓글 관리\Able_ShareLikeReply2.py", line 693, in cookies_value_WEBBLOG
+    driver.get("https://blog.naver.com/MyBlog.naver")
+UnboundLocalError: local variable 'driver' referenced before assignment
