@@ -1,0 +1,445 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+78
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3      입주청소빅클린
+4     입주청소 빅클린
+        ...   
+73    입주청소 빅클린
+74    입주청소 빅클린
+75    입주청소 빅클린
+76    입주청소 빅클린
+77    입주청소 빅클린
+Name: 작업 매장, Length: 78, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee90d
+	0xa24e7f
+	0xa2014a
+	0xa68ba3
+	0xa6851a
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 119.206.68.161
+
+IP 변경중...
+
+변경된 IP : 115.144.181.72
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 115.144.181.72
+
+IP 변경중...
+
+변경된 IP : 115.144.181.72
+
+IP 변경중...
+
+변경된 IP : 115.144.181.72
+
+IP 변경중...
+
+변경된 IP : 115.144.181.72
+
+IP 변경중...
+
+변경된 IP : 115.144.181.72
+
+IP 변경중...
+
+변경된 IP : 115.144.215.240
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 49.254.218.230
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 49.254.112.88
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 124.198.81.205
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 49.254.200.83
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 49.254.200.87
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc16d03
+	0xc16d44
+	0x9ee75b
+	0xa34c62
+	0xa3338f
+	0xa5cadc
+	0xa2f9e4
+	0xa5cc94
+	0xa7f088
+	0xa5c8d6
+	0xa2dc50
+	0xa2ef74
+	0xe6c9f4
+	0xe67b95
+	0xc3fdd4
+	0xc2fb38
+	0xc36aad
+	0xc1f198
+	0xc1f35c
+	0xc08ffa
+	0x75cafcc9
+	0x772a82ae
+	0x772a827e
+
+IP 변경중...
+
+변경된 IP : 49.254.112.94
+
+시작
+File saved to: C:\Users\user\Desktop\유효타\logfile.txt
