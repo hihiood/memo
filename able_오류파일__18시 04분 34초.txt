@@ -1,0 +1,8161 @@
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 16:25:17.850168
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\d2820f4abbd4499dab30c676aa8e4e2d.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\25950a286baf442aaeebaf558bd0e2ab.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\ed6dc88b4104445e96a2df706f3d39eb.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 고대구로병원 종일제 간병인
+title 하나병원 24시간 간병인
+title 보광병원간병인 알아보기
+title 성남시의료원 친절한 간병인
+title 방병원 수술 간병인
+title 용일제일메디병원간병인 알아보기
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+2    케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+3    간병인이 필요한 상황에서 간병인업체를 알아보는 보호자를 대상으로, 왜 케어매치가 신...
+4    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+5    간병인이 필요한 상황에서 간병인업체를 알아보는 보호자를 대상으로, 왜 케어매치가 신...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+5    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+2    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+3    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+4    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+5    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+2    tel:1555-0801
+3    tel:1555-0801
+4    tel:1555-0801
+5    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1                         https://youtu.be/8Dsp9S4l0JE
+2    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+3    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+4    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+5                         https://youtu.be/8Dsp9S4l0JE
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+2    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+3    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+4    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+5    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+3    None
+4    None
+5    None
+dtype: object
+엑셀 개수 6
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+학습chatGPT1
+맨위
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5cfbe09b4c354a36a00842351d8894de.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\297feb41ec1349d7b62bed108f11e07e.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\2ce4c221f9f540b49b78342b7e7ce736.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:31:44.913467
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\eccfae4ad53f461695b8c8a0e57900ac.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\e87efd6343bd48b7988607baf986bb26.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\44e9084ba5bd4a2fbca3e91c943c530b.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://vmwareflask.autoprogram.life/
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+➡ 절체 성공 → 현재 서버: https://sgtestflask.autoprogram.blog/
+🔄 라디오 버튼 자동 변경 → 서버1 선택됨
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Fantastically surreal cityscape, edible composite buildings of bread, streets paved with luxurious dark chocolate, gourmet automobiles crafted from big juicy fruits, shallow depth of field, soft lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Detailed photograph of a broken pocket watch, steampunk style, exposed intricate gears, vintage gold and patina, soft lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of gold and ruby treasures sparkling in a cave, shadows and sunbeams, treasure hunter in the foreground
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Fantasy atmosphere filled with mystical creatures. A lush magical forest with toadstools and bioluminescent glowing plants.
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Psychedelic high quality art of a human meditating in the woods
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="e6d5cc7bc9927b9d1ba6d01c5c4adb87")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+수집된 텍스트: 주제 : 케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴급한 상황에서는 당일 간병인 매칭도 가능하다는 점을 자연스럽게 설명해줘. 또한 모든 간병인이 간병인 배상책임보험에 의무 가입되어 있어 간병 중 발생할 수 있는 예기치 못한 상황에 대비하고 있다는 점도 포함해줘.병원 간병 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우, 방문요양 서비스로 연계가 가능하다는 내용을 이어서 설명해줘. 이 과정에서 케어매치는 방문요양 이용을 위한 장기요양등급신청 절차 전 과정을 도와드리고 있으며, 서류 준비부터 신청, 방문조사 안내, 결과 확인까지 보호자가 혼자 하지 않아도 되도록 지원하고 있다는 점을 강조해줘.또한 간병 서비스를 이용한 경우 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있다는 점을 포함해줘. 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 제공하여 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있다는 점도 과장 없이 안내해줘.글 전체는 홍보보다는 정보와 안내 중심의 톤을 유지하고, “지원하고 있습니다”, “도와드리고 있습니다”와 같은 표현을 사용해 신뢰감 있게 작성해줘. 마무리에서는 간병인을 구할 때 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 절차까지 함께 고려해야 하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스라는 메시지로 자연스럽게 정리해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e6dd
+	0x2593a5
+	0x25977b
+	0x2a0382
+	0x27b534
+	0x29db13
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x429518
+	0x4296d9
+	0x413a68
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[케어매치 간병부터 이후 돌봄까지 연결]]^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[케어매치 간병부터 이후 돌봄까지 연결]]^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 
+===== B 영역 =====
+🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[케어매치 간병부터 이후 돌봄까지 연결]]^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 케어매치 간병부터 이후 돌봄까지 연결
+text2: ^^엔터^^^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^
+check_word_length 0
+len(kkq) 1405
+외부 IP: 210.207.170.169
+ID_IMAGE ID9.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=132450, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1546, 449)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID9.PNG
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 6번째 시도에서 이미지 발견: Point(x=1608, y=750)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+loc_ID 495 Point(x=1608, y=750)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1608, y=750)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 210.207.170.169
+변경된 IP : 210.207.170.169
+check : ID9.png / 61.82.190.134 
+
+check : 13 / 15 
+
+check_ID_ip[excel_counter] 61.82.190.134
+newip 210.207.170.169
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 1
+carematch66
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  방병원 수술 간병인 방병원 수술 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Bang Hospital surgery caregiver Bang Hospital surgery caregiver', '방병원 수술 간병인 방병원 수술 간병인', 'ko']
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Origami landscape of a tropical beach
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
+
+--- Captured Logs ---
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 16:25:17.850168
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\d2820f4abbd4499dab30c676aa8e4e2d.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\25950a286baf442aaeebaf558bd0e2ab.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\ed6dc88b4104445e96a2df706f3d39eb.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 고대구로병원 종일제 간병인
+title 하나병원 24시간 간병인
+title 보광병원간병인 알아보기
+title 성남시의료원 친절한 간병인
+title 방병원 수술 간병인
+title 용일제일메디병원간병인 알아보기
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+2    케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+3    간병인이 필요한 상황에서 간병인업체를 알아보는 보호자를 대상으로, 왜 케어매치가 신...
+4    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+5    간병인이 필요한 상황에서 간병인업체를 알아보는 보호자를 대상으로, 왜 케어매치가 신...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+5    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+2    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+3    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+4    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+5    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+4    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+5    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+2    tel:1555-0801
+3    tel:1555-0801
+4    tel:1555-0801
+5    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1                         https://youtu.be/8Dsp9S4l0JE
+2    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+3    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+4    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+5                         https://youtu.be/8Dsp9S4l0JE
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+2    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+3    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+4    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+5    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+3    None
+4    None
+5    None
+dtype: object
+엑셀 개수 6
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+학습chatGPT1
+맨위
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5cfbe09b4c354a36a00842351d8894de.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\297feb41ec1349d7b62bed108f11e07e.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\2ce4c221f9f540b49b78342b7e7ce736.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:31:44.913467
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\eccfae4ad53f461695b8c8a0e57900ac.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\e87efd6343bd48b7988607baf986bb26.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\44e9084ba5bd4a2fbca3e91c943c530b.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://vmwareflask.autoprogram.life/
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+➡ 절체 성공 → 현재 서버: https://sgtestflask.autoprogram.blog/
+🔄 라디오 버튼 자동 변경 → 서버1 선택됨
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Fantastically surreal cityscape, edible composite buildings of bread, streets paved with luxurious dark chocolate, gourmet automobiles crafted from big juicy fruits, shallow depth of field, soft lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Detailed photograph of a broken pocket watch, steampunk style, exposed intricate gears, vintage gold and patina, soft lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of gold and ruby treasures sparkling in a cave, shadows and sunbeams, treasure hunter in the foreground
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Fantasy atmosphere filled with mystical creatures. A lush magical forest with toadstools and bioluminescent glowing plants.
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Psychedelic high quality art of a human meditating in the woods
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="e6d5cc7bc9927b9d1ba6d01c5c4adb87")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+수집된 텍스트: 주제 : 케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴급한 상황에서는 당일 간병인 매칭도 가능하다는 점을 자연스럽게 설명해줘. 또한 모든 간병인이 간병인 배상책임보험에 의무 가입되어 있어 간병 중 발생할 수 있는 예기치 못한 상황에 대비하고 있다는 점도 포함해줘.병원 간병 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우, 방문요양 서비스로 연계가 가능하다는 내용을 이어서 설명해줘. 이 과정에서 케어매치는 방문요양 이용을 위한 장기요양등급신청 절차 전 과정을 도와드리고 있으며, 서류 준비부터 신청, 방문조사 안내, 결과 확인까지 보호자가 혼자 하지 않아도 되도록 지원하고 있다는 점을 강조해줘.또한 간병 서비스를 이용한 경우 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있다는 점을 포함해줘. 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 제공하여 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있다는 점도 과장 없이 안내해줘.글 전체는 홍보보다는 정보와 안내 중심의 톤을 유지하고, “지원하고 있습니다”, “도와드리고 있습니다”와 같은 표현을 사용해 신뢰감 있게 작성해줘. 마무리에서는 간병인을 구할 때 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 절차까지 함께 고려해야 하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스라는 메시지로 자연스럽게 정리해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e6dd
+	0x2593a5
+	0x25977b
+	0x2a0382
+	0x27b534
+	0x29db13
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x429518
+	0x4296d9
+	0x413a68
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[케어매치 간병부터 이후 돌봄까지 연결]]^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[케어매치 간병부터 이후 돌봄까지 연결]]^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 
+===== B 영역 =====
+🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[케어매치 간병부터 이후 돌봄까지 연결]]^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 케어매치 간병부터 이후 돌봄까지 연결
+text2: ^^엔터^^^^엔터^^• 🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+갑작스러운 사고나 수술 후 회복 과정에서 가장 먼저 마주하는 문제는 환자의 상태에 맞는 간병인을 어떻게 구할 것인가입니다. 병원 환경, 환자의 거동 가능 여부, 돌봄 시간대 등 고려해야 할 요소가 많아 보호자가 혼자 판단하기에는 부담이 큽니다. 케어매치는 이러한 상황을 고려해 환자의 상태와 간병 환경을 종합적으로 확인한 뒤, 적합한 전문 간병인을 매칭해드리고 있습니다.^^엔터^^• 🔵 환자 상태·환경에 맞춘 간병 매칭과 긴급 대응^^엔터^^
+케어매치는 병실 간병, 집중 돌봄, 단기·연속 간병 등 다양한 상황을 반영해 간병인을 연결하고 있습니다. 특히 갑작스럽게 간병이 필요한 경우에는 당일 간병인 매칭도 지원하고 있어, 보호자가 급한 상황에서도 대응할 수 있도록 돕고 있습니다. 매칭 전에는 환자 상태와 병원 환경을 충분히 확인해 무리 없는 돌봄이 이루어지도록 하고 있습니다.^^엔터^^• 🔵 간병 중 안전을 고려한 보험 제도 운영^^엔터^^
+모든 케어매치 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병 과정에서 발생할 수 있는 예기치 못한 상황에 대비하기 위한 제도로, 보호자와 환자 모두가 보다 안심할 수 있는 환경을 만드는 데 목적이 있습니다. 이러한 제도는 간병 서비스 이용 시 발생할 수 있는 불안을 줄이는 역할을 하고 있습니다.^^엔터^^• 🔵 병원 이후까지 이어지는 방문요양 연계 지원^^엔터^^
+병원 간병이 끝난 후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이럴 때 방문요양 서비스로의 연계를 지원하고 있습니다. 단순한 안내에 그치지 않고, 장기요양등급신청 절차 전 과정을 함께 도와드리고 있어 보호자가 혼자 준비해야 하는 부담을 줄이고 있습니다.^^엔터^^• 🔵 장기요양등급신청과 서류·조사 과정 지원^^엔터^^
+방문요양 이용을 위해 필요한 서류 준비, 신청 접수, 방문조사 일정 안내, 결과 확인까지 케어매치가 전반적인 과정을 지원하고 있습니다. 보호자가 복잡한 행정 절차를 하나하나 알아보지 않아도 되도록 안내하고 있으며, 상황에 맞는 설명을 통해 절차가 원활히 진행되도록 도와드리고 있습니다.^^엔터^^• 🔵 보험서류·법률상담까지 이어지는 사후 지원^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급을 지원해 보험사 제출 과정에서의 부담을 덜어드리고 있습니다. 또한 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 상담을 받을 수 있도록 지원하고 있습니다. 간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류와 절차까지 함께 고려하는 것이 중요하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스로 안내드리고 있습니다.^^엔터^^
+check_word_length 0
+len(kkq) 1405
+외부 IP: 210.207.170.169
+ID_IMAGE ID9.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=132450, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+[INFO] HotVPN 창 활성화 성공
+[INFO] 마우스 이동 완료 (1546, 449)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID9.PNG
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 6번째 시도에서 이미지 발견: Point(x=1608, y=750)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+loc_ID 495 Point(x=1608, y=750)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1608, y=750)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 210.207.170.169
+변경된 IP : 210.207.170.169
+check : ID9.png / 61.82.190.134 
+
+check : 13 / 15 
+
+check_ID_ip[excel_counter] 61.82.190.134
+newip 210.207.170.169
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 1
+carematch66
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  방병원 수술 간병인 방병원 수술 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Bang Hospital surgery caregiver Bang Hospital surgery caregiver', '방병원 수술 간병인 방병원 수술 간병인', 'ko']
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Origami landscape of a tropical beach
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
+
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+stop_button_while_C 6
+----------------------------import --------
+에러메세지 while 안 stop_button_while_C
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.170)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e6dd
+	0x1fd99e
+	0x21c4e6
+	0x2821d8
+	0x29d44c
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x429518
+	0x4296d9
+	0x413a68
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+while 벗어남
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\9ca9a42b6dc64e11adae1607c94ee18b.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\868234c95bcb448b82c39109a9edc1b3.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0d1e5b9998c74cc48ea9b48c57d0e5c9.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+감지 안됨
+1
+17시 38분 53초
+timeclock_forLoop 1.0
+asdf2 60
+동작중 0
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\ae0d018bb16348ad8dcd7a06a9bbb053.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\06a610f1afdc4ee9a3f3e230c78cb0cd.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0677722f86004bb2a7b2979b2a3e5b29.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:39:30.623242
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\49641abff48f4edbb322cdae26fb2446.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\3b5b0b43795748b1a780e2ffd59f9612.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\493bd5d618184ec78b9fb781e5abe566.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Squishy dog toy bagel with fluffy cream cheese
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Miniature toy train set and red toy buildings, sitting on a simple wood flooring, faint light in the background, warm yellow tones
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Black and white photograph of a lone wolf howling at the moon, night, sharp focus on the wolf, snowy mountain top, landscape photography
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="4b7972a4000af707569405e6e495a459")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-68ad399bb6288191a4fe4b37ca87ced8-keeomaeci-byeongweon
+수집된 텍스트: 주제 : 케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴급한 상황에서는 당일 간병인 매칭도 가능하다는 점을 자연스럽게 설명해줘. 또한 모든 간병인이 간병인 배상책임보험에 의무 가입되어 있어 간병 중 발생할 수 있는 예기치 못한 상황에 대비하고 있다는 점도 포함해줘.병원 간병 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우, 방문요양 서비스로 연계가 가능하다는 내용을 이어서 설명해줘. 이 과정에서 케어매치는 방문요양 이용을 위한 장기요양등급신청 절차 전 과정을 도와드리고 있으며, 서류 준비부터 신청, 방문조사 안내, 결과 확인까지 보호자가 혼자 하지 않아도 되도록 지원하고 있다는 점을 강조해줘.또한 간병 서비스를 이용한 경우 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있다는 점을 포함해줘. 사고로 입원한 경우에는 자문 법률회사와 연계된 법률상담 서비스를 제공하여 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있다는 점도 과장 없이 안내해줘.글 전체는 홍보보다는 정보와 안내 중심의 톤을 유지하고, “지원하고 있습니다”, “도와드리고 있습니다”와 같은 표현을 사용해 신뢰감 있게 작성해줘. 마무리에서는 간병인을 구할 때 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 절차까지 함께 고려해야 하며, 케어매치는 이 모든 과정을 하나의 흐름으로 지원하는 서비스라는 메시지로 자연스럽게 정리해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e6dd
+	0x2593a5
+	0x25977b
+	0x2a0382
+	0x27b534
+	0x29db13
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x429518
+	0x4296d9
+	0x413a68
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<환자 상태에 맞춘 간병부터 이후 돌봄까지 잇는 케어매치 안내>>]]^^엔터^^🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+수술 후 회복 중이거나 갑작스러운 사고로 입원하게 되었을 때, 보호자가 가장 먼저 마주하는 고민은 환자의 상태에 맞는 간병인을 어떻게 빠르게 구할 수 있을지에 대한 부분입니다. 간병은 단순히 곁에 있는 역할이 아니라, 환자의 상태를 이해하고 병원 환경에 적응하며 안정적인 돌봄을 제공해야 하는 중요한 과정입니다. 이러한 상황에서 케어매치는 환자의 상태와 간병 환경을 종합적으로 고려해 전문 간병인을 매칭해주는 서비스로 도움을 드리고 있습니다.^^엔터^^🔵 환자 상태와 환경에 따른 간병인 매칭^^엔터^^
+케어매치는 병원 입원 간병, 단기 간병, 재활 과정 중 돌봄 등 다양한 상황을 고려해 간병인을 연결하고 있습니다. 환자의 거동 여부, 치료 단계, 병실 환경 등을 먼저 확인한 뒤 이에 맞는 간병인을 안내해드리고 있으며, 갑작스럽게 간병이 필요한 긴급 상황의 경우에는 당일 간병인 매칭도 지원하고 있습니다. 이를 통해 보호자가 혼자서 여러 곳을 알아보지 않아도 되도록 돕고 있습니다.^^엔터^^🔵 간병 중 발생할 수 있는 상황에 대한 대비^^엔터^^
+간병 과정에서는 예기치 못한 상황이 발생할 수 있습니다. 케어매치를 통해 활동하는 모든 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있어, 간병 중 발생할 수 있는 사고나 분쟁 상황에 대비하고 있습니다. 이는 환자와 보호자 모두가 보다 안정적인 환경에서 간병 서비스를 이용할 수 있도록 하기 위한 기본적인 안전 장치로 운영되고 있습니다.^^엔터^^🔵 퇴원 이후까지 이어지는 돌봄과 방문요양 연계^^엔터^^
+병원 간병이 끝난 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이러한 상황에 대비해 방문요양 서비스로의 연계를 지원하고 있습니다. 특히 방문요양 이용을 위해 필요한 장기요양등급신청 절차 전 과정을 함께 도와드리고 있으며, 서류 준비부터 신청 접수, 방문조사 안내, 결과 확인까지 보호자가 혼자 처리하지 않도록 전반적인 과정을 지원하고 있습니다.^^엔터^^🔵 보험서류 및 법률상담 지원 안내^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있도록 돕고 있습니다. 또한 사고로 인한 입원의 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있도록 안내하고 있습니다. 이는 복잡한 절차 앞에서 보호자가 방향을 잡는 데 도움을 드리기 위한 지원입니다.^^엔터^^🔵 간병 이후까지 함께 고려하는 돌봄의 흐름^^엔터^^
+간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 각종 절차까지 함께 고려하는 것이 중요합니다. 케어매치는 간병 매칭에서 시작해 퇴원 이후의 돌봄과 행정적 절차까지 하나의 흐름으로 지원하고 있습니다. 필요한 순간마다 보호자의 부담을 덜 수 있도록, 단계별로 함께 도와드리는 것이 케어매치가 지향하는 서비스 방향입니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<환자 상태에 맞춘 간병부터 이후 돌봄까지 잇는 케어매치 안내>>]]^^엔터^^🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+수술 후 회복 중이거나 갑작스러운 사고로 입원하게 되었을 때, 보호자가 가장 먼저 마주하는 고민은 환자의 상태에 맞는 간병인을 어떻게 빠르게 구할 수 있을지에 대한 부분입니다. 간병은 단순히 곁에 있는 역할이 아니라, 환자의 상태를 이해하고 병원 환경에 적응하며 안정적인 돌봄을 제공해야 하는 중요한 과정입니다. 이러한 상황에서 케어매치는 환자의 상태와 간병 환경을 종합적으로 고려해 전문 간병인을 매칭해주는 서비스로 도움을 드리고 있습니다.^^엔터^^
+===== B 영역 =====
+🔵 환자 상태와 환경에 따른 간병인 매칭^^엔터^^
+케어매치는 병원 입원 간병, 단기 간병, 재활 과정 중 돌봄 등 다양한 상황을 고려해 간병인을 연결하고 있습니다. 환자의 거동 여부, 치료 단계, 병실 환경 등을 먼저 확인한 뒤 이에 맞는 간병인을 안내해드리고 있으며, 갑작스럽게 간병이 필요한 긴급 상황의 경우에는 당일 간병인 매칭도 지원하고 있습니다. 이를 통해 보호자가 혼자서 여러 곳을 알아보지 않아도 되도록 돕고 있습니다.^^엔터^^🔵 간병 중 발생할 수 있는 상황에 대한 대비^^엔터^^
+간병 과정에서는 예기치 못한 상황이 발생할 수 있습니다. 케어매치를 통해 활동하는 모든 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있어, 간병 중 발생할 수 있는 사고나 분쟁 상황에 대비하고 있습니다. 이는 환자와 보호자 모두가 보다 안정적인 환경에서 간병 서비스를 이용할 수 있도록 하기 위한 기본적인 안전 장치로 운영되고 있습니다.^^엔터^^🔵 퇴원 이후까지 이어지는 돌봄과 방문요양 연계^^엔터^^
+병원 간병이 끝난 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이러한 상황에 대비해 방문요양 서비스로의 연계를 지원하고 있습니다. 특히 방문요양 이용을 위해 필요한 장기요양등급신청 절차 전 과정을 함께 도와드리고 있으며, 서류 준비부터 신청 접수, 방문조사 안내, 결과 확인까지 보호자가 혼자 처리하지 않도록 전반적인 과정을 지원하고 있습니다.^^엔터^^🔵 보험서류 및 법률상담 지원 안내^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있도록 돕고 있습니다. 또한 사고로 인한 입원의 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있도록 안내하고 있습니다. 이는 복잡한 절차 앞에서 보호자가 방향을 잡는 데 도움을 드리기 위한 지원입니다.^^엔터^^🔵 간병 이후까지 함께 고려하는 돌봄의 흐름^^엔터^^
+간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 각종 절차까지 함께 고려하는 것이 중요합니다. 케어매치는 간병 매칭에서 시작해 퇴원 이후의 돌봄과 행정적 절차까지 하나의 흐름으로 지원하고 있습니다. 필요한 순간마다 보호자의 부담을 덜 수 있도록, 단계별로 함께 도와드리는 것이 케어매치가 지향하는 서비스 방향입니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<환자 상태에 맞춘 간병부터 이후 돌봄까지 잇는 케어매치 안내>>]]^^엔터^^🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+수술 후 회복 중이거나 갑작스러운 사고로 입원하게 되었을 때, 보호자가 가장 먼저 마주하는 고민은 환자의 상태에 맞는 간병인을 어떻게 빠르게 구할 수 있을지에 대한 부분입니다. 간병은 단순히 곁에 있는 역할이 아니라, 환자의 상태를 이해하고 병원 환경에 적응하며 안정적인 돌봄을 제공해야 하는 중요한 과정입니다. 이러한 상황에서 케어매치는 환자의 상태와 간병 환경을 종합적으로 고려해 전문 간병인을 매칭해주는 서비스로 도움을 드리고 있습니다.^^엔터^^🔵 환자 상태와 환경에 따른 간병인 매칭^^엔터^^
+케어매치는 병원 입원 간병, 단기 간병, 재활 과정 중 돌봄 등 다양한 상황을 고려해 간병인을 연결하고 있습니다. 환자의 거동 여부, 치료 단계, 병실 환경 등을 먼저 확인한 뒤 이에 맞는 간병인을 안내해드리고 있으며, 갑작스럽게 간병이 필요한 긴급 상황의 경우에는 당일 간병인 매칭도 지원하고 있습니다. 이를 통해 보호자가 혼자서 여러 곳을 알아보지 않아도 되도록 돕고 있습니다.^^엔터^^🔵 간병 중 발생할 수 있는 상황에 대한 대비^^엔터^^
+간병 과정에서는 예기치 못한 상황이 발생할 수 있습니다. 케어매치를 통해 활동하는 모든 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있어, 간병 중 발생할 수 있는 사고나 분쟁 상황에 대비하고 있습니다. 이는 환자와 보호자 모두가 보다 안정적인 환경에서 간병 서비스를 이용할 수 있도록 하기 위한 기본적인 안전 장치로 운영되고 있습니다.^^엔터^^🔵 퇴원 이후까지 이어지는 돌봄과 방문요양 연계^^엔터^^
+병원 간병이 끝난 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이러한 상황에 대비해 방문요양 서비스로의 연계를 지원하고 있습니다. 특히 방문요양 이용을 위해 필요한 장기요양등급신청 절차 전 과정을 함께 도와드리고 있으며, 서류 준비부터 신청 접수, 방문조사 안내, 결과 확인까지 보호자가 혼자 처리하지 않도록 전반적인 과정을 지원하고 있습니다.^^엔터^^🔵 보험서류 및 법률상담 지원 안내^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있도록 돕고 있습니다. 또한 사고로 인한 입원의 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있도록 안내하고 있습니다. 이는 복잡한 절차 앞에서 보호자가 방향을 잡는 데 도움을 드리기 위한 지원입니다.^^엔터^^🔵 간병 이후까지 함께 고려하는 돌봄의 흐름^^엔터^^
+간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 각종 절차까지 함께 고려하는 것이 중요합니다. 케어매치는 간병 매칭에서 시작해 퇴원 이후의 돌봄과 행정적 절차까지 하나의 흐름으로 지원하고 있습니다. 필요한 순간마다 보호자의 부담을 덜 수 있도록, 단계별로 함께 도와드리는 것이 케어매치가 지향하는 서비스 방향입니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 환자 상태에 맞춘 간병부터 이후 돌봄까지 잇는 케어매치 안내
+text2: ^^엔터^^^^엔터^^🔵 간병이 필요한 순간의 현실적인 고민^^엔터^^
+수술 후 회복 중이거나 갑작스러운 사고로 입원하게 되었을 때, 보호자가 가장 먼저 마주하는 고민은 환자의 상태에 맞는 간병인을 어떻게 빠르게 구할 수 있을지에 대한 부분입니다. 간병은 단순히 곁에 있는 역할이 아니라, 환자의 상태를 이해하고 병원 환경에 적응하며 안정적인 돌봄을 제공해야 하는 중요한 과정입니다. 이러한 상황에서 케어매치는 환자의 상태와 간병 환경을 종합적으로 고려해 전문 간병인을 매칭해주는 서비스로 도움을 드리고 있습니다.^^엔터^^🔵 환자 상태와 환경에 따른 간병인 매칭^^엔터^^
+케어매치는 병원 입원 간병, 단기 간병, 재활 과정 중 돌봄 등 다양한 상황을 고려해 간병인을 연결하고 있습니다. 환자의 거동 여부, 치료 단계, 병실 환경 등을 먼저 확인한 뒤 이에 맞는 간병인을 안내해드리고 있으며, 갑작스럽게 간병이 필요한 긴급 상황의 경우에는 당일 간병인 매칭도 지원하고 있습니다. 이를 통해 보호자가 혼자서 여러 곳을 알아보지 않아도 되도록 돕고 있습니다.^^엔터^^🔵 간병 중 발생할 수 있는 상황에 대한 대비^^엔터^^
+간병 과정에서는 예기치 못한 상황이 발생할 수 있습니다. 케어매치를 통해 활동하는 모든 간병인은 간병인 배상책임보험에 의무적으로 가입되어 있어, 간병 중 발생할 수 있는 사고나 분쟁 상황에 대비하고 있습니다. 이는 환자와 보호자 모두가 보다 안정적인 환경에서 간병 서비스를 이용할 수 있도록 하기 위한 기본적인 안전 장치로 운영되고 있습니다.^^엔터^^🔵 퇴원 이후까지 이어지는 돌봄과 방문요양 연계^^엔터^^
+병원 간병이 끝난 이후에도 퇴원 후 돌봄이나 장기적인 관리가 필요한 경우가 많습니다. 케어매치는 이러한 상황에 대비해 방문요양 서비스로의 연계를 지원하고 있습니다. 특히 방문요양 이용을 위해 필요한 장기요양등급신청 절차 전 과정을 함께 도와드리고 있으며, 서류 준비부터 신청 접수, 방문조사 안내, 결과 확인까지 보호자가 혼자 처리하지 않도록 전반적인 과정을 지원하고 있습니다.^^엔터^^🔵 보험서류 및 법률상담 지원 안내^^엔터^^
+간병 서비스를 이용한 경우, 간병보험청구를 위한 보험서류 발급이 가능해 보험사 제출 과정에서의 부담을 덜 수 있도록 돕고 있습니다. 또한 사고로 인한 입원의 경우에는 자문 법률회사와 연계된 법률상담 서비스를 통해 사고 분쟁이나 보험 절차와 관련된 기본적인 법률 상담을 받을 수 있도록 안내하고 있습니다. 이는 복잡한 절차 앞에서 보호자가 방향을 잡는 데 도움을 드리기 위한 지원입니다.^^엔터^^🔵 간병 이후까지 함께 고려하는 돌봄의 흐름^^엔터^^
+간병인을 구할 때는 병원 간병뿐 아니라 이후의 돌봄, 방문요양, 보험서류, 각종 절차까지 함께 고려하는 것이 중요합니다. 케어매치는 간병 매칭에서 시작해 퇴원 이후의 돌봄과 행정적 절차까지 하나의 흐름으로 지원하고 있습니다. 필요한 순간마다 보호자의 부담을 덜 수 있도록, 단계별로 함께 도와드리는 것이 케어매치가 지향하는 서비스 방향입니다.^^엔터^^
+check_word_length 0
+len(kkq) 1495
+외부 IP: 210.207.170.169
+ID_IMAGE ID9.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=132450, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID9.PNG
+selected_path2 C:\MyApp\images\ID9.PNG
+[INFO] HotVPN 창 활성화 성공
+----------------------------import --------
+에러메세지 main
+PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 1
+carematch66
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  방병원 수술 간병인 방병원 수술 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Bang Hospital surgery caregiver Bang Hospital surgery caregiver', '방병원 수술 간병인 방병원 수술 간병인', 'ko']
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+A grand monolith standing over mars, as seen from a space station window, ominous, sketchy ink illustration
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  방병원 수술 간병인 방병원 수술 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Bang Hospital surgery caregiver Bang Hospital surgery caregiver', '방병원 수술 간병인 방병원 수술 간병인', 'ko']
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+Bang Hospital surgery caregiver Bang Hospital surgery caregiver
+안내문구 없음
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+감지 안됨
+1
+17시 45분 15초
+timeclock_forLoop 1.0
+asdf2 60
+동작중 0
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:47:03.494041
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\4e5ecc1aabc3409c8734b6d9115a10bf.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\2d9127e6bc7348178513e37f8bdf6fcd.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\4aa13d5ca461479aa2a951277063f846.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+1
+17시 47분 10초
+timeclock_forLoop 1.0
+asdf2 60
+동작중 0
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\4e7afa7aab8d429887c5128e4a1b6147.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\aaa11d31e9fc462498f89f3b4aee457e.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\12da2ea5582f49d783c2d832d237f7a9.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\법무법인 에이블\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\법무법인 에이블\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\8d9cf114798e4207bb2cca00dd8eadd4.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\07b026d89cf7434f9dc6fbbf2e06b365.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0187b74b787d413f9c92d16e3ae58255.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\2ed222644743436b8d9d3fa8824ef7bd.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\80906a15d2ef4a3082d13cd2e306610c.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\baac555df6784b7d8ad2ab3cddbc5f51.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\cbb401dd592f4edf94082887d8c721fa.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\231a822831274fb5b53702cc14b373d7.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\745b3a6c09984f6e887ac4a7fd5f28e3.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:53:15.674953
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\312dc664857944e59096aa524bc6ff90.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\262a590f50614d389615a84c6a8e2013.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\12d7d0a9b78649909d25e29ab9dd8a99.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.170)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e6dd
+	0x1fd99e
+	0x21c4e6
+	0x2821d8
+	0x29d44c
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x429518
+	0x4296d9
+	0x413a68
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\3c260bb6b9504e8e80f0310b5a5d33e8.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\78d529d6e2ec4207b26c337a8ce80229.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\c6adc520ccab40bbbb0f15a8322ad582.pyd
+Running main() from the .pyd file...
+DB access----success!!
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+1
+17시 53분 41초
+timeclock_forLoop 1.0
+asdf2 60
+동작중 0
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:53:46.496102
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0247bf8604404ffcb9e1c0c41a9d5fe5.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5a8202c7091841d7bd0c8532c562ea5f.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\2f0b75caffe849d78443b0a4de349273.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+folder_to_check C:\Users\법무법인 에이블\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\법무법인 에이블\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+안내문구 없음
+현재 브라우저 언어: ko-KR
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.170)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e6dd
+	0x1fd99e
+	0x21c4e6
+	0x2821d8
+	0x29d44c
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x429518
+	0x4296d9
+	0x413a68
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x421213
+	0x421254
+	0x20e52b
+	0x24c635
+	0x27b3a6
+	0x276ed1
+	0x276846
+	0x1debfd
+	0x1df18e
+	0x1df65d
+	0x675254
+	0x67080b
+	0x68d0ea
+	0x43b118
+	0x44311d
+	0x1de7ab
+	0x1dddf7
+	0x7c16ef
+	0x75f67ba9
+	0x7770c3ab
+	0x7770c32f
+
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+1
+17시 54분 18초
+timeclock_forLoop 1.0
+asdf2 60
+동작중 0
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\6c856e3e725e47849f3dddf3c394e8de.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\3f83af95e83c41afbe9b0af366b63416.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5c6c4d6c165a453db492d3bf7236f6af.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\c4b5e3331c784756927dc8ff8b6904b2.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\11d14ab1d45642a2b5bf35c3f7d355d6.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\f1678effa2a041fd90496bba89f3cf2d.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-01-08 16:24:55
+now: 2026-01-08 17:59:06.885485
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5e422ce6c8344fa6a204f42b3a45e016.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\babec626c36545ad8bc4a82631476554.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\4bb9358b250d414bb27031a9ded8cd6e.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+title 하나병원 24시간 간병인
+title 방병원 수술 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+1    케어매치는 환자의 상태와 간병 환경에 맞는 전문 간병인을 매칭해주는 서비스이며, 긴...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0                         https://youtu.be/8Dsp9S4l0JE
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+dtype: object
+엑셀 개수 2
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+DB access----success!!
+1--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+1--device_check_DB DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+carematch77
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Miniature city built inside a giant acorn, vibrant red, orange, and green hues, detailed textures, natural lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Silver coin with an smiling cat, words 5 catnips
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Close-up photograph of a pair of mismatched socks with different patterns, on a dark blue velvet wooden background.
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+3D render of a sentient cloud shaped like a dragon, lightning glowing in its belly, intricate detail, iridescent sky in the background
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photorealistic woman wearing elaborate earrings frontlit, full body portrait, hyperrealistic
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Group of aliens visiting a farmer's market, trying to understand human food culture. Lots of fresh fruits and vegetables everywhere
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 11
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 12
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 13
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 14
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 15
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  하나병원 24시간 간병인 하나병원 24시간 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver', '하나병원 24시간 간병인 하나병원 24시간 간병인', 'ko']
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+Hana Hospital 24-hour caregiver Hana Hospital 24-hour caregiver
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
