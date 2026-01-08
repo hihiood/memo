@@ -1,0 +1,1049 @@
+DB access----success!!
+DB access----success!!
+for_use_date VIP
+for_use_date VIP
+DB access----success!!
+오예
+{insertreplycommentQ.get()} sesjjmk
+DB access----success!!
+오예
+{insertreplycommentQ.get()} koojaok1
+DB access----success!!
+오예
+{insertreplycommentQ.get()} feelu12
+DB access----success!!
+오예
+{insertreplycommentQ.get()} choisw0450
+DB access----success!!
+오예
+{insertreplycommentQ.get()} cycy5504
+DB access----success!!
+오예
+{insertreplycommentQ.get()} cycy5504
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기'), ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  137
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['feelu12', 'koojaok1', 'choisw0450', 'kimchoisex', 'sesjjmk', 'cycy5504']
+비밀번호 :::  ['choi451045!', 'choi451045!', 'chltjddnr0450', 'sex6974@', 'choi451045!', 'zhdqjffp12!']
+선택된 값 D:  4
+오에?
+[!] Killing PID 4976 using port 9222...
+[!] Killing PID 1352 using port 9222...
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Task 1의 상태가 '대기'로 변경되었습니다.
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[1] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  137
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['koojaok1', 'choisw0450', 'feelu12', 'cycy5504', 'sesjjmk', 'kimchoisex']
+비밀번호 :::  ['choi451045!', 'chltjddnr0450', 'choi451045!', 'zhdqjffp12!', 'choi451045!', 'sex6974@']
+선택된 값 D:  4
+오에?
+[!] Killing PID 9180 using port 9222...
+[!] Killing PID 3328 using port 9222...
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Task 1의 상태가 '대기'로 변경되었습니다.
+----------------------
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기'), ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  135
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['feelu12', 'choisw0450', 'cycy5504', 'koojaok1', 'kimchoisex', 'sesjjmk']
+비밀번호 :::  ['choi451045!', 'chltjddnr0450', 'zhdqjffp12!', 'choi451045!', 'sex6974@', 'choi451045!']
+선택된 값 D:  4
+오에?
+[!] Killing PID 9172 using port 9222...
+[!] Killing PID 8704 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767836937, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836637'}, {'domain': '.naver.com', 'expiry': 1767838437, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836637'}, {'domain': '.naver.com', 'expiry': 1802396637, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Q8RYMHxo6BORuzvMj9eZpf7eWWrc37Ka66tjtt4Jgiw='}, {'domain': '.naver.com', 'expiry': 1802396637, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'HITTPUO5BNPWS'}, {'domain': '.nid.naver.com', 'expiry': 1785116636, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'D4ptAfu+4C4LJPzHOQr5Kdg+fOOMhULHk22AD4Ax3pT3ueqHSSclS81OynfaX5y6vI19Kq/xuUm0j0/h8M5dCpC7+DbKqusCbcA29T7nKOVqHq8hmOX3ZcJVRjZYqW72zCzjyGSCiUzcQyjs9yMmgde7sVWdzUrJRBuj8VyMoJ8='}, {'domain': '.naver.com', 'expiry': 1767923037, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1799372636, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802396637, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'xrvxB4A20L2n'}]
+SRT5 -> 1767836637
+SRT30 -> 1767836637
+BUC -> Q8RYMHxo6BORuzvMj9eZpf7eWWrc37Ka66tjtt4Jgiw=
+NNB -> HITTPUO5BNPWS
+NID_JST -> D4ptAfu+4C4LJPzHOQr5Kdg+fOOMhULHk22AD4Ax3pT3ueqHSSclS81OynfaX5y6vI19Kq/xuUm0j0/h8M5dCpC7+DbKqusCbcA29T7nKOVqHq8hmOX3ZcJVRjZYqW72zCzjyGSCiUzcQyjs9yMmgde7sVWdzUrJRBuj8VyMoJ8=
+NACT -> 1
+nid_slevel -> 1
+NAC -> xrvxB4A20L2n
+쿠키 체크
+frame None
+userNaverId feelu12
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802396672, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'TFYRWSNboRaToeTn421MpXMgvPgDty3Cp98TfNUfVrI='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '30FF37D7BC2F559F709D9C528023AD53.jvm1'}, {'domain': '.naver.com', 'expiry': 1767923037, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802396672, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'HITTPUO5BNPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802396672, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'fd44d27c-14f1-4987-920d-eb6afde6e3c9'}, {'domain': '.naver.com', 'expiry': 1802396665, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'negsM2ez8BEvhMcCDkr9qMmyw12RaGarKwgUFYBh98j02JuV2YOoVYeNTdr9asmN'}, {'domain': '.naver.com', 'expiry': 1770428665, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1605524049'}, {'domain': '.naver.com', 'expiry': 1802396637, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'xrvxB4A20L2n'}, {'domain': '.naver.com', 'expiry': 1767836972, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836637'}, {'domain': '.naver.com', 'expiry': 1767838472, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836637'}, {'domain': '.naver.com', 'expiry': 1770428665, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhGcjff+uu8wIcs5T5SiwESvFfVovK6OxEJI4AfwRszytKDHkggBw1R1MA6qK0TpRpEtOdTrUu6jWRG+tJY9x+Adus347bWT6Ei8W5Yx7B4BcjXdwU8oWWS5v2DiOYnxDgEg44FQmR5LJ08oDvosyhApGlzBFf00ZPFoFdZv0d3F00zq+jqH+kSOWu3XzgBvPLLBsEE2/uOTxuC0nx9k2Kvbndvz2eqAoFDXszf7/GhOKQv0wpElPGjXFR8vmYH+P+M+dHUPED+Ua4iHwPCEJ96K4/BxYFLIHlAyodDUxSeHc5MzSni+J7u5TZ5SWY7fc5qdExbel3BibNpbEVsv/byFFmrkfH32wHjXoo/SYCzsOlQB1i8x7S+eNEbfW7n/f2zJXCEUI2lMzJmlf2LOSMl6bFM0qynQDUM+3s+4TXQfsEJ0sIpsj62NPRMI5TYcf6TKIjWSiWGywoW2yuqV9gzo9d65Fdi24g7iJ5c9/dY6VTmTSfr5hvMHWS7hbJYRnDmKpQQkB48knEhG4opWUV8g='}]
+BUC -> TFYRWSNboRaToeTn421MpXMgvPgDty3Cp98TfNUfVrI=
+JSESSIONID -> 30FF37D7BC2F559F709D9C528023AD53.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> HITTPUO5BNPWS
+BA_DEVICE -> fd44d27c-14f1-4987-920d-eb6afde6e3c9
+NID_AUT -> negsM2ez8BEvhMcCDkr9qMmyw12RaGarKwgUFYBh98j02JuV2YOoVYeNTdr9asmN
+nid_inf -> 1605524049
+NAC -> xrvxB4A20L2n
+SRT5 -> 1767836637
+SRT30 -> 1767836637
+NID_SES -> AAABhGcjff+uu8wIcs5T5SiwESvFfVovK6OxEJI4AfwRszytKDHkggBw1R1MA6qK0TpRpEtOdTrUu6jWRG+tJY9x+Adus347bWT6Ei8W5Yx7B4BcjXdwU8oWWS5v2DiOYnxDgEg44FQmR5LJ08oDvosyhApGlzBFf00ZPFoFdZv0d3F00zq+jqH+kSOWu3XzgBvPLLBsEE2/uOTxuC0nx9k2Kvbndvz2eqAoFDXszf7/GhOKQv0wpElPGjXFR8vmYH+P+M+dHUPED+Ua4iHwPCEJ96K4/BxYFLIHlAyodDUxSeHc5MzSni+J7u5TZ5SWY7fc5qdExbel3BibNpbEVsv/byFFmrkfH32wHjXoo/SYCzsOlQB1i8x7S+eNEbfW7n/f2zJXCEUI2lMzJmlf2LOSMl6bFM0qynQDUM+3s+4TXQfsEJ0sIpsj62NPRMI5TYcf6TKIjWSiWGywoW2yuqV9gzo9d65Fdi24g7iJ5c9/dY6VTmTSfr5hvMHWS7hbJYRnDmKpQQkB48knEhG4opWUV8g=
+dolsamo-
+handles :  ['043ABFE4A92C9E64E75320CB5AD5148B']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":3,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@7a219f31":{"reactionType":"like","count":3,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"7c53f6727bf38b66116230c34d3a1d16e403738b536329d40b7b75eaa71d77e422e36919b16d6c35bc09c72805d36a2bf0d9189b0634c7f192a66d60577c2176","timestamp":1767836684472,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@47dae713]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+오에?
+[!] Killing PID 8020 using port 9222...
+[!] Killing PID 4364 using port 9222...
+[!] Killing PID 0 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767836999, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836699'}, {'domain': '.naver.com', 'expiry': 1767838499, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836699'}, {'domain': '.naver.com', 'expiry': 1802396699, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'x8_O0r8FzIoqDzigKbiv5cRCUT8tPZT8grnReFL5jvU='}, {'domain': '.naver.com', 'expiry': 1802396699, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EZJVKTY3BRPWS'}, {'domain': '.nid.naver.com', 'expiry': 1785116698, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'BZvlxQhz6hk1z/Z3TojwXIf8Q9UNiVeV7nU8/4hMCiPVekMcpfr5dlG0J2pTBV/qssXCzBmTOojBduIsNQGLAIXZtGWiV/SPRadSAjv36yaFrowXqVbIaKYKE2WNy2ng3vLrNsrNpEGZHUbNwADb+qrTon050AfI5s0NXPi4m3k='}, {'domain': '.naver.com', 'expiry': 1767923099, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1799372699, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802396699, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'z9dFB4A21XlW'}]
+SRT5 -> 1767836699
+SRT30 -> 1767836699
+BUC -> x8_O0r8FzIoqDzigKbiv5cRCUT8tPZT8grnReFL5jvU=
+NNB -> EZJVKTY3BRPWS
+NID_JST -> BZvlxQhz6hk1z/Z3TojwXIf8Q9UNiVeV7nU8/4hMCiPVekMcpfr5dlG0J2pTBV/qssXCzBmTOojBduIsNQGLAIXZtGWiV/SPRadSAjv36yaFrowXqVbIaKYKE2WNy2ng3vLrNsrNpEGZHUbNwADb+qrTon050AfI5s0NXPi4m3k=
+NACT -> 1
+nid_slevel -> 1
+NAC -> z9dFB4A21XlW
+쿠키 체크
+frame None
+userNaverId choisw0450
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802396734, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ChEqbpbUl6MbT68M_MOHyDhbJCyuP68nC1wkSyOrkSE='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '12EB1513AF291A68D8142405CFAE05EE.jvm1'}, {'domain': '.naver.com', 'expiry': 1767923099, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802396734, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EZJVKTY3BRPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802396734, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'ef23e577-ad4e-4637-bb77-dcb57cdab9f4'}, {'domain': '.naver.com', 'expiry': 1802396727, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'BOJlGSYWrssspH/jz6SqAn/9hkLKNo4/Ussq8FXyGs6fHc/tZb5UoPVXGlPbZ1tL'}, {'domain': '.naver.com', 'expiry': 1770428727, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1473690611'}, {'domain': '.naver.com', 'expiry': 1802396699, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'z9dFB4A21XlW'}, {'domain': '.naver.com', 'expiry': 1767837034, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836699'}, {'domain': '.naver.com', 'expiry': 1767838534, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767836699'}, {'domain': '.naver.com', 'expiry': 1770428727, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhjaru6k8QkoSQhl75+MkKou4cpl3pDhxJixrhU073w1D5733d4/uVuVFU1UzR+dcZUgZhMg7bJkMMZWyqOfuEVqXlA389TPNZkBVggJ37LiRPBRKmlgvJ5vo9DkoSCDpfhoCOfOLvdKJHOL3CIqFhtuY0WjLyUWTLiV0O8cOJ4A+6G1FCwiTmkpRpuvwlYt7snlfno4+ePYcH17ktua11HN40klnPekcKzMESvSMc/td/8WS8V3TzKzFEZu/w+FdEDWQMlHolWKFmS6vT6hwHJna1+Jp+GLryZs9vvRM3N5zxonS5mr+37K2nKqk4o3pcrvhY+HAzvH3P+858M9ioXyt2JlyXzoElOy3egT1zB2hjUdHyG/lWGqtz1JRnLHbJ2SbBYBz/eAwtbueGgqvQgrZjD4qiE3L7F8TPIS3wGLRkkITu+SAyjSjr2GSS8QJLWFQNVQuH/+VyaZ5dpJCYIb+hscaACE5Q7ZCt1/Hy4N6jrRwdYgMdNdZ2ch61kK/0c+kCRHuVazUo83+3bi1jPE='}]
+BUC -> ChEqbpbUl6MbT68M_MOHyDhbJCyuP68nC1wkSyOrkSE=
+JSESSIONID -> 12EB1513AF291A68D8142405CFAE05EE.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> EZJVKTY3BRPWS
+BA_DEVICE -> ef23e577-ad4e-4637-bb77-dcb57cdab9f4
+NID_AUT -> BOJlGSYWrssspH/jz6SqAn/9hkLKNo4/Ussq8FXyGs6fHc/tZb5UoPVXGlPbZ1tL
+nid_inf -> 1473690611
+NAC -> z9dFB4A21XlW
+SRT5 -> 1767836699
+SRT30 -> 1767836699
+NID_SES -> AAABhjaru6k8QkoSQhl75+MkKou4cpl3pDhxJixrhU073w1D5733d4/uVuVFU1UzR+dcZUgZhMg7bJkMMZWyqOfuEVqXlA389TPNZkBVggJ37LiRPBRKmlgvJ5vo9DkoSCDpfhoCOfOLvdKJHOL3CIqFhtuY0WjLyUWTLiV0O8cOJ4A+6G1FCwiTmkpRpuvwlYt7snlfno4+ePYcH17ktua11HN40klnPekcKzMESvSMc/td/8WS8V3TzKzFEZu/w+FdEDWQMlHolWKFmS6vT6hwHJna1+Jp+GLryZs9vvRM3N5zxonS5mr+37K2nKqk4o3pcrvhY+HAzvH3P+858M9ioXyt2JlyXzoElOy3egT1zB2hjUdHyG/lWGqtz1JRnLHbJ2SbBYBz/eAwtbueGgqvQgrZjD4qiE3L7F8TPIS3wGLRkkITu+SAyjSjr2GSS8QJLWFQNVQuH/+VyaZ5dpJCYIb+hscaACE5Q7ZCt1/Hy4N6jrRwdYgMdNdZ2ch61kK/0c+kCRHuVazUo83+3bi1jPE=
+91yoon-
+handles :  ['0A115320D198AB755BF0C29C4D06A013']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":3,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@761850bc":{"reactionType":"like","count":3,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"a4c93bb7c208642b58702483a54d1ea454ab2ae5d7be0b09a2827d54fbf30c63429b741730eed440ac9fcfdf14a4a5b1c882ec801eedb88ecfab2e03c90d2125","timestamp":1767836746830,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@64148a43]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+오에?
+[!] Killing PID 6964 using port 9222...
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 2644 using port 9222...
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Task 1의 상태가 '대기'로 변경되었습니다.
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[1] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  136
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['cycy5504', 'koojaok1', 'sesjjmk', 'choisw0450', 'kimchoisex', 'feelu12']
+비밀번호 :::  ['zhdqjffp12!', 'choi451045!', 'choi451045!', 'chltjddnr0450', 'sex6974@', 'choi451045!']
+선택된 값 D:  4
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Task 1의 상태가 '대기'로 변경되었습니다.
+DB access----success!!
+for_use_date VIP
+🟢 사용자 선택: 서버2
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  148
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['cycy5504', 'kimchoisex', 'choisw0450', 'feelu12', 'sesjjmk', 'koojaok1']
+비밀번호 :::  ['zhdqjffp12!', 'sex6974@', 'chltjddnr0450', 'choi451045!', 'choi451045!', 'choi451045!']
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+➡ 절체 성공 → 현재 서버: https://sgtestflask.autoprogram.blog/
+🔄 라디오 버튼 자동 변경 → 서버1 선택됨
+선택된 값 D:  4
+오에?
+[!] Killing PID 2608 using port 9222...
+[!] Killing PID 3908 using port 9222...
+크롬드라이버 강제 종료 성공
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+모든 작업이 완료되었습니다. 2 (in task)->실제 tstorypost는 살아있음
+data_check 1
+data_check 1
+----------------------
+
+[THREAD EXCEPTION] (Thread-26 (check_and_update_status2))
+Traceback (most recent call last):
+  File "threading.py", line 1016, in _bootstrap_inner
+  File "threading.py", line 953, in run
+  File "ShareLikeReply.py", line 11812, in ShareLikeReply.check_and_update_status2
+IndexError: list index out of range
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  126
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['sesjjmk', 'kimchoisex', 'koojaok1', 'choisw0450', 'feelu12', 'cycy5504']
+비밀번호 :::  ['choi451045!', 'sex6974@', 'choi451045!', 'chltjddnr0450', 'choi451045!', 'zhdqjffp12!']
+선택된 값 D:  4
+오에?
+[!] Killing PID 4824 using port 9222...
+[!] Killing PID 4280 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767841108, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840807'}, {'domain': '.naver.com', 'expiry': 1767842608, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840807'}, {'domain': '.naver.com', 'expiry': 1802400808, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'LwhCpRlrmCeENfxt2d2zJq-MHX3ajfD4TOe7l8FD1-4='}, {'domain': '.naver.com', 'expiry': 1802400808, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CQ6ZTYRHDRPWS'}, {'domain': '.nid.naver.com', 'expiry': 1785120807, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '/9OgRQBJCvxIU6kC1Ir8gpXgJZR4rnpR/7xtNBBJVa1ywcCSPSoPriDZ/HYY9tQmqyy+yV7/Ii+VHeWSB65Vxi2v8qHcjhygA0tV9Ll+gJkaVHqSIPzBiaf0oEzLIr4Z8hh+4OMyQKpAJbVmc1rhdpm0vNSJOh6rteSvbQc85Ts='}, {'domain': '.naver.com', 'expiry': 1767927207, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1799376807, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400807, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'vWGmB4Q20Uww'}]
+SRT5 -> 1767840807
+SRT30 -> 1767840807
+BUC -> LwhCpRlrmCeENfxt2d2zJq-MHX3ajfD4TOe7l8FD1-4=
+NNB -> CQ6ZTYRHDRPWS
+NID_JST -> /9OgRQBJCvxIU6kC1Ir8gpXgJZR4rnpR/7xtNBBJVa1ywcCSPSoPriDZ/HYY9tQmqyy+yV7/Ii+VHeWSB65Vxi2v8qHcjhygA0tV9Ll+gJkaVHqSIPzBiaf0oEzLIr4Z8hh+4OMyQKpAJbVmc1rhdpm0vNSJOh6rteSvbQc85Ts=
+NACT -> 1
+nid_slevel -> 1
+NAC -> vWGmB4Q20Uww
+쿠키 체크
+frame None
+userNaverId sesjjmk
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802400847, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'og53U3V-P-BU1D8Ap_k6jbNYIUdNfK7hizv3CYTqwEo='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '9D84C8960DD9FF3423737098661EF1D1.jvm1'}, {'domain': '.naver.com', 'expiry': 1767927207, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400847, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CQ6ZTYRHDRPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802400847, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b030283d-c6cf-4c94-ba32-1e3ec8a98b9b'}, {'domain': '.naver.com', 'expiry': 1802400837, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1cqAjPHzYDUnN9EwZC/EGPEw0uW8H9jeqcNlL5sjXllm6ij6JrNKL4jruBaXji7K'}, {'domain': '.naver.com', 'expiry': 1770432837, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1488729170'}, {'domain': '.naver.com', 'expiry': 1802400807, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'vWGmB4Q20Uww'}, {'domain': '.naver.com', 'expiry': 1767841147, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840807'}, {'domain': '.naver.com', 'expiry': 1767842647, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840807'}, {'domain': '.naver.com', 'expiry': 1770432837, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABk/2VrQdeohoGcMBf/stCXqfJJzB8lGMItumbuY4mrwnQwK5Tspv/pc8qQ85H4ntE9T3fk2Ln8wEqSnxl531flMjQvP3yMw0lvnpdaZCZ43FegN9HGymPQoUNRquS3widNqG5xwJNB21ubNr3azGVEYrCjbIAwpvhlohGCJynEYBAnCf4jt6rBsC2HuDDt7muXVZ4SFoB9GuRjM2gQP0KQwxzPNeXwD5oOAhpOISQ9qm//rY7X5RwuemD01tzE/+0XiIPsGadF5DK5LILy6AHmNywFTbPJrhcnpfP0aFk4eINyOVp0TQFgbJJ/J0mFIyUZ+H5b/gIpP6Rh9qY5K/FtVDhRUlTxpAzzzWBrDfovUNTYMrZlpflkzXmaARDgy37jIZt8EP0Q9HusYo9Je0YbhJo9tHXweGBXi0MxmYXBGQZcP8SceHly0y+zQ/wY4HK/0NokUVnpmt63Ga6pdMzcbrxnyc9Y3jmmeJbDxyDm3HcwEIXxKZeVJWCSZlBu3iMAulKjMhsn2OJCa6yfvTDGqYXmBarmpwINRnAqOgcifri'}]
+BUC -> og53U3V-P-BU1D8Ap_k6jbNYIUdNfK7hizv3CYTqwEo=
+JSESSIONID -> 9D84C8960DD9FF3423737098661EF1D1.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> CQ6ZTYRHDRPWS
+BA_DEVICE -> b030283d-c6cf-4c94-ba32-1e3ec8a98b9b
+NID_AUT -> 1cqAjPHzYDUnN9EwZC/EGPEw0uW8H9jeqcNlL5sjXllm6ij6JrNKL4jruBaXji7K
+nid_inf -> 1488729170
+NAC -> vWGmB4Q20Uww
+SRT5 -> 1767840807
+SRT30 -> 1767840807
+NID_SES -> AAABk/2VrQdeohoGcMBf/stCXqfJJzB8lGMItumbuY4mrwnQwK5Tspv/pc8qQ85H4ntE9T3fk2Ln8wEqSnxl531flMjQvP3yMw0lvnpdaZCZ43FegN9HGymPQoUNRquS3widNqG5xwJNB21ubNr3azGVEYrCjbIAwpvhlohGCJynEYBAnCf4jt6rBsC2HuDDt7muXVZ4SFoB9GuRjM2gQP0KQwxzPNeXwD5oOAhpOISQ9qm//rY7X5RwuemD01tzE/+0XiIPsGadF5DK5LILy6AHmNywFTbPJrhcnpfP0aFk4eINyOVp0TQFgbJJ/J0mFIyUZ+H5b/gIpP6Rh9qY5K/FtVDhRUlTxpAzzzWBrDfovUNTYMrZlpflkzXmaARDgy37jIZt8EP0Q9HusYo9Je0YbhJo9tHXweGBXi0MxmYXBGQZcP8SceHly0y+zQ/wY4HK/0NokUVnpmt63Ga6pdMzcbrxnyc9Y3jmmeJbDxyDm3HcwEIXxKZeVJWCSZlBu3iMAulKjMhsn2OJCa6yfvTDGqYXmBarmpwINRnAqOgcifri
+handles :  ['9E328E3BE208F6367895BD394FEC1C7B']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":3,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@1e651aee":{"reactionType":"like","count":3,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"differentPlatform":false,"customized":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"56924a195bd63581a890a786257cb5b5f9b0f46a428819d3eb84476b1f2f6c5adf37809372f9758cd4f685cdec4495d4af0b28654daad3f2713d3da458bb473c","timestamp":1767840858326,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"serviceId":"BLOG","displayId":"BLOG","contentsId":"deepgreenads_224137729351","message":"공감이 되었습니다.","categoryId":"post","reactionType":"like","count":4,"isReacted":true,"countType":"DEFAULT","nolimitUserCount":0}
+==================
+message_value 공감이 되었습니다.
+==================
+오에?
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 5380 using port 9222...
+[!] Killing PID 9076 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767841174, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840874'}, {'domain': '.naver.com', 'expiry': 1767842674, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840874'}, {'domain': '.naver.com', 'expiry': 1802400874, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'uY8U7LwUKfjc-PQsFqfM9Le7Yt4nFPhttWeNVKgOv8Q='}, {'domain': '.naver.com', 'expiry': 1802400874, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CBUTFGDKDRPWS'}, {'domain': '.nid.naver.com', 'expiry': 1785120873, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'B4+nV1LaJZacAIQkaPY5FJh5NOiTz8v1EjVsVy8+cxf8rWzIDJSZs2X3CxzL1NI/fzT4//5Zdgw6m73YClWGVbRE+AS3q4wOlnr+g9iTFu3Fx60KR5f3F0zxp1QyWiBgs+aroZkTikNiYxsU4kIh8nVXUyWR6OxC0ujYkZsX/Gs='}, {'domain': '.naver.com', 'expiry': 1767927274, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1799376874, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400874, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3ipHB4Q21gweB'}]
+SRT5 -> 1767840874
+SRT30 -> 1767840874
+BUC -> uY8U7LwUKfjc-PQsFqfM9Le7Yt4nFPhttWeNVKgOv8Q=
+NNB -> CBUTFGDKDRPWS
+NID_JST -> B4+nV1LaJZacAIQkaPY5FJh5NOiTz8v1EjVsVy8+cxf8rWzIDJSZs2X3CxzL1NI/fzT4//5Zdgw6m73YClWGVbRE+AS3q4wOlnr+g9iTFu3Fx60KR5f3F0zxp1QyWiBgs+aroZkTikNiYxsU4kIh8nVXUyWR6OxC0ujYkZsX/Gs=
+NACT -> 1
+nid_slevel -> 1
+NAC -> 3ipHB4Q21gweB
+쿠키 체크
+frame None
+userNaverId kimchoisex
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802400903, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'kLjBQreXOjadptR3cMBvAe2sYmamWz3l5CGOlmSBMMU/UzgDwuQ0zV0NmcM931nE'}, {'domain': 'section.blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '66CBD37C912F060872680B8E818C33DA.jvm1'}, {'domain': '.naver.com', 'expiry': 1770432903, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1523959142'}, {'domain': '.naver.com', 'expiry': 1767841214, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840874'}, {'domain': '.blog.naver.com', 'expiry': 1802400914, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cfbfff1c-086f-4bcf-ae3f-138707c08b7b'}, {'domain': '.naver.com', 'expiry': 1767842714, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840874'}, {'domain': '.naver.com', 'expiry': 1802400914, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'QFWeT-JnGiAuC02QZHn2tv3iE_EHNqJ2G2_GSBTBFw4='}, {'domain': '.naver.com', 'expiry': 1802400914, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CBUTFGDKDRPWS'}, {'domain': '.naver.com', 'expiry': 1770432903, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABlhf47+QrwmBCsQqJWSYKcymnoo2fJ9NrTMhqa+SsPG1ZSzCqWmgHdf8ui0gARzN7VZPLS2hHh0CSfrJSuqdMl9E5YPaRfyjeAsDx5kIj/Qk2t8IM3VX0eIDBJGZBrFY8To43iO3Te90Y+psf+WDF+WqzxCWSatDijX0AT7OPH1luPf/3N5taEvAH3rkWha8bElyZzLX64o4KRLtTLdyIc120DJ10NcidP9JR+TnW6hR2smb3U+3MEtmA5BMfec/bBe7B/kxxCqgBz64nWGd9Vq8sMAbYYx0jsI1i8ni+oJDMbnz+SgFAUGX95PD/ndYyKbr9DP8ipmpo8MpaHTAxeYaJ6uM8XhRhSvoahb28uflH7nkgUC7JlzwzCiqFpY5ksnPXLOicNNyn9EgOJdnDteN8fOvCOCRzjIAqIc7jkCx4+YCmSNU8aKuiI5q0ZQjfaAP7UMwVoIgLW4aeLdoGs5tuOslZRosvNyu76geKpDKv0dpICFnMPnfi2fvFo2KcYeNcJt6mqfn495wBauxl50UfQINDPOS1EpNdWAwMnMvy'}, {'domain': '.naver.com', 'expiry': 1767927274, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400874, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3ipHB4Q21gweB'}]
+NID_AUT -> kLjBQreXOjadptR3cMBvAe2sYmamWz3l5CGOlmSBMMU/UzgDwuQ0zV0NmcM931nE
+JSESSIONID -> 66CBD37C912F060872680B8E818C33DA.jvm1
+nid_inf -> 1523959142
+SRT5 -> 1767840874
+BA_DEVICE -> cfbfff1c-086f-4bcf-ae3f-138707c08b7b
+SRT30 -> 1767840874
+BUC -> QFWeT-JnGiAuC02QZHn2tv3iE_EHNqJ2G2_GSBTBFw4=
+NNB -> CBUTFGDKDRPWS
+NID_SES -> AAABlhf47+QrwmBCsQqJWSYKcymnoo2fJ9NrTMhqa+SsPG1ZSzCqWmgHdf8ui0gARzN7VZPLS2hHh0CSfrJSuqdMl9E5YPaRfyjeAsDx5kIj/Qk2t8IM3VX0eIDBJGZBrFY8To43iO3Te90Y+psf+WDF+WqzxCWSatDijX0AT7OPH1luPf/3N5taEvAH3rkWha8bElyZzLX64o4KRLtTLdyIc120DJ10NcidP9JR+TnW6hR2smb3U+3MEtmA5BMfec/bBe7B/kxxCqgBz64nWGd9Vq8sMAbYYx0jsI1i8ni+oJDMbnz+SgFAUGX95PD/ndYyKbr9DP8ipmpo8MpaHTAxeYaJ6uM8XhRhSvoahb28uflH7nkgUC7JlzwzCiqFpY5ksnPXLOicNNyn9EgOJdnDteN8fOvCOCRzjIAqIc7jkCx4+YCmSNU8aKuiI5q0ZQjfaAP7UMwVoIgLW4aeLdoGs5tuOslZRosvNyu76geKpDKv0dpICFnMPnfi2fvFo2KcYeNcJt6mqfn495wBauxl50UfQINDPOS1EpNdWAwMnMvy
+NACT -> 1
+NAC -> 3ipHB4Q21gweB
+handles :  ['33F39AAA9A043B8A40F607F7DCDA1D97']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":4,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@66e87aeb":{"reactionType":"like","count":4,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"86c608b47b814bd84d23d357045c711a8e8b84c0da267fd3c20c20312e5f6e99b28f33b63606bba6964aab8a44b91404645e2d4080b8fe9a39781e82d7c9c5ab","timestamp":1767840924473,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":403,"errorCode":4033,"message":"접근이 허용되지 않은 사용자입니다.","moreInfos":["공감","PR015"],"logMessage":"statusCode:[403], errorCode:[4033], message:[접근이 허용되지 않은 사용자입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.String;@313016e5]"}
+==================
+message_value 접근이 허용되지 않은 사용자입니다.
+==================
+오에?
+[!] Killing PID 8204 using port 9222...
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 3060 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767841240, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840940'}, {'domain': '.naver.com', 'expiry': 1767842740, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840940'}, {'domain': '.naver.com', 'expiry': 1802400940, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'om5a1Bx_vibOspN1n3WOTwzcEtJ0bt73yManQdRds0Q='}, {'domain': '.naver.com', 'expiry': 1802400940, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'VH7TRUNMDRPWS'}, {'domain': '.nid.naver.com', 'expiry': 1785120938, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'E1W5ZFFAMJZYuDNbwwIky0RHSEqo7jHrWWEaQDbIdSOkPIncNh3Wi3ckxfx8wOfcPD0RH6YSGIoN09eFO0dNjThG8/glUbFKsSMoZxRyHPEq6AzFKKrkVKlZW/lEGZN0ykuVnSidHNDeXjBYLFLDwkYztcYk3eLbTIa5LAqd8OU='}, {'domain': '.naver.com', 'expiry': 1767927340, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1799376940, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400940, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'b6suB4Q22sQq'}]
+SRT5 -> 1767840940
+SRT30 -> 1767840940
+BUC -> om5a1Bx_vibOspN1n3WOTwzcEtJ0bt73yManQdRds0Q=
+NNB -> VH7TRUNMDRPWS
+NID_JST -> E1W5ZFFAMJZYuDNbwwIky0RHSEqo7jHrWWEaQDbIdSOkPIncNh3Wi3ckxfx8wOfcPD0RH6YSGIoN09eFO0dNjThG8/glUbFKsSMoZxRyHPEq6AzFKKrkVKlZW/lEGZN0ykuVnSidHNDeXjBYLFLDwkYztcYk3eLbTIa5LAqd8OU=
+NACT -> 1
+nid_slevel -> 1
+NAC -> b6suB4Q22sQq
+쿠키 체크
+frame None
+userNaverId koojaok1
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802400977, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'h4gvZdEOjauKVgTO5mQq7U1lxOU0LHr_12pCHg17jZg='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '54DE47024DF2972ABEC7C046EDBA4A42.jvm1'}, {'domain': '.naver.com', 'expiry': 1767927340, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400977, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'VH7TRUNMDRPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802400976, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b91712d-9c0a-440c-b03a-3a25e74118a1'}, {'domain': '.naver.com', 'expiry': 1802400969, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '9AzVD0yP+/FkZ8nJj9M/YiL9kNOuyh9p3O+DxeZZ0tve+6U7LIlZlyjNq5UJh3b8'}, {'domain': '.naver.com', 'expiry': 1770432969, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1405048268'}, {'domain': '.naver.com', 'expiry': 1802400940, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'b6suB4Q22sQq'}, {'domain': '.naver.com', 'expiry': 1767841277, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840940'}, {'domain': '.naver.com', 'expiry': 1767842777, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840940'}, {'domain': '.naver.com', 'expiry': 1770432969, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhcVvHhnXo6BN/qEUtWYEKma167zwU4EYYNrQIy0VOrxAcbTnc1lTdntYz8+ey/09+FnVhKV3Wn2w6Dg8ngznWruqsiEEJ1CzCr3Czg3IzWbKTDkuJn4IV9PhPXDC0kl8D6ATo0plDfhAfCWVVx67JpU9/qhQpGPrdZKp7ljpAcK3FGNbzEG/z14mnu4g6IFm3Ypo2Npu+aLFy3oz9ACG3K8Zp4atPg3X66oHJCdFh+/sZ8VpXFOlKAjJ+9ctlYe4K3xDY6dx+FwQs+XSHWTkLYZOcELSCCdm4nARn2Xw0Thc0pmqC5+NEOhLPGU4b9xnu5OfYDX9QBRlWl7KuwzKJgCpGDMHg/1rrLlIhMoaJcLINNpVhjKrF9wHV2rimOBmD7GWUuXfOI2XOOxV76F/fI+sBtngo7hmfJoEi5Gpqd/R1pi37fSQ5HRb1zHRfKozPXcanRvzgIQkGePklzSQrXrdn9I87FLvWsNrI4wjTHmDd3OEySVUNlv201YknQC0f5FaUHP4JN2sO83Vh8BwlRQ='}]
+BUC -> h4gvZdEOjauKVgTO5mQq7U1lxOU0LHr_12pCHg17jZg=
+JSESSIONID -> 54DE47024DF2972ABEC7C046EDBA4A42.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> VH7TRUNMDRPWS
+BA_DEVICE -> 7b91712d-9c0a-440c-b03a-3a25e74118a1
+NID_AUT -> 9AzVD0yP+/FkZ8nJj9M/YiL9kNOuyh9p3O+DxeZZ0tve+6U7LIlZlyjNq5UJh3b8
+nid_inf -> 1405048268
+NAC -> b6suB4Q22sQq
+SRT5 -> 1767840940
+SRT30 -> 1767840940
+NID_SES -> AAABhcVvHhnXo6BN/qEUtWYEKma167zwU4EYYNrQIy0VOrxAcbTnc1lTdntYz8+ey/09+FnVhKV3Wn2w6Dg8ngznWruqsiEEJ1CzCr3Czg3IzWbKTDkuJn4IV9PhPXDC0kl8D6ATo0plDfhAfCWVVx67JpU9/qhQpGPrdZKp7ljpAcK3FGNbzEG/z14mnu4g6IFm3Ypo2Npu+aLFy3oz9ACG3K8Zp4atPg3X66oHJCdFh+/sZ8VpXFOlKAjJ+9ctlYe4K3xDY6dx+FwQs+XSHWTkLYZOcELSCCdm4nARn2Xw0Thc0pmqC5+NEOhLPGU4b9xnu5OfYDX9QBRlWl7KuwzKJgCpGDMHg/1rrLlIhMoaJcLINNpVhjKrF9wHV2rimOBmD7GWUuXfOI2XOOxV76F/fI+sBtngo7hmfJoEi5Gpqd/R1pi37fSQ5HRb1zHRfKozPXcanRvzgIQkGePklzSQrXrdn9I87FLvWsNrI4wjTHmDd3OEySVUNlv201YknQC0f5FaUHP4JN2sO83Vh8BwlRQ=
+mongmoms
+handles :  ['AA0688FF1C3F280A5A9494DB441492AC']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":4,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@624f07cc":{"reactionType":"like","count":4,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"27ecc85fd76cb5a5095bad4e618dc300ed9cfd3fcfb527190f1b9e022f9da3c424d5bf9591ede545e866dd077e95ebad5dadd0cb1d5ac82fca3dff6e210f4c82","timestamp":1767840988887,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"serviceId":"BLOG","displayId":"BLOG","contentsId":"deepgreenads_224137729351","message":"공감이 되었습니다.","categoryId":"post","reactionType":"like","count":5,"isReacted":true,"countType":"DEFAULT","nolimitUserCount":0}
+==================
+message_value 공감이 되었습니다.
+==================
+오에?
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 7868 using port 9222...
+[!] Killing PID 8332 using port 9222...
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Task 1의 상태가 '대기'로 변경되었습니다.
+----------------------
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  127
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['kimchoisex', 'choisw0450', 'feelu12', 'cycy5504', 'sesjjmk', 'koojaok1']
+비밀번호 :::  ['sex6974@', 'chltjddnr0450', 'choi451045!', 'zhdqjffp12!', 'choi451045!', 'choi451045!']
+선택된 값 D:  4
+오에?
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 8816 using port 9222...
+[!] Killing PID 8476 using port 9222...
+[!] Killing PID 6832 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1802400903, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'kLjBQreXOjadptR3cMBvAe2sYmamWz3l5CGOlmSBMMU/UzgDwuQ0zV0NmcM931nE'}, {'domain': 'section.blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7F594F496DEFDEA7208E052D4E1A0B4B.jvm1'}, {'domain': '.naver.com', 'expiry': 1770432903, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1523959142'}, {'domain': '.naver.com', 'expiry': 1767841385, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840874'}, {'domain': '.blog.naver.com', 'expiry': 1802400914, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'cfbfff1c-086f-4bcf-ae3f-138707c08b7b'}, {'domain': '.naver.com', 'expiry': 1767842885, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840874'}, {'domain': '.naver.com', 'expiry': 1802401085, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '98m03iuV6METqtzxbrPnAR1qr2weUGKKQ8Z5MgT7fk4='}, {'domain': '.naver.com', 'expiry': 1802401085, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CBUTFGDKDRPWS'}, {'domain': '.naver.com', 'expiry': 1770432903, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABlhf47+QrwmBCsQqJWSYKcymnoo2fJ9NrTMhqa+SsPG1ZSzCqWmgHdf8ui0gARzN7VZPLS2hHh0CSfrJSuqdMl9E5YPaRfyjeAsDx5kIj/Qk2t8IM3VX0eIDBJGZBrFY8To43iO3Te90Y+psf+WDF+WqzxCWSatDijX0AT7OPH1luPf/3N5taEvAH3rkWha8bElyZzLX64o4KRLtTLdyIc120DJ10NcidP9JR+TnW6hR2smb3U+3MEtmA5BMfec/bBe7B/kxxCqgBz64nWGd9Vq8sMAbYYx0jsI1i8ni+oJDMbnz+SgFAUGX95PD/ndYyKbr9DP8ipmpo8MpaHTAxeYaJ6uM8XhRhSvoahb28uflH7nkgUC7JlzwzCiqFpY5ksnPXLOicNNyn9EgOJdnDteN8fOvCOCRzjIAqIc7jkCx4+YCmSNU8aKuiI5q0ZQjfaAP7UMwVoIgLW4aeLdoGs5tuOslZRosvNyu76geKpDKv0dpICFnMPnfi2fvFo2KcYeNcJt6mqfn495wBauxl50UfQINDPOS1EpNdWAwMnMvy'}, {'domain': '.naver.com', 'expiry': 1767927274, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802400874, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3ipHB4Q21gweB'}]
+NID_AUT -> kLjBQreXOjadptR3cMBvAe2sYmamWz3l5CGOlmSBMMU/UzgDwuQ0zV0NmcM931nE
+JSESSIONID -> 7F594F496DEFDEA7208E052D4E1A0B4B.jvm1
+nid_inf -> 1523959142
+SRT5 -> 1767840874
+BA_DEVICE -> cfbfff1c-086f-4bcf-ae3f-138707c08b7b
+SRT30 -> 1767840874
+BUC -> 98m03iuV6METqtzxbrPnAR1qr2weUGKKQ8Z5MgT7fk4=
+NNB -> CBUTFGDKDRPWS
+NID_SES -> AAABlhf47+QrwmBCsQqJWSYKcymnoo2fJ9NrTMhqa+SsPG1ZSzCqWmgHdf8ui0gARzN7VZPLS2hHh0CSfrJSuqdMl9E5YPaRfyjeAsDx5kIj/Qk2t8IM3VX0eIDBJGZBrFY8To43iO3Te90Y+psf+WDF+WqzxCWSatDijX0AT7OPH1luPf/3N5taEvAH3rkWha8bElyZzLX64o4KRLtTLdyIc120DJ10NcidP9JR+TnW6hR2smb3U+3MEtmA5BMfec/bBe7B/kxxCqgBz64nWGd9Vq8sMAbYYx0jsI1i8ni+oJDMbnz+SgFAUGX95PD/ndYyKbr9DP8ipmpo8MpaHTAxeYaJ6uM8XhRhSvoahb28uflH7nkgUC7JlzwzCiqFpY5ksnPXLOicNNyn9EgOJdnDteN8fOvCOCRzjIAqIc7jkCx4+YCmSNU8aKuiI5q0ZQjfaAP7UMwVoIgLW4aeLdoGs5tuOslZRosvNyu76geKpDKv0dpICFnMPnfi2fvFo2KcYeNcJt6mqfn495wBauxl50UfQINDPOS1EpNdWAwMnMvy
+NACT -> 1
+NAC -> 3ipHB4Q21gweB
+쿠키 체크
+frame None
+userNaverId kimchoisex
+handles :  ['2D314C7A8C6D938F648CF18513F33971']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":5,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@31ec6122":{"reactionType":"like","count":5,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"86c608b47b814bd84d23d357045c711a8e8b84c0da267fd3c20c20312e5f6e992e0f032a57b3f30d5bd17576a200436d18c1b9bc6679504f0dd91052be55903d","timestamp":1767841097994,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":403,"errorCode":4033,"message":"접근이 허용되지 않은 사용자입니다.","moreInfos":["공감","PR015"],"logMessage":"statusCode:[403], errorCode:[4033], message:[접근이 허용되지 않은 사용자입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.String;@64815981]"}
+==================
+message_value 접근이 허용되지 않은 사용자입니다.
+==================
+오에?
+[!] Killing PID 7288 using port 9222...
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 7352 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767841413, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841113'}, {'domain': '.naver.com', 'expiry': 1767842913, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841113'}, {'domain': '.naver.com', 'expiry': 1802401113, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EOhdP46-l2ofHzgQrP0br3k8tuaogFOA_Zc60Y3NjKk='}, {'domain': '.naver.com', 'expiry': 1802401113, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'VMWSFTKZDVPWS'}, {'domain': '.nid.naver.com', 'expiry': 1785121112, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'l7QVmuhmr9L70xC8itwL8uy5+s3L0aRIRf0/h0d6gv4tUmhWAmO4bapczA7F6ninsOERmEF/8fm4+WCGlzIgBj6dyqleXrOZwp4u729NqaQh1ViQeX6LsDDJFthMAydbHa8B7nJC2qRtsnCsI0Vyx1HkzueQAxbkkh78irXgqas='}, {'domain': '.naver.com', 'expiry': 1767927513, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1799377113, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401113, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aj3hB4Q248KR'}]
+SRT5 -> 1767841113
+SRT30 -> 1767841113
+BUC -> EOhdP46-l2ofHzgQrP0br3k8tuaogFOA_Zc60Y3NjKk=
+NNB -> VMWSFTKZDVPWS
+NID_JST -> l7QVmuhmr9L70xC8itwL8uy5+s3L0aRIRf0/h0d6gv4tUmhWAmO4bapczA7F6ninsOERmEF/8fm4+WCGlzIgBj6dyqleXrOZwp4u729NqaQh1ViQeX6LsDDJFthMAydbHa8B7nJC2qRtsnCsI0Vyx1HkzueQAxbkkh78irXgqas=
+NACT -> 1
+nid_slevel -> 1
+NAC -> aj3hB4Q248KR
+쿠키 체크
+frame None
+userNaverId choisw0450
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802401150, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'QD3xUOsK3VS7RV28WMKefPbkUXJWtVP6N183QQiCBQg='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '00A180771BDC38054502D21594B27BC6.jvm1'}, {'domain': '.naver.com', 'expiry': 1767927513, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401150, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'VMWSFTKZDVPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802401149, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '74ff174d-61d1-48e7-9cf9-9b0611863ca5'}, {'domain': '.naver.com', 'expiry': 1802401142, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '4Q2UYzbrA7BJE2/P6jrd/vvULmQNxHk0gKvXfT5LYG5WH6o9NuedyR+7zJdQzZ8Q'}, {'domain': '.naver.com', 'expiry': 1770433142, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1473367445'}, {'domain': '.naver.com', 'expiry': 1802401113, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'aj3hB4Q248KR'}, {'domain': '.naver.com', 'expiry': 1767841450, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841113'}, {'domain': '.naver.com', 'expiry': 1767842950, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841113'}, {'domain': '.naver.com', 'expiry': 1770433142, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhLOYDmBFuoq1NLS+ccQ4ps9Gim+R2XSv+0k6hZ262P8rfdmDIvxSlgI2zwwjM5AyELkLasdXrcHBU/vaxB7xA0JwLXKhy09CJ/ZyMlC4FaAezBAgRgnjNjr5jkgZP/MU/50ZdaV9vfA1djWjqRFbFacV8EedtM411qi1ZbHn7jpn+Dp3K+rrCtUQ5bY7tjaWT1d+5DJsL6p4dHw9rSk8mL4pxiNsWRJhrrzoxVJNMS/3BkK2YLUjvUzIUC66KODGvsPlqasfgFZs6jqilOmEL+AR9l7WcKqQpUdBVUUJAd6wGPZz4K6rXgNYt/KQce0Y6EL+vV/oIhyE3aOtZ2hfP1rk7Bl14lhs+EhPwORaxOixe1hWBROkysiKiDVc+YUyN2m/y8leVkNdJYF3Uor4ar4yahstrqOVCw84pYmL+NajF4Ou4y23SE4qolEDGNJeQmi2z5H730H+/TJkKeQIsdU4CHsJppd4EyYHk9Vk1cAmJlIBlv8Nd29LNip5cpFnezbYJ005AN3zAa6UnFbmeik='}]
+BUC -> QD3xUOsK3VS7RV28WMKefPbkUXJWtVP6N183QQiCBQg=
+JSESSIONID -> 00A180771BDC38054502D21594B27BC6.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> VMWSFTKZDVPWS
+BA_DEVICE -> 74ff174d-61d1-48e7-9cf9-9b0611863ca5
+NID_AUT -> 4Q2UYzbrA7BJE2/P6jrd/vvULmQNxHk0gKvXfT5LYG5WH6o9NuedyR+7zJdQzZ8Q
+nid_inf -> 1473367445
+NAC -> aj3hB4Q248KR
+SRT5 -> 1767841113
+SRT30 -> 1767841113
+NID_SES -> AAABhLOYDmBFuoq1NLS+ccQ4ps9Gim+R2XSv+0k6hZ262P8rfdmDIvxSlgI2zwwjM5AyELkLasdXrcHBU/vaxB7xA0JwLXKhy09CJ/ZyMlC4FaAezBAgRgnjNjr5jkgZP/MU/50ZdaV9vfA1djWjqRFbFacV8EedtM411qi1ZbHn7jpn+Dp3K+rrCtUQ5bY7tjaWT1d+5DJsL6p4dHw9rSk8mL4pxiNsWRJhrrzoxVJNMS/3BkK2YLUjvUzIUC66KODGvsPlqasfgFZs6jqilOmEL+AR9l7WcKqQpUdBVUUJAd6wGPZz4K6rXgNYt/KQce0Y6EL+vV/oIhyE3aOtZ2hfP1rk7Bl14lhs+EhPwORaxOixe1hWBROkysiKiDVc+YUyN2m/y8leVkNdJYF3Uor4ar4yahstrqOVCw84pYmL+NajF4Ou4y23SE4qolEDGNJeQmi2z5H730H+/TJkKeQIsdU4CHsJppd4EyYHk9Vk1cAmJlIBlv8Nd29LNip5cpFnezbYJ005AN3zAa6UnFbmeik=
+91yoon-
+handles :  ['3D09986816EE506B5C49BD1C719AF753']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":5,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@2a2bc85b":{"reactionType":"like","count":5,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"6d7639bb3ca8a75007bc553d8de2b919f1a33b0ad79008a3504422a066b68a3651cb1cd79bdd0c9f392a79098e824524daed075b50c633c7a3f90f6508e81170","timestamp":1767841161778,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@74cf492f]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+오에?
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 5168 using port 9222...
+[!] Killing PID 9040 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767841477, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841176'}, {'domain': '.naver.com', 'expiry': 1767842977, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841176'}, {'domain': '.naver.com', 'expiry': 1802401177, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'EFYS3yz-OEyyv06VvP7a9uLCtIQ1iAvyyOOzPPKftmI='}, {'domain': '.naver.com', 'expiry': 1802401177, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BGT5LQUYDVPWS'}, {'domain': '.nid.naver.com', 'expiry': 1799377176, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401177, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'HflnCwhszBVbB'}, {'domain': '.naver.com', 'expiry': 1767927577, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1785121176, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'z9BvN64ZjdpkSANJrcIbZx4C3yJZJklZrnqNgqA+qZh58CaoXdM9HYGUaEMcBKXCwjL////UCuKumNyo9Gnz4EfEEt2ZKpSK50wUk9S9U1DH4S94hLbXkgaq1dO/nXtc2fzUG+B61YiygIDtLZuNC8e0RAbUl0IWin6WBDtdGyU='}]
+SRT5 -> 1767841176
+SRT30 -> 1767841176
+BUC -> EFYS3yz-OEyyv06VvP7a9uLCtIQ1iAvyyOOzPPKftmI=
+NNB -> BGT5LQUYDVPWS
+nid_slevel -> 1
+NAC -> HflnCwhszBVbB
+NACT -> 1
+NID_JST -> z9BvN64ZjdpkSANJrcIbZx4C3yJZJklZrnqNgqA+qZh58CaoXdM9HYGUaEMcBKXCwjL////UCuKumNyo9Gnz4EfEEt2ZKpSK50wUk9S9U1DH4S94hLbXkgaq1dO/nXtc2fzUG+B61YiygIDtLZuNC8e0RAbUl0IWin6WBDtdGyU=
+쿠키 체크
+frame None
+userNaverId feelu12
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802401212, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2F3-omtv4mYWw5YToM3Wiz8_-LUYvEkVtgfXmDesVtQ='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '7D144157018538F0839818D242A6B4C5.jvm1'}, {'domain': '.naver.com', 'expiry': 1767927577, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401212, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'BGT5LQUYDVPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802401211, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9c69d2a3-1f35-4d8d-8ae2-52a2c75c26c5'}, {'domain': '.naver.com', 'expiry': 1802401204, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'MdLvv1HraDovgJiZkZyYAHBJaj3JffNn+8l+XzB+I/aMno0wwguU08ml/2X17QVw'}, {'domain': '.naver.com', 'expiry': 1770433204, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1605709360'}, {'domain': '.naver.com', 'expiry': 1802401177, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'HflnCwhszBVbB'}, {'domain': '.naver.com', 'expiry': 1767841512, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841176'}, {'domain': '.naver.com', 'expiry': 1770433204, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhMnrXbQuCblul2baGDSrcrjGmm75uX5RK7Nx3vgiyNKev0mhk1M0dWK4bn23qe8F+iRlUhbj79CXqB6oLyA5Fs80c60HhsuwvWoUykh/V4dVQJHu+H99k37odLFKIlETJLLUkjRopU/dMB0srSYpWt3+7DoSl2yJQ6G5+sp25faBwlRmT+rNeBSuF7GswG97J8YX3Q8cVbvSJgVEjkhBVXO1uM9coNq0GLxNKpf/hRwOtaw6NFHsyzHUj16cexdfVIQXQ4d1ppNiYRhQpYV9l+UWLJCw3RmTqL7A0AcwpJ8GTbTK3NFKNzA07Q46mKviURKkefh9fX0G3SsYzlHghOvfr0omHECK8bFvNrp9b4QjuDPsQrU9W2AGHEIWTqkpgx9ZRCB/B7iCgB4ZErdmnTha6ANV4QSTC0CeU7qQFn1puC23T42VqLB61k1Cn28+fzJX9OCooLcW16RU+6vFt9BZoRToHURjVx+NxTQX9jVGD4PaP5I9UUrQ32cVKl33nkeaZBOFsz6NW870Pcy0KGM='}, {'domain': '.naver.com', 'expiry': 1767843012, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841176'}]
+BUC -> 2F3-omtv4mYWw5YToM3Wiz8_-LUYvEkVtgfXmDesVtQ=
+JSESSIONID -> 7D144157018538F0839818D242A6B4C5.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> BGT5LQUYDVPWS
+BA_DEVICE -> 9c69d2a3-1f35-4d8d-8ae2-52a2c75c26c5
+NID_AUT -> MdLvv1HraDovgJiZkZyYAHBJaj3JffNn+8l+XzB+I/aMno0wwguU08ml/2X17QVw
+nid_inf -> 1605709360
+NAC -> HflnCwhszBVbB
+SRT5 -> 1767841176
+NID_SES -> AAABhMnrXbQuCblul2baGDSrcrjGmm75uX5RK7Nx3vgiyNKev0mhk1M0dWK4bn23qe8F+iRlUhbj79CXqB6oLyA5Fs80c60HhsuwvWoUykh/V4dVQJHu+H99k37odLFKIlETJLLUkjRopU/dMB0srSYpWt3+7DoSl2yJQ6G5+sp25faBwlRmT+rNeBSuF7GswG97J8YX3Q8cVbvSJgVEjkhBVXO1uM9coNq0GLxNKpf/hRwOtaw6NFHsyzHUj16cexdfVIQXQ4d1ppNiYRhQpYV9l+UWLJCw3RmTqL7A0AcwpJ8GTbTK3NFKNzA07Q46mKviURKkefh9fX0G3SsYzlHghOvfr0omHECK8bFvNrp9b4QjuDPsQrU9W2AGHEIWTqkpgx9ZRCB/B7iCgB4ZErdmnTha6ANV4QSTC0CeU7qQFn1puC23T42VqLB61k1Cn28+fzJX9OCooLcW16RU+6vFt9BZoRToHURjVx+NxTQX9jVGD4PaP5I9UUrQ32cVKl33nkeaZBOFsz6NW870Pcy0KGM=
+SRT30 -> 1767841176
+dolsamo-
+handles :  ['992EDB2D1D04335513179B183A262CE1']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":5,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@50edd36a":{"reactionType":"like","count":5,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"3553c7045dd2ea30e9bed7d78b0346295fd65e9cd44dc91c86c3634bfb992c45362c62a4639d1fc3e29e42fd70c41f610c72b7958fe9579c9515716a2cd1225a","timestamp":1767841221889,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@3839ce91]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+오에?
+[!] Killing PID 4640 using port 9222...
+[!] Killing PID 2152 using port 9222...
+[!] Killing PID 0 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1767841537, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841237'}, {'domain': '.naver.com', 'expiry': 1767843037, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841237'}, {'domain': '.naver.com', 'expiry': 1802401237, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'cEK500giSwyTtFYjZ78u3A81rc2EjUNrWf-6v2VIPmY='}, {'domain': '.naver.com', 'expiry': 1802401237, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ZABS4IWVDVPWS'}, {'domain': '.nid.naver.com', 'expiry': 1799377237, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401237, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'FSPeCwhs1hSeB'}, {'domain': '.naver.com', 'expiry': 1767927637, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1785121236, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'TeOde8JhQYuN1GlKDjhPeoum5jAEGSv04CK4cl/3Wefx/ixqvWbR+X6nb0q0AhmL9t4BX5bwTN6yBjB4qSbMzl0hnLIeV2oeRw84DXxs303Xa1F+K8I2Q2wm7trw6tYPlpipkpJ4MjrGz1n+lOADuLmiQa6fS/qVb7+LGk8pCZU='}]
+SRT5 -> 1767841237
+SRT30 -> 1767841237
+BUC -> cEK500giSwyTtFYjZ78u3A81rc2EjUNrWf-6v2VIPmY=
+NNB -> ZABS4IWVDVPWS
+nid_slevel -> 1
+NAC -> FSPeCwhs1hSeB
+NACT -> 1
+NID_JST -> TeOde8JhQYuN1GlKDjhPeoum5jAEGSv04CK4cl/3Wefx/ixqvWbR+X6nb0q0AhmL9t4BX5bwTN6yBjB4qSbMzl0hnLIeV2oeRw84DXxs303Xa1F+K8I2Q2wm7trw6tYPlpipkpJ4MjrGz1n+lOADuLmiQa6fS/qVb7+LGk8pCZU=
+쿠키 체크
+frame None
+userNaverId cycy5504
+--------check12
+ddd
+cookies [{'domain': '.naver.com', 'expiry': 1802401273, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'fQdfDxdq6BVWj2ONlSaVZNgAYlUwUIbH708cJZ4qsEw='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '289324EC7D829CEEF91657828D9E6963.jvm1'}, {'domain': '.naver.com', 'expiry': 1767927637, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401273, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ZABS4IWVDVPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802401273, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '9c6bcd02-5860-4665-a27d-0a9aba31d693'}, {'domain': '.naver.com', 'expiry': 1802401266, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'IfnqAZszLN21/L2AZe2hreaMf1Vr/eNPr6zzKN7LUdEPik7JuNH0FBxRmuCuW+Ac'}, {'domain': '.naver.com', 'expiry': 1770433266, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1387548321'}, {'domain': '.naver.com', 'expiry': 1802401237, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'FSPeCwhs1hSeB'}, {'domain': '.naver.com', 'expiry': 1767841573, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841237'}, {'domain': '.naver.com', 'expiry': 1770433266, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhcwEZ6Qamq778CFm7+fJS7cNWdu9JNjYmDlObb/ywbl++MA78Rv+2P8E10IrInNd1K/5WRPvTmY9U4mT+ZxNeZ5Qw+AgsJky4SEL/+8U/ojdvgdscxDzYI3exIurYZiRoUSl5VzAhDjwYCOqKjP2QZj/NWsTr0k+D8sTNenGPSDfLJ9/8Xpp1YbXy3F5OaL2TPnwLw0zXpO6f8F2sveequOXT39L9pwz8oMdbcNRZf93K92h7LI9lXsmUZzGgtrSScKepP/9qOUv9Sq5qHavt3e+b8IygFEEY5jpPVTD1a/KcXozxi7yemJ30ig6bRuMS/lsgpnssO6WGQlL3oQLMEMdZ3pfyL4+zXloZc31il2ItV6FNPOqgo3VHwGxvbpRo+V8JTKdjLqnhS2+Fp9RPwHu4LATkUIFHzndXKk6RihYngRahNFuDxY1sOJFWRRx4pGwnWVapB/EIrhoM5QuX8mOsoF76U0ECsrYBth/2V/0Ozo+9sMi/QGsN9xZB/v/D25tbT81VF9Xq9KPcnz9Uug='}, {'domain': '.naver.com', 'expiry': 1767843073, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841237'}]
+BUC -> fQdfDxdq6BVWj2ONlSaVZNgAYlUwUIbH708cJZ4qsEw=
+JSESSIONID -> 289324EC7D829CEEF91657828D9E6963.jvm1
+NACT -> 1
+stat_yn -> 1
+NNB -> ZABS4IWVDVPWS
+BA_DEVICE -> 9c6bcd02-5860-4665-a27d-0a9aba31d693
+NID_AUT -> IfnqAZszLN21/L2AZe2hreaMf1Vr/eNPr6zzKN7LUdEPik7JuNH0FBxRmuCuW+Ac
+nid_inf -> 1387548321
+NAC -> FSPeCwhs1hSeB
+SRT5 -> 1767841237
+NID_SES -> AAABhcwEZ6Qamq778CFm7+fJS7cNWdu9JNjYmDlObb/ywbl++MA78Rv+2P8E10IrInNd1K/5WRPvTmY9U4mT+ZxNeZ5Qw+AgsJky4SEL/+8U/ojdvgdscxDzYI3exIurYZiRoUSl5VzAhDjwYCOqKjP2QZj/NWsTr0k+D8sTNenGPSDfLJ9/8Xpp1YbXy3F5OaL2TPnwLw0zXpO6f8F2sveequOXT39L9pwz8oMdbcNRZf93K92h7LI9lXsmUZzGgtrSScKepP/9qOUv9Sq5qHavt3e+b8IygFEEY5jpPVTD1a/KcXozxi7yemJ30ig6bRuMS/lsgpnssO6WGQlL3oQLMEMdZ3pfyL4+zXloZc31il2ItV6FNPOqgo3VHwGxvbpRo+V8JTKdjLqnhS2+Fp9RPwHu4LATkUIFHzndXKk6RihYngRahNFuDxY1sOJFWRRx4pGwnWVapB/EIrhoM5QuX8mOsoF76U0ECsrYBth/2V/0Ozo+9sMi/QGsN9xZB/v/D25tbT81VF9Xq9KPcnz9Uug=
+SRT30 -> 1767841237
+handles :  ['8DBA7E06574BC51FA9AB340369A75FB1']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":5,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@7933b2aa":{"reactionType":"like","count":5,"isReacted":false,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"54f82b0b5a1c3f0cb22346a41e467f8f1d49349e19d1150fa3424336b81764c0b6771751d564ad29285c0c36a6549935a5ad438685330e387e01ce6c6be7b006","timestamp":1767841285585,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"serviceId":"BLOG","displayId":"BLOG","contentsId":"deepgreenads_224137729351","message":"공감이 되었습니다.","categoryId":"post","reactionType":"like","count":6,"isReacted":true,"countType":"DEFAULT","nolimitUserCount":0}
+==================
+message_value 공감이 되었습니다.
+==================
+오에?
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 6572 using port 9222...
+[!] Killing PID 5832 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1802401301, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'm_sieCzNu0rQDohoplDB-QTEaV0QIrQvBNHi2we7S88='}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '3B4862D1C0E62AA43CBDC9EAB729ECD9.jvm1'}, {'domain': '.naver.com', 'expiry': 1802400807, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'vWGmB4Q20Uww'}, {'domain': '.naver.com', 'expiry': 1767841601, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841300'}, {'domain': '.naver.com', 'expiry': 1767927207, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401301, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'CQ6ZTYRHDRPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802400847, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'b030283d-c6cf-4c94-ba32-1e3ec8a98b9b'}, {'domain': '.naver.com', 'expiry': 1802400837, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '1cqAjPHzYDUnN9EwZC/EGPEw0uW8H9jeqcNlL5sjXllm6ij6JrNKL4jruBaXji7K'}, {'domain': '.naver.com', 'expiry': 1770432837, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1488729170'}, {'domain': '.naver.com', 'expiry': 1767843101, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840807'}, {'domain': '.naver.com', 'expiry': 1770432837, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABk/2VrQdeohoGcMBf/stCXqfJJzB8lGMItumbuY4mrwnQwK5Tspv/pc8qQ85H4ntE9T3fk2Ln8wEqSnxl531flMjQvP3yMw0lvnpdaZCZ43FegN9HGymPQoUNRquS3widNqG5xwJNB21ubNr3azGVEYrCjbIAwpvhlohGCJynEYBAnCf4jt6rBsC2HuDDt7muXVZ4SFoB9GuRjM2gQP0KQwxzPNeXwD5oOAhpOISQ9qm//rY7X5RwuemD01tzE/+0XiIPsGadF5DK5LILy6AHmNywFTbPJrhcnpfP0aFk4eINyOVp0TQFgbJJ/J0mFIyUZ+H5b/gIpP6Rh9qY5K/FtVDhRUlTxpAzzzWBrDfovUNTYMrZlpflkzXmaARDgy37jIZt8EP0Q9HusYo9Je0YbhJo9tHXweGBXi0MxmYXBGQZcP8SceHly0y+zQ/wY4HK/0NokUVnpmt63Ga6pdMzcbrxnyc9Y3jmmeJbDxyDm3HcwEIXxKZeVJWCSZlBu3iMAulKjMhsn2OJCa6yfvTDGqYXmBarmpwINRnAqOgcifri'}]
+BUC -> m_sieCzNu0rQDohoplDB-QTEaV0QIrQvBNHi2we7S88=
+JSESSIONID -> 3B4862D1C0E62AA43CBDC9EAB729ECD9.jvm1
+NAC -> vWGmB4Q20Uww
+SRT5 -> 1767841300
+NACT -> 1
+stat_yn -> 1
+NNB -> CQ6ZTYRHDRPWS
+BA_DEVICE -> b030283d-c6cf-4c94-ba32-1e3ec8a98b9b
+NID_AUT -> 1cqAjPHzYDUnN9EwZC/EGPEw0uW8H9jeqcNlL5sjXllm6ij6JrNKL4jruBaXji7K
+nid_inf -> 1488729170
+SRT30 -> 1767840807
+NID_SES -> AAABk/2VrQdeohoGcMBf/stCXqfJJzB8lGMItumbuY4mrwnQwK5Tspv/pc8qQ85H4ntE9T3fk2Ln8wEqSnxl531flMjQvP3yMw0lvnpdaZCZ43FegN9HGymPQoUNRquS3widNqG5xwJNB21ubNr3azGVEYrCjbIAwpvhlohGCJynEYBAnCf4jt6rBsC2HuDDt7muXVZ4SFoB9GuRjM2gQP0KQwxzPNeXwD5oOAhpOISQ9qm//rY7X5RwuemD01tzE/+0XiIPsGadF5DK5LILy6AHmNywFTbPJrhcnpfP0aFk4eINyOVp0TQFgbJJ/J0mFIyUZ+H5b/gIpP6Rh9qY5K/FtVDhRUlTxpAzzzWBrDfovUNTYMrZlpflkzXmaARDgy37jIZt8EP0Q9HusYo9Je0YbhJo9tHXweGBXi0MxmYXBGQZcP8SceHly0y+zQ/wY4HK/0NokUVnpmt63Ga6pdMzcbrxnyc9Y3jmmeJbDxyDm3HcwEIXxKZeVJWCSZlBu3iMAulKjMhsn2OJCa6yfvTDGqYXmBarmpwINRnAqOgcifri
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=sesjjmk&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId sesjjmk
+handles :  ['BA4BEF6A1644392F22B860B129EDA129']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":6,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@3d816c21":{"reactionType":"like","count":6,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"56924a195bd63581a890a786257cb5b5f9b0f46a428819d3eb84476b1f2f6c5a216dd8fa3a408f93b5f6f3061532260c3c5ea64498ef7c5ca02dfa2eb2b5598d","timestamp":1767841314504,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@60a0260f]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+오에?
+[!] Killing PID 0 using port 9222...
+[!] Killing PID 7232 using port 9222...
+[!] Killing PID 1620 using port 9222...
+cookies [{'domain': '.naver.com', 'expiry': 1802400940, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'b6suB4Q22sQq'}, {'domain': '.naver.com', 'expiry': 1767841630, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767841329'}, {'domain': '.naver.com', 'expiry': 1767927340, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1802401330, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'VH7TRUNMDRPWS'}, {'domain': '.blog.naver.com', 'expiry': 1802400976, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '7b91712d-9c0a-440c-b03a-3a25e74118a1'}, {'domain': '.naver.com', 'expiry': 1802400969, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '9AzVD0yP+/FkZ8nJj9M/YiL9kNOuyh9p3O+DxeZZ0tve+6U7LIlZlyjNq5UJh3b8'}, {'domain': '.naver.com', 'expiry': 1770432969, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1405048268'}, {'domain': '.naver.com', 'expiry': 1767843130, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1767840940'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'B908F97C830EFFD046154E759DE648FF.jvm1'}, {'domain': '.naver.com', 'expiry': 1802401330, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ZqvK30a66aNB0tsbUGsFv9egNs_QOPi627zwhXj43NA='}, {'domain': '.naver.com', 'expiry': 1770432969, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABhcVvHhnXo6BN/qEUtWYEKma167zwU4EYYNrQIy0VOrxAcbTnc1lTdntYz8+ey/09+FnVhKV3Wn2w6Dg8ngznWruqsiEEJ1CzCr3Czg3IzWbKTDkuJn4IV9PhPXDC0kl8D6ATo0plDfhAfCWVVx67JpU9/qhQpGPrdZKp7ljpAcK3FGNbzEG/z14mnu4g6IFm3Ypo2Npu+aLFy3oz9ACG3K8Zp4atPg3X66oHJCdFh+/sZ8VpXFOlKAjJ+9ctlYe4K3xDY6dx+FwQs+XSHWTkLYZOcELSCCdm4nARn2Xw0Thc0pmqC5+NEOhLPGU4b9xnu5OfYDX9QBRlWl7KuwzKJgCpGDMHg/1rrLlIhMoaJcLINNpVhjKrF9wHV2rimOBmD7GWUuXfOI2XOOxV76F/fI+sBtngo7hmfJoEi5Gpqd/R1pi37fSQ5HRb1zHRfKozPXcanRvzgIQkGePklzSQrXrdn9I87FLvWsNrI4wjTHmDd3OEySVUNlv201YknQC0f5FaUHP4JN2sO83Vh8BwlRQ='}]
+NAC -> b6suB4Q22sQq
+SRT5 -> 1767841329
+NACT -> 1
+stat_yn -> 1
+NNB -> VH7TRUNMDRPWS
+BA_DEVICE -> 7b91712d-9c0a-440c-b03a-3a25e74118a1
+NID_AUT -> 9AzVD0yP+/FkZ8nJj9M/YiL9kNOuyh9p3O+DxeZZ0tve+6U7LIlZlyjNq5UJh3b8
+nid_inf -> 1405048268
+SRT30 -> 1767840940
+JSESSIONID -> B908F97C830EFFD046154E759DE648FF.jvm1
+BUC -> ZqvK30a66aNB0tsbUGsFv9egNs_QOPi627zwhXj43NA=
+NID_SES -> AAABhcVvHhnXo6BN/qEUtWYEKma167zwU4EYYNrQIy0VOrxAcbTnc1lTdntYz8+ey/09+FnVhKV3Wn2w6Dg8ngznWruqsiEEJ1CzCr3Czg3IzWbKTDkuJn4IV9PhPXDC0kl8D6ATo0plDfhAfCWVVx67JpU9/qhQpGPrdZKp7ljpAcK3FGNbzEG/z14mnu4g6IFm3Ypo2Npu+aLFy3oz9ACG3K8Zp4atPg3X66oHJCdFh+/sZ8VpXFOlKAjJ+9ctlYe4K3xDY6dx+FwQs+XSHWTkLYZOcELSCCdm4nARn2Xw0Thc0pmqC5+NEOhLPGU4b9xnu5OfYDX9QBRlWl7KuwzKJgCpGDMHg/1rrLlIhMoaJcLINNpVhjKrF9wHV2rimOBmD7GWUuXfOI2XOOxV76F/fI+sBtngo7hmfJoEi5Gpqd/R1pi37fSQ5HRb1zHRfKozPXcanRvzgIQkGePklzSQrXrdn9I87FLvWsNrI4wjTHmDd3OEySVUNlv201YknQC0f5FaUHP4JN2sO83Vh8BwlRQ=
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=mongmoms&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId koojaok1
+handles :  ['7FCB4A9670114560D2B686862DCE488D']
+스탑
+계정 상태 좋음 4
+status GOOD
+<Response [200]>
+----naver_like_function_before---
+{"contents":[{"serviceId":"BLOG","contentsId":"deepgreenads_224137729351","isDisplay":true,"categoryId":null,"countType":"DEFAULT","reactions":[{"reactionType":"like","count":6,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}],"reactionMap":{"com.naver.react.core.nbasearc.common.ReactionType@11cd75a7":{"reactionType":"like","count":6,"isReacted":true,"periodUser":null,"reactionTypeCode":{"name":"like","messageCode":"reaction.type.like","description":"좋아요"}}},"reactionTextMap":{"ko":{"thanks":"감사","haha":"웃김","like":"공감","sad":"슬픔","impressive":"칭찬","wow":"놀람"},"zh-hant":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-tw":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-hans":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"ja":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"en":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"fr":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"zh-cn":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"},"es-mx":{"thanks":"thanks","haha":"haha","like":"like","sad":"sad","impressive":"impressive","wow":"wow"}},"isLogin":false,"customized":false,"differentPlatform":false}],"serviceOptionType":{"BLOG":{"012":true,"026":true,"027":true,"006":false}},"guestToken":"27ecc85fd76cb5a5095bad4e618dc300ed9cfd3fcfb527190f1b9e022f9da3c4096b6db9d0c4c045fefdec1efd76a116a78d3062a96f605d6a3464d4049988ce","timestamp":1767841344049,"isLogin":true,"cssConfs":[{"cssId":"BASIC_PC","assignId":"7cc17c54-b13b-4796-bab4-7b2a7fa4ef4d","staticId":"284e5c1e-e88b-4d16-9857-fc4e43b2c57e","envType":"PC","applyYn":"Y","url":null},{"cssId":"BLOG_PC","assignId":"03de944b-149c-4a2e-a063-ffe40ba919ac","staticId":"552604da-9963-45d1-9d2c-dc7ffb1b5358","envType":"PC","applyYn":"Y","url":null}]}
+----naver_like_function_before-END--
+<Response [200]>
+{"statusCode":409,"errorCode":4091,"message":"이미 공감한 컨텐츠입니다.","moreInfos":["공감"],"logMessage":"statusCode:[409], errorCode:[4091], message:[이미 공감한 컨텐츠입니다.], moreInfo:[null], moreInfos:[[Ljava.lang.Object;@6e3d04b1]"}
+==================
+message_value 이미 공감한 컨텐츠입니다.
+==================
+아아디 개수 부족으로 좋아요 작업 종료
+선택된 값 F:  123
+randomtimeAA 123
+asdf 123
+동작중 0
+randomtimeAA 123
+asdf 123
+동작중 1
+randomtimeAA 123
+asdf 123
+동작중 2
+randomtimeAA 123
+asdf 123
+동작중 3
+randomtimeAA 123
+asdf 123
+동작중 4
+randomtimeAA 123
+asdf 123
+동작중 5
+randomtimeAA 123
+asdf 123
+동작중 6
+randomtimeAA 123
+asdf 123
+동작중 7
+randomtimeAA 123
+asdf 123
+동작중 8
+randomtimeAA 123
+asdf 123
+동작중 9
+randomtimeAA 123
+asdf 123
+동작중 10
+randomtimeAA 123
+asdf 123
+동작중 11
+randomtimeAA 123
+asdf 123
+동작중 12
+randomtimeAA 123
+asdf 123
+동작중 13
+randomtimeAA 123
+asdf 123
+동작중 14
+randomtimeAA 123
+asdf 123
+동작중 15
+randomtimeAA 123
+asdf 123
+동작중 16
+randomtimeAA 123
+asdf 123
+동작중 17
+randomtimeAA 123
+asdf 123
+동작중 18
+randomtimeAA 123
+asdf 123
+동작중 19
+randomtimeAA 123
+asdf 123
+동작중 20
+randomtimeAA 123
+asdf 123
+동작중 21
+randomtimeAA 123
+asdf 123
+동작중 22
+randomtimeAA 123
+asdf 123
+동작중 23
+randomtimeAA 123
+asdf 123
+동작중 24
+randomtimeAA 123
+asdf 123
+동작중 25
+randomtimeAA 123
+asdf 123
+동작중 26
+randomtimeAA 123
+asdf 123
+동작중 27
+randomtimeAA 123
+asdf 123
+동작중 28
+randomtimeAA 123
+asdf 123
+동작중 29
+randomtimeAA 123
+asdf 123
+동작중 30
+randomtimeAA 123
+asdf 123
+동작중 31
+randomtimeAA 123
+asdf 123
+동작중 32
+randomtimeAA 123
+asdf 123
+동작중 33
+randomtimeAA 123
+asdf 123
+동작중 34
+randomtimeAA 123
+asdf 123
+동작중 35
+randomtimeAA 123
+asdf 123
+동작중 36
+randomtimeAA 123
+asdf 123
+동작중 37
+randomtimeAA 123
+asdf 123
+동작중 38
+randomtimeAA 123
+asdf 123
+동작중 39
+randomtimeAA 123
+asdf 123
+동작중 40
+randomtimeAA 123
+asdf 123
+동작중 41
+randomtimeAA 123
+asdf 123
+동작중 42
+randomtimeAA 123
+asdf 123
+동작중 43
+randomtimeAA 123
+asdf 123
+동작중 44
+randomtimeAA 123
+asdf 123
+동작중 45
+randomtimeAA 123
+asdf 123
+동작중 46
+randomtimeAA 123
+asdf 123
+동작중 47
+randomtimeAA 123
+asdf 123
+동작중 48
+randomtimeAA 123
+asdf 123
+동작중 49
+randomtimeAA 123
+asdf 123
+동작중 50
+randomtimeAA 123
+asdf 123
+동작중 51
+randomtimeAA 123
+asdf 123
+동작중 52
+randomtimeAA 123
+asdf 123
+동작중 53
+randomtimeAA 123
+asdf 123
+동작중 54
+randomtimeAA 123
+asdf 123
+동작중 55
+randomtimeAA 123
+asdf 123
+동작중 56
+randomtimeAA 123
+asdf 123
+동작중 57
+randomtimeAA 123
+asdf 123
+동작중 58
+randomtimeAA 123
+asdf 123
+동작중 59
+randomtimeAA 123
+asdf 123
+동작중 60
+randomtimeAA 123
+asdf 123
+동작중 61
+randomtimeAA 123
+asdf 123
+동작중 62
+randomtimeAA 123
+asdf 123
+동작중 63
+randomtimeAA 123
+asdf 123
+동작중 64
+randomtimeAA 123
+asdf 123
+동작중 65
+randomtimeAA 123
+asdf 123
+동작중 66
+randomtimeAA 123
+asdf 123
+동작중 67
+randomtimeAA 123
+asdf 123
+동작중 68
+randomtimeAA 123
+asdf 123
+동작중 69
+randomtimeAA 123
+asdf 123
+동작중 70
+randomtimeAA 123
+asdf 123
+동작중 71
+randomtimeAA 123
+asdf 123
+동작중 72
+randomtimeAA 123
+asdf 123
+동작중 73
+randomtimeAA 123
+asdf 123
+동작중 74
+randomtimeAA 123
+asdf 123
+동작중 75
+randomtimeAA 123
+asdf 123
+동작중 76
+randomtimeAA 123
+asdf 123
+동작중 77
+randomtimeAA 123
+asdf 123
+동작중 78
+randomtimeAA 123
+asdf 123
+동작중 79
+randomtimeAA 123
+asdf 123
+동작중 80
+randomtimeAA 123
+asdf 123
+동작중 81
+randomtimeAA 123
+asdf 123
+동작중 82
+randomtimeAA 123
+asdf 123
+동작중 83
+randomtimeAA 123
+asdf 123
+동작중 84
+randomtimeAA 123
+asdf 123
+동작중 85
+randomtimeAA 123
+asdf 123
+동작중 86
+randomtimeAA 123
+asdf 123
+동작중 87
+randomtimeAA 123
+asdf 123
+동작중 88
+randomtimeAA 123
+asdf 123
+동작중 89
+randomtimeAA 123
+asdf 123
+동작중 90
+randomtimeAA 123
+asdf 123
+동작중 91
+randomtimeAA 123
+asdf 123
+동작중 92
+randomtimeAA 123
+asdf 123
+동작중 93
+randomtimeAA 123
+asdf 123
+동작중 94
+randomtimeAA 123
+asdf 123
+동작중 95
+randomtimeAA 123
+asdf 123
+동작중 96
+randomtimeAA 123
+asdf 123
+동작중 97
+randomtimeAA 123
+asdf 123
+동작중 98
+randomtimeAA 123
+asdf 123
+동작중 99
+randomtimeAA 123
+asdf 123
+동작중 100
+randomtimeAA 123
+asdf 123
+동작중 101
+randomtimeAA 123
+asdf 123
+동작중 102
+randomtimeAA 123
+asdf 123
+동작중 103
+randomtimeAA 123
+asdf 123
+동작중 104
+randomtimeAA 123
+asdf 123
+동작중 105
+randomtimeAA 123
+asdf 123
+동작중 106
+randomtimeAA 123
+asdf 123
+동작중 107
+randomtimeAA 123
+asdf 123
+동작중 108
+randomtimeAA 123
+asdf 123
+동작중 109
+randomtimeAA 123
+asdf 123
+동작중 110
+randomtimeAA 123
+asdf 123
+동작중 111
+randomtimeAA 123
+asdf 123
+동작중 112
+randomtimeAA 123
+asdf 123
+동작중 113
+randomtimeAA 123
+asdf 123
+동작중 114
+randomtimeAA 123
+asdf 123
+동작중 115
+randomtimeAA 123
+asdf 123
+동작중 116
+randomtimeAA 123
+asdf 123
+동작중 117
+randomtimeAA 123
+asdf 123
+동작중 118
+randomtimeAA 123
+asdf 123
+동작중 119
+randomtimeAA 123
+asdf 123
+동작중 120
+randomtimeAA 123
+asdf 123
+동작중 121
+randomtimeAA 123
+asdf 123
+동작중 122
+randomtimeAA 123
+asdf 123
+동작중 123
+randomtimeAA 123
+asdf 123
+동작중 124
+randomtimeAA 123
+asdf 123
+동작중 125
+randomtimeAA 123
+asdf 123
+동작중 126
+randomtimeAA 123
+asdf 123
+동작중 127
+선택된 값 G:  4
+오에?
+[!] Killing PID 6124 using port 9222...
+[!] Killing PID 5620 using port 9222...
+실행 중 오류 발생2: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Task 1의 상태가 '대기'로 변경되었습니다.
