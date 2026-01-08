@@ -1,0 +1,47 @@
+DB access----success!!
+어라
+for_use_date 
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  134
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['koojaok1', 'choisw0450', 'feelu12', 'kimchoisex', 'cycy5504', 'sesjjmk']
+비밀번호 :::  ['choi451045!', 'chltjddnr0450', 'choi451045!', 'sex6974@', 'zhdqjffp12!', 'choi451045!']
+선택된 값 D:  4
+실행 중 오류 발생2: cookies_value_WEBBLOG() takes exactly 3 positional arguments (2 given)
+Task 1의 상태가 '대기'로 변경되었습니다.
+----------------------
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  132
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['koojaok1', 'cycy5504', 'choisw0450', 'feelu12', 'sesjjmk', 'kimchoisex']
+비밀번호 :::  ['choi451045!', 'zhdqjffp12!', 'chltjddnr0450', 'choi451045!', 'choi451045!', 'sex6974@']
+선택된 값 D:  4
+실행 중 오류 발생2: cookies_value_WEBBLOG() takes exactly 3 positional arguments (2 given)
+Task 1의 상태가 '대기'로 변경되었습니다.
