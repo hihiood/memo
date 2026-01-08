@@ -1,0 +1,46 @@
+DB access----success!!
+for_use_date VIP
+DB access----success!!
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  137
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['choisw0450', 'cycy5504', 'sesjjmk', 'koojaok1', 'feelu12', 'kimchoisex']
+비밀번호 :::  ['chltjddnr0450', 'zhdqjffp12!', 'choi451045!', 'choi451045!', 'choi451045!', 'sex6974@']
+선택된 값 D:  4
+cookies_value_WEBBLOG 에서 current_proxy0 None
+실행 중 오류 발생2: name 'find_chrome_path' is not defined
+Task 1의 상태가 '대기'로 변경되었습니다.
+----------------------
+1
+[('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/deepgreenads/224137729351', '4~4', '4~4', '4~4', '120~150', '대기')
+개수 :  1.0
+선택된 값 DD:  131
+체류시간 :  ['120', '150']
+blogname_insert_data https://blog.naver.com/deepgreenads/224137729351
+1
+testLogID 224137729351
+['https:', '', 'blog.naver.com', 'deepgreenads', '224137729351']
+testID deepgreenads
+['sesjjmk/choi451045!', 'koojaok1/choi451045!', 'feelu12/choi451045!', 'choisw0450/chltjddnr0450', 'cycy5504/zhdqjffp12!', 'kimchoisex/sex6974@']
+아이디 :::  ['choisw0450', 'koojaok1', 'kimchoisex', 'sesjjmk', 'cycy5504', 'feelu12']
+비밀번호 :::  ['chltjddnr0450', 'choi451045!', 'sex6974@', 'choi451045!', 'zhdqjffp12!', 'choi451045!']
+선택된 값 D:  4
+cookies_value_WEBBLOG 에서 current_proxy0 None
+실행 중 오류 발생2: name 'find_chrome_path' is not defined
+Task 1의 상태가 '대기'로 변경되었습니다.
