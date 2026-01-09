@@ -1,0 +1,2837 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+IP 변경중...
+
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+변경된 IP : 119.206.68.161
+
+Captured output: 143
+내 크롬 버전 :: 143
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+DB access----success!!
+30
+0     입주청소 빅클린
+1     입주청소 빅클린
+2     입주청소 빅클린
+3     입주청소 빅클린
+4     입주청소 빅클린
+5     입주청소 빅클린
+6     입주청소 빅클린
+7     입주청소 빅클린
+8     입주청소 빅클린
+9     입주청소 빅클린
+10    입주청소 빅클린
+11    입주청소 빅클린
+12    입주청소 빅클린
+13    입주청소 빅클린
+14    입주청소 빅클린
+15    입주청소 빅클린
+16    입주청소 빅클린
+17    입주청소 빅클린
+18    입주청소 빅클린
+19    입주청소 빅클린
+20    입주청소 빅클린
+21    입주청소 빅클린
+22    입주청소 빅클린
+23    입주청소 빅클린
+24    입주청소 빅클린
+25    입주청소 빅클린
+26    입주청소 빅클린
+27    입주청소 빅클린
+28    입주청소 빅클린
+29    입주청소 빅클린
+Name: 작업 매장, dtype: object
+find_name 입주청소 빅클린
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcad078
+	0xcdc996
+	0xcd8210
+	0xcd7743
+	0xc3e73d
+	0xc3ecce
+	0xc3f19d
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xc3e3f3
+	0xc3daa8
+	0x1229e4f
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+--------------total error-------import --------
+에러메세지
+Message: element not interactable
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e75b
+	0xcb4c62
+	0xcb338f
+	0xcdcadc
+	0xcaf9e4
+	0xcdcc94
+	0xcff088
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe96d03
+	0xe96d44
+	0xc6e90d
+	0xc5ee6a
+	0xc5eb9d
+	0xc5ca1e
+	0xc5d5d7
+	0xc6a35e
+	0xc7c275
+	0xc81dc6
+	0xc5dc56
+	0xc7bb08
+	0xcff3c0
+	0xcdc8d6
+	0xcadc50
+	0xcaef74
+	0x10ec9f4
+	0x10e7b95
+	0xebfdd4
+	0xeafb38
+	0xeb6aad
+	0xe9f198
+	0xe9f35c
+	0xe88ffa
+	0x751efcc9
+	0x76f182ae
+	0x76f1827e
+
+시작
+File saved to: C:\Users\khw59\OneDrive\바탕 화면\바드마스터\바드마스터\네이버플레이스\유효타\logfile.txt
