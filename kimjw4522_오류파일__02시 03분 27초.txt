@@ -1,0 +1,146 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+DB access----success!!
+chaeck_category adsence_click/////
+1240
+357
+1250
+388
+1199
+410
+1240
+444
+1239
+445
+1219
+485
+scrollcounter 0
+총 작업개수: 2005
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\5c65622a0cf84b58a9636d633ae38465.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\3aa246c19160488bb9ac571b3728b19d.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\1a471ef856794fce8055b9a0145b9c59.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+out of internet
+--------------total error-------import --------
+에러메세지
+local variable 'driver' referenced before assignment
+DB access----success!!
+chaeck_category adsence_click/////
+1240
+357
+1250
+388
+1199
+410
+1240
+444
+1239
+445
+1219
+485
+scrollcounter 0
+총 작업개수: 2005
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\bbae24b71d654dcca528871c16acd424.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\75591d6bd73c4cdbbee2402bdd750276.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\16dd27ed4aac41379dda2989e20cfb7f.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+out of internet
+--------------total error-------import --------
+에러메세지
+local variable 'driver' referenced before assignment
+DB access----success!!
+chaeck_category adsence_click/////
+1240
+357
+1250
+388
+1199
+410
+1240
+444
+1239
+445
+1219
+485
+scrollcounter 0
+총 작업개수: 2005
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\20ea0cdf9803409d8f2b906f6fee6d47.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\a65f951c5c174791805cc8d3bd9898bf.pyd
+Running main() from the .pyd file...
+Captured output: 143
+최신 크롬 버전 :: 143
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\rhlgm\AppData\Local\Temp\5acfef4741ff4514bfbda09e1388dcc6.pyd
+Running main() from the .pyd file...
+Captured output: 143
+내 드라이버 버전 :: 143
+=========================================
+내 크롬 버전 :: 143
+최신 크롬 버전 :: 143
+내 드라이버 버전 :: 143
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+IP 변경중...
+
+외부 IP: 115.144.144.34
+변경된 IP : 115.144.144.34
+
+out of internet
+--------------total error-------import --------
+에러메세지
+local variable 'driver' referenced before assignment
+🟢 사용자 선택: 서버1
+시작
+File saved to: C:\Users\rhlgm\Desktop\OneDrive_2025-11-26\logfile.txt
