@@ -1,0 +1,207 @@
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5f23cfb678b947f8a0a0ef0bba197895.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\a4c7b8eefcc443cdb01f7dafc543565f.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\a8da23339d644277ad4ad9fafd0550fe.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+target_time: 2026-01-27 14:16:48
+now: 2026-01-27 14:17:33.049068
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\9e3a5f4310474b4b9ef86b47656ab970.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\af10dc44ec644ccfac2845273315e8e5.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\9e8c4a43f2654639a74194eae45c1f2b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+title 재규어 차주, 경비원에 갑질…주차스티커 당장 뗴라
+title 10.15 이후 매도자가 갑이다…아파트, '부르는게 값'
+title 편의점 돌며 수표 결제로 속여 현금 가로챈 40대 구속
+title 메디컬 테스트 불합격?...외국인 선수 kbo 구단에 소송 거나...
+title 위조 명품 유통으로 165억…"호텔에서 호화 생활"
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+1    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+2    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+3    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+4    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     주차장에 주차된 차
+1    대한민국 아파트 단지
+2         지폐 여러장
+3          야구 투수
+4          명품 가방
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:010-5240-4972
+1    tel:010-5240-4972
+2    tel:010-5240-4972
+3    tel:010-5240-4972
+4    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+1    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+2    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+3    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+4    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+3    None
+4    None
+dtype: object
+엑셀 개수 5
+🚨 MySQL 오류 발생: (2003, "Can't connect to MySQL server on '125.240.193.5' (timed out)")
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\e4f75b3d13f047998288801ba225730e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5710937c176e4788a0570c42a5d6e714.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\219c4a7932044c568c45e65d791e93e7.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\bbd18a2a696f4377859fef0d4492c609.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\afbece5337a64c3cab06c23781e49538.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5e3b3193304444b0b9d216ede549b1ed.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\f6b5afe9acfa441eaf86c9accdb857f1.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\1d26cb9e90e24ed88b3b3bd9cf917853.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\ecf9c9eec5a849bd806f717e736b5ca5.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+학습chatGPT1
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\5b18137c3476410885a574cfbb0d72c3.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\6a9ebf0cf91245c096faffa73df40d2c.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\76c395c62b494d46aa955bc3d9e385fd.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+시작
+File saved to: C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\네이버블로그\logfile.txt
