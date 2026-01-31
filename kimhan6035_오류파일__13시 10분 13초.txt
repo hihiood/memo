@@ -1,0 +1,603 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+chatGPT1
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\dd35542ccbd54c35986c92b9b97a6d22.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ebb756ac859d427fa7b3d7ded8203a41.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\e4f68c3ff0674d0d83d56af68735e70d.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+순천 핸드폰 포렌식 복구 가능 여부, 법적 절차에 필요한 조건은?
+title 순천 핸드폰 포렌식 복구 가능 여부, 법적 절차에 필요한 조건은?
+대구 스마트폰 포렌식 복구와 디지털 증거 수집의 관계
+title 대구 스마트폰 포렌식 복구와 디지털 증거 수집의 관계
+울산 휴대폰 포렌식 복구 과정에서 자주 묻는 질문 정리
+title 울산 휴대폰 포렌식 복구 과정에서 자주 묻는 질문 정리
+부산 핸드폰 포렌식 복구로 복원한 음성 녹음 파일 실제 사례
+title 부산 핸드폰 포렌식 복구로 복원한 음성 녹음 파일 실제 사례
+창원 스마트폰 포렌식 복구 맡기기 전, 반드시 확인할 보안 항목
+title 창원 스마트폰 포렌식 복구 맡기기 전, 반드시 확인할 보안 항목
+김해 휴대폰 포렌식 복구 성공률 높은 상황과 복구가 어려운 조건
+title 김해 휴대폰 포렌식 복구 성공률 높은 상황과 복구가 어려운 조건
+진천 데이터 복구 업계가 인정한 밴드 동영상 영구삭제 기술
+title 진천 데이터 복구 업계가 인정한 밴드 동영상 영구삭제 기술
+괴산 디지털 증거 분석 전문가가 설명하는 인스타 흔적 제거 공식
+title 괴산 디지털 증거 분석 전문가가 설명하는 인스타 흔적 제거 공식
+음성 사이버보안 전문가가 인증한 카카오톡 복구 안되게 삭제법
+title 음성 사이버보안 전문가가 인증한 카카오톡 복구 안되게 삭제법
+단양 카톡 메신저 데이터 완전삭제 기법
+title 단양 카톡 메신저 데이터 완전삭제 기법
+천안 디지털 포렌식팀이 승인한 문자 흔적 차단 절차
+title 천안 디지털 포렌식팀이 승인한 문자 흔적 차단 절차
+아산 스마트폰 보안 전문가가 알려주는 사진·동영상 영구삭제 원리
+title 아산 스마트폰 보안 전문가가 알려주는 사진·동영상 영구삭제 원리
+공주 포렌식 엔지니어가 직접 밝히는 카톡 백업 파일 완전삭제 방법
+title 공주 포렌식 엔지니어가 직접 밝히는 카톡 백업 파일 완전삭제 방법
+맥북에서 외장하드 복구 가능한가요? 부여 사용자 후기 공개
+title 맥북에서 외장하드 복구 가능한가요? 부여 사용자 후기 공개
+스마트폰 사진 복구 방법, 서천 외장하드 복구보다 쉬울까?
+title 스마트폰 사진 복구 방법, 서천 외장하드 복구보다 쉬울까?
+금산 영상이 끊겨 저장된 블랙박스, 복구로 해결 가능했을까?
+title 금산 영상이 끊겨 저장된 블랙박스, 복구로 해결 가능했을까?
+당진 차량 사고 후 영상 누락, 블랙박스 복구로 가능했던 이유
+title 당진 차량 사고 후 영상 누락, 블랙박스 복구로 가능했던 이유
+부여 블랙박스 복구 비용이 생각보다 비쌌던 이유는?
+title 부여 블랙박스 복구 비용이 생각보다 비쌌던 이유는?
+서천 블랙박스 영상 복구로 사고 증거 확보에 성공한 사례
+title 서천 블랙박스 영상 복구로 사고 증거 확보에 성공한 사례
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None]
+엑셀 개수 19
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+1--now_device_check 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+1--device_check_DB 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+23now_device_check 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+23device_check_DB 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+지금 아이디 :
+excel_counter 0
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\115a7c65dd4043e3bd0f0bd642debe50.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a1476c96f39b48e8bcd731e3213f2d06.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\fc5edb7725c145a59b09cb7f437a4c83.pyd
+Running main() from the .pyd file...
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+순천 핸드폰 포렌식 복구 가능 여부, 법적 절차에 필요한 조건은?
+title 순천 핸드폰 포렌식 복구 가능 여부, 법적 절차에 필요한 조건은?
+대구 스마트폰 포렌식 복구와 디지털 증거 수집의 관계
+title 대구 스마트폰 포렌식 복구와 디지털 증거 수집의 관계
+울산 휴대폰 포렌식 복구 과정에서 자주 묻는 질문 정리
+title 울산 휴대폰 포렌식 복구 과정에서 자주 묻는 질문 정리
+부산 핸드폰 포렌식 복구로 복원한 음성 녹음 파일 실제 사례
+title 부산 핸드폰 포렌식 복구로 복원한 음성 녹음 파일 실제 사례
+창원 스마트폰 포렌식 복구 맡기기 전, 반드시 확인할 보안 항목
+title 창원 스마트폰 포렌식 복구 맡기기 전, 반드시 확인할 보안 항목
+김해 휴대폰 포렌식 복구 성공률 높은 상황과 복구가 어려운 조건
+title 김해 휴대폰 포렌식 복구 성공률 높은 상황과 복구가 어려운 조건
+진천 데이터 복구 업계가 인정한 밴드 동영상 영구삭제 기술
+title 진천 데이터 복구 업계가 인정한 밴드 동영상 영구삭제 기술
+괴산 디지털 증거 분석 전문가가 설명하는 인스타 흔적 제거 공식
+title 괴산 디지털 증거 분석 전문가가 설명하는 인스타 흔적 제거 공식
+음성 사이버보안 전문가가 인증한 카카오톡 복구 안되게 삭제법
+title 음성 사이버보안 전문가가 인증한 카카오톡 복구 안되게 삭제법
+단양 카톡 메신저 데이터 완전삭제 기법
+title 단양 카톡 메신저 데이터 완전삭제 기법
+천안 디지털 포렌식팀이 승인한 문자 흔적 차단 절차
+title 천안 디지털 포렌식팀이 승인한 문자 흔적 차단 절차
+아산 스마트폰 보안 전문가가 알려주는 사진·동영상 영구삭제 원리
+title 아산 스마트폰 보안 전문가가 알려주는 사진·동영상 영구삭제 원리
+공주 포렌식 엔지니어가 직접 밝히는 카톡 백업 파일 완전삭제 방법
+title 공주 포렌식 엔지니어가 직접 밝히는 카톡 백업 파일 완전삭제 방법
+맥북에서 외장하드 복구 가능한가요? 부여 사용자 후기 공개
+title 맥북에서 외장하드 복구 가능한가요? 부여 사용자 후기 공개
+스마트폰 사진 복구 방법, 서천 외장하드 복구보다 쉬울까?
+title 스마트폰 사진 복구 방법, 서천 외장하드 복구보다 쉬울까?
+금산 영상이 끊겨 저장된 블랙박스, 복구로 해결 가능했을까?
+title 금산 영상이 끊겨 저장된 블랙박스, 복구로 해결 가능했을까?
+당진 차량 사고 후 영상 누락, 블랙박스 복구로 가능했던 이유
+title 당진 차량 사고 후 영상 누락, 블랙박스 복구로 가능했던 이유
+부여 블랙박스 복구 비용이 생각보다 비쌌던 이유는?
+title 부여 블랙박스 복구 비용이 생각보다 비쌌던 이유는?
+서천 블랙박스 영상 복구로 사고 증거 확보에 성공한 사례
+title 서천 블랙박스 영상 복구로 사고 증거 확보에 성공한 사례
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None]
+엑셀 개수 19
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+1--now_device_check 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+1--device_check_DB 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+23now_device_check 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+23device_check_DB 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+지금 아이디 :
+excel_counter 0
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\e1d3b624890947f0802d193718e7250b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\eb19e11ef4864197a97f5e3ca23067b3.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4cbbb31e99be425b95bb928793e8373c.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+순천 핸드폰 포렌식 복구 가능 여부, 법적 절차에 필요한 조건은?
+title 순천 핸드폰 포렌식 복구 가능 여부, 법적 절차에 필요한 조건은?
+대구 스마트폰 포렌식 복구와 디지털 증거 수집의 관계
+title 대구 스마트폰 포렌식 복구와 디지털 증거 수집의 관계
+울산 휴대폰 포렌식 복구 과정에서 자주 묻는 질문 정리
+title 울산 휴대폰 포렌식 복구 과정에서 자주 묻는 질문 정리
+부산 핸드폰 포렌식 복구로 복원한 음성 녹음 파일 실제 사례
+title 부산 핸드폰 포렌식 복구로 복원한 음성 녹음 파일 실제 사례
+창원 스마트폰 포렌식 복구 맡기기 전, 반드시 확인할 보안 항목
+title 창원 스마트폰 포렌식 복구 맡기기 전, 반드시 확인할 보안 항목
+김해 휴대폰 포렌식 복구 성공률 높은 상황과 복구가 어려운 조건
+title 김해 휴대폰 포렌식 복구 성공률 높은 상황과 복구가 어려운 조건
+진천 데이터 복구 업계가 인정한 밴드 동영상 영구삭제 기술
+title 진천 데이터 복구 업계가 인정한 밴드 동영상 영구삭제 기술
+괴산 디지털 증거 분석 전문가가 설명하는 인스타 흔적 제거 공식
+title 괴산 디지털 증거 분석 전문가가 설명하는 인스타 흔적 제거 공식
+음성 사이버보안 전문가가 인증한 카카오톡 복구 안되게 삭제법
+title 음성 사이버보안 전문가가 인증한 카카오톡 복구 안되게 삭제법
+단양 카톡 메신저 데이터 완전삭제 기법
+title 단양 카톡 메신저 데이터 완전삭제 기법
+천안 디지털 포렌식팀이 승인한 문자 흔적 차단 절차
+title 천안 디지털 포렌식팀이 승인한 문자 흔적 차단 절차
+아산 스마트폰 보안 전문가가 알려주는 사진·동영상 영구삭제 원리
+title 아산 스마트폰 보안 전문가가 알려주는 사진·동영상 영구삭제 원리
+공주 포렌식 엔지니어가 직접 밝히는 카톡 백업 파일 완전삭제 방법
+title 공주 포렌식 엔지니어가 직접 밝히는 카톡 백업 파일 완전삭제 방법
+맥북에서 외장하드 복구 가능한가요? 부여 사용자 후기 공개
+title 맥북에서 외장하드 복구 가능한가요? 부여 사용자 후기 공개
+스마트폰 사진 복구 방법, 서천 외장하드 복구보다 쉬울까?
+title 스마트폰 사진 복구 방법, 서천 외장하드 복구보다 쉬울까?
+금산 영상이 끊겨 저장된 블랙박스, 복구로 해결 가능했을까?
+title 금산 영상이 끊겨 저장된 블랙박스, 복구로 해결 가능했을까?
+당진 차량 사고 후 영상 누락, 블랙박스 복구로 가능했던 이유
+title 당진 차량 사고 후 영상 누락, 블랙박스 복구로 가능했던 이유
+부여 블랙박스 복구 비용이 생각보다 비쌌던 이유는?
+title 부여 블랙박스 복구 비용이 생각보다 비쌌던 이유는?
+서천 블랙박스 영상 복구로 사고 증거 확보에 성공한 사례
+title 서천 블랙박스 영상 복구로 사고 증거 확보에 성공한 사례
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None]
+엑셀 개수 19
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+1--now_device_check 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+1--device_check_DB 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+23now_device_check 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+23device_check_DB 82860BB9-9F42-6C8C-DEE5-5811228D2E2F
+지금 아이디 :
+excel_counter 0
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+시작
+File saved to: C:\Users\pc\Desktop\까페\logfile.txt
