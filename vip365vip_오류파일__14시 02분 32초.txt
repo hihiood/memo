@@ -1,0 +1,77 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text <<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+DB access----success!!
+146
+0      골프연습장 케이스퀘어72 골프레슨 SDR+
+1      골프연습장 케이스퀘어72 골프레슨 SDR+
+2      골프연습장 케이스퀘어72 골프레슨 SDR+
+3      골프연습장 케이스퀘어72 골프레슨 SDR+
+4      골프연습장 케이스퀘어72 골프레슨 SDR+
+                ...           
+141    골프연습장 케이스퀘어72 골프레슨 SDR+
+142    골프연습장 케이스퀘어72 골프레슨 SDR+
+143    골프연습장 케이스퀘어72 골프레슨 SDR+
+144    골프연습장 케이스퀘어72 골프레슨 SDR+
+145    골프연습장 케이스퀘어72 골프레슨 SDR+
+Name: 작업 매장, Length: 146, dtype: object
+find_name 골프연습장 케이스퀘어72 골프레슨 SDR+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.46.208
+
+
+변경된 IP : 110.70.46.208
+
+1. placeholder = 
+2. placeholder = 
+3. placeholder = 검색어를 입력해 주세요.
+4. placeholder = 
+5. placeholder = 
+6. placeholder = 
+7. placeholder = 
+8. placeholder = 
+9. placeholder = 
+시작
+File saved to: C:\Users\vip36\OneDrive\Desktop\OneDrive_2025-09-11\네이버플레이스\유효타\logfile.txt
