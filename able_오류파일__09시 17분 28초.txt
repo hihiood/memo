@@ -1,0 +1,428 @@
+학습chatGPT1
+맨아래
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\049e8858c3f1448d97496632a53585c9.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\ce63f408d7d34c2e89d2067798b74ace.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\c60c934946e84e7a93d79720ef8a4924.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\449ba6e16a504b749d9564f37c70297b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\04edac3477df465a87f73d9022676e2b.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\f05745f83d314413b1fd2440741461e4.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+ID_IMAGE ID19.png
+src_folder C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.png', 'C:\\MyApp\\images\\AA9.png', 'C:\\MyApp\\images\\AA10.png']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png', 'C:\\MyApp\\images\\ID5.png', 'C:\\MyApp\\images\\ID6.png', 'C:\\MyApp\\images\\ID7.png', 'C:\\MyApp\\images\\ID8.png', 'C:\\MyApp\\images\\ID9.png', 'C:\\MyApp\\images\\ID10.png', 'C:\\MyApp\\images\\ID11.png', 'C:\\MyApp\\images\\ID12.png', 'C:\\MyApp\\images\\ID13.png', 'C:\\MyApp\\images\\ID14.png', 'C:\\MyApp\\images\\ID15.png', 'C:\\MyApp\\images\\ID16.png', 'C:\\MyApp\\images\\ID17.png', 'C:\\MyApp\\images\\ID18.png', 'C:\\MyApp\\images\\ID19.png', 'C:\\MyApp\\images\\ID20 .png']
+[INFO] VPN 창 후보 선택: hwnd=262638, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID19.png
+selected_path2 C:\MyApp\images\ID19.png
+[INFO] Main(hotVPN) 창 활성화 성공
+[INFO] 마우스 이동 완료 (1440, 467)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID19.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 17번째 시도에서 이미지 발견: Point(x=1524, y=767)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID19.png
+selected_path2 C:\MyApp\images\ID19.png
+loc_ID 495 Point(x=1524, y=767)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1524, y=767)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 14.52.50.94
+ID_IMAGE ID19.png
+src_folder C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.png', 'C:\\MyApp\\images\\AA9.png', 'C:\\MyApp\\images\\AA10.png']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png', 'C:\\MyApp\\images\\ID5.png', 'C:\\MyApp\\images\\ID6.png', 'C:\\MyApp\\images\\ID7.png', 'C:\\MyApp\\images\\ID8.png', 'C:\\MyApp\\images\\ID9.png', 'C:\\MyApp\\images\\ID10.png', 'C:\\MyApp\\images\\ID11.png', 'C:\\MyApp\\images\\ID12.png', 'C:\\MyApp\\images\\ID13.png', 'C:\\MyApp\\images\\ID14.png', 'C:\\MyApp\\images\\ID15.png', 'C:\\MyApp\\images\\ID16.png', 'C:\\MyApp\\images\\ID17.png', 'C:\\MyApp\\images\\ID18.png', 'C:\\MyApp\\images\\ID19.png', 'C:\\MyApp\\images\\ID20 .png']
+[INFO] VPN 창 후보 선택: hwnd=262638, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID19.png
+selected_path2 C:\MyApp\images\ID19.png
+[INFO] Main(hotVPN) 창 활성화 성공
+[INFO] 마우스 이동 완료 (1440, 467)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID19.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 17번째 시도에서 이미지 발견: Point(x=1524, y=767)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID19.png
+selected_path2 C:\MyApp\images\ID19.png
+loc_ID 495 Point(x=1524, y=767)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+---log checker---
+loc None
+loc_ID Point(x=1524, y=767)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 14.52.50.94
+ID_IMAGE ID19.png
+src_folder C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.png', 'C:\\MyApp\\images\\AA9.png', 'C:\\MyApp\\images\\AA10.png']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.png', 'C:\\MyApp\\images\\ID3.png', 'C:\\MyApp\\images\\ID4.png', 'C:\\MyApp\\images\\ID5.png', 'C:\\MyApp\\images\\ID6.png', 'C:\\MyApp\\images\\ID7.png', 'C:\\MyApp\\images\\ID8.png', 'C:\\MyApp\\images\\ID9.png', 'C:\\MyApp\\images\\ID10.png', 'C:\\MyApp\\images\\ID11.png', 'C:\\MyApp\\images\\ID12.png', 'C:\\MyApp\\images\\ID13.png', 'C:\\MyApp\\images\\ID14.png', 'C:\\MyApp\\images\\ID15.png', 'C:\\MyApp\\images\\ID16.png', 'C:\\MyApp\\images\\ID17.png', 'C:\\MyApp\\images\\ID18.png', 'C:\\MyApp\\images\\ID19.png', 'C:\\MyApp\\images\\ID20 .png']
+[INFO] VPN 창 후보 선택: hwnd=262638, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID19.png
+selected_path2 C:\MyApp\images\ID19.png
+[INFO] Main(hotVPN) 창 활성화 성공
+[INFO] 마우스 이동 완료 (1440, 467)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID19.png
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[FOUND ↓] 17번째 시도에서 이미지 발견: Point(x=1524, y=767)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID19.png
+selected_path2 C:\MyApp\images\ID19.png
+loc_ID 495 Point(x=1524, y=767)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1212, y=172)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1524, y=767)
+loc_GREEN None
+loc_GRAY Point(x=1659, y=446)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1212, y=172)
+외부 IP: 210.216.166.158
+target_time: 2026-02-02 01:46:55
+now: 2026-02-02 09:15:45.053192
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\23311374195c470ea6a97fb1c2836d4e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\d733409d04344c32a4f32fee2eaf60a7.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\a4e8fb34f9c64b0f9817e7594dca8807.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+title 재규어 차주, 경비원에 갑질…주차스티커 당장 뗴라
+title 10.15 이후 매도자가 갑이다…아파트, '부르는게 값'
+title 편의점 돌며 수표 결제로 속여 현금 가로챈 40대 구속
+title 중고 거래 미끼로 26억 원대 사기친 10명 구속…상품권,티켓으로 속여
+title 선동 후 매도로 59억 부당이익…유튜버 징역형 집행유예
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+1    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+2    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+3    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+4    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     주차장에 주차된 차
+1    대한민국 아파트 단지
+2         지폐 여러장
+3        대한민국 경찰
+4            유튜브
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:010-5240-4972
+1    tel:010-5240-4972
+2    tel:010-5240-4972
+3    tel:010-5240-4972
+4    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+1    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+2    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+3    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+4    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+3    None
+4    None
+dtype: object
+엑셀 개수 5
+🚨 MySQL 오류 발생: (2003, "Can't connect to MySQL server on '125.240.193.5' (timed out)")
+target_time: 2026-02-02 01:46:55
+now: 2026-02-02 09:16:48.124504
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\0130b25543974f0eb04495f8040d603b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\6a5c5dce166044179c85d2064f12b782.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\dd12b280346d4dc79b7f767f5ca048d9.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+title 재규어 차주, 경비원에 갑질…주차스티커 당장 뗴라
+title 10.15 이후 매도자가 갑이다…아파트, '부르는게 값'
+title 편의점 돌며 수표 결제로 속여 현금 가로챈 40대 구속
+title 중고 거래 미끼로 26억 원대 사기친 10명 구속…상품권,티켓으로 속여
+title 선동 후 매도로 59억 부당이익…유튜버 징역형 집행유예
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+1    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+2    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+3    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+4    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     주차장에 주차된 차
+1    대한민국 아파트 단지
+2         지폐 여러장
+3        대한민국 경찰
+4            유튜브
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:010-5240-4972
+1    tel:010-5240-4972
+2    tel:010-5240-4972
+3    tel:010-5240-4972
+4    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    없음
+1    없음
+2    없음
+3    없음
+4    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+1    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+2    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+3    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+4    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+3    None
+4    None
+dtype: object
+엑셀 개수 5
+🚨 MySQL 오류 발생: (2003, "Can't connect to MySQL server on '125.240.193.5' (timed out)")
+시작
+File saved to: C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\네이버블로그\logfile.txt
