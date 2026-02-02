@@ -1,0 +1,4203 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\169b222da2a74242898a95e529da4581.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\1330940ce09c4b0db42026a7035b1751.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\208023d50cba4e10980b808fdab55fbf.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+🔍 조건에 맞는 button 개수: 1
+
+[0] ----------
+text: close
+변경 로그 열기
+color: BLURPLE
+outerHTML:
+ <button color="BLURPLE" class="sc-e8425ea6-0 gLXNUV sc-5b7b0a78-3 eTBAUp"><i class="sc-95c4f607-0 grsLJu google-symbols sc-e8425ea6-1 kJJDGi" font-size="1rem" color="currentColor">close</i><span style="position: absolute; border: 0px; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; overflow-wrap: normal;">변경 로그 열기</span></button>
+현재 브라우저 언어: ko-KR
+target_time: 2026-02-02 22:50:52
+now: 2026-02-02 22:54:56.221815
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\3afc687fbf8f470b98bfc17f9e7279f6.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\9683b2e8d6d84cafb57414c525470c51.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\db1ca41459d24773aab5a261e6d7038a.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+title 코스피 급락…하이닉스 떨어지나
+title 스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출?
+title 아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+1    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+2    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    없음
+1    없음
+2    없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    없음
+1    없음
+2    없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    없음
+1    없음
+2    없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     주식 그래프
+1       스타벅스
+2    아파트 주차장
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    없음
+1    없음
+2    없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:010-5240-4972
+1    tel:010-5240-4972
+2    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    없음
+1    없음
+2    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+1    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+2    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+dtype: object
+엑셀 개수 3
+지금 아이디 :
+excel_counter 0
+muscle6081
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  코스피 급락…하이닉스 떨어지나 코스피 급락…하이닉스 떨어지나
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['KOSPI plunges... ', '코스피 급락… ', 'Will Hynix fall or KOSPI will plummet... ', '하이닉스 떨어지나 코스피 급락… ', 'Will Hynix fall?', '하이닉스 떨어지나', 'ko']
+KOSPI plunges... Will Hynix fall or KOSPI will plummet... Will Hynix fall?
+KOSPI plunges... Will Hynix fall or KOSPI will plummet... Will Hynix fall?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Silver coin with an smiling cat, words 5 catnips
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+수집된 텍스트: 주식 그래프
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  코스피 급락…하이닉스 떨어지나 코스피 급락…하이닉스 떨어지나
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['KOSPI plunges... ', '코스피 급락… ', 'Will Hynix fall or KOSPI will plummet... ', '하이닉스 떨어지나 코스피 급락… ', 'Will Hynix fall?', '하이닉스 떨어지나', 'ko']
+KOSPI plunges... Will Hynix fall or KOSPI will plummet... Will Hynix fall?
+KOSPI plunges... Will Hynix fall or KOSPI will plummet... Will Hynix fall?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+A majestic and crowned lion, with a crown of leaves on its head, posing in the center of a sun drenched grassy clearing, 70mm photography, shallow depth of field, cinematic lighting, HD photo
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 주식 그래프
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  코스피 급락…하이닉스 떨어지나 코스피 급락…하이닉스 떨어지나
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['KOSPI plunges... ', '코스피 급락… ', 'Will Hynix fall or KOSPI will plummet... ', '하이닉스 떨어지나 코스피 급락… ', 'Will Hynix fall?', '하이닉스 떨어지나', 'ko']
+KOSPI plunges... Will Hynix fall or KOSPI will plummet... Will Hynix fall?
+KOSPI plunges... Will Hynix fall or KOSPI will plummet... Will Hynix fall?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Abstract watercolor art of unity consciousness
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 주식 그래프
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="53aff8ced6d90aaea36e03aa84d44018")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu']
+ID_gmemo https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu
+체크4
+현재 URL: https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu
+수집된 텍스트: 주제 : 코스피 급락…하이닉스 떨어지나
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7f594a
+	0x7f5beb
+	0x837bb2
+	0x818264
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<코스피 급락 속 외국인 이탈, 하이닉스 향방은?>>]]^^엔터^^최근 국내 증시가 큰 폭의 조정을 겪으며 투자자들의 불안감이 커지고 있다. 코스피 지수는 글로벌 증시 약세와 맞물려 단기간에 급락했고, 특히 외국인과 기관의 동반 매도세가 지수 하락을 주도했다. 이러한 흐름 속에서 시가총액 상위 종목인 반도체 대장주들의 움직임에 시장의 이목이 집중되고 있다.^^엔터^^가장 큰 관심을 받는 종목은 단연 **SK하이닉스**다. 하이닉스는 그동안 인공지능(AI)과 고대역폭메모리(HBM) 수요 확대 기대감으로 주가가 빠르게 상승해 왔다. 그러나 최근 코스피 급락 국면에서는 차익 실현 매물이 집중되며 주가 변동성이 크게 확대되는 모습이다.^^엔터^^전문가들은 이번 하락이 기업 펀더멘털 자체의 붕괴라기보다는 글로벌 긴축 우려, 미 증시 조정, 환율 변동성 등 외부 요인이 복합적으로 작용한 결과라고 분석한다. 실제로 반도체 업황 전망 자체는 중장기적으로 여전히 긍정적이라는 평가가 많다. 다만 단기적으로는 투자 심리가 위축되면서 추가 조정 가능성도 배제하기 어렵다는 신중론도 함께 제기된다.^^엔터^^특히 외국인 수급이 중요한 변수다. 외국인 투자자들은 최근 코스피 시장에서 순매도를 이어가고 있으며, 이는 하이닉스 주가에도 직접적인 압박으로 작용하고 있다. 외국인 자금이 언제 다시 유입될지가 향후 주가 방향성을 가를 핵심 포인트로 꼽힌다.^^엔터^^결론적으로, 이번 코스피 급락 국면에서 하이닉스 주가가 단기적으로 흔들릴 가능성은 존재한다. 하지만 AI와 반도체 산업의 구조적 성장 스토리가 유효한 만큼, 과도한 공포보다는 분할 매수와 리스크 관리 전략이 중요해 보인다. 변동성이 큰 장세일수록 냉정한 판단이 투자 성과를 좌우한다는 점을 다시 한번 되새길 시점이다.^^엔터^^<<<전체 글 끝>>>
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<코스피 급락 속 외국인 이탈, 하이닉스 향방은?>>]]^^엔터^^최근 국내 증시가 큰 폭의 조정을 겪으며 투자자들의 불안감이 커지고 있다.코스피 지수는 글로벌 증시 약세와 맞물려 단기간에 급락했고, 특히 외국인과 기관의 동반 매도세가 지수 하락을 주도했다.이러한 흐름 속에서 시가총액 상위 종목인 반도체 대장주들의 움직임에 시장의 이목이 집중되고 있다.^^엔터^^가장 큰 관심을 받는 종목은 단연 **SK하이닉스**다.하이닉스는 그동안 인공지능(AI)과 고대역폭메모리(HBM) 수요 확대 기대감으로 주가가 빠르게 상승해 왔다.그러나 최근 코스피 급락 국면에서는 차익 실현 매물이 집중되며 주가 변동성이 크게 확대되는 모습이다.^^엔터^^전문가들은 이번 하락이 기업 펀더멘털 자체의 붕괴라기보다는 글로벌 긴축 우려, 미 증시 조정, 환율 변동성 등 외부 요인이 복합적으로 작용한 결과라고 분석한다.
+===== B 영역 =====
+실제로 반도체 업황 전망 자체는 중장기적으로 여전히 긍정적이라는 평가가 많다.다만 단기적으로는 투자 심리가 위축되면서 추가 조정 가능성도 배제하기 어렵다는 신중론도 함께 제기된다.^^엔터^^특히 외국인 수급이 중요한 변수다.외국인 투자자들은 최근 코스피 시장에서 순매도를 이어가고 있으며, 이는 하이닉스 주가에도 직접적인 압박으로 작용하고 있다.외국인 자금이 언제 다시 유입될지가 향후 주가 방향성을 가를 핵심 포인트로 꼽힌다.^^엔터^^결론적으로, 이번 코스피 급락 국면에서 하이닉스 주가가 단기적으로 흔들릴 가능성은 존재한다.하지만 AI와 반도체 산업의 구조적 성장 스토리가 유효한 만큼, 과도한 공포보다는 분할 매수와 리스크 관리 전략이 중요해 보인다.변동성이 큰 장세일수록 냉정한 판단이 투자 성과를 좌우한다는 점을 다시 한번 되새길 시점이다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<코스피 급락 속 외국인 이탈, 하이닉스 향방은?>>]]^^엔터^^최근 국내 증시가 큰 폭의 조정을 겪으며 투자자들의 불안감이 커지고 있다. 코스피 지수는 글로벌 증시 약세와 맞물려 단기간에 급락했고, 특히 외국인과 기관의 동반 매도세가 지수 하락을 주도했다. 이러한 흐름 속에서 시가총액 상위 종목인 반도체 대장주들의 움직임에 시장의 이목이 집중되고 있다.^^엔터^^가장 큰 관심을 받는 종목은 단연 **SK하이닉스**다. 하이닉스는 그동안 인공지능(AI)과 고대역폭메모리(HBM) 수요 확대 기대감으로 주가가 빠르게 상승해 왔다. 그러나 최근 코스피 급락 국면에서는 차익 실현 매물이 집중되며 주가 변동성이 크게 확대되는 모습이다.^^엔터^^전문가들은 이번 하락이 기업 펀더멘털 자체의 붕괴라기보다는 글로벌 긴축 우려, 미 증시 조정, 환율 변동성 등 외부 요인이 복합적으로 작용한 결과라고 분석한다. 실제로 반도체 업황 전망 자체는 중장기적으로 여전히 긍정적이라는 평가가 많다. 다만 단기적으로는 투자 심리가 위축되면서 추가 조정 가능성도 배제하기 어렵다는 신중론도 함께 제기된다.^^엔터^^특히 외국인 수급이 중요한 변수다. 외국인 투자자들은 최근 코스피 시장에서 순매도를 이어가고 있으며, 이는 하이닉스 주가에도 직접적인 압박으로 작용하고 있다. 외국인 자금이 언제 다시 유입될지가 향후 주가 방향성을 가를 핵심 포인트로 꼽힌다.^^엔터^^결론적으로, 이번 코스피 급락 국면에서 하이닉스 주가가 단기적으로 흔들릴 가능성은 존재한다. 하지만 AI와 반도체 산업의 구조적 성장 스토리가 유효한 만큼, 과도한 공포보다는 분할 매수와 리스크 관리 전략이 중요해 보인다. 변동성이 큰 장세일수록 냉정한 판단이 투자 성과를 좌우한다는 점을 다시 한번 되새길 시점이다.^^엔터^^<<<전체 글 끝>>>
+matches2: 코스피 급락 속 외국인 이탈, 하이닉스 향방은?
+text2: ^^엔터^^^^엔터^^최근 국내 증시가 큰 폭의 조정을 겪으며 투자자들의 불안감이 커지고 있다. 코스피 지수는 글로벌 증시 약세와 맞물려 단기간에 급락했고, 특히 외국인과 기관의 동반 매도세가 지수 하락을 주도했다. 이러한 흐름 속에서 시가총액 상위 종목인 반도체 대장주들의 움직임에 시장의 이목이 집중되고 있다.^^엔터^^가장 큰 관심을 받는 종목은 단연 **SK하이닉스**다. 하이닉스는 그동안 인공지능(AI)과 고대역폭메모리(HBM) 수요 확대 기대감으로 주가가 빠르게 상승해 왔다. 그러나 최근 코스피 급락 국면에서는 차익 실현 매물이 집중되며 주가 변동성이 크게 확대되는 모습이다.^^엔터^^전문가들은 이번 하락이 기업 펀더멘털 자체의 붕괴라기보다는 글로벌 긴축 우려, 미 증시 조정, 환율 변동성 등 외부 요인이 복합적으로 작용한 결과라고 분석한다. 실제로 반도체 업황 전망 자체는 중장기적으로 여전히 긍정적이라는 평가가 많다. 다만 단기적으로는 투자 심리가 위축되면서 추가 조정 가능성도 배제하기 어렵다는 신중론도 함께 제기된다.^^엔터^^특히 외국인 수급이 중요한 변수다. 외국인 투자자들은 최근 코스피 시장에서 순매도를 이어가고 있으며, 이는 하이닉스 주가에도 직접적인 압박으로 작용하고 있다. 외국인 자금이 언제 다시 유입될지가 향후 주가 방향성을 가를 핵심 포인트로 꼽힌다.^^엔터^^결론적으로, 이번 코스피 급락 국면에서 하이닉스 주가가 단기적으로 흔들릴 가능성은 존재한다. 하지만 AI와 반도체 산업의 구조적 성장 스토리가 유효한 만큼, 과도한 공포보다는 분할 매수와 리스크 관리 전략이 중요해 보인다. 변동성이 큰 장세일수록 냉정한 판단이 투자 성과를 좌우한다는 점을 다시 한번 되새길 시점이다.^^엔터^^
+check_word_length 0
+len(kkq) 853
+외부 IP: None
+----------------------------import --------
+에러메세지 main
+object of type 'NoneType' has no len()
+지금 아이디 :
+excel_counter 1
+geology2618
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출? 스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출?
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Starbucks recalls all 390,000 humidifiers... ', '스타벅스 가습기 39만개 전량 리콜… ', 'Carcinogenic substances detected? ', '발암성 물질 검출? ', 'Starbucks recalls all 390,000 humidifiers... ', '스타벅스 가습기 39만개 전량 리콜… ', 'Carcinogenic substances detected?', '발암성 물질 검출?', 'ko']
+Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected? Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected?
+Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected? Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Tranquil secret garden flourishing in a hidden pocket of a bustling city, tall stone walls, ivy-covered, stone fountain in the center, overgrown greenery, vibrant pops of red, yellow, and purple blooms, light cyan and dark teal background
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 스타벅스
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출? 스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출?
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Starbucks recalls all 390,000 humidifiers... ', '스타벅스 가습기 39만개 전량 리콜… ', 'Carcinogenic substances detected? ', '발암성 물질 검출? ', 'Starbucks recalls all 390,000 humidifiers... ', '스타벅스 가습기 39만개 전량 리콜… ', 'Carcinogenic substances detected?', '발암성 물질 검출?', 'ko']
+Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected? Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected?
+Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected? Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Underwater, coral reefs with schools of fish swimming, bioluminescence, high dynamic range
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 스타벅스
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출? 스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출?
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Starbucks recalls all 390,000 humidifiers... ', '스타벅스 가습기 39만개 전량 리콜… ', 'Carcinogenic substances detected? ', '발암성 물질 검출? ', 'Starbucks recalls all 390,000 humidifiers... ', '스타벅스 가습기 39만개 전량 리콜… ', 'Carcinogenic substances detected?', '발암성 물질 검출?', 'ko']
+Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected? Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected?
+Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected? Starbucks recalls all 390,000 humidifiers... Carcinogenic substances detected?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+A majestic and crowned lion, with a crown of leaves on its head, posing in the center of a sun drenched grassy clearing, 70mm photography, shallow depth of field, cinematic lighting, HD photo
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 스타벅스
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="53aff8ced6d90aaea36e03aa84d44018")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu']
+ID_gmemo https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu
+체크4
+현재 URL: https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu
+수집된 텍스트: 주제 : 스타벅스 가습기 39만개 전량 리콜…발암성 물질 검출?
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7f594a
+	0x7f5beb
+	0x837bb2
+	0x818264
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7b2101
+	0x7b4684
+	0x8361f1
+	0x81821c
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<스타벅스 가습기 39만대 리콜, 발암성 논란 확인>>]]^^엔터^^최근 스타벅스 코리아가 고객에게 증정한 휴대용 가습기 39만여 대에 대해 자발적 전량 리콜을 발표하면서 발암물질 검출 논란과 제품 안전 문제가 다시 주목받고 있습니다.^^엔터^^스타벅스 코리아는 2025 윈터 e-프리퀀시 행사에서 증정한 **가습기 2종(총 39만3,549개)**에 대한 자발적 리콜을 결정했다고 2026년 1월 말 공식 발표했습니다. 이 조치는 최근 해당 제품 사용 중 배터리 과열로 추정되는 화재 신고가 접수된 데 따른 것으로, 스타벅스는 해당 제품의 즉각적인 사용 중단을 권고하고 전량 수거를 진행 중입니다.^^엔터^^그러나 일부 보도에서는 이번 리콜과 더불어 과거 스타벅스와 관련된 발암물질 논란까지 언급되며 소비자 우려가 커지고 있습니다. 과거 일부 스타벅스 증정품이 발암물질이 나온 사례가 있었다는 내용이 언급되었지만, 이번 가습기 리콜 자체에서 발암물질 검출 사실이 공식적으로 확인된 것은 아닙니다. 관련 기사들은 화재 위험을 중심으로 전개되고 있습니다.^^엔터^^이번 리콜은 제품의 배터리 과열로 인한 화재 우려가 가장 큰 원인입니다. 스타벅스 측은 2026년 1월 말 소비자 신고를 접수하고, 국가기술표준원에 제품사고를 보고한 뒤 자발적 리콜을 결정했습니다.^^엔터^^리콜 대상은 2025년 10월 30일부터 12월 31일까지 행사로 증정된 전량의 가습기로, 스타벅스는 모든 고객에게 제품 반납을 권유하고 있습니다.^^엔터^^고객이 가습기를 반납하면 모바일 카드 3만원권을 제공하는 등 보상 계획도 발표했습니다.^^엔터^^일부 기사에서는 과거 스타벅스 증정품에서 발암물질이 검출된 적이 있다는 맥락을 언급하며 가습기 리콜과 연관 짓는 보도도 있었습니다. 다만, 이번 리콜 대상 가습기에서 발암물질이 검출되었다는 공식 발표는 없습니다.^^엔터^^소비자들이 우려하는 점은 다음과 같습니다:^^엔터^^스타벅스가 과거에도 일부 무료 제공 제품과 관련해 품질 논란을 겪은 이력이 있다는 점^^엔터^^이번 가습기 리콜 발표와 함께 안전성 전반에 대한 불안감이 확산된 점^^엔터^^하지만, 현재로서는 이번 리콜의 직접적인 원인은 ‘화재 위험’이며, 발암물질 이슈는 별개로 취급되고 있습니다.^^엔터^^⭐ 스타벅스 가습기를 가지고 있는 고객은 즉시 사용을 중단해야 합니다. ^^엔터^^
+⭐ 모바일 앱을 통해 리콜 신청 후 택배로 회수신청을 할 수 있으며, 추후 매장 회수 방법도 공지될 예정입니다. ^^엔터^^
+⭐ 제품 안전과 관련된 불확실한 정보가 온라인에서 확산되고 있지만, 공식 발표된 리콜 사유는 ‘화재 위험’이라는 점을 참고하시기 바랍니다.^^엔터^^이번 리콜 사태는 대기업 증정품이라도 소비자 안전 문제가 발생하면 빠르게 조치되고, 관련 정보가 소통되어야 한다는 점을 다시 한 번 상기시켰습니다.^^엔터^^<<<전체 글 끝>>>
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<스타벅스 가습기 39만대 리콜, 발암성 논란 확인>>]]^^엔터^^최근 스타벅스 코리아가 고객에게 증정한 휴대용 가습기 39만여 대에 대해 자발적 전량 리콜을 발표하면서 발암물질 검출 논란과 제품 안전 문제가 다시 주목받고 있습니다.^^엔터^^스타벅스 코리아는 2025 윈터 e-프리퀀시 행사에서 증정한 **가습기 2종(총 39만3,549개)**에 대한 자발적 리콜을 결정했다고 2026년 1월 말 공식 발표했습니다.이 조치는 최근 해당 제품 사용 중 배터리 과열로 추정되는 화재 신고가 접수된 데 따른 것으로, 스타벅스는 해당 제품의 즉각적인 사용 중단을 권고하고 전량 수거를 진행 중입니다.^^엔터^^그러나 일부 보도에서는 이번 리콜과 더불어 과거 스타벅스와 관련된 발암물질 논란까지 언급되며 소비자 우려가 커지고 있습니다.과거 일부 스타벅스 증정품이 발암물질이 나온 사례가 있었다는 내용이 언급되었지만, 이번 가습기 리콜 자체에서 발암물질 검출 사실이 공식적으로 확인된 것은 아닙니다.관련 기사들은 화재 위험을 중심으로 전개되고 있습니다.^^엔터^^이번 리콜은 제품의 배터리 과열로 인한 화재 우려가 가장 큰 원인입니다.스타벅스 측은 2026년 1월 말 소비자 신고를 접수하고, 국가기술표준원에 제품사고를 보고한 뒤 자발적 리콜을 결정했습니다.^^엔터^^리콜 대상은 2025년 10월 30일부터 12월 31일까지 행사로 증정된 전량의 가습기로, 스타벅스는 모든 고객에게 제품 반납을 권유하고 있습니다.
+===== B 영역 =====
+^^엔터^^고객이 가습기를 반납하면 모바일 카드 3만원권을 제공하는 등 보상 계획도 발표했습니다.^^엔터^^일부 기사에서는 과거 스타벅스 증정품에서 발암물질이 검출된 적이 있다는 맥락을 언급하며 가습기 리콜과 연관 짓는 보도도 있었습니다.다만, 이번 리콜 대상 가습기에서 발암물질이 검출되었다는 공식 발표는 없습니다.^^엔터^^소비자들이 우려하는 점은 다음과 같습니다:^^엔터^^스타벅스가 과거에도 일부 무료 제공 제품과 관련해 품질 논란을 겪은 이력이 있다는 점^^엔터^^이번 가습기 리콜 발표와 함께 안전성 전반에 대한 불안감이 확산된 점^^엔터^^하지만, 현재로서는 이번 리콜의 직접적인 원인은 ‘화재 위험’이며, 발암물질 이슈는 별개로 취급되고 있습니다.^^엔터^^⭐ 스타벅스 가습기를 가지고 있는 고객은 즉시 사용을 중단해야 합니다.^^엔터^^
+⭐ 모바일 앱을 통해 리콜 신청 후 택배로 회수신청을 할 수 있으며, 추후 매장 회수 방법도 공지될 예정입니다.^^엔터^^
+⭐ 제품 안전과 관련된 불확실한 정보가 온라인에서 확산되고 있지만, 공식 발표된 리콜 사유는 ‘화재 위험’이라는 점을 참고하시기 바랍니다.^^엔터^^이번 리콜 사태는 대기업 증정품이라도 소비자 안전 문제가 발생하면 빠르게 조치되고, 관련 정보가 소통되어야 한다는 점을 다시 한 번 상기시켰습니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<스타벅스 가습기 39만대 리콜, 발암성 논란 확인>>]]^^엔터^^최근 스타벅스 코리아가 고객에게 증정한 휴대용 가습기 39만여 대에 대해 자발적 전량 리콜을 발표하면서 발암물질 검출 논란과 제품 안전 문제가 다시 주목받고 있습니다.^^엔터^^스타벅스 코리아는 2025 윈터 e-프리퀀시 행사에서 증정한 **가습기 2종(총 39만3,549개)**에 대한 자발적 리콜을 결정했다고 2026년 1월 말 공식 발표했습니다. 이 조치는 최근 해당 제품 사용 중 배터리 과열로 추정되는 화재 신고가 접수된 데 따른 것으로, 스타벅스는 해당 제품의 즉각적인 사용 중단을 권고하고 전량 수거를 진행 중입니다.^^엔터^^그러나 일부 보도에서는 이번 리콜과 더불어 과거 스타벅스와 관련된 발암물질 논란까지 언급되며 소비자 우려가 커지고 있습니다. 과거 일부 스타벅스 증정품이 발암물질이 나온 사례가 있었다는 내용이 언급되었지만, 이번 가습기 리콜 자체에서 발암물질 검출 사실이 공식적으로 확인된 것은 아닙니다. 관련 기사들은 화재 위험을 중심으로 전개되고 있습니다.^^엔터^^이번 리콜은 제품의 배터리 과열로 인한 화재 우려가 가장 큰 원인입니다. 스타벅스 측은 2026년 1월 말 소비자 신고를 접수하고, 국가기술표준원에 제품사고를 보고한 뒤 자발적 리콜을 결정했습니다.^^엔터^^리콜 대상은 2025년 10월 30일부터 12월 31일까지 행사로 증정된 전량의 가습기로, 스타벅스는 모든 고객에게 제품 반납을 권유하고 있습니다.^^엔터^^고객이 가습기를 반납하면 모바일 카드 3만원권을 제공하는 등 보상 계획도 발표했습니다.^^엔터^^일부 기사에서는 과거 스타벅스 증정품에서 발암물질이 검출된 적이 있다는 맥락을 언급하며 가습기 리콜과 연관 짓는 보도도 있었습니다. 다만, 이번 리콜 대상 가습기에서 발암물질이 검출되었다는 공식 발표는 없습니다.^^엔터^^소비자들이 우려하는 점은 다음과 같습니다:^^엔터^^스타벅스가 과거에도 일부 무료 제공 제품과 관련해 품질 논란을 겪은 이력이 있다는 점^^엔터^^이번 가습기 리콜 발표와 함께 안전성 전반에 대한 불안감이 확산된 점^^엔터^^하지만, 현재로서는 이번 리콜의 직접적인 원인은 ‘화재 위험’이며, 발암물질 이슈는 별개로 취급되고 있습니다.^^엔터^^⭐ 스타벅스 가습기를 가지고 있는 고객은 즉시 사용을 중단해야 합니다. ^^엔터^^
+⭐ 모바일 앱을 통해 리콜 신청 후 택배로 회수신청을 할 수 있으며, 추후 매장 회수 방법도 공지될 예정입니다. ^^엔터^^
+⭐ 제품 안전과 관련된 불확실한 정보가 온라인에서 확산되고 있지만, 공식 발표된 리콜 사유는 ‘화재 위험’이라는 점을 참고하시기 바랍니다.^^엔터^^이번 리콜 사태는 대기업 증정품이라도 소비자 안전 문제가 발생하면 빠르게 조치되고, 관련 정보가 소통되어야 한다는 점을 다시 한 번 상기시켰습니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 스타벅스 가습기 39만대 리콜, 발암성 논란 확인
+text2: ^^엔터^^^^엔터^^최근 스타벅스 코리아가 고객에게 증정한 휴대용 가습기 39만여 대에 대해 자발적 전량 리콜을 발표하면서 발암물질 검출 논란과 제품 안전 문제가 다시 주목받고 있습니다.^^엔터^^스타벅스 코리아는 2025 윈터 e-프리퀀시 행사에서 증정한 **가습기 2종(총 39만3,549개)**에 대한 자발적 리콜을 결정했다고 2026년 1월 말 공식 발표했습니다. 이 조치는 최근 해당 제품 사용 중 배터리 과열로 추정되는 화재 신고가 접수된 데 따른 것으로, 스타벅스는 해당 제품의 즉각적인 사용 중단을 권고하고 전량 수거를 진행 중입니다.^^엔터^^그러나 일부 보도에서는 이번 리콜과 더불어 과거 스타벅스와 관련된 발암물질 논란까지 언급되며 소비자 우려가 커지고 있습니다. 과거 일부 스타벅스 증정품이 발암물질이 나온 사례가 있었다는 내용이 언급되었지만, 이번 가습기 리콜 자체에서 발암물질 검출 사실이 공식적으로 확인된 것은 아닙니다. 관련 기사들은 화재 위험을 중심으로 전개되고 있습니다.^^엔터^^이번 리콜은 제품의 배터리 과열로 인한 화재 우려가 가장 큰 원인입니다. 스타벅스 측은 2026년 1월 말 소비자 신고를 접수하고, 국가기술표준원에 제품사고를 보고한 뒤 자발적 리콜을 결정했습니다.^^엔터^^리콜 대상은 2025년 10월 30일부터 12월 31일까지 행사로 증정된 전량의 가습기로, 스타벅스는 모든 고객에게 제품 반납을 권유하고 있습니다.^^엔터^^고객이 가습기를 반납하면 모바일 카드 3만원권을 제공하는 등 보상 계획도 발표했습니다.^^엔터^^일부 기사에서는 과거 스타벅스 증정품에서 발암물질이 검출된 적이 있다는 맥락을 언급하며 가습기 리콜과 연관 짓는 보도도 있었습니다. 다만, 이번 리콜 대상 가습기에서 발암물질이 검출되었다는 공식 발표는 없습니다.^^엔터^^소비자들이 우려하는 점은 다음과 같습니다:^^엔터^^스타벅스가 과거에도 일부 무료 제공 제품과 관련해 품질 논란을 겪은 이력이 있다는 점^^엔터^^이번 가습기 리콜 발표와 함께 안전성 전반에 대한 불안감이 확산된 점^^엔터^^하지만, 현재로서는 이번 리콜의 직접적인 원인은 ‘화재 위험’이며, 발암물질 이슈는 별개로 취급되고 있습니다.^^엔터^^⭐ 스타벅스 가습기를 가지고 있는 고객은 즉시 사용을 중단해야 합니다. ^^엔터^^
+⭐ 모바일 앱을 통해 리콜 신청 후 택배로 회수신청을 할 수 있으며, 추후 매장 회수 방법도 공지될 예정입니다. ^^엔터^^
+⭐ 제품 안전과 관련된 불확실한 정보가 온라인에서 확산되고 있지만, 공식 발표된 리콜 사유는 ‘화재 위험’이라는 점을 참고하시기 바랍니다.^^엔터^^이번 리콜 사태는 대기업 증정품이라도 소비자 안전 문제가 발생하면 빠르게 조치되고, 관련 정보가 소통되어야 한다는 점을 다시 한 번 상기시켰습니다.^^엔터^^
+check_word_length 0
+len(kkq) 1371
+외부 IP: None
+----------------------------import --------
+에러메세지 main
+object of type 'NoneType' has no len()
+지금 아이디 :
+excel_counter 2
+dlatjrwns907
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발 아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['A rental car garage in the apartment’s public parking lot? ', '아파트 공용 주차장에 렌터카 사업용 차고지? ', 'Residents explode with anger Is the public parking lot of the apartment a rental car business? ', '입주민 분노 폭발 아파트 공용 주차장에 렌터카 사업용 차고지? ', 'Residents explode with anger', '입주민 분노 폭발', 'ko']
+A rental car garage in the apartment’s public parking lot? Residents explode with anger Is the public parking lot of the apartment a rental car business? Residents explode with anger
+A rental car garage in the apartment’s public parking lot? Residents explode with anger Is the public parking lot of the apartment a rental car business? Residents explode with anger
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Closeup photo of a frozen mosquito macro 35mm
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 아파트 주차장
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발 아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['A rental car garage in the apartment’s public parking lot? ', '아파트 공용 주차장에 렌터카 사업용 차고지? ', 'Residents explode with anger Is the public parking lot of the apartment a rental car business? ', '입주민 분노 폭발 아파트 공용 주차장에 렌터카 사업용 차고지? ', 'Residents explode with anger', '입주민 분노 폭발', 'ko']
+A rental car garage in the apartment’s public parking lot? Residents explode with anger Is the public parking lot of the apartment a rental car business? Residents explode with anger
+A rental car garage in the apartment’s public parking lot? Residents explode with anger Is the public parking lot of the apartment a rental car business? Residents explode with anger
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Ethereal photo of a floating island in the clouds, a stone castle on the top of the island, and a misty waterfall flowing down the side, soft white clouds, double exposure
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 아파트 주차장
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발 아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['A rental car garage in the apartment’s public parking lot? ', '아파트 공용 주차장에 렌터카 사업용 차고지? ', 'Residents explode with anger Is the public parking lot of the apartment a rental car business? ', '입주민 분노 폭발 아파트 공용 주차장에 렌터카 사업용 차고지? ', 'Residents explode with anger', '입주민 분노 폭발', 'ko']
+A rental car garage in the apartment’s public parking lot? Residents explode with anger Is the public parking lot of the apartment a rental car business? Residents explode with anger
+A rental car garage in the apartment’s public parking lot? Residents explode with anger Is the public parking lot of the apartment a rental car business? Residents explode with anger
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+A grand monolith standing over mars, as seen from a space station window, ominous, sketchy ink illustration
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 아파트 주차장
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="53aff8ced6d90aaea36e03aa84d44018")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu']
+ID_gmemo https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu
+체크4
+현재 URL: https://chatgpt.com/g/g-6930f4d40cec81919078292ef909e8bf-nyuseu
+수집된 텍스트: 주제 : 아파트 공용 주차장에 렌터카 사업용 차고지? 입주민 분노 폭발
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9b8543
+	0x9b8584
+	0x7ab4e0
+	0x7f594a
+	0x7f5beb
+	0x837bb2
+	0x818264
+	0x8353a1
+	0x817fb6
+	0x7e96f9
+	0x7ea4b4
+	0xc0d034
+	0xc082c9
+	0xc26460
+	0x9d1a68
+	0x9d988d
+	0x9c0df8
+	0x9c0fc2
+	0x9aab3a
+	0x75a6fcc9
+	0x77b882ae
+	0x77b8827e
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[아파트 주차장, 렌터카 차고지 논란 확산]]^^엔터^^최근 한 아파트 단지에서 공용 주차장이 사실상 렌터카 사업용 차고지로 이용되고 있다는 의혹이 제기되며 입주민들의 분노가 커지고 있다. 해당 단지 일부 세대가 사업자 명의의 렌터카 여러 대를 상시 주차해두면서, 주민들이 정당하게 이용해야 할 주차 공간이 크게 줄어들었다는 주장이다. 퇴근 시간대면 주차 자리를 찾지 못해 단지 밖을 맴도는 일이 잦아졌고, 이로 인한 불만이 온라인 커뮤니티를 중심으로 급속히 확산되고 있다.^^엔터^^문제의 핵심은 **‘공용 공간의 사적·영리 목적 사용’**이다. 아파트 주차장은 입주민 전체의 편의를 위해 조성된 시설임에도, 특정 개인이나 사업자가 수익 창출 수단으로 활용한다면 형평성 논란을 피하기 어렵다. 실제로 일부 주민들은 “관리비를 내는 입주민보다 사업용 차량이 우선시되는 상황”이라며 강한 불쾌감을 드러냈다. 특히 방문객 차량이나 늦은 귀가 차량이 설 자리를 잃는 경우가 반복되면서 갈등은 더욱 증폭되고 있다.^^엔터^^법적·관리 규정 측면에서도 논쟁은 이어진다. 일반적으로 아파트 관리규약에는 사업용 차량의 장기 주차를 제한하는 조항이 포함된 경우가 많다. 그러나 규약이 모호하거나 단속이 느슨하면 사실상 방치되는 사례도 적지 않다. 관리사무소 역시 “명확한 증빙과 규정 해석이 필요하다”며 소극적인 태도를 보이는 경우가 있어, 주민들은 답답함을 호소한다.^^엔터^^전문가들은 주차 대수 제한, 사업용 차량 등록제, 외부 주차장 연계 등 현실적인 대안 마련이 시급하다고 지적한다. 무엇보다 중요한 것은 입주민 간의 합의와 투명한 관리 기준이다. 공용 공간은 공동체 신뢰 위에서 운영되는 만큼, 소수의 편의를 위해 다수의 권리가 침해되어서는 안 된다는 목소리가 힘을 얻고 있다.^^엔터^^이번 논란은 단순한 주차 문제를 넘어 아파트 공동체 운영의 원칙을 다시 묻고 있다. 관리주체의 적극적인 중재와 명확한 규정 정비가 이루어지지 않는다면, 유사한 갈등은 다른 단지로도 번질 가능성이 크다. 입주민들이 납득할 수 있는 해법이 마련될지, 그 귀추가 주목된다.^^엔터^^<<<전체 글 끝>>>
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[아파트 주차장, 렌터카 차고지 논란 확산]]^^엔터^^최근 한 아파트 단지에서 공용 주차장이 사실상 렌터카 사업용 차고지로 이용되고 있다는 의혹이 제기되며 입주민들의 분노가 커지고 있다.해당 단지 일부 세대가 사업자 명의의 렌터카 여러 대를 상시 주차해두면서, 주민들이 정당하게 이용해야 할 주차 공간이 크게 줄어들었다는 주장이다.퇴근 시간대면 주차 자리를 찾지 못해 단지 밖을 맴도는 일이 잦아졌고, 이로 인한 불만이 온라인 커뮤니티를 중심으로 급속히 확산되고 있다.^^엔터^^문제의 핵심은 **‘공용 공간의 사적·영리 목적 사용’**이다.아파트 주차장은 입주민 전체의 편의를 위해 조성된 시설임에도, 특정 개인이나 사업자가 수익 창출 수단으로 활용한다면 형평성 논란을 피하기 어렵다.실제로 일부 주민들은 “관리비를 내는 입주민보다 사업용 차량이 우선시되는 상황”이라며 강한 불쾌감을 드러냈다.특히 방문객 차량이나 늦은 귀가 차량이 설 자리를 잃는 경우가 반복되면서 갈등은 더욱 증폭되고 있다.^^엔터^^법적·관리 규정 측면에서도 논쟁은 이어진다.일반적으로 아파트 관리규약에는 사업용 차량의 장기 주차를 제한하는 조항이 포함된 경우가 많다.
+===== B 영역 =====
+그러나 규약이 모호하거나 단속이 느슨하면 사실상 방치되는 사례도 적지 않다.관리사무소 역시 “명확한 증빙과 규정 해석이 필요하다”며 소극적인 태도를 보이는 경우가 있어, 주민들은 답답함을 호소한다.^^엔터^^전문가들은 주차 대수 제한, 사업용 차량 등록제, 외부 주차장 연계 등 현실적인 대안 마련이 시급하다고 지적한다.무엇보다 중요한 것은 입주민 간의 합의와 투명한 관리 기준이다.공용 공간은 공동체 신뢰 위에서 운영되는 만큼, 소수의 편의를 위해 다수의 권리가 침해되어서는 안 된다는 목소리가 힘을 얻고 있다.^^엔터^^이번 논란은 단순한 주차 문제를 넘어 아파트 공동체 운영의 원칙을 다시 묻고 있다.관리주체의 적극적인 중재와 명확한 규정 정비가 이루어지지 않는다면, 유사한 갈등은 다른 단지로도 번질 가능성이 크다.입주민들이 납득할 수 있는 해법이 마련될지, 그 귀추가 주목된다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[아파트 주차장, 렌터카 차고지 논란 확산]]^^엔터^^최근 한 아파트 단지에서 공용 주차장이 사실상 렌터카 사업용 차고지로 이용되고 있다는 의혹이 제기되며 입주민들의 분노가 커지고 있다. 해당 단지 일부 세대가 사업자 명의의 렌터카 여러 대를 상시 주차해두면서, 주민들이 정당하게 이용해야 할 주차 공간이 크게 줄어들었다는 주장이다. 퇴근 시간대면 주차 자리를 찾지 못해 단지 밖을 맴도는 일이 잦아졌고, 이로 인한 불만이 온라인 커뮤니티를 중심으로 급속히 확산되고 있다.^^엔터^^문제의 핵심은 **‘공용 공간의 사적·영리 목적 사용’**이다. 아파트 주차장은 입주민 전체의 편의를 위해 조성된 시설임에도, 특정 개인이나 사업자가 수익 창출 수단으로 활용한다면 형평성 논란을 피하기 어렵다. 실제로 일부 주민들은 “관리비를 내는 입주민보다 사업용 차량이 우선시되는 상황”이라며 강한 불쾌감을 드러냈다. 특히 방문객 차량이나 늦은 귀가 차량이 설 자리를 잃는 경우가 반복되면서 갈등은 더욱 증폭되고 있다.^^엔터^^법적·관리 규정 측면에서도 논쟁은 이어진다. 일반적으로 아파트 관리규약에는 사업용 차량의 장기 주차를 제한하는 조항이 포함된 경우가 많다. 그러나 규약이 모호하거나 단속이 느슨하면 사실상 방치되는 사례도 적지 않다. 관리사무소 역시 “명확한 증빙과 규정 해석이 필요하다”며 소극적인 태도를 보이는 경우가 있어, 주민들은 답답함을 호소한다.^^엔터^^전문가들은 주차 대수 제한, 사업용 차량 등록제, 외부 주차장 연계 등 현실적인 대안 마련이 시급하다고 지적한다. 무엇보다 중요한 것은 입주민 간의 합의와 투명한 관리 기준이다. 공용 공간은 공동체 신뢰 위에서 운영되는 만큼, 소수의 편의를 위해 다수의 권리가 침해되어서는 안 된다는 목소리가 힘을 얻고 있다.^^엔터^^이번 논란은 단순한 주차 문제를 넘어 아파트 공동체 운영의 원칙을 다시 묻고 있다. 관리주체의 적극적인 중재와 명확한 규정 정비가 이루어지지 않는다면, 유사한 갈등은 다른 단지로도 번질 가능성이 크다. 입주민들이 납득할 수 있는 해법이 마련될지, 그 귀추가 주목된다.^^엔터^^<<<전체 글 끝>>>
+matches2: 아파트 주차장, 렌터카 차고지 논란 확산
+text2: ^^엔터^^^^엔터^^최근 한 아파트 단지에서 공용 주차장이 사실상 렌터카 사업용 차고지로 이용되고 있다는 의혹이 제기되며 입주민들의 분노가 커지고 있다. 해당 단지 일부 세대가 사업자 명의의 렌터카 여러 대를 상시 주차해두면서, 주민들이 정당하게 이용해야 할 주차 공간이 크게 줄어들었다는 주장이다. 퇴근 시간대면 주차 자리를 찾지 못해 단지 밖을 맴도는 일이 잦아졌고, 이로 인한 불만이 온라인 커뮤니티를 중심으로 급속히 확산되고 있다.^^엔터^^문제의 핵심은 **‘공용 공간의 사적·영리 목적 사용’**이다. 아파트 주차장은 입주민 전체의 편의를 위해 조성된 시설임에도, 특정 개인이나 사업자가 수익 창출 수단으로 활용한다면 형평성 논란을 피하기 어렵다. 실제로 일부 주민들은 “관리비를 내는 입주민보다 사업용 차량이 우선시되는 상황”이라며 강한 불쾌감을 드러냈다. 특히 방문객 차량이나 늦은 귀가 차량이 설 자리를 잃는 경우가 반복되면서 갈등은 더욱 증폭되고 있다.^^엔터^^법적·관리 규정 측면에서도 논쟁은 이어진다. 일반적으로 아파트 관리규약에는 사업용 차량의 장기 주차를 제한하는 조항이 포함된 경우가 많다. 그러나 규약이 모호하거나 단속이 느슨하면 사실상 방치되는 사례도 적지 않다. 관리사무소 역시 “명확한 증빙과 규정 해석이 필요하다”며 소극적인 태도를 보이는 경우가 있어, 주민들은 답답함을 호소한다.^^엔터^^전문가들은 주차 대수 제한, 사업용 차량 등록제, 외부 주차장 연계 등 현실적인 대안 마련이 시급하다고 지적한다. 무엇보다 중요한 것은 입주민 간의 합의와 투명한 관리 기준이다. 공용 공간은 공동체 신뢰 위에서 운영되는 만큼, 소수의 편의를 위해 다수의 권리가 침해되어서는 안 된다는 목소리가 힘을 얻고 있다.^^엔터^^이번 논란은 단순한 주차 문제를 넘어 아파트 공동체 운영의 원칙을 다시 묻고 있다. 관리주체의 적극적인 중재와 명확한 규정 정비가 이루어지지 않는다면, 유사한 갈등은 다른 단지로도 번질 가능성이 크다. 입주민들이 납득할 수 있는 해법이 마련될지, 그 귀추가 주목된다.^^엔터^^
+check_word_length 0
+len(kkq) 1019
+외부 IP: None
+----------------------------import --------
+에러메세지 main
+object of type 'NoneType' has no len()
+60
+23시 04분 33초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 9
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 10
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 11
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 12
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 13
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 14
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 15
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 16
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 17
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 18
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 19
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 20
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 21
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 22
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 23
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 24
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 25
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 26
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 27
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 28
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 29
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 30
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 31
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 32
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 33
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 34
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 35
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 36
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 37
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 38
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 39
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 40
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 41
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 42
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 43
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 44
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 45
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 46
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 47
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 48
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 49
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 50
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 51
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 52
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 53
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 54
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 55
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 56
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 57
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 58
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 59
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 60
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 61
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 62
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 63
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 64
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 65
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 66
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 67
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 68
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 69
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 70
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 71
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 72
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 73
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 74
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 75
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 76
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 77
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 78
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 79
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 80
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 81
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 82
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 83
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 84
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 85
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 86
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 87
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 88
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 89
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 90
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 91
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 92
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 93
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 94
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 95
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 96
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 97
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 98
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 99
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 100
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 101
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 102
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 103
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 104
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 105
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 106
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 107
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 108
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 109
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 110
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 111
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 112
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 113
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 114
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 115
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 116
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 117
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 118
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 119
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 120
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 121
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 122
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 123
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 124
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 125
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 126
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 127
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 128
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 129
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 130
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 131
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 132
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 133
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 134
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 135
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 136
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 137
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 138
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 139
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 140
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 141
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 142
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 143
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 144
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 145
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 146
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 147
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 148
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 149
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 150
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 151
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 152
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 153
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 154
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 155
+시작
+File saved to: C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 뉴스\네이버블로그\logfile.txt
