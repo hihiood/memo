@@ -1,0 +1,470 @@
+학습chatGPT1
+맨위
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\7438703415c9473aacdb01a548c30312.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\a949bbe991114af3902de34b62dcac1f.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\8a2767d7b5e54843841031db87dc2eaf.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\able\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\able\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+target_time: 2026-02-02 09:35:56
+now: 2026-02-02 09:39:49.788313
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\bf4a6966383e4d29a1e82e1e1c1507a2.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\fa537b39bb2943da8751cb228c848724.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\088c706ca7344adc80b2bc005dfa4c04.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+title 케데헌 ‘골든’ 쾌거…그래미서 ‘베스트 송 리튼 포 비주얼 미디어’ 영예
+title MC몽 또 논란 중심에…긴급 ‘입장 발표’
+title 밤새 강원도 17cm 폭설…출근길 빙판에 대중교통 증편
+title 밤새 내린 눈에 빙판길 주의…출근길 사고 위험
+title 차은우 이어 김선호까지…연예계 ‘탈세 의혹’ 잇단 파장
+title K-콘텐츠 음악 저력 입증…케데헌 ‘골든’, 그래미 수상
+title MC몽, 또 사고 쳤나…논란 확산 속 긴급 입장문 공개
+title 강원 17cm 큰 눈에 도로 ‘빙판길’…출근길 혼잡 대비
+title 밤사이 내린 눈, 도로 곳곳 ‘빙판길’ 형성
+title 연예계 또 흔들리나…김선호 탈세 의혹에 차기작 ‘빨간불’
+title 그래미가 주목한 K음악…케데헌 ‘골든’ 수상 소식
+title 잇단 구설수 MC몽…결국 긴급 입장 발표
+title 밤사이 폭설에 출근길 비상…강원 대중교통 긴급 증편
+title 밤새 내린 눈 영향 지속…보행자·운전자 각별한 주의
+title 차기작 앞두고 불거진 논란…김선호 탈세 의혹에 업계 촉각
+title 세계 무대서 통했다…케데헌 ‘골든’, 그래미 트로피 품어
+title 논란 반복되나…MC몽 ‘사고’ 후 긴급 해명
+title 강원 전역 17cm 적설…빙판길 우려에 교통대책 가동
+title 빙판길 사고 잇따를 우려…눈 내린 뒤 안전운전 당부
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+1     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+2     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+3     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+4     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+5     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+6     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+7     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+8     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+9     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+10    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+11    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+12    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+13    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+14    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+15    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+16    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+17    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+18    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     그래미  ‘베스트 송 리튼 포 비주얼 미디어’  수상
+1                        검은 화면에 졸피뎀
+2                    밤새 강원도 17cm 폭설
+3                     밤새 내린 눈에 빙판길 
+4                     사람 안나오게 탈세 의혹
+5     그래미  ‘베스트 송 리튼 포 비주얼 미디어’  수상
+6                        검은 화면에 졸피뎀
+7                    밤새 강원도 17cm 폭설
+8                     밤새 내린 눈에 빙판길 
+9                     사람 안나오게 탈세 의혹
+10    그래미  ‘베스트 송 리튼 포 비주얼 미디어’  수상
+11                       검은 화면에 졸피뎀
+12                   밤새 강원도 17cm 폭설
+13                    밤새 내린 눈에 빙판길 
+14                    사람 안나오게 탈세 의혹
+15    그래미  ‘베스트 송 리튼 포 비주얼 미디어’  수상
+16                       검은 화면에 졸피뎀
+17                   밤새 강원도 17cm 폭설
+18                    밤새 내린 눈에 빙판길 
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0     tel:010-5240-4972
+1     tel:010-5240-4972
+2     tel:010-5240-4972
+3     tel:010-5240-4972
+4     tel:010-5240-4972
+5     tel:010-5240-4972
+6     tel:010-5240-4972
+7     tel:010-5240-4972
+8     tel:010-5240-4972
+9     tel:010-5240-4972
+10    tel:010-5240-4972
+11    tel:010-5240-4972
+12    tel:010-5240-4972
+13    tel:010-5240-4972
+14    tel:010-5240-4972
+15    tel:010-5240-4972
+16    tel:010-5240-4972
+17    tel:010-5240-4972
+18    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+1     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+2     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+3     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+4     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+5     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+6     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+7     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+8     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+9     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+10    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+11    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+12    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+13    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+14    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+15    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+16    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+17    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+18    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0     None
+1     None
+2     None
+3     None
+4     None
+5     None
+6     None
+7     None
+8     None
+9     None
+10    None
+11    None
+12    None
+13    None
+14    None
+15    None
+16    None
+17    None
+18    None
+dtype: object
+엑셀 개수 19
+✅ DB access 성공
+📌 MAC 주소 갱신 완료: 8C6FA60A-CC0D-E14B-ACDE-4B62D560EAD7
+DB access----success!!
+1--now_device_check 8C6FA60A-CC0D-E14B-ACDE-4B62D560EAD7
+1--device_check_DB 8C6FA60A-CC0D-E14B-ACDE-4B62D560EAD7
+operate_check DB access----success!!
+DB access----success!!
+지금 아이디 :
+excel_counter 0
+jungseungyeop
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+bring_window_to_front 수동 버튼 안눌러서 생긴 에러
+일부러 에러
+----------------------------import --------
+에러메세지 이미시 만들기
+'str' object has no attribute 'service'
+DB access----success!!
+60
+09시 40분 42초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\854d009abf2741319fc55e3b4e1e1b0e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\b7f7e25950744c6eb11daeac7df70106.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\0d6fb612caf64344a6b05d7fb591c69e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+DB access----success!!
+{insertreplycomment.get()} chatGPT10
+folder_to_check C:\Users\able\chromeCookie\Profile chatGPT10\Default
+손상된 프로필 삭제 완료: C:\Users\able\chromeCookie\Profile chatGPT10
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로그\logfile.txt
