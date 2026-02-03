@@ -1,0 +1,3997 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\67d9e286c05240d78505f6cdc0d6751d.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0176d0a8789e49059d363ca59aa0ee9b.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\915fc693a2ea4d868667bc63fd717b29.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+🔍 조건에 맞는 button 개수: 1
+
+[0] ----------
+text: close
+변경 로그 열기
+color: BLURPLE
+outerHTML:
+ <button color="BLURPLE" class="sc-e8425ea6-0 gLXNUV sc-5b7b0a78-3 eTBAUp"><i class="sc-95c4f607-0 grsLJu google-symbols sc-e8425ea6-1 kJJDGi" font-size="1rem" color="currentColor">close</i><span style="position: absolute; border: 0px; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; overflow-wrap: normal;">변경 로그 열기</span></button>
+target_time: 2026-02-03 14:41:09
+now: 2026-02-03 14:42:04.877357
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\4713a843a1154de28f95b7cf4d22e345.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\86c06dc410524f72ba9a0f07e595032f.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\c42faea679284d2394febcf631e226dd.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+title 도봉구 병원간병인 구하기
+title 씨엠병원 개인간병인 구하기
+title 서울재활병원 개인 간병인
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    병원에 입원한 가족을 위해 병원간병인을 구하고 있는 보호자를 대상으로 블로그 글을 ...
+1    병원에 입원한 가족을 위해 병원간병인을 구하고 있는 보호자를 대상으로 블로그 글을 ...
+2    병원에 입원한 가족을 위해 병원간병인을 구하고 있는 보호자를 대상으로 블로그 글을 ...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에서 한국환자를 간병하는 한국간병인모습
+1    병원에서 한국환자를 간병하는 한국간병인모습
+2    병원에서 한국환자를 간병하는 한국간병인모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    1588-5946
+1    1588-5946
+2    1588-5946
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    https://youtu.be/8Dsp9S4l0JE
+1    https://youtu.be/8Dsp9S4l0JE
+2    https://youtu.be/8Dsp9S4l0JE
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인업체/간병인협회/개인간병인/간병인구인업체/간병인구인구직/개인간병인비...
+1    병원간병인/간병인업체/간병인협회/개인간병인/간병인구인업체/간병인구인구직/개인간병인비...
+2    병원간병인/간병인업체/간병인협회/개인간병인/간병인구인업체/간병인구인구직/개인간병인비...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+dtype: object
+엑셀 개수 3
+현재 브라우저 언어: ko-KR
+지금 아이디 :
+excel_counter 0
+kmija1003
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  도봉구 병원간병인 구하기 도봉구 병원간병인 구하기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu', '도봉구 병원간병인 구하기 도봉구 병원간병인 구하기', 'ko']
+Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu
+Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Close-up photograph of a pair of mismatched socks with different patterns, on a dark blue velvet wooden background.
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  도봉구 병원간병인 구하기 도봉구 병원간병인 구하기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu', '도봉구 병원간병인 구하기 도봉구 병원간병인 구하기', 'ko']
+Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu
+Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Tranquil secret garden flourishing in a hidden pocket of a bustling city, tall stone walls, ivy-covered, stone fountain in the center, overgrown greenery, vibrant pops of red, yellow, and purple blooms, light cyan and dark teal background
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  도봉구 병원간병인 구하기 도봉구 병원간병인 구하기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu', '도봉구 병원간병인 구하기 도봉구 병원간병인 구하기', 'ko']
+Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu
+Looking for a hospital caregiver in Dobong-gu Looking for a hospital caregiver in Dobong-gu
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+3D render of a sentient cloud shaped like a dragon, lightning glowing in its belly, intricate detail, iridescent sky in the background
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="8117a42cc4ce12e609da4010072ae87f")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon
+수집된 텍스트: 주제 : 병원에 입원한 가족을 위해 병원간병인을 구하고 있는 보호자를 대상으로 블로그 글을 작성해줘.글은 갑작스러운 입원이나 수술, 장기 치료로 간병인이 필요해진 상황에서 보호자가 느끼는 현실적인 어려움에 공감하며 시작해줘.큰사랑간병협회에서는 병원 환경과 환자 상태에 맞는 전문 병원간병인을 연결해드리고 있다는 점을 자연스럽게 설명해줘. 개인적으로 간병인을 알아보는 과정에서 발생할 수 있는 불안 요소를 언급하고, 협회를 통해 간병인을 연결받을 경우 보다 체계적인 안내를 받을 수 있다는 방향으로 글을 풀어줘.또한 병원 간병 이후에도 퇴원 시점이나 회복 단계에 따라 돌봄이 계속 필요할 수 있다는 점을 설명하고, 보호자가 상황에 맞게 간병 형태를 고민할 수 있도록 정보를 제공해줘. 글 전체는 간병인을 ‘소개한다’는 느낌보다, 간병인을 구하는 과정을 안내한다는 톤을 유지해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x458543
+	0x458584
+	0x24b4e0
+	0x29594a
+	0x295beb
+	0x2d7bb2
+	0x2b8264
+	0x2d53a1
+	0x2b7fb6
+	0x2896f9
+	0x28a4b4
+	0x6ad034
+	0x6a82c9
+	0x6c6460
+	0x471a68
+	0x47988d
+	0x460df8
+	0x460fc2
+	0x44ab3a
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[병원 입원 가족을 위한 간병 준비 안내서]]^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+치료 자체에 대한 걱정도 크지만, 그와 동시에 “간병은 어떻게 해야 할까”라는 현실적인 고민이 시작됩니다.^^엔터^^
+직장을 비우기 어렵거나, 장기 치료가 예상되는 경우 보호자가 직접 모든 시간을 감당하기란 쉽지 않습니다.^^엔터^^
+이처럼 병원 간병이 필요해진 순간, 보호자는 시간·체력·정보 부족이라는 삼중의 어려움에 놓이게 됩니다.^^엔터^^🔵 병원 간병, 왜 더 신중해야 할까^^엔터^^
+병원은 단순한 생활 공간이 아닌 의료 중심의 환경입니다.^^엔터^^
+환자의 상태 변화에 빠르게 대응해야 하고, 의료진과의 소통도 중요합니다.^^엔터^^
+수술 직후 환자, 고령 환자, 거동이 불편한 환자의 경우 간병인의 역할은 치료 과정의 일부가 됩니다.^^엔터^^
+이 때문에 병원 간병은 경험과 이해도가 있는 전문 인력이 필요합니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+급한 마음에 개인적으로 간병인을 알아보다 보면 여러 고민이 생깁니다.^^엔터^^
+이분이 병원 간병 경험이 충분한지, 신원은 확실한지, 문제 발생 시 도움을 받을 수 있는지 등^^엔터^^
+확인하기 어려운 부분들이 보호자의 불안을 키우게 됩니다.^^엔터^^
+특히 처음 간병인을 구하는 보호자일수록 정보 부족으로 선택에 어려움을 겪기 쉽습니다.^^엔터^^🔵 큰사랑간병협회를 통한 간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 이러한 보호자의 부담을 덜어드리기 위해^^엔터^^
+병원 환경과 환자 상태를 먼저 충분히 상담합니다.^^엔터^^
+입원 병원, 치료 단계, 간병 시간대 등을 고려해 병원 간병에 적합한 인력을 안내하며,^^엔터^^
+검증과 교육을 거친 간병인을 중심으로 체계적인 연결이 이루어집니다.^^엔터^^
+보호자는 복잡한 과정을 혼자 감당하지 않아도 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려한 돌봄 안내^^엔터^^
+간병은 병원 입원 기간으로만 끝나지 않는 경우도 많습니다.^^엔터^^
+퇴원 이후 회복 단계에서 일정 기간 돌봄이 더 필요할 수 있고,^^엔터^^
+상태에 따라 병원 간병에서 가정 간병으로 전환을 고민하게 되기도 합니다.^^엔터^^
+이러한 흐름을 미리 알고 준비하면 보호자의 선택이 훨씬 수월해집니다.^^엔터^^🔵 간병인을 구하는 과정, 함께 정리해드립니다^^엔터^^
+간병은 누군가를 ‘소개받는 일’이 아니라,^^엔터^^
+보호자와 환자의 상황에 맞는 선택 과정을 차분히 안내받는 일입니다.^^엔터^^
+큰사랑간병협회는 보호자가 현재 상황에 집중할 수 있도록^^엔터^^
+간병 준비의 방향을 함께 정리해드립니다.^^엔터^^
+입원 중이든, 회복 단계든 간병이 필요하다면 부담을 혼자 안지 마세요.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[병원 입원 가족을 위한 간병 준비 안내서]]^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+치료 자체에 대한 걱정도 크지만, 그와 동시에 “간병은 어떻게 해야 할까”라는 현실적인 고민이 시작됩니다.^^엔터^^
+직장을 비우기 어렵거나, 장기 치료가 예상되는 경우 보호자가 직접 모든 시간을 감당하기란 쉽지 않습니다.^^엔터^^
+이처럼 병원 간병이 필요해진 순간, 보호자는 시간·체력·정보 부족이라는 삼중의 어려움에 놓이게 됩니다.^^엔터^^
+===== B 영역 =====
+🔵 병원 간병, 왜 더 신중해야 할까^^엔터^^
+병원은 단순한 생활 공간이 아닌 의료 중심의 환경입니다.^^엔터^^
+환자의 상태 변화에 빠르게 대응해야 하고, 의료진과의 소통도 중요합니다.^^엔터^^
+수술 직후 환자, 고령 환자, 거동이 불편한 환자의 경우 간병인의 역할은 치료 과정의 일부가 됩니다.^^엔터^^
+이 때문에 병원 간병은 경험과 이해도가 있는 전문 인력이 필요합니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+급한 마음에 개인적으로 간병인을 알아보다 보면 여러 고민이 생깁니다.^^엔터^^
+이분이 병원 간병 경험이 충분한지, 신원은 확실한지, 문제 발생 시 도움을 받을 수 있는지 등^^엔터^^
+확인하기 어려운 부분들이 보호자의 불안을 키우게 됩니다.^^엔터^^
+특히 처음 간병인을 구하는 보호자일수록 정보 부족으로 선택에 어려움을 겪기 쉽습니다.^^엔터^^🔵 큰사랑간병협회를 통한 간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 이러한 보호자의 부담을 덜어드리기 위해^^엔터^^
+병원 환경과 환자 상태를 먼저 충분히 상담합니다.^^엔터^^
+입원 병원, 치료 단계, 간병 시간대 등을 고려해 병원 간병에 적합한 인력을 안내하며,^^엔터^^
+검증과 교육을 거친 간병인을 중심으로 체계적인 연결이 이루어집니다.^^엔터^^
+보호자는 복잡한 과정을 혼자 감당하지 않아도 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려한 돌봄 안내^^엔터^^
+간병은 병원 입원 기간으로만 끝나지 않는 경우도 많습니다.^^엔터^^
+퇴원 이후 회복 단계에서 일정 기간 돌봄이 더 필요할 수 있고,^^엔터^^
+상태에 따라 병원 간병에서 가정 간병으로 전환을 고민하게 되기도 합니다.^^엔터^^
+이러한 흐름을 미리 알고 준비하면 보호자의 선택이 훨씬 수월해집니다.^^엔터^^🔵 간병인을 구하는 과정, 함께 정리해드립니다^^엔터^^
+간병은 누군가를 ‘소개받는 일’이 아니라,^^엔터^^
+보호자와 환자의 상황에 맞는 선택 과정을 차분히 안내받는 일입니다.^^엔터^^
+큰사랑간병협회는 보호자가 현재 상황에 집중할 수 있도록^^엔터^^
+간병 준비의 방향을 함께 정리해드립니다.^^엔터^^
+입원 중이든, 회복 단계든 간병이 필요하다면 부담을 혼자 안지 마세요.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[병원 입원 가족을 위한 간병 준비 안내서]]^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+치료 자체에 대한 걱정도 크지만, 그와 동시에 “간병은 어떻게 해야 할까”라는 현실적인 고민이 시작됩니다.^^엔터^^
+직장을 비우기 어렵거나, 장기 치료가 예상되는 경우 보호자가 직접 모든 시간을 감당하기란 쉽지 않습니다.^^엔터^^
+이처럼 병원 간병이 필요해진 순간, 보호자는 시간·체력·정보 부족이라는 삼중의 어려움에 놓이게 됩니다.^^엔터^^🔵 병원 간병, 왜 더 신중해야 할까^^엔터^^
+병원은 단순한 생활 공간이 아닌 의료 중심의 환경입니다.^^엔터^^
+환자의 상태 변화에 빠르게 대응해야 하고, 의료진과의 소통도 중요합니다.^^엔터^^
+수술 직후 환자, 고령 환자, 거동이 불편한 환자의 경우 간병인의 역할은 치료 과정의 일부가 됩니다.^^엔터^^
+이 때문에 병원 간병은 경험과 이해도가 있는 전문 인력이 필요합니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+급한 마음에 개인적으로 간병인을 알아보다 보면 여러 고민이 생깁니다.^^엔터^^
+이분이 병원 간병 경험이 충분한지, 신원은 확실한지, 문제 발생 시 도움을 받을 수 있는지 등^^엔터^^
+확인하기 어려운 부분들이 보호자의 불안을 키우게 됩니다.^^엔터^^
+특히 처음 간병인을 구하는 보호자일수록 정보 부족으로 선택에 어려움을 겪기 쉽습니다.^^엔터^^🔵 큰사랑간병협회를 통한 간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 이러한 보호자의 부담을 덜어드리기 위해^^엔터^^
+병원 환경과 환자 상태를 먼저 충분히 상담합니다.^^엔터^^
+입원 병원, 치료 단계, 간병 시간대 등을 고려해 병원 간병에 적합한 인력을 안내하며,^^엔터^^
+검증과 교육을 거친 간병인을 중심으로 체계적인 연결이 이루어집니다.^^엔터^^
+보호자는 복잡한 과정을 혼자 감당하지 않아도 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려한 돌봄 안내^^엔터^^
+간병은 병원 입원 기간으로만 끝나지 않는 경우도 많습니다.^^엔터^^
+퇴원 이후 회복 단계에서 일정 기간 돌봄이 더 필요할 수 있고,^^엔터^^
+상태에 따라 병원 간병에서 가정 간병으로 전환을 고민하게 되기도 합니다.^^엔터^^
+이러한 흐름을 미리 알고 준비하면 보호자의 선택이 훨씬 수월해집니다.^^엔터^^🔵 간병인을 구하는 과정, 함께 정리해드립니다^^엔터^^
+간병은 누군가를 ‘소개받는 일’이 아니라,^^엔터^^
+보호자와 환자의 상황에 맞는 선택 과정을 차분히 안내받는 일입니다.^^엔터^^
+큰사랑간병협회는 보호자가 현재 상황에 집중할 수 있도록^^엔터^^
+간병 준비의 방향을 함께 정리해드립니다.^^엔터^^
+입원 중이든, 회복 단계든 간병이 필요하다면 부담을 혼자 안지 마세요.^^엔터^^<<<전체 글 끝>>>
+matches2: 병원 입원 가족을 위한 간병 준비 안내서
+text2: ^^엔터^^^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+치료 자체에 대한 걱정도 크지만, 그와 동시에 “간병은 어떻게 해야 할까”라는 현실적인 고민이 시작됩니다.^^엔터^^
+직장을 비우기 어렵거나, 장기 치료가 예상되는 경우 보호자가 직접 모든 시간을 감당하기란 쉽지 않습니다.^^엔터^^
+이처럼 병원 간병이 필요해진 순간, 보호자는 시간·체력·정보 부족이라는 삼중의 어려움에 놓이게 됩니다.^^엔터^^🔵 병원 간병, 왜 더 신중해야 할까^^엔터^^
+병원은 단순한 생활 공간이 아닌 의료 중심의 환경입니다.^^엔터^^
+환자의 상태 변화에 빠르게 대응해야 하고, 의료진과의 소통도 중요합니다.^^엔터^^
+수술 직후 환자, 고령 환자, 거동이 불편한 환자의 경우 간병인의 역할은 치료 과정의 일부가 됩니다.^^엔터^^
+이 때문에 병원 간병은 경험과 이해도가 있는 전문 인력이 필요합니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+급한 마음에 개인적으로 간병인을 알아보다 보면 여러 고민이 생깁니다.^^엔터^^
+이분이 병원 간병 경험이 충분한지, 신원은 확실한지, 문제 발생 시 도움을 받을 수 있는지 등^^엔터^^
+확인하기 어려운 부분들이 보호자의 불안을 키우게 됩니다.^^엔터^^
+특히 처음 간병인을 구하는 보호자일수록 정보 부족으로 선택에 어려움을 겪기 쉽습니다.^^엔터^^🔵 큰사랑간병협회를 통한 간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 이러한 보호자의 부담을 덜어드리기 위해^^엔터^^
+병원 환경과 환자 상태를 먼저 충분히 상담합니다.^^엔터^^
+입원 병원, 치료 단계, 간병 시간대 등을 고려해 병원 간병에 적합한 인력을 안내하며,^^엔터^^
+검증과 교육을 거친 간병인을 중심으로 체계적인 연결이 이루어집니다.^^엔터^^
+보호자는 복잡한 과정을 혼자 감당하지 않아도 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려한 돌봄 안내^^엔터^^
+간병은 병원 입원 기간으로만 끝나지 않는 경우도 많습니다.^^엔터^^
+퇴원 이후 회복 단계에서 일정 기간 돌봄이 더 필요할 수 있고,^^엔터^^
+상태에 따라 병원 간병에서 가정 간병으로 전환을 고민하게 되기도 합니다.^^엔터^^
+이러한 흐름을 미리 알고 준비하면 보호자의 선택이 훨씬 수월해집니다.^^엔터^^🔵 간병인을 구하는 과정, 함께 정리해드립니다^^엔터^^
+간병은 누군가를 ‘소개받는 일’이 아니라,^^엔터^^
+보호자와 환자의 상황에 맞는 선택 과정을 차분히 안내받는 일입니다.^^엔터^^
+큰사랑간병협회는 보호자가 현재 상황에 집중할 수 있도록^^엔터^^
+간병 준비의 방향을 함께 정리해드립니다.^^엔터^^
+입원 중이든, 회복 단계든 간병이 필요하다면 부담을 혼자 안지 마세요.^^엔터^^
+check_word_length 0
+len(kkq) 1386
+외부 IP: 14.52.50.94
+ID_IMAGE ID11.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=198440, title='Main'
+[WARN] VPN 창 활성화 실패: (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+[WARN] 'vpn' 창을 찾지 못했습니다.
+[INFO] VPN 창 활성화 시도 완료 (결과와 관계없이 계속 진행)
+[INFO] VPN 창 없음 또는 접근 실패 — 다음 단계로 강제 진행
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID11.PNG
+selected_path2 C:\MyApp\images\ID11.PNG
+[ERROR] 창 활성화 중 오류: Error code from Windows: 0 - 작업을 완료했습니다.
+이미지 찾기 시도 시작: C:\MyApp\images\ID11.PNG
+[1회 시도] 이미지 못 찾음 → PageDown 시도
+[2회 시도] 이미지 못 찾음 → PageDown 시도
+[3회 시도] 이미지 못 찾음 → PageDown 시도
+[4회 시도] 이미지 못 찾음 → PageDown 시도
+[5회 시도] 이미지 못 찾음 → PageDown 시도
+[6회 시도] 이미지 못 찾음 → PageDown 시도
+[7회 시도] 이미지 못 찾음 → PageDown 시도
+[8회 시도] 이미지 못 찾음 → PageDown 시도
+[9회 시도] 이미지 못 찾음 → PageDown 시도
+[10회 시도] 이미지 못 찾음 → PageDown 시도
+[11회 시도] 이미지 못 찾음 → PageDown 시도
+[12회 시도] 이미지 못 찾음 → PageDown 시도
+[13회 시도] 이미지 못 찾음 → PageDown 시도
+[14회 시도] 이미지 못 찾음 → PageDown 시도
+[15회 시도] 이미지 못 찾음 → PageDown 시도
+[16회 시도] 이미지 못 찾음 → PageDown 시도
+[17회 시도] 이미지 못 찾음 → PageDown 시도
+[18회 시도] 이미지 못 찾음 → PageDown 시도
+[19회 시도] 이미지 못 찾음 → PageDown 시도
+[20회 시도] 이미지 못 찾음 → PageDown 시도
+[21회 시도] 이미지 못 찾음 → PageDown 시도
+[22회 시도] 이미지 못 찾음 → PageDown 시도
+[23회 시도] 이미지 못 찾음 → PageDown 시도
+[24회 시도] 이미지 못 찾음 → PageDown 시도
+[25회 시도] 이미지 못 찾음 → PageDown 시도
+[INFO] 아래로 스크롤 10회 후에도 이미지 발견 실패 → 위로 스크롤 재탐색 시작
+[위로 1회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 2회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 3회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 4회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 5회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 6회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 7회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 8회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 9회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 10회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 11회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 12회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 13회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 14회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 15회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 16회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 17회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 18회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 19회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 20회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 21회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 22회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 23회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 24회 시도] 이미지 못 찾음 → PageUp 시도
+[위로 25회 시도] 이미지 못 찾음 → PageUp 시도
+[FAIL] PageDown/PageUp 모두 10회 시도 후에도 이미지 발견 실패
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID11.PNG
+selected_path2 C:\MyApp\images\ID11.PNG
+loc_ID 495 None
+---log checker---
+loc None
+loc_ID None
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 14.52.50.94
+변경된 IP : 14.52.50.94
+check : ID11.png / 211.40.23.36 
+
+check : 12 / 11 
+
+check_ID_ip[excel_counter] 211.40.23.36
+newip 14.52.50.94
+지금 아이디 :
+excel_counter 1
+ablelaw2
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  씨엠병원 개인간병인 구하기 씨엠병원 개인간병인 구하기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital', '씨엠병원 개인간병인 구하기 씨엠병원 개인간병인 구하기', 'ko']
+Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital
+Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Street photography of a dog in a cute and fluffy hat, purple and pink tones, quiet french cafe, diffused lighting
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  씨엠병원 개인간병인 구하기 씨엠병원 개인간병인 구하기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital', '씨엠병원 개인간병인 구하기 씨엠병원 개인간병인 구하기', 'ko']
+Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital
+Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of a cat floating in space wearing an astronaut suit, with the earth in the background
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  씨엠병원 개인간병인 구하기 씨엠병원 개인간병인 구하기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital', '씨엠병원 개인간병인 구하기 씨엠병원 개인간병인 구하기', 'ko']
+Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital
+Find a personal caregiver at CM Hospital Find a personal caregiver at CM Hospital
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Fuzzy polar bear plushie sleeping in a minimalist modern apartment bed
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="8117a42cc4ce12e609da4010072ae87f")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon
+수집된 텍스트: 주제 : 병원에 입원한 가족을 위해 병원간병인을 구하고 있는 보호자를 대상으로 블로그 글을 작성해줘.글은 갑작스러운 입원이나 수술, 장기 치료로 간병인이 필요해진 상황에서 보호자가 느끼는 현실적인 어려움에 공감하며 시작해줘.큰사랑간병협회에서는 병원 환경과 환자 상태에 맞는 전문 병원간병인을 연결해드리고 있다는 점을 자연스럽게 설명해줘. 개인적으로 간병인을 알아보는 과정에서 발생할 수 있는 불안 요소를 언급하고, 협회를 통해 간병인을 연결받을 경우 보다 체계적인 안내를 받을 수 있다는 방향으로 글을 풀어줘.또한 병원 간병 이후에도 퇴원 시점이나 회복 단계에 따라 돌봄이 계속 필요할 수 있다는 점을 설명하고, 보호자가 상황에 맞게 간병 형태를 고민할 수 있도록 정보를 제공해줘. 글 전체는 간병인을 ‘소개한다’는 느낌보다, 간병인을 구하는 과정을 안내한다는 톤을 유지해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x458543
+	0x458584
+	0x24b4e0
+	0x29594a
+	0x295beb
+	0x2d7bb2
+	0x2b8264
+	0x2d53a1
+	0x2b7fb6
+	0x2896f9
+	0x28a4b4
+	0x6ad034
+	0x6a82c9
+	0x6c6460
+	0x471a68
+	0x47988d
+	0x460df8
+	0x460fc2
+	0x44ab3a
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<갑작스러운 입원, 병원간병 준비 안내>>]]^^엔터^^🔵 예고 없이 찾아온 입원, 보호자의 고민^^엔터^^
+갑작스러운 입원이나 수술 소식을 들으면 보호자는 마음이 급해집니다. 치료 일정부터 병원 생활 준비까지 신경 쓸 일이 한꺼번에 몰려오고, 그중 가장 큰 고민은 “누가 환자 곁을 지켜줄 수 있을까”입니다. 직장과 가정을 오가며 상주 간병이 어려운 상황에서, 병원간병인을 어떻게 구해야 할지 막막함을 느끼는 보호자분들이 많습니다. 이 글은 그런 현실적인 고민에 공감하며, 병원 간병을 준비하는 과정을 차분히 안내하고자 합니다.^^엔터^^🔵 병원 환경에 맞는 간병이 필요한 이유^^엔터^^
+병원은 가정과 달리 치료와 회복이 동시에 이루어지는 공간입니다. 의료진의 회진, 검사 이동, 수술 전후 관리 등 환자 상태에 따라 세심한 대응이 필요합니다. 특히 고령 환자나 수술 후 회복 중인 환자의 경우, 작은 변화도 놓치지 않는 간병이 중요합니다. 그래서 병원간병은 단순한 돌봄이 아니라 병원 환경을 이해한 전문적인 도움이 요구됩니다. 보호자가 모든 상황을 직접 감당하기엔 현실적으로 어려움이 따릅니다.^^엔터^^🔵 개인적으로 간병인을 찾을 때의 불안 요소^^엔터^^
+지인을 통해 알아보거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 뒤따릅니다. 경력은 충분한지, 병원 생활에 익숙한지, 갑작스러운 상황에 어떻게 대처하는지 알기 어렵기 때문입니다. 또한 간병 일정 변경이나 문제 발생 시 누구에게 도움을 요청해야 할지도 불분명합니다. 이러한 불안 요소는 보호자의 부담을 더 키우고, 환자에게도 영향을 줄 수 있습니다.^^엔터^^🔵 큰사랑간병협회에서 안내하는 병원간병 과정^^엔터^^
+큰사랑간병협회에서는 보호자가 느끼는 이런 고민을 줄이기 위해, 병원 환경과 환자 상태에 맞춘 병원간병인을 연결해드리고 있습니다. 상담을 통해 환자의 상태, 병원 위치, 필요한 간병 시간대를 먼저 파악하고, 이에 적합한 간병인을 안내하는 방식입니다. 간병인을 ‘소개받는다’기보다, 병원간병이 어떻게 이루어지는지 전체 과정을 안내받는 느낌으로 준비할 수 있어 보호자 입장에서 한결 수월합니다.^^엔터^^🔵 퇴원 이후까지 이어질 수 있는 간병 고민^^엔터^^
+병원 간병은 입원 기간으로만 끝나지 않는 경우도 많습니다. 퇴원 후에도 회복 단계에 따라 일정 기간 돌봄이 필요할 수 있고, 통원 치료나 재활 과정에서 도움을 고민하게 됩니다. 보호자는 환자의 상태 변화에 맞춰 병원 간병, 단기 간병, 회복기 돌봄 등 다양한 형태를 고려하게 됩니다. 이런 흐름을 미리 알고 준비하면, 상황 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^🔵 보호자를 위한 차분한 선택의 안내^^엔터^^
+간병인을 구하는 일은 서두르기보다, 현재 상황과 앞으로의 회복 과정을 함께 고려하는 것이 중요합니다. 큰사랑간병협회는 보호자가 이런 선택을 할 수 있도록 병원간병 전반에 대한 정보를 제공하고, 상황에 맞는 방향을 안내합니다. 갑작스러운 입원으로 혼자 고민하지 마시고, 간병 과정을 이해하는 것부터 시작해보세요. 보호자의 부담을 덜고, 환자가 치료에 집중할 수 있는 환경을 만드는 첫걸음이 될 수 있습니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<갑작스러운 입원, 병원간병 준비 안내>>]]^^엔터^^🔵 예고 없이 찾아온 입원, 보호자의 고민^^엔터^^
+갑작스러운 입원이나 수술 소식을 들으면 보호자는 마음이 급해집니다. 치료 일정부터 병원 생활 준비까지 신경 쓸 일이 한꺼번에 몰려오고, 그중 가장 큰 고민은 “누가 환자 곁을 지켜줄 수 있을까”입니다. 직장과 가정을 오가며 상주 간병이 어려운 상황에서, 병원간병인을 어떻게 구해야 할지 막막함을 느끼는 보호자분들이 많습니다. 이 글은 그런 현실적인 고민에 공감하며, 병원 간병을 준비하는 과정을 차분히 안내하고자 합니다.^^엔터^^
+===== B 영역 =====
+🔵 병원 환경에 맞는 간병이 필요한 이유^^엔터^^
+병원은 가정과 달리 치료와 회복이 동시에 이루어지는 공간입니다. 의료진의 회진, 검사 이동, 수술 전후 관리 등 환자 상태에 따라 세심한 대응이 필요합니다. 특히 고령 환자나 수술 후 회복 중인 환자의 경우, 작은 변화도 놓치지 않는 간병이 중요합니다. 그래서 병원간병은 단순한 돌봄이 아니라 병원 환경을 이해한 전문적인 도움이 요구됩니다. 보호자가 모든 상황을 직접 감당하기엔 현실적으로 어려움이 따릅니다.^^엔터^^🔵 개인적으로 간병인을 찾을 때의 불안 요소^^엔터^^
+지인을 통해 알아보거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 뒤따릅니다. 경력은 충분한지, 병원 생활에 익숙한지, 갑작스러운 상황에 어떻게 대처하는지 알기 어렵기 때문입니다. 또한 간병 일정 변경이나 문제 발생 시 누구에게 도움을 요청해야 할지도 불분명합니다. 이러한 불안 요소는 보호자의 부담을 더 키우고, 환자에게도 영향을 줄 수 있습니다.^^엔터^^🔵 큰사랑간병협회에서 안내하는 병원간병 과정^^엔터^^
+큰사랑간병협회에서는 보호자가 느끼는 이런 고민을 줄이기 위해, 병원 환경과 환자 상태에 맞춘 병원간병인을 연결해드리고 있습니다. 상담을 통해 환자의 상태, 병원 위치, 필요한 간병 시간대를 먼저 파악하고, 이에 적합한 간병인을 안내하는 방식입니다. 간병인을 ‘소개받는다’기보다, 병원간병이 어떻게 이루어지는지 전체 과정을 안내받는 느낌으로 준비할 수 있어 보호자 입장에서 한결 수월합니다.^^엔터^^🔵 퇴원 이후까지 이어질 수 있는 간병 고민^^엔터^^
+병원 간병은 입원 기간으로만 끝나지 않는 경우도 많습니다. 퇴원 후에도 회복 단계에 따라 일정 기간 돌봄이 필요할 수 있고, 통원 치료나 재활 과정에서 도움을 고민하게 됩니다. 보호자는 환자의 상태 변화에 맞춰 병원 간병, 단기 간병, 회복기 돌봄 등 다양한 형태를 고려하게 됩니다. 이런 흐름을 미리 알고 준비하면, 상황 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^🔵 보호자를 위한 차분한 선택의 안내^^엔터^^
+간병인을 구하는 일은 서두르기보다, 현재 상황과 앞으로의 회복 과정을 함께 고려하는 것이 중요합니다. 큰사랑간병협회는 보호자가 이런 선택을 할 수 있도록 병원간병 전반에 대한 정보를 제공하고, 상황에 맞는 방향을 안내합니다. 갑작스러운 입원으로 혼자 고민하지 마시고, 간병 과정을 이해하는 것부터 시작해보세요. 보호자의 부담을 덜고, 환자가 치료에 집중할 수 있는 환경을 만드는 첫걸음이 될 수 있습니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<갑작스러운 입원, 병원간병 준비 안내>>]]^^엔터^^🔵 예고 없이 찾아온 입원, 보호자의 고민^^엔터^^
+갑작스러운 입원이나 수술 소식을 들으면 보호자는 마음이 급해집니다. 치료 일정부터 병원 생활 준비까지 신경 쓸 일이 한꺼번에 몰려오고, 그중 가장 큰 고민은 “누가 환자 곁을 지켜줄 수 있을까”입니다. 직장과 가정을 오가며 상주 간병이 어려운 상황에서, 병원간병인을 어떻게 구해야 할지 막막함을 느끼는 보호자분들이 많습니다. 이 글은 그런 현실적인 고민에 공감하며, 병원 간병을 준비하는 과정을 차분히 안내하고자 합니다.^^엔터^^🔵 병원 환경에 맞는 간병이 필요한 이유^^엔터^^
+병원은 가정과 달리 치료와 회복이 동시에 이루어지는 공간입니다. 의료진의 회진, 검사 이동, 수술 전후 관리 등 환자 상태에 따라 세심한 대응이 필요합니다. 특히 고령 환자나 수술 후 회복 중인 환자의 경우, 작은 변화도 놓치지 않는 간병이 중요합니다. 그래서 병원간병은 단순한 돌봄이 아니라 병원 환경을 이해한 전문적인 도움이 요구됩니다. 보호자가 모든 상황을 직접 감당하기엔 현실적으로 어려움이 따릅니다.^^엔터^^🔵 개인적으로 간병인을 찾을 때의 불안 요소^^엔터^^
+지인을 통해 알아보거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 뒤따릅니다. 경력은 충분한지, 병원 생활에 익숙한지, 갑작스러운 상황에 어떻게 대처하는지 알기 어렵기 때문입니다. 또한 간병 일정 변경이나 문제 발생 시 누구에게 도움을 요청해야 할지도 불분명합니다. 이러한 불안 요소는 보호자의 부담을 더 키우고, 환자에게도 영향을 줄 수 있습니다.^^엔터^^🔵 큰사랑간병협회에서 안내하는 병원간병 과정^^엔터^^
+큰사랑간병협회에서는 보호자가 느끼는 이런 고민을 줄이기 위해, 병원 환경과 환자 상태에 맞춘 병원간병인을 연결해드리고 있습니다. 상담을 통해 환자의 상태, 병원 위치, 필요한 간병 시간대를 먼저 파악하고, 이에 적합한 간병인을 안내하는 방식입니다. 간병인을 ‘소개받는다’기보다, 병원간병이 어떻게 이루어지는지 전체 과정을 안내받는 느낌으로 준비할 수 있어 보호자 입장에서 한결 수월합니다.^^엔터^^🔵 퇴원 이후까지 이어질 수 있는 간병 고민^^엔터^^
+병원 간병은 입원 기간으로만 끝나지 않는 경우도 많습니다. 퇴원 후에도 회복 단계에 따라 일정 기간 돌봄이 필요할 수 있고, 통원 치료나 재활 과정에서 도움을 고민하게 됩니다. 보호자는 환자의 상태 변화에 맞춰 병원 간병, 단기 간병, 회복기 돌봄 등 다양한 형태를 고려하게 됩니다. 이런 흐름을 미리 알고 준비하면, 상황 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^🔵 보호자를 위한 차분한 선택의 안내^^엔터^^
+간병인을 구하는 일은 서두르기보다, 현재 상황과 앞으로의 회복 과정을 함께 고려하는 것이 중요합니다. 큰사랑간병협회는 보호자가 이런 선택을 할 수 있도록 병원간병 전반에 대한 정보를 제공하고, 상황에 맞는 방향을 안내합니다. 갑작스러운 입원으로 혼자 고민하지 마시고, 간병 과정을 이해하는 것부터 시작해보세요. 보호자의 부담을 덜고, 환자가 치료에 집중할 수 있는 환경을 만드는 첫걸음이 될 수 있습니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 갑작스러운 입원, 병원간병 준비 안내
+text2: ^^엔터^^^^엔터^^🔵 예고 없이 찾아온 입원, 보호자의 고민^^엔터^^
+갑작스러운 입원이나 수술 소식을 들으면 보호자는 마음이 급해집니다. 치료 일정부터 병원 생활 준비까지 신경 쓸 일이 한꺼번에 몰려오고, 그중 가장 큰 고민은 “누가 환자 곁을 지켜줄 수 있을까”입니다. 직장과 가정을 오가며 상주 간병이 어려운 상황에서, 병원간병인을 어떻게 구해야 할지 막막함을 느끼는 보호자분들이 많습니다. 이 글은 그런 현실적인 고민에 공감하며, 병원 간병을 준비하는 과정을 차분히 안내하고자 합니다.^^엔터^^🔵 병원 환경에 맞는 간병이 필요한 이유^^엔터^^
+병원은 가정과 달리 치료와 회복이 동시에 이루어지는 공간입니다. 의료진의 회진, 검사 이동, 수술 전후 관리 등 환자 상태에 따라 세심한 대응이 필요합니다. 특히 고령 환자나 수술 후 회복 중인 환자의 경우, 작은 변화도 놓치지 않는 간병이 중요합니다. 그래서 병원간병은 단순한 돌봄이 아니라 병원 환경을 이해한 전문적인 도움이 요구됩니다. 보호자가 모든 상황을 직접 감당하기엔 현실적으로 어려움이 따릅니다.^^엔터^^🔵 개인적으로 간병인을 찾을 때의 불안 요소^^엔터^^
+지인을 통해 알아보거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 뒤따릅니다. 경력은 충분한지, 병원 생활에 익숙한지, 갑작스러운 상황에 어떻게 대처하는지 알기 어렵기 때문입니다. 또한 간병 일정 변경이나 문제 발생 시 누구에게 도움을 요청해야 할지도 불분명합니다. 이러한 불안 요소는 보호자의 부담을 더 키우고, 환자에게도 영향을 줄 수 있습니다.^^엔터^^🔵 큰사랑간병협회에서 안내하는 병원간병 과정^^엔터^^
+큰사랑간병협회에서는 보호자가 느끼는 이런 고민을 줄이기 위해, 병원 환경과 환자 상태에 맞춘 병원간병인을 연결해드리고 있습니다. 상담을 통해 환자의 상태, 병원 위치, 필요한 간병 시간대를 먼저 파악하고, 이에 적합한 간병인을 안내하는 방식입니다. 간병인을 ‘소개받는다’기보다, 병원간병이 어떻게 이루어지는지 전체 과정을 안내받는 느낌으로 준비할 수 있어 보호자 입장에서 한결 수월합니다.^^엔터^^🔵 퇴원 이후까지 이어질 수 있는 간병 고민^^엔터^^
+병원 간병은 입원 기간으로만 끝나지 않는 경우도 많습니다. 퇴원 후에도 회복 단계에 따라 일정 기간 돌봄이 필요할 수 있고, 통원 치료나 재활 과정에서 도움을 고민하게 됩니다. 보호자는 환자의 상태 변화에 맞춰 병원 간병, 단기 간병, 회복기 돌봄 등 다양한 형태를 고려하게 됩니다. 이런 흐름을 미리 알고 준비하면, 상황 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^🔵 보호자를 위한 차분한 선택의 안내^^엔터^^
+간병인을 구하는 일은 서두르기보다, 현재 상황과 앞으로의 회복 과정을 함께 고려하는 것이 중요합니다. 큰사랑간병협회는 보호자가 이런 선택을 할 수 있도록 병원간병 전반에 대한 정보를 제공하고, 상황에 맞는 방향을 안내합니다. 갑작스러운 입원으로 혼자 고민하지 마시고, 간병 과정을 이해하는 것부터 시작해보세요. 보호자의 부담을 덜고, 환자가 치료에 집중할 수 있는 환경을 만드는 첫걸음이 될 수 있습니다.^^엔터^^
+check_word_length 0
+len(kkq) 1538
+외부 IP: 14.52.50.94
+ID_IMAGE ID12.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=198440, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID12.PNG
+selected_path2 C:\MyApp\images\ID12.PNG
+[INFO] Main(hotVPN) 창 활성화 성공
+[INFO] 마우스 이동 완료 (1256, 474)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID12.PNG
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1359, y=605)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID12.PNG
+selected_path2 C:\MyApp\images\ID12.PNG
+loc_ID 495 Point(x=1359, y=605)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+접속 해제 버튼을 찾았습니다
+이미 접속중 입니다. 돌아갑니다 580
+접속하기 누릅니다
+확인 버튼 활성화? 570
+확인 버튼 활성화?
+동작중 멘트 안보임
+확인 버튼 활성화?
+ 동작 중...
+확인 버튼 활성화?
+동작중 멘트 안보임
+copied_paths[2] C:\MyApp\images\AA3.png
+뒤로가는 버튼 찾음? Point(x=1024, y=183)
+뒤로가는 버튼 찾음
+---log checker---
+loc None
+loc_ID Point(x=1359, y=605)
+loc_GREEN None
+loc_GRAY Point(x=1473, y=453)
+loc_LOGIN None
+loc_BacktoHOME Point(x=1024, y=183)
+외부 IP: 210.182.141.220
+변경된 IP : 210.182.141.220
+check : ID12.png / 210.182.141.220 
+
+check : 15 / 15 
+
+check_ID_ip[excel_counter] 210.182.141.220
+newip 210.182.141.220
+2--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+2--device_check_DB 8C6FA60A-CC0D-E14B-ACDE-4B62D560EAD7
+제목  씨엠병원 개인간병인 구하기
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile ablelaw2 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile ablelaw2
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile ablelaw2)
+cookies [{'domain': '.naver.com', 'expiry': 1770098190, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1770097890'}, {'domain': '.naver.com', 'expiry': 1770099690, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1770097890'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'C2529C1E6A0D362C5E42317793AD5A93.jvm1'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1803968907, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '3/tQlYMGgtHIZznO81j8UZc0eqxALu1l3GiYFmdNAk7MazQTNR5V/6uBzAfnO3Mx'}, {'domain': '.naver.com', 'expiry': 1772000907, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1350030707'}, {'domain': '.naver.com', 'expiry': 1772689889, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAABlKaaTheFMRhdnylzsqgmrf4z09LJiv24yGn7ETtNxWA8pjxGw1chpW8+o7PaZCAIFJ0AReyb0RCRJUTSci6mJ39pLnxWSIqT33v2L0b2BpCZQ65TUM4HzPnHPcWazCDhFmKx3+PknKVDHWJw4ArNYpZDS349KLiDkV6+bDt/AqBTixIlTBQd8pd3n/qmg4bHQFxkgTSi/RXs6b4oQ0OQxZxpGUgoZT4EtVyk0A3HcDd0Fn6esckLiQtJaHEIQ0QCflTrY/GpOUDCGoJjRtr3OxPi7UkV4weJyGvy/9XYph71HRPOLT5sDqDitT8NE9wvO/4fMv6kGdAe+bES6e17JGwUTLVc6wTHQezyDUpucz7UP2on/3V88djW1gnpQOfY6wXWbO3xH2+2VEk2LRTbHK0Ys8g23+VPDYTllL9ijzj2IF9eP3YflqqkWm3uMVr/qfpNNzwoXBR5UB6kTesvT2QtZ4ViYHfSGweFZcdVpEsr14ILypN2+7R387jQ6cjhJrlf0s9IXm0yXsCoxL+wyutRoqA1ftUTEpjhsCCIGq1/'}, {'domain': '.naver.com', 'expiry': 1770105790, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1804657890, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Fh07ST9e8C78J2F_MBqg4ABQ31ElVVGJh22JpyR8xeQ='}, {'domain': '.naver.com', 'expiry': 1804657890, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'LO2IUATLBF3WS'}, {'domain': '.naver.com', 'expiry': 1804579390, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4hx8B8gNqKtz'}]
+SRT5 -> 1770097890
+SRT30 -> 1770097890
+JSESSIONID -> C2529C1E6A0D362C5E42317793AD5A93.jvm1
+stat_yn -> 1
+NID_AUT -> 3/tQlYMGgtHIZznO81j8UZc0eqxALu1l3GiYFmdNAk7MazQTNR5V/6uBzAfnO3Mx
+nid_inf -> 1350030707
+NID_SES -> AAABlKaaTheFMRhdnylzsqgmrf4z09LJiv24yGn7ETtNxWA8pjxGw1chpW8+o7PaZCAIFJ0AReyb0RCRJUTSci6mJ39pLnxWSIqT33v2L0b2BpCZQ65TUM4HzPnHPcWazCDhFmKx3+PknKVDHWJw4ArNYpZDS349KLiDkV6+bDt/AqBTixIlTBQd8pd3n/qmg4bHQFxkgTSi/RXs6b4oQ0OQxZxpGUgoZT4EtVyk0A3HcDd0Fn6esckLiQtJaHEIQ0QCflTrY/GpOUDCGoJjRtr3OxPi7UkV4weJyGvy/9XYph71HRPOLT5sDqDitT8NE9wvO/4fMv6kGdAe+bES6e17JGwUTLVc6wTHQezyDUpucz7UP2on/3V88djW1gnpQOfY6wXWbO3xH2+2VEk2LRTbHK0Ys8g23+VPDYTllL9ijzj2IF9eP3YflqqkWm3uMVr/qfpNNzwoXBR5UB6kTesvT2QtZ4ViYHfSGweFZcdVpEsr14ILypN2+7R387jQ6cjhJrlf0s9IXm0yXsCoxL+wyutRoqA1ftUTEpjhsCCIGq1/
+NACT -> 1
+BUC -> Fh07ST9e8C78J2F_MBqg4ABQ31ElVVGJh22JpyR8xeQ=
+NNB -> LO2IUATLBF3WS
+NAC -> 4hx8B8gNqKtz
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=biglove33_&amp;widgetTypeCall=true&amp;categoryNo=6&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+cookies {'NAC': '4hx8B8gNqKtz', 'NNB': 'LO2IUATLBF3WS', 'BA_DEVICE': '971ff54c-1156-4b76-971a-1dea739d8387', 'stat_yn': '1', 'page_uid': 'ipH1SlprfjCssfzzVZwssssssRl-064457', 'nid_inf': '1350030707', 'NID_AUT': '3/tQlYMGgtHIZznO81j8UZc0eqxALu1l3GiYFmdNAk7MazQTNR5V/6uBzAfnO3Mx', 'NID_JKL': '', 'NACT': '1', 'BUC': 'Fh07ST9e8C78J2F_MBqg4ABQ31ElVVGJh22JpyR8xeQ=', 'JSESSIONID': 'EB6022D944A4E08A0CBFFB5035C40896.jvm1', 'NID_SES': 'AAABlKaaTheFMRhdnylzsqgmrf4z09LJiv24yGn7ETtNxWA8pjxGw1chpW8+o7PaZCAIFJ0AReyb0RCRJUTSci6mJ39pLnxWSIqT33v2L0b2BpCZQ65TUM4HzPnHPcWazCDhFmKx3+PknKVDHWJw4ArNYpZDS349KLiDkV6+bDt/AqBTixIlTBQd8pd3n/qmg4bHQFxkgTSi/RXs6b4oQ0OQxZxpGUgoZT4EtVyk0A3HcDd0Fn6esckLiQtJaHEIQ0QCflTrY/GpOUDCGoJjRtr3OxPi7UkV4weJyGvy/9XYph71HRPOLT5sDqDitT8NE9wvO/4fMv6kGdAe+bES6e17JGwUTLVc6wTHQezyDUpucz7UP2on/3V88djW1gnpQOfY6wXWbO3xH2+2VEk2LRTbHK0Ys8g23+VPDYTllL9ijzj2IF9eP3YflqqkWm3uMVr/qfpNNzwoXBR5UB6kTesvT2QtZ4ViYHfSGweFZcdVpEsr14ILypN2+7R387jQ6cjhJrlf0s9IXm0yXsCoxL+wyutRoqA1ftUTEpjhsCCIGq1/'}
+쿠키 체크--2
+쿠키 체크--3
+===============
+90909090909090
+ablelaw2
+userNaverId=feed_id2
+userNaverId ablelaw2
+handles :  ['AFAC23EB0E805F487A9335FF8D66E71F']
+스탑
+브라우저 로그인 체크 1
+IMAGE_PATH_PATH C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\image_b
+[]
+title_image []
+타이틀 이미지 찾을 수 없습니다.
+어짜피 타이틀 이미지를 경로에서 찾기 때문에 이건 당연히 못찾음
+선택된 파일: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지\대표이미지.jpg
+human_dirs jpg_files ['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\인물이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\인물이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\인물이미지\\0.jpg']
+1개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+선택된 이미지 개수: 1
+promotion_dirs jpg_files ['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\홍보이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\홍보이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\홍보이미지\\0.jpg']
+1개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+정렬된 파일 목록:
+C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지\0.jpg
+baUserKey: 8e95e93ce69b7a8df669d28468277a6b933faebd99b86ea1d4fb63a5d60b56a6
+
+{"isSuccess":true,"result":{"blogId":"biglove33_","vid":null,"defaultEditorVersion":4,"writeFontOptions":{"fontType":1,"fontSize":15,"fontColor":"","lineSpace":180,"textAlign":0},"formView":{"categoryListFormView":{"defaultCategoryId":1,"categoryFormViewList":[{"categoryNo":1,"categoryName":"뉴스기사","parentCategoryNo":-1,"directorySeq":31,"challengeType":null,"open":true,"blockYn":false,"challengeCategory":false},{"categoryNo":6,"categoryName":"간병신청","parentCategoryNo":-1,"directorySeq":32,"challengeType":null,"open":true,"blockYn":false,"challengeCategory":false}]},"postConfiguration":{"openType":2,"commentYn":true,"sympathyYn":true,"scrapType":2,"searchYn":true,"outSideAllowYn":true,"twitterPostingYn":false,"facebookPostingYn":false,"commercialUsesYn":null,"contentsModification":null,"cclYn":false},"postFormMeta":{"logNo":null,"categoryId":null,"directorySeq":null,"directoryDetail":null,"mrBlogTalkCode":null,"postWriteTimeType":"now","tags":null,"themeSourceCode":0,"bookThemeInfoPk":null,"moviePanelParticipation":false,"greenReviewBannerYn":false,"continueSaved":false,"noticePostYn":false,"autoByCategoryYn":false,"postLocationSupportYn":false,"postLocationJson":null,"prePostDate":null,"thisDayPostInfo":null,"scrapYn":false},"editorSource":"s43Y1WY32eKdFPwdKLTmgQ==","skinInfo":{"contentWidth":966,"columnCount":1},"talkTalkInfo":{"talkTalkAccountList":null,"isLinked":false,"isJoin":false}},"directoryGroups":"[{\"seq\":1,\"name\":\"엔터테인먼트·예술\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":5,\"name\":\"문학·책\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":1,\"alias\":\"book\",\"lcsAlias\":\"book\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":6,\"name\":\"영화\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":\"movie\",\"lcsAlias\":\"movie\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":8,\"name\":\"미술·디자인\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"art\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":7,\"name\":\"공연·전시\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"exhibition\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":11,\"name\":\"음악\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"music\",\"lcsAlias\":\"music\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":9,\"name\":\"드라마\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":\"drama\",\"lcsAlias\":\"drama\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":12,\"name\":\"스타·연예인\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":0,\"alias\":null,\"lcsAlias\":\"star\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":13,\"name\":\"만화·애니\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"comics\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":10,\"name\":\"방송\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":1,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"broadcasting\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1}]},{\"seq\":2,\"name\":\"생활·노하우·쇼핑\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":14,\"name\":\"일상·생각\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"thought\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":15,\"name\":\"육아·결혼\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":1,\"alias\":null,\"lcsAlias\":\"baby\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":16,\"name\":\"반려동물\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"pet\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":17,\"name\":\"좋은글·이미지\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"image\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":18,\"name\":\"패션·미용\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"fashion\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":19,\"name\":\"인테리어·DIY\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"interior\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":20,\"name\":\"요리·레시피\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":4,\"alias\":\"recipe\",\"lcsAlias\":\"recipe\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":21,\"name\":\"상품리뷰\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"shop\",\"lcsAlias\":\"shop\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":36,\"name\":\"원예·재배\",\"useYn\":true,\"sortNo\":9,\"leafYn\":true,\"depth\":1,\"parentSeq\":2,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":2,\"alias\":null,\"lcsAlias\":\"plant\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0}]},{\"seq\":3,\"name\":\"취미·여가·여행\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":22,\"name\":\"게임\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":true,\"mainSortNo\":5,\"alias\":\"game\",\"lcsAlias\":\"game\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":1},{\"seq\":23,\"name\":\"스포츠\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":3,\"alias\":null,\"lcsAlias\":\"sports\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":24,\"name\":\"사진\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"photo\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":25,\"name\":\"자동차\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":3,\"alias\":\"car\",\"lcsAlias\":\"car\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":26,\"name\":\"취미\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"hobby\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":27,\"name\":\"국내여행\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"domestic\",\"lcsAlias\":\"domestic\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":28,\"name\":\"세계여행\",\"useYn\":true,\"sortNo\":7,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"overseas\",\"lcsAlias\":\"overseas\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":29,\"name\":\"맛집\",\"useYn\":true,\"sortNo\":8,\"leafYn\":true,\"depth\":1,\"parentSeq\":3,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"food\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0}]},{\"seq\":4,\"name\":\"지식·동향\",\"sortNo\":null,\"lcsAlias\":null,\"directoryList\":[{\"seq\":30,\"name\":\"IT·컴퓨터\",\"useYn\":true,\"sortNo\":1,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":\"it\",\"lcsAlias\":\"it\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":31,\"name\":\"사회·정치\",\"useYn\":true,\"sortNo\":2,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"politics\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":32,\"name\":\"건강·의학\",\"useYn\":true,\"sortNo\":3,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":false,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"health\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":0,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":33,\"name\":\"비즈니스·경제\",\"useYn\":true,\"sortNo\":4,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"economy\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":35,\"name\":\"어학·외국어\",\"useYn\":true,\"sortNo\":5,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"language\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0},{\"seq\":34,\"name\":\"교육·학문\",\"useYn\":true,\"sortNo\":6,\"leafYn\":true,\"depth\":1,\"parentSeq\":4,\"relatedYn\":true,\"mainYn\":false,\"mainSortNo\":4,\"alias\":null,\"lcsAlias\":\"education\",\"nclickId\":null,\"parent\":false,\"relatedYnAsInt\":1,\"leafYnAsInt\":1,\"useYnAsInt\":1,\"mainYnAsInt\":0}]}]","isWrite":false,"isWriterBlogOwner":true,"hasModelTransformConflict":false,"isTargetUseBlogModule":false,"blogModuleUrl":"https://api-blog.blog.naver.com"}}
+editorSource: s43Y1WY32eKdFPwdKLTmgQ==
+
+{"isSuccess":true,"result":{"appCode":"blogpc001","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc3MDEwMTUwNCwidXNlcklkIjoiYWJsZWxhdzIifQ.RGrfJlYpYQ_Jwcv5OB9j0FAtq1umtfbF0TYyhke2XYs","documentModel":null,"talktalk":{"talkTalkAccountList":null,"isJoin":false,"isLinked":false},"mrBlog":null,"initialFocusIndex":1,"skinInfo":{"contentWidth":966,"columnCount":1},"maxVideoUploadSize":1073741824,"maxVideoPlayTime":900,"userInfo":{"nickName":"간병협회"},"editorInfo":{"textInfo":{"fontFamily":"nanumgothic","fontSizeCode":"fs15","fontColor":"null","lineHeight":1.8,"align":"left","rightOrJustifyAlign":false}},"isWrite":null,"sellerNo":null,"isAiWriter":false}}
+------------------
+token_value eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc3MDEwMTUwNCwidXNlcklkIjoiYWJsZWxhdzIifQ.RGrfJlYpYQ_Jwcv5OB9j0FAtq1umtfbF0TYyhke2XYs
+{"editorInfo":{"id":"01KGH0X2NVJQZCW2P2WVYRQW1Q","adobeExpressAvailable":true,"snsImageUploadLimitCount":50,"audioUploadLimitFileSize":104857600,"fileUploadLimitFileSize":10485760,"thumbnailType":{"small":"s2","normal":"w1","vr360":"preview966_544","panorama":"preview966_544"},"videoUploadLimitCount":10,"maxTagLength":120,"viewColumnCount":0,"imageUploadLimitCount":50,"defaultTheme":"default","useTooltip":true,"imageMinimumWidth":100,"fileUploadMaxCount":20,"videoMinimumHeight":300,"videoMinimumWidth":300,"maxCanvasWidth":"100%","buildProperty":"real","docType":"normal","imageMinimumHeight":50,"codeTextMaxLength":5000,"dthumbDomain":"https://dthumb-phinf.pstatic.net","useAutoSave":true,"useReservationMenu":true,"cloudMaxImageCount":50,"placesMapInfo":{"image-marker-selected-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-x2-20180830.png","image-marker-selected-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-selected-20180920.png","image-dot-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-x2-20180830.png","image-dot-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-dot-20180830.png","image-place4-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-20180920.png","image-place5-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-x2-20180920.png","image-place5-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-5-20180920.png","image-place2-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-x2-20180920.png","image-place1-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-x2-20180920.png","image-place3-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-20180920.png","image-place1-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-1-20180920.png","image-place2-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-2-20180920.png","image-place3-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-3-x2-20180920.png","image-place4-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-place-4-x2-20180920.png","image-marker-x2":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-x2-20180920.png","image-marker-x1":"https://editor-static.pstatic.net/c/resources/common/img/common-icon-places-marker-20180920.png"},"convertLimitSize":5000000,"maxSaveSkip":50},"userInfo":{"userId":"ablelaw2","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibG9ncGMwMDEiLCJpc3MiOiJzZTNlbWJlZCIsImV4cCI6MTc3MDEwMTUwNCwidXNlcklkIjoiYWJsZWxhdzIifQ.RGrfJlYpYQ_Jwcv5OB9j0FAtq1umtfbF0TYyhke2XYs"},"infraInfo":{"mapInfra":{"googleMapChannelId":"naver_blog","googleMapClientKey":"AIzaSyDKo6MfoC1plkhfaMG_fS87pSQjOUMlOhA"},"formulaEditor":{"popupUrl":"//presources.editor.naver.com/matheditor/index.html"},"photoInfra":{"imageHost":"https://blogfiles.pstatic.net","domain":"blog.upphoto.naver.com","upphotoServer":"ecommerce"},"videoInfra":{"serviceId":2},"nCloud":{"popupUrl":"//mybox.naver.com/selectFile.nhn","callbackPageUrl":"https://blog.naver.com/upload/RabbitNDriveUploadCallback.naver"}},"apiInfo":{"fetchPhotoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/photo-uploader/session-key","fetchVideoUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/session-url","fetchVideoUploaderToken":"https://platform.editor.naver.com/api/blogpc001/v1/video-uploader/token","fetchAudioUploadSessionKey":"https://platform.editor.naver.com/api/blogpc001/v1/audio-uploader/session-key","fetchCoordByIp":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/coordinate","fetchLocationOfImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/exif/locations","fetchDomesticCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/location/kr","fetchDomesticBulkCheck":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/locations/kr","fetchNaverStaticMap":"https://platform.editor.naver.com/api/blogpc001/v2/map/naver/staticmap","fetchGoogleStaticMap":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/staticmap","fetchGoogleStaticMapV2":"https://platform.editor.naver.com/api/blogpc001/v2/map/google/staticmap","fetchTopicKeyword":"https://platform.editor.naver.com/api/blogpc001/v1/topics","fetchWordCount":"https://platform.editor.naver.com/api/blogpc001/v1/word-count","fetchMultiCrawler":"https://platform.editor.naver.com/api/blogpc001/v1/oglink","fetchInfraPopupToken":"https://platform.editor.naver.com/api/blogpc001/v1/token/infra-popup","fetchFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchNaverGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/addresses","fetchErratas":"https://platform.editor.naver.com/api/blogpc001/v2/speller/erratas","fetchGoogleNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/nearby/locations","fetchNaverNearBy":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGoogleAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/place/ac","fetchNaverAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/place/ac","fetchGoogleGeocode":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/geocode","fetchFavoriteFilters":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchBookBestSellers":"https://platform.editor.naver.com/api/blogpc001/v1/material/books/best-seller","fetchBooks":"https://platform.editor.naver.com/api/blogpc001/v1/material/books","fetchBoxOfficeMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies/box-office","fetchMovies":"https://platform.editor.naver.com/api/blogpc001/v1/material/movies","fetchRecommandedBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v1/material/broadcast/recommend","fetchBroadcasts":"https://platform.editor.naver.com/api/blogpc001/v2/material/broadcast","fetchRecommandedShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show/recommend","fetchShows":"https://platform.editor.naver.com/api/blogpc001/v2/material/show","fetchRecommendedSports":"https://platform.editor.naver.com/api/blogpc001/v1/material/sports/recommend","fetchSports":"https://platform.editor.naver.com/api/blogpc001/v1/material/sports","fetchNewMusic":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics/new","fetchMusics":"https://platform.editor.naver.com/api/blogpc001/v1/material/musics","fetchShoppingItems":"https://platform.editor.naver.com/api/blogpc001/v1/material/shopping/items","fetchPopularNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/popular","fetchRecommendedTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel/popular","fetchTravels":"https://platform.editor.naver.com/api/blogpc001/v1/material/travel","fetchNews":"https://platform.editor.naver.com/api/blogpc001/v1/material/news","fetchRealEstateAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate/ac","fetchRealEstate":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate","fetchRecommendedRealEstate":"https://platform.editor.naver.com/api/blogpc001/v1/material/realestate/recommend","fetchImages":"https://platform.editor.naver.com/api/blogpc001/v1/images","fetchRecommendedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/recommend","fetchStickers":"https://platform.editor.naver.com/api/blogpc001/v1/stickers","fetchNewsDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/news/detail","fetchNaverPlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/naver/places","fetchGooglePlaces":"https://platform.editor.naver.com/api/blogpc001/v1/map/google/text/locations","deleteFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","updateFavoriteFilter":"https://platform.editor.naver.com/api/blogpc001/v1/user/repo/filter-bookmark","fetchAuthorizedImage":"https://platform.editor.naver.com/api/blogpc001/v1/images/storep/right-url","fetchPurchasedImages":"https://platform.editor.naver.com/api/blogpc001/v1/images/purchased","updateStickerUseFlag":"https://platform.editor.naver.com/api/blogpc001/v1/stickers/validation","fetchCalculatedResult":"https://platform.editor.naver.com/api/blogpc001/v1/calculation","fetchTranslate":"https://platform.editor.naver.com/api/blogpc001/v1/translate","fetchMoments":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchClips":"https://platform.editor.naver.com/api/blogpc001/v1/moments","fetchRecommendedStocks":"https://platform.editor.naver.com/api/blogpc001/v1/material/stock/recommend","fetchStocks":"https://platform.editor.naver.com/api/blogpc001/v1/material/stock/search","fetchStockDetail":"https://platform.editor.naver.com/api/blogpc001/v1/material/stock/detail","fetchStockAutocomplete":"https://platform.editor.naver.com/api/blogpc001/v1/material/stock/ac","addNCloudFile":"//blog.naver.com/RabbitNDriveFileUpload.naver","streamIntro":"https://ax.editor.naver.com/api/blogpc001/prompts/intro/v1","fetchMyTemplates":"//blog.naver.com/RabbitTemplateList.naver","fetchPartialTemplates":"//blog.naver.com/PartTemplateList.naver","streamOutro":"https://ax.editor.naver.com/api/blogpc001/prompts/outro/v1","fetchMyTemplate":"//blog.naver.com/RabbitTemplateRead.naver","fetchSearch":"https://ax.editor.naver.com/api/blogpc001/persona/_search/v1","fetchRecommendedTemplate":"//blog.naver.com/RecommendTemplateRead.naver","streamTitle":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/title/v1","fetchConvertedDocument":"//upconvert.editor.naver.com/v2/convert/blog","deleteMyTemplate":"//blog.naver.com/RabbitTemplateDelete.naver","streamArticle":"https://ax.editor.naver.com/api/blogpc001/prompts/article/v1","streamContinue":"https://ax.editor.naver.com/api/blogpc001/writer/_continue/v1","addMyTemplate":"//blog.naver.com/RabbitTemplateWrite.naver","fetchAuthToken":"//blog.naver.com/RabbitTokenGenerate.naver","fetchOutline":"https://ax.editor.naver.com/api/blogpc001/prompts/outline/v1","streamTags":"https://ax.editor.naver.com/api/blogpc001/prompts/meta-info/tags/v1","streamExpand":"https://ax.editor.naver.com/api/blogpc001/writer/_expand/v1","fetchConvertedHtml":"//upconvert.editor.naver.com/blog/html/components","fetchFilter":"https://ax.editor.naver.com/api/blogpc001/tool/aifilter/v1","streamSummarize":"https://ax.editor.naver.com/api/blogpc001/writer/_summarize/v1","streamRewrite":"https://ax.editor.naver.com/api/blogpc001/writer/_rewrite/v1","addNCloudVideo":"//blog.naver.com/RabbitNDriveVideoUpload.naver","addFile":"https://platform.editor.naver.com/api/blogpc001/v2/upload/file","fetchRecommendedTemplates":"//blog.naver.com/RecommendTemplateList.naver"},"serviceInfo":{"appCode":"blogpc001","isInHouse":true}}
+<Response [200]>
+9090909090909090
+
+{"isSuccess":true,"result":{"autoSaveNo":1770097904476}}
+9090909090909090
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'int'>
+before_please 루프 1
+image1_10 ['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image0.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image1.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image10.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image11.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image2.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image3.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image4.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image5.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image6.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image7.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image8.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image9.png']
+현재 타임스탬프(ms): 1770097936829
+{"result_code":1,"result_data":{"message":"success"}}
+-------- 로그 체크--------
+<Response [200]>
+{"cookies_encoded":"gASVxQMAAAAAAAB9lCiMA05BQ5SMDDRoeDhCOGdOcUt0epSMA05OQpSMDUxPMklVQVRMQkYzV1OUjAlCQV9ERVZJQ0WUjCQ5NzFmZjU0Yy0xMTU2LTRiNzYtOTcxYS0xZGVhNzM5ZDgzODeUjAdzdGF0X3lulIwBMZSMB25pZF9pbmaUjAoxMzUwMDMwNzA3lIwHTklEX0FVVJSMQDMvdFFsWU1HZ3RISVp6bk84MWo4VVpjMGVxeEFMdTFsM0dpWUZtZE5BazdNYXpRVE5SNVYvNnVCekFmbk8zTXiUjAdOSURfSktMlIwAlIwETkFDVJRoCIwIcGFnZV91aWSUjCJpcU1QYWRwekw4VnNzN0NXbzVDc3Nzc3N0ZWgtNDEwMjE2lIwHTklEX1NFU5RYMAIAAEFBQUJsS2FhVGhlRk1SaGRueWx6c3FnbXJmNHowOUxKaXYyNHlHbjdFVHROeFdBOHBqeEd3MWNocFc4K283UGFaQ0FJRkowQVJleWIwUkNSSlVUU2NpNm1KMzlwTG54V1NJcVQzM3YyTDBiMkJwQ1pRNjVUVU00SHpQbkhQY1dhekNEaEZtS3gzK1BrbktWREhXSnc0QXJOWXBaRFMzNDlLTGlEa1Y2K2JEdC9BcUJUaXhJbFRCUWQ4cGQzbi9xbWc0YkhRRnhrZ1RTaS9SWHM2YjRvUTBPUXhaeHBHVWdvWlQ0RXRWeWswQTNIY0RkMEZuNmVzY2tMaVF0SmFIRUlRMFFDZmxUclkvR3BPVURDR29KalJ0cjNPeFBpN1VrVjR3ZUp5R3Z5LzlYWXBoNzFIUlBPTFQ1c0RxRGl0VDhORTl3dk8vNGZNdjZrR2RBZStiRVM2ZTE3Skd3VVRMVmM2d1RIUWV6eURVcHVjejdVUDJvbi8zVjg4ZGpXMWducFFPZlk2d1hXYk8zeEgyKzJWRWsyTFJUYkhLMFlzOGcyMytWUERZVGxsTDlpanpqMklGOWVQM1lmbHFxa1dtM3VNVnIvcWZwTk56d29YQlI1VUI2a1Rlc3ZUMlF0WjRWaVlIZlNHd2VGWmNkVnBFc3IxNElMeXBOMis3UjM4N2pRNmNqaEpybGYwczlJWG0weVhzQ294TCt3eXV0Um9xQTFmdFVURXBqaHNDQ0lHcTEvlIwDQlVDlIwsRmgwN1NUOWU4Qzc4SjJGX01CcWc0QUJRMzFFbFZWR0poMjJKcHlSOHhlUT2UjApKU0VTU0lPTklElIwlQ0E5MzkwQjU2OEFGRjUxNkUwQ0U0REYwMTlGOUZBOTguanZtMZR1Lg==","document_encoded":"gASV6mAAAAAAAAB9lCiMBmJsb2dJZJSMCmJpZ2xvdmUzM1+UjA1kb2N1bWVudE1vZGVslFhCXAAAeyJkb2N1bWVudElkIjogIiIsICJkb2N1bWVudCI6IHsidmVyc2lvbiI6ICIyLjguMTEiLCAidGhlbWUiOiAiZGVmYXVsdCIsICJsYW5ndWFnZSI6ICJrby1LUiIsICJpZCI6ICIwMUtHSDBYMk5WSlFaQ1cyUDJXVllSUVcxUSIsICJjb21wb25lbnRzIjogW3siaWQiOiAiU0UtZTk1YjQ4YmEtOWQ4NS00NWNhLTk3ZDEtZGZkZjk2NmJmOTIwIiwgImxheW91dCI6ICJkZWZhdWx0IiwgInRpdGxlIjogW3siaWQiOiAiU0UtYzg5ODNjODQtODg5NC00MjFmLTliZjktYjZkNWUxN2YxMDVjIiwgIm5vZGVzIjogW3siaWQiOiAiU0UtZTkyMzMzMjgtOGNhYS00YmMzLWI0MjUtODc2NDg3Yzg1MTExIiwgInZhbHVlIjogIlx1YzUyOFx1YzVlMFx1YmNkMVx1YzZkMCBcdWFjMWNcdWM3NzhcdWFjMDRcdWJjZDFcdWM3NzggXHVhZDZjXHVkNTU4XHVhZTMwIiwgIkBjdHlwZSI6ICJ0ZXh0Tm9kZSJ9XSwgIkBjdHlwZSI6ICJwYXJhZ3JhcGgifV0sICJzdWJUaXRsZSI6IG51bGwsICJhbGlnbiI6ICJsZWZ0IiwgIkBjdHlwZSI6ICJkb2N1bWVudFRpdGxlIn0sIHsiaWQiOiAiU0UtZDk5YzNjMTktMTNhZi00MjJiLTlmNDctOWY4MjUyMmM5YWQzIiwgImxheW91dCI6ICJkZWZhdWx0IiwgInZhbHVlIjogW3siaWQiOiAiU0UtN2UzZDk0MWUtNzYwMS00YTI3LTgyODAtZjA1NjRhMjUzNjBlIiwgIm5vZGVzIjogW3siaWQiOiAiU0UtMTU3OTVjNDUtZjQwNi00NDAyLThmYWQtOWVjMzhmYjY0MzUyIiwgInZhbHVlIjogIlx1YzUyOFx1YzVlMFx1YmNkMVx1YzZkMCBcdWFjMWNcdWM3NzhcdWFjMDRcdWJjZDFcdWM3NzggXHVhZDZjXHVkNTU4XHVhZTMwIiwgInN0eWxlIjogeyJmb250Q29sb3IiOiAiIzAwNzhjYiIsICJmb250U2l6ZUNvZGUiOiAiZnMyNCIsICJAY3R5cGUiOiAibm9kZVN0eWxlIn0sICJAY3R5cGUiOiAidGV4dE5vZGUifV0sICJAY3R5cGUiOiAicGFyYWdyYXBoIn1dLCAic291cmNlIjogbnVsbCwgIkBjdHlwZSI6ICJxdW90YXRpb24ifSwgeyJpZCI6ICJTRS04MTA5MTM0Yy0wMzgwLTQzMmUtYmU0Yy02ZmQ3MzlhYzY0ZDQiLCAibGF5b3V0IjogImRlZmF1bHQiLCAiYWxpZ24iOiAiY2VudGVyIiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TmpBeU1ETmZNVGd4L01EQXhOemN3TURrM09URTJOVGc0Lkl4cm1GODRlZVoyNmlwTGZHVGUwQ2pEajZZZHVycXBJUURsZlNONFBqMlFnLnVrY3RPZDZXZUptT1p4aVFXN09IYTRHNFRVZDRaRDl1R1ZsWGhfSFhERklnLlBORy9pbWFnZS5wbmc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TmpBeU1ETmZNVGd4L01EQXhOemN3TURrM09URTJOVGc0Lkl4cm1GODRlZVoyNmlwTGZHVGUwQ2pEajZZZHVycXBJUURsZlNONFBqMlFnLnVrY3RPZDZXZUptT1p4aVFXN09IYTRHNFRVZDRaRDl1R1ZsWGhfSFhERklnLlBORy9pbWFnZS5wbmciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMjgzMjM1LCAid2lkdGgiOiAxMDgwLCAid2lkdGhQZXJjZW50YWdlIjogMCwgImhlaWdodCI6IDEwODAsICJvcmlnaW5hbFdpZHRoIjogMTA4MCwgIm9yaWdpbmFsSGVpZ2h0IjogMTA4MCwgImZpbGVOYW1lIjogImltYWdlLnBuZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiB0cnVlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJjYXB0dXJlIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtNDFjMDM0ODItYmNhOC00ZmU1LWIzYjMtNGJlODQ5ZGNmNDhiIiwgImxheW91dCI6ICJkZWZhdWx0IiwgImFsaWduIjogImNlbnRlciIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5qQXlNRE5mTVRnMy9NREF4Tnpjd01EazNPVEUzTkRreC5RaTJveVh0SDlMVmNXcE5RcGRDYTJRakdEZHRvclZ6djNVNVcyTnRtdjBZZy5KWjBpeHB1X3M5X3ppMF9wT3hqTUdyNDRRdGY4WkJoQlRxNUc1SjA2OElNZy5KUEVHL2ltYWdlLmpwZyIsICJpbnRlcm5hbFJlc291cmNlIjogZmFsc2UsICJyZXByZXNlbnQiOiBmYWxzZSwgInBhdGgiOiAiL01qQXlOakF5TUROZk1UZzMvTURBeE56Y3dNRGszT1RFM05Ea3guUWkyb3lYdEg5TFZjV3BOUXBkQ2EyUWpHRGR0b3JWenYzVTVXMk50bXYwWWcuSlowaXhwdV9zOV96aTBfcE94ak1HcjQ0UXRmOFpCaEJUcTVHNUowNjhJTWcuSlBFRy9pbWFnZS5qcGciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogNDY3MzU5LCAid2lkdGgiOiA4NTksICJ3aWR0aFBlcmNlbnRhZ2UiOiAwLCAiaGVpZ2h0IjogNzM3LCAib3JpZ2luYWxXaWR0aCI6IDg1OSwgIm9yaWdpbmFsSGVpZ2h0IjogNzM3LCAiZmlsZU5hbWUiOiAiaW1hZ2UuanBnIiwgImNhcHRpb24iOiBudWxsLCAibGluayI6ICIiLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IHRydWUsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImNhcHR1cmUiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS00ZWIzMDljNi00NjU3LTRiOWMtODAyYi05ZmI1N2QxOTQ1ZGEiLCAibGF5b3V0IjogImRlZmF1bHQiLCAidmFsdWUiOiBbeyJpZCI6ICJTRS1kNmI4ZTUzZC02MzVhLTQ5YTctYWU1Yi00ZmE0OGRjMTU1YzEiLCAibm9kZXMiOiBbeyJpZCI6ICJTRS1hNTViY2NkZi0xZjk0LTRiYjktOGU1Ny0wZTQyZDQyNjM1NmYiLCAidmFsdWUiOiAiXHJcblxyXG5cdWQ4M2RcdWRkMzUgXHVjNjA4XHVhY2UwIFx1YzVjNlx1Yzc3NCBcdWNjM2VcdWM1NDRcdWM2MjggXHVjNzg1XHVjNmQwLCBcdWJjZjRcdWQ2MzhcdWM3OTBcdWM3NTggXHVhY2UwXHViYmZjXHJcblx1YWMxMVx1Yzc5MVx1YzJhNFx1YjdlY1x1YzZiNCBcdWM3ODVcdWM2ZDBcdWM3NzRcdWIwOTggXHVjMjE4XHVjMjIwIFx1YzE4Y1x1YzJkZFx1Yzc0NCBcdWI0ZTRcdWM3M2NcdWJhNzQgXHViY2Y0XHVkNjM4XHVjNzkwXHViMjk0IFx1YjljOFx1Yzc0Y1x1Yzc3NCBcdWFlMDlcdWQ1NzRcdWM5ZDFcdWIyYzhcdWIyZTQuXHJcdWNlNThcdWI4Y2MgXHVjNzdjXHVjODE1XHViZDgwXHVkMTMwIFx1YmNkMVx1YzZkMCBcdWMwZGRcdWQ2NWMgXHVjOTAwXHViZTQ0XHVhZTRjXHVjOWMwIFx1YzJlMFx1YWNiZCBcdWM0ZjggXHVjNzdjXHVjNzc0IFx1ZDU1Y1x1YWViY1x1YmM4OFx1YzVkMCBcdWJhYjBcdWI4MjRcdWM2MjRcdWFjZTAsIFx1YWRmOFx1YzkxMSBcdWFjMDBcdWM3YTUgXHVkMDcwIFx1YWNlMFx1YmJmY1x1Yzc0MCBcdTIwMWNcdWIyMDRcdWFjMDAgXHVkNjU4XHVjNzkwIFx1YWNjMVx1Yzc0NCBcdWM5YzBcdWNmMWNcdWM5MDQgXHVjMjE4IFx1Yzc4OFx1Yzc0NFx1YWU0Y1x1MjAxZFx1Yzc4NVx1YjJjOFx1YjJlNC5cclx1YzljMVx1YzdhNVx1YWNmYyBcdWFjMDBcdWM4MTVcdWM3NDQgXHVjNjI0XHVhYzAwXHViYTcwIFx1YzBjMVx1YzhmYyBcdWFjMDRcdWJjZDFcdWM3NzQgXHVjNWI0XHViODI0XHVjNmI0IFx1YzBjMVx1ZDY2OVx1YzVkMFx1YzExYywgXHViY2QxXHVjNmQwXHVhYzA0XHViY2QxXHVjNzc4XHVjNzQ0IFx1YzViNFx1YjViYlx1YWM4YyBcdWFkNmNcdWQ1NzRcdWM1N2MgXHVkNTYwXHVjOWMwIFx1YjljOVx1YjljOVx1ZDU2OFx1Yzc0NCBcdWIyOTBcdWIwN2NcdWIyOTQgXHViY2Y0XHVkNjM4XHVjNzkwXHViZDg0XHViNGU0XHVjNzc0IFx1YjljZVx1YzJiNVx1YjJjOFx1YjJlNC5cclx1Yzc3NCBcdWFlMDBcdWM3NDAgXHVhZGY4XHViN2YwIFx1ZDYwNFx1YzJlNFx1YzgwMVx1Yzc3OCBcdWFjZTBcdWJiZmNcdWM1ZDAgXHVhY2Y1XHVhYzEwXHVkNTU4XHViYTcwLCBcdWJjZDFcdWM2ZDAgXHVhYzA0XHViY2QxXHVjNzQ0IFx1YzkwMFx1YmU0NFx1ZDU1OFx1YjI5NCBcdWFjZmNcdWM4MTVcdWM3NDQgXHVjYzI4XHViZDg0XHVkNzg4IFx1YzU0OFx1YjBiNFx1ZDU1OFx1YWNlMFx1Yzc5MCBcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcclxuIiwgInN0eWxlIjogeyJmb250Q29sb3IiOiAiIzAwMDAwMCIsICJmb250RmFtaWx5IjogInN5c3RlbSIsICJmb250U2l6ZUNvZGUiOiAiZnMxOSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiI2ZmZmZmZiIsICJpdGFsaWMiOiBmYWxzZSwgInVuZGVybGluZSI6IGZhbHNlLCAiQGN0eXBlIjogIm5vZGVTdHlsZSJ9LCAiQGN0eXBlIjogInRleHROb2RlIn1dLCAiQGN0eXBlIjogInBhcmFncmFwaCJ9XSwgIkBjdHlwZSI6ICJ0ZXh0In0sIHsiaWQiOiAiU0UtYjdjMjc1M2UtODk3MC00OTY1LTgzMzItOWFkZTU2OTc1NzBmIiwgImxheW91dCI6ICJjb2xsYWdlIiwgImNvbnRlbnRNb2RlIjogImV4dGVuZCIsICJjYXB0aW9uIjogbnVsbCwgImltYWdlcyI6IFt7ImlkIjogIlNFLTk0Y2ZjYmZiLWRjMGQtNDhmNC1hYTdiLTIxZmE0NTgzMzc1NSIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5qQXlNRE5mTWpVdy9NREF4Tnpjd01EazNPVEU0T0Rrei5vSFdMU1o3ZExGaW43eUM2dDNUYkV3VEFfVUNySEZod3BWRnlodFp0RFVNZy5VU1dFWkh6a1hwWVhldXhXOUk0SmgzcFdnb3psMTdEMEx2Ym1ONW9ya3dvZy5KUEVHL2ltYWdlLmpwZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOakF5TUROZk1qVXcvTURBeE56Y3dNRGszT1RFNE9Ea3oub0hXTFNaN2RMRmluN3lDNnQzVGJFd1RBX1VDckhGaHdwVkZ5aHRadERVTWcuVVNXRVpIemtYcFlYZXV4VzlJNEpoM3BXZ296bDE3RDBMdmJtTjVvcmt3b2cuSlBFRy9pbWFnZS5qcGciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMTA4MjY1NCwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5qcGciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiBmYWxzZSwgIkBjdHlwZSI6ICJpbWFnZSJ9XSwgIkBjdHlwZSI6ICJpbWFnZUdyb3VwIn0sIHsiaWQiOiAiU0UtZDk0Nzk0OWEtZjU2OS00OTUwLWFkN2ItNmVkMjI3ZDNkNjUyIiwgImxheW91dCI6ICJkZWZhdWx0IiwgInZhbHVlIjogW3siaWQiOiAiU0UtOTEzZjA2YmEtZGUzZS00NDJmLTkxYTktZTAxODdjNWVhN2MzIiwgIm5vZGVzIjogW3siaWQiOiAiU0UtM2U4ZDEzYzYtODU3Zi00ZTdhLWJmYWYtYTYzY2MzOTk5YjIxIiwgInZhbHVlIjogIlx1ZDgzZFx1ZGQzNSBcdWJjZDFcdWM2ZDAgXHVkNjU4XHVhY2JkXHVjNWQwIFx1YjlkZVx1YjI5NCBcdWFjMDRcdWJjZDFcdWM3NzQgXHVkNTQ0XHVjNjk0XHVkNTVjIFx1Yzc3NFx1YzcyMFxyXG5cdWJjZDFcdWM2ZDBcdWM3NDAgXHVhYzAwXHVjODE1XHVhY2ZjIFx1YjJlY1x1YjlhYyBcdWNlNThcdWI4Y2NcdWM2NDAgXHVkNjhjXHViY2Y1XHVjNzc0IFx1YjNkOVx1YzJkY1x1YzVkMCBcdWM3NzRcdWI4ZThcdWM1YjRcdWM5YzBcdWIyOTQgXHVhY2Y1XHVhYzA0XHVjNzg1XHViMmM4XHViMmU0LlxyXHVjNzU4XHViOGNjXHVjOWM0XHVjNzU4IFx1ZDY4Y1x1YzljNCwgXHVhYzgwXHVjMGFjIFx1Yzc3NFx1YjNkOSwgXHVjMjE4XHVjMjIwIFx1YzgwNFx1ZDZjNCBcdWFkMDBcdWI5YWMgXHViNGYxIFx1ZDY1OFx1Yzc5MCBcdWMwYzFcdWQwZGNcdWM1ZDAgXHViNTMwXHViNzdjIFx1YzEzOFx1YzJlY1x1ZDU1YyBcdWIzMDBcdWM3NTFcdWM3NzQgXHVkNTQ0XHVjNjk0XHVkNTY5XHViMmM4XHViMmU0LlxyXHVkMmI5XHVkNzg4IFx1YWNlMFx1YjgzOSBcdWQ2NThcdWM3OTBcdWIwOTggXHVjMjE4XHVjMjIwIFx1ZDZjNCBcdWQ2OGNcdWJjZjUgXHVjOTExXHVjNzc4IFx1ZDY1OFx1Yzc5MFx1Yzc1OCBcdWFjYmRcdWM2YjAsIFx1Yzc5MVx1Yzc0MCBcdWJjYzBcdWQ2NTRcdWIzYzQgXHViMTkzXHVjZTU4XHVjOWMwIFx1YzU0YVx1YjI5NCBcdWFjMDRcdWJjZDFcdWM3NzQgXHVjOTExXHVjNjk0XHVkNTY5XHViMmM4XHViMmU0LlxyXHVhZGY4XHViNzk4XHVjMTFjIFx1YmNkMVx1YzZkMFx1YWMwNFx1YmNkMVx1Yzc0MCBcdWIyZThcdWMyMWNcdWQ1NWMgXHViM2NjXHViZDA0XHVjNzc0IFx1YzU0NFx1YjJjOFx1Yjc3YyBcdWJjZDFcdWM2ZDAgXHVkNjU4XHVhY2JkXHVjNzQ0IFx1Yzc3NFx1ZDU3NFx1ZDU1YyBcdWM4MDRcdWJiMzhcdWM4MDFcdWM3NzggXHViM2M0XHVjNmMwXHVjNzc0IFx1YzY5NFx1YWQ2Y1x1YjQyOVx1YjJjOFx1YjJlNC5cclx1YmNmNFx1ZDYzOFx1Yzc5MFx1YWMwMCBcdWJhYThcdWI0ZTAgXHVjMGMxXHVkNjY5XHVjNzQ0IFx1YzljMVx1YzgxMSBcdWFjMTBcdWIyZjlcdWQ1NThcdWFlMzBcdWM1ZDQgXHVkNjA0XHVjMmU0XHVjODAxXHVjNzNjXHViODVjIFx1YzViNFx1YjgyNFx1YzZjMFx1Yzc3NCBcdWI1MzBcdWI5ODVcdWIyYzhcdWIyZTQuXHJcclxuXHVkODNkXHVkZDM1IFx1YWMxY1x1Yzc3OFx1YzgwMVx1YzczY1x1Yjg1YyBcdWFjMDRcdWJjZDFcdWM3NzhcdWM3NDQgXHVjYzNlXHVjNzQ0IFx1YjU0Y1x1Yzc1OCBcdWJkODhcdWM1NDggXHVjNjk0XHVjMThjXHJcblx1YzljMFx1Yzc3OFx1Yzc0NCBcdWQxYjVcdWQ1NzQgXHVjNTRjXHVjNTQ0XHViY2Y0XHVhYzcwXHViMDk4IFx1YWMxY1x1Yzc3OFx1YzgwMVx1YzczY1x1Yjg1YyBcdWFjMDRcdWJjZDFcdWM3NzhcdWM3NDQgXHVhZDZjXHVkNTU4XHViMjk0IFx1YWNmY1x1YzgxNVx1YzVkMFx1YzExY1x1YjI5NCBcdWM1ZWNcdWI3ZWMgXHVhYzcxXHVjODE1XHVjNzc0IFx1YjRhNFx1YjUzMFx1Yjk4NVx1YjJjOFx1YjJlNC5cclx1YWNiZFx1YjgyNVx1Yzc0MCBcdWNkYTlcdWJkODRcdWQ1NWNcdWM5YzAsIFx1YmNkMVx1YzZkMCBcdWMwZGRcdWQ2NWNcdWM1ZDAgXHVjNzc1XHVjMjE5XHVkNTVjXHVjOWMwLCBcdWFjMTFcdWM3OTFcdWMyYTRcdWI3ZWNcdWM2YjQgXHVjMGMxXHVkNjY5XHVjNWQwIFx1YzViNFx1YjViYlx1YWM4YyBcdWIzMDBcdWNjOThcdWQ1NThcdWIyOTRcdWM5YzAgXHVjNTRjXHVhZTMwIFx1YzViNFx1YjgzNVx1YWUzMCBcdWI1NGNcdWJiMzhcdWM3ODVcdWIyYzhcdWIyZTQuXHJcdWI2MTBcdWQ1NWMgXHVhYzA0XHViY2QxIFx1Yzc3Y1x1YzgxNSBcdWJjYzBcdWFjYmRcdWM3NzRcdWIwOTggXHViYjM4XHVjODFjIFx1YmMxY1x1YzBkZCBcdWMyZGMgXHViMjA0XHVhZDZjXHVjNWQwXHVhYzhjIFx1YjNjNFx1YzZjMFx1Yzc0NCBcdWM2OTRcdWNjYWRcdWQ1NzRcdWM1N2MgXHVkNTYwXHVjOWMwXHViM2M0IFx1YmQ4OFx1YmQ4NFx1YmE4NVx1ZDU2OVx1YjJjOFx1YjJlNC5cclx1Yzc3NFx1YjdlY1x1ZDU1YyBcdWJkODhcdWM1NDggXHVjNjk0XHVjMThjXHViMjk0IFx1YmNmNFx1ZDYzOFx1Yzc5MFx1Yzc1OCBcdWJkODBcdWIyZjRcdWM3NDQgXHViMzU0IFx1ZDBhNFx1YzZiMFx1YWNlMCwgXHVkNjU4XHVjNzkwXHVjNWQwXHVhYzhjXHViM2M0IFx1YzYwMVx1ZDVhNVx1Yzc0NCBcdWM5MDQgXHVjMjE4IFx1Yzc4OFx1YzJiNVx1YjJjOFx1YjJlNC5cclxyXG5cdWQ4M2RcdWRkMzUgXHVkMDcwXHVjMGFjXHViNzkxXHVhYzA0XHViY2QxXHVkNjExXHVkNjhjXHVjNWQwXHVjMTFjIFx1YzU0OFx1YjBiNFx1ZDU1OFx1YjI5NCBcdWJjZDFcdWM2ZDBcdWFjMDRcdWJjZDEgXHVhY2ZjXHVjODE1XHJcblx1ZDA3MFx1YzBhY1x1Yjc5MVx1YWMwNFx1YmNkMVx1ZDYxMVx1ZDY4Y1x1YzVkMFx1YzExY1x1YjI5NCBcdWJjZjRcdWQ2MzhcdWM3OTBcdWFjMDAgXHViMjkwXHViMDdjXHViMjk0IFx1Yzc3NFx1YjdmMCBcdWFjZTBcdWJiZmNcdWM3NDQgXHVjOTA0XHVjNzc0XHVhZTMwIFx1YzcwNFx1ZDU3NCwgXHViY2QxXHVjNmQwIFx1ZDY1OFx1YWNiZFx1YWNmYyBcdWQ2NThcdWM3OTAgXHVjMGMxXHVkMGRjXHVjNWQwIFx1YjlkZVx1Y2Q5OCBcdWJjZDFcdWM2ZDBcdWFjMDRcdWJjZDFcdWM3NzhcdWM3NDQgXHVjNWYwXHVhY2IwXHVkNTc0XHViNGRjXHViOWFjXHVhY2UwIFx1Yzc4OFx1YzJiNVx1YjJjOFx1YjJlNC5cclx1YzBjMVx1YjJmNFx1Yzc0NCBcdWQxYjVcdWQ1NzQgXHVkNjU4XHVjNzkwXHVjNzU4IFx1YzBjMVx1ZDBkYywgXHViY2QxXHVjNmQwIFx1YzcwNFx1Y2U1OCwgXHVkNTQ0XHVjNjk0XHVkNTVjIFx1YWMwNFx1YmNkMSBcdWMyZGNcdWFjMDRcdWIzMDBcdWI5N2MgXHViYTNjXHVjODAwIFx1ZDMwY1x1YzU0NVx1ZDU1OFx1YWNlMCwgXHVjNzc0XHVjNWQwIFx1YzgwMVx1ZDU2OVx1ZDU1YyBcdWFjMDRcdWJjZDFcdWM3NzhcdWM3NDQgXHVjNTQ4XHViMGI0XHVkNTU4XHViMjk0IFx1YmMyOVx1YzJkZFx1Yzc4NVx1YjJjOFx1YjJlNC5cclx1YWMwNFx1YmNkMVx1Yzc3OFx1Yzc0NCBcdTIwMThcdWMxOGNcdWFjMWNcdWJjMWJcdWIyOTRcdWIyZTRcdTIwMTlcdWFlMzBcdWJjZjRcdWIyZTQsIFx1YmNkMVx1YzZkMFx1YWMwNFx1YmNkMVx1Yzc3NCBcdWM1YjRcdWI1YmJcdWFjOGMgXHVjNzc0XHViOGU4XHVjNWI0XHVjOWMwXHViMjk0XHVjOWMwIFx1YzgwNFx1Y2NiNCBcdWFjZmNcdWM4MTVcdWM3NDQgXHVjNTQ4XHViMGI0XHViYzFiXHViMjk0IFx1YjI5MFx1YjA4Y1x1YzczY1x1Yjg1YyBcdWM5MDBcdWJlNDRcdWQ1NjAgXHVjMjE4IFx1Yzc4OFx1YzViNCBcdWJjZjRcdWQ2MzhcdWM3OTAgXHVjNzg1XHVjN2E1XHVjNWQwXHVjMTFjIFx1ZDU1Y1x1YWNiMCBcdWMyMThcdWM2ZDRcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcclxuXHVkODNkXHVkZDM1IFx1ZDFmNFx1YzZkMCBcdWM3NzRcdWQ2YzRcdWFlNGNcdWM5YzAgXHVjNzc0XHVjNWI0XHVjOWM4IFx1YzIxOCBcdWM3ODhcdWIyOTQgXHVhYzA0XHViY2QxIFx1YWNlMFx1YmJmY1xyXG5cdWJjZDFcdWM2ZDAgXHVhYzA0XHViY2QxXHVjNzQwIFx1Yzc4NVx1YzZkMCBcdWFlMzBcdWFjMDRcdWM3M2NcdWI4NWNcdWI5Y2MgXHViMDVkXHViMDk4XHVjOWMwIFx1YzU0YVx1YjI5NCBcdWFjYmRcdWM2YjBcdWIzYzQgXHViOWNlXHVjMmI1XHViMmM4XHViMmU0LlxyXHVkMWY0XHVjNmQwIFx1ZDZjNFx1YzVkMFx1YjNjNCBcdWQ2OGNcdWJjZjUgXHViMmU4XHVhY2M0XHVjNWQwIFx1YjUzMFx1Yjc3YyBcdWM3N2NcdWM4MTUgXHVhZTMwXHVhYzA0IFx1YjNjY1x1YmQwNFx1Yzc3NCBcdWQ1NDRcdWM2OTRcdWQ1NjAgXHVjMjE4IFx1Yzc4OFx1YWNlMCwgXHVkMWI1XHVjNmQwIFx1Y2U1OFx1YjhjY1x1YjA5OCBcdWM3YWNcdWQ2NWMgXHVhY2ZjXHVjODE1XHVjNWQwXHVjMTFjIFx1YjNjNFx1YzZjMFx1Yzc0NCBcdWFjZTBcdWJiZmNcdWQ1NThcdWFjOGMgXHViNDI5XHViMmM4XHViMmU0LlxyXHViY2Y0XHVkNjM4XHVjNzkwXHViMjk0IFx1ZDY1OFx1Yzc5MFx1Yzc1OCBcdWMwYzFcdWQwZGMgXHViY2MwXHVkNjU0XHVjNWQwIFx1YjlkZVx1Y2RiMCBcdWJjZDFcdWM2ZDAgXHVhYzA0XHViY2QxLCBcdWIyZThcdWFlMzAgXHVhYzA0XHViY2QxLCBcdWQ2OGNcdWJjZjVcdWFlMzAgXHViM2NjXHViZDA0IFx1YjRmMSBcdWIyZTRcdWM1OTFcdWQ1NWMgXHVkNjE1XHVkMGRjXHViOTdjIFx1YWNlMFx1YjgyNFx1ZDU1OFx1YWM4YyBcdWI0MjlcdWIyYzhcdWIyZTQuXHJcdWM3NzRcdWI3ZjAgXHVkNzUwXHViOTg0XHVjNzQ0IFx1YmJmOFx1YjlhYyBcdWM1NGNcdWFjZTAgXHVjOTAwXHViZTQ0XHVkNTU4XHViYTc0LCBcdWMwYzFcdWQ2NjkgXHViY2MwXHVkNjU0XHVjNWQwXHViM2M0IFx1YmNmNFx1YjJlNCBcdWM1NDhcdWM4MTVcdWM4MDFcdWM3M2NcdWI4NWMgXHViMzAwXHVjNzUxXHVkNTYwIFx1YzIxOCBcdWM3ODhcdWMyYjVcdWIyYzhcdWIyZTQuXHJcclxuXHVkODNkXHVkZDM1IFx1YmNmNFx1ZDYzOFx1Yzc5MFx1Yjk3YyBcdWM3MDRcdWQ1NWMgXHVjYzI4XHViZDg0XHVkNTVjIFx1YzEyMFx1ZDBkZFx1Yzc1OCBcdWM1NDhcdWIwYjRcclxuXHVhYzA0XHViY2QxXHVjNzc4XHVjNzQ0IFx1YWQ2Y1x1ZDU1OFx1YjI5NCBcdWM3N2NcdWM3NDAgXHVjMTFjXHViNDUwXHViOTc0XHVhZTMwXHViY2Y0XHViMmU0LCBcdWQ2MDRcdWM3YWMgXHVjMGMxXHVkNjY5XHVhY2ZjIFx1YzU1ZVx1YzczY1x1Yjg1Y1x1Yzc1OCBcdWQ2OGNcdWJjZjUgXHVhY2ZjXHVjODE1XHVjNzQ0IFx1ZDU2OFx1YWVkOCBcdWFjZTBcdWI4MjRcdWQ1NThcdWIyOTQgXHVhYzgzXHVjNzc0IFx1YzkxMVx1YzY5NFx1ZDU2OVx1YjJjOFx1YjJlNC5cclx1ZDA3MFx1YzBhY1x1Yjc5MVx1YWMwNFx1YmNkMVx1ZDYxMVx1ZDY4Y1x1YjI5NCBcdWJjZjRcdWQ2MzhcdWM3OTBcdWFjMDAgXHVjNzc0XHViN2YwIFx1YzEyMFx1ZDBkZFx1Yzc0NCBcdWQ1NjAgXHVjMjE4IFx1Yzc4OFx1YjNjNFx1Yjg1ZCBcdWJjZDFcdWM2ZDBcdWFjMDRcdWJjZDEgXHVjODA0XHViYzE4XHVjNWQwIFx1YjMwMFx1ZDU1YyBcdWM4MTVcdWJjZjRcdWI5N2MgXHVjODFjXHVhY2Y1XHVkNTU4XHVhY2UwLCBcdWMwYzFcdWQ2NjlcdWM1ZDAgXHViOWRlXHViMjk0IFx1YmMyOVx1ZDVhNVx1Yzc0NCBcdWM1NDhcdWIwYjRcdWQ1NjlcdWIyYzhcdWIyZTQuXHJcdWFjMTFcdWM3OTFcdWMyYTRcdWI3ZWNcdWM2YjQgXHVjNzg1XHVjNmQwXHVjNzNjXHViODVjIFx1ZDYzY1x1Yzc5MCBcdWFjZTBcdWJiZmNcdWQ1NThcdWM5YzAgXHViOWM4XHVjMmRjXHVhY2UwLCBcdWFjMDRcdWJjZDEgXHVhY2ZjXHVjODE1XHVjNzQ0IFx1Yzc3NFx1ZDU3NFx1ZDU1OFx1YjI5NCBcdWFjODNcdWJkODBcdWQxMzAgXHVjMmRjXHVjNzkxXHVkNTc0XHViY2Y0XHVjMTM4XHVjNjk0LiBcdWJjZjRcdWQ2MzhcdWM3OTBcdWM3NTggXHViZDgwXHViMmY0XHVjNzQ0IFx1YjM1Y1x1YWNlMCwgXHVkNjU4XHVjNzkwXHVhYzAwIFx1Y2U1OFx1YjhjY1x1YzVkMCBcdWM5ZDFcdWM5MTFcdWQ1NjAgXHVjMjE4IFx1Yzc4OFx1YjI5NCBcdWQ2NThcdWFjYmRcdWM3NDQgXHViOWNjXHViNGRjXHViMjk0IFx1Y2NhYlx1YWM3OFx1Yzc0Y1x1Yzc3NCBcdWI0MjAgXHVjMjE4IFx1Yzc4OFx1YzJiNVx1YjJjOFx1YjJlNC5cclxyXG4iLCAic3R5bGUiOiB7ImZvbnRDb2xvciI6ICIjMDAwMDAwIiwgImZvbnRGYW1pbHkiOiAic3lzdGVtIiwgImZvbnRTaXplQ29kZSI6ICJmczE5IiwgImJhY2tncm91bmRDb2xvciI6ICIjZmZmZmZmIiwgIml0YWxpYyI6IGZhbHNlLCAidW5kZXJsaW5lIjogZmFsc2UsICJAY3R5cGUiOiAibm9kZVN0eWxlIn0sICJAY3R5cGUiOiAidGV4dE5vZGUifV0sICJAY3R5cGUiOiAicGFyYWdyYXBoIn1dLCAiQGN0eXBlIjogInRleHQifSwgeyJpZCI6ICJTRS1hMjNlOTgyZi0yZGRiLTQ4ODEtOGI0Yy1lODBjYjZjYmE4ZTUiLCAibGF5b3V0IjogImRlZmF1bHQiLCAiYWxpZ24iOiAiY2VudGVyIiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TmpBeU1ETmZNVE0xL01EQXhOemN3TURrM09USXdNVFExLll0LXpjQ3V6cTc3VHVKX1g4dENtTEJWcS1LZ0lXVnhYV3pJUG45ZVlRQTRnLkx5VW50bWRYZ0lRTElmbTR0am5kRC1uc2V3OGFiSVV6UThUbU1ILTZFVU1nLkpQRUcvaW1hZ2UuanBnIiwgImludGVybmFsUmVzb3VyY2UiOiBmYWxzZSwgInJlcHJlc2VudCI6IGZhbHNlLCAicGF0aCI6ICIvTWpBeU5qQXlNRE5mTVRNMS9NREF4Tnpjd01EazNPVEl3TVRRMS5ZdC16Y0N1enE3N1R1Sl9YOHRDbUxCVnEtS2dJV1Z4WFd6SVBuOWVZUUE0Zy5MeVVudG1kWGdJUUxJZm00dGpuZEQtbnNldzhhYklVelE4VG1NSC02RVVNZy5KUEVHL2ltYWdlLmpwZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiA0MjYxODIsICJ3aWR0aCI6IDE3MDEsICJ3aWR0aFBlcmNlbnRhZ2UiOiAwLCAiaGVpZ2h0IjogNjM4LCAib3JpZ2luYWxXaWR0aCI6IDE3MDEsICJvcmlnaW5hbEhlaWdodCI6IDYzOCwgImZpbGVOYW1lIjogImltYWdlLmpwZyIsICJjYXB0aW9uIjogbnVsbCwgImxpbmsiOiAiMTU4OC01OTQ2IiwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiB0cnVlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJjYXB0dXJlIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtNmYxOGEwYTctOTYyYy00N2M5LWI3YzQtZTdmOTk3NTk3NmVkIiwgImxheW91dCI6ICJsYXJnZV9pbWFnZSIsICJhbGlnbiI6ICJjZW50ZXIiLCAidGl0bGUiOiAiXHViY2Y0XHVkNjM4XHVjNzkwXHVjNzU4IFx1YjljOFx1Yzc0Y1x1Yzc0NCBcdWJhM2NcdWM4MDAgXHVjMGRkXHVhYzAxXHVkNTU4XHViMjk0IFx1YWMwNFx1YmNkMSwgXHVkMDcwXHVjMGFjXHViNzkxXHVhYzA0XHViY2QxXHVkNjExXHVkNjhjIiwgImRvbWFpbiI6ICJ5b3V0dS5iZSIsICJsaW5rIjogImh0dHBzOi8veW91dHUuYmUvOERzcDlTNGwwSkUiLCAidGh1bWJuYWlsIjogeyJzcmMiOiAiaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS84RHNwOVM0bDBKRS9tYXhyZXNkZWZhdWx0LmpwZyIsICJ3aWR0aCI6IDEyODAsICJoZWlnaHQiOiA3MjAsICJAY3R5cGUiOiAidGh1bWJuYWlsIn0sICJkZXNjcmlwdGlvbiI6ICJcdWM4MDQgXHVhYzA0XHViY2QxXHVjNzc4IFx1YmMzMFx1YzBjMVx1Y2M0NVx1Yzc4NFx1YmNmNFx1ZDVkOCBcdWM3NThcdWJiMzRcdWFjMDBcdWM3ODUsIFx1YzU0OFx1YzJlYyBcdWFjMDRcdWJjZDFcdWM3NTggXHVhZTMwXHVjOTAwXHVjNzQ0IFx1YjljY1x1YjRlZFx1YjJjOFx1YjJlNFx1YzBjMVx1YjJmNFx1YzgwNFx1ZDY1NCAxNTg4LTU5NDYiLCAidmlkZW8iOiB0cnVlLCAib2dsaW5rU2lnbiI6ICJFTWdKTWhBUkdVQkV3MWszWUpWTGpZUXFiVUlRM0k0czVlYUduZHVhMklvX192MS4wIiwgIkBjdHlwZSI6ICJvZ2xpbmsifSwgeyJpZCI6ICJTRS1kMjk0OGNiMy0wMDM3LTQyZWItOTlhYS02NzQ0YTkzNDhjYjYiLCAibGF5b3V0IjogInNsaWRlIiwgImNvbnRlbnRNb2RlIjogImV4dGVuZCIsICJjYXB0aW9uIjogbnVsbCwgImltYWdlcyI6IFt7ImlkIjogIlNFLWVlZjdjNzEzLTZmYTctNDdiOC1iZjFiLTJiMzUzNjc1YjVjMyIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5qQXlNRE5mTVRVMi9NREF4Tnpjd01EazNPVEkxT1RrMy52UUNJVzJ1TkFteG1zT0xxU2NFLWdsRHBOYV9RMXpkSDF6TThlTGNFeUZBZy4tV0wyc3ViR1o1aVVncnBUTTRZNDVEZUZHY2s2NDEtNHJxY05zZ3RoODc0Zy5QTkcvaW1hZ2UucG5nP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5qQXlNRE5mTVRVMi9NREF4Tnpjd01EazNPVEkxT1RrMy52UUNJVzJ1TkFteG1zT0xxU2NFLWdsRHBOYV9RMXpkSDF6TThlTGNFeUZBZy4tV0wyc3ViR1o1aVVncnBUTTRZNDVEZUZHY2s2NDEtNHJxY05zZ3RoODc0Zy5QTkcvaW1hZ2UucG5nIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDM2ODM5OSwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5wbmciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiB0cnVlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtMzgyZTQ5MWEtOThmYS00MDhjLThmZDYtZWJkMGJiNjVhM2VjIiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TmpBeU1ETmZORGtnL01EQXhOemN3TURrM09USTJOelU1Lkc2N1JJMWZYQmFWOTJaTDd6OVB2TEtySDZqQTdHdHM3X2J0anZna2M3OXdnLnk4ajh1XzVCd1gzMTgxQjJjaG9HQ1ZkaXIxWUY2SkljN0F5ZE9oTU5kOWtnLlBORy9pbWFnZS5wbmc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TmpBeU1ETmZORGtnL01EQXhOemN3TURrM09USTJOelU1Lkc2N1JJMWZYQmFWOTJaTDd6OVB2TEtySDZqQTdHdHM3X2J0anZna2M3OXdnLnk4ajh1XzVCd1gzMTgxQjJjaG9HQ1ZkaXIxWUY2SkljN0F5ZE9oTU5kOWtnLlBORy9pbWFnZS5wbmciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMzI1NzMxLCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLnBuZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IHRydWUsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS1lZDRiNGJjOC01YWYzLTQ1YTYtYWNkOS1jZWUzYTMwZGE5ZjEiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOakF5TUROZk5USWcvTURBeE56Y3dNRGszT1RJM05qRTUuZGRlWTJwS3U3eXhpNnZocUwyMV9MZkl4THNpOTdFdmh5R2x5SjdDMUNGd2cuZm9vT2pPRjdqdG5ESnRMbHhIdEs4ZDk3aEdOR2UtcGVoV0p1NW5URU5lY2cuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOakF5TUROZk5USWcvTURBeE56Y3dNRGszT1RJM05qRTUuZGRlWTJwS3U3eXhpNnZocUwyMV9MZkl4THNpOTdFdmh5R2x5SjdDMUNGd2cuZm9vT2pPRjdqdG5ESnRMbHhIdEs4ZDk3aEdOR2UtcGVoV0p1NW5URU5lY2cuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAzNDEzODYsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogdHJ1ZSwgIkBjdHlwZSI6ICJpbWFnZSJ9LCB7ImlkIjogIlNFLWFjZDA3ZDNlLTYxN2EtNDcyMC05Y2ZlLTRhNjAzYmEyNzRiMCIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5qQXlNRE5mTVRndy9NREF4Tnpjd01EazNPVEk0TXpjMi5BLTNwQmp6aHJjTkMxZHhTN0N2UERYaklrd0tPOVZNTmMtTjh3SmZwYVRRZy5xSDhVX3NmeVMzdngxOEY4Tm9TaVFQbWdCTVFQVXVGbWVtVnpGZDZlZVZzZy5QTkcvaW1hZ2UucG5nP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5qQXlNRE5mTVRndy9NREF4Tnpjd01EazNPVEk0TXpjMi5BLTNwQmp6aHJjTkMxZHhTN0N2UERYaklrd0tPOVZNTmMtTjh3SmZwYVRRZy5xSDhVX3NmeVMzdngxOEY4Tm9TaVFQbWdCTVFQVXVGbWVtVnpGZDZlZVZzZy5QTkcvaW1hZ2UucG5nIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDMzOTQ0MCwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5wbmciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiB0cnVlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtMDFhZjk0MWItYTgxYS00ZWZiLWFhNzUtMDhiNTJmOGFjMjc0IiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TmpBeU1ETmZPRGNnL01EQXhOemN3TURrM09USTVNVFF6LlVHZVFDam1UWWMwb1k4NF9OS2NJdzZ1cUdrbmJweS01NUJ3RjF6UGtxWFFnLnhaN2FCTHVlcXlpSXJTakRpNEpIV1hYd3RkVmE3NmVTOThaV2hNZGU0NUFnLlBORy9pbWFnZS5wbmc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TmpBeU1ETmZPRGNnL01EQXhOemN3TURrM09USTVNVFF6LlVHZVFDam1UWWMwb1k4NF9OS2NJdzZ1cUdrbmJweS01NUJ3RjF6UGtxWFFnLnhaN2FCTHVlcXlpSXJTakRpNEpIV1hYd3RkVmE3NmVTOThaV2hNZGU0NUFnLlBORy9pbWFnZS5wbmciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMzY1MjYwLCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLnBuZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IHRydWUsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS04YWE4OGJkOS0yZWQ2LTQ4NGUtYTM3Yi1mMjgwMWYyNzc0ZDUiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOakF5TUROZk1URTIvTURBeE56Y3dNRGszT1RNd01ERTAuMWwtbU5RVXE5OHV2ZDI3QmVqTHdkMVAyNk1UUHB1d1lpM2VZVVUyWkhVOGcuM3ZzakxRa1lBRGJHbzI4Mmx5UGw4enRRUXhTTUtLbWxOeHZ1Y2FESTBkQWcuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOakF5TUROZk1URTIvTURBeE56Y3dNRGszT1RNd01ERTAuMWwtbU5RVXE5OHV2ZDI3QmVqTHdkMVAyNk1UUHB1d1lpM2VZVVUyWkhVOGcuM3ZzakxRa1lBRGJHbzI4Mmx5UGw4enRRUXhTTUtLbWxOeHZ1Y2FESTBkQWcuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAzNzUyMTcsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogdHJ1ZSwgIkBjdHlwZSI6ICJpbWFnZSJ9XSwgIkBjdHlwZSI6ICJpbWFnZUdyb3VwIn0sIHsiaWQiOiAiU0UtNzEwOWQ3YjItZmNhYy00NWE1LTk2ZTEtNTBkMjhhNjJlOTU2IiwgImxheW91dCI6ICJzbGlkZSIsICJjb250ZW50TW9kZSI6ICJleHRlbmQiLCAiY2FwdGlvbiI6IG51bGwsICJpbWFnZXMiOiBbeyJpZCI6ICJTRS1iZmJlOGRlMS1hMDM0LTRhMTgtOTRjNS1iMWFkZmVkZDkzNjYiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOakF5TUROZk1qSXcvTURBeE56Y3dNRGszT1RNd09USXcudEJoVzhOajdRMnBrMWtHOWJFT3dSMmhCY2dvMTJVUU1lR0VVYnJYcnlYZ2cuN21vLTh1aXlQV0NCZUJrekhhVlcxRXU5UjFTbTdwbTQ1a1U2UTdhU2JYNGcuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOakF5TUROZk1qSXcvTURBeE56Y3dNRGszT1RNd09USXcudEJoVzhOajdRMnBrMWtHOWJFT3dSMmhCY2dvMTJVUU1lR0VVYnJYcnlYZ2cuN21vLTh1aXlQV0NCZUJrekhhVlcxRXU5UjFTbTdwbTQ1a1U2UTdhU2JYNGcuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAzNzc1MDAsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogdHJ1ZSwgIkBjdHlwZSI6ICJpbWFnZSJ9LCB7ImlkIjogIlNFLTY4N2MxYTdkLTJkMmUtNGY5Yi1iZmY5LTI5NjRkNGFlNjcwMCIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5qQXlNRE5mTVRZMy9NREF4Tnpjd01EazNPVE14TnpVMS5FT1NCYy1PcEhVRlpLRW1qRGJKYWdWTWtPd1lxTndJZmdxSGgzcmoxcmg0Zy5CUmFBVXhnSzZSZlE1X2ZZUGlkd2lmckVsMkdYUFlyUHl0NHJpQjVVOTVBZy5QTkcvaW1hZ2UucG5nP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5qQXlNRE5mTVRZMy9NREF4Tnpjd01EazNPVE14TnpVMS5FT1NCYy1PcEhVRlpLRW1qRGJKYWdWTWtPd1lxTndJZmdxSGgzcmoxcmg0Zy5CUmFBVXhnSzZSZlE1X2ZZUGlkd2lmckVsMkdYUFlyUHl0NHJpQjVVOTVBZy5QTkcvaW1hZ2UucG5nIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDM2OTgzOCwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5wbmciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiB0cnVlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtNTYwMjUwZGItNTgzYi00MWMwLTkxZmEtNjVkZjc5MjAwZmU4IiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TmpBeU1ETmZNVFF5L01EQXhOemN3TURrM09UTXlOVFE1LlptSXg4NmdGWUNCN0I3SWVIVG4zVS1UVWhJX0dDd3BpUVB2enJLVExpN01nLjFqaHBxQ19rNGJ4ZTF3RTRQQkxoaS1QSWwyVE1qZTFrQ24tWmVlMmVrcWdnLlBORy9pbWFnZS5wbmc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TmpBeU1ETmZNVFF5L01EQXhOemN3TURrM09UTXlOVFE1LlptSXg4NmdGWUNCN0I3SWVIVG4zVS1UVWhJX0dDd3BpUVB2enJLVExpN01nLjFqaHBxQ19rNGJ4ZTF3RTRQQkxoaS1QSWwyVE1qZTFrQ24tWmVlMmVrcWdnLlBORy9pbWFnZS5wbmciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMzc2Nzg1LCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLnBuZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IHRydWUsICJAY3R5cGUiOiAiaW1hZ2UifSwgeyJpZCI6ICJTRS1jYmNmM2NhOS1kM2I2LTQzYTMtYThmZi0zODgyY2NhNDEzMjgiLCAibGF5b3V0IjogImRlZmF1bHQiLCAic3JjIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0L01qQXlOakF5TUROZk9UTWcvTURBeE56Y3dNRGszT1RNek16RTMuNjBiTlpGdk9BV2pmbUxPRnlwR3VsUmh6c3kzWlotYTdVWi05QXdHX2Z0TWcuR0xHWHpPc2FCVW9HOG5DTTdKbHVmRy02cGJzLVhJdnRuVmNJMDJIZEpHQWcuUE5HL2ltYWdlLnBuZz90eXBlPXcxIiwgImludGVybmFsUmVzb3VyY2UiOiB0cnVlLCAicmVwcmVzZW50IjogdHJ1ZSwgInBhdGgiOiAiL01qQXlOakF5TUROZk9UTWcvTURBeE56Y3dNRGszT1RNek16RTMuNjBiTlpGdk9BV2pmbUxPRnlwR3VsUmh6c3kzWlotYTdVWi05QXdHX2Z0TWcuR0xHWHpPc2FCVW9HOG5DTTdKbHVmRy02cGJzLVhJdnRuVmNJMDJIZEpHQWcuUE5HL2ltYWdlLnBuZyIsICJkb21haW4iOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQiLCAiZmlsZVNpemUiOiAzNjY0NjUsICJ3aWR0aCI6IDUxMiwgIndpZHRoUGVyY2VudGFnZSI6IDUwLCAiaGVpZ2h0IjogNTEyLCAib3JpZ2luYWxXaWR0aCI6IDUxMiwgIm9yaWdpbmFsSGVpZ2h0IjogNTEyLCAiZmlsZU5hbWUiOiAiaW1hZ2UucG5nIiwgImNhcHRpb24iOiBudWxsLCAiZm9ybWF0IjogIm5vcm1hbCIsICJkaXNwbGF5Rm9ybWF0IjogIm5vcm1hbCIsICJpbWFnZUxvYWRlZCI6IGZhbHNlLCAiY29udGVudE1vZGUiOiAibm9ybWFsIiwgIm9yaWdpbiI6IHsic3JjRnJvbSI6ICJsb2NhbCIsICJAY3R5cGUiOiAiaW1hZ2VPcmlnaW4ifSwgImFpIjogdHJ1ZSwgIkBjdHlwZSI6ICJpbWFnZSJ9LCB7ImlkIjogIlNFLWUzMzliY2M1LWY5MDUtNDg5MS04M2ZjLTQ2OGFmYTljZGQzNiIsICJsYXlvdXQiOiAiZGVmYXVsdCIsICJzcmMiOiAiaHR0cHM6Ly9ibG9nZmlsZXMucHN0YXRpYy5uZXQvTWpBeU5qQXlNRE5mTWpRNS9NREF4Tnpjd01EazNPVE0xTVRBMC5UZmJFZmtRRlktRzJsRDFIQS10eHZqb3p5V1c5VEgzNTlRa201bFQzSklFZy5TTU8xSDJlWlhBcEk1SkMzeXhiVGdhZkpTMFpKVG1JVG9LbHF0R0FxMHRBZy5QTkcvaW1hZ2UucG5nP3R5cGU9dzEiLCAiaW50ZXJuYWxSZXNvdXJjZSI6IHRydWUsICJyZXByZXNlbnQiOiB0cnVlLCAicGF0aCI6ICIvTWpBeU5qQXlNRE5mTWpRNS9NREF4Tnpjd01EazNPVE0xTVRBMC5UZmJFZmtRRlktRzJsRDFIQS10eHZqb3p5V1c5VEgzNTlRa201bFQzSklFZy5TTU8xSDJlWlhBcEk1SkMzeXhiVGdhZkpTMFpKVG1JVG9LbHF0R0FxMHRBZy5QTkcvaW1hZ2UucG5nIiwgImRvbWFpbiI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldCIsICJmaWxlU2l6ZSI6IDM1MzU4MSwgIndpZHRoIjogNTEyLCAid2lkdGhQZXJjZW50YWdlIjogNTAsICJoZWlnaHQiOiA1MTIsICJvcmlnaW5hbFdpZHRoIjogNTEyLCAib3JpZ2luYWxIZWlnaHQiOiA1MTIsICJmaWxlTmFtZSI6ICJpbWFnZS5wbmciLCAiY2FwdGlvbiI6IG51bGwsICJmb3JtYXQiOiAibm9ybWFsIiwgImRpc3BsYXlGb3JtYXQiOiAibm9ybWFsIiwgImltYWdlTG9hZGVkIjogZmFsc2UsICJjb250ZW50TW9kZSI6ICJub3JtYWwiLCAib3JpZ2luIjogeyJzcmNGcm9tIjogImxvY2FsIiwgIkBjdHlwZSI6ICJpbWFnZU9yaWdpbiJ9LCAiYWkiOiB0cnVlLCAiQGN0eXBlIjogImltYWdlIn0sIHsiaWQiOiAiU0UtMjE5M2NjZWUtODFmNS00OTRkLWEzNWQtNGVhYjQ1MmU3MWQ3IiwgImxheW91dCI6ICJkZWZhdWx0IiwgInNyYyI6ICJodHRwczovL2Jsb2dmaWxlcy5wc3RhdGljLm5ldC9NakF5TmpBeU1ETmZNakkyL01EQXhOemN3TURrM09UTTJNemd5LklIWDAzUEIteXMtS0hsR1FMTW13OVZSeXk0NHVtc2tZZ0lqbENyWC1zRU1nLmRBT3N3OUM3VlFEaVU3dDF1UXZjVXRncnNyUzVBVEFuN0pXdUxJbEhsU1lnLlBORy9pbWFnZS5wbmc/dHlwZT13MSIsICJpbnRlcm5hbFJlc291cmNlIjogdHJ1ZSwgInJlcHJlc2VudCI6IHRydWUsICJwYXRoIjogIi9NakF5TmpBeU1ETmZNakkyL01EQXhOemN3TURrM09UTTJNemd5LklIWDAzUEIteXMtS0hsR1FMTW13OVZSeXk0NHVtc2tZZ0lqbENyWC1zRU1nLmRBT3N3OUM3VlFEaVU3dDF1UXZjVXRncnNyUzVBVEFuN0pXdUxJbEhsU1lnLlBORy9pbWFnZS5wbmciLCAiZG9tYWluIjogImh0dHBzOi8vYmxvZ2ZpbGVzLnBzdGF0aWMubmV0IiwgImZpbGVTaXplIjogMzg2ODM1LCAid2lkdGgiOiA1MTIsICJ3aWR0aFBlcmNlbnRhZ2UiOiA1MCwgImhlaWdodCI6IDUxMiwgIm9yaWdpbmFsV2lkdGgiOiA1MTIsICJvcmlnaW5hbEhlaWdodCI6IDUxMiwgImZpbGVOYW1lIjogImltYWdlLnBuZyIsICJjYXB0aW9uIjogbnVsbCwgImZvcm1hdCI6ICJub3JtYWwiLCAiZGlzcGxheUZvcm1hdCI6ICJub3JtYWwiLCAiaW1hZ2VMb2FkZWQiOiBmYWxzZSwgImNvbnRlbnRNb2RlIjogIm5vcm1hbCIsICJvcmlnaW4iOiB7InNyY0Zyb20iOiAibG9jYWwiLCAiQGN0eXBlIjogImltYWdlT3JpZ2luIn0sICJhaSI6IHRydWUsICJAY3R5cGUiOiAiaW1hZ2UifV0sICJAY3R5cGUiOiAiaW1hZ2VHcm91cCJ9XSwgImRpIjogeyJkaWYiOiBmYWxzZSwgImRpbyI6IFt7ImRpcyI6ICJOIiwgImRpYSI6IHsidCI6IDAsICJwIjogMCwgInN0IjogMTQsICJzayI6IDN9fV19fX2UjA5tZWRpYVJlc291cmNlc5SMIXsiaW1hZ2UiOltdLCJ2aWRlbyI6W10sImZpbGUiOltdfZSMEHBvcHVsYXRpb25QYXJhbXOUWBAEAAB7ImNvbmZpZ3VyYXRpb24iOiB7Im9wZW5UeXBlIjogMiwgImNvbW1lbnRZbiI6IHRydWUsICJzZWFyY2hZbiI6IHRydWUsICJzeW1wYXRoeVluIjogdHJ1ZSwgInNjcmFwVHlwZSI6IDIsICJvdXRTaWRlQWxsb3dZbiI6IHRydWUsICJ0d2l0dGVyUG9zdGluZ1luIjogZmFsc2UsICJmYWNlYm9va1Bvc3RpbmdZbiI6IGZhbHNlLCAiY2NsWW4iOiBmYWxzZX0sICJwb3B1bGF0aW9uTWV0YSI6IHsiY2F0ZWdvcnlJZCI6IDYsICJsb2dObyI6IG51bGwsICJkaXJlY3RvcnlTZXEiOiAwLCAiZGlyZWN0b3J5RGV0YWlsIjogbnVsbCwgIm1yQmxvZ1RhbGtDb2RlIjogbnVsbCwgInBvc3RXcml0ZVRpbWVUeXBlIjogIm5vdyIsICJ0YWdzIjogIlx1YmNkMVx1YzZkMFx1YWMwNFx1YmNkMVx1Yzc3OCxcdWFjMDRcdWJjZDFcdWM3NzhcdWM1YzVcdWNjYjQsXHVhYzA0XHViY2QxXHVjNzc4XHVkNjExXHVkNjhjLFx1YWMxY1x1Yzc3OFx1YWMwNFx1YmNkMVx1Yzc3OCxcdWFjMDRcdWJjZDFcdWM3NzhcdWFkNmNcdWM3NzhcdWM1YzVcdWNjYjQsXHVhYzA0XHViY2QxXHVjNzc4XHVhZDZjXHVjNzc4XHVhZDZjXHVjOWMxLFx1YWMxY1x1Yzc3OFx1YWMwNFx1YmNkMVx1Yzc3OFx1YmU0NFx1YzZhOSxcdWFjMWNcdWM3NzhcdWFjMDRcdWJjZDFcdWJlNDQsXHVhYzA0XHViY2QxXHVjNzc4XHVjMmUwXHVjY2FkLFx1YWMwNFx1YmNkMVx1Yzc3OFx1YzBjMVx1YjJmNCIsICJtb3ZpZVBhbmVsUGFydGljaXBhdGlvbiI6IGZhbHNlLCAiZ3JlZW5SZXZpZXdCYW5uZXJZbiI6IGZhbHNlLCAiY29udGludWVTYXZlZCI6IGZhbHNlLCAibm90aWNlUG9zdFluIjogZmFsc2UsICJhdXRvQnlDYXRlZ29yeVluIjogZmFsc2UsICJwb3N0TG9jYXRpb25TdXBwb3J0WW4iOiBmYWxzZSwgInBvc3RMb2NhdGlvbkpzb24iOiBudWxsLCAicHJlUG9zdERhdGUiOiBudWxsLCAidGhpc0RheVBvc3RJbmZvIjogbnVsbCwgInNjcmFwWW4iOiBmYWxzZSwgImF1dG9TYXZlTm8iOiAxNzcwMDk3OTEwODUzfSwgImVkaXRvclNvdXJjZSI6ICJzNDNZMVdZMzJlS2RGUHdkS0xUbWdRPT0ifZSMEXByb2R1Y3RBcGlWZXJzaW9ulIwCdjGUdS4=","headers_encoded":"gASVXAMAAAAAAAB9lCiMBmFjY2VwdJSMIWFwcGxpY2F0aW9uL2pzb24sIHRleHQvcGxhaW4sICovKpSMD2FjY2VwdC1sYW5ndWFnZZSMI2tvLUtSLGtvO3E9MC45LGVuLVVTO3E9MC44LGVuO3E9MC43lIwMY29udGVudC10eXBllIwhYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVklIwGb3JpZ2lulIwWaHR0cHM6Ly9ibG9nLm5hdmVyLmNvbZSMCHByaW9yaXR5lIwGdT0xLCBplIwHcmVmZXJlcpRYIgEAAGh0dHBzOi8vYmxvZy5uYXZlci5jb20vUG9zdFdyaXRlRm9ybS5uYXZlcj9ibG9nSWQ9YmlnbG92ZTMzXyZSZWRpcmVjdD1Xcml0ZSZyZWRpcmVjdD1Xcml0ZSZ3aWRnZXRUeXBlQ2FsbD10cnVlJmZyb209c2VjdGlvbiZ0b3BSZWZlcmVyPWh0dHBzJTNBJTJGJTJGc2VjdGlvbi5ibG9nLm5hdmVyLmNvbSUyRkJsb2dIb21lLm5hdmVyJTNGZGlyZWN0b3J5Tm8lM0QwJTI2Y3VycmVudFBhZ2UlM0QxJTI2Z3JvdXBJZCUzRDAmdHJhY2tpbmdDb2RlPWJsb2dfc2VjdGlvbmhvbWVfcGMmZGlyZWN0QWNjZXNzPWZhbHNllIwJc2VjLWNoLXVhlIxAIk5vdC9BKUJyYW5kIjt2PSI4IiwgIkNocm9taXVtIjt2PSIxMjYiLCAiR29vZ2xlIENocm9tZSI7dj0iMTI2IpSMEHNlYy1jaC11YS1tb2JpbGWUjAI/MJSMEnNlYy1jaC11YS1wbGF0Zm9ybZSMCSJXaW5kb3dzIpSMDnNlYy1mZXRjaC1kZXN0lIwFZW1wdHmUjA5zZWMtZmV0Y2gtbW9kZZSMBGNvcnOUjA5zZWMtZmV0Y2gtc2l0ZZSMC3NhbWUtb3JpZ2lulIwKdXNlci1hZ2VudJSMb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjYuMC4wLjAgU2FmYXJpLzUzNy4zNpR1Lg=="}
+
+----------------
+시크릿 체크
+시크릿 체크-끝
+도움말x
+-231123--a
+---------123----------------import --------
+에러메세지
+Message: Timed out waiting for alerts to appear
+
+-231123ttt--a
+------ttt---123----------------import --------
+에러메세지
+Message: Timed out waiting for alerts to appear
+
+인용구 1
+인용구 2
+인용구 3
+인용구 4
+인용구 5
+인용구 6
+인용구 1
+인용구 2
+인용구 3
+인용구 4
+인용구 5
+인용구 6
+인용구 1
+인용구 1
+인용구 2
+인용구 3
+인용구 4
+인용구 5
+인용구 6
+찾은 제목 ::
+씨엠병원 개인간병인 구하기
+NAVER
+blog
+자동저장 오후 02:53
+저장
+0
+발행
+
+사진
+
+
+MYBOX
+
+
+동영상
+
+
+스티커
+
+
+
+인용구 선택
+
+인용구
+
+
+구분선 선택
+
+구분선
+
+링크
+
+
+파일
+
+
+일정
+
+
+소스코드
+
+
+표
+
+
+수식
+
+
+
+장소
+
+
+내돈내산
+
+
+글감
+
+
+
+내 클립
+
+
+라이브러리
+
+
+템플릿
+
+인용구
+
+24
+
+
+
+굵게
+
+
+기울이기
+
+
+밑줄
+
+
+
+
+글자색
+
+
+
+인용구 1
+
+
+인용구 2
+
+
+인용구 3
+
+
+인용구 4
+
+
+인용구 5
+
+
+인용구 6
+
+
+
+문서 너비
+
+
+텍스트 배치
+
+
+
+줄간격
+
+
+특수문자
+
+
+
+맞춤법
+
+
+
+씨엠병원 개인간병인 구하기
+
+
+
+
+
+
+
+
+
+인용구 1
+
+
+인용구 2
+
+
+인용구 3
+
+
+인용구 4
+
+
+인용구 5
+
+
+인용구 6
+
+
+
+본문
+
+
+
+삭제
+
+씨엠병원 개인간병인 구하기
+
+출처 입력
+대표
+
+
+
+
+
+
+
+🔵
+예고 없이 찾아온 입원, 보호자의 고민
+갑작스러운 입원이나 수술 소식을 들으면 보호자는 마음이 급해집니다. 치료 일정부터 병원 생활 준비까지 신경 쓸 일이 한꺼번에 몰려오고, 그중 가장 큰 고민은 “누가 환자 곁을 지켜줄 수 있을까”입니다. 직장과 가정을 오가며 상주 간병이 어려운 상황에서, 병원간병인을 어떻게 구해야 할지 막막함을 느끼는 보호자분들이 많습니다. 이 글은 그런 현실적인 고민에 공감하며, 병원 간병을 준비하는 과정을 차분히 안내하고자 합니다.
+
+
+🔵
+병원 환경에 맞는 간병이 필요한 이유
+병원은 가정과 달리 치료와 회복이 동시에 이루어지는 공간입니다. 의료진의 회진, 검사 이동, 수술 전후 관리 등 환자 상태에 따라 세심한 대응이 필요합니다. 특히 고령 환자나 수술 후 회복 중인 환자의 경우, 작은 변화도 놓치지 않는 간병이 중요합니다. 그래서 병원간병은 단순한 돌봄이 아니라 병원 환경을 이해한 전문적인 도움이 요구됩니다. 보호자가 모든 상황을 직접 감당하기엔 현실적으로 어려움이 따릅니다.
+🔵
+개인적으로 간병인을 찾을 때의 불안 요소
+지인을 통해 알아보거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 뒤따릅니다. 경력은 충분한지, 병원 생활에 익숙한지, 갑작스러운 상황에 어떻게 대처하는지 알기 어렵기 때문입니다. 또한 간병 일정 변경이나 문제 발생 시 누구에게 도움을 요청해야 할지도 불분명합니다. 이러한 불안 요소는 보호자의 부담을 더 키우고, 환자에게도 영향을 줄 수 있습니다.
+🔵
+큰사랑간병협회에서 안내하는 병원간병 과정
+큰사랑간병협회에서는 보호자가 느끼는 이런 고민을 줄이기 위해, 병원 환경과 환자 상태에 맞춘 병원간병인을 연결해드리고 있습니다. 상담을 통해 환자의 상태, 병원 위치, 필요한 간병 시간대를 먼저 파악하고, 이에 적합한 간병인을 안내하는 방식입니다. 간병인을 ‘소개받는다’기보다, 병원간병이 어떻게 이루어지는지 전체 과정을 안내받는 느낌으로 준비할 수 있어 보호자 입장에서 한결 수월합니다.
+🔵
+퇴원 이후까지 이어질 수 있는 간병 고민
+병원 간병은 입원 기간으로만 끝나지 않는 경우도 많습니다. 퇴원 후에도 회복 단계에 따라 일정 기간 돌봄이 필요할 수 있고, 통원 치료나 재활 과정에서 도움을 고민하게 됩니다. 보호자는 환자의 상태 변화에 맞춰 병원 간병, 단기 간병, 회복기 돌봄 등 다양한 형태를 고려하게 됩니다. 이런 흐름을 미리 알고 준비하면, 상황 변화에도 보다 안정적으로 대응할 수 있습니다.
+🔵
+보호자를 위한 차분한 선택의 안내
+간병인을 구하는 일은 서두르기보다, 현재 상황과 앞으로의 회복 과정을 함께 고려하는 것이 중요합니다. 큰사랑간병협회는 보호자가 이런 선택을 할 수 있도록 병원간병 전반에 대한 정보를 제공하고, 상황에 맞는 방향을 안내합니다. 갑작스러운 입원으로 혼자 고민하지 마시고, 간병 과정을 이해하는 것부터 시작해보세요. 보호자의 부담을 덜고, 환자가 치료에 집중할 수 있는 환경을 만드는 첫걸음이 될 수 있습니다.
+
+링크
+링크
+
+
+
+
+
+다음 이미지
+
+
+
+다음 이미지
+
+
+본문 추가
+
+추가할 컴포넌트를 선택하세요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+글감
+
+
+
+
+
+
+
+
+
+
+
+🔗 URL 저장 완료: https://blog.naver.com/biglove33_/224170119897
+handles :  ['D2F9BB7CB9FEC1B4B87C12DDC399C24C', 'CFD45ABB7C8541C4DB288732AD74D2B7']
+스탑
+스탑
+14시 54분 02초
+timeclock 0.0
+asdf 0
+동작중 0
+timeclock 0.0
+asdf 0
+동작중 1
+timeclock 0.0
+asdf 0
+동작중 2
+timeclock 0.0
+asdf 0
+동작중 3
+timeclock 0.0
+asdf 0
+동작중 4
+timeclock 0.0
+asdf 0
+동작중 5
+timeclock 0.0
+asdf 0
+동작중 6
+timeclock 0.0
+asdf 0
+동작중 7
+timeclock 0.0
+asdf 0
+동작중 8
+timeclock 0.0
+asdf 0
+동작중 9
+지금 아이디 :
+excel_counter 2
+carecare91
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  서울재활병원 개인 간병인 서울재활병원 개인 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver', '서울재활병원 개인 간병인 서울재활병원 개인 간병인', 'ko']
+Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver
+Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Ukiyo-e painting of a cat hacker wearing VR headsets, on a postage stamp, no text in any characters
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  서울재활병원 개인 간병인 서울재활병원 개인 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver', '서울재활병원 개인 간병인 서울재활병원 개인 간병인', 'ko']
+Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver
+Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Savory sushi and ramen in the vibrant streets of Shibuya, neon lights, night photography, cinematic
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  서울재활병원 개인 간병인 서울재활병원 개인 간병인
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver', '서울재활병원 개인 간병인 서울재활병원 개인 간병인', 'ko']
+Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver
+Seoul Rehabilitation Hospital Personal Caregiver Seoul Rehabilitation Hospital Personal Caregiver
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Futuristic cityscape, tall holographic billboards, sleek flying cars, neon lights
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에서 한국환자를 간병하는 한국간병인모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="8117a42cc4ce12e609da4010072ae87f")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon']
+ID_gmemo https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon
+체크4
+현재 URL: https://chatgpt.com/g/g-691298aff83c8191b8d63b1f6b6f15f0-keunsarang-byeongweon
+수집된 텍스트: 주제 : 병원에 입원한 가족을 위해 병원간병인을 구하고 있는 보호자를 대상으로 블로그 글을 작성해줘.글은 갑작스러운 입원이나 수술, 장기 치료로 간병인이 필요해진 상황에서 보호자가 느끼는 현실적인 어려움에 공감하며 시작해줘.큰사랑간병협회에서는 병원 환경과 환자 상태에 맞는 전문 병원간병인을 연결해드리고 있다는 점을 자연스럽게 설명해줘. 개인적으로 간병인을 알아보는 과정에서 발생할 수 있는 불안 요소를 언급하고, 협회를 통해 간병인을 연결받을 경우 보다 체계적인 안내를 받을 수 있다는 방향으로 글을 풀어줘.또한 병원 간병 이후에도 퇴원 시점이나 회복 단계에 따라 돌봄이 계속 필요할 수 있다는 점을 설명하고, 보호자가 상황에 맞게 간병 형태를 고민할 수 있도록 정보를 제공해줘. 글 전체는 간병인을 ‘소개한다’는 느낌보다, 간병인을 구하는 과정을 안내한다는 톤을 유지해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x458543
+	0x458584
+	0x24b4e0
+	0x29594a
+	0x295beb
+	0x2d7bb2
+	0x2b8264
+	0x2d53a1
+	0x2b7fb6
+	0x2896f9
+	0x28a4b4
+	0x6ad034
+	0x6a82c9
+	0x6c6460
+	0x471a68
+	0x47988d
+	0x460df8
+	0x460fc2
+	0x44ab3a
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<병원입원 가족을 위한 병원간병인 준비 안내>>]]^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+병원에 상주하며 간병을 해야 하지만, 직장·가정·체력적인 한계로 모든 시간을 함께하기는 쉽지 않습니다.^^엔터^^
+‘당장 누가 간병을 해야 할까’, ‘믿고 맡길 수 있을까’라는 고민이 자연스럽게 뒤따릅니다.^^엔터^^
+이처럼 병원간병인이 필요한 순간은 대부분 준비되지 않은 상태에서 시작됩니다.^^엔터^^🔵 병원 환경에서 간병이 더 어려운 이유^^엔터^^
+병원은 집과 달리 의료진의 치료 일정, 검사 이동, 환자 상태 변화가 잦은 공간입니다.^^엔터^^
+수술 후 환자나 고령 환자의 경우 작은 움직임 하나에도 세심한 관찰과 도움이 필요합니다.^^엔터^^
+그래서 병원 간병은 단순한 돌봄을 넘어, 병원 환경에 익숙한 간병인의 역할이 중요해집니다.^^엔터^^
+보호자가 모든 과정을 혼자 감당하기에는 현실적인 어려움이 큽니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+지인을 통해 소개받거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 생길 수 있습니다.^^엔터^^
+경력은 충분한지, 병원 간병 경험이 있는지, 갑작스러운 상황에 잘 대처할 수 있는지 확인하기 어렵기 때문입니다.^^엔터^^
+또한 문제가 발생했을 때 누구에게 도움을 요청해야 하는지도 막막해질 수 있습니다.^^엔터^^
+이런 불안은 보호자의 심리적 부담을 더욱 키우게 됩니다.^^엔터^^🔵 큰사랑간병협회가 안내하는 병원간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 보호자의 상황을 먼저 충분히 듣는 상담부터 진행합니다.^^엔터^^
+환자의 상태, 입원 병원, 필요한 간병 시간과 기간을 파악한 뒤 병원 환경에 맞는 간병인을 연결합니다.^^엔터^^
+보호자는 복잡한 절차를 혼자 고민하기보다, 안내에 따라 간병 준비를 차분히 진행할 수 있습니다.^^엔터^^
+이 과정 자체가 보호자의 부담을 덜어주는 하나의 지원이 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려해야 하는 돌봄 계획^^엔터^^
+간병은 입원 기간에만 끝나는 경우보다, 퇴원 후 회복 단계까지 이어지는 경우도 많습니다.^^엔터^^
+퇴원 시점에는 부분 간병, 방문 간병 등 상황에 맞는 돌봄 형태를 고민해야 할 수 있습니다.^^엔터^^
+미리 이런 흐름을 알고 준비하면 갑작스러운 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^
+보호자가 선택할 수 있는 간병 방향을 이해하는 것이 중요합니다.^^엔터^^🔵 보호자를 위한 간병 준비의 정리^^엔터^^
+병원간병인을 구하는 과정은 ‘누군가를 소개받는 일’이 아니라, 상황에 맞는 선택을 해나가는 과정입니다.^^엔터^^
+큰사랑간병협회는 이 과정을 보호자 혼자 감당하지 않도록 체계적인 안내를 제공합니다.^^엔터^^
+갑작스러운 입원 앞에서 막막함을 느낀다면, 먼저 현재 상황을 정리하고 상담을 받아보는 것부터 시작해보세요.^^엔터^^
+준비된 안내는 보호자의 걱정을 덜고, 환자의 회복에 더 집중할 수 있도록 도와줍니다.^^엔터^^<<<전체 글 끝>>>
+===== A 영역 =====
+<<<전체 글 시작>>>^^엔터^^[[<<병원입원 가족을 위한 병원간병인 준비 안내>>]]^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+병원에 상주하며 간병을 해야 하지만, 직장·가정·체력적인 한계로 모든 시간을 함께하기는 쉽지 않습니다.^^엔터^^
+‘당장 누가 간병을 해야 할까’, ‘믿고 맡길 수 있을까’라는 고민이 자연스럽게 뒤따릅니다.^^엔터^^
+이처럼 병원간병인이 필요한 순간은 대부분 준비되지 않은 상태에서 시작됩니다.^^엔터^^
+===== B 영역 =====
+🔵 병원 환경에서 간병이 더 어려운 이유^^엔터^^
+병원은 집과 달리 의료진의 치료 일정, 검사 이동, 환자 상태 변화가 잦은 공간입니다.^^엔터^^
+수술 후 환자나 고령 환자의 경우 작은 움직임 하나에도 세심한 관찰과 도움이 필요합니다.^^엔터^^
+그래서 병원 간병은 단순한 돌봄을 넘어, 병원 환경에 익숙한 간병인의 역할이 중요해집니다.^^엔터^^
+보호자가 모든 과정을 혼자 감당하기에는 현실적인 어려움이 큽니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+지인을 통해 소개받거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 생길 수 있습니다.^^엔터^^
+경력은 충분한지, 병원 간병 경험이 있는지, 갑작스러운 상황에 잘 대처할 수 있는지 확인하기 어렵기 때문입니다.^^엔터^^
+또한 문제가 발생했을 때 누구에게 도움을 요청해야 하는지도 막막해질 수 있습니다.^^엔터^^
+이런 불안은 보호자의 심리적 부담을 더욱 키우게 됩니다.^^엔터^^🔵 큰사랑간병협회가 안내하는 병원간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 보호자의 상황을 먼저 충분히 듣는 상담부터 진행합니다.^^엔터^^
+환자의 상태, 입원 병원, 필요한 간병 시간과 기간을 파악한 뒤 병원 환경에 맞는 간병인을 연결합니다.^^엔터^^
+보호자는 복잡한 절차를 혼자 고민하기보다, 안내에 따라 간병 준비를 차분히 진행할 수 있습니다.^^엔터^^
+이 과정 자체가 보호자의 부담을 덜어주는 하나의 지원이 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려해야 하는 돌봄 계획^^엔터^^
+간병은 입원 기간에만 끝나는 경우보다, 퇴원 후 회복 단계까지 이어지는 경우도 많습니다.^^엔터^^
+퇴원 시점에는 부분 간병, 방문 간병 등 상황에 맞는 돌봄 형태를 고민해야 할 수 있습니다.^^엔터^^
+미리 이런 흐름을 알고 준비하면 갑작스러운 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^
+보호자가 선택할 수 있는 간병 방향을 이해하는 것이 중요합니다.^^엔터^^🔵 보호자를 위한 간병 준비의 정리^^엔터^^
+병원간병인을 구하는 과정은 ‘누군가를 소개받는 일’이 아니라, 상황에 맞는 선택을 해나가는 과정입니다.^^엔터^^
+큰사랑간병협회는 이 과정을 보호자 혼자 감당하지 않도록 체계적인 안내를 제공합니다.^^엔터^^
+갑작스러운 입원 앞에서 막막함을 느낀다면, 먼저 현재 상황을 정리하고 상담을 받아보는 것부터 시작해보세요.^^엔터^^
+준비된 안내는 보호자의 걱정을 덜고, 환자의 회복에 더 집중할 수 있도록 도와줍니다.^^엔터^^<<<전체 글 끝>>>
+collected_text <<<전체 글 시작>>>^^엔터^^[[<<병원입원 가족을 위한 병원간병인 준비 안내>>]]^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+병원에 상주하며 간병을 해야 하지만, 직장·가정·체력적인 한계로 모든 시간을 함께하기는 쉽지 않습니다.^^엔터^^
+‘당장 누가 간병을 해야 할까’, ‘믿고 맡길 수 있을까’라는 고민이 자연스럽게 뒤따릅니다.^^엔터^^
+이처럼 병원간병인이 필요한 순간은 대부분 준비되지 않은 상태에서 시작됩니다.^^엔터^^🔵 병원 환경에서 간병이 더 어려운 이유^^엔터^^
+병원은 집과 달리 의료진의 치료 일정, 검사 이동, 환자 상태 변화가 잦은 공간입니다.^^엔터^^
+수술 후 환자나 고령 환자의 경우 작은 움직임 하나에도 세심한 관찰과 도움이 필요합니다.^^엔터^^
+그래서 병원 간병은 단순한 돌봄을 넘어, 병원 환경에 익숙한 간병인의 역할이 중요해집니다.^^엔터^^
+보호자가 모든 과정을 혼자 감당하기에는 현실적인 어려움이 큽니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+지인을 통해 소개받거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 생길 수 있습니다.^^엔터^^
+경력은 충분한지, 병원 간병 경험이 있는지, 갑작스러운 상황에 잘 대처할 수 있는지 확인하기 어렵기 때문입니다.^^엔터^^
+또한 문제가 발생했을 때 누구에게 도움을 요청해야 하는지도 막막해질 수 있습니다.^^엔터^^
+이런 불안은 보호자의 심리적 부담을 더욱 키우게 됩니다.^^엔터^^🔵 큰사랑간병협회가 안내하는 병원간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 보호자의 상황을 먼저 충분히 듣는 상담부터 진행합니다.^^엔터^^
+환자의 상태, 입원 병원, 필요한 간병 시간과 기간을 파악한 뒤 병원 환경에 맞는 간병인을 연결합니다.^^엔터^^
+보호자는 복잡한 절차를 혼자 고민하기보다, 안내에 따라 간병 준비를 차분히 진행할 수 있습니다.^^엔터^^
+이 과정 자체가 보호자의 부담을 덜어주는 하나의 지원이 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려해야 하는 돌봄 계획^^엔터^^
+간병은 입원 기간에만 끝나는 경우보다, 퇴원 후 회복 단계까지 이어지는 경우도 많습니다.^^엔터^^
+퇴원 시점에는 부분 간병, 방문 간병 등 상황에 맞는 돌봄 형태를 고민해야 할 수 있습니다.^^엔터^^
+미리 이런 흐름을 알고 준비하면 갑작스러운 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^
+보호자가 선택할 수 있는 간병 방향을 이해하는 것이 중요합니다.^^엔터^^🔵 보호자를 위한 간병 준비의 정리^^엔터^^
+병원간병인을 구하는 과정은 ‘누군가를 소개받는 일’이 아니라, 상황에 맞는 선택을 해나가는 과정입니다.^^엔터^^
+큰사랑간병협회는 이 과정을 보호자 혼자 감당하지 않도록 체계적인 안내를 제공합니다.^^엔터^^
+갑작스러운 입원 앞에서 막막함을 느낀다면, 먼저 현재 상황을 정리하고 상담을 받아보는 것부터 시작해보세요.^^엔터^^
+준비된 안내는 보호자의 걱정을 덜고, 환자의 회복에 더 집중할 수 있도록 도와줍니다.^^엔터^^<<<전체 글 끝>>>
+matches2: 병원입원 가족을 위한 병원간병인 준비 안내
+text2: ^^엔터^^^^엔터^^🔵 갑작스러운 입원, 보호자가 마주하는 현실^^엔터^^
+예고 없이 찾아온 입원이나 수술 소식은 보호자에게 큰 부담으로 다가옵니다.^^엔터^^
+병원에 상주하며 간병을 해야 하지만, 직장·가정·체력적인 한계로 모든 시간을 함께하기는 쉽지 않습니다.^^엔터^^
+‘당장 누가 간병을 해야 할까’, ‘믿고 맡길 수 있을까’라는 고민이 자연스럽게 뒤따릅니다.^^엔터^^
+이처럼 병원간병인이 필요한 순간은 대부분 준비되지 않은 상태에서 시작됩니다.^^엔터^^🔵 병원 환경에서 간병이 더 어려운 이유^^엔터^^
+병원은 집과 달리 의료진의 치료 일정, 검사 이동, 환자 상태 변화가 잦은 공간입니다.^^엔터^^
+수술 후 환자나 고령 환자의 경우 작은 움직임 하나에도 세심한 관찰과 도움이 필요합니다.^^엔터^^
+그래서 병원 간병은 단순한 돌봄을 넘어, 병원 환경에 익숙한 간병인의 역할이 중요해집니다.^^엔터^^
+보호자가 모든 과정을 혼자 감당하기에는 현실적인 어려움이 큽니다.^^엔터^^🔵 개인적으로 간병인을 알아볼 때의 불안 요소^^엔터^^
+지인을 통해 소개받거나 개인적으로 간병인을 구하는 과정에서는 여러 걱정이 생길 수 있습니다.^^엔터^^
+경력은 충분한지, 병원 간병 경험이 있는지, 갑작스러운 상황에 잘 대처할 수 있는지 확인하기 어렵기 때문입니다.^^엔터^^
+또한 문제가 발생했을 때 누구에게 도움을 요청해야 하는지도 막막해질 수 있습니다.^^엔터^^
+이런 불안은 보호자의 심리적 부담을 더욱 키우게 됩니다.^^엔터^^🔵 큰사랑간병협회가 안내하는 병원간병인 연결 과정^^엔터^^
+큰사랑간병협회에서는 보호자의 상황을 먼저 충분히 듣는 상담부터 진행합니다.^^엔터^^
+환자의 상태, 입원 병원, 필요한 간병 시간과 기간을 파악한 뒤 병원 환경에 맞는 간병인을 연결합니다.^^엔터^^
+보호자는 복잡한 절차를 혼자 고민하기보다, 안내에 따라 간병 준비를 차분히 진행할 수 있습니다.^^엔터^^
+이 과정 자체가 보호자의 부담을 덜어주는 하나의 지원이 됩니다.^^엔터^^🔵 병원 간병 이후까지 고려해야 하는 돌봄 계획^^엔터^^
+간병은 입원 기간에만 끝나는 경우보다, 퇴원 후 회복 단계까지 이어지는 경우도 많습니다.^^엔터^^
+퇴원 시점에는 부분 간병, 방문 간병 등 상황에 맞는 돌봄 형태를 고민해야 할 수 있습니다.^^엔터^^
+미리 이런 흐름을 알고 준비하면 갑작스러운 변화에도 보다 안정적으로 대응할 수 있습니다.^^엔터^^
+보호자가 선택할 수 있는 간병 방향을 이해하는 것이 중요합니다.^^엔터^^🔵 보호자를 위한 간병 준비의 정리^^엔터^^
+병원간병인을 구하는 과정은 ‘누군가를 소개받는 일’이 아니라, 상황에 맞는 선택을 해나가는 과정입니다.^^엔터^^
+큰사랑간병협회는 이 과정을 보호자 혼자 감당하지 않도록 체계적인 안내를 제공합니다.^^엔터^^
+갑작스러운 입원 앞에서 막막함을 느낀다면, 먼저 현재 상황을 정리하고 상담을 받아보는 것부터 시작해보세요.^^엔터^^
+준비된 안내는 보호자의 걱정을 덜고, 환자의 회복에 더 집중할 수 있도록 도와줍니다.^^엔터^^
+check_word_length 0
+len(kkq) 1501
+외부 IP: 210.182.141.220
+ID_IMAGE ID13.png
+src_folder C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\클릭이미지
+destination C:\MyApp\images
+copied_paths ['C:\\MyApp\\images\\AA1.png', 'C:\\MyApp\\images\\AA2.png', 'C:\\MyApp\\images\\AA3.png', 'C:\\MyApp\\images\\AA4.png', 'C:\\MyApp\\images\\AA5.png', 'C:\\MyApp\\images\\AA6.png', 'C:\\MyApp\\images\\AA7.png', 'C:\\MyApp\\images\\AA8.PNG', 'C:\\MyApp\\images\\AA9.PNG', 'C:\\MyApp\\images\\AA10.PNG']
+copied_paths_ID ['C:\\MyApp\\images\\ID1.png', 'C:\\MyApp\\images\\ID2.PNG', 'C:\\MyApp\\images\\ID3.PNG', 'C:\\MyApp\\images\\ID4.PNG', 'C:\\MyApp\\images\\ID5.PNG', 'C:\\MyApp\\images\\ID6.PNG', 'C:\\MyApp\\images\\ID7.PNG', 'C:\\MyApp\\images\\ID8.PNG', 'C:\\MyApp\\images\\ID9.PNG', 'C:\\MyApp\\images\\ID10.PNG', 'C:\\MyApp\\images\\ID11.PNG', 'C:\\MyApp\\images\\ID12.PNG', 'C:\\MyApp\\images\\ID13.PNG', 'C:\\MyApp\\images\\ID14.PNG', 'C:\\MyApp\\images\\ID15.PNG', 'C:\\MyApp\\images\\ID16.PNG', 'C:\\MyApp\\images\\ID17.PNG', 'C:\\MyApp\\images\\ID18.PNG', 'C:\\MyApp\\images\\ID19.PNG', 'C:\\MyApp\\images\\ID20.PNG', 'C:\\MyApp\\images\\ID21.PNG', 'C:\\MyApp\\images\\ID22.PNG', 'C:\\MyApp\\images\\ID23.PNG', 'C:\\MyApp\\images\\ID24.PNG', 'C:\\MyApp\\images\\ID25.PNG', 'C:\\MyApp\\images\\ID26.PNG', 'C:\\MyApp\\images\\ID27.PNG', 'C:\\MyApp\\images\\ID28.PNG', 'C:\\MyApp\\images\\ID29.PNG', 'C:\\MyApp\\images\\ID30.PNG']
+[INFO] VPN 창 후보 선택: hwnd=198440, title='Main'
+[INFO] pywinauto 연결 성공: backend=uia
+[INFO] 활성화된 창: 'Main'
+아이피 찾기 전에 뒤로가기 버튼 누르기
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID13.PNG
+selected_path2 C:\MyApp\images\ID13.PNG
+[INFO] Main(hotVPN) 창 활성화 성공
+[INFO] 마우스 이동 완료 (1256, 474)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (1/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (2/3)
+<focus_hotvpn_and_scroll>[INFO] PageDown 눌렀습니다 (3/3)
+이미지 찾기 시도 시작: C:\MyApp\images\ID13.PNG
+[FOUND ↓] 1번째 시도에서 이미지 발견: Point(x=1356, y=794)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 459
+뒤로 넘어가기 470 
+selected_path None
+selected_path2 C:\MyApp\images\ID13.PNG
+selected_path2 C:\MyApp\images\ID13.PNG
+loc_ID 495 Point(x=1356, y=794)
+클릭 끝 _ ID 500
+확인 버튼 활성화? 510
+확인 버튼 활성화? 570
+접속해제 AA7를 찾지 못함
+---log checker---
+loc None
+loc_ID Point(x=1356, y=794)
+loc_GREEN None
+loc_GRAY None
+loc_LOGIN None
+loc_BacktoHOME None
+외부 IP: 210.182.141.220
+변경된 IP : 210.182.141.220
+check : ID13.png / 211.180.212.234 
+
+check : 15 / 15 
+
+check_ID_ip[excel_counter] 211.180.212.234
+newip 210.182.141.220
+0
+14시 58분 00초
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5faab0eb9f034219baaa28ba56a3efa4.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\3a1eb705f91b448f9e5801a9233e1424.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\51e4873032f94750b5a97fba906a7f9d.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
