@@ -1,0 +1,48 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\48c4bc8f34194150983027ab529c265e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\b0957c56ee7f47e4afa17198a3895fdc.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\c41ab4b4f63b404f845d26135a985b64.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 144
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+🔍 조건에 맞는 button 개수: 1
+
+[0] ----------
+text: close
+변경 로그 열기
+color: BLURPLE
+outerHTML:
+ <button color="BLURPLE" class="sc-e8425ea6-0 gLXNUV sc-5b7b0a78-3 eTBAUp"><i class="sc-95c4f607-0 grsLJu google-symbols sc-e8425ea6-1 kJJDGi" font-size="1rem" color="currentColor">close</i><span style="position: absolute; border: 0px; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; overflow-wrap: normal;">변경 로그 열기</span></button>
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\tt\Desktop\매크로\OneDrive_2025-12-04 카페\logfile.txt
