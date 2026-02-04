@@ -1,0 +1,66 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\35664b03e4df477fa0860c6eb001a5c2.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\7ea607aadebe4e7f9377191dcd984dea.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\56e6637f24a145649f609872f9d00110.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 142
+드라이버 업데이트 필요
+operate_check DB access----success!!
+chaeck_category cafe_information/naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT/tistory_GPT/tistory_VIP/NAVER_ID_MAKE/iamweb/naverShooping_traffic/captcha_voice/gisickin_GPTmac_addree_FREEcaptcha_solvercafe_information_GPT
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\922c418fe689452299e4b23045ecd675.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\49d37b264b2d4023b17c0a659cf9d640.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\leo9\AppData\Local\Temp\83ccc6e0c1d4450d853485ca456857f0.pyd
+Running main() from the .pyd file...
+Captured output: 142
+내 드라이버 버전 :: 142
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 142
+드라이버 업데이트 필요
+operate_check DB access----success!!
+chaeck_category cafe_information/naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT/tistory_GPT/tistory_VIP/NAVER_ID_MAKE/iamweb/naverShooping_traffic/captcha_voice/gisickin_GPTmac_addree_FREEcaptcha_solvercafe_information_GPT
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: E:\SynologyDrive\24 네이버 카페 정보성글\logfile.txt
