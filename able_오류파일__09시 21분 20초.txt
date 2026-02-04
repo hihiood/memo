@@ -1,0 +1,31 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\755b301bf1144ddd812f19fe6d7355a3.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\2d945b83bad34381be5cc962030504cc.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\122d1b39d34c46d6a607dec54c9f69fb.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+쿠키 적용 실패(labsfx): Message: 
+ 
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
