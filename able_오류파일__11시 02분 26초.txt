@@ -1,0 +1,3610 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\785bbd9eceaa409893a9aff7aded625d.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\c67ac0c4424745b783c21269f4a63f3a.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\7253dc62b2964a2694dc9f4b44ba29ca.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-02-04 10:46:12
+now: 2026-02-04 10:50:22.502506
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\89bcf73af9aa4bc7bcfbc3a0bfa1e8e5.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\17a8ec9cdc984108baeb77d95cf8872f.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\dae1f62caa4941ca8c8c3f715a46f44d.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+title 교통사고로 간병이 필요할때
+title 사고로 입원한 경우 간병보험서류 발급 방법
+title 한도병원 수술 간병인업체
+title 나누리병원 수술 간병인업체
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+1    사고로 입원한 경우 간병이 필요한 상황을 설명하고,\n케어매치에서 제공하는 간병·보...
+2    사고로 입원한 경우 간병이 필요한 상황을 설명하고,\n케어매치에서 제공하는 간병·보...
+3    케어매치는 간병인 배상책임보험에 의무가입되어있다\n법률자문회사를 통해 법률상담서비스...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+1    없음
+2    없음
+3    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+1    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+2    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+3    병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+2    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+3    C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    tel:1555-0801
+1    tel:1555-0801
+2    tel:1555-0801
+3    tel:1555-0801
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+1    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+2    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+3    https://youtube.com/shorts/uzmHIUZjlUc?si=g8Xw...
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+1    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+2    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+3    병원간병인/간병인/간병인업체/간병인구인구직/간병인비용/개인간병비/24시간간병인/24...
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    None
+1    None
+2    None
+3    None
+dtype: object
+엑셀 개수 4
+지금 아이디 :
+excel_counter 0
+carematch66
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고로 간병이 필요할때 교통사고로 간병이 필요할때
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident', '교통사고로 간병이 필요할때 교통사고로 간병이 필요할때', 'ko']
+When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident
+When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Realistic photograph of a cute otter zebra mouse in a field at sunset, tall grass, macro 35mm film
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고로 간병이 필요할때 교통사고로 간병이 필요할때
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident', '교통사고로 간병이 필요할때 교통사고로 간병이 필요할때', 'ko']
+When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident
+When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Tranquil secret garden flourishing in a hidden pocket of a bustling city, tall stone walls, ivy-covered, stone fountain in the center, overgrown greenery, vibrant pops of red, yellow, and purple blooms, light cyan and dark teal background
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고로 간병이 필요할때 교통사고로 간병이 필요할때
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident', '교통사고로 간병이 필요할때 교통사고로 간병이 필요할때', 'ko']
+When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident
+When you need nursing care due to a traffic accident When you need nursing care due to a traffic accident
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Realistic photograph of a cute otter zebra mouse in a field at sunset, tall grass, macro 35mm film
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 케어매치는 간병인 배상책임보험에 의무가입되어있다법률자문회사를 통해 법률상담서비스를 제공하고있다간병보험청구를 위한 보험서류 발급이 가능하다
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 케어매치는 간병인 배상책임보험에 의무적으로 가입되어 있으며, 이를 통해 간병인의 배상책임에 대한 보호가 제공됩니다. 간병인 배상책임보험은 간병인들이 제공하는 서비스와 관련하여 발생할 수 있는 사고나 실수로 인한 피해를 보상하는 보험입니다. 이 보험에 가입함으로써, 간병인의 실수나 과실로 인해 피해를 입은 사람들이 법적으로 보호받을 수 있습니다.^^엔터^^또한, 케어매치는 법률자문회사를 통해 법률 상담 서비스를 제공하고 있습니다. 이를 통해 간병인과 관련된 법적 문제나 분쟁에 대해 전문가의 조언을 받을 수 있으며, 간병인 및 환자들이 법적인 문제를 해결하는 데 도움을 받을 수 있습니다.^^엔터^^보험 청구를 위한 보험서류 발급도 가능합니다. 간병인과 환자들이 보험금을 청구하기 위해 필요한 서류를 발급받을 수 있으며, 이를 통해 보험금 청구 과정을 원활하게 진행할 수 있습니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+케어매치는 간병인 배상책임보험에 의무적으로 가입되어 있으며, 이를 통해 간병인의 배상책임에 대한 보호가 제공됩니다.간병인 배상책임보험은 간병인들이 제공하는 서비스와 관련하여 발생할 수 있는 사고나 실수로 인한 피해를 보상하는 보험입니다.이 보험에 가입함으로써, 간병인의 실수나 과실로 인해 피해를 입은 사람들이 법적으로 보호받을 수 있습니다.
+===== B 영역 =====
+^^엔터^^또한, 케어매치는 법률자문회사를 통해 법률 상담 서비스를 제공하고 있습니다.이를 통해 간병인과 관련된 법적 문제나 분쟁에 대해 전문가의 조언을 받을 수 있으며, 간병인 및 환자들이 법적인 문제를 해결하는 데 도움을 받을 수 있습니다.^^엔터^^보험 청구를 위한 보험서류 발급도 가능합니다.간병인과 환자들이 보험금을 청구하기 위해 필요한 서류를 발급받을 수 있으며, 이를 통해 보험금 청구 과정을 원활하게 진행할 수 있습니다.
+collected_text 케어매치는 간병인 배상책임보험에 의무적으로 가입되어 있으며, 이를 통해 간병인의 배상책임에 대한 보호가 제공됩니다. 간병인 배상책임보험은 간병인들이 제공하는 서비스와 관련하여 발생할 수 있는 사고나 실수로 인한 피해를 보상하는 보험입니다. 이 보험에 가입함으로써, 간병인의 실수나 과실로 인해 피해를 입은 사람들이 법적으로 보호받을 수 있습니다.^^엔터^^또한, 케어매치는 법률자문회사를 통해 법률 상담 서비스를 제공하고 있습니다. 이를 통해 간병인과 관련된 법적 문제나 분쟁에 대해 전문가의 조언을 받을 수 있으며, 간병인 및 환자들이 법적인 문제를 해결하는 데 도움을 받을 수 있습니다.^^엔터^^보험 청구를 위한 보험서류 발급도 가능합니다. 간병인과 환자들이 보험금을 청구하기 위해 필요한 서류를 발급받을 수 있으며, 이를 통해 보험금 청구 과정을 원활하게 진행할 수 있습니다.
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 케어매치는 간병인 배상책임보험에 의무가입되어있다법률자문회사를 통해 법률상담서비스를 제공하고있다간병보험청구를 위한 보험서류 발급이 가능하다
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 케어매치는 간병인 배상책임보험에 의무 가입되어 있고, 법률자문회사를 통해 법률 상담 서비스를 제공하며, 간병보험 청구를 위한 보험 서류 발급이 가능한 서비스입니다. 각 부분을 좀 더 세부적으로 설명드리겠습니다.^^엔터^^간병인 배상책임보험 의무 가입:^^엔터^^케어매치는 간병인이 업무를 수행하는 동안 발생할 수 있는 사고나 손해에 대해 보호하기 위해 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병인이 제공하는 서비스로 인해 발생할 수 있는 법적 책임을 보호하는 보험으로, 이용자가 안심하고 서비스를 받을 수 있도록 도와줍니다.^^엔터^^법률 상담 서비스 제공:^^엔터^^케어매치는 법률자문회사와 협력하여 법률 상담 서비스를 제공합니다. 이 서비스는 간병인과 관련된 법적 문제나 분쟁에 대한 조언을 필요로 하는 사람들에게 유용합니다. 예를 들어, 간병인의 업무 중 발생할 수 있는 법적 책임 문제나 기타 관련 법률 상담이 가능합니다.^^엔터^^간병보험 청구를 위한 보험 서류 발급:^^엔터^^간병보험 청구를 위해 필요한 보험 서류를 발급할 수 있는 서비스도 제공됩니다. 보험금 청구 시 필요한 서류나 증빙 자료가 필요한 경우, 케어매치에서 제공하는 서류를 통해 간병보험을 청구할 수 있도록 지원합니다.^^엔터^^이러한 서비스들은 간병인과 사용자 모두에게 법적, 재정적 안정감을 제공하며, 간병 서비스의 품질과 신뢰성을 높이는 데 중요한 역할을 합니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+케어매치는 간병인 배상책임보험에 의무 가입되어 있고, 법률자문회사를 통해 법률 상담 서비스를 제공하며, 간병보험 청구를 위한 보험 서류 발급이 가능한 서비스입니다.각 부분을 좀 더 세부적으로 설명드리겠습니다.^^엔터^^간병인 배상책임보험 의무 가입:^^엔터^^케어매치는 간병인이 업무를 수행하는 동안 발생할 수 있는 사고나 손해에 대해 보호하기 위해 간병인 배상책임보험에 의무적으로 가입되어 있습니다.이는 간병인이 제공하는 서비스로 인해 발생할 수 있는 법적 책임을 보호하는 보험으로, 이용자가 안심하고 서비스를 받을 수 있도록 도와줍니다.^^엔터^^법률 상담 서비스 제공:^^엔터^^케어매치는 법률자문회사와 협력하여 법률 상담 서비스를 제공합니다.
+===== B 영역 =====
+이 서비스는 간병인과 관련된 법적 문제나 분쟁에 대한 조언을 필요로 하는 사람들에게 유용합니다.예를 들어, 간병인의 업무 중 발생할 수 있는 법적 책임 문제나 기타 관련 법률 상담이 가능합니다.^^엔터^^간병보험 청구를 위한 보험 서류 발급:^^엔터^^간병보험 청구를 위해 필요한 보험 서류를 발급할 수 있는 서비스도 제공됩니다.보험금 청구 시 필요한 서류나 증빙 자료가 필요한 경우, 케어매치에서 제공하는 서류를 통해 간병보험을 청구할 수 있도록 지원합니다.^^엔터^^이러한 서비스들은 간병인과 사용자 모두에게 법적, 재정적 안정감을 제공하며, 간병 서비스의 품질과 신뢰성을 높이는 데 중요한 역할을 합니다.
+collected_text 케어매치는 간병인 배상책임보험에 의무 가입되어 있고, 법률자문회사를 통해 법률 상담 서비스를 제공하며, 간병보험 청구를 위한 보험 서류 발급이 가능한 서비스입니다. 각 부분을 좀 더 세부적으로 설명드리겠습니다.^^엔터^^간병인 배상책임보험 의무 가입:^^엔터^^케어매치는 간병인이 업무를 수행하는 동안 발생할 수 있는 사고나 손해에 대해 보호하기 위해 간병인 배상책임보험에 의무적으로 가입되어 있습니다. 이는 간병인이 제공하는 서비스로 인해 발생할 수 있는 법적 책임을 보호하는 보험으로, 이용자가 안심하고 서비스를 받을 수 있도록 도와줍니다.^^엔터^^법률 상담 서비스 제공:^^엔터^^케어매치는 법률자문회사와 협력하여 법률 상담 서비스를 제공합니다. 이 서비스는 간병인과 관련된 법적 문제나 분쟁에 대한 조언을 필요로 하는 사람들에게 유용합니다. 예를 들어, 간병인의 업무 중 발생할 수 있는 법적 책임 문제나 기타 관련 법률 상담이 가능합니다.^^엔터^^간병보험 청구를 위한 보험 서류 발급:^^엔터^^간병보험 청구를 위해 필요한 보험 서류를 발급할 수 있는 서비스도 제공됩니다. 보험금 청구 시 필요한 서류나 증빙 자료가 필요한 경우, 케어매치에서 제공하는 서류를 통해 간병보험을 청구할 수 있도록 지원합니다.^^엔터^^이러한 서비스들은 간병인과 사용자 모두에게 법적, 재정적 안정감을 제공하며, 간병 서비스의 품질과 신뢰성을 높이는 데 중요한 역할을 합니다.
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 케어매치는 간병인 배상책임보험에 의무가입되어있다법률자문회사를 통해 법률상담서비스를 제공하고있다간병보험청구를 위한 보험서류 발급이 가능하다
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 케어매치(CareMatch)는 간병인 배상책임보험 의무가입을 통해 간병인들이 제공하는 서비스에 대해 보험 보장을 받을 수 있도록 하고 있습니다. 간병인 배상책임보험은 간병인이 서비스 중 발생할 수 있는 사고나 실수로 인한 피해에 대해 보호하는 보험으로, 간병인과 이용자 모두의 안전을 보장합니다.^^엔터^^또한, 케어매치는 법률자문회사를 통해 법률 상담 서비스를 제공하며, 간병인과 관련된 법적 문제나 보험 청구 절차에 대한 조언을 받을 수 있습니다. 이 서비스를 통해 간병인들은 더 정확하고 원활한 보험 청구를 진행할 수 있으며, 필요한 보험 서류 발급도 가능합니다.^^엔터^^간병 보험 청구를 위한 서류 발급 서비스는 간병인들이 청구 절차를 원활하게 처리할 수 있도록 돕기 위해 제공되며, 필요한 서류는 케어매치를 통해 발급받을 수 있습니다. 이를 통해 간병인은 간병 보험의 혜택을 적시에 받을 수 있게 됩니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+케어매치(CareMatch)는 간병인 배상책임보험 의무가입을 통해 간병인들이 제공하는 서비스에 대해 보험 보장을 받을 수 있도록 하고 있습니다.간병인 배상책임보험은 간병인이 서비스 중 발생할 수 있는 사고나 실수로 인한 피해에 대해 보호하는 보험으로, 간병인과 이용자 모두의 안전을 보장합니다.^^엔터^^또한, 케어매치는 법률자문회사를 통해 법률 상담 서비스를 제공하며, 간병인과 관련된 법적 문제나 보험 청구 절차에 대한 조언을 받을 수 있습니다.
+===== B 영역 =====
+이 서비스를 통해 간병인들은 더 정확하고 원활한 보험 청구를 진행할 수 있으며, 필요한 보험 서류 발급도 가능합니다.^^엔터^^간병 보험 청구를 위한 서류 발급 서비스는 간병인들이 청구 절차를 원활하게 처리할 수 있도록 돕기 위해 제공되며, 필요한 서류는 케어매치를 통해 발급받을 수 있습니다.이를 통해 간병인은 간병 보험의 혜택을 적시에 받을 수 있게 됩니다.
+collected_text 케어매치(CareMatch)는 간병인 배상책임보험 의무가입을 통해 간병인들이 제공하는 서비스에 대해 보험 보장을 받을 수 있도록 하고 있습니다. 간병인 배상책임보험은 간병인이 서비스 중 발생할 수 있는 사고나 실수로 인한 피해에 대해 보호하는 보험으로, 간병인과 이용자 모두의 안전을 보장합니다.^^엔터^^또한, 케어매치는 법률자문회사를 통해 법률 상담 서비스를 제공하며, 간병인과 관련된 법적 문제나 보험 청구 절차에 대한 조언을 받을 수 있습니다. 이 서비스를 통해 간병인들은 더 정확하고 원활한 보험 청구를 진행할 수 있으며, 필요한 보험 서류 발급도 가능합니다.^^엔터^^간병 보험 청구를 위한 서류 발급 서비스는 간병인들이 청구 절차를 원활하게 처리할 수 있도록 돕기 위해 제공되며, 필요한 서류는 케어매치를 통해 발급받을 수 있습니다. 이를 통해 간병인은 간병 보험의 혜택을 적시에 받을 수 있게 됩니다.
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 케어매치는 간병인 배상책임보험에 의무가입되어있다법률자문회사를 통해 법률상담서비스를 제공하고있다간병보험청구를 위한 보험서류 발급이 가능하다
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text "케어매치"라는 서비스나 플랫폼에 대한 구체적인 정보가 없다면 일반적으로 이해되는 내용에 대해서 말씀드리겠습니다.^^엔터^^간병인 배상책임보험 의무 가입:^^엔터^^
+간병인들이 제공하는 서비스에는 간병인의 책임을 보호하기 위해 배상책임보험에 의무 가입하는 경우가 많습니다. 이는 간병인이 제공하는 서비스 중 발생할 수 있는 사고나 피해에 대해 간병인이나 서비스 제공자가 법적 책임을 질 때 보험이 이를 보장해줍니다. 만약 간병인이 이 보험에 가입하지 않으면, 환자나 그 가족이 피해를 입었을 때 보상을 받기 어려울 수 있습니다.^^엔터^^법률자문 회사의 법률 상담 서비스:^^엔터^^
+법률자문 회사는 간병인 또는 간병 서비스 제공자에게 법적 문제에 대한 상담을 제공하는 회사입니다. 이들은 간병 서비스와 관련된 법률 문제나 규제, 배상책임 등에 대한 법률적 조언을 제공하며, 때로는 보험청구나 분쟁 해결을 도와줄 수 있습니다.^^엔터^^간병 보험청구를 위한 보험 서류 발급:^^엔터^^
+간병인 배상책임보험을 통해 보험금을 청구하려면 필요한 서류들이 있습니다. 이 서류들은 보험 청구 절차를 원활하게 진행하기 위해서 필수적이며, 간병인이 소속된 보험 회사나 간병 서비스 제공자가 발급할 수 있습니다. 법률자문 회사나 관련 기관은 이러한 서류의 발급을 돕고, 올바른 절차와 양식으로 보험 청구를 할 수 있도록 지원할 수 있습니다.^^엔터^^이와 관련된 추가적인 정보나 법률적 조언을 원하시면, 해당 법률자문회사나 보험사와 상담하는 것이 좋습니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+"케어매치"라는 서비스나 플랫폼에 대한 구체적인 정보가 없다면 일반적으로 이해되는 내용에 대해서 말씀드리겠습니다.^^엔터^^간병인 배상책임보험 의무 가입:^^엔터^^
+간병인들이 제공하는 서비스에는 간병인의 책임을 보호하기 위해 배상책임보험에 의무 가입하는 경우가 많습니다.이는 간병인이 제공하는 서비스 중 발생할 수 있는 사고나 피해에 대해 간병인이나 서비스 제공자가 법적 책임을 질 때 보험이 이를 보장해줍니다.만약 간병인이 이 보험에 가입하지 않으면, 환자나 그 가족이 피해를 입었을 때 보상을 받기 어려울 수 있습니다.^^엔터^^법률자문 회사의 법률 상담 서비스:^^엔터^^
+법률자문 회사는 간병인 또는 간병 서비스 제공자에게 법적 문제에 대한 상담을 제공하는 회사입니다.
+===== B 영역 =====
+이들은 간병 서비스와 관련된 법률 문제나 규제, 배상책임 등에 대한 법률적 조언을 제공하며, 때로는 보험청구나 분쟁 해결을 도와줄 수 있습니다.^^엔터^^간병 보험청구를 위한 보험 서류 발급:^^엔터^^
+간병인 배상책임보험을 통해 보험금을 청구하려면 필요한 서류들이 있습니다.이 서류들은 보험 청구 절차를 원활하게 진행하기 위해서 필수적이며, 간병인이 소속된 보험 회사나 간병 서비스 제공자가 발급할 수 있습니다.법률자문 회사나 관련 기관은 이러한 서류의 발급을 돕고, 올바른 절차와 양식으로 보험 청구를 할 수 있도록 지원할 수 있습니다.^^엔터^^이와 관련된 추가적인 정보나 법률적 조언을 원하시면, 해당 법률자문회사나 보험사와 상담하는 것이 좋습니다.
+collected_text "케어매치"라는 서비스나 플랫폼에 대한 구체적인 정보가 없다면 일반적으로 이해되는 내용에 대해서 말씀드리겠습니다.^^엔터^^간병인 배상책임보험 의무 가입:^^엔터^^
+간병인들이 제공하는 서비스에는 간병인의 책임을 보호하기 위해 배상책임보험에 의무 가입하는 경우가 많습니다. 이는 간병인이 제공하는 서비스 중 발생할 수 있는 사고나 피해에 대해 간병인이나 서비스 제공자가 법적 책임을 질 때 보험이 이를 보장해줍니다. 만약 간병인이 이 보험에 가입하지 않으면, 환자나 그 가족이 피해를 입었을 때 보상을 받기 어려울 수 있습니다.^^엔터^^법률자문 회사의 법률 상담 서비스:^^엔터^^
+법률자문 회사는 간병인 또는 간병 서비스 제공자에게 법적 문제에 대한 상담을 제공하는 회사입니다. 이들은 간병 서비스와 관련된 법률 문제나 규제, 배상책임 등에 대한 법률적 조언을 제공하며, 때로는 보험청구나 분쟁 해결을 도와줄 수 있습니다.^^엔터^^간병 보험청구를 위한 보험 서류 발급:^^엔터^^
+간병인 배상책임보험을 통해 보험금을 청구하려면 필요한 서류들이 있습니다. 이 서류들은 보험 청구 절차를 원활하게 진행하기 위해서 필수적이며, 간병인이 소속된 보험 회사나 간병 서비스 제공자가 발급할 수 있습니다. 법률자문 회사나 관련 기관은 이러한 서류의 발급을 돕고, 올바른 절차와 양식으로 보험 청구를 할 수 있도록 지원할 수 있습니다.^^엔터^^이와 관련된 추가적인 정보나 법률적 조언을 원하시면, 해당 법률자문회사나 보험사와 상담하는 것이 좋습니다.
+----------------------------import --------
+에러메세지
+----------------------------import --------
+에러메세지 main
+'>' not supported between instances of 'str' and 'int'
+지금 아이디 :
+excel_counter 1
+carematch66
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  사고로 입원한 경우 간병보험서류 발급 방법 사고로 입원한 경우 간병보험서류 발급 방법
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident', '사고로 입원한 경우 간병보험서류 발급 방법 사고로 입원한 경우 간병보험서류 발급 방법', 'ko']
+How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident
+How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of a meerkat wearing a monocle and a top hat, in the style of a vintage portrait painting, dramatic lighting, soft colors, use of brown and beige
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  사고로 입원한 경우 간병보험서류 발급 방법 사고로 입원한 경우 간병보험서류 발급 방법
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident', '사고로 입원한 경우 간병보험서류 발급 방법 사고로 입원한 경우 간병보험서류 발급 방법', 'ko']
+How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident
+How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Underwater, coral reefs with schools of fish swimming, bioluminescence, high dynamic range
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  사고로 입원한 경우 간병보험서류 발급 방법 사고로 입원한 경우 간병보험서류 발급 방법
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident', '사고로 입원한 경우 간병보험서류 발급 방법 사고로 입원한 경우 간병보험서류 발급 방법', 'ko']
+How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident
+How to issue nursing insurance documents when hospitalized due to an accident How to issue nursing insurance documents when hospitalized due to an accident
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Squishy dog toy bagel with fluffy cream cheese
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 병원에 입원한 동양인환자와 동양인간병인이 간병하는 모습
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 사고로 입원한 경우 간병이 필요한 상황을 설명하고,케어매치에서 제공하는 간병·보험·법률 지원 서비스를 안내하는 글입니다.글에서는 사고 유형과 관계없이 입원 후 회복 과정에서간병이 필요한 경우가 많다는 점을 먼저 설명합니다.이후 케어매치에서는 간병보험청구를 위해 필요한 보험서류를보험사 양식에 맞춰 발급 지원하고 있다는 점을 안내합니다.또한 법률자문회사와 연계된 법률상담 서비스를 제공하여,사고 이후 발생할 수 있는 분쟁이나 보험 절차와 관련된기본적인 법률상담을 받을 수 있다는 내용
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 사고로 입원한 경우, 사고 유형과 관계없이 많은 환자들이 회복 과정에서 간병이 필요하게 됩니다. 사고 후 입원 치료를 받는 동안, 신체적인 회복뿐만 아니라 정신적인 안정도 중요합니다. 이때 적절한 간병 서비스가 제공된다면 환자의 빠른 회복을 돕는 데 큰 도움이 됩니다. 사고로 인한 입원은 때로는 예상보다 긴 기간이 필요할 수 있기 때문에, 이러한 시기에 전문적인 간병인이 필요한 상황이 자주 발생합니다.^^엔터^^입원 환자는 치료가 끝난 후에도 일상 생활에 복귀하기까지 시간이 걸릴 수 있습니다. 이동이나 일상적인 활동을 지원할 수 있는 간병인의 도움을 받으면, 환자가 보다 빠르고 안전하게 회복할 수 있습니다. 또한, 간병인은 약물 관리, 식사 보조, 개인 위생 관리 등 다양한 역할을 수행하여 환자가 안정된 환경에서 회복할 수 있도록 돕습니다.^^엔터^^이러한 간병 서비스를 필요로 하는 환자들을 위해 케어매치는 여러 가지 지원 서비스를 제공합니다.^^엔터^^첫째, 케어매치는 간병보험청구를 위한 필수 보험 서류 발급을 지원합니다. 사고로 입원한 후, 보험을 통해 간병 비용을 청구하려면 보험사에서 요구하는 서류가 필요합니다. 케어매치는 이러한 서류를 정확히 작성하고 보험사 양식에 맞게 발급하는 과정을 도와드립니다. 이를 통해 보험 청구가 원활하게 이루어질 수 있도록 지원합니다.^^엔터^^둘째, 법률상담 서비스도 제공하고 있습니다. 사고로 인한 입원 후에는 여러 가지 법적 문제가 발생할 수 있습니다. 예를 들어, 보험 청구 과정에서 발생하는 분쟁이나, 사고와 관련된 법적인 책임을 두고 문제가 생길 수 있습니다. 케어매치는 법률 자문 회사와 협력하여, 사고 이후 발생할 수 있는 법적 문제에 대한 기본적인 법률 상담을 제공하고 있습니다. 이를 통해 법률적인 불확실성이나 문제에 대한 도움을 받을 수 있습니다.^^엔터^^케어매치의 간병, 보험, 법률 지원 서비스를 통해 사고 후 필요한 각종 지원을 원활하게 받을 수 있습니다. 사고로 인해 겪을 수 있는 여러 어려움에 대해 신속하고 정확한 지원을 받으면서, 환자는 치료에 전념할 수 있습니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+사고로 입원한 경우, 사고 유형과 관계없이 많은 환자들이 회복 과정에서 간병이 필요하게 됩니다.사고 후 입원 치료를 받는 동안, 신체적인 회복뿐만 아니라 정신적인 안정도 중요합니다.이때 적절한 간병 서비스가 제공된다면 환자의 빠른 회복을 돕는 데 큰 도움이 됩니다.사고로 인한 입원은 때로는 예상보다 긴 기간이 필요할 수 있기 때문에, 이러한 시기에 전문적인 간병인이 필요한 상황이 자주 발생합니다.^^엔터^^입원 환자는 치료가 끝난 후에도 일상 생활에 복귀하기까지 시간이 걸릴 수 있습니다.이동이나 일상적인 활동을 지원할 수 있는 간병인의 도움을 받으면, 환자가 보다 빠르고 안전하게 회복할 수 있습니다.또한, 간병인은 약물 관리, 식사 보조, 개인 위생 관리 등 다양한 역할을 수행하여 환자가 안정된 환경에서 회복할 수 있도록 돕습니다.^^엔터^^이러한 간병 서비스를 필요로 하는 환자들을 위해 케어매치는 여러 가지 지원 서비스를 제공합니다.^^엔터^^첫째, 케어매치는 간병보험청구를 위한 필수 보험 서류 발급을 지원합니다.
+===== B 영역 =====
+사고로 입원한 후, 보험을 통해 간병 비용을 청구하려면 보험사에서 요구하는 서류가 필요합니다.케어매치는 이러한 서류를 정확히 작성하고 보험사 양식에 맞게 발급하는 과정을 도와드립니다.이를 통해 보험 청구가 원활하게 이루어질 수 있도록 지원합니다.^^엔터^^둘째, 법률상담 서비스도 제공하고 있습니다.사고로 인한 입원 후에는 여러 가지 법적 문제가 발생할 수 있습니다.예를 들어, 보험 청구 과정에서 발생하는 분쟁이나, 사고와 관련된 법적인 책임을 두고 문제가 생길 수 있습니다.케어매치는 법률 자문 회사와 협력하여, 사고 이후 발생할 수 있는 법적 문제에 대한 기본적인 법률 상담을 제공하고 있습니다.이를 통해 법률적인 불확실성이나 문제에 대한 도움을 받을 수 있습니다.^^엔터^^케어매치의 간병, 보험, 법률 지원 서비스를 통해 사고 후 필요한 각종 지원을 원활하게 받을 수 있습니다.사고로 인해 겪을 수 있는 여러 어려움에 대해 신속하고 정확한 지원을 받으면서, 환자는 치료에 전념할 수 있습니다.
+collected_text 사고로 입원한 경우, 사고 유형과 관계없이 많은 환자들이 회복 과정에서 간병이 필요하게 됩니다. 사고 후 입원 치료를 받는 동안, 신체적인 회복뿐만 아니라 정신적인 안정도 중요합니다. 이때 적절한 간병 서비스가 제공된다면 환자의 빠른 회복을 돕는 데 큰 도움이 됩니다. 사고로 인한 입원은 때로는 예상보다 긴 기간이 필요할 수 있기 때문에, 이러한 시기에 전문적인 간병인이 필요한 상황이 자주 발생합니다.^^엔터^^입원 환자는 치료가 끝난 후에도 일상 생활에 복귀하기까지 시간이 걸릴 수 있습니다. 이동이나 일상적인 활동을 지원할 수 있는 간병인의 도움을 받으면, 환자가 보다 빠르고 안전하게 회복할 수 있습니다. 또한, 간병인은 약물 관리, 식사 보조, 개인 위생 관리 등 다양한 역할을 수행하여 환자가 안정된 환경에서 회복할 수 있도록 돕습니다.^^엔터^^이러한 간병 서비스를 필요로 하는 환자들을 위해 케어매치는 여러 가지 지원 서비스를 제공합니다.^^엔터^^첫째, 케어매치는 간병보험청구를 위한 필수 보험 서류 발급을 지원합니다. 사고로 입원한 후, 보험을 통해 간병 비용을 청구하려면 보험사에서 요구하는 서류가 필요합니다. 케어매치는 이러한 서류를 정확히 작성하고 보험사 양식에 맞게 발급하는 과정을 도와드립니다. 이를 통해 보험 청구가 원활하게 이루어질 수 있도록 지원합니다.^^엔터^^둘째, 법률상담 서비스도 제공하고 있습니다. 사고로 인한 입원 후에는 여러 가지 법적 문제가 발생할 수 있습니다. 예를 들어, 보험 청구 과정에서 발생하는 분쟁이나, 사고와 관련된 법적인 책임을 두고 문제가 생길 수 있습니다. 케어매치는 법률 자문 회사와 협력하여, 사고 이후 발생할 수 있는 법적 문제에 대한 기본적인 법률 상담을 제공하고 있습니다. 이를 통해 법률적인 불확실성이나 문제에 대한 도움을 받을 수 있습니다.^^엔터^^케어매치의 간병, 보험, 법률 지원 서비스를 통해 사고 후 필요한 각종 지원을 원활하게 받을 수 있습니다. 사고로 인해 겪을 수 있는 여러 어려움에 대해 신속하고 정확한 지원을 받으면서, 환자는 치료에 전념할 수 있습니다.
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 사고로 입원한 경우 간병이 필요한 상황을 설명하고,케어매치에서 제공하는 간병·보험·법률 지원 서비스를 안내하는 글입니다.글에서는 사고 유형과 관계없이 입원 후 회복 과정에서간병이 필요한 경우가 많다는 점을 먼저 설명합니다.이후 케어매치에서는 간병보험청구를 위해 필요한 보험서류를보험사 양식에 맞춰 발급 지원하고 있다는 점을 안내합니다.또한 법률자문회사와 연계된 법률상담 서비스를 제공하여,사고 이후 발생할 수 있는 분쟁이나 보험 절차와 관련된기본적인 법률상담을 받을 수 있다는 내용
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 사고로 입원한 경우, 회복 과정에서 간병이 필요한 상황은 매우 흔합니다. 교통사고나 산업재해 등 사고의 유형에 관계없이 신체적, 정신적 회복이 어려운 경우, 환자 본인이나 가족이 적절한 간병을 받는 것이 필수적입니다. 입원 초기에는 병원에서 제공하는 의료 서비스로 충분히 관리될 수 있지만, 점차적으로 지속적인 간호나 일상적인 돌봄이 필요해질 수 있습니다. 특히, 사고 후 치료가 길어질 경우, 환자는 일상적인 활동에 어려움을 겪게 되고, 이때 간병인의 도움이 중요한 역할을 하게 됩니다. 이러한 상황에서는 전문적인 간병인이 제공하는 지속적인 돌봄이 회복을 돕는 데 큰 도움이 됩니다.^^엔터^^케어매치는 사고로 입원한 환자들에게 다양한 간병, 보험, 법률 지원 서비스를 제공하여, 환자와 가족들이 더 나은 회복 환경을 구축할 수 있도록 돕고 있습니다. 특히, 사고로 인한 부상이나 치료로 입원한 경우, 여러 가지 행정적인 절차가 복잡하게 얽힐 수 있습니다. 이때 케어매치는 다음과 같은 중요한 지원을 제공합니다.^^엔터^^간병 서비스^^엔터^^
+케어매치는 환자가 필요한 간병 서비스를 맞춤형으로 제공합니다. 사고 후 회복을 위한 간병인 지원을 통해, 환자는 전문가의 도움을 받으며 일상적인 생활을 관리할 수 있습니다. 이는 환자가 빠르게 회복할 수 있도록 돕는 중요한 서비스입니다.^^엔터^^보험 서류 발급 지원^^엔터^^
+사고 후에는 보험 청구가 필수적입니다. 보험사에 제출해야 할 서류나 필요한 양식을 빠짐없이 준비하는 일이 어려울 수 있습니다. 케어매치는 사고로 인한 보험 청구 절차에서 필요한 보험 서류를 보험사 양식에 맞춰 발급해주는 서비스를 제공합니다. 이를 통해 보험사와의 절차가 원활하게 진행될 수 있도록 도와줍니다.^^엔터^^법률 상담 서비스^^엔터^^
+사고 이후 발생할 수 있는 법률적인 문제나 분쟁은 매우 중요한 사항입니다. 특히 보험 청구와 관련된 절차나 사고 책임에 대한 문제가 있을 경우, 법적인 자문이 필요할 수 있습니다. 케어매치는 법률 자문 회사와 연계하여 기본적인 법률 상담 서비스를 제공합니다. 이를 통해 사고 후 발생할 수 있는 분쟁을 예방하고, 필요한 법적 절차에 대해 올바른 정보를 받을 수 있습니다.^^엔터^^케어매치는 간병인 지원부터 보험 서류 발급, 법률 상담까지 종합적인 지원을 통해 사고 후 회복을 돕는 데 큰 역할을 합니다. 사고로 인한 어려운 상황에서 환자와 가족들이 보다 나은 지원을 받을 수 있도록 돕는 케어매치의 서비스는, 환자가 더 빨리 일상으로 돌아갈 수 있도록 중요한 역할을 합니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+사고로 입원한 경우, 회복 과정에서 간병이 필요한 상황은 매우 흔합니다.교통사고나 산업재해 등 사고의 유형에 관계없이 신체적, 정신적 회복이 어려운 경우, 환자 본인이나 가족이 적절한 간병을 받는 것이 필수적입니다.입원 초기에는 병원에서 제공하는 의료 서비스로 충분히 관리될 수 있지만, 점차적으로 지속적인 간호나 일상적인 돌봄이 필요해질 수 있습니다.특히, 사고 후 치료가 길어질 경우, 환자는 일상적인 활동에 어려움을 겪게 되고, 이때 간병인의 도움이 중요한 역할을 하게 됩니다.이러한 상황에서는 전문적인 간병인이 제공하는 지속적인 돌봄이 회복을 돕는 데 큰 도움이 됩니다.^^엔터^^케어매치는 사고로 입원한 환자들에게 다양한 간병, 보험, 법률 지원 서비스를 제공하여, 환자와 가족들이 더 나은 회복 환경을 구축할 수 있도록 돕고 있습니다.특히, 사고로 인한 부상이나 치료로 입원한 경우, 여러 가지 행정적인 절차가 복잡하게 얽힐 수 있습니다.이때 케어매치는 다음과 같은 중요한 지원을 제공합니다.^^엔터^^간병 서비스^^엔터^^
+케어매치는 환자가 필요한 간병 서비스를 맞춤형으로 제공합니다.사고 후 회복을 위한 간병인 지원을 통해, 환자는 전문가의 도움을 받으며 일상적인 생활을 관리할 수 있습니다.
+===== B 영역 =====
+이는 환자가 빠르게 회복할 수 있도록 돕는 중요한 서비스입니다.^^엔터^^보험 서류 발급 지원^^엔터^^
+사고 후에는 보험 청구가 필수적입니다.보험사에 제출해야 할 서류나 필요한 양식을 빠짐없이 준비하는 일이 어려울 수 있습니다.케어매치는 사고로 인한 보험 청구 절차에서 필요한 보험 서류를 보험사 양식에 맞춰 발급해주는 서비스를 제공합니다.이를 통해 보험사와의 절차가 원활하게 진행될 수 있도록 도와줍니다.^^엔터^^법률 상담 서비스^^엔터^^
+사고 이후 발생할 수 있는 법률적인 문제나 분쟁은 매우 중요한 사항입니다.특히 보험 청구와 관련된 절차나 사고 책임에 대한 문제가 있을 경우, 법적인 자문이 필요할 수 있습니다.케어매치는 법률 자문 회사와 연계하여 기본적인 법률 상담 서비스를 제공합니다.이를 통해 사고 후 발생할 수 있는 분쟁을 예방하고, 필요한 법적 절차에 대해 올바른 정보를 받을 수 있습니다.^^엔터^^케어매치는 간병인 지원부터 보험 서류 발급, 법률 상담까지 종합적인 지원을 통해 사고 후 회복을 돕는 데 큰 역할을 합니다.사고로 인한 어려운 상황에서 환자와 가족들이 보다 나은 지원을 받을 수 있도록 돕는 케어매치의 서비스는, 환자가 더 빨리 일상으로 돌아갈 수 있도록 중요한 역할을 합니다.
+collected_text 사고로 입원한 경우, 회복 과정에서 간병이 필요한 상황은 매우 흔합니다. 교통사고나 산업재해 등 사고의 유형에 관계없이 신체적, 정신적 회복이 어려운 경우, 환자 본인이나 가족이 적절한 간병을 받는 것이 필수적입니다. 입원 초기에는 병원에서 제공하는 의료 서비스로 충분히 관리될 수 있지만, 점차적으로 지속적인 간호나 일상적인 돌봄이 필요해질 수 있습니다. 특히, 사고 후 치료가 길어질 경우, 환자는 일상적인 활동에 어려움을 겪게 되고, 이때 간병인의 도움이 중요한 역할을 하게 됩니다. 이러한 상황에서는 전문적인 간병인이 제공하는 지속적인 돌봄이 회복을 돕는 데 큰 도움이 됩니다.^^엔터^^케어매치는 사고로 입원한 환자들에게 다양한 간병, 보험, 법률 지원 서비스를 제공하여, 환자와 가족들이 더 나은 회복 환경을 구축할 수 있도록 돕고 있습니다. 특히, 사고로 인한 부상이나 치료로 입원한 경우, 여러 가지 행정적인 절차가 복잡하게 얽힐 수 있습니다. 이때 케어매치는 다음과 같은 중요한 지원을 제공합니다.^^엔터^^간병 서비스^^엔터^^
+케어매치는 환자가 필요한 간병 서비스를 맞춤형으로 제공합니다. 사고 후 회복을 위한 간병인 지원을 통해, 환자는 전문가의 도움을 받으며 일상적인 생활을 관리할 수 있습니다. 이는 환자가 빠르게 회복할 수 있도록 돕는 중요한 서비스입니다.^^엔터^^보험 서류 발급 지원^^엔터^^
+사고 후에는 보험 청구가 필수적입니다. 보험사에 제출해야 할 서류나 필요한 양식을 빠짐없이 준비하는 일이 어려울 수 있습니다. 케어매치는 사고로 인한 보험 청구 절차에서 필요한 보험 서류를 보험사 양식에 맞춰 발급해주는 서비스를 제공합니다. 이를 통해 보험사와의 절차가 원활하게 진행될 수 있도록 도와줍니다.^^엔터^^법률 상담 서비스^^엔터^^
+사고 이후 발생할 수 있는 법률적인 문제나 분쟁은 매우 중요한 사항입니다. 특히 보험 청구와 관련된 절차나 사고 책임에 대한 문제가 있을 경우, 법적인 자문이 필요할 수 있습니다. 케어매치는 법률 자문 회사와 연계하여 기본적인 법률 상담 서비스를 제공합니다. 이를 통해 사고 후 발생할 수 있는 분쟁을 예방하고, 필요한 법적 절차에 대해 올바른 정보를 받을 수 있습니다.^^엔터^^케어매치는 간병인 지원부터 보험 서류 발급, 법률 상담까지 종합적인 지원을 통해 사고 후 회복을 돕는 데 큰 역할을 합니다. 사고로 인한 어려운 상황에서 환자와 가족들이 보다 나은 지원을 받을 수 있도록 돕는 케어매치의 서비스는, 환자가 더 빨리 일상으로 돌아갈 수 있도록 중요한 역할을 합니다.
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 사고로 입원한 경우 간병이 필요한 상황을 설명하고,케어매치에서 제공하는 간병·보험·법률 지원 서비스를 안내하는 글입니다.글에서는 사고 유형과 관계없이 입원 후 회복 과정에서간병이 필요한 경우가 많다는 점을 먼저 설명합니다.이후 케어매치에서는 간병보험청구를 위해 필요한 보험서류를보험사 양식에 맞춰 발급 지원하고 있다는 점을 안내합니다.또한 법률자문회사와 연계된 법률상담 서비스를 제공하여,사고 이후 발생할 수 있는 분쟁이나 보험 절차와 관련된기본적인 법률상담을 받을 수 있다는 내용
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 사고로 입원한 경우 간병이 필요한 상황은 생각보다 많습니다. 교통사고, 산업재해, 가정 내 사고 등 사고의 유형에 관계없이 입원 후 회복 과정에서 간병이 필요한 경우가 많습니다. 사고 후에는 신체적인 회복뿐만 아니라 정신적인 안정도 중요한 요소입니다. 이때 적절한 간병 서비스는 회복을 돕고, 환자가 보다 편안하게 치유 과정을 거칠 수 있도록 합니다.^^엔터^^간병이 필요한 이유는 다양합니다. 사고로 인한 부상으로 신체적 기능이 제한되거나, 수술 후 회복에 시간이 필요한 경우, 일상 생활에서 도움을 받아야 하는 상황이 발생할 수 있습니다. 또한, 사고 후 정신적인 충격을 받거나, 통증 관리가 필요한 경우에도 간병인이 중요한 역할을 합니다. 이러한 상황에서는 전문적인 간병인의 도움이 필요하며, 간병인의 지원을 통해 환자는 더 빠르게 회복할 수 있습니다.^^엔터^^케어매치는 사고로 인한 간병 및 보험 청구, 법률 상담 등 다양한 서비스를 제공합니다. 사고 후 회복을 돕기 위해 간병보험청구가 필요한 경우, 케어매치는 보험사 양식에 맞춰 필요한 서류를 발급 지원합니다. 이를 통해 복잡한 보험 청구 과정을 간소화하고, 보험금을 신속하게 받을 수 있도록 돕습니다.^^엔터^^또한, 사고 후에는 다양한 법적 문제나 분쟁이 발생할 수 있습니다. 케어매치는 법률자문 회사와 연계하여 법률 상담 서비스를 제공합니다. 사고 후 발생할 수 있는 법적 문제, 보험 청구 절차, 사고와 관련된 분쟁에 대해 전문가와 상담할 수 있습니다. 이를 통해 법률적인 불확실성을 해소하고, 사고 후의 불편함을 최소화할 수 있습니다.^^엔터^^케어매치의 다양한 지원 서비스는 사고로 인한 회복과정을 보다 원활하게 돕고, 환자가 신속히 일상으로 돌아갈 수 있도록 돕습니다. 간병, 보험, 법률 지원을 통합적으로 제공하여 환자와 그 가족들이 사고 이후 겪을 수 있는 여러 어려움을 덜어줍니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+사고로 입원한 경우 간병이 필요한 상황은 생각보다 많습니다.교통사고, 산업재해, 가정 내 사고 등 사고의 유형에 관계없이 입원 후 회복 과정에서 간병이 필요한 경우가 많습니다.사고 후에는 신체적인 회복뿐만 아니라 정신적인 안정도 중요한 요소입니다.이때 적절한 간병 서비스는 회복을 돕고, 환자가 보다 편안하게 치유 과정을 거칠 수 있도록 합니다.^^엔터^^간병이 필요한 이유는 다양합니다.사고로 인한 부상으로 신체적 기능이 제한되거나, 수술 후 회복에 시간이 필요한 경우, 일상 생활에서 도움을 받아야 하는 상황이 발생할 수 있습니다.또한, 사고 후 정신적인 충격을 받거나, 통증 관리가 필요한 경우에도 간병인이 중요한 역할을 합니다.이러한 상황에서는 전문적인 간병인의 도움이 필요하며, 간병인의 지원을 통해 환자는 더 빠르게 회복할 수 있습니다.
+===== B 영역 =====
+^^엔터^^케어매치는 사고로 인한 간병 및 보험 청구, 법률 상담 등 다양한 서비스를 제공합니다.사고 후 회복을 돕기 위해 간병보험청구가 필요한 경우, 케어매치는 보험사 양식에 맞춰 필요한 서류를 발급 지원합니다.이를 통해 복잡한 보험 청구 과정을 간소화하고, 보험금을 신속하게 받을 수 있도록 돕습니다.^^엔터^^또한, 사고 후에는 다양한 법적 문제나 분쟁이 발생할 수 있습니다.케어매치는 법률자문 회사와 연계하여 법률 상담 서비스를 제공합니다.사고 후 발생할 수 있는 법적 문제, 보험 청구 절차, 사고와 관련된 분쟁에 대해 전문가와 상담할 수 있습니다.이를 통해 법률적인 불확실성을 해소하고, 사고 후의 불편함을 최소화할 수 있습니다.^^엔터^^케어매치의 다양한 지원 서비스는 사고로 인한 회복과정을 보다 원활하게 돕고, 환자가 신속히 일상으로 돌아갈 수 있도록 돕습니다.간병, 보험, 법률 지원을 통합적으로 제공하여 환자와 그 가족들이 사고 이후 겪을 수 있는 여러 어려움을 덜어줍니다.
+collected_text 사고로 입원한 경우 간병이 필요한 상황은 생각보다 많습니다. 교통사고, 산업재해, 가정 내 사고 등 사고의 유형에 관계없이 입원 후 회복 과정에서 간병이 필요한 경우가 많습니다. 사고 후에는 신체적인 회복뿐만 아니라 정신적인 안정도 중요한 요소입니다. 이때 적절한 간병 서비스는 회복을 돕고, 환자가 보다 편안하게 치유 과정을 거칠 수 있도록 합니다.^^엔터^^간병이 필요한 이유는 다양합니다. 사고로 인한 부상으로 신체적 기능이 제한되거나, 수술 후 회복에 시간이 필요한 경우, 일상 생활에서 도움을 받아야 하는 상황이 발생할 수 있습니다. 또한, 사고 후 정신적인 충격을 받거나, 통증 관리가 필요한 경우에도 간병인이 중요한 역할을 합니다. 이러한 상황에서는 전문적인 간병인의 도움이 필요하며, 간병인의 지원을 통해 환자는 더 빠르게 회복할 수 있습니다.^^엔터^^케어매치는 사고로 인한 간병 및 보험 청구, 법률 상담 등 다양한 서비스를 제공합니다. 사고 후 회복을 돕기 위해 간병보험청구가 필요한 경우, 케어매치는 보험사 양식에 맞춰 필요한 서류를 발급 지원합니다. 이를 통해 복잡한 보험 청구 과정을 간소화하고, 보험금을 신속하게 받을 수 있도록 돕습니다.^^엔터^^또한, 사고 후에는 다양한 법적 문제나 분쟁이 발생할 수 있습니다. 케어매치는 법률자문 회사와 연계하여 법률 상담 서비스를 제공합니다. 사고 후 발생할 수 있는 법적 문제, 보험 청구 절차, 사고와 관련된 분쟁에 대해 전문가와 상담할 수 있습니다. 이를 통해 법률적인 불확실성을 해소하고, 사고 후의 불편함을 최소화할 수 있습니다.^^엔터^^케어매치의 다양한 지원 서비스는 사고로 인한 회복과정을 보다 원활하게 돕고, 환자가 신속히 일상으로 돌아갈 수 있도록 돕습니다. 간병, 보험, 법률 지원을 통합적으로 제공하여 환자와 그 가족들이 사고 이후 겪을 수 있는 여러 어려움을 덜어줍니다.
+driver_gpt23 <undetected_chromedriver.Chrome (session="583b9e33c31b69e4bd600b96a2a95cbe")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago']
+ID_gmemo https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+체크4
+현재 URL: https://chatgpt.com/g/g-69255207c8ec8191bacd4eba90a04ff9-keeomaeci-gyotongsago
+수집된 텍스트: 주제 : 사고로 입원한 경우 간병이 필요한 상황을 설명하고,케어매치에서 제공하는 간병·보험·법률 지원 서비스를 안내하는 글입니다.글에서는 사고 유형과 관계없이 입원 후 회복 과정에서간병이 필요한 경우가 많다는 점을 먼저 설명합니다.이후 케어매치에서는 간병보험청구를 위해 필요한 보험서류를보험사 양식에 맞춰 발급 지원하고 있다는 점을 안내합니다.또한 법률자문회사와 연계된 법률상담 서비스를 제공하여,사고 이후 발생할 수 있는 분쟁이나 보험 절차와 관련된기본적인 법률상담을 받을 수 있다는 내용
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf15093
+	0xf150d4
+	0xd0b490
+	0xd558da
+	0xd55b7b
+	0xd97b42
+	0xd78204
+	0xd95341
+	0xd77f56
+	0xd496c9
+	0xd4a484
+	0x1167e34
+	0x11630c9
+	0x1180add
+	0xf2db38
+	0xf358ad
+	0xf1d848
+	0xf1da12
+	0xf075fa
+	0x763c7ba9
+	0x77cbc3ab
+	0x77cbc32f
+
+collected_text 사고로 입원하게 되는 상황에서는 누구나 예상치 못한 어려움을 겪게 됩니다. 교통사고, 산업재해, 가정 내 사고 등 다양한 이유로 입원한 후, 회복을 위한 간병이 필요한 경우가 많습니다. 사고로 인한 부상이나 치료 과정에서 체력적으로나 정신적으로 큰 부담을 느끼게 되며, 특히 자가 관리가 어려운 상태에서는 전문적인 간병이 필수적입니다.^^엔터^^입원 후 회복 과정에서 간병이 필요한 이유는 여러 가지가 있습니다. 첫째, 사고로 인한 신체적 장애나 수술 후 회복이 필요한 경우, 환자는 일상적인 활동을 스스로 처리하기 어려운 경우가 많습니다. 둘째, 장기간의 입원과 치료가 필요한 경우에는 병원 내에서의 치료와 함께 집에서의 지원도 중요한 역할을 합니다. 셋째, 사고 후 급격한 정신적 충격이나 스트레스로 인해 심리적인 지원이 필요할 수 있습니다. 이 모든 상황에서 전문 간병인의 도움이 절실하게 필요해지며, 가족이나 친구만으로는 충분히 해결하기 어려운 경우가 많습니다.^^엔터^^이런 상황에서 케어매치는 간병 및 회복 과정에서 큰 도움이 됩니다. 케어매치에서는 환자와 가족들이 간병에 필요한 다양한 서비스를 이용할 수 있도록 지원합니다. 특히 사고 후 간병보험 청구가 필요한 경우, 보험사에 제출해야 하는 서류를 정확히 발급 받을 수 있도록 돕습니다. 케어매치에서는 보험사 양식에 맞춰 필요한 서류를 빠르고 정확하게 발급해 드리며, 보험 청구 과정을 원활하게 진행할 수 있도록 지원합니다.^^엔터^^또한, 사고로 인한 법률적 문제나 분쟁을 해결할 수 있도록 법률상담 서비스도 제공하고 있습니다. 사고 후 발생할 수 있는 보험 절차와 관련된 분쟁이나, 법적인 대응이 필요할 경우, 케어매치는 법률자문회사와 연계하여 기본적인 법률 상담을 제공합니다. 이 서비스를 통해 사고 이후 복잡한 법적 절차나 분쟁을 보다 쉽게 해결할 수 있으며, 필요 시 전문가와 상담하여 추가적인 법적 지원도 받을 수 있습니다.^^엔터^^간병이 필요한 상황에서 케어매치의 다양한 지원 서비스를 통해, 환자와 가족들은 보다 원활하고 안정적인 회복을 위한 도움을 받을 수 있습니다. 사고로 인한 어려운 상황을 조금이나마 덜어드리기 위해 케어매치가 함께 합니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+사고로 입원하게 되는 상황에서는 누구나 예상치 못한 어려움을 겪게 됩니다.교통사고, 산업재해, 가정 내 사고 등 다양한 이유로 입원한 후, 회복을 위한 간병이 필요한 경우가 많습니다.사고로 인한 부상이나 치료 과정에서 체력적으로나 정신적으로 큰 부담을 느끼게 되며, 특히 자가 관리가 어려운 상태에서는 전문적인 간병이 필수적입니다.^^엔터^^입원 후 회복 과정에서 간병이 필요한 이유는 여러 가지가 있습니다.첫째, 사고로 인한 신체적 장애나 수술 후 회복이 필요한 경우, 환자는 일상적인 활동을 스스로 처리하기 어려운 경우가 많습니다.둘째, 장기간의 입원과 치료가 필요한 경우에는 병원 내에서의 치료와 함께 집에서의 지원도 중요한 역할을 합니다.셋째, 사고 후 급격한 정신적 충격이나 스트레스로 인해 심리적인 지원이 필요할 수 있습니다.이 모든 상황에서 전문 간병인의 도움이 절실하게 필요해지며, 가족이나 친구만으로는 충분히 해결하기 어려운 경우가 많습니다.
+===== B 영역 =====
+^^엔터^^이런 상황에서 케어매치는 간병 및 회복 과정에서 큰 도움이 됩니다.케어매치에서는 환자와 가족들이 간병에 필요한 다양한 서비스를 이용할 수 있도록 지원합니다.특히 사고 후 간병보험 청구가 필요한 경우, 보험사에 제출해야 하는 서류를 정확히 발급 받을 수 있도록 돕습니다.케어매치에서는 보험사 양식에 맞춰 필요한 서류를 빠르고 정확하게 발급해 드리며, 보험 청구 과정을 원활하게 진행할 수 있도록 지원합니다.^^엔터^^또한, 사고로 인한 법률적 문제나 분쟁을 해결할 수 있도록 법률상담 서비스도 제공하고 있습니다.사고 후 발생할 수 있는 보험 절차와 관련된 분쟁이나, 법적인 대응이 필요할 경우, 케어매치는 법률자문회사와 연계하여 기본적인 법률 상담을 제공합니다.이 서비스를 통해 사고 이후 복잡한 법적 절차나 분쟁을 보다 쉽게 해결할 수 있으며, 필요 시 전문가와 상담하여 추가적인 법적 지원도 받을 수 있습니다.^^엔터^^간병이 필요한 상황에서 케어매치의 다양한 지원 서비스를 통해, 환자와 가족들은 보다 원활하고 안정적인 회복을 위한 도움을 받을 수 있습니다.사고로 인한 어려운 상황을 조금이나마 덜어드리기 위해 케어매치가 함께 합니다.
+collected_text 사고로 입원하게 되는 상황에서는 누구나 예상치 못한 어려움을 겪게 됩니다. 교통사고, 산업재해, 가정 내 사고 등 다양한 이유로 입원한 후, 회복을 위한 간병이 필요한 경우가 많습니다. 사고로 인한 부상이나 치료 과정에서 체력적으로나 정신적으로 큰 부담을 느끼게 되며, 특히 자가 관리가 어려운 상태에서는 전문적인 간병이 필수적입니다.^^엔터^^입원 후 회복 과정에서 간병이 필요한 이유는 여러 가지가 있습니다. 첫째, 사고로 인한 신체적 장애나 수술 후 회복이 필요한 경우, 환자는 일상적인 활동을 스스로 처리하기 어려운 경우가 많습니다. 둘째, 장기간의 입원과 치료가 필요한 경우에는 병원 내에서의 치료와 함께 집에서의 지원도 중요한 역할을 합니다. 셋째, 사고 후 급격한 정신적 충격이나 스트레스로 인해 심리적인 지원이 필요할 수 있습니다. 이 모든 상황에서 전문 간병인의 도움이 절실하게 필요해지며, 가족이나 친구만으로는 충분히 해결하기 어려운 경우가 많습니다.^^엔터^^이런 상황에서 케어매치는 간병 및 회복 과정에서 큰 도움이 됩니다. 케어매치에서는 환자와 가족들이 간병에 필요한 다양한 서비스를 이용할 수 있도록 지원합니다. 특히 사고 후 간병보험 청구가 필요한 경우, 보험사에 제출해야 하는 서류를 정확히 발급 받을 수 있도록 돕습니다. 케어매치에서는 보험사 양식에 맞춰 필요한 서류를 빠르고 정확하게 발급해 드리며, 보험 청구 과정을 원활하게 진행할 수 있도록 지원합니다.^^엔터^^또한, 사고로 인한 법률적 문제나 분쟁을 해결할 수 있도록 법률상담 서비스도 제공하고 있습니다. 사고 후 발생할 수 있는 보험 절차와 관련된 분쟁이나, 법적인 대응이 필요할 경우, 케어매치는 법률자문회사와 연계하여 기본적인 법률 상담을 제공합니다. 이 서비스를 통해 사고 이후 복잡한 법적 절차나 분쟁을 보다 쉽게 해결할 수 있으며, 필요 시 전문가와 상담하여 추가적인 법적 지원도 받을 수 있습니다.^^엔터^^간병이 필요한 상황에서 케어매치의 다양한 지원 서비스를 통해, 환자와 가족들은 보다 원활하고 안정적인 회복을 위한 도움을 받을 수 있습니다. 사고로 인한 어려운 상황을 조금이나마 덜어드리기 위해 케어매치가 함께 합니다.
+----------------------------import --------
+에러메세지
+----------------------------import --------
+에러메세지 main
+'>' not supported between instances of 'str' and 'int'
+지금 아이디 :
+excel_counter 2
+carematch66
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+5
+11시 02분 17초
+timeclock_forLoop 5.0
+asdf2 300
+동작중 0
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
