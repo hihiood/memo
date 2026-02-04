@@ -1,0 +1,314 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\7e178c5809ca46b2b6f5fef80d04e40a.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\ef61b05c67c24e7bb22fb64b468bc561.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\54f780f70a0f481baa9fafdb127afa1b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+쿠키 적용 실패(labsfx): Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.132)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x505093
+	0x5050d4
+	0x2fb490
+	0x2ea43e
+	0x308ef3
+	0x36f00c
+	0x384df9
+	0x367f56
+	0x3396c9
+	0x33a484
+	0x757e34
+	0x7530c9
+	0x770add
+	0x51db38
+	0x5258ad
+	0x50d848
+	0x50da12
+	0x4f75fa
+	0x759e00c9
+	0x76f27b4e
+	0x76f27b1e
+ 
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\117686a5b31242698f746bc5cd46ff15.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\16bdee77aa4e47f4bade63606646d832.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\e9e9537b7ac7434f817f67adee761ccd.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\73e25f551434405eaee4b839856fb64e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\9548aa3382a04bd192360c4596f78bf1.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\d6293fdef20d48c387647f6fbde248d4.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\tt\Desktop\매크로\OneDrive_2025-12-04 카페\logfile.txt
+
+--- Captured Logs ---
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\7e178c5809ca46b2b6f5fef80d04e40a.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\ef61b05c67c24e7bb22fb64b468bc561.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\54f780f70a0f481baa9fafdb127afa1b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+쿠키 적용 실패(labsfx): Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.132)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x505093
+	0x5050d4
+	0x2fb490
+	0x2ea43e
+	0x308ef3
+	0x36f00c
+	0x384df9
+	0x367f56
+	0x3396c9
+	0x33a484
+	0x757e34
+	0x7530c9
+	0x770add
+	0x51db38
+	0x5258ad
+	0x50d848
+	0x50da12
+	0x4f75fa
+	0x759e00c9
+	0x76f27b4e
+	0x76f27b1e
+ 
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\117686a5b31242698f746bc5cd46ff15.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\16bdee77aa4e47f4bade63606646d832.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\e9e9537b7ac7434f817f67adee761ccd.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\73e25f551434405eaee4b839856fb64e.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\9548aa3382a04bd192360c4596f78bf1.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\d6293fdef20d48c387647f6fbde248d4.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+시작
+File saved to: C:\Users\tt\Desktop\매크로\OneDrive_2025-12-04 카페\logfile.txt
+
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\c3909592fb3e454d910c22db5339742c.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\b486bd74e7b14aafacff73b5d4688e1b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+최신 크롬 버전 :: 144
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\tt\AppData\Local\Temp\1a90fcbe338c421493141c49362c8e6b.pyd
+Running main() from the .pyd file...
+Captured output: 144
+내 드라이버 버전 :: 144
+=========================================
+내 크롬 버전 :: 144
+최신 크롬 버전 :: 144
+내 드라이버 버전 :: 144
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+시작
+File saved to: C:\Users\tt\Desktop\매크로\OneDrive_2025-12-04 카페\logfile.txt
