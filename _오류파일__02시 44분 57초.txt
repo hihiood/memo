@@ -1,0 +1,25 @@
+buffers_g ['', '', '', '', '']
+----------------------------import --------
+에러메세지
+'username'
+외부 IP: None
+외부 IP: 2001:e60:2105:30e3:9953:e917:a15b:1685
+외부 IP: 2001:e60:2105:30e3:9953:e917:a15b:1685
+����:    dns.sse.cisco.com
+Address:  2620:119:35::35
+
+�̸�:    myip.opendns.com
+Address:  2001:e60:2105:30e3:9953:e917:a15b:1685
+
+
+����:    dns.sse.cisco.com
+Address:  2620:119:35::35
+
+�̸�:    myip.opendns.com
+Address:  2001:e60:2105:30e3:9953:e917:a15b:1685
+
+
+외부 IP: 2001:e60:2105:30e3:9953:e917:a15b:1685
+외부 IP: 2001:e60:2105:30e3:9953:e917:a15b:1685
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\shoppingTraffic\logfile.txt
