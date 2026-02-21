@@ -1,0 +1,49 @@
+errolinkQQ C:\Users\marketingCOM1\Desktop\tistory
+errolinkQQ_page3 C:\Users\marketingCOM1\Desktop\tistory
+An error occurred: local variable 'extracted_text' referenced before assignment
+맨아래
+학습chatGPT2
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 145
+{insertreplycomment.get()} chatGPT10
+학습chatGPT2
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 145
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\tistory\logfile.txt
