@@ -1,0 +1,169 @@
+구글 플레이스 테스트 준비 완료
+ID/PW 입력 후 '시작' 버튼을 눌러주세요.
+변경된 IP : 118.235.84.12
+프로그램 시작
+엑셀 로드를 눌러주세요
+secret.xlsx 로드 완료 (총 1개 행)
+  [1] 조개공장 서면점 / 부산서면역맛집
+프로그램 시작
+========== 전체 1개 행 작업 시작 ==========
+
+==================================================
+[1/1] 매장: '조개공장 서면점' / 검색어: '부산서면역맛집'
+==================================================
+변경된 IP : 118.235.80.92
+IP 확인 완료 : 118.235.80.92
+크롬 브라우저 실행중... (모바일모드)
+에러 발생: Message: session not created: cannot connect to chrome at 127.0.0.1:65305
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.110
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5a1213
+	0x5a1254
+	0x38e6dd
+	0x3ca958
+	0x3c9992
+	0x3bfbe5
+	0x3bfa16
+	0x407826
+	0x407047
+	0x3fb2e6
+	0x3cd321
+	0x3ce1d4
+	0x7f5254
+	0x7f080b
+	0x80d0ea
+	0x5bb118
+	0x5c311d
+	0x5a9518
+	0x5a96d9
+	0x593a68
+	0x761c5d49
+	0x77b1d83b
+	0x77b1d7c1
+
+Traceback (most recent call last):
+  File "googlePlace.py", line 367, in googlePlace.run_one_row
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 84, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 104, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 286, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 378, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 440, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 245, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:65305
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.110
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5a1213
+	0x5a1254
+	0x38e6dd
+	0x3ca958
+	0x3c9992
+	0x3bfbe5
+	0x3bfa16
+	0x407826
+	0x407047
+	0x3fb2e6
+	0x3cd321
+	0x3ce1d4
+	0x7f5254
+	0x7f080b
+	0x80d0ea
+	0x5bb118
+	0x5c311d
+	0x5a9518
+	0x5a96d9
+	0x593a68
+	0x761c5d49
+	0x77b1d83b
+	0x77b1d7c1
+
+
+[1/1] 실패 또는 미발견
+
+========== 전체 1개 행 작업 종료 ==========
+프로그램 시작
+========== 전체 1개 행 작업 시작 ==========
+
+==================================================
+[1/1] 매장: '조개공장 서면점' / 검색어: '부산서면역맛집'
+==================================================
+변경된 IP : 118.235.83.217
+IP 확인 완료 : 118.235.83.217
+크롬 브라우저 실행중... (데스크탑모드)
+에러 발생: Message: session not created: cannot connect to chrome at 127.0.0.1:64829
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.110
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd21213
+	0xd21254
+	0xb0e6dd
+	0xb4a958
+	0xb49992
+	0xb3fbe5
+	0xb3fa16
+	0xb87826
+	0xb87047
+	0xb7b2e6
+	0xb4d321
+	0xb4e1d4
+	0xf75254
+	0xf7080b
+	0xf8d0ea
+	0xd3b118
+	0xd4311d
+	0xd29518
+	0xd296d9
+	0xd13a68
+	0x761c5d49
+	0x77b1d83b
+	0x77b1d7c1
+
+Traceback (most recent call last):
+  File "googlePlace.py", line 367, in googlePlace.run_one_row
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 84, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 104, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 286, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 378, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 440, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 245, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:64829
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 145.0.7632.110
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd21213
+	0xd21254
+	0xb0e6dd
+	0xb4a958
+	0xb49992
+	0xb3fbe5
+	0xb3fa16
+	0xb87826
+	0xb87047
+	0xb7b2e6
+	0xb4d321
+	0xb4e1d4
+	0xf75254
+	0xf7080b
+	0xf8d0ea
+	0xd3b118
+	0xd4311d
+	0xd29518
+	0xd296d9
+	0xd13a68
+	0x761c5d49
+	0x77b1d83b
+	0x77b1d7c1
+
+
+[1/1] 실패 또는 미발견
+
+========== 전체 1개 행 작업 종료 ==========
