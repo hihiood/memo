@@ -1,0 +1,660 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 145
+DB access----success!!
+2
+0    휴대폰성지 폰슐랭 남동구지점휴대폰
+1    휴대폰성지 폰슐랭 남동구지점휴대폰
+Name: 작업 매장, dtype: object
+find_name 휴대폰성지 폰슐랭 남동구지점휴대폰
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  192.168.5.1
+
+
+
+변경된 IP : 175.223.38.138
+
+탭: 블로그
+👉 블로그 클릭
+탭: 전체
+탭: 블로그
+탭: 카페
+👉 카페 클릭
+탭: 전체
+탭: 카페
+탭: 블로그
+탭: 이미지
+👉 이미지 클릭
+🔄 원래 URL 복귀: https://m.search.naver.com/search.naver?query=%EB%82%A8%EB%8F%99%EA%B5%AC%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%84%B1%EC%A7%80&sm=mtp_hty.top&where=m
+👉 클릭할 span 발견: 펼쳐서 더보기
+📌 [0단계] 첫 번째 li 클릭 → 뒤로가기 → 새로고침 시작
+👉 첫 번째 li 클릭 성공
+🔙 뒤로가기 실행
+🔄 새로고침 실행
+📌 [1단계] 페이지 최초 전체 스크롤 시작
+현재 li 개수: 75
+현재 li 개수: 75
+⚠ li 개수 변동 없음: 1 / 5
+현재 li 개수: 75
+⚠ li 개수 변동 없음: 2 / 5
+현재 li 개수: 75
+⚠ li 개수 변동 없음: 3 / 5
+현재 li 개수: 75
+⚠ li 개수 변동 없음: 4 / 5
+현재 li 개수: 75
+⚠ li 개수 변동 없음: 5 / 5
+👉 더 이상 로드되는 li 없음 → 스크롤 종료
+
+📌 [2단계] Ctrl+F 검색 수행 → 입력 후 ESC
+
+📌 [3단계] 다시 li 수집 후 클래스 빈도수 분석
+
+📌 li 클래스 빈도수:
+VLTHu: 75
+
+🔥 선택된 가장 많은 li 클래스(1개): VLTHu
+⭐ 필터링된 li 개수: 75
+🎯 찾았다! 7위 : 이미지수
+25
+휴대폰성지 폰슐랭 남동구지점휴대폰
+영업 종료10:00에 영업 시작
+현재 위치에서
+27km
+인천 남동구 구월동
+상세주소 열기
+전화
+길찾기
+공유
+👉 li 직접 클릭 성공
+❌ URL 변화 없음 → 내부 a 태그 클릭
+👉 내부 a 클릭 성공
+끝---
+프레임 error---> a모바일에서 는 frame안씀
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 마이플레이스
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 이미지 갯수
++99
+print_text.text 알림받기
+print_text.text 방문자 리뷰 86
+print_text.text 블로그 리뷰 1,952
+print_text.text 전화
+print_text.text 저장
+print_text.text 길찾기
+print_text.text 공유
+print_text.text 홈
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 82
+동작중 59
+menubtn 0
+reviewbtn 1
+리뷰버튼 들어옴
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 74
+동작중 59
+picturebtn 1
+사진버튼 들어옴
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 37
+동작중 10
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\place\logfile.txt
