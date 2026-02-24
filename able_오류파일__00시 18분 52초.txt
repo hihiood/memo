@@ -1,0 +1,2048 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\ef12ae71b94f4fb48d7a3a1561456b1d.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\42937bc01b39429285d4b6508e4bc888.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\3a6536ccf2fa4317be3cc1fd9eb2ed14.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 145
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-02-25 00:00:46
+now: 2026-02-25 00:14:22.420403
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\2f9c56715ee9464b9ac5c34f58b5760b.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\c831bcadf9b7495fa09f9e1c7bb39a45.pyd
+Running main() from the .pyd file...
+Captured output: 145
+최신 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\dd4071939bc24f029c1e132e8eff71af.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 145
+내 드라이버 버전 :: 145
+title 박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은?
+title "로또 공 무게 다르게 해서 당첨 될 수 있다"라고 속여 7억원 넘게 뜯어낸 일당
+title 1만 명 몰린 일본 ‘알몸 축제’ 아수라장…사고 잇따라 3명 의식불명
+title ‘약물 연쇄살인’ 피의자 신상 비공개…형평성 논란 확산
+title ‘자매 성폭행’ 노영대, 13년 복역 후 출소…춘천 거주 확인
+title ‘술잔 던졌나’ 질문 받은 박나래, 경찰 출석 후 전한 말
+title “로또 공 무게 조작 가능” 속여…7억 원 가로챈 일당 검거
+title 日 전통 알몸 축제서 대형 사고…인파 몰리며 3명 중태
+title 연쇄살인 사건인데 얼굴 공개 안 했다…경찰 기준 두고 논란
+title 13년 만에 사회로 나온 노영대…춘천 거주 소식에 지역 긴장
+title 경찰 출석 박나래, 매니저 논란 관련 질문에 즉답…현장 분위기는?
+title 로또 당첨 보장한다더니…‘공 무게 조작’ 사기로 7억 챙긴 조직
+title 참가자 1만 명 뒤엉킨 일본 축제 현장…압박 사고로 3명 의식불명
+title 약물 이용 연쇄살인에도 신상 비공개 결정…‘고무줄 잣대’ 비판
+title 자매 성폭행범 노영대 출소 후 춘천 정착…주민 불안 확산
+title 경찰 출석한 박나래…‘술잔 투척 의혹’ 질문에 내놓은 답변
+title “당첨 번호 만들 수 있다” 믿게 해 7억 편취…로또 사기 일당 적발
+title 일본 ‘알몸 축제’ 인파 통제 실패 논란…사고 속출, 3명 쓰러져
+title 중대범죄인데 신상 비공개?…약물 연쇄살인 사건 기준 논란
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+1     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+2     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+3     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+4     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+5     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+6     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+7     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+8     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+9     C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+10    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+11    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+12    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+13    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+14    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+15    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+16    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+17    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+18    C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으...
+1     어두운 배경에서 6개의 공으로 당첨되는 로또 기계와 돈이 떨어지게 하는데 검은 실루...
+2                                               일본 알몸축제
+3                                        검은 화면에 약과 붉은 물
+4                                     출소한 한국 40대 대머리 남성
+5     여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으...
+6     어두운 배경에서 6개의 공으로 당첨되는 로또 기계와 돈이 떨어지게 하는데 검은 실루...
+7                                               일본 알몸축제
+8                                        검은 화면에 약과 붉은 물
+9                                     출소한 한국 40대 대머리 남성
+10    여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으...
+11    어두운 배경에서 6개의 공으로 당첨되는 로또 기계와 돈이 떨어지게 하는데 검은 실루...
+12                                              일본 알몸축제
+13                                       검은 화면에 약과 붉은 물
+14                                    출소한 한국 40대 대머리 남성
+15    여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으...
+16    어두운 배경에서 6개의 공으로 당첨되는 로또 기계와 돈이 떨어지게 하는데 검은 실루...
+17                                              일본 알몸축제
+18                                       검은 화면에 약과 붉은 물
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0     tel:010-5240-4972
+1     tel:010-5240-4972
+2     tel:010-5240-4972
+3     tel:010-5240-4972
+4     tel:010-5240-4972
+5     tel:010-5240-4972
+6     tel:010-5240-4972
+7     tel:010-5240-4972
+8     tel:010-5240-4972
+9     tel:010-5240-4972
+10    tel:010-5240-4972
+11    tel:010-5240-4972
+12    tel:010-5240-4972
+13    tel:010-5240-4972
+14    tel:010-5240-4972
+15    tel:010-5240-4972
+16    tel:010-5240-4972
+17    tel:010-5240-4972
+18    tel:010-5240-4972
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+12    없음
+13    없음
+14    없음
+15    없음
+16    없음
+17    없음
+18    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+1     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+2     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+3     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+4     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+5     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+6     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+7     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+8     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+9     최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+10    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+11    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+12    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+13    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+14    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+15    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+16    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+17    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+18    최신잇슈/잇슈/이슈/최신이슈/뉴스/최신근황
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0     None
+1     None
+2     None
+3     None
+4     None
+5     None
+6     None
+7     None
+8     None
+9     None
+10    None
+11    None
+12    None
+13    None
+14    None
+15    None
+16    None
+17    None
+18    None
+dtype: object
+엑셀 개수 19
+지금 아이디 :
+excel_counter 0
+jungseungyeop
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은? 박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은?
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Park Na-rae, suspect investigation completed... ', '박나래, 피의자 조사 마쳐… ', 'What is the response to the suspicions regarding the manager? ', '매니저 관련 의혹에 대한 답변은? ', 'Park Na-rae, suspect investigation completed... ', '박나래, 피의자 조사 마쳐… ', 'What is the response to the suspicions regarding the manager?', '매니저 관련 의혹에 대한 답변은?', 'ko']
+Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager? Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager?
+Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager? Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+casino
+상식 여행
+===
+refresh
+더 생성하기
+===
+35mm film
+===
+minimal
+===
+sketchy
+===
+handmade
+===
+abstract
+===
+chiaroscuro
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으로 보여줘
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은? 박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은?
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Park Na-rae, suspect investigation completed... ', '박나래, 피의자 조사 마쳐… ', 'What is the response to the suspicions regarding the manager? ', '매니저 관련 의혹에 대한 답변은? ', 'Park Na-rae, suspect investigation completed... ', '박나래, 피의자 조사 마쳐… ', 'What is the response to the suspicions regarding the manager?', '매니저 관련 의혹에 대한 답변은?', 'ko']
+Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager? Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager?
+Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager? Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+casino
+상식 여행
+===
+refresh
+더 생성하기
+===
+35mm film
+===
+minimal
+===
+sketchy
+===
+handmade
+===
+abstract
+===
+chiaroscuro
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으로 보여줘
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은? 박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은?
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Park Na-rae, suspect investigation completed... ', '박나래, 피의자 조사 마쳐… ', 'What is the response to the suspicions regarding the manager? ', '매니저 관련 의혹에 대한 답변은? ', 'Park Na-rae, suspect investigation completed... ', '박나래, 피의자 조사 마쳐… ', 'What is the response to the suspicions regarding the manager?', '매니저 관련 의혹에 대한 답변은?', 'ko']
+Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager? Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager?
+Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager? Park Na-rae, suspect investigation completed... What is the response to the suspicions regarding the manager?
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+casino
+상식 여행
+===
+refresh
+더 생성하기
+===
+35mm film
+===
+minimal
+===
+sketchy
+===
+handmade
+===
+abstract
+===
+chiaroscuro
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+===
+release_alert
+변경 로그 열기
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 여자 두명에게 소주잔을 던지는 여자 모습을 만들어주는데 등장인물들이 검은색 실루엣으로 보여줘
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="3aef581c5ad9ffbae404e2676649fe1f")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-698bd3e55f688191beb8d136504aa8b8-nyuseugeul']
+ID_gmemo https://chatgpt.com/g/g-698bd3e55f688191beb8d136504aa8b8-nyuseugeul
+체크4
+현재 URL: https://chatgpt.com/g/g-698bd3e55f688191beb8d136504aa8b8-nyuseugeul
+수집된 텍스트: 주제 : 박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은?
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+대화 옵션 열기
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+생각 중, 클릭해 제거
+---끝
+---체
+None
+---끝
+---체
+음성 입력 버튼
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2ec20a
+	0x2ec4ab
+	0x32de32
+	0x30ea84
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.117)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x497dd3
+	0x497e14
+	0x2a1db0
+	0x2a89cd
+	0x2aaf62
+	0x32c471
+	0x30ea3c
+	0x32b621
+	0x30e7d6
+	0x2e0049
+	0x2e0e04
+	0x6f6924
+	0x6f1bf7
+	0x70f5a0
+	0x4b0f58
+	0x4b891d
+	0x4a0648
+	0x4a0812
+	0x48a21a
+	0x7735fcc9
+	0x777b82ae
+	0x777b827e
+
+collected_text 방송인 박나래가 ‘전 매니저 갑질 의혹’과 관련해 피의자 신분 첫 경찰 조사를 마쳤다는 소식이 전해지면서, 관심은 자연스럽게 “그 의혹에 대해 뭐라고 답했나”로 모이고 있습니다. 이번 조사는 서울 강남경찰서에서 진행됐고, 박나래는 조사 뒤 취재진 앞에 모습을 드러냈습니다.^^엔터^^핵심은 ‘답변의 방식’입니다. 박나래는 조사 종료 후 “조사관 질문에 성실히 임했고, 사실대로 답했다”는 취지로 말했습니다. 동시에 “사실이 아닌 부분은 바로잡을 예정”이라고 덧붙였는데, 이는 의혹 전반을 즉각 인정·부인하기보다 수사 과정에서 정리하겠다는 태도에 가깝습니다.^^엔터^^그렇다면 ‘매니저 관련 의혹’에 대한 직접 답은 무엇이었을까요? 취재진이 “갑질 혐의를 인정하느냐”는 질문을 던지자, 박나래는 **“조사를 통해 차후에 밝혀질 부분”**이라는 취지로 말을 아꼈습니다. 또 “매니저에게 술잔을 던졌느냐” 같은 구체 질문에도 즉답을 피하거나 같은 맥락으로 선을 그었습니다. 결론적으로, 박나래의 답변은 (1) 성실히 조사에 응했다 (2) 사실대로 말했다 (3) 허위로 보이는 부분은 바로잡겠다 (4) 구체 판단은 수사로 가자로 정리됩니다.^^엔터^^조사 자체는 꽤 길게 이어졌습니다. 보도들에 따르면 박나래는 2월 20일 오후부터 밤까지 약 7시간 40분 안팎 조사를 받은 것으로 전해졌습니다. 적용 혐의로는 전 매니저 측 고소와 맞물린 특수상해·명예훼손 등과 더불어, 불법 의료행위(의료법 위반) 의혹까지 거론되고 있습니다.^^엔터^^결국 “매니저 관련 의혹에 대한 답변은?”이라는 질문에 대한 현재 시점의 가장 정확한 답은 이겁니다. 박나래는 ‘인정/부인’의 단정 대신, ‘수사로 밝혀질 것’이라며 즉답을 피했고, 사실과 다른 부분은 바로잡겠다고 밝혔다는 것. 향후엔 양측 진술과 증거를 바탕으로 수사 결과가 어떻게 정리되는지가 관전 포인트가 될 전망입니다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+방송인 박나래가 ‘전 매니저 갑질 의혹’과 관련해 피의자 신분 첫 경찰 조사를 마쳤다는 소식이 전해지면서, 관심은 자연스럽게 “그 의혹에 대해 뭐라고 답했나”로 모이고 있습니다.이번 조사는 서울 강남경찰서에서 진행됐고, 박나래는 조사 뒤 취재진 앞에 모습을 드러냈습니다.^^엔터^^핵심은 ‘답변의 방식’입니다.박나래는 조사 종료 후 “조사관 질문에 성실히 임했고, 사실대로 답했다”는 취지로 말했습니다.동시에 “사실이 아닌 부분은 바로잡을 예정”이라고 덧붙였는데, 이는 의혹 전반을 즉각 인정·부인하기보다 수사 과정에서 정리하겠다는 태도에 가깝습니다.^^엔터^^그렇다면 ‘매니저 관련 의혹’에 대한 직접 답은 무엇이었을까요?취재진이 “갑질 혐의를 인정하느냐”는 질문을 던지자, 박나래는 **“조사를 통해 차후에 밝혀질 부분”**이라는 취지로 말을 아꼈습니다.또 “매니저에게 술잔을 던졌느냐” 같은 구체 질문에도 즉답을 피하거나 같은 맥락으로 선을 그었습니다.
+===== B 영역 =====
+결론적으로, 박나래의 답변은 (1) 성실히 조사에 응했다 (2) 사실대로 말했다 (3) 허위로 보이는 부분은 바로잡겠다 (4) 구체 판단은 수사로 가자로 정리됩니다.^^엔터^^조사 자체는 꽤 길게 이어졌습니다.보도들에 따르면 박나래는 2월 20일 오후부터 밤까지 약 7시간 40분 안팎 조사를 받은 것으로 전해졌습니다.적용 혐의로는 전 매니저 측 고소와 맞물린 특수상해·명예훼손 등과 더불어, 불법 의료행위(의료법 위반) 의혹까지 거론되고 있습니다.^^엔터^^결국 “매니저 관련 의혹에 대한 답변은?”이라는 질문에 대한 현재 시점의 가장 정확한 답은 이겁니다.박나래는 ‘인정/부인’의 단정 대신, ‘수사로 밝혀질 것’이라며 즉답을 피했고, 사실과 다른 부분은 바로잡겠다고 밝혔다는 것.향후엔 양측 진술과 증거를 바탕으로 수사 결과가 어떻게 정리되는지가 관전 포인트가 될 전망입니다.
+collected_text 방송인 박나래가 ‘전 매니저 갑질 의혹’과 관련해 피의자 신분 첫 경찰 조사를 마쳤다는 소식이 전해지면서, 관심은 자연스럽게 “그 의혹에 대해 뭐라고 답했나”로 모이고 있습니다. 이번 조사는 서울 강남경찰서에서 진행됐고, 박나래는 조사 뒤 취재진 앞에 모습을 드러냈습니다.^^엔터^^핵심은 ‘답변의 방식’입니다. 박나래는 조사 종료 후 “조사관 질문에 성실히 임했고, 사실대로 답했다”는 취지로 말했습니다. 동시에 “사실이 아닌 부분은 바로잡을 예정”이라고 덧붙였는데, 이는 의혹 전반을 즉각 인정·부인하기보다 수사 과정에서 정리하겠다는 태도에 가깝습니다.^^엔터^^그렇다면 ‘매니저 관련 의혹’에 대한 직접 답은 무엇이었을까요? 취재진이 “갑질 혐의를 인정하느냐”는 질문을 던지자, 박나래는 **“조사를 통해 차후에 밝혀질 부분”**이라는 취지로 말을 아꼈습니다. 또 “매니저에게 술잔을 던졌느냐” 같은 구체 질문에도 즉답을 피하거나 같은 맥락으로 선을 그었습니다. 결론적으로, 박나래의 답변은 (1) 성실히 조사에 응했다 (2) 사실대로 말했다 (3) 허위로 보이는 부분은 바로잡겠다 (4) 구체 판단은 수사로 가자로 정리됩니다.^^엔터^^조사 자체는 꽤 길게 이어졌습니다. 보도들에 따르면 박나래는 2월 20일 오후부터 밤까지 약 7시간 40분 안팎 조사를 받은 것으로 전해졌습니다. 적용 혐의로는 전 매니저 측 고소와 맞물린 특수상해·명예훼손 등과 더불어, 불법 의료행위(의료법 위반) 의혹까지 거론되고 있습니다.^^엔터^^결국 “매니저 관련 의혹에 대한 답변은?”이라는 질문에 대한 현재 시점의 가장 정확한 답은 이겁니다. 박나래는 ‘인정/부인’의 단정 대신, ‘수사로 밝혀질 것’이라며 즉답을 피했고, 사실과 다른 부분은 바로잡겠다고 밝혔다는 것. 향후엔 양측 진술과 증거를 바탕으로 수사 결과가 어떻게 정리되는지가 관전 포인트가 될 전망입니다.
+matches2: 
+driver_gpt23 <undetected_chromedriver.Chrome (session="3aef581c5ad9ffbae404e2676649fe1f")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-698bd3e55f688191beb8d136504aa8b8-nyuseugeul']
+ID_gmemo https://chatgpt.com/g/g-698bd3e55f688191beb8d136504aa8b8-nyuseugeul
+체크4
+현재 URL: https://chatgpt.com/g/g-698bd3e55f688191beb8d136504aa8b8-nyuseugeul
+수집된 텍스트: 주제 : 박나래, 피의자 조사 마쳐…매니저 관련 의혹에 대한 답변은?
+>>체1
+시작
+File saved to: C:\Users\able\Desktop\자동 프로그램\블로그프로그램 뉴스\네이버블로그\logfile.txt
