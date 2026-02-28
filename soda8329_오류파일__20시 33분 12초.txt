@@ -1,0 +1,608 @@
+BLOGLINK 0    https://cafe.naver.com/hdssantafe
+1    https://cafe.naver.com/hdssantafe
+Name: 카페주소, dtype: object
+errolinkQQ C:\Users\PC\Desktop\쿠팡파트너스
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\PC\AppData\Local\Temp\dab33eb9cdb04210921b151ff61ef6df.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\PC\AppData\Local\Temp\0000950412e7461ab91e7db554c6a737.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\PC\AppData\Local\Temp\262b5f4413c842dd9c235e7d189abb0c.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+전체 키워드 개수 :
+엑셀 개수 2
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\PC\AppData\Local\Temp\3360b086039545e1b0934b4b0da0408b.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\PC\AppData\Local\Temp\2a67ddef10474dd199c163575ae67f15.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\PC\AppData\Local\Temp\403af5d81a414dcc910e6b575ce1e656.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+GitHub에서 설치 파일을 다운로드 중입니다...
+다운로드 완료: ChromeSetup.exe
+설치 프로그램을 실행합니다...
+오류 발생: free variable 'subprocess' referenced before assignment in enclosing scope
+전체 키워드 개수 :
+엑셀 개수 2
+지금 아이디 :
+wish7414
+ID2 wish7414
+PW2 alscjf95921@
+CATEGORY 가전제품
+keyword_excel 노트북 인기 아이탬
+BLOGLINK https://cafe.naver.com/hdssantafe
+FRONTWORD 노트북 알아보시나요? "금액은 어느정도인지" 성능은 괜찮은지" 궁금하신 분들 많으실텐데요 / 그래서 자세히 알아보도록 하겠습니다. 조금만 시간내셔서 이 글에 집중하신다면 원하시는 정보와 가치 모두 얻어가실 수 있으실거라 생각합니다. / 자 그럼 시작하겠습니다. / 급하신 분들을 위해 말씀드리자면, 알뜰하게 고르실 수 있는 만큼 아래를 통해 확인해보시길 바랍니다.
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+coupangAPI_SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+coupang_imageCheck X
+ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=노트북 인기 아이탬&channel=user', 'shortenUrl': 'https://link.coupang.com/a/dUQewo', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF5295065&pageKey=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%9D%B8%EA%B8%B0%20%EC%95%84%EC%9D%B4%ED%83%AC&traceid=V0-183-37cca17266be2964'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/dUQewq', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF5295065&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/dUQewo
+----------------------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:54043
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 145.0.7632.117
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xa4e813+10ad3]
+	undetected_chromedriver!GetHandleVerifier [0xa4e944+10c04]
+	undetected_chromedriver!(No symbol) [0x861fc0]
+	undetected_chromedriver!(No symbol) [0x89d502]
+	undetected_chromedriver!(No symbol) [0x89c52c]
+	undetected_chromedriver!(No symbol) [0x892625]
+	undetected_chromedriver!(No symbol) [0x892446]
+	undetected_chromedriver!(No symbol) [0x8d96cf]
+	undetected_chromedriver!(No symbol) [0x8d8ee7]
+	undetected_chromedriver!(No symbol) [0x8cd766]
+	undetected_chromedriver!(No symbol) [0x8a00e9]
+	undetected_chromedriver!(No symbol) [0x8a0ea4]
+	undetected_chromedriver!GetHandleVerifier [0xcd1359+293619]
+	undetected_chromedriver!GetHandleVerifier [0xccca7d+28ed3d]
+	undetected_chromedriver!GetHandleVerifier [0xceab9b+2ace5b]
+	undetected_chromedriver!GetHandleVerifier [0xa689a8+2ac68]
+	undetected_chromedriver!GetHandleVerifier [0xa7049d+3275d]
+	undetected_chromedriver!GetHandleVerifier [0xa57328+195e8]
+	undetected_chromedriver!GetHandleVerifier [0xa574f2+197b2]
+	undetected_chromedriver!GetHandleVerifier [0xa4065a+291a]
+	KERNEL32!BaseThreadInitThunk [0x76495d49+19]
+	ntdll!RtlInitializeExceptionChain [0x771ad83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x771ad7c1+231]
+
+지금 아이디 :
+wish7414
+ID2 wish7414
+PW2 alscjf95921@
+CATEGORY 가전제품
+keyword_excel 노트북 인기 아이탬
+BLOGLINK https://cafe.naver.com/hdssantafe
+FRONTWORD 노트북 알아보시나요? "금액은 어느정도인지" 성능은 괜찮은지" 궁금하신 분들 많으실텐데요 / 그래서 자세히 알아보도록 하겠습니다. 조금만 시간내셔서 이 글에 집중하신다면 원하시는 정보와 가치 모두 얻어가실 수 있으실거라 생각합니다. / 자 그럼 시작하겠습니다. / 급하신 분들을 위해 말씀드리자면, 알뜰하게 고르실 수 있는 만큼 아래를 통해 확인해보시길 바랍니다.
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+coupangAPI_SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+coupang_imageCheck X
+ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=노트북 인기 아이탬&channel=user', 'shortenUrl': 'https://link.coupang.com/a/dUQeV0', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF5295065&pageKey=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%9D%B8%EA%B8%B0%20%EC%95%84%EC%9D%B4%ED%83%AC&traceid=V0-183-37cca17266be2964'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/dUQeV3', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF5295065&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/dUQeV0
+----------------------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:61202
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 145.0.7632.117
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xb5e813+10ad3]
+	undetected_chromedriver!GetHandleVerifier [0xb5e944+10c04]
+	undetected_chromedriver!(No symbol) [0x971fc0]
+	undetected_chromedriver!(No symbol) [0x9ad502]
+	undetected_chromedriver!(No symbol) [0x9ac52c]
+	undetected_chromedriver!(No symbol) [0x9a2625]
+	undetected_chromedriver!(No symbol) [0x9a2446]
+	undetected_chromedriver!(No symbol) [0x9e96cf]
+	undetected_chromedriver!(No symbol) [0x9e8ee7]
+	undetected_chromedriver!(No symbol) [0x9dd766]
+	undetected_chromedriver!(No symbol) [0x9b00e9]
+	undetected_chromedriver!(No symbol) [0x9b0ea4]
+	undetected_chromedriver!GetHandleVerifier [0xde1359+293619]
+	undetected_chromedriver!GetHandleVerifier [0xddca7d+28ed3d]
+	undetected_chromedriver!GetHandleVerifier [0xdfab9b+2ace5b]
+	undetected_chromedriver!GetHandleVerifier [0xb789a8+2ac68]
+	undetected_chromedriver!GetHandleVerifier [0xb8049d+3275d]
+	undetected_chromedriver!GetHandleVerifier [0xb67328+195e8]
+	undetected_chromedriver!GetHandleVerifier [0xb674f2+197b2]
+	undetected_chromedriver!GetHandleVerifier [0xb5065a+291a]
+	KERNEL32!BaseThreadInitThunk [0x76495d49+19]
+	ntdll!RtlInitializeExceptionChain [0x771ad83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x771ad7c1+231]
+
+지금 아이디 :
+wish7414
+ID2 wish7414
+PW2 alscjf95921@
+CATEGORY 가전제품
+keyword_excel 노트북 인기 아이탬
+BLOGLINK https://cafe.naver.com/hdssantafe
+FRONTWORD 노트북 알아보시나요? "금액은 어느정도인지" 성능은 괜찮은지" 궁금하신 분들 많으실텐데요 / 그래서 자세히 알아보도록 하겠습니다. 조금만 시간내셔서 이 글에 집중하신다면 원하시는 정보와 가치 모두 얻어가실 수 있으실거라 생각합니다. / 자 그럼 시작하겠습니다. / 급하신 분들을 위해 말씀드리자면, 알뜰하게 고르실 수 있는 만큼 아래를 통해 확인해보시길 바랍니다.
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+coupangAPI_SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+coupang_imageCheck X
+ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=노트북 인기 아이탬&channel=user', 'shortenUrl': 'https://link.coupang.com/a/dUQfiD', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF5295065&pageKey=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%9D%B8%EA%B8%B0%20%EC%95%84%EC%9D%B4%ED%83%AC&traceid=V0-183-37cca17266be2964'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/dUQfiF', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF5295065&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/dUQfiD
+----------------------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:59186
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 145.0.7632.117
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcbe813+10ad3]
+	undetected_chromedriver!GetHandleVerifier [0xcbe944+10c04]
+	undetected_chromedriver!(No symbol) [0xad1fc0]
+	undetected_chromedriver!(No symbol) [0xb0d502]
+	undetected_chromedriver!(No symbol) [0xb0c52c]
+	undetected_chromedriver!(No symbol) [0xb02625]
+	undetected_chromedriver!(No symbol) [0xb02446]
+	undetected_chromedriver!(No symbol) [0xb496cf]
+	undetected_chromedriver!(No symbol) [0xb48ee7]
+	undetected_chromedriver!(No symbol) [0xb3d766]
+	undetected_chromedriver!(No symbol) [0xb100e9]
+	undetected_chromedriver!(No symbol) [0xb10ea4]
+	undetected_chromedriver!GetHandleVerifier [0xf41359+293619]
+	undetected_chromedriver!GetHandleVerifier [0xf3ca7d+28ed3d]
+	undetected_chromedriver!GetHandleVerifier [0xf5ab9b+2ace5b]
+	undetected_chromedriver!GetHandleVerifier [0xcd89a8+2ac68]
+	undetected_chromedriver!GetHandleVerifier [0xce049d+3275d]
+	undetected_chromedriver!GetHandleVerifier [0xcc7328+195e8]
+	undetected_chromedriver!GetHandleVerifier [0xcc74f2+197b2]
+	undetected_chromedriver!GetHandleVerifier [0xcb065a+291a]
+	KERNEL32!BaseThreadInitThunk [0x76495d49+19]
+	ntdll!RtlInitializeExceptionChain [0x771ad83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x771ad7c1+231]
+
+지금 아이디 :
+wish7414
+ID2 wish7414
+PW2 alscjf95921@
+CATEGORY 가전제품
+keyword_excel 노트북 인기 아이탬
+BLOGLINK https://cafe.naver.com/hdssantafe
+FRONTWORD 노트북 알아보시나요? "금액은 어느정도인지" 성능은 괜찮은지" 궁금하신 분들 많으실텐데요 / 그래서 자세히 알아보도록 하겠습니다. 조금만 시간내셔서 이 글에 집중하신다면 원하시는 정보와 가치 모두 얻어가실 수 있으실거라 생각합니다. / 자 그럼 시작하겠습니다. / 급하신 분들을 위해 말씀드리자면, 알뜰하게 고르실 수 있는 만큼 아래를 통해 확인해보시길 바랍니다.
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+coupangAPI_SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+coupang_imageCheck X
+ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=노트북 인기 아이탬&channel=user', 'shortenUrl': 'https://link.coupang.com/a/dUQfEq', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF5295065&pageKey=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%9D%B8%EA%B8%B0%20%EC%95%84%EC%9D%B4%ED%83%AC&traceid=V0-183-37cca17266be2964'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/dUQfEs', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF5295065&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/dUQfEq
+----------------------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:52033
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 145.0.7632.117
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x50e813+10ad3]
+	undetected_chromedriver!GetHandleVerifier [0x50e944+10c04]
+	undetected_chromedriver!(No symbol) [0x321fc0]
+	undetected_chromedriver!(No symbol) [0x35d502]
+	undetected_chromedriver!(No symbol) [0x35c52c]
+	undetected_chromedriver!(No symbol) [0x352625]
+	undetected_chromedriver!(No symbol) [0x352446]
+	undetected_chromedriver!(No symbol) [0x3996cf]
+	undetected_chromedriver!(No symbol) [0x398ee7]
+	undetected_chromedriver!(No symbol) [0x38d766]
+	undetected_chromedriver!(No symbol) [0x3600e9]
+	undetected_chromedriver!(No symbol) [0x360ea4]
+	undetected_chromedriver!GetHandleVerifier [0x791359+293619]
+	undetected_chromedriver!GetHandleVerifier [0x78ca7d+28ed3d]
+	undetected_chromedriver!GetHandleVerifier [0x7aab9b+2ace5b]
+	undetected_chromedriver!GetHandleVerifier [0x5289a8+2ac68]
+	undetected_chromedriver!GetHandleVerifier [0x53049d+3275d]
+	undetected_chromedriver!GetHandleVerifier [0x517328+195e8]
+	undetected_chromedriver!GetHandleVerifier [0x5174f2+197b2]
+	undetected_chromedriver!GetHandleVerifier [0x50065a+291a]
+	KERNEL32!BaseThreadInitThunk [0x76495d49+19]
+	ntdll!RtlInitializeExceptionChain [0x771ad83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x771ad7c1+231]
+
+지금 아이디 :
+wish7414
+ID2 wish7414
+PW2 alscjf95921@
+CATEGORY 가전제품
+keyword_excel 노트북 인기 아이탬
+BLOGLINK https://cafe.naver.com/hdssantafe
+FRONTWORD 노트북 알아보시나요? "금액은 어느정도인지" 성능은 괜찮은지" 궁금하신 분들 많으실텐데요 / 그래서 자세히 알아보도록 하겠습니다. 조금만 시간내셔서 이 글에 집중하신다면 원하시는 정보와 가치 모두 얻어가실 수 있으실거라 생각합니다. / 자 그럼 시작하겠습니다. / 급하신 분들을 위해 말씀드리자면, 알뜰하게 고르실 수 있는 만큼 아래를 통해 확인해보시길 바랍니다.
+ENDWORD 가격 색상 할인 구매 정보 리뷰 추천 순위 비교 / 특가 할인 이벤트 세일 / 당일 출발 빠른 택배 발송 배송 / " 이포스팅은 쿠팡파트너스 활동의 일환"
+coupangAPI_ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+coupangAPI_SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+coupang_imageCheck X
+ACCESS_KEY c189057e-ded9-48e7-ba58-cfc2d2587fe0
+SECRET_KEY 0d10326c12de52e1b95c01de4b3a5772aad88ab1
+resdata {'rCode': '0', 'rMessage': '', 'data': [{'originalUrl': 'https://www.coupang.com/np/search?component=&q=노트북 인기 아이탬&channel=user', 'shortenUrl': 'https://link.coupang.com/a/dUQfZU', 'landingUrl': 'https://link.coupang.com/re/AFFSRP?lptag=AF5295065&pageKey=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%9D%B8%EA%B8%B0%20%EC%95%84%EC%9D%B4%ED%83%AC&traceid=V0-183-37cca17266be2964'}, {'originalUrl': 'https://www.coupang.com/np/coupangglobal', 'shortenUrl': 'https://link.coupang.com/a/dUQfZX', 'landingUrl': 'https://link.coupang.com/re/AFFJIKGU?lptag=AF5295065&traceid=V0-183-50c6c2b97fba9aee'}]}
+product_name https://link.coupang.com/a/dUQfZU
+----------------------------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:56429
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 145.0.7632.117
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x127e813+10ad3]
+	undetected_chromedriver!GetHandleVerifier [0x127e944+10c04]
+	undetected_chromedriver!(No symbol) [0x1091fc0]
+	undetected_chromedriver!(No symbol) [0x10cd502]
+	undetected_chromedriver!(No symbol) [0x10cc52c]
+	undetected_chromedriver!(No symbol) [0x10c2625]
+	undetected_chromedriver!(No symbol) [0x10c2446]
+	undetected_chromedriver!(No symbol) [0x11096cf]
+	undetected_chromedriver!(No symbol) [0x1108ee7]
+	undetected_chromedriver!(No symbol) [0x10fd766]
+	undetected_chromedriver!(No symbol) [0x10d00e9]
+	undetected_chromedriver!(No symbol) [0x10d0ea4]
+	undetected_chromedriver!GetHandleVerifier [0x1501359+293619]
+	undetected_chromedriver!GetHandleVerifier [0x14fca7d+28ed3d]
+	undetected_chromedriver!GetHandleVerifier [0x151ab9b+2ace5b]
+	undetected_chromedriver!GetHandleVerifier [0x12989a8+2ac68]
+	undetected_chromedriver!GetHandleVerifier [0x12a049d+3275d]
+	undetected_chromedriver!GetHandleVerifier [0x1287328+195e8]
+	undetected_chromedriver!GetHandleVerifier [0x12874f2+197b2]
+	undetected_chromedriver!GetHandleVerifier [0x127065a+291a]
+	KERNEL32!BaseThreadInitThunk [0x76495d49+19]
+	ntdll!RtlInitializeExceptionChain [0x771ad83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x771ad7c1+231]
+
+60
+20시 31분 22초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 9
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 10
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 11
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 12
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 13
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 14
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 15
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 16
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 17
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 18
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 19
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 20
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 21
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 22
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 23
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 24
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 25
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 26
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 27
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 28
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 29
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 30
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 31
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 32
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 33
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 34
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 35
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 36
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 37
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 38
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 39
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 40
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 41
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 42
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 43
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 44
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 45
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 46
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 47
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 48
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 49
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 50
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 51
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 52
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 53
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 54
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 55
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 56
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 57
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 58
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 59
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 60
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 61
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 62
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 63
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 64
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 65
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 66
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 67
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 68
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 69
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 70
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 71
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 72
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 73
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 74
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 75
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 76
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 77
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 78
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 79
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 80
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 81
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 82
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 83
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 84
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 85
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 86
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 87
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 88
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 89
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 90
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 91
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 92
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 93
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 94
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 95
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 96
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 97
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 98
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 99
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 100
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 101
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 102
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 103
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 104
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 105
+시작
+File saved to: C:\Users\PC\Desktop\쿠팡파트너스\logfile.txt
