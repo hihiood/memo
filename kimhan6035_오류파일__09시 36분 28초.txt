@@ -1,0 +1,1504 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\baf7f26d92b64bafa007d165528462c9.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\cf40d7d239034e8786fa390842f7d960.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6799d295b01b4c75a0c66072dd42fe71.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\77d0b09561b24438aae7919a44d430fa.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\68701c9ccbef4b1da4c9d96c0b48046a.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6438f22fab1d45e19ce87f24f7307e78.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6f99c1a6c696447aa7bffb3a622a1d95.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\21e5cbc615414ce58ea4c4179b6e959f.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\721c6071d4b746c3ab4054e20e3110fa.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\b5ef215312d54aacb5af405c5b6df8ea.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\deab6e13e57c4e0789af5fbeb0951571.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\7dadfd6ea4eb41c1828912a65e2979cc.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+옥천 외장하드 복구, 해볼만한가? 전문가의 조언
+title 옥천 외장하드 복구, 해볼만한가? 전문가의 조언
+세종 사고 영상이 확인 안 됐을 때 복구 시도해도 될까?
+title 세종 사고 영상이 확인 안 됐을 때 복구 시도해도 될까?
+청주 블랙박스 영상 복구 도중 흔히 발생하는 실수 정리
+title 청주 블랙박스 영상 복구 도중 흔히 발생하는 실수 정리
+충주에서 복구한 블랙박스 영상, 저장 시간이 중요했던 이유
+title 충주에서 복구한 블랙박스 영상, 저장 시간이 중요했던 이유
+제천 블랙박스 메모리 오류로 복구 맡긴 후기와 결과
+title 제천 블랙박스 메모리 오류로 복구 맡긴 후기와 결과
+보은 영상 일부 손상된 블랙박스, 복구로 전부 되살릴 수 있을까?
+title 보은 영상 일부 손상된 블랙박스, 복구로 전부 되살릴 수 있을까?
+옥천 블랙박스 복구 성공률을 높이는 세 가지 조건
+title 옥천 블랙박스 복구 성공률을 높이는 세 가지 조건
+영동에서 맡긴 블랙박스 복구, 사고 증거 확보에 성공했던 사연
+title 영동에서 맡긴 블랙박스 복구, 사고 증거 확보에 성공했던 사연
+인스타 스토리가 울산 포렌식에서 복원된 사례 분석
+title 인스타 스토리가 울산 포렌식에서 복원된 사례 분석
+텔레그램 시크릿챗도 영동에서는 기록이 남는다?
+title 텔레그램 시크릿챗도 영동에서는 기록이 남는다?
+카톡 백업 파일을 지웠는데 괴산 사건에서 되살아난 이유
+title 카톡 백업 파일을 지웠는데 괴산 사건에서 되살아난 이유
+인스타 사진을 완전삭제해도 서울 서버에 남는 이유
+title 인스타 사진을 완전삭제해도 서울 서버에 남는 이유
+문자 MMS 삭제했는데 충주 사례에서 복구된 원리
+title 문자 MMS 삭제했는데 충주 사례에서 복구된 원리
+카톡 단톡방 나가기만으론 부족했던 부여 지역의 사례
+title 카톡 단톡방 나가기만으론 부족했던 부여 지역의 사례
+광주에서 진행한 카톡 영구삭제, 데이터 완전 삭제 결과 후기
+title 광주에서 진행한 카톡 영구삭제, 데이터 완전 삭제 결과 후기
+제주 의뢰 카카오톡복구안되게 맡긴 후 복구 불가 판정 사례
+title 제주 의뢰 카카오톡복구안되게 맡긴 후 복구 불가 판정 사례
+충주 상담 중 진행한 카톡 안티포렌식, 복구 실패 실제 경험
+title 충주 상담 중 진행한 카톡 안티포렌식, 복구 실패 실제 경험
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None]
+엑셀 개수 17
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+현재 브라우저 언어: ko-KR
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  옥천 외장하드 복구, 해볼만한가? 전문가의 조언 옥천 외장하드 복구, 해볼만한가? 전문가의 조언
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f', '25', '7f', '25', '7f']
+selected_elements_raw ['Is Okcheon external hard drive recovery worth a try? ', '옥천 외장하드 복구, 해볼만한가? ', 'Expert advice: Is Okcheon external hard drive recovery worth a try? ', '전문가의 조언 옥천 외장하드 복구, 해볼만한가? ', 'expert advice', '전문가의 조언', 'ko']
+Is Okcheon external hard drive recovery worth a try? Expert advice: Is Okcheon external hard drive recovery worth a try? expert advice
+Is Okcheon external hard drive recovery worth a try? Expert advice: Is Okcheon external hard drive recovery worth a try? expert advice
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=145.0.7632.160)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21db0
+	0xc10d4e
+	0xc2f895
+	0xc952ec
+	0xcab0d9
+	0xc8e7d6
+	0xc60049
+	0xc60e04
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xe20648
+	0xe20812
+	0xe0a21a
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+감지 안됨
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6c85faf827624f4286eea89fc1684960.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\b34620cd15ed41feab24150d5993f83e.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\08425bad29dd4369a904945d2c547a10.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\9206dcf1fa7b477da163d47c6f52d858.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\9e8a784b55e04ecb8962d9f00399b7a8.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\817ebb3d2849499884b743f7482f99f4.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\849318decd6341d1949ac5f563f0d7d5.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\dcd3324dd01f4fec8dc213df48e04ed9.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\8724dc6c0c5c4ad49534c2df0cab1b04.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d3aad3a8280b46bea463ac0093f3e6b6.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6bb93099bda648e4ba8f396e1b3359eb.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\90a37b5d944b4052bd03f8a64fd5233f.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+옥천 외장하드 복구, 해볼만한가? 전문가의 조언
+title 옥천 외장하드 복구, 해볼만한가? 전문가의 조언
+세종 사고 영상이 확인 안 됐을 때 복구 시도해도 될까?
+title 세종 사고 영상이 확인 안 됐을 때 복구 시도해도 될까?
+청주 블랙박스 영상 복구 도중 흔히 발생하는 실수 정리
+title 청주 블랙박스 영상 복구 도중 흔히 발생하는 실수 정리
+충주에서 복구한 블랙박스 영상, 저장 시간이 중요했던 이유
+title 충주에서 복구한 블랙박스 영상, 저장 시간이 중요했던 이유
+제천 블랙박스 메모리 오류로 복구 맡긴 후기와 결과
+title 제천 블랙박스 메모리 오류로 복구 맡긴 후기와 결과
+보은 영상 일부 손상된 블랙박스, 복구로 전부 되살릴 수 있을까?
+title 보은 영상 일부 손상된 블랙박스, 복구로 전부 되살릴 수 있을까?
+옥천 블랙박스 복구 성공률을 높이는 세 가지 조건
+title 옥천 블랙박스 복구 성공률을 높이는 세 가지 조건
+영동에서 맡긴 블랙박스 복구, 사고 증거 확보에 성공했던 사연
+title 영동에서 맡긴 블랙박스 복구, 사고 증거 확보에 성공했던 사연
+인스타 스토리가 울산 포렌식에서 복원된 사례 분석
+title 인스타 스토리가 울산 포렌식에서 복원된 사례 분석
+텔레그램 시크릿챗도 영동에서는 기록이 남는다?
+title 텔레그램 시크릿챗도 영동에서는 기록이 남는다?
+카톡 백업 파일을 지웠는데 괴산 사건에서 되살아난 이유
+title 카톡 백업 파일을 지웠는데 괴산 사건에서 되살아난 이유
+인스타 사진을 완전삭제해도 서울 서버에 남는 이유
+title 인스타 사진을 완전삭제해도 서울 서버에 남는 이유
+문자 MMS 삭제했는데 충주 사례에서 복구된 원리
+title 문자 MMS 삭제했는데 충주 사례에서 복구된 원리
+카톡 단톡방 나가기만으론 부족했던 부여 지역의 사례
+title 카톡 단톡방 나가기만으론 부족했던 부여 지역의 사례
+광주에서 진행한 카톡 영구삭제, 데이터 완전 삭제 결과 후기
+title 광주에서 진행한 카톡 영구삭제, 데이터 완전 삭제 결과 후기
+제주 의뢰 카카오톡복구안되게 맡긴 후 복구 불가 판정 사례
+title 제주 의뢰 카카오톡복구안되게 맡긴 후 복구 불가 판정 사례
+충주 상담 중 진행한 카톡 안티포렌식, 복구 실패 실제 경험
+title 충주 상담 중 진행한 카톡 안티포렌식, 복구 실패 실제 경험
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None]
+엑셀 개수 17
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe17dd3
+	0xe17e14
+	0xc21bee
+	0xc5f2d5
+	0xc8e8f6
+	0xc8a491
+	0xc89ab2
+	0xbf500e
+	0xbf55ae
+	0xbf5a8d
+	0x1076924
+	0x1071bf7
+	0x108f5a0
+	0xe30f58
+	0xe3891d
+	0xbf4c69
+	0xbf42b0
+	0x11d876f
+	0x75f05d49
+	0x7707d5db
+	0x7707d561
+
+시작
+File saved to: C:\Users\pc\Desktop\까페\logfile.txt
