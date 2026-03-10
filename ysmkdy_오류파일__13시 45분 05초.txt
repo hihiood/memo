@@ -1,0 +1,56 @@
+DOCS_modelChunk not found.
+An error occurred: 
+학습chatGPT1
+findIng_excel_here ~$Premium_Keyword.xlsx
+findIng_excel_here Premium_Keyword.xlsx
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\4b852055f0e24c4a8e7302a90dbb8ae4.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\8dccd55306d44d7e8c9f8d38bbd45730.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\3083126132cd4b5192507f1d9e7af37f.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\2f01c77e6dc6472aa8cfbe8314b5d185.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 크롬 버전 :: 145
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\435083d049354dadb1544e59f98a9cac.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\1e25e879154e4694b55ea57b22524a5c.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 145
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\user\Desktop\New워드프레스\logfile.txt
