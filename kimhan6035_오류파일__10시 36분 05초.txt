@@ -1,0 +1,379 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ff4bb07b36b64a8da58c494eafaefe35.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c0b092441af04e928c521233bd15de2a.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\205372452d274671835c28a717adfb08.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\698e9c4110004c30a0a92082f42b1b04.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6da8c0a5672147a4bfaf3b8200b1e206.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\61d28983ccb14e53b6cea7aa0cefc833.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\fea66599c47f4710bed86839acddae80.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0704ee07609d4f03866b47bfc1b8c7d5.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\dbca9512a9474a3d8f655b0edc89438f.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\eeeb431fa236444ea22a0f1db0d221bc.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\cf752e9ef3d84bf080e7a91abaae6246.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\241ee2d4100c4495931a3912b0a5a7fd.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ebad15b0684c47588a1206c11ae6650f.pyd
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\90b9dc8acdc8407592adbcd08da6c679.pyd
+Running main() from the .pyd file...
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\8b8680be81a940db8134c640c0dd06ba.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\49756bd715f649909fc5e52469c8b062.pyd
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\be6353f53e7d4699abad59d2a5217524.pyd
+Running main() from the .pyd file...
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\7aa00c4f8d2c4f3b9331b2639269e1ca.pyd
+Running main() from the .pyd file...
+Captured output: 
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+성남 상담 중 확인된 카톡 영구삭제 후 흔적 제거 성공 사례
+title 성남 상담 중 확인된 카톡 영구삭제 후 흔적 제거 성공 사례
+용인 의뢰 카카오톡복구안되게 처리 후 복구 실패 결과 공개
+title 용인 의뢰 카카오톡복구안되게 처리 후 복구 실패 결과 공개
+춘천에서 맡긴 카톡 안티포렌식, 데이터 복구 불가 후기
+title 춘천에서 맡긴 카톡 안티포렌식, 데이터 복구 불가 후기
+원주 상담 사례, 카톡 영구삭제 후 복구 차단 성공 사례 공개
+title 원주 상담 사례, 카톡 영구삭제 후 복구 차단 성공 사례 공개
+텔레그램 미디어 자동 다운로드 흔적이 서천에서 문제된 이유
+title 텔레그램 미디어 자동 다운로드 흔적이 서천에서 문제된 이유
+인스타 DM 흔적 지우기가 천안에서는 왜 실패했을까?
+title 인스타 DM 흔적 지우기가 천안에서는 왜 실패했을까?
+밴드 게시물 삭제했지만 금산에서 남아있던 저장 방식
+title 밴드 게시물 삭제했지만 금산에서 남아있던 저장 방식
+카톡 사진 지웠는데 인천 복구팀에서 발견된 충격적 자료
+title 카톡 사진 지웠는데 인천 복구팀에서 발견된 충격적 자료
+동영상 영구삭제 실패 사례가 태안에서 또 발생한 이유
+title 동영상 영구삭제 실패 사례가 태안에서 또 발생한 이유
+시스템 복구와 외장하드 복구, 세종 기준 무엇이 다를까?
+title 시스템 복구와 외장하드 복구, 세종 기준 무엇이 다를까?
+전체 복구 vs 부분 복구, 청주 외장하드 복구 효과 비교
+title 전체 복구 vs 부분 복구, 청주 외장하드 복구 효과 비교
+자가 복구 시도기, 안성 외장하드 복구 실패와 성공 이야기
+title 자가 복구 시도기, 안성 외장하드 복구 실패와 성공 이야기
+외장하드 인식 안 될 때 대처법, 평택 복구센터에서는?
+title 외장하드 인식 안 될 때 대처법, 평택 복구센터에서는?
+천호 저장장치 구조 이해하고 외장하드 복구 쉽게 하기
+title 천호 저장장치 구조 이해하고 외장하드 복구 쉽게 하기
+성남 핸드폰 포렌식 복구 전 후 비교, 실제로 복구된 항목은?
+title 성남 핸드폰 포렌식 복구 전 후 비교, 실제로 복구된 항목은?
+안양 스마트폰 포렌식 복구에서 가장 자주 복원 요청되는 항목은?
+title 안양 스마트폰 포렌식 복구에서 가장 자주 복원 요청되는 항목은?
+광주 휴대폰 포렌식 복구, 최신 스마트폰도 가능한가요?
+title 광주 휴대폰 포렌식 복구, 최신 스마트폰도 가능한가요?
+부산 핸드폰 포렌식 복구와 클라우드 복구, 무엇이 다를까?
+title 부산 핸드폰 포렌식 복구와 클라우드 복구, 무엇이 다를까?
+울산 스마트폰 포렌식 복구 맡긴 후기, 결과에 만족했을까?
+title 울산 스마트폰 포렌식 복구 맡긴 후기, 결과에 만족했을까?
+창원 휴대폰 포렌식 복구 후 영상 파일까지 복구 가능했을까?
+title 창원 휴대폰 포렌식 복구 후 영상 파일까지 복구 가능했을까?
+서울 카톡포렌식 상담 후 카카오톡 복구 가능성 판단했어요
+title 서울 카톡포렌식 상담 후 카카오톡 복구 가능성 판단했어요
+인천 카카오톡 카톡포렌식 비용 고민 끝에 맡긴 후기
+title 인천 카카오톡 카톡포렌식 비용 고민 끝에 맡긴 후기
+부산 카톡포렌식으로 카카오톡 완전삭제 여부 분석했어요
+title 부산 카톡포렌식으로 카카오톡 완전삭제 여부 분석했어요
+울산 카카오톡 카톡포렌식 의뢰 후 결과까지 걸린 시간
+title 울산 카카오톡 카톡포렌식 의뢰 후 결과까지 걸린 시간
+대구 카톡포렌식 진행하며 카카오톡 백업 영향 확인
+title 대구 카톡포렌식 진행하며 카카오톡 백업 영향 확인
+광주 카카오톡 카톡포렌식으로 증거 자료 확보한 경험
+title 광주 카카오톡 카톡포렌식으로 증거 자료 확보한 경험
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+엑셀 개수 26
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\57aacc9c7e6645a49104ff72dce97f2a.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\839573a241414824a77d7347ec4874f6.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\342070cbc91f4f4d8b7a9b45ad26e6ef.pyd
+Running main() from the .pyd file...
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\2bfff6e9621e4aaba86fdc333e6f6e40.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4a129aee8e0843acb800bda82c6c4d04.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\19f7f12d2b3f49d7a8931426efd6c3c5.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+'NoneType' object has no attribute 'service'
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+시작
+File saved to: C:\Users\pc\Desktop\까페\logfile.txt
