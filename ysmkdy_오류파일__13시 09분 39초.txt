@@ -1,0 +1,78 @@
+DOCS_modelChunk not found.
+An error occurred: 
+학습chatGPT1
+findIng_excel_here Premium_Keyword.xlsx
+🟢 사용자 선택: 서버1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\d665db4fc35946aea257d0272bcd87a9.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\5ce80746f809405a96d87ac8fc6ca018.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\af74fa532177483abbf0c4a355700e37.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 146
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\4429b8412044426e90b417bfee42e4b6.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\c8127049f59549948efac1502dec883b.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\d3ceb00010a24be5b8e8dd3d6345ae9c.pyd
+Running main() from the .pyd file...
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\68550af60c5e4cc292bf2a54f08b0959.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\df6f7572991d4b1fafa2538f966e312c.pyd
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\96b2488e433b4728b704e1a50a708c56.pyd
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 146
+Running main() from the .pyd file...
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 146
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\user\Desktop\12-15New워드프레스\logfile.txt
