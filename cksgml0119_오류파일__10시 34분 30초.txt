@@ -1,0 +1,975 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[LOAD OPTIONS] gen_mode set to: api
+[LOAD OPTIONS] done. gen_mode_var=api
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[MANUAL] focused tab: https://chatgpt.com/
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[IP] 현재 IP: 218.151.17.201
+[IP] 변경 시도 1/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '2', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '2', 'img_after_use': 'keep', 'text_align': 'left'}
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4B3NZRKJAZPTX6JMYKFCEV
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967366636
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4B3PQ3PB2JYMSJK916TT31
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967366994
+[PUBLISH ERROR] keyword=1, excel=0: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: Error code: 401 - {'error': {'
+[PUBLISH ERROR] keyword=0, excel=0: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: Error code: 401 - {'error': {'
+[IP] 현재 IP: 218.151.17.201
+[IP] 변경 시도 1/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 2/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 3/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 4/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 5/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[IP] 변경 시도 6/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[LOGIN] 로그인 유지 체크
+[IP] 변경 시도 7/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dlachdus6925.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4B6CXY7Y5N0KT4SQWRZS29
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967455261
+[PUBLISH ERROR] keyword=2, excel=1: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #2 실패: Error code: 401 - {'error': {'
+[IP] 변경 시도 8/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '4', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=2 → 다음 시작=4번째
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] current URL: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] focused tab: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-mak
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4BA3BF3K4N4Z3JWESMEWPE
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967576527
+[PUBLISH ERROR] keyword=0, excel=0: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: Error code: 401 - {'error': {'
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dlachdus6925.pkl
+[LOGIN] URL check: https://blog.naver.com/dlachdus6925 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dlachdus6925.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4BCFRPEKV7JWDNTZ8DTWM6
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967654768
+[PUBLISH ERROR] keyword=1, excel=1: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #2 실패: Error code: 401 - {'error': {'
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dksgodbs96.pkl
+[PUBLISH ERROR] keyword=2, excel=2: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #3 실패: Expecting value: line 3 column
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dlawnsdl919.pkl
+[PUBLISH ERROR] keyword=3, excel=3: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #4 실패: Expecting value: line 3 column
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_progeny8527.pkl
+[PUBLISH ERROR] keyword=4, excel=4: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #5 실패: Expecting value: line 3 column
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=5, excel=5: HTTPConnectionPool(host='localhost', port=62021): Max retries exceeded with url: /session/2fa6d52b9a040f8a463dd81a104c4032/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019CBA606020>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #6 실패: HTTPConnectionPool(host='local
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_shgodhs154.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4BV99V8Q50GDZHCSYQRS0S
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773968139705
+[PUBLISH ERROR] keyword=6, excel=6: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #7 실패: Error code: 401 - {'error': {'
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_sht212652.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4BY371C5N1THTFBERP9EQM
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773968231736
+[PUBLISH ERROR] keyword=7, excel=7: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #8 실패: Error code: 401 - {'error': {'
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dnjsdpals87607.pkl
+[PUBLISH ERROR] keyword=8, excel=8: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #9 실패: Expecting value: line 3 column
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_tjwpsl4505.pkl
+[PUBLISH ERROR] keyword=9, excel=9: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #10 실패: Expecting value: line 3 column
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_kbsf20283.pkl
+[PUBLISH ERROR] keyword=10, excel=10: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #11 실패: Expecting value: line 3 column
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '12', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=10 → 다음 시작=12번째
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '12', 'img_after_use': 'keep', 'text_align': 'left'}
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] current URL: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] focused tab: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-mak
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4CJS7R2CNY4QMZW22T3CF6
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773968909670
+[MANUAL] prompt: 광주온라인광고 시작 후 반응 달라짐 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5628 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="47">제목<br data-start="2" data-end="5">
+광주온라인광고 시작 후 반응 달라짐,<br data-start="25" data-end="28">
+직접 경험하고 느낀 변화 이야기</p>
+<ol data-start="49" data-end="1952" data-is-only-node="" data-is-last-node="">
+<li data-section-id="15ig59e" data-start="49" data-end="289">
+<p data-start="52" data-end="289">시작 전 막막했던 현실과 고민<br data-start="68" data-end="71">
+가게를 운영하면서 가장 크게 느낀 건<br data-start="91" data-end="94">
+좋은 상품만으로는 부족하다는 점이었어요<br data-start="115" data-end="118">
+유동 인구에만 기대는 운영은 한계가 있었고<br data-start="141" data-end="144">
+점점 방문이 줄어드는 흐름이 보였거든요<br data-start="165" data-end="168">
+온라인을 해야 한다는 건 알고 있었지만<br data-start="189" data-end="192">
+어디서부터 어떻게 시작해야 할지 몰랐고<br data-start="213" data-end="216">
+혼자 시도한 홍보는 큰 변화가 없었어요<br data-start="237" data-end="240">
+그래서 제대로 된 방향이 필요하다고 느꼈고<br data-start="263" data-end="266">
+광주온라인광고를 알아보게 된 계기였어요</p>
+</li>
+<li data-section-id="137ojth" data-start="291" data-end="520">
+<p data-start="294" data-end="520">첫 인상에서 느껴진 체계적인 분위기<br data-start="313" data-end="316">
+처음 접했을 때 가장 인상 깊었던 건<br data-start="336" data-end="339">
+단순히 광고를 진행하는 곳이 아니라<br data-start="358" data-end="361">
+전체 흐름을 설계하는 구조라는 점이었어요<br data-start="383" data-end="386">
+업종과 상황을 기반으로 방향을 잡아주고<br data-start="407" data-end="410">
+어떤 채널을 어떻게 활용할지 제시해주니<br data-start="431" data-end="434">
+막연했던 고민이 조금씩 정리되더라고요<br data-start="454" data-end="457">
+특히 온라인뿐 아니라 오프라인까지<br data-start="475" data-end="478">
+함께 고려한 전략이 인상 깊었고<br data-start="495" data-end="498">
+단순 홍보가 아니라 운영에 가까웠어요</p>
+</li>
+<li data-section-id="1sapwlb" data-start="522" data-end="758">
+<p data-start="525" data-end="758">데이터 기반으로 움직이는 구조 경험<br data-start="544" data-end="547">
+직접 진행하면서 가장 크게 느낀 건<br data-start="566" data-end="569">
+감이 아니라 데이터로 움직인다는 점이었어요<br data-start="592" data-end="595">
+캠페인이 세팅되고 나면 이후 과정은<br data-start="614" data-end="617">
+실시간 흐름에 맞춰 자동으로 조정되었고<br data-start="638" data-end="641">
+대시보드를 통해 변화가 눈에 보였어요<br data-start="661" data-end="664">
+어떤 콘텐츠에 반응이 오는지 확인되고<br data-start="684" data-end="687">
+그에 맞춰 빠르게 방향이 바뀌는 구조라<br data-start="708" data-end="711">
+혼자 할 때와는 확실히 차이가 있었어요<br data-start="732" data-end="735">
+사람보다 더 정확하다는 느낌이 들었어요</p>
+</li>
+<li data-section-id="w42d0z" data-start="760" data-end="999">
+<p data-start="763" data-end="999">업종에 맞춘 실행과 실제 변화 흐름<br data-start="782" data-end="785">
+제가 운영하는 업종에 맞춰 진행되다 보니<br data-start="807" data-end="810">
+불필요한 시도 없이 핵심만 잡히더라고요<br data-start="831" data-end="834">
+외식 매장은 방문 유도 흐름을 중심으로<br data-start="855" data-end="858">
+교육 업종은 신뢰 중심 콘텐츠로 구성되고<br data-start="880" data-end="883">
+온라인 판매는 상세 페이지 개선 위주로<br data-start="904" data-end="907">
+각각 다르게 접근하는 방식이 인상적이었어요<br data-start="930" data-end="933">
+특히 신규 오픈 매장 홍보나<br data-start="948" data-end="951">
+매출이 줄어든 매장 방향 재정비에서도<br data-start="971" data-end="974">
+확실히 다른 흐름이 만들어지는 걸 느꼈어요</p>
+</li>
+<li data-section-id="1vmmttj" data-start="1001" data-end="1215">
+<p data-start="1004" data-end="1215">콘텐츠 제작과 시각적 완성도 체감<br data-start="1022" data-end="1025">
+광고를 하면서 놀랐던 부분 중 하나가<br data-start="1045"
+... (총 5628자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 시작 전 막막했던 현실과 고민
+  텍스트: (200자) 가게를 운영하면서 가장 크게 느낀 건
+좋은 상품만으로는 부족하다는 점이었어요
+유동 인구에만 기대는 운영은 한계가 있었고
+점점 방문이 줄어드는 흐...
+[HTML PARSE] li[2]
+  인용구: 첫 인상에서 느껴진 체계적인 분위기
+  텍스트: (186자) 처음 접했을 때 가장 인상 깊었던 건
+단순히 광고를 진행하는 곳이 아니라
+전체 흐름을 설계하는 구조라는 점이었어요
+업종과 상황을 기반으로 방향을...
+[HTML PARSE] li[3]
+  인용구: 데이터 기반으로 움직이는 구조 경험
+  텍스트: (193자) 직접 진행하면서 가장 크게 느낀 건
+감이 아니라 데이터로 움직인다는 점이었어요
+캠페인이 세팅되고 나면 이후 과정은
+실시간 흐름에 맞춰 자동으로 ...
+[HTML PARSE] li[4]
+  인용구: 업종에 맞춘 실행과 실제 변화 흐름
+  텍스트: (196자) 제가 운영하는 업종에 맞춰 진행되다 보니
+불필요한 시도 없이 핵심만 잡히더라고요
+외식 매장은 방문 유도 흐름을 중심으로
+교육 업종은 신뢰 중심 ...
+[HTML PARSE] li[5]
+  인용구: 콘텐츠 제작과 시각적 완성도 체감
+  텍스트: (172자) 광고를 하면서 놀랐던 부분 중 하나가
+콘텐츠 제작 퀄리티였어요
+3D 시안으로 미리 결과를 확인하니
+실제 적용 전에 방향을 잡을 수 있었고
+영상이...
+[HTML PARSE] li[6]
+  인용구: 다양한 채널을 하나로 묶는 관리 방식
+  텍스트: (184자) 블로그, 홈페이지, 쇼핑몰은 물론이고
+네이버, 구글, 카카오, 메타까지
+각각 따로 관리하던 부분들이
+하나의 흐름으로 연결되는 게 느껴졌어요
+한쪽...
+[HTML PARSE] li[7]
+  인용구: 운영하면서 체감한 안정감과 케어
+  텍스트: (180자) 진행하면서 가장 든든했던 건
+항상 연결되어 있다는 느낌이었어요
+평일뿐 아니라 주말에도 흐름이 이어지고
+늦은 시간까지 관리가 이어지다 보니
+놓치는...
+[HTML PARSE] li[8]
+  인용구: 결국 느끼게 된 변화와 선택의 이유
+  텍스트: (235자) 시간이 지나면서 가장 크게 느낀 건
+단순 광고와는 다르다는 점이었어요
+하나만 진행할 때보다 전체를 묶어서
+관리했을 때 훨씬 빠르게 변화가 생겼고...
+[CHATGPT] parsed: 1788 chars, 17 parts
+[MANUAL GEN] response length: 1788
+[PARSE] 인트로: (39자) 제목광주온라인광고 시작 후 반응 달라짐,직접 경험하고 느낀 변화 이야기...
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 시작 전 막막했던 현실과 고민  body: 200자
+  [sec 1] heading: 2. 첫 인상에서 느껴진 체계적인 분위기  body: 186자
+  [sec 2] heading: 3. 데이터 기반으로 움직이는 구조 경험  body: 193자
+  [sec 3] heading: 4. 업종에 맞춘 실행과 실제 변화 흐름  body: 196자
+  [sec 4] heading: 5. 콘텐츠 제작과 시각적 완성도 체감  body: 172자
+  [sec 5] heading: 6. 다양한 채널을 하나로 묶는 관리 방식  body: 184자
+  [sec 6] heading: 7. 운영하면서 체감한 안정감과 케어  body: 180자
+  [sec 7] heading: 8. 결국 느끼게 된 변화와 선택의 이유  body: 235자
+[PARSE] GPT 명시 제목: 광주온라인광고 시작 후 반응 달라짐,직접 경험하고 느낀 변화 이야기
+[TITLE] 엑셀 제목 유지: 광주온라인광고 시작 후 반응 달라짐
+[PARSE] quotation 위치: [8, 22]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (39자) styles=[]
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text_bg → INTRO[1] (0자) styles=['배경색(4)']
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] quotation → SEC[0].heading: 1. 시작 전 막막했던 현실과 고민
+           body → 4개 text 블록에 분배
+[STYLE] 배경색 원본:4/3줄(80%) → GPT:2/2줄 적용
+  [block 9] text_bg → BODY[0] (134자) styles=['배경색(4)']
+  [block 10] image → SKIP
+  [block 11] image → SKIP
+[STYLE] 배경색 원본:6/3줄(80%) → GPT:2/2줄 적용
+  [block 12] text_bg → BODY[1] (137자) styles=['배경색(6)']
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] image → SKIP
+[STYLE] 배경색 원본:5/3줄(80%) → GPT:2/2줄 적용
+  [block 16] text_bg → BODY[2] (135자) styles=['배경색(5)']
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+[STYLE] 배경색 원본:5/4줄(80%) → GPT:2/3줄 적용
+  [block 19] text_bg → BODY[3] (159자) styles=['배경색(5)']
+  [block 20] image → SKIP
+  [block 21] image → SKIP
+  [block 22] quotation → SEC[1].heading: 2. 첫 인상에서 느껴진 체계적인 분위기
+           body → 3개 text 블록에 분배
+[STYLE] 배경색 원본:5/4줄(80%) → GPT:2/3줄 적용
+  [block 23] text_bg → BODY[0] (155자) styles=['배경색(5)']
+  [block 24] video → SKIP
+[STYLE] 색상강조 원본:3/1줄(80%) → GPT:2/3줄 적용
+  [block 25] text_colored → BODY[1] (134자) styles=['색상강조(3)']
+  [block 26] map → SKIP
+  [block 27] text → BODY[2] (57자) styles=[]
+  [block 28] extra_text → SKIP
+[PARSE] 매핑 완료: intro splits 2, sec 2/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (39자) 제목광주온라인광고 시작 후 반응 달라짐,직접 경험하고 느낀 변화 이야기
+  [block 5] text_bg: (비어있음)
+  [block 8] 인용구: (19자) 1. 시작 전 막막했던 현실과 고민
+  [block 9] 텍스트: (134자) <span style="background-color:#FFF3CD">가게를 운영하면서 가장 크게 느낀 건<...
+  [block 12] 텍스트: (137자) <span style="background-color:#FFF3CD">유동 인구에만 기대는 운영은 한계가 있...
+  [block 16] 텍스트: (135자) <span style="background-color:#FFF3CD">온라인을 해야 한다는 건 알고 있었지만...
+  [block 19] 텍스트: (159자) 혼자 시도한 홍보는 큰 변화가 없었어요
+<span style="background-color:#FFF3CD"...
+  [block 22] 인용구: (22자) 2. 첫 인상에서 느껴진 체계적인 분위기
+  [block 23] 텍스트: (155자) 처음 접했을 때 가장 인상 깊었던 건
+<span style="background-color:#FFF3CD">...
+  [block 25] 텍스트: (134자) 업종과 상황을 기반으로 방향을 잡아주고
+<span style="color:#FF6B6B">어떤 채널을 어떻게...
+  [block 27] 텍스트: (57자) 특히 온라인뿐 아니라 오프라인까지
+함께 고려한 전략이 인상 깊었고
+단순 홍보가 아니라 운영에 가까웠어요
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 4개 규칙, 2건 적용
+[IMG] 1/14: 20250610_055859.jpg
+[IMG] 2/14: 20250610_055910.jpg
+[IMG] 3/14: 20250911_123523.jpg
+[IMG] 4/14: 20250911_123525(0).jpg
+[IMG] 5/14: 20250911_123527.jpg
+[IMG] 6/14: 20250911_123528.jpg
+[IMG] 7/14: 20250911_123538(0).jpg
+[IMG] 8/14: 20250911_123539(1).jpg
+[IMG] 9/14: 20250911_123541.jpg
+[IMG] 10/14: 20250911_124113(0).jpg
+[IMG] 11/14: 20250911_124113.jpg
+[IMG] 12/14: 20250911_124114(1).jpg
+[IMG] 13/14: 20250911_124115.jpg
+[IMG] 14/14: 20250911_124117.jpg
+[VIDEO] 1/6 토큰 획득: videoId=0B10D1BEC6E84E734F93...
+[VIDEO] 파일: 동영상 (0.0MB)
+[VIDEO ERROR] Expecting value: line 1 column 1 (char 0)
+[MAP] maps=[], excel_counter=0, query=""
+[추가문구] 블록[28] → extra[0]: 마케팅의고수/번호 클릭시 전화연결/문의 : 010-6795-2895(tel:010-6795
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[COMPONENT] extra_text[28] 삽입
+[COMPONENTS] 26 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 10] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 19] represent=False src=...image.png
+  [IMG 20] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=ghkdtofha597&Redirect=View&logNo=224223184905&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanL
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 성공
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '13', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=11 → 다음 시작=13번째
+[SAVE BLOCKS] 29블록 저장
+[SAVE BLOCKS] 28블록 저장
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4D44EK0FNSS2JEN4WS14WY
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773969478190
+[MANUAL] prompt: 광주온라인광고 운영하며 느낀 변화 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd6...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 6012 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="22"><strong data-start="0" data-end="22">광주온라인광고 운영하며 느낀 변화</strong></p>
+<p data-start="24" data-end="240"><strong data-start="24" data-end="54">1. 시작은 답답함에서 출발했던 광고 운영 경험</strong><br data-start="54" data-end="57">
+가게를 운영하면서 가장 답답했던 건<br data-start="76" data-end="79">
+손님이 꾸준히 이어지지 않는 흐름이었어요<br data-start="101" data-end="104">
+주말은 그럭저럭 버티지만 평일은<br data-start="121" data-end="124">
+가게가 멈춘 듯 조용한 날이 많았고요<br data-start="144" data-end="147">
+광고를 몇 번 해봤지만 느낌이 애매했고<br data-start="168" data-end="171">
+돈은 나가는데 변화는 잘 안 보였어요<br data-start="191" data-end="194">
+그래서 ‘광고가 원래 이런 건가’ 싶었죠<br data-start="216" data-end="219">
+효과보다 피로감이 더 크게 남았어요</p>
+<blockquote data-start="242" data-end="263">
+<p data-start="244" data-end="263">광고는 했는데 손님은 안 늘더라</p>
+</blockquote>
+<p data-start="265" data-end="296">그때까지 저는 광고를<br data-start="276" data-end="279">
+그냥 노출이라고만 생각했어요</p>
+<hr data-start="298" data-end="301">
+<p data-start="303" data-end="491"><strong data-start="303" data-end="337">2. 문제는 광고가 아니라 흐름이라는 걸 알게 된 순간</strong><br data-start="337" data-end="340">
+여러 번 광고를 바꿔보면서 느낀 건<br data-start="359" data-end="362">
+문제는 광고 자체가 아니라<br data-start="376" data-end="379">
+손님이 들어오는 구조였어요<br data-start="393" data-end="396">
+지도, 블로그, SNS 따로 놀고 있었고<br data-start="418" data-end="421">
+연결되는 흐름이 없더라고요<br data-start="435" data-end="438">
+손님 입장에서 보면<br data-start="448" data-end="451">
+찾아오기가 어려운 구조였던 거죠<br data-start="468" data-end="471">
+이걸 깨닫고 나니 방향이 보였어요</p>
+<blockquote data-start="493" data-end="540">
+<p data-start="495" data-end="540">손님은 광고를 보고 오는 게 아니라<br data-start="514" data-end="517">
+흐름을 따라 들어온다는 걸 알았어요</p>
+</blockquote>
+<p data-start="542" data-end="563">그때부터 접근 자체를 바꾸게 됐어요</p>
+<hr data-start="565" data-end="568">
+<p data-start="570" data-end="773"><strong data-start="570" data-end="601">3. 광주 지역 특성에 맞는 전략이 필요했던 이유</strong><br data-start="601" data-end="604">
+광주는 상권이 생각보다 분산돼 있고<br data-start="623" data-end="626">
+입소문 영향이 꽤 크게 작용하더라고요<br data-start="646" data-end="649">
+단순히 노출만 늘린다고 해결이 아니라<br data-start="669" data-end="672">
+동선 안에 들어가야 의미가 있었어요<br data-start="691" data-end="694">
+특히 가족 단위, 모임 손님이 많아서<br data-start="714" data-end="717">
+검색 → 비교 → 방문 흐름이 중요했어요<br data-start="739" data-end="742">
+이걸 이해하고 나니<br data-start="752" data-end="755">
+광고 방향이 완전히 달라졌어요</p>
+<hr data-start="775" data-end="778">
+<p data-start="780" data-end="957"><strong data-start="780" data-end="809">4. 단건 광고의 한계를 직접 느끼게 된 과정</strong><br data-start="809" data-end="812">
+예전에는 하나씩 따로 진행했어요<br data-start="829" data-end="832">
+블로그 따로, 지도 따로, SNS 따로<br data-start="853" data-end="856">
+그때는 몰랐는데<br data-start="864" data-end="867">
+이게 서로 연결이 안 되니까<br data-start="882" data-end="885">
+효과도 끊겨버리더라고요<br data-start="897" data-end="900">
+문제 생겨도 어디서 막히는지 모르고<br data-start="919" data-end="922">
+수정도 늦어질 수밖에 없었어요<br data-start="938" data-end="941">
+시간만 계속 지나가더라고요</p>
+<blockquote data-start="959" data-end="980">
+<p data-start="961" data-end="980">하나씩 하는 광고는 결국 끊긴다</p>
+</blockquote>
+<p data-start="982" dat
+... (총 6012자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] p+strong
+  인용구: 1. 시작은 답답함에서 출발했던 광고 운영 경험
+  텍스트: (167자) 가게를 운영하면서 가장 답답했던 건
+손님이 꾸준히 이어지지 않는 흐름이었어요
+주말은 그럭저럭 버티지만 평일은...
+[HTML PARSE] p+strong
+  인용구: 2. 문제는 광고가 아니라 흐름이라는 걸 알게 된 순간
+  텍스트: (135자) 여러 번 광고를 바꿔보면서 느낀 건
+문제는 광고 자체가 아니라
+손님이 들어오는 구조였어요
+지도, 블로그, S...
+[HTML PARSE] p+strong
+  인용구: 3. 광주 지역 특성에 맞는 전략이 필요했던 이유
+  텍스트: (153자) 광주는 상권이 생각보다 분산돼 있고
+입소문 영향이 꽤 크게 작용하더라고요
+단순히 노출만 늘린다고 해결이 아니...
+[HTML PARSE] p+strong
+  인용구: 4. 단건 광고의 한계를 직접 느끼게 된 과정
+  텍스트: (129자) 예전에는 하나씩 따로 진행했어요
+블로그 따로, 지도 따로, SNS 따로
+그때는 몰랐는데
+이게 서로 연결이 안...
+[HTML PARSE] p+strong
+  인용구: 5. 토탈 운영으로 바꾸고 나서 달라진 점
+  텍스트: (132자) 전체 흐름을 같이 관리하면서
+가장 크게 느낀 건 속도였어요
+문제 생기면 바로 확인되고
+바로 수정이 들어가니까...
+[HTML PARSE] p+strong
+  인용구: 6. 현장 중심으로 맞춰주는 운영 방식의 차이
+  텍스트: (136자) 이게 좋았던 이유는
+이론이 아니라 실제 가게 기준으로
+전략을 맞춰준다는 점이었어요
+우리 위치, 유동, 손님 ...
+[HTML PARSE] p+strong
+  인용구: 7. 지역 기반이라 가능한 빠른 피드백과 관리
+  텍스트: (135자) 광주 기반으로 운영되는 곳이라
+소통이 빠른 것도 체감됐어요
+문제 생기면 바로 이야기되고
+수정도 지체 없이 진...
+[HTML PARSE] p+strong
+  인용구: 8. 결국 느낀 건 광고가 아니라 구조의 힘이었다
+  텍스트: (119자) 지금 돌아보면 광고를 바꾼 게 아니라
+가게 흐름을 바꾼 게 핵심이었어요
+손님이 어떻게 보고,
+어디서 결정하고...
+[CHATGPT] parsed: 1677 chars, 34 parts
+[MANUAL GEN] response length: 1677
+[PARSE] 인트로: (18자) 광주온라인광고 운영하며 느낀 변화...
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 시작은 답답함에서 출발했던 광고 운영 경험  body: 216자
+  [sec 1] heading: 2. 문제는 광고가 아니라 흐름이라는 걸 알게 된 순간  body: 199자
+  [sec 2] heading: 3. 광주 지역 특성에 맞는 전략이 필요했던 이유  body: 157자
+  [sec 3] heading: 4. 단건 광고의 한계를 직접 느끼게 된 과정  body: 176자
+  [sec 4] heading: 5. 토탈 운영으로 바꾸고 나서 달라진 점  body: 188자
+  [sec 5] heading: 6. 현장 중심으로 맞춰주는 운영 방식의 차이  body: 140자
+  [sec 6] heading: 7. 지역 기반이라 가능한 빠른 피드백과 관리  body: 139자
+  [sec 7] heading: 8. 결국 느낀 건 광고가 아니라 구조의 힘이었다  body: 187자
+[TITLE] 엑셀 제목 유지: 광주온라인광고 운영하며 느낀 변화
+[PARSE] quotation 위치: [7, 18, 22]
+  [block 0] image → SKIP
+  [block 1] map → SKIP
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+[STYLE] 배경색 원본:4/4줄(80%) → GPT:1/1줄 적용
+  [block 4] text_bg → INTRO[0] (64자) styles=['배경색(4)']
+  [block 5] image → SKIP
+  [block 6] image → SKIP
+  [block 7] quotation → SEC[0].heading: 1. 시작은 답답함에서 출발했던 광고 운영 경험
+           body → 3개 text 블록에 분배
+[STYLE] 배경색 원본:4/3줄(80%) → GPT:2/3줄 적용
+  [block 8] text_bg → BODY[0] (152자) styles=['배경색(4)']
+  [block 9] image → SKIP
+  [block 10] image → SKIP
+[STYLE] 배경색 원본:6/3줄(80%) → GPT:2/3줄 적용
+  [block 11] text_bg → BODY[1] (155자) styles=['배경색(6)']
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+[STYLE] 배경색 원본:5/3줄(80%) → GPT:4/5줄 적용
+  [block 15] text_bg → BODY[2] (275자) styles=['배경색(5)']
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] quotation → SEC[1].heading: 2. 문제는 광고가 아니라 흐름이라는 걸 알게 된 순간
+           body → 1개 text 블록에 분배
+[STYLE] 배경색 원본:5/4줄(80%) → GPT:10/12줄 적용
+  [block 19] text_bg → BODY[0] (659자) styles=['배경색(5)']
+  [block 20] image → SKIP
+  [block 21] image → SKIP
+  [block 22] quotation → SEC[2].heading: 3. 광주 지역 특성에 맞는 전략이 필요했던 이유
+           body → 2개 text 블록에 분배
+[STYLE] 배경색 원본:5/4줄(80%) → GPT:3/4줄 적용
+  [block 23] text_bg → BODY[0] (219자) styles=['배경색(5)']
+  [block 24] video → SKIP
+[STYLE] 색상강조 원본:3/1줄(80%) → GPT:4/5줄 적용
+  [block 25] text_colored → BODY[1] (215자) styles=['색상강조(3)']
+  [block 26] map → SKIP
+  [block 27] extra_text → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 3/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 4] 텍스트: (64자) <span style="background-color:#FFF3CD">광주온라인광고 운영하며 느낀 변화</s...
+  [block 7] 인용구: (26자) 1. 시작은 답답함에서 출발했던 광고 운영 경험
+  [block 8] 텍스트: (152자) 가게를 운영하면서 가장 답답했던 건
+<span style="background-color:#FFF3CD">손...
+  [block 11] 텍스트: (155자) 가게가 멈춘 듯 조용한 날이 많았고요
+<span style="background-color:#FFF3CD">...
+  [block 15] 텍스트: (275자) 그래서 ‘광고가 원래 이런 건가’ 싶었죠
+<span style="background-color:#FFF3CD...
+  [block 18] 인용구: (30자) 2. 문제는 광고가 아니라 흐름이라는 걸 알게 된 순간
+  [block 19] 텍스트: (659자) 여러 번 광고를 바꿔보면서 느낀 건
+<span style="background-color:#FFF3CD">문...
+  [block 22] 인용구: (27자) 3. 광주 지역 특성에 맞는 전략이 필요했던 이유
+  [block 23] 텍스트: (219자) 광주는 상권이 생각보다 분산돼 있고
+<span style="background-color:#FFF3CD">입...
+  [block 25] 텍스트: (215자) 특히 가족 단위, 모임 손님이 많아서
+<span style="color:#FF6B6B">검색 → 비교 → 방...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 4개 규칙, 3건 적용
+[IMG] 1/14: 20250610_055859.jpg
+[IMG] 2/14: 20250610_055910.jpg
+[IMG] 3/14: 20250911_123523.jpg
+[IMG] 4/14: 20250911_123525(0).jpg
+[IMG] 5/14: 20250911_123527.jpg
+[IMG] 6/14: 20250911_123528.jpg
+[IMG] 7/14: 20250911_123538(0).jpg
+[IMG] 8/14: 20250911_123539(1).jpg
+[IMG] 9/14: 20250911_123541.jpg
+[IMG] 10/14: 20250911_124113(0).jpg
+[IMG] 11/14: 20250911_124113.jpg
+[IMG] 12/14: 20250911_124114(1).jpg
+[IMG] 13/14: 20250911_124115.jpg
+[IMG] 14/14: 20250911_124117.jpg
+[VIDEO] 1/6 토큰 획득: videoId=4E027448BC561C6A3E93...
+[VIDEO] 파일: 동영상 (0.0MB)
+[VIDEO ERROR] Expecting value: line 1 column 1 (char 0)
+[MAP] maps=[], excel_counter=0, query=""
+[추가문구] 블록[27] → extra[0]: 마케팅의고수/번호 클릭시 전화연결/문의 : 010-6795-2895(tel:010-6795
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[COMPONENT] extra_text[27] 삽입
+[COMPONENTS] 25 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 1] represent=False src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 15] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 19] represent=False src=...image.png
+  [IMG 20] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=ghkdtofha597&Redirect=View&logNo=224223196062&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanL
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 성공
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '14', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=12 → 다음 시작=14번째
+[SAVE BLOCKS] 42블록 저장
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4DFZ17FT4P5W013XM4GA28
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773969865860
+[MANUAL] prompt: 광주온라인광고 맡기고 문의 늘어난 경험 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단...
+[CHATGPT ERROR] HTTPConnectionPool(host='localhost', port=64046): Max retries exceeded with url: /session/a8c2cc488372bbbea57230591996fc32/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019CBA6845B0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+[PUBLISH ERROR] keyword=13, excel=0: HTTPConnectionPool(host='localhost', port=64046): Max retries exceeded with url: /session/a8c2cc488372bbbea57230591996fc32/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019CBA6845B0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: HTTPConnectionPool(host='local
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '15', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=13 → 다음 시작=15번째
+[MANUAL] current URL: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] focused tab: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-mak
+[SAVE BLOCKS] 42블록 저장
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4DJFVDF7A1S60QSKAB1E7D
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773969948623
+[MANUAL] prompt: 광주온라인광고 진행 뒤 유입 늘어난 후기 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd6...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5168 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="26"><strong data-start="0" data-end="26">광주온라인광고 진행 뒤 유입 늘어난 후기</strong></p>
+<p data-start="28" data-end="232"><strong data-start="28" data-end="54">1. 손님이 줄어든 매장에서 시작된 고민</strong><br data-start="54" data-end="57">
+가게 문을 열고 기다리는 시간이<br data-start="74" data-end="77">
+점점 길어지기 시작했어요<br data-start="90" data-end="93">
+예전에는 자연스럽게 오던 손님이<br data-start="110" data-end="113">
+어느 순간부터 뚝 끊기더라고요<br data-start="129" data-end="132">
+광주 상권 특성상 유동은 있는데<br data-start="149" data-end="152">
+저희 매장만 비껴가는 느낌이었어요<br data-start="170" data-end="173">
+블로그도 해보고 이벤트도 했지만<br data-start="190" data-end="193" data-is-only-node="">
+딱히 체감되는 변화는 없었고요<br data-start="209" data-end="212">
+이대로 가면 안 되겠다 싶었습니다</p>
+<p data-start="234" data-end="375"><strong data-start="234" data-end="261">2. 광고를 했지만 효과를 못 느꼈던 이유</strong><br data-start="261" data-end="264">
+사실 광고를 안 해본 건 아니었어요<br data-start="283" data-end="286">
+여기저기 단건으로 맡겨봤는데<br data-start="301" data-end="304">
+보여지는 건 늘었지만<br data-start="315" data-end="318">
+정작 방문으로 이어지지 않았어요<br data-start="335" data-end="338">
+사진은 예쁘고 글도 잘 썼는데<br data-start="354" data-end="357">
+왜 손님은 안 오는지 답답했죠</p>
+<blockquote data-start="376" data-end="432">
+<p data-start="378" data-end="432">광고는 보이는 게 아니라<br data-start="391" data-end="394">
+들어오게 만드는 구조라는 걸<br data-start="411" data-end="414">
+그때는 전혀 몰랐던 것 같아요</p>
+</blockquote>
+<p data-start="434" data-end="625"><strong data-start="434" data-end="458">3. 방향이 아닌 흐름을 바꾸는 상담</strong><br data-start="458" data-end="461">
+광주에서 입소문 난 광고사를<br data-start="476" data-end="479">
+지인 소개로 알게 됐습니다<br data-start="493" data-end="496">
+대표님이 직접 매장에 오셔서<br data-start="511" data-end="514">
+상권부터 동선까지 하나씩 보셨어요<br data-start="532" data-end="535">
+어디서 사람들이 흘러오는지<br data-start="549" data-end="552">
+왜 우리 매장을 지나치는지<br data-start="566" data-end="569">
+생각보다 디테일하게 짚어주시더라고요<br data-start="588" data-end="591" data-is-only-node="">
+단순 광고가 아니라<br data-start="601" data-end="604">
+가게 흐름을 다시 짜는 느낌이었어요</p>
+<p data-start="627" data-end="790"><strong data-start="627" data-end="653">4. 채널이 아닌 연결 구조를 만든 전략</strong><br data-start="653" data-end="656">
+블로그, 지도, 인스타를<br data-start="669" data-end="672">
+각각 따로 쓰는 게 아니라<br data-start="686" data-end="689">
+하나의 흐름으로 묶어주셨어요<br data-start="704" data-end="707">
+검색해서 들어오고<br data-start="716" data-end="719">
+사진 보고 관심 생기고<br data-start="731" data-end="734">
+지도 찍고 방문까지 이어지게요<br data-start="750" data-end="753">
+그동안은 따로 놀던 채널들이<br data-start="768" data-end="771" data-is-only-node="">
+이제는 역할이 생긴 느낌이었어요</p>
+<blockquote data-start="791" data-end="828">
+<p data-start="793" data-end="828">노출이 아니라 연결이 핵심이다<br data-start="809" data-end="812">
+이 말이 정말 와닿았습니다</p>
+</blockquote>
+<p data-start="830" data-end="1014"><strong data-start="830" data-end="854">5. 지역 특성을 반영한 디테일 변화</strong><br data-start="854" data-end="857">
+광주는 가족 단위 방문이 많아서<br data-start="874" data-end="877">
+메뉴 구성과 사진 방향도<br data-start="890" data-end="893">
+그에 맞게 바꾸자고 하셨어요<br data-start="908" data-end="911">
+실제로 가족이 선택할 때 보는 포인트<br data-start="931" 
+... (총 5168자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] p+strong
+  인용구: 1. 손님이 줄어든 매장에서 시작된 고민
+  텍스트: (157자) 가게 문을 열고 기다리는 시간이
+점점 길어지기 시작했어요
+예전에는 자연스럽게 오던 손님이
+어느 순간부터 뚝 ...
+[HTML PARSE] p+strong
+  인용구: 2. 광고를 했지만 효과를 못 느꼈던 이유
+  텍스트: (99자) 사실 광고를 안 해본 건 아니었어요
+여기저기 단건으로 맡겨봤는데
+보여지는 건 늘었지만
+정작 방문으로 이어지지...
+[HTML PARSE] p+strong
+  인용구: 3. 방향이 아닌 흐름을 바꾸는 상담
+  텍스트: (146자) 광주에서 입소문 난 광고사를
+지인 소개로 알게 됐습니다
+대표님이 직접 매장에 오셔서
+상권부터 동선까지 하나씩...
+[HTML PARSE] p+strong
+  인용구: 4. 채널이 아닌 연결 구조를 만든 전략
+  텍스트: (118자) 블로그, 지도, 인스타를
+각각 따로 쓰는 게 아니라
+하나의 흐름으로 묶어주셨어요
+검색해서 들어오고
+사진 보고...
+[HTML PARSE] p+strong
+  인용구: 5. 지역 특성을 반영한 디테일 변화
+  텍스트: (141자) 광주는 가족 단위 방문이 많아서
+메뉴 구성과 사진 방향도
+그에 맞게 바꾸자고 하셨어요
+실제로 가족이 선택할 ...
+[HTML PARSE] p+strong
+  인용구: 6. 단건이 아닌 토탈 관리의 차이
+  텍스트: (140자) 이전에는 하나씩 맡겼기 때문에
+문제가 생겨도 원인을 몰랐어요
+하지만 이번에는 전체를 같이 보니
+어디서 막히는...
+[HTML PARSE] p+strong
+  인용구: 7. 눈에 보이기 시작한 변화의 흐름
+  텍스트: (90자) 어느 순간부터 예약 문의가 늘고
+“블로그 보고 왔어요”
+“지도 보고 찾았어요”
+이런 말이 자연스럽게 들리더라...
+[HTML PARSE] p+strong
+  인용구: 8. 지금 느끼는 가장 큰 차이
+  텍스트: (158자) 지금은 매장을 운영하면서도
+혼자 끌고 간다는 느낌이 없어요
+상권 흐름을 같이 보고
+전략을 계속 수정해주니까
+...
+[CHATGPT] parsed: 1395 chars, 20 parts
+[MANUAL GEN] response length: 1395
+[PARSE] 인트로: (22자) 광주온라인광고 진행 뒤 유입 늘어난 후기...
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 손님이 줄어든 매장에서 시작된 고민  body: 157자
+  [sec 1] heading: 2. 광고를 했지만 효과를 못 느꼈던 이유  body: 146자
+  [sec 2] heading: 3. 방향이 아닌 흐름을 바꾸는 상담  body: 146자
+  [sec 3] heading: 4. 채널이 아닌 연결 구조를 만든 전략  body: 150자
+  [sec 4] heading: 5. 지역 특성을 반영한 디테일 변화  body: 141자
+  [sec 5] heading: 6. 단건이 아닌 토탈 관리의 차이  body: 140자
+  [sec 6] heading: 7. 눈에 보이기 시작한 변화의 흐름  body: 137자
+  [sec 7] heading: 8. 지금 느끼는 가장 큰 차이  body: 158자
+[TITLE] 엑셀 제목 유지: 광주온라인광고 진행 뒤 유입 늘어난 후기
+[PARSE] quotation 위치: [1, 11, 23, 28, 32]
+  [block 0] image → SKIP
+  [block 1] quotation → SEC[0].heading: 1. 손님이 줄어든 매장에서 시작된 고민
+           body → 2개 text 블록에 분배
+  [block 2] text → BODY[0] (66자) styles=[]
+  [block 3] map → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] image → SKIP
+[STYLE] 배경색 원본:4/4줄(80%) → GPT:4/5줄 적용
+  [block 7] text_bg → BODY[1] (274자) styles=['배경색(4)']
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] image → SKIP
+  [block 11] quotation → SEC[1].heading: 2. 광고를 했지만 효과를 못 느꼈던 이유
+           body → 3개 text 블록에 분배
+[STYLE] 배경색 원본:4/3줄(80%) → GPT:2/3줄 적용
+  [block 12] text_bg → BODY[0] (139자) styles=['배경색(4)']
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+[STYLE] 배경색 원본:6/3줄(80%) → GPT:2/3줄 적용
+  [block 15] text_bg → BODY[1] (143자) styles=['배경색(6)']
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+[STYLE] 배경색 원본:5/3줄(80%) → GPT:2/3줄 적용
+  [block 19] text_bg → BODY[2] (138자) styles=['배경색(5)']
+  [block 20] image → SKIP
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] quotation → SEC[2].heading: 3. 방향이 아닌 흐름을 바꾸는 상담
+           body → 1개 text 블록에 분배
+[STYLE] 배경색 원본:5/4줄(80%) → GPT:7/9줄 적용
+  [block 24] text_bg → BODY[0] (468자) styles=['배경색(5)']
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[3].heading: 4. 채널이 아닌 연결 구조를 만든 전략
+           body → 0개 text 블록에 분배
+  [block 29] image → SKIP
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] quotation → SEC[4].heading: 5. 지역 특성을 반영한 디테일 변화
+           body → 3개 text 블록에 분배
+  [block 33] text → BODY[0] (31자) styles=[]
+  [block 34] image → SKIP
+  [block 35] image → SKIP
+  [block 36] image → SKIP
+[STYLE] 배경색 원본:5/4줄(80%) → GPT:2/2줄 적용
+  [block 37] text_bg → BODY[1] (128자) styles=['배경색(5)']
+  [block 38] video → SKIP
+[STYLE] 색상강조 원본:3/1줄(80%) → GPT:3/4줄 적용
+  [block 39] text_colored → BODY[2] (177자) styles=['색상강조(3)']
+  [block 40] map → SKIP
+  [block 41] extra_text → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 5/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 인용구: (22자) 1. 손님이 줄어든 매장에서 시작된 고민
+  [block 2] 텍스트: (66자) 가게 문을 열고 기다리는 시간이
+점점 길어지기 시작했어요
+예전에는 자연스럽게 오던 손님이
+어느 순간부터 뚝 ...
+  [block 7] 텍스트: (274자) 광주 상권 특성상 유동은 있는데
+<span style="background-color:#FFF3CD">저희 ...
+  [block 11] 인용구: (23자) 2. 광고를 했지만 효과를 못 느꼈던 이유
+  [block 12] 텍스트: (139자) 사실 광고를 안 해본 건 아니었어요
+<span style="background-color:#FFF3CD">여...
+  [block 15] 텍스트: (143자) 정작 방문으로 이어지지 않았어요
+<span style="background-color:#FFF3CD">사진은...
+  [block 19] 텍스트: (138자) 광고는 보이는 게 아니라
+<span style="background-color:#FFF3CD">들어오게 만드...
+  [block 23] 인용구: (20자) 3. 방향이 아닌 흐름을 바꾸는 상담
+  [block 24] 텍스트: (468자) 광주에서 입소문 난 광고사를
+<span style="background-color:#FFF3CD">지인 소개...
+  [block 28] 인용구: (22자) 4. 채널이 아닌 연결 구조를 만든 전략
+  [block 32] 인용구: (20자) 5. 지역 특성을 반영한 디테일 변화
+  [block 33] 텍스트: (31자) 광주는 가족 단위 방문이 많아서
+메뉴 구성과 사진 방향도
+  [block 37] 텍스트: (128자) <span style="background-color:#FFF3CD">그에 맞게 바꾸자고 하셨어요</span...
+  [block 39] 텍스트: (177자) 그걸 콘텐츠에 녹여내더라고요
+<span style="color:#FF6B6B">매장 앞 동선에서 보이는 간판...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 4개 규칙, 4건 적용
+[IMG] 1/24: 20250610_055859.jpg
+[IMG] 2/24: 20250610_055910.jpg
+[IMG] 3/24: 20250911_123523.jpg
+[IMG] 4/24: 20250911_123525(0).jpg
+[IMG] 5/24: 20250911_123527.jpg
+[IMG] 6/24: 20250911_123528.jpg
+[IMG] 7/24: 20250911_123538(0).jpg
+[IMG] 8/24: 20250911_123539(1).jpg
+[IMG] 9/24: 20250911_123541.jpg
+[IMG] 10/24: 20250911_124113(0).jpg
+[IMG] 11/24: 20250911_124113.jpg
+[IMG] 12/24: 20250911_124114(1).jpg
+[IMG] 13/24: 20250911_124115.jpg
+[IMG] 14/24: 20250911_124117.jpg
+[IMG] 15/24: 20250911_124118(0).jpg
+[IMG] 16/24: 20250911_124119(0).jpg
+[IMG] 17/24: 20250911_124120(0).jpg
+[IMG] 18/24: 20250911_124120.jpg
+[IMG] 19/24: 20250911_124123.jpg
+[IMG] 20/24: 20250911_124124.jpg
+[IMG] 21/24: 20250911_124138.jpg
+[IMG] 22/24: 20250911_124857.jpg
+[IMG] 23/24: 20250911_124915.jpg
+[IMG] 24/24: 20250911_124917(0).jpg
+[VIDEO] 1/6 토큰 획득: videoId=0D6B5C31D02CB48ED419...
+[VIDEO] 파일: 동영상 (0.0MB)
+[VIDEO ERROR] Expecting value: line 1 column 1 (char 0)
+[MAP] maps=[], excel_counter=0, query=""
+[추가문구] 블록[41] → extra[0]: 마케팅의고수/번호 클릭시 전화연결/문의 : 010-6795-2895(tel:010-6795
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[COMPONENT] extra_text[41] 삽입
+[COMPONENTS] 39 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 15] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 19] represent=False src=...image.png
+  [IMG 20] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 28] represent=False src=...image.png
+  [IMG 29] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 33] represent=False src=...image.png
+  [IMG 34] represent=False src=...image.png
+  [IMG 35] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=ghkdtofha597&Redirect=View&logNo=224223205976&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanL
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 성공
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=14 → 다음 시작=16번째
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 45블록 저장
+[SAVE BLOCKS] 45블록 저장
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] current URL: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] focused tab: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-mak
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=14 → 다음 시작=16번째
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=14 → 다음 시작=16번째
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=14 → 다음 시작=16번째
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '16', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=14 → 다음 시작=16번째
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '1', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
