@@ -1,0 +1,79 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[LOAD OPTIONS] gen_mode set to: api
+[LOAD OPTIONS] done. gen_mode_var=api
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[MANUAL] focused tab: https://chatgpt.com/
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[IP] 현재 IP: 218.151.17.201
+[IP] 변경 시도 1/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '2', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '2', 'img_after_use': 'keep', 'text_align': 'left'}
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie injected from C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4B3NZRKJAZPTX6JMYKFCEV
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967366636
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4B3PQ3PB2JYMSJK916TT31
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967366994
+[PUBLISH ERROR] keyword=1, excel=0: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: Error code: 401 - {'error': {'
+[PUBLISH ERROR] keyword=0, excel=0: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: Error code: 401 - {'error': {'
+[IP] 현재 IP: 218.151.17.201
+[IP] 변경 시도 1/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 2/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 3/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 4/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[IP] 변경 시도 5/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[IP] 변경 시도 6/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[LOGIN] 로그인 유지 체크
+[IP] 변경 시도 7/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_dlachdus6925.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4B6CXY7Y5N0KT4SQWRZS29
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967455261
+[PUBLISH ERROR] keyword=2, excel=1: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #2 실패: Error code: 401 - {'error': {'
+[IP] 변경 시도 8/10: result=ADB 미설치 (C:/platform-tools/adb.exe)
+[IP] 새 IP: 218.151.17.201
+[IP] 변경 실패: old=218.151.17.201, new=218.151.17.201 → 10초 대기
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '4', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=2 → 다음 시작=4번째
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
