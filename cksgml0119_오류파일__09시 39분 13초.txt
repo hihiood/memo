@@ -1,0 +1,56 @@
+[LOAD OPTIONS] config has options: False
+[LOAD OPTIONS] opts: {}
+[SAVE] 분석 저장: https://blog.naver.com/adios_mombly/224221894147, 28블록
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 28블록 저장
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SERVER] changed to: https://vmwareflask.autoprogram.life/
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SERVER] changed to: https://sgtestflask.autoprogram.blog/
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '3', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '2', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '20', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[MANUAL] chromedriver PID 2132 killed
+[MANUAL] chromedriver PID 2180 killed
+[MANUAL] chromedriver PID 11572 killed
+[MANUAL] chromedriver PID 20432 killed
+[MANUAL] chromedriver PID 20604 killed
+[MANUAL] chromedriver PID 20760 killed
+[MANUAL] chromedriver PID 21204 killed
+[MANUAL] chromedriver PID 21312 killed
+[MANUAL] chromedriver PID 23104 killed
+[MANUAL] chromedriver PID 24980 killed
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] current URL: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] focused tab: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-mak
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 29블록 저장
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '20', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '1', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SERVER] changed to: https://vmwareflask.autoprogram.life/
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] current URL: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-maketingyigosugpt
+[MANUAL] focused tab: https://chatgpt.com/g/g-6870a3f9f64c8191b9538fbcd67c4153-mak
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Downloads\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM4AVNW5VQ0EDGC87J51PRSH
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1773967103974
+[PUBLISH ERROR] keyword=0, excel=0: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-pY-. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[REPORT] C:\Users\userpc\Downloads\프로그램\report_20260320.csv: #1 실패: Error code: 401 - {'error': {'
+[SAVE OPTIONS] {'interval': '2', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '10', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '2', 'img_after_use': 'keep', 'text_align': 'left'}
+[STOP] keyword_counter=0 → 다음 시작=2번째
