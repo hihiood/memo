@@ -1,0 +1,484 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '4', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] current URL: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] focused tab: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-mir
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '4', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '4', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\User\Desktop\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\User\Desktop\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9NF5MWX14ZTDFN3RNHZFSZ
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774146000627
+[MANUAL] prompt: 전주온라인광고 고민하다 진행한 솔직 후기 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5765 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="26"><strong data-start="0" data-end="26">전주온라인광고 고민하다 진행한 솔직 후기</strong></p>
+<ol data-start="28" data-end="1904" data-is-only-node="" data-is-last-node="">
+<li data-section-id="1pv6str" data-start="28" data-end="243">
+<p data-start="31" data-end="243">시작은 막막함에서 느낀 변화의 필요성<br data-start="51" data-end="54">
+가게를 운영하면서 늘 느꼈던 건<br data-start="71" data-end="74">
+열심히는 하는데 방향이 맞는지에 대한<br data-start="94" data-end="97">
+확신이 없다는 점이었어요<br data-start="110" data-end="113">
+특히 온라인 흐름이 계속 바뀌다 보니<br data-start="133" data-end="136">
+어디에 힘을 써야 하는지도 애매했고요<br data-start="156" data-end="159">
+혼자 이것저것 시도해보기도 했지만<br data-start="177" data-end="180">
+결과가 이어지지 않는 부분이 아쉬웠어요<br data-start="201" data-end="204">
+그래서 결국은 제대로 맡겨보자는<br data-start="221" data-end="224">
+생각이 들면서 고민이 시작됐어요</p>
+</li>
+<li data-section-id="b60az6" data-start="245" data-end="474">
+<p data-start="248" data-end="474">처음 마주한 브랜드의 분위기와 인상<br data-start="267" data-end="270">
+여러 곳을 알아보던 중에 느낀 건<br data-start="288" data-end="291">
+겉으로 보이는 말보다 실제 운영 방식이<br data-start="312" data-end="315">
+훨씬 중요하다는 점이었어요<br data-start="329" data-end="332">
+이곳은 사무실 분위기부터 달랐고<br data-start="349" data-end="352">
+체계적으로 돌아가는 느낌이 강했어요<br data-start="371" data-end="374">
+단순히 광고만 하는 곳이 아니라<br data-start="391" data-end="394">
+내부에서 시스템이 돌아가는 구조가<br data-start="412" data-end="415">
+눈에 보이는 점이 인상 깊었어요<br data-start="432" data-end="435">
+실무자들이 각자 역할이 분명했고<br data-start="452" data-end="455">
+그게 신뢰로 이어졌던 것 같아요</p>
+</li>
+<li data-section-id="76gc4n" data-start="476" data-end="727">
+<p data-start="479" data-end="727">AI와 빅데이터 기반 운영 구조 경험<br data-start="499" data-end="502">
+가장 놀랐던 건 사람이 감으로 하는 게 아니라<br data-start="527" data-end="530">
+데이터 중심으로 움직인다는 점이었어요<br data-start="550" data-end="553">
+캠페인을 세팅하고 나면 자동으로<br data-start="570" data-end="573">
+반응을 분석하면서 방향을 조정해주는데<br data-start="593" data-end="596">
+이게 생각보다 빠르게 돌아가더라고요<br data-start="615" data-end="618">
+대시보드로 흐름을 한눈에 볼 수 있었고<br data-start="639" data-end="642">
+변화가 어떻게 쌓이는지도 확인 가능했어요<br data-start="664" data-end="667">
+사람이 놓칠 수 있는 부분까지<br data-start="683" data-end="686">
+AI가 체크해주는 느낌이 강했어요<br data-start="704" data-end="707">
+확실히 정교하다는 생각이 들었어요</p>
+</li>
+<li data-section-id="1pd59r1" data-start="729" data-end="960">
+<p data-start="732" data-end="960">업종별 맞춤 실행이 만들어낸 차이<br data-start="750" data-end="753">
+같은 방식이 아니라 업종마다<br data-start="768" data-end="771">
+완전히 다르게 접근하는 것도 인상적이었어요<br data-start="794" data-end="797">
+교육 관련 매장은 신뢰 중심으로<br data-start="814" data-end="817">
+이커머스는 전환 흐름 중심으로<br data-start="833" data-end="836">
+각각 방향을 다르게 잡아주더라고요<br data-start="854" data-end="857">
+신규 오픈 매장은 인지도부터 쌓고<br data-start="875" data-end="878">
+매출이 줄어든 곳은 구조를 다시 잡아<br data-start="898" data-end="901">
+흐름을 살리는 방식으로 진행됐어요<br data-start="919" data-end="922">
+이런 맞춤 전략이 실제 체감으로<br data-start="939" data-end="942">
+이어지는 게 확실히 느껴졌어요</p>
+</li>
+<li data-section-id="132ubul" data-start="962" data-end="1185">
+<p data-start="965" data-end="1185">3D 시안과 숏폼 제작의 현실감<br data-start="982" data-end="985">
+광고를 
+... (총 5765자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 시작은 막막함에서 느낀 변화의 필요성
+  텍스트: (171자) 가게를 운영하면서 늘 느꼈던 건
+열심히는 하는데 방향이 맞는지에 대한
+확신이 없다는 점이었어요
+특히 온라인 흐름이 계속 바뀌다 보니
+어디에 힘을...
+[HTML PARSE] li[2]
+  인용구: 처음 마주한 브랜드의 분위기와 인상
+  텍스트: (184자) 여러 곳을 알아보던 중에 느낀 건
+겉으로 보이는 말보다 실제 운영 방식이
+훨씬 중요하다는 점이었어요
+이곳은 사무실 분위기부터 달랐고
+체계적으로 ...
+[HTML PARSE] li[3]
+  인용구: AI와 빅데이터 기반 운영 구조 경험
+  텍스트: (205자) 가장 놀랐던 건 사람이 감으로 하는 게 아니라
+데이터 중심으로 움직인다는 점이었어요
+캠페인을 세팅하고 나면 자동으로
+반응을 분석하면서 방향을 조...
+[HTML PARSE] li[4]
+  인용구: 업종별 맞춤 실행이 만들어낸 차이
+  텍스트: (187자) 같은 방식이 아니라 업종마다
+완전히 다르게 접근하는 것도 인상적이었어요
+교육 관련 매장은 신뢰 중심으로
+이커머스는 전환 흐름 중심으로
+각각 방향...
+[HTML PARSE] li[5]
+  인용구: 3D 시안과 숏폼 제작의 현실감
+  텍스트: (180자) 광고를 시작하기 전에 3D 시안으로
+미리 결과를 확인할 수 있었던 점이
+굉장히 신선하게 다가왔어요
+매장 분위기나 디자인 방향까지
+눈으로 보니까 ...
+[HTML PARSE] li[6]
+  인용구: 전국 센터 협업과 실시간 대응력
+  텍스트: (185자) 운영을 하다 보면 변수는 항상 생기는데
+여기는 대응 속도가 정말 빠른 편이었어요
+지역 담당자와 바로 연결되고
+필요한 부분은 다른 센터와도
+바로 ...
+[HTML PARSE] li[7]
+  인용구: 다채널 통합 관리의 편리함
+  텍스트: (175자) 블로그부터 홈페이지, 쇼핑몰까지
+흐름이 따로 노는 게 아니라
+하나로 연결되는 구조였어요
+네이버, 구글, 카카오, 메타까지
+여러 채널이 동시에 운...
+[HTML PARSE] li[8]
+  인용구: 결국 느끼게 된 변화와 신뢰
+  텍스트: (227자) 시간이 지나면서 가장 크게 느낀 건
+조금씩 안정되는 흐름이었어요
+단건으로 했을 때와는 다르게
+전체를 같이 관리하니까 부족한 부분이
+빠르게 보완되...
+[CHATGPT] parsed: 1732 chars, 17 parts
+[MANUAL GEN] response length: 1732
+[PARSE] GPT 제목 감지: 전주온라인광고 고민하다 진행한 솔직 후기
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 시작은 막막함에서 느낀 변화의 필요성  body: 171자
+  [sec 1] heading: 2. 처음 마주한 브랜드의 분위기와 인상  body: 184자
+  [sec 2] heading: 3. AI와 빅데이터 기반 운영 구조 경험  body: 205자
+  [sec 3] heading: 4. 업종별 맞춤 실행이 만들어낸 차이  body: 187자
+  [sec 4] heading: 5. 3D 시안과 숏폼 제작의 현실감  body: 180자
+  [sec 5] heading: 6. 전국 센터 협업과 실시간 대응력  body: 185자
+  [sec 6] heading: 7. 다채널 통합 관리의 편리함  body: 175자
+  [sec 7] heading: 8. 결국 느끼게 된 변화와 신뢰  body: 227자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 고민하다 진행한 솔직 후기
+[PARSE] quotation 위치: [9, 18, 27]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (202자)
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → SEC[1] bold heading+body (214자)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → SEC[2].heading: 3. AI와 빅데이터 기반 운영 구조 경험
+           body → 1개 text 블록에 배정
+  [block 10] text → BODY[0] (205자) styles=[]
+  [block 11] image → SKIP
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] text → SEC[3] bold heading+body (216자)
+  [block 15] image → SKIP
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] quotation → SEC[4].heading: 5. 3D 시안과 숏폼 제작의 현실감
+           body → 1개 text 블록에 배정
+  [block 19] text → BODY[0] (180자) styles=[]
+  [block 20] image → SKIP
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → SEC[5] bold heading+body (213자)
+  [block 24] image → SKIP
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] quotation → SEC[6].heading: 7. 다채널 통합 관리의 편리함
+           body → 1개 text 블록에 배정
+  [block 28] text → BODY[0] (175자) styles=[]
+  [block 29] image → SKIP
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] text → SEC[7] bold heading+body (253자)
+  [block 33] video → SKIP
+  [block 34] extra_text → SKIP
+  [block 35] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (202자) <b>1. 시작은 막막함에서 느낀 변화의 필요성</b>
+가게를 운영하면서 늘 느꼈던 건
+열심히는 하는데 방향...
+  [block 5] 텍스트: (214자) <b>2. 처음 마주한 브랜드의 분위기와 인상</b>
+여러 곳을 알아보던 중에 느낀 건
+겉으로 보이는 말보다...
+  [block 9] 인용구: (23자) 3. AI와 빅데이터 기반 운영 구조 경험
+  [block 10] 텍스트: (205자) 가장 놀랐던 건 사람이 감으로 하는 게 아니라
+데이터 중심으로 움직인다는 점이었어요
+캠페인을 세팅하고 나면 ...
+  [block 14] 텍스트: (216자) <b>4. 업종별 맞춤 실행이 만들어낸 차이</b>
+같은 방식이 아니라 업종마다
+완전히 다르게 접근하는 것도...
+  [block 18] 인용구: (20자) 5. 3D 시안과 숏폼 제작의 현실감
+  [block 19] 텍스트: (180자) 광고를 시작하기 전에 3D 시안으로
+미리 결과를 확인할 수 있었던 점이
+굉장히 신선하게 다가왔어요
+매장 분위...
+  [block 23] 텍스트: (213자) <b>6. 전국 센터 협업과 실시간 대응력</b>
+운영을 하다 보면 변수는 항상 생기는데
+여기는 대응 속도가...
+  [block 27] 인용구: (17자) 7. 다채널 통합 관리의 편리함
+  [block 28] 텍스트: (175자) 블로그부터 홈페이지, 쇼핑몰까지
+흐름이 따로 노는 게 아니라
+하나로 연결되는 구조였어요
+네이버, 구글, 카카...
+  [block 32] 텍스트: (253자) <b>8. 결국 느끼게 된 변화와 신뢰</b>
+시간이 지나면서 가장 크게 느낀 건
+조금씩 안정되는 흐름이었어...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20250424_105602.jpg
+[IMG] 2/22: 20250424_105607(1).jpg
+[IMG] 3/22: 20250424_105632.jpg
+[IMG] 4/22: 20250424_105633.jpg
+[IMG] 5/22: 20250424_105637(0).jpg
+[IMG] 6/22: 20250510_201819.jpg
+[IMG] 7/22: 20250510_201821.jpg
+[IMG] 8/22: 20250510_201823.jpg
+[IMG] 9/22: 20250510_201851.jpg
+[IMG] 10/22: 20250510_202048(0).jpg
+[IMG] 11/22: 20250510_202049(0).jpg
+[IMG] 12/22: 20250510_202104.jpg
+[IMG] 13/22: 20250511_150029(0).jpg
+[IMG] 14/22: 20250511_150029.jpg
+[IMG] 15/22: 20250511_150031.jpg
+[IMG] 16/22: 20250511_150051.jpg
+[IMG] 17/22: 20250514_111804(0).jpg
+[IMG] 18/22: 20250514_111828(1).jpg
+[IMG] 19/22: 20250514_111901(2).jpg
+[IMG] 20/22: 20250514_111958.jpg
+[IMG] 21/22: 20250517_191853.jpg
+[IMG] 22/22: 20250517_191857(0).jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=20B5C5777E21F7C412E3...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=ebe42c10-2595-11f1-b...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [VideoHeader:done, Ingest:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=20B5C5777E21F7C412E3...
+[MAP] maps=[], excel_counter=0, query=""
+[추가문구] 블록[34] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[RANDOM BG] #FFF3CD 적용: 6/10줄 (확률80%, 비율60%)
+[RANDOM BG] #FFF3CD 적용: 6/11줄 (확률80%, 비율60%)
+[RANDOM BG] #FFF3CD 적용: 6/10줄 (확률80%, 비율60%)
+[RANDOM BG] #F8D7DA 적용: 6/11줄 (확률80%, 비율60%)
+[RANDOM BG] #D4EDDA 적용: 6/10줄 (확률80%, 비율60%)
+[RANDOM BG] #CCE5FF 적용: 6/11줄 (확률80%, 비율60%)
+[RANDOM BG] #FDEBD0 적용: 6/10줄 (확률80%, 비율60%)
+[RANDOM BG] #FDEBD0 적용: 7/13줄 (확률80%, 비율60%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[34] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스
+[COMPONENTS] 36 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 15] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 20] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 29] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=ghkdtofha597&Redirect=View&logNo=224225327027&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanL
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #1 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=4, excel=1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x12d7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x12d7d44+10f04]
+	undetected_chromedriver!(No symbol) [0x10b1f50]
+	undetected_chromedriver!(No symbol) [0x10fa9aa]
+	undetected_chromedriver!(No symbol) [0x10fac4b]
+	undetected_chromedriver!(No symbol) [0x113cee2]
+	undetected_chromedriver!(No symbol) [0x111d954]
+	undetected_chromedriver!(No symbol) [0x113a7de]
+	undetected_chromedriver!(No symbol) [0x111d6a6]
+	undetected_chromedriver!(No symbol) [0x10f0029]
+	undetected_chromedriver!(No symbol) [0x10f0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1534509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x152fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x154d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x12f1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12f97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x12e0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x12e0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x12c99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #2 실패: Message: no such element: Unab
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=5, excel=2: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x12d7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x12d7d44+10f04]
+	undetected_chromedriver!(No symbol) [0x10b1f50]
+	undetected_chromedriver!(No symbol) [0x10fa9aa]
+	undetected_chromedriver!(No symbol) [0x10fac4b]
+	undetected_chromedriver!(No symbol) [0x113cee2]
+	undetected_chromedriver!(No symbol) [0x111d954]
+	undetected_chromedriver!(No symbol) [0x113a7de]
+	undetected_chromedriver!(No symbol) [0x111d6a6]
+	undetected_chromedriver!(No symbol) [0x10f0029]
+	undetected_chromedriver!(No symbol) [0x10f0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1534509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x152fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x154d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x12f1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12f97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x12e0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x12e0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x12c99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #3 실패: Message: no such element: Unab
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=6, excel=3: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x12d7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x12d7d44+10f04]
+	undetected_chromedriver!(No symbol) [0x10b1f50]
+	undetected_chromedriver!(No symbol) [0x10fa9aa]
+	undetected_chromedriver!(No symbol) [0x10fac4b]
+	undetected_chromedriver!(No symbol) [0x113cee2]
+	undetected_chromedriver!(No symbol) [0x111d954]
+	undetected_chromedriver!(No symbol) [0x113a7de]
+	undetected_chromedriver!(No symbol) [0x111d6a6]
+	undetected_chromedriver!(No symbol) [0x10f0029]
+	undetected_chromedriver!(No symbol) [0x10f0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1534509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x152fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x154d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x12f1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12f97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x12e0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x12e0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x12c99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #4 실패: Message: no such element: Unab
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=7, excel=4: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x12d7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x12d7d44+10f04]
+	undetected_chromedriver!(No symbol) [0x10b1f50]
+	undetected_chromedriver!(No symbol) [0x10fa9aa]
+	undetected_chromedriver!(No symbol) [0x10fac4b]
+	undetected_chromedriver!(No symbol) [0x113cee2]
+	undetected_chromedriver!(No symbol) [0x111d954]
+	undetected_chromedriver!(No symbol) [0x113a7de]
+	undetected_chromedriver!(No symbol) [0x111d6a6]
+	undetected_chromedriver!(No symbol) [0x10f0029]
+	undetected_chromedriver!(No symbol) [0x10f0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1534509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x152fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x154d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x12f1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12f97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x12e0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x12e0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x12c99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #5 실패: Message: no such element: Unab
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=8, excel=5: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x12d7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x12d7d44+10f04]
+	undetected_chromedriver!(No symbol) [0x10b1f50]
+	undetected_chromedriver!(No symbol) [0x10fa9aa]
+	undetected_chromedriver!(No symbol) [0x10fac4b]
+	undetected_chromedriver!(No symbol) [0x113cee2]
+	undetected_chromedriver!(No symbol) [0x111d954]
+	undetected_chromedriver!(No symbol) [0x113a7de]
+	undetected_chromedriver!(No symbol) [0x111d6a6]
+	undetected_chromedriver!(No symbol) [0x10f0029]
+	undetected_chromedriver!(No symbol) [0x10f0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1534509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x152fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x154d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x12f1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12f97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x12e0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x12e0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x12c99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #6 실패: Message: no such element: Unab
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=9, excel=6: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x12d7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x12d7d44+10f04]
+	undetected_chromedriver!(No symbol) [0x10b1f50]
+	undetected_chromedriver!(No symbol) [0x10fa9aa]
+	undetected_chromedriver!(No symbol) [0x10fac4b]
+	undetected_chromedriver!(No symbol) [0x113cee2]
+	undetected_chromedriver!(No symbol) [0x111d954]
+	undetected_chromedriver!(No symbol) [0x113a7de]
+	undetected_chromedriver!(No symbol) [0x111d6a6]
+	undetected_chromedriver!(No symbol) [0x10f0029]
+	undetected_chromedriver!(No symbol) [0x10f0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1534509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x152fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x154d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x12f1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x12f97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x12e0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x12e0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x12c99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #7 실패: Message: no such element: Unab
