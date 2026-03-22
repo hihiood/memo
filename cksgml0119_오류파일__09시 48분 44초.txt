@@ -1,0 +1,162 @@
+[LOAD OPTIONS] config has options: False
+[LOAD OPTIONS] opts: {}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SERVER] changed to: https://vmwareflask.autoprogram.life/
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SERVER] changed to: https://vmwareflask.autoprogram.life/
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 6}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE] 분석 저장: https://blog.naver.com/modern_franc/224219708101, 37블록
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'api', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE BLOCKS] 36블록 저장
+[SAVE BLOCKS] 36블록 저장
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 36블록 저장
+[SAVE BLOCKS] 36블록 저장
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] current URL: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] focused tab: https://appleid.apple.com/auth/authorize?response_type=code&
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=0, excel=0: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd37c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0xd37d44+10f04]
+	undetected_chromedriver!(No symbol) [0xb11f50]
+	undetected_chromedriver!(No symbol) [0xb5a9aa]
+	undetected_chromedriver!(No symbol) [0xb5ac4b]
+	undetected_chromedriver!(No symbol) [0xb9cee2]
+	undetected_chromedriver!(No symbol) [0xb7d954]
+	undetected_chromedriver!(No symbol) [0xb9a7de]
+	undetected_chromedriver!(No symbol) [0xb7d6a6]
+	undetected_chromedriver!(No symbol) [0xb50029]
+	undetected_chromedriver!(No symbol) [0xb50de4]
+	undetected_chromedriver!GetHandleVerifier [0xf94509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0xf8fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0xfad85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0xd51668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0xd597fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0xd40588+19748]
+	undetected_chromedriver!GetHandleVerifier [0xd40752+19912]
+	undetected_chromedriver!GetHandleVerifier [0xd299da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #1 실패: Message: no such element: Unab
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[SAVE OPTIONS] {'interval': '', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '2', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '21', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=0, excel=0: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd37c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0xd37d44+10f04]
+	undetected_chromedriver!(No symbol) [0xb11f50]
+	undetected_chromedriver!(No symbol) [0xb5a9aa]
+	undetected_chromedriver!(No symbol) [0xb5ac4b]
+	undetected_chromedriver!(No symbol) [0xb9cee2]
+	undetected_chromedriver!(No symbol) [0xb7d954]
+	undetected_chromedriver!(No symbol) [0xb9a7de]
+	undetected_chromedriver!(No symbol) [0xb7d6a6]
+	undetected_chromedriver!(No symbol) [0xb50029]
+	undetected_chromedriver!(No symbol) [0xb50de4]
+	undetected_chromedriver!GetHandleVerifier [0xf94509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0xf8fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0xfad85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0xd51668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0xd597fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0xd40588+19748]
+	undetected_chromedriver!GetHandleVerifier [0xd40752+19912]
+	undetected_chromedriver!GetHandleVerifier [0xd299da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #1 실패: Message: no such element: Unab
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] current URL: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] focused tab: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-mir
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=1, excel=0: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x677c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x677d44+10f04]
+	undetected_chromedriver!(No symbol) [0x451f50]
+	undetected_chromedriver!(No symbol) [0x49a9aa]
+	undetected_chromedriver!(No symbol) [0x49ac4b]
+	undetected_chromedriver!(No symbol) [0x4dcee2]
+	undetected_chromedriver!(No symbol) [0x4bd954]
+	undetected_chromedriver!(No symbol) [0x4da7de]
+	undetected_chromedriver!(No symbol) [0x4bd6a6]
+	undetected_chromedriver!(No symbol) [0x490029]
+	undetected_chromedriver!(No symbol) [0x490de4]
+	undetected_chromedriver!GetHandleVerifier [0x8d4509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x8cfb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x8ed85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x691668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x6997fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x680588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x680752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x6699da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #1 실패: Message: no such element: Unab
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[PUBLISH ERROR] keyword=2, excel=1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="id"]"}
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x11b7c13+10dd3]
+	undetected_chromedriver!GetHandleVerifier [0x11b7d44+10f04]
+	undetected_chromedriver!(No symbol) [0xf91f50]
+	undetected_chromedriver!(No symbol) [0xfda9aa]
+	undetected_chromedriver!(No symbol) [0xfdac4b]
+	undetected_chromedriver!(No symbol) [0x101cee2]
+	undetected_chromedriver!(No symbol) [0xffd954]
+	undetected_chromedriver!(No symbol) [0x101a7de]
+	undetected_chromedriver!(No symbol) [0xffd6a6]
+	undetected_chromedriver!(No symbol) [0xfd0029]
+	undetected_chromedriver!(No symbol) [0xfd0de4]
+	undetected_chromedriver!GetHandleVerifier [0x1414509+26d6c9]
+	undetected_chromedriver!GetHandleVerifier [0x140fb43+268d03]
+	undetected_chromedriver!GetHandleVerifier [0x142d85b+286a1b]
+	undetected_chromedriver!GetHandleVerifier [0x11d1668+2a828]
+	undetected_chromedriver!GetHandleVerifier [0x11d97fd+329bd]
+	undetected_chromedriver!GetHandleVerifier [0x11c0588+19748]
+	undetected_chromedriver!GetHandleVerifier [0x11c0752+19912]
+	undetected_chromedriver!GetHandleVerifier [0x11a99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75c8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x776882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7768827e+ee]
+
+[REPORT] C:\Users\User\Desktop\프로그램\report_20260322.csv: #2 실패: Message: no such element: Unab
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '4', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 60}
+[STOP] keyword_counter=2 → 다음 시작=4번째
