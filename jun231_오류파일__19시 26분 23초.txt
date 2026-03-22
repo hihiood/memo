@@ -1,0 +1,8 @@
+[FoxAlba Error]
+2026-03-22 19:26:21.931698
+User: jun231
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\Desktop\period_click\foxalba.py", line 960, in _run_macro
+    raise Exception("로그인 실패")
+Exception: 로그인 실패
