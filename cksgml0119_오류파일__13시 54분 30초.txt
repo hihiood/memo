@@ -1,0 +1,2215 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '3', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 37블록 저장
+[SAVE BLOCKS] 37블록 저장
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SERVER] changed to: https://vmwareflask.autoprogram.life/
+[SAVE BLOCKS] 37블록 저장
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[MANUAL] chromedriver PID 20812 killed
+[MANUAL] chrome major: 146
+[MANUAL] navigating to: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] current URL: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-miraemaketingpeulreoseu
+[MANUAL] focused tab: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa6655e7ed9-mir
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9WDCH3NWFMM30GHS04W3HY
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774153282200
+[MANUAL] prompt: 전주온라인광고 운영하며 느낀 차이 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5108 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<ol data-start="0" data-end="1597" data-is-last-node="" data-is-only-node="">
+<li data-section-id="1xb3z4q" data-start="0" data-end="200">
+<p data-start="3" data-end="200">전주온라인광고를 시작하며 느낀 첫 변화<br data-start="24" data-end="27">
+전주에서 매장을 운영하면서<br data-start="41" data-end="44">
+늘 비슷한 고민을 반복했어요<br data-start="59" data-end="62">
+손님은 꾸준히 오지만<br data-start="73" data-end="76">
+확실한 흐름이 만들어지지 않는 느낌이었죠<br data-start="98" data-end="101">
+그래서 온라인 광고를 제대로<br data-start="116" data-end="119">
+운영해봐야겠다는 생각이 들었어요<br data-start="136" data-end="139">
+여러 방식을 비교해보다가<br data-start="152" data-end="155">
+토탈로 관리해주는 구조를 선택했고<br data-start="173" data-end="176">
+그 선택이 생각보다 큰 차이를 만들었어요</p>
+</li>
+<li data-section-id="fssjsi" data-start="202" data-end="408">
+<p data-start="205" data-end="408">브랜드를 보는 시선이 달라졌던 순간<br data-start="224" data-end="227">
+처음 내부 시스템을 접했을 때<br data-start="243" data-end="246">
+단순 광고 대행이 아니라는 느낌이었어요<br data-start="267" data-end="270">
+사무실 분위기부터 체계적이었고<br data-start="286" data-end="289">
+브랜딩 요소 하나하나를<br data-start="301" data-end="304">
+디자인부터 함께 풀어가는 방식이었어요<br data-start="324" data-end="327">
+간판, 배너, 로고까지 연결되면서<br data-start="345" data-end="348">
+매장의 전체 이미지가 정리되는 느낌이었고<br data-start="370" data-end="373">
+단순 홍보가 아니라<br data-start="383" data-end="386">
+브랜드를 만들어간다는 감각이 들었어요</p>
+</li>
+<li data-section-id="1dywrbg" data-start="410" data-end="602">
+<p data-start="413" data-end="602">AI와 빅데이터 기반 구조 체감<br data-start="430" data-end="433">
+가장 인상 깊었던 건<br data-start="444" data-end="447">
+AI 기반 자동화 시스템이었어요<br data-start="464" data-end="467">
+캠페인 세팅 이후 흐름을 보니<br data-start="483" data-end="486">
+실시간으로 반응을 체크하면서<br data-start="501" data-end="504">
+계속 수정이 이루어지는 구조였어요<br data-start="522" data-end="525">
+대시보드에서 한눈에 확인되니까<br data-start="541" data-end="544">
+막연한 느낌이 아니라<br data-start="555" data-end="558">
+데이터를 보며 운영하는 느낌이었고<br data-start="576" data-end="579">
+사람보다 더 정교하다는 생각이 들었어요</p>
+</li>
+<li data-section-id="349vy1" data-start="604" data-end="795">
+<p data-start="607" data-end="795">업종별 맞춤 실행의 차이<br data-start="620" data-end="623">
+같은 방식이 아니라 업종에 따라<br data-start="640" data-end="643">
+완전히 다르게 접근하는 게 느껴졌어요<br data-start="663" data-end="666">
+외식 매장은 방문 흐름 중심으로<br data-start="683" data-end="686">
+교육 업종은 신뢰 콘텐츠 중심으로<br data-start="704" data-end="707">
+쇼핑몰은 전환 구조 중심으로<br data-start="722" data-end="725">
+각각 다른 전략이 적용되었고<br data-start="740" data-end="743">
+저희 매장도 상황에 맞게<br data-start="756" data-end="759">
+세밀하게 방향이 잡히면서<br data-start="772" data-end="775">
+기존과는 다른 흐름이 만들어졌어요</p>
+</li>
+<li data-section-id="hcjo1b" data-start="797" data-end="979">
+<p data-start="800" data-end="979">3D 시안과 영상 제작 경험<br data-start="815" data-end="818">
+광고를 진행하면서 놀랐던 부분은<br data-start="835" data-end="838">
+3D 시안으로 미리 확인하는 과정이었어요<br data-start="860" data-end="863">
+매장 이미지나 디자인을<br data-start="875" data-end="878">
+눈으로 먼저 볼 수 있어서<br data-start="892" data-end="895">
+수정 방향도 명확해졌어요<br data-start="908" data-end="911">
+영상과 숏폼 콘텐츠도<br data-start="922" data-end="925">
+주기적으로 제작되었는데<br data-start="937" data-end="940">
+... (총 5108자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 전주온라인광고를 시작하며 느낀 첫 변화
+  텍스트: (155자) 전주에서 매장을 운영하면서
+늘 비슷한 고민을 반복했어요
+손님은 꾸준히 오지만
+확실한 흐름이 만들어지지 않는 느낌이었죠
+그래서 온라인 광고를 제대...
+[HTML PARSE] li[2]
+  인용구: 브랜드를 보는 시선이 달라졌던 순간
+  텍스트: (163자) 처음 내부 시스템을 접했을 때
+단순 광고 대행이 아니라는 느낌이었어요
+사무실 분위기부터 체계적이었고
+브랜딩 요소 하나하나를
+디자인부터 함께 풀어...
+[HTML PARSE] li[3]
+  인용구: AI와 빅데이터 기반 구조 체감
+  텍스트: (151자) 가장 인상 깊었던 건
+AI 기반 자동화 시스템이었어요
+캠페인 세팅 이후 흐름을 보니
+실시간으로 반응을 체크하면서
+계속 수정이 이루어지는 구조였어...
+[HTML PARSE] li[4]
+  인용구: 업종별 맞춤 실행의 차이
+  텍스트: (154자) 같은 방식이 아니라 업종에 따라
+완전히 다르게 접근하는 게 느껴졌어요
+외식 매장은 방문 흐름 중심으로
+교육 업종은 신뢰 콘텐츠 중심으로
+쇼핑몰은...
+[HTML PARSE] li[5]
+  인용구: 3D 시안과 영상 제작 경험
+  텍스트: (143자) 광고를 진행하면서 놀랐던 부분은
+3D 시안으로 미리 확인하는 과정이었어요
+매장 이미지나 디자인을
+눈으로 먼저 볼 수 있어서
+수정 방향도 명확해졌...
+[HTML PARSE] li[6]
+  인용구: 전국 협업과 다채널 통합 운영
+  텍스트: (160자) 지역 담당자와 실시간으로 소통되면서
+전국 센터가 함께 움직이는 구조였어요
+문제가 생기면 바로 연결되고
+속도가 빠른 점이 안정적으로 느껴졌어요
+블...
+[HTML PARSE] li[7]
+  인용구: 성과 체감과 운영 방식의 차이
+  텍스트: (144자) 시간이 지나면서 가장 크게 느낀 건
+단건 광고와의 차이였어요
+하나씩 따로 진행할 때는
+변화가 더디게 느껴졌는데
+통합으로 운영하니까
+부족한 부분이...
+[HTML PARSE] li[8]
+  인용구: 믿고 맡길 수 있었던 이유
+  텍스트: (188자) 정부지원 연계까지 가능한 구조였고
+대표가 직접 방문해서
+현장을 함께 보는 과정도 인상적이었어요
+지역 기반으로 꾸준히 관리해주고
+평일, 주말 구분...
+[CHATGPT] parsed: 1443 chars, 16 parts
+[MANUAL GEN] response length: 1443
+[PARSE] 인트로 (본문): (181자) 1. 전주온라인광고를 시작하며 느낀 첫 변화
+
+전주에서 매장을 운영하면서
+늘 비슷한 고민을 반복했어요
+손님은...
+[PARSE] 번호 섹션: 7개
+  [sec 0] heading: 2. 브랜드를 보는 시선이 달라졌던 순간  body: 163자
+  [sec 1] heading: 3. AI와 빅데이터 기반 구조 체감  body: 151자
+  [sec 2] heading: 4. 업종별 맞춤 실행의 차이  body: 154자
+  [sec 3] heading: 5. 3D 시안과 영상 제작 경험  body: 143자
+  [sec 4] heading: 6. 전국 협업과 다채널 통합 운영  body: 160자
+  [sec 5] heading: 7. 성과 체감과 운영 방식의 차이  body: 144자
+  [sec 6] heading: 8. 믿고 맡길 수 있었던 이유  body: 188자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 운영하며 느낀 차이
+[PARSE] quotation 위치: [10, 19, 28]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (181자) styles=[]
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[0] bold heading+body (193자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[1].heading: 3. AI와 빅데이터 기반 구조 체감
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (151자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[2] bold heading+body (178자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[3].heading: 5. 3D 시안과 영상 제작 경험
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (143자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[4] bold heading+body (187자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[5].heading: 7. 성과 체감과 운영 방식의 차이
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (144자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[6] bold heading+body (213자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 7/7
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (181자) 1. 전주온라인광고를 시작하며 느낀 첫 변화
+
+전주에서 매장을 운영하면서
+늘 비슷한 고민을 반복했어요
+손님은...
+  [block 6] 텍스트: (193자) <b>2. 브랜드를 보는 시선이 달라졌던 순간</b>
+처음 내부 시스템을 접했을 때
+단순 광고 대행이 아니라...
+  [block 10] 인용구: (20자) 3. AI와 빅데이터 기반 구조 체감
+  [block 11] 텍스트: (151자) 가장 인상 깊었던 건
+AI 기반 자동화 시스템이었어요
+캠페인 세팅 이후 흐름을 보니
+실시간으로 반응을 체크하...
+  [block 15] 텍스트: (178자) <b>4. 업종별 맞춤 실행의 차이</b>
+같은 방식이 아니라 업종에 따라
+완전히 다르게 접근하는 게 느껴졌...
+  [block 19] 인용구: (18자) 5. 3D 시안과 영상 제작 경험
+  [block 20] 텍스트: (143자) 광고를 진행하면서 놀랐던 부분은
+3D 시안으로 미리 확인하는 과정이었어요
+매장 이미지나 디자인을
+눈으로 먼저...
+  [block 24] 텍스트: (187자) <b>6. 전국 협업과 다채널 통합 운영</b>
+지역 담당자와 실시간으로 소통되면서
+전국 센터가 함께 움직이...
+  [block 28] 인용구: (19자) 7. 성과 체감과 운영 방식의 차이
+  [block 29] 텍스트: (144자) 시간이 지나면서 가장 크게 느낀 건
+단건 광고와의 차이였어요
+하나씩 따로 진행할 때는
+변화가 더디게 느껴졌는...
+  [block 33] 텍스트: (213자) <b>8. 믿고 맡길 수 있었던 이유</b>
+정부지원 연계까지 가능한 구조였고
+대표가 직접 방문해서
+현장을 ...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 4개 규칙, 4건 적용
+[IMG] 1/22: 20250626_103026.jpg
+[IMG] 2/22: 20250626_103029.jpg
+[IMG] 3/22: 20250626_103030.jpg
+[IMG] 4/22: 20250626_103034(0).jpg
+[IMG] 5/22: 20250626_103141.jpg
+[IMG] 6/22: 20250626_103143(0).jpg
+[IMG] 7/22: 20250626_103212.jpg
+[IMG] 8/22: 20250626_103214.jpg
+[IMG] 9/22: 20251211_094316(1).jpg
+[IMG] 10/22: 20251211_094451(3).jpg
+[IMG] 11/22: 20251211_094457(3).jpg
+[IMG] 12/22: 20251211_094510.jpg
+[IMG] 13/22: 20251211_094514(3).jpg
+[IMG] 14/22: 20251211_094545.jpg
+[IMG] 15/22: 20251211_094547(0).jpg
+[IMG] 16/22: 20251211_094605(2).jpg
+[IMG] 17/22: 20251211_094614(2).jpg
+[IMG] 18/22: 20251211_094614.jpg
+[IMG] 19/22: 20251211_094623(1).jpg
+[IMG] 20/22: 20251211_094623.jpg
+[IMG] 21/22: 20251211_094726(2).jpg
+[IMG] 22/22: 20251211_094728.jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=F68B0579C470FB923971...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=d843166c-25a6-11f1-9...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [VideoHeader:done, Ingest:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=F68B0579C470FB923971...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=0, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #E2D9F3 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #FFF3CD 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 8/12줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=ghkdtofha597&Redirect=View&logNo=224225411976&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanL
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #1 성공
+[SAVE OPTIONS] {'interval': '3', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[SAVE BLOCKS] 37블록 저장
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '30', 'publish_mode': 'public', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\userpc\Desktop\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[LOGIN] URL check: https://blog.naver.com/ghkdtofha597 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_ghkdtofha597.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9WMZ8D0WTGX8T2Y5XCR4XQ
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774153530732
+[MANUAL] prompt: 전주온라인광고 운영하며 느낀 차이 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5183 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="40">제목<br data-start="2" data-end="5">
+전주온라인광고 운영하며 느낀 차이, 직접 경험해보니 달랐어요</p>
+<ol data-start="42" data-end="1669" data-is-last-node="" data-is-only-node="">
+<li data-section-id="1onfr8v" data-start="42" data-end="232">
+<p data-start="45" data-end="232">시작하게 된 계기와 기대감<br data-start="59" data-end="62">
+처음 광고를 맡기기 전까지는<br data-start="77" data-end="80">
+사실 큰 기대를 하지 않았어요<br data-start="96" data-end="99">
+여기저기 경험해봤던 기억이<br data-start="113" data-end="116">
+생각보다 만족스럽지 않았거든요<br data-start="132" data-end="135">
+그래서 이번에도 비슷할 거라<br data-start="150" data-end="153">
+가볍게 생각했던 부분이 있었어요<br data-start="170" data-end="173">
+하지만 운영 방식이 다르다는 걸<br data-start="190" data-end="193">
+초반 흐름에서부터 느끼게 됐고<br data-start="209" data-end="212">
+조금씩 기대감이 생기기 시작했어요</p>
+</li>
+<li data-section-id="vcaode" data-start="234" data-end="440">
+<p data-start="237" data-end="440">첫 인상에서 느껴진 시스템의 차이<br data-start="255" data-end="258">
+처음 내부 흐름을 접했을 때는<br data-start="274" data-end="277">
+단순히 광고를 맡긴다는 느낌보다<br data-start="294" data-end="297">
+하나의 팀이 움직이는 느낌이었어요<br data-start="315" data-end="318">
+각 담당자가 따로 있는 구조가 아니라<br data-start="338" data-end="341">
+하나로 연결된 시스템처럼 움직여서<br data-start="359" data-end="362">
+전달 과정이 굉장히 자연스러웠고<br data-start="379" data-end="382">
+불필요한 반복이 거의 없었어요<br data-start="398" data-end="401">
+그 부분에서 이미 기존과는 다른<br data-start="418" data-end="421">
+운영 방식이라는 확신이 들었어요</p>
+</li>
+<li data-section-id="ox4wx8" data-start="442" data-end="645">
+<p data-start="445" data-end="645">AI 기반 분석과 자동화 흐름 체감<br data-start="464" data-end="467">
+제가 가장 인상 깊었던 부분은<br data-start="483" data-end="486">
+AI 기반으로 돌아가는 구조였어요<br data-start="504" data-end="507">
+데이터를 바탕으로 세팅이 되고<br data-start="523" data-end="526">
+그 이후에도 계속 조정이 되면서<br data-start="543" data-end="546">
+상황에 맞게 변화하는 흐름이었어요<br data-start="564" data-end="567">
+직접 대시보드를 보면서 느낀 건<br data-start="584" data-end="587">
+사람이 놓칠 수 있는 부분까지도<br data-start="604" data-end="607">
+세밀하게 관리된다는 점이었고<br data-start="622" data-end="625">
+시간이 지날수록 안정감이 생겼어요</p>
+</li>
+<li data-section-id="paomtn" data-start="647" data-end="858">
+<p data-start="650" data-end="858">업종에 맞춘 방향성과 실행 방식<br data-start="667" data-end="670">
+단순하게 광고를 돌리는 것이 아니라<br data-start="689" data-end="692">
+업종에 맞는 흐름을 먼저 잡아주고<br data-start="710" data-end="713">
+그에 맞춰 콘텐츠가 구성되더라고요<br data-start="731" data-end="734">
+식당은 방문 흐름 중심으로 설계되고<br data-start="753" data-end="756">
+교육 쪽은 신뢰를 쌓는 방향으로<br data-start="773" data-end="776">
+쇼핑몰은 전환 구조를 다르게 잡고<br data-start="794" data-end="797">
+각각 다른 전략으로 움직였어요<br data-start="813" data-end="816">
+이런 차이가 결과에 영향을 준다는 걸<br data-start="836" data-end="839">
+운영하면서 점점 체감하게 됐어요</p>
+</li>
+<li data-section-id="dn9dli" data-start="860" data-end="1059">
+<p data-start="863" data-end="1059">디자인과 영상 제작에서의 완성도<br data-start="880" data-end="883">
+광고 소재를 만들기 전에<br data-start="896" data-end="899">
+3D 시안으로 먼저 보여주는데<br data-start="915" data-end="918">
+이게 생각보다 큰 도움이 됐어요<br data-start="935" data-end="938">
+미리 결과를 확인할 수 있어서<br data-start="954" data-end="957">
+수정 방향도 빠르게 잡을 
+... (총 5183자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 시작하게 된 계기와 기대감
+  텍스트: (152자) 처음 광고를 맡기기 전까지는
+사실 큰 기대를 하지 않았어요
+여기저기 경험해봤던 기억이
+생각보다 만족스럽지 않았거든요
+그래서 이번에도 비슷할 거라...
+[HTML PARSE] li[2]
+  인용구: 첫 인상에서 느껴진 시스템의 차이
+  텍스트: (164자) 처음 내부 흐름을 접했을 때는
+단순히 광고를 맡긴다는 느낌보다
+하나의 팀이 움직이는 느낌이었어요
+각 담당자가 따로 있는 구조가 아니라
+하나로 연...
+[HTML PARSE] li[3]
+  인용구: AI 기반 분석과 자동화 흐름 체감
+  텍스트: (160자) 제가 가장 인상 깊었던 부분은
+AI 기반으로 돌아가는 구조였어요
+데이터를 바탕으로 세팅이 되고
+그 이후에도 계속 조정이 되면서
+상황에 맞게 변화...
+[HTML PARSE] li[4]
+  인용구: 업종에 맞춘 방향성과 실행 방식
+  텍스트: (170자) 단순하게 광고를 돌리는 것이 아니라
+업종에 맞는 흐름을 먼저 잡아주고
+그에 맞춰 콘텐츠가 구성되더라고요
+식당은 방문 흐름 중심으로 설계되고
+교육...
+[HTML PARSE] li[5]
+  인용구: 디자인과 영상 제작에서의 완성도
+  텍스트: (158자) 광고 소재를 만들기 전에
+3D 시안으로 먼저 보여주는데
+이게 생각보다 큰 도움이 됐어요
+미리 결과를 확인할 수 있어서
+수정 방향도 빠르게 잡을 ...
+[HTML PARSE] li[6]
+  인용구: 채널 통합 관리와 운영의 편리함
+  텍스트: (167자) 블로그, 홈페이지, 다양한 채널이
+따로 관리되는 게 아니라 하나로
+연결되어 움직인다는 점이 좋았어요
+네이버, 구글, 카카오, 메타까지
+전체 흐름...
+[HTML PARSE] li[7]
+  인용구: 실제 변화와 느껴지는 안정감
+  텍스트: (159자) 시간이 흐르면서 가장 먼저 느낀 건
+방문 흐름이 조금씩 안정된다는 점
+갑자기 늘어나는 느낌보다는
+지속적으로 유지되는 흐름이었어요
+이게 오히려 더...
+[HTML PARSE] li[8]
+  인용구: 운영을 고민하는 분들께 전하고 싶은 말
+  텍스트: (155자) 저도 처음에는 고민이 많았지만
+직접 경험해보니 생각이 달라졌어요
+단건으로 진행했을 때보다
+전체적으로 관리받는 구조가
+훨씬 빠르게 변화를 만들었어...
+[CHATGPT] parsed: 1514 chars, 17 parts
+[MANUAL GEN] response length: 1514
+[PARSE] GPT 제목 감지: 전주온라인광고 운영하며 느낀 차이, 직접 경험해보니 달랐어요
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 시작하게 된 계기와 기대감  body: 152자
+  [sec 1] heading: 2. 첫 인상에서 느껴진 시스템의 차이  body: 164자
+  [sec 2] heading: 3. AI 기반 분석과 자동화 흐름 체감  body: 160자
+  [sec 3] heading: 4. 업종에 맞춘 방향성과 실행 방식  body: 170자
+  [sec 4] heading: 5. 디자인과 영상 제작에서의 완성도  body: 158자
+  [sec 5] heading: 6. 채널 통합 관리와 운영의 편리함  body: 167자
+  [sec 6] heading: 7. 실제 변화와 느껴지는 안정감  body: 159자
+  [sec 7] heading: 8. 운영을 고민하는 분들께 전하고 싶은 말  body: 155자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 운영하며 느낀 차이
+[PARSE] quotation 위치: [10, 19, 28]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (177자)
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[1] bold heading+body (193자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[2].heading: 3. AI 기반 분석과 자동화 흐름 체감
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (160자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[3] bold heading+body (198자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[4].heading: 5. 디자인과 영상 제작에서의 완성도
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (158자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[5] bold heading+body (195자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[6].heading: 7. 실제 변화와 느껴지는 안정감
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (159자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[7] bold heading+body (187자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (177자) <b>1. 시작하게 된 계기와 기대감</b>
+처음 광고를 맡기기 전까지는
+사실 큰 기대를 하지 않았어요
+여기...
+  [block 6] 텍스트: (193자) <b>2. 첫 인상에서 느껴진 시스템의 차이</b>
+처음 내부 흐름을 접했을 때는
+단순히 광고를 맡긴다는 느...
+  [block 10] 인용구: (22자) 3. AI 기반 분석과 자동화 흐름 체감
+  [block 11] 텍스트: (160자) 제가 가장 인상 깊었던 부분은
+AI 기반으로 돌아가는 구조였어요
+데이터를 바탕으로 세팅이 되고
+그 이후에도 ...
+  [block 15] 텍스트: (198자) <b>4. 업종에 맞춘 방향성과 실행 방식</b>
+단순하게 광고를 돌리는 것이 아니라
+업종에 맞는 흐름을 먼...
+  [block 19] 인용구: (20자) 5. 디자인과 영상 제작에서의 완성도
+  [block 20] 텍스트: (158자) 광고 소재를 만들기 전에
+3D 시안으로 먼저 보여주는데
+이게 생각보다 큰 도움이 됐어요
+미리 결과를 확인할 ...
+  [block 24] 텍스트: (195자) <b>6. 채널 통합 관리와 운영의 편리함</b>
+블로그, 홈페이지, 다양한 채널이
+따로 관리되는 게 아니라...
+  [block 28] 인용구: (18자) 7. 실제 변화와 느껴지는 안정감
+  [block 29] 텍스트: (159자) 시간이 흐르면서 가장 먼저 느낀 건
+방문 흐름이 조금씩 안정된다는 점
+갑자기 늘어나는 느낌보다는
+지속적으로 ...
+  [block 33] 텍스트: (187자) <b>8. 운영을 고민하는 분들께 전하고 싶은 말</b>
+저도 처음에는 고민이 많았지만
+직접 경험해보니 생각...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20251211_094732(3).jpg
+[IMG] 2/22: 20251211_094733.jpg
+[IMG] 3/22: 20251211_094734.jpg
+[IMG] 4/22: 20251211_094739(1).jpg
+[IMG] 5/22: 20251211_094756(1).jpg
+[IMG] 6/22: 20251211_094757(2).jpg
+[IMG] 7/22: 20251211_094812(2).jpg
+[IMG] 8/22: 20251211_094814(1).jpg
+[IMG] 9/22: 20251211_094819(0).jpg
+[IMG] 10/22: 20251211_094820.jpg
+[IMG] 11/22: 20251211_094826.jpg
+[IMG] 12/22: 20251211_094857(0).jpg
+[IMG] 13/22: 20251211_094901.jpg
+[IMG] 14/22: 20251211_094903(3).jpg
+[IMG] 15/22: 20251211_094921(2).jpg
+[IMG] 16/22: 20251211_094925(2).jpg
+[IMG] 17/22: 20251211_094936(1).jpg
+[IMG] 18/22: 20251211_094950.jpg
+[IMG] 19/22: 20251211_095005(0).jpg
+[IMG] 20/22: 20251211_095006(0).jpg
+[IMG] 21/22: 20251211_095014(0).jpg
+[IMG] 22/22: 20251211_095022(0).jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=8DF7516304B0275580BD...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=6e4ea5e5-25a7-11f1-b...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [Ingest:done, VideoHeader:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=8DF7516304B0275580BD...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=0, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #D4EDDA 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #FDEBD0 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #FDEBD0 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #FFF3CD 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=ghkdtofha597&Redirect=View&logNo=224225415065&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanL
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #1 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_dlachdus6925.pkl
+[PUBLISH ERROR] keyword=1, excel=1: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #2 실패: Expecting value: line 3 column
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_dksgodbs96.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9WZ64VM9ADCPQYX8A919DC
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774153865466
+[MANUAL] prompt: 전주온라인광고 초반 세팅이 중요한 이유 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5209 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<ol data-start="0" data-end="1530" data-is-only-node="" data-is-last-node="">
+<li data-section-id="wd344h" data-start="0" data-end="185">
+<p data-start="3" data-end="185">초반 세팅이 결과를 좌우했던 이유<br data-start="21" data-end="24">
+전주에서 매장을 운영하면서<br data-start="38" data-end="41">
+온라인 광고를 시작하게 됐어요<br data-start="57" data-end="60">
+처음에는 단순히 광고만<br data-start="72" data-end="75">
+집행하면 되는 줄 알았는데요<br data-start="90" data-end="93">
+막상 진행해보니 초반 세팅이<br data-start="108" data-end="111">
+얼마나 중요한지 직접 느꼈어요<br data-start="127" data-end="130">
+방향 없이 시작했던 광고는<br data-start="144" data-end="147">
+생각보다 반응이 더딘 편이었고<br data-start="163" data-end="166">
+무엇이 문제인지 감이 안 왔어요</p>
+</li>
+<li data-section-id="1lz3icm" data-start="187" data-end="381">
+<p data-start="190" data-end="381">막연하게 시작했던 첫 광고 경험<br data-start="207" data-end="210">
+처음 광고를 접했을 때는<br data-start="223" data-end="226">
+그저 노출만 늘어나면<br data-start="237" data-end="240">
+자연스럽게 매출도 오를 거라<br data-start="255" data-end="258">
+단순하게 생각했던 것 같아요<br data-start="273" data-end="276">
+하지만 실제로는 그렇지 않았고<br data-start="292" data-end="295">
+타겟도 흐릿하고 메시지도<br data-start="308" data-end="311">
+명확하지 않다 보니 효율이<br data-start="325" data-end="328">
+쉽게 올라오지 않는 상황이었어요<br data-start="345" data-end="348">
+이때부터 뭔가 잘못됐다는 걸<br data-start="363" data-end="366">
+조금씩 느끼기 시작했어요</p>
+</li>
+<li data-section-id="10eac7l" data-start="383" data-end="569">
+<p data-start="386" data-end="569">방향을 잡아준 초기 구조 설계<br data-start="402" data-end="405">
+이후 체계적으로 운영되는<br data-start="418" data-end="421">
+광고 시스템을 접하게 되면서<br data-start="436" data-end="439">
+가장 먼저 달라진 부분이<br data-start="452" data-end="455">
+바로 초반 세팅이었어요<br data-start="467" data-end="470">
+업종과 지역, 고객 흐름까지<br data-start="485" data-end="488">
+데이터로 정리해서 구조를<br data-start="501" data-end="504">
+잡아주는 방식이었는데요<br data-start="516" data-end="519">
+이 단계에서 이미 결과의<br data-start="532" data-end="535">
+절반이 결정된다는 느낌이<br data-start="548" data-end="551">
+들 정도로 중요한 과정이었어요</p>
+</li>
+<li data-section-id="22fydl" data-start="571" data-end="756">
+<p data-start="574" data-end="756">데이터 기반 세팅의 차이 체감<br data-start="590" data-end="593">
+단순 감이 아니라 실제<br data-start="605" data-end="608">
+데이터를 기반으로 타겟을<br data-start="621" data-end="624">
+설정하는 과정이 인상적이었어요<br data-start="640" data-end="643">
+어떤 고객이 반응하는지<br data-start="655" data-end="658">
+어떤 시간대가 효율적인지<br data-start="671" data-end="674">
+세밀하게 반영되면서<br data-start="684" data-end="687">
+광고 흐름 자체가 달라졌어요<br data-start="702" data-end="705">
+이전에는 흩어져 있던 반응이<br data-start="720" data-end="723">
+점점 모이기 시작했고<br data-start="734" data-end="737">
+조금씩 변화가 보이기 시작했어요</p>
+</li>
+<li data-section-id="pz1r44" data-start="758" data-end="943">
+<p data-start="761" data-end="943">콘텐츠 방향성까지 달라진 과정<br data-start="777" data-end="780">
+초반 세팅을 통해 정리된<br data-start="793" data-end="796">
+핵심 메시지는 콘텐츠에도<br data-start="809" data-end="812">
+그대로 반영되기 시작했어요<br data-start="826" data-end="829">
+블로그, 이미지, 영상까지<br data-start="843" data-end="846">
+일관된 방향으로 맞춰지면서<br data-start="860" data-end="863">
+브랜드 인식 자체가<br data-start="873" data-end="87
+... (총 5209자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 초반 세팅이 결과를 좌우했던 이유
+  텍스트: (143자) 전주에서 매장을 운영하면서
+온라인 광고를 시작하게 됐어요
+처음에는 단순히 광고만
+집행하면 되는 줄 알았는데요
+막상 진행해보니 초반 세팅이
+얼마나...
+[HTML PARSE] li[2]
+  인용구: 막연하게 시작했던 첫 광고 경험
+  텍스트: (151자) 처음 광고를 접했을 때는
+그저 노출만 늘어나면
+자연스럽게 매출도 오를 거라
+단순하게 생각했던 것 같아요
+하지만 실제로는 그렇지 않았고
+타겟도 흐...
+[HTML PARSE] li[3]
+  인용구: 방향을 잡아준 초기 구조 설계
+  텍스트: (144자) 이후 체계적으로 운영되는
+광고 시스템을 접하게 되면서
+가장 먼저 달라진 부분이
+바로 초반 세팅이었어요
+업종과 지역, 고객 흐름까지
+데이터로 정리...
+[HTML PARSE] li[4]
+  인용구: 데이터 기반 세팅의 차이 체감
+  텍스트: (143자) 단순 감이 아니라 실제
+데이터를 기반으로 타겟을
+설정하는 과정이 인상적이었어요
+어떤 고객이 반응하는지
+어떤 시간대가 효율적인지
+세밀하게 반영되면...
+[HTML PARSE] li[5]
+  인용구: 콘텐츠 방향성까지 달라진 과정
+  텍스트: (143자) 초반 세팅을 통해 정리된
+핵심 메시지는 콘텐츠에도
+그대로 반영되기 시작했어요
+블로그, 이미지, 영상까지
+일관된 방향으로 맞춰지면서
+브랜드 인식 ...
+[HTML PARSE] li[6]
+  인용구: 채널 통합 관리의 안정감
+  텍스트: (157자) 여러 플랫폼을 각각 관리할 때는
+신경 써야 할 부분이 많았는데요
+한 흐름 안에서 통합적으로
+관리되니까 훨씬 편해졌어요
+블로그부터 다양한 채널까지...
+[HTML PARSE] li[7]
+  인용구: 시간이 지나며 나타난 변화
+  텍스트: (151자) 광고를 다시 세팅하고 나서
+가장 크게 달라진 건 흐름이었어요
+이전에는 들쭉날쭉했다면
+이제는 꾸준하게 이어지는
+반응이 만들어지기 시작했어요
+고객 ...
+[HTML PARSE] li[8]
+  인용구: 결국 핵심은 시작의 완성도
+  텍스트: (156자) 지금 돌이켜보면 광고는
+시작을 어떻게 하느냐에 따라
+결과가 크게 달라지는 것 같아요
+처음 방향을 제대로 잡지 않으면
+시간과 비용이 더 들 수밖에...
+[CHATGPT] parsed: 1366 chars, 16 parts
+[MANUAL GEN] response length: 1366
+[PARSE] 인트로 (본문): (166자) 1. 초반 세팅이 결과를 좌우했던 이유
+
+전주에서 매장을 운영하면서
+온라인 광고를 시작하게 됐어요
+처음에는 ...
+[PARSE] 번호 섹션: 7개
+  [sec 0] heading: 2. 막연하게 시작했던 첫 광고 경험  body: 151자
+  [sec 1] heading: 3. 방향을 잡아준 초기 구조 설계  body: 144자
+  [sec 2] heading: 4. 데이터 기반 세팅의 차이 체감  body: 143자
+  [sec 3] heading: 5. 콘텐츠 방향성까지 달라진 과정  body: 143자
+  [sec 4] heading: 6. 채널 통합 관리의 안정감  body: 157자
+  [sec 5] heading: 7. 시간이 지나며 나타난 변화  body: 151자
+  [sec 6] heading: 8. 결국 핵심은 시작의 완성도  body: 156자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 초반 세팅이 중요한 이유
+[PARSE] quotation 위치: [10, 19, 28]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (166자) styles=[]
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[0] bold heading+body (179자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[1].heading: 3. 방향을 잡아준 초기 구조 설계
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (144자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[2] bold heading+body (170자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[3].heading: 5. 콘텐츠 방향성까지 달라진 과정
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (143자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[4] bold heading+body (181자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[5].heading: 7. 시간이 지나며 나타난 변화
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (151자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[6] bold heading+body (181자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 7/7
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (166자) 1. 초반 세팅이 결과를 좌우했던 이유
+
+전주에서 매장을 운영하면서
+온라인 광고를 시작하게 됐어요
+처음에는 ...
+  [block 6] 텍스트: (179자) <b>2. 막연하게 시작했던 첫 광고 경험</b>
+처음 광고를 접했을 때는
+그저 노출만 늘어나면
+자연스럽게 ...
+  [block 10] 인용구: (19자) 3. 방향을 잡아준 초기 구조 설계
+  [block 11] 텍스트: (144자) 이후 체계적으로 운영되는
+광고 시스템을 접하게 되면서
+가장 먼저 달라진 부분이
+바로 초반 세팅이었어요
+업종과...
+  [block 15] 텍스트: (170자) <b>4. 데이터 기반 세팅의 차이 체감</b>
+단순 감이 아니라 실제
+데이터를 기반으로 타겟을
+설정하는 과...
+  [block 19] 인용구: (19자) 5. 콘텐츠 방향성까지 달라진 과정
+  [block 20] 텍스트: (143자) 초반 세팅을 통해 정리된
+핵심 메시지는 콘텐츠에도
+그대로 반영되기 시작했어요
+블로그, 이미지, 영상까지
+일관...
+  [block 24] 텍스트: (181자) <b>6. 채널 통합 관리의 안정감</b>
+여러 플랫폼을 각각 관리할 때는
+신경 써야 할 부분이 많았는데요
+...
+  [block 28] 인용구: (17자) 7. 시간이 지나며 나타난 변화
+  [block 29] 텍스트: (151자) 광고를 다시 세팅하고 나서
+가장 크게 달라진 건 흐름이었어요
+이전에는 들쭉날쭉했다면
+이제는 꾸준하게 이어지는...
+  [block 33] 텍스트: (181자) <b>8. 결국 핵심은 시작의 완성도</b>
+지금 돌이켜보면 광고는
+시작을 어떻게 하느냐에 따라
+결과가 크게...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20251211_095024.jpg
+[IMG] 2/22: 20251211_095034(1).jpg
+[IMG] 3/22: 20251211_095034.jpg
+[IMG] 4/22: 20251211_095036(0).jpg
+[IMG] 5/22: 20251211_095038.jpg
+[IMG] 6/22: 20251211_095039.jpg
+[IMG] 7/22: 20251211_095040(0).jpg
+[IMG] 8/22: 20251211_095041(0).jpg
+[IMG] 9/22: 20251211_095058.jpg
+[IMG] 10/22: 20251211_095101.jpg
+[IMG] 11/22: 20251211_095105.jpg
+[IMG] 12/22: 20251211_100600.jpg
+[IMG] 13/22: 20251211_100647.jpg
+[IMG] 14/22: 20251211_100650(1).jpg
+[IMG] 15/22: 20251211_100829.jpg
+[IMG] 16/22: 20251211_100857(2).jpg
+[IMG] 17/22: 20251211_100907(1).jpg
+[IMG] 18/22: 20251211_100911.jpg
+[IMG] 19/22: 20251211_100912(1).jpg
+[IMG] 20/22: 20251211_100913(0).jpg
+[IMG] 21/22: 20251211_100922.jpg
+[IMG] 22/22: 20251211_101009(1).jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=3D32EB510B431E789D2F...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=3418ccdf-25a8-11f1-a...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [Ingest:done, VideoHeader:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=3D32EB510B431E789D2F...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=2, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #D4EDDA 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #E2D9F3 적용: 7/11줄 (확률80%, 비율70%)
+[RANDOM BG] #FDEBD0 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 7/11줄 (확률80%, 비율70%)
+[RANDOM BG] #D4EDDA 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 7/11줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 7/11줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=dksgodbs96&Redirect=View&logNo=224225418954&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLev
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #3 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_dlawnsdl919.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9X621MDMQ3BT640PBPQB2X
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774154090673
+[MANUAL] prompt: 전주온라인광고 실제 진행 과정 공개 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5807 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="23"><strong data-start="0" data-end="23">전주온라인광고 실제 진행 과정 공개</strong></p>
+<ol data-start="25" data-end="1901" data-is-only-node="" data-is-last-node="">
+<li data-section-id="420non" data-start="25" data-end="264">
+<p data-start="28" data-end="264"><strong data-start="28" data-end="48">처음 맡기게 된 계기와 기대감</strong><br data-start="48" data-end="51">
+처음에는 온라인 광고를 맡긴다는 게<br data-start="70" data-end="73">
+솔직히 조금은 부담스럽게 느껴졌어요<br data-start="92" data-end="95">
+그동안 혼자 해보려 했지만 한계가 있었고<br data-start="117" data-end="120">
+시간이 갈수록 방향을 잡기 어려웠거든요<br data-start="141" data-end="144">
+주변에서도 관리가 중요하다고 했지만<br data-start="163" data-end="166">
+막상 어디에 맡겨야 할지 고민이 컸어요<br data-start="187" data-end="190">
+그러다 전주에서 입소문이 난 곳을 알게 되었고<br data-start="215" data-end="218">
+내부 시스템이 체계적이라는 이야기에<br data-start="237" data-end="240">
+직접 진행을 맡겨보기로 결심하게 되었어요</p>
+</li>
+<li data-section-id="sr7xme" data-start="266" data-end="494">
+<p data-start="269" data-end="494"><strong data-start="269" data-end="287">처음 느꼈던 브랜드의 인상</strong><br data-start="287" data-end="290">
+처음 방문했을 때 느꼈던 분위기는<br data-start="308" data-end="311">
+생각보다 훨씬 체계적이고 안정적이었어요<br data-start="332" data-end="335">
+사무실 공간 자체도 정돈이 잘 되어 있었고<br data-start="358" data-end="361">
+각 파트별로 역할이 나뉘어 있는 모습이<br data-start="382" data-end="385">
+신뢰를 느끼기에 충분한 환경이었어요<br data-start="404" data-end="407">
+단순히 광고만 하는 곳이 아니라<br data-start="424" data-end="427">
+전체 흐름을 관리하는 구조라는 점이<br data-start="446" data-end="449">
+초반부터 확실하게 전달되었고<br data-start="464" data-end="467">
+이곳이라면 맡겨볼 수 있겠다는 생각이 들었어요</p>
+</li>
+<li data-section-id="1ihul66" data-start="496" data-end="718">
+<p data-start="499" data-end="718"><strong data-start="499" data-end="523">AI 기반 시스템을 직접 경험한 과정</strong><br data-start="523" data-end="526">
+제가 가장 인상 깊었던 부분은<br data-start="542" data-end="545">
+AI 기반으로 운영되는 광고 구조였어요<br data-start="566" data-end="569">
+캠페인을 설정하고 나면 끝이 아니라<br data-start="588" data-end="591">
+실시간으로 데이터가 반영되면서<br data-start="607" data-end="610">
+자동으로 조정되는 흐름이 보였어요<br data-start="628" data-end="631">
+대시보드에서 확인되는 변화들이<br data-start="647" data-end="650">
+사람이 하는 것보다 더 정교했고<br data-start="667" data-end="670">
+시간이 지날수록 안정적으로 잡히는 모습이<br data-start="692" data-end="695">
+확실히 기존 방식과는 다르게 느껴졌어요</p>
+</li>
+<li data-section-id="5rqbv7" data-start="720" data-end="963">
+<p data-start="723" data-end="963"><strong data-start="723" data-end="743">업종에 맞춘 실행과 변화 흐름</strong><br data-start="743" data-end="746">
+각 업종별로 접근 방식이 다르다는 점도<br data-start="767" data-end="770">
+진행하면서 자연스럽게 느낄 수 있었어요<br data-start="791" data-end="794">
+음식 매장은 방문 유입 중심으로 구성되고<br data-start="816" data-end="819">
+교육 관련 업종은 정보 전달 흐름이 강조되고<br data-start="843" data-end="846">
+온라인 판매는 전환 구조에 집중되었어요<br data-start="867" data-end="870">
+이렇게 방향이 명확하게 나뉘다 보니<br data-start="889" data-end="892">
+불필요한 시도 없이 효율적으로 움직였고<br data-start="913" data-end="916">
+전체적인 흐름이 점점 정리되는 느낌이었어요<br data-start="939" data-end="942">
+그 과정이 꽤 안정적으로 이어졌어요</p>
+</li>
+<li data-section-id="1l71mbn" data-start="965" data-end="1187">
+<p data-start="9
+... (총 5807자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 처음 맡기게 된 계기와 기대감
+  텍스트: (195자) 처음에는 온라인 광고를 맡긴다는 게
+솔직히 조금은 부담스럽게 느껴졌어요
+그동안 혼자 해보려 했지만 한계가 있었고
+시간이 갈수록 방향을 잡기 어려...
+[HTML PARSE] li[2]
+  인용구: 처음 느꼈던 브랜드의 인상
+  텍스트: (186자) 처음 방문했을 때 느꼈던 분위기는
+생각보다 훨씬 체계적이고 안정적이었어요
+사무실 공간 자체도 정돈이 잘 되어 있었고
+각 파트별로 역할이 나뉘어 ...
+[HTML PARSE] li[3]
+  인용구: AI 기반 시스템을 직접 경험한 과정
+  텍스트: (174자) 제가 가장 인상 깊었던 부분은
+AI 기반으로 운영되는 광고 구조였어요
+캠페인을 설정하고 나면 끝이 아니라
+실시간으로 데이터가 반영되면서
+자동으로...
+[HTML PARSE] li[4]
+  인용구: 업종에 맞춘 실행과 변화 흐름
+  텍스트: (199자) 각 업종별로 접근 방식이 다르다는 점도
+진행하면서 자연스럽게 느낄 수 있었어요
+음식 매장은 방문 유입 중심으로 구성되고
+교육 관련 업종은 정보 ...
+[HTML PARSE] li[5]
+  인용구: 디자인과 영상 제작 과정의 체감
+  텍스트: (177자) 광고 소재를 만들 때 3D 시안으로
+미리 확인할 수 있었던 점이 좋았어요
+매장 이미지나 패키지 방향도
+눈으로 바로 확인이 가능하다 보니
+선택이 ...
+[HTML PARSE] li[6]
+  인용구: 전국 단위 협업과 관리 체계
+  텍스트: (179자) 진행하면서 느낀 건 혼자 관리하는 게 아니라
+여러 담당자가 함께 움직인다는 점이었어요
+지역 담당자와 본사 간 협업이 빠르게 이루어지고
+문제가 생...
+[HTML PARSE] li[7]
+  인용구: 성과 변화와 체감된 차이점
+  텍스트: (187자) 시간이 지나면서 가장 크게 느낀 건
+흐름이 점점 자연스럽게 이어진다는 점이었어요
+단순히 한 가지 광고만 했을 때보다
+여러 채널이 함께 움직이면서...
+[HTML PARSE] li[8]
+  인용구: 지속 관리와 신뢰로 이어진 경험
+  텍스트: (214자) 무엇보다 좋았던 건 관리 방식이었어요
+평일뿐 아니라 주말에도 흐름을 체크해주고
+필요한 부분을 바로 반영해주는 구조였어요
+마치 제 매장을 함께 운...
+[CHATGPT] parsed: 1715 chars, 17 parts
+[MANUAL GEN] response length: 1715
+[PARSE] GPT 제목 감지: 전주온라인광고 실제 진행 과정 공개
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 처음 맡기게 된 계기와 기대감  body: 195자
+  [sec 1] heading: 2. 처음 느꼈던 브랜드의 인상  body: 186자
+  [sec 2] heading: 3. AI 기반 시스템을 직접 경험한 과정  body: 174자
+  [sec 3] heading: 4. 업종에 맞춘 실행과 변화 흐름  body: 199자
+  [sec 4] heading: 5. 디자인과 영상 제작 과정의 체감  body: 177자
+  [sec 5] heading: 6. 전국 단위 협업과 관리 체계  body: 179자
+  [sec 6] heading: 7. 성과 변화와 체감된 차이점  body: 187자
+  [sec 7] heading: 8. 지속 관리와 신뢰로 이어진 경험  body: 214자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 실제 진행 과정 공개
+[PARSE] quotation 위치: [10, 19, 28]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (222자)
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[1] bold heading+body (211자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[2].heading: 3. AI 기반 시스템을 직접 경험한 과정
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (174자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[3] bold heading+body (226자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[4].heading: 5. 디자인과 영상 제작 과정의 체감
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (177자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[5] bold heading+body (205자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[6].heading: 7. 성과 변화와 체감된 차이점
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (187자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[7] bold heading+body (242자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (222자) <b>1. 처음 맡기게 된 계기와 기대감</b>
+처음에는 온라인 광고를 맡긴다는 게
+솔직히 조금은 부담스럽게...
+  [block 6] 텍스트: (211자) <b>2. 처음 느꼈던 브랜드의 인상</b>
+처음 방문했을 때 느꼈던 분위기는
+생각보다 훨씬 체계적이고 안정...
+  [block 10] 인용구: (23자) 3. AI 기반 시스템을 직접 경험한 과정
+  [block 11] 텍스트: (174자) 제가 가장 인상 깊었던 부분은
+AI 기반으로 운영되는 광고 구조였어요
+캠페인을 설정하고 나면 끝이 아니라
+실...
+  [block 15] 텍스트: (226자) <b>4. 업종에 맞춘 실행과 변화 흐름</b>
+각 업종별로 접근 방식이 다르다는 점도
+진행하면서 자연스럽게...
+  [block 19] 인용구: (20자) 5. 디자인과 영상 제작 과정의 체감
+  [block 20] 텍스트: (177자) 광고 소재를 만들 때 3D 시안으로
+미리 확인할 수 있었던 점이 좋았어요
+매장 이미지나 패키지 방향도
+눈으로...
+  [block 24] 텍스트: (205자) <b>6. 전국 단위 협업과 관리 체계</b>
+진행하면서 느낀 건 혼자 관리하는 게 아니라
+여러 담당자가 함...
+  [block 28] 인용구: (17자) 7. 성과 변화와 체감된 차이점
+  [block 29] 텍스트: (187자) 시간이 지나면서 가장 크게 느낀 건
+흐름이 점점 자연스럽게 이어진다는 점이었어요
+단순히 한 가지 광고만 했을...
+  [block 33] 텍스트: (242자) <b>8. 지속 관리와 신뢰로 이어진 경험</b>
+무엇보다 좋았던 건 관리 방식이었어요
+평일뿐 아니라 주말에...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20251211_101214(2).jpg
+[IMG] 2/22: 20251218_123851(0).jpg
+[IMG] 3/22: 20251218_123851(2).jpg
+[IMG] 4/22: 20251218_123852(0).jpg
+[IMG] 5/22: 20251218_123852.jpg
+[IMG] 6/22: 20251218_123854(1).jpg
+[IMG] 7/22: 20251218_123859.jpg
+[IMG] 8/22: 20251218_123909(1).jpg
+[IMG] 9/22: 20251218_123914(0).jpg
+[IMG] 10/22: 20251218_123918.jpg
+[IMG] 11/22: 20251218_123931.jpg
+[IMG] 12/22: 20251218_123932(1).jpg
+[IMG] 13/22: 20251218_123936(1).jpg
+[IMG] 14/22: 20251218_123940(1).jpg
+[IMG] 15/22: 20251218_123940.jpg
+[IMG] 16/22: 20251218_123946.jpg
+[IMG] 17/22: 20251218_124003(1).jpg
+[IMG] 18/22: 20251218_124003.jpg
+[IMG] 19/22: 20251218_124006.jpg
+[IMG] 20/22: 20251218_124018.jpg
+[IMG] 21/22: 20251218_124020(0).jpg
+[IMG] 22/22: 20251218_124022(0).jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=DB588BAF42F807402203...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=ba24993d-25a8-11f1-9...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [VideoHeader:init, Ingest:processing]
+[VIDEO]   poll: [Ingest:done, VideoHeader:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=DB588BAF42F807402203...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=3, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #D4EDDA 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #FFF3CD 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 6/9줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=dlawnsdl919&Redirect=View&logNo=224225421766&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLe
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #4 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_progeny8527.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9XD9PDH5G48HBWQG5CNGH6
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774154327851
+[MANUAL] prompt: 전주온라인광고 맡기기 전 꼭 알았어야 할 점 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야)...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5632 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="28"><strong data-start="0" data-end="28">전주온라인광고 맡기기 전 꼭 알았어야 할 점</strong></p>
+<p data-start="30" data-end="256"><strong data-start="30" data-end="60">1. 막연했던 광고의 시작, 왜 맡기게 되었는지</strong><br data-start="60" data-end="63">
+처음에는 광고를 맡긴다는 게<br data-start="78" data-end="81">
+조금은 부담스럽게 느껴졌어요<br data-start="96" data-end="99">
+혼자서도 할 수 있지 않을까<br data-start="114" data-end="117">
+여러 번 고민을 하기도 했고요<br data-start="133" data-end="136">
+하지만 시간이 갈수록 느낀 건<br data-start="152" data-end="155" data-is-only-node="">
+혼자서 감당하기엔 한계가 있다는 점이었어요<br data-start="178" data-end="181">
+매장은 운영해야 하고<br data-start="192" data-end="195">
+온라인까지 신경 쓰려니 벅차더라고요<br data-start="214" data-end="217">
+그래서 결국 제대로 맡겨보자는<br data-start="233" data-end="236">
+결정을 내리게 되었던 순간이었어요</p>
+<p data-start="258" data-end="502"><strong data-start="258" data-end="283">2. 처음 접한 광고사의 분위기와 인상</strong><br data-start="283" data-end="286">
+막상 방문해서 느낀 분위기는<br data-start="301" data-end="304">
+생각보다 훨씬 체계적이었어요<br data-start="319" data-end="322">
+사무실 공간부터 정돈되어 있었고<br data-start="339" data-end="342">
+각 담당자들이 역할이 나뉘어<br data-start="357" data-end="360">
+움직이는 모습이 인상적이었어요<br data-start="376" data-end="379" data-is-only-node="">
+그저 광고만 하는 곳이 아니라<br data-start="395" data-end="398">
+브랜드를 함께 만들어가는 느낌이었고<br data-start="417" data-end="420">
+현장에서 바로 흐름이 보이는 구조라<br data-start="439" data-end="442">
+신뢰감이 자연스럽게 생기더라고요<br data-start="459" data-end="462">
+이게 단순한 외주와는 다르구나<br data-start="478" data-end="481">
+라는 생각이 들었던 첫 인상이었어요</p>
+<p data-start="504" data-end="753"><strong data-start="504" data-end="533">3. AI 기반 운영 구조를 직접 체감한 순간</strong><br data-start="533" data-end="536">
+제가 내부에서 직접 경험한 바로는<br data-start="554" data-end="557">
+AI 기반으로 돌아가는 시스템이<br data-start="574" data-end="577">
+생각보다 훨씬 정교했어요<br data-start="590" data-end="593">
+캠페인을 세팅하고 끝이 아니라<br data-start="609" data-end="612">
+실시간으로 흐름을 계속 분석하면서<br data-start="630" data-end="633" data-is-only-node="">
+자동으로 조정이 이루어지더라고요<br data-start="650" data-end="653">
+대시보드를 통해 한눈에 확인되니<br data-start="670" data-end="673">
+지금 어떤 방향으로 흘러가는지<br data-start="689" data-end="692">
+바로 체감할 수 있었던 점이 좋았어요<br data-start="712" data-end="715">
+사람이 놓칠 수 있는 부분까지<br data-start="731" data-end="734">
+보완되는 느낌이 확실히 있었어요</p>
+<p data-start="755" data-end="957"><strong data-start="755" data-end="782">4. 업종에 맞춰 실행되는 맞춤 전략 경험</strong><br data-start="782" data-end="785">
+같은 방식으로 진행되는 게 아니라<br data-start="803" data-end="806">
+업종에 맞게 접근이 달랐어요<br data-start="821" data-end="824">
+매장은 방문 유도 중심으로<br data-start="838" data-end="841">
+구성이 이루어졌고<br data-start="850" data-end="853">
+교육 관련은 신뢰를 강조하고<br data-start="868" data-end="871" data-is-only-node="">
+이커머스는 구매 흐름 위주로<br data-start="886" data-end="889">
+세팅이 나뉘어 진행되더라고요<br data-start="904" data-end="907">
+이런 세밀한 차이가 결국<br data-start="920" data-end="923">
+결과를 만들어낸다는 걸<br data-start="935" data-end="938">
+직접 느낄 수 있었던 부분이에요</p>
+<p data-start="959" data-end="1177"><strong data-start="959" data-end="984">5. 3D 시안과 콘텐츠 제작의 차별성</strong><br data-start="984" data-end="
+... (총 5632자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] p+strong
+  인용구: 1. 막연했던 광고의 시작, 왜 맡기게 되었는지
+  텍스트: (173자) 처음에는 광고를 맡긴다는 게
+조금은 부담스럽게 느껴졌어요
+혼자서도 할 수 있지 않을까
+여러 번 고민을 하기도...
+[HTML PARSE] p+strong
+  인용구: 2. 처음 접한 광고사의 분위기와 인상
+  텍스트: (194자) 막상 방문해서 느낀 분위기는
+생각보다 훨씬 체계적이었어요
+사무실 공간부터 정돈되어 있었고
+각 담당자들이 역할...
+[HTML PARSE] p+strong
+  인용구: 3. AI 기반 운영 구조를 직접 체감한 순간
+  텍스트: (195자) 제가 내부에서 직접 경험한 바로는
+AI 기반으로 돌아가는 시스템이
+생각보다 훨씬 정교했어요
+캠페인을 세팅하고...
+[HTML PARSE] p+strong
+  인용구: 4. 업종에 맞춰 실행되는 맞춤 전략 경험
+  텍스트: (152자) 같은 방식으로 진행되는 게 아니라
+업종에 맞게 접근이 달랐어요
+매장은 방문 유도 중심으로
+구성이 이루어졌고
+...
+[HTML PARSE] p+strong
+  인용구: 5. 3D 시안과 콘텐츠 제작의 차별성
+  텍스트: (170자) 광고를 진행하면서 놀랐던 건
+미리 시안을 확인할 수 있다는 점이었어요
+매장 이미지나 디자인 요소를
+3D로 구...
+[HTML PARSE] p+strong
+  인용구: 6. 여러 채널을 한 번에 관리하는 편리함
+  텍스트: (154자) 블로그부터 시작해서
+홈페이지, 쇼핑몰, 다양한 플랫폼까지
+한 번에 관리되는 구조였어요
+각각 따로 신경 쓸 필...
+[HTML PARSE] p+strong
+  인용구: 7. 시간이 지나며 체감된 변화와 안정감
+  텍스트: (154자) 처음에는 반신반의했던 마음이
+점점 확신으로 바뀌었어요
+시간이 지나면서 흐름이 안정되고
+방문도 자연스럽게 늘어...
+[HTML PARSE] p+strong
+  인용구: 8. 맡기기 전 알았으면 좋았을 핵심 정리
+  텍스트: (186자) 돌이켜보면 가장 크게 느낀 건
+광고는 혼자 끌고 가는 게 아니라
+함께 운영하는 구조여야 한다는 점이에요
+단편...
+[CHATGPT] parsed: 1618 chars, 17 parts
+[MANUAL GEN] response length: 1618
+[PARSE] GPT 제목 감지: 전주온라인광고 맡기기 전 꼭 알았어야 할 점
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 막연했던 광고의 시작, 왜 맡기게 되었는지  body: 173자
+  [sec 1] heading: 2. 처음 접한 광고사의 분위기와 인상  body: 194자
+  [sec 2] heading: 3. AI 기반 운영 구조를 직접 체감한 순간  body: 195자
+  [sec 3] heading: 4. 업종에 맞춰 실행되는 맞춤 전략 경험  body: 152자
+  [sec 4] heading: 5. 3D 시안과 콘텐츠 제작의 차별성  body: 170자
+  [sec 5] heading: 6. 여러 채널을 한 번에 관리하는 편리함  body: 154자
+  [sec 6] heading: 7. 시간이 지나며 체감된 변화와 안정감  body: 154자
+  [sec 7] heading: 8. 맡기기 전 알았으면 좋았을 핵심 정리  body: 186자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 맡기기 전 꼭 알았어야 할 점
+[PARSE] quotation 위치: [10, 19, 28]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (207자)
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[1] bold heading+body (223자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[2].heading: 3. AI 기반 운영 구조를 직접 체감한 순간
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (195자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[3] bold heading+body (183자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[4].heading: 5. 3D 시안과 콘텐츠 제작의 차별성
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (170자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[5] bold heading+body (185자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[6].heading: 7. 시간이 지나며 체감된 변화와 안정감
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (154자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[7] bold heading+body (217자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (207자) <b>1. 막연했던 광고의 시작, 왜 맡기게 되었는지</b>
+처음에는 광고를 맡긴다는 게
+조금은 부담스럽게 ...
+  [block 6] 텍스트: (223자) <b>2. 처음 접한 광고사의 분위기와 인상</b>
+막상 방문해서 느낀 분위기는
+생각보다 훨씬 체계적이었어요...
+  [block 10] 인용구: (25자) 3. AI 기반 운영 구조를 직접 체감한 순간
+  [block 11] 텍스트: (195자) 제가 내부에서 직접 경험한 바로는
+AI 기반으로 돌아가는 시스템이
+생각보다 훨씬 정교했어요
+캠페인을 세팅하고...
+  [block 15] 텍스트: (183자) <b>4. 업종에 맞춰 실행되는 맞춤 전략 경험</b>
+같은 방식으로 진행되는 게 아니라
+업종에 맞게 접근이...
+  [block 19] 인용구: (21자) 5. 3D 시안과 콘텐츠 제작의 차별성
+  [block 20] 텍스트: (170자) 광고를 진행하면서 놀랐던 건
+미리 시안을 확인할 수 있다는 점이었어요
+매장 이미지나 디자인 요소를
+3D로 구...
+  [block 24] 텍스트: (185자) <b>6. 여러 채널을 한 번에 관리하는 편리함</b>
+블로그부터 시작해서
+홈페이지, 쇼핑몰, 다양한 플랫폼...
+  [block 28] 인용구: (22자) 7. 시간이 지나며 체감된 변화와 안정감
+  [block 29] 텍스트: (154자) 처음에는 반신반의했던 마음이
+점점 확신으로 바뀌었어요
+시간이 지나면서 흐름이 안정되고
+방문도 자연스럽게 늘어...
+  [block 33] 텍스트: (217자) <b>8. 맡기기 전 알았으면 좋았을 핵심 정리</b>
+돌이켜보면 가장 크게 느낀 건
+광고는 혼자 끌고 가는...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20251218_124105(0).jpg
+[IMG] 2/22: 20251218_124108(2).jpg
+[IMG] 3/22: 20251218_124108.jpg
+[IMG] 4/22: 20251218_124128.jpg
+[IMG] 5/22: 20251218_124132(0).jpg
+[IMG] 6/22: 20251218_124212(2).jpg
+[IMG] 7/22: 20251218_124220(2).jpg
+[IMG] 8/22: 20251218_124221.jpg
+[IMG] 9/22: 20251218_124226(1).jpg
+[IMG] 10/22: 20251218_124237(0).jpg
+[IMG] 11/22: 20251218_124307.jpg
+[IMG] 12/22: 20251218_124335.jpg
+[IMG] 13/22: 20251218_124342(1).jpg
+[IMG] 14/22: 20251218_124344(0).jpg
+[IMG] 15/22: 20251218_124429.jpg
+[IMG] 16/22: 20251218_124432(0).jpg
+[IMG] 17/22: 20251218_124504.jpg
+[IMG] 18/22: 20251218_124557(1).jpg
+[IMG] 19/22: 20251218_124606(0).jpg
+[IMG] 20/22: 20251218_124627.jpg
+[IMG] 21/22: 20251218_124631(1).jpg
+[IMG] 22/22: 20251218_124639.jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=670A1B147A02A759E84B...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=4a50dccc-25a9-11f1-9...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [Ingest:processing, VideoHeader:init]
+[VIDEO]   poll: [Ingest:done, VideoHeader:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=670A1B147A02A759E84B...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=4, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #D4EDDA 적용: 7/11줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #CCE5FF 적용: 7/11줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #FFF3CD 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=progeny8527&Redirect=View&logNo=224225424641&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLe
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #5 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_tjrudals31724.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9XMP9276V1CA0P6RMPTKM0
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774154570113
+[MANUAL] prompt: 전주온라인광고 꾸준히 해야 하는 이유 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5097 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<ol data-start="0" data-end="1556" data-is-only-node="" data-is-last-node="">
+<li data-section-id="15rxgk0" data-start="0" data-end="189">
+<p data-start="3" data-end="189">전주온라인광고 꾸준함의 시작<br data-start="18" data-end="21">
+처음에는 솔직히 반신반의했어요<br data-start="37" data-end="40">
+전주에서 가게를 운영하면서<br data-start="54" data-end="57">
+광고를 해야 한다는 이야기는<br data-start="72" data-end="75">
+여러 번 들었지만 막상 실행은<br data-start="91" data-end="94">
+쉽지 않았던 게 사실이었어요<br data-start="109" data-end="112">
+그런데 매출 흐름이 점점 흔들리니<br data-start="130" data-end="133">
+더 이상 미룰 수 없다는 생각이<br data-start="150" data-end="153">
+자연스럽게 들기 시작했어요<br data-start="167" data-end="170">
+그때 선택한 게 온라인광고였어요</p>
+</li>
+<li data-section-id="ib6lp8" data-start="191" data-end="379">
+<p data-start="194" data-end="379">단발성 광고의 한계를 체감<br data-start="208" data-end="211">
+예전에 한 번씩 광고를 해봤는데<br data-start="228" data-end="231">
+그때마다 잠깐 반응은 있었지만<br data-start="247" data-end="250">
+금방 다시 조용해지더라고요<br data-start="264" data-end="267">
+그래서 광고는 원래 이런 건가<br data-start="283" data-end="286">
+생각했는데 지금 돌아보면<br data-start="299" data-end="302">
+꾸준히 하지 않았던 게 문제였어요<br data-start="320" data-end="323">
+흐름이 끊기니까 고객도 끊기고<br data-start="339" data-end="342">
+브랜드 인식도 이어지지 않아서<br data-start="358" data-end="361">
+결과적으로는 남는 게 없었어요</p>
+</li>
+<li data-section-id="clp7tv" data-start="381" data-end="563">
+<p data-start="384" data-end="563">AI 기반 시스템을 경험하다<br data-start="399" data-end="402">
+이번에는 다르게 접근해보고 싶어<br data-start="419" data-end="422">
+전문 업체를 통해 진행했는데<br data-start="437" data-end="440">
+내부 시스템을 직접 보게 되니<br data-start="456" data-end="459">
+생각이 완전히 달라졌어요<br data-start="472" data-end="475">
+AI가 데이터를 분석하면서<br data-start="489" data-end="492">
+광고 방향을 계속 조정해주고<br data-start="507" data-end="510">
+대시보드로 흐름을 한눈에 보니<br data-start="526" data-end="529">
+사람이 일일이 하는 것보다<br data-start="543" data-end="546">
+훨씬 정교하다는 느낌이었어요</p>
+</li>
+<li data-section-id="mkx9w3" data-start="565" data-end="738">
+<p data-start="568" data-end="738">업종 맞춤 실행의 차이<br data-start="580" data-end="583">
+제가 운영하는 업종 특성에 맞게<br data-start="600" data-end="603">
+콘텐츠 방향을 잡아주는 과정이<br data-start="619" data-end="622">
+상당히 인상 깊었어요<br data-start="633" data-end="636">
+교육 쪽은 신뢰 중심으로<br data-start="649" data-end="652">
+이커머스는 전환 중심으로<br data-start="665" data-end="668">
+각 업종마다 전략이 다르고<br data-start="682" data-end="685">
+그걸 실제 광고에 반영하니까<br data-start="700" data-end="703">
+반응 자체가 달라지더라고요<br data-start="717" data-end="720">
+단순 홍보와는 확실히 달랐어요</p>
+</li>
+<li data-section-id="1pxanju" data-start="740" data-end="948">
+<p data-start="743" data-end="948">시각 콘텐츠와 제작 경험<br data-start="756" data-end="759">
+광고에 들어가는 이미지나 영상도<br data-start="776" data-end="779">
+그냥 만드는 수준이 아니라<br data-start="793" data-end="796">
+3D 시안으로 미리 확인하면서<br data-start="812" data-end="815">
+수정할 수 있다는 점이 좋았어요<br data-start="832" data-end="835">
+숏폼 영상도 주기적으로 제작되고<br data-start="852" data-end="855">
+플랫폼에 맞게 자동으로 맞춰지니<br data-start="872" data-end="875">
+신경 쓸 부분이 확 줄어들었어요<br data-start="892" data-end="895">
+덕분에 저는 운영에 집중하면서<br data-start="911" data-end
+... (총 5097자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 전주온라인광고 꾸준함의 시작
+  텍스트: (150자) 처음에는 솔직히 반신반의했어요
+전주에서 가게를 운영하면서
+광고를 해야 한다는 이야기는
+여러 번 들었지만 막상 실행은
+쉽지 않았던 게 사실이었어요...
+[HTML PARSE] li[2]
+  인용구: 단발성 광고의 한계를 체감
+  텍스트: (150자) 예전에 한 번씩 광고를 해봤는데
+그때마다 잠깐 반응은 있었지만
+금방 다시 조용해지더라고요
+그래서 광고는 원래 이런 건가
+생각했는데 지금 돌아보면...
+[HTML PARSE] li[3]
+  인용구: AI 기반 시스템을 경험하다
+  텍스트: (143자) 이번에는 다르게 접근해보고 싶어
+전문 업체를 통해 진행했는데
+내부 시스템을 직접 보게 되니
+생각이 완전히 달라졌어요
+AI가 데이터를 분석하면서
+...
+[HTML PARSE] li[4]
+  인용구: 업종 맞춤 실행의 차이
+  텍스트: (137자) 제가 운영하는 업종 특성에 맞게
+콘텐츠 방향을 잡아주는 과정이
+상당히 인상 깊었어요
+교육 쪽은 신뢰 중심으로
+이커머스는 전환 중심으로
+각 업종마...
+[HTML PARSE] li[5]
+  인용구: 시각 콘텐츠와 제작 경험
+  텍스트: (169자) 광고에 들어가는 이미지나 영상도
+그냥 만드는 수준이 아니라
+3D 시안으로 미리 확인하면서
+수정할 수 있다는 점이 좋았어요
+숏폼 영상도 주기적으로...
+[HTML PARSE] li[6]
+  인용구: 전국 단위 협업의 안정감
+  텍스트: (149자) 한 지역에서만 움직이는 게 아니라
+전국 단위로 연결된 구조라서
+문제가 생겨도 빠르게 대응됐어요
+담당자와 실시간으로 소통되니
+답답함이 거의 없었고...
+[HTML PARSE] li[7]
+  인용구: 통합 관리의 효율성 체감
+  텍스트: (168자) 블로그, 홈페이지, 다양한 채널을
+한 번에 관리할 수 있다는 점도
+생각보다 큰 차이를 만들었어요
+각각 따로 운영할 때보다
+흐름이 자연스럽게 이어...
+[HTML PARSE] li[8]
+  인용구: 꾸준함이 만든 결과와 신뢰
+  텍스트: (171자) 결국 느낀 건 광고는 한 번이 아니라
+계속 이어가는 게 핵심이라는 점이에요
+단건으로 끝낼 때보다
+통합적으로 관리하면서 진행하니
+부족한 부분도 함...
+[CHATGPT] parsed: 1400 chars, 16 parts
+[MANUAL GEN] response length: 1400
+[PARSE] 인트로 (본문): (170자) 1. 전주온라인광고 꾸준함의 시작
+
+처음에는 솔직히 반신반의했어요
+전주에서 가게를 운영하면서
+광고를 해야 한...
+[PARSE] 번호 섹션: 7개
+  [sec 0] heading: 2. 단발성 광고의 한계를 체감  body: 150자
+  [sec 1] heading: 3. AI 기반 시스템을 경험하다  body: 143자
+  [sec 2] heading: 4. 업종 맞춤 실행의 차이  body: 137자
+  [sec 3] heading: 5. 시각 콘텐츠와 제작 경험  body: 169자
+  [sec 4] heading: 6. 전국 단위 협업의 안정감  body: 149자
+  [sec 5] heading: 7. 통합 관리의 효율성 체감  body: 168자
+  [sec 6] heading: 8. 꾸준함이 만든 결과와 신뢰  body: 171자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 꾸준히 해야 하는 이유
+[PARSE] quotation 위치: [10, 19, 28]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (170자) styles=[]
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[0] bold heading+body (175자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[1].heading: 3. AI 기반 시스템을 경험하다
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (143자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[2] bold heading+body (160자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[3].heading: 5. 시각 콘텐츠와 제작 경험
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (169자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[4] bold heading+body (173자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[5].heading: 7. 통합 관리의 효율성 체감
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (168자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[6] bold heading+body (196자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 7/7
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (170자) 1. 전주온라인광고 꾸준함의 시작
+
+처음에는 솔직히 반신반의했어요
+전주에서 가게를 운영하면서
+광고를 해야 한...
+  [block 6] 텍스트: (175자) <b>2. 단발성 광고의 한계를 체감</b>
+예전에 한 번씩 광고를 해봤는데
+그때마다 잠깐 반응은 있었지만
+...
+  [block 10] 인용구: (18자) 3. AI 기반 시스템을 경험하다
+  [block 11] 텍스트: (143자) 이번에는 다르게 접근해보고 싶어
+전문 업체를 통해 진행했는데
+내부 시스템을 직접 보게 되니
+생각이 완전히 달...
+  [block 15] 텍스트: (160자) <b>4. 업종 맞춤 실행의 차이</b>
+제가 운영하는 업종 특성에 맞게
+콘텐츠 방향을 잡아주는 과정이
+상당...
+  [block 19] 인용구: (16자) 5. 시각 콘텐츠와 제작 경험
+  [block 20] 텍스트: (169자) 광고에 들어가는 이미지나 영상도
+그냥 만드는 수준이 아니라
+3D 시안으로 미리 확인하면서
+수정할 수 있다는 ...
+  [block 24] 텍스트: (173자) <b>6. 전국 단위 협업의 안정감</b>
+한 지역에서만 움직이는 게 아니라
+전국 단위로 연결된 구조라서
+문...
+  [block 28] 인용구: (16자) 7. 통합 관리의 효율성 체감
+  [block 29] 텍스트: (168자) 블로그, 홈페이지, 다양한 채널을
+한 번에 관리할 수 있다는 점도
+생각보다 큰 차이를 만들었어요
+각각 따로 ...
+  [block 33] 텍스트: (196자) <b>8. 꾸준함이 만든 결과와 신뢰</b>
+결국 느낀 건 광고는 한 번이 아니라
+계속 이어가는 게 핵심이라...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20251218_124650.jpg
+[IMG] 2/22: 20251218_124702(2).jpg
+[IMG] 3/22: 20251218_124704(3).jpg
+[IMG] 4/22: 20251226_162238.jpg
+[IMG] 5/22: 20251229_160508(2).jpg
+[IMG] 6/22: 20251229_160514(0).jpg
+[IMG] 7/22: 20251229_160515(1).jpg
+[IMG] 8/22: 20251229_160515(3).jpg
+[IMG] 9/22: 20251229_160523(1).jpg
+[IMG] 10/22: 20251229_160526(1).jpg
+[IMG] 11/22: 20251229_160526.jpg
+[IMG] 12/22: 20251229_160527(0).jpg
+[IMG] 13/22: 20251229_160530(1).jpg
+[IMG] 14/22: 20251229_160532.jpg
+[IMG] 15/22: 20251229_160536(0).jpg
+[IMG] 16/22: 20251229_160537(1).jpg
+[IMG] 17/22: 20251229_160539.jpg
+[IMG] 18/22: 20251229_160541(0).jpg
+[IMG] 19/22: 20251229_160546.jpg
+[IMG] 20/22: 20251229_160550(0).jpg
+[IMG] 21/22: 20251229_160552(2).jpg
+[IMG] 22/22: 20251229_160552.jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=79153CD8D543FB777E28...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=d9e39f4c-25a9-11f1-9...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [VideoHeader:done, Ingest:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=79153CD8D543FB777E28...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=5, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #FDEBD0 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #D4EDDA 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 7/11줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=tjrudals31724&Redirect=View&logNo=224225427430&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBean
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #6 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_shgodhs154.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KM9XVWRYG48DXNZN8N8Y34M9
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1774154806137
+[MANUAL] prompt: 전주온라인광고 업체 선택 기준 정리 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6806e0810a6881918e6ccaa665...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5514 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<ol data-start="0" data-end="1780" data-is-last-node="" data-is-only-node="">
+<li data-section-id="tuuf70" data-start="0" data-end="210">
+<p data-start="3" data-end="210">전주온라인광고 업체 선택 기준을 고민하게 된 계기<br data-start="30" data-end="33">
+처음 매장을 운영하면서 가장 크게<br data-start="51" data-end="54">
+고민했던 부분은 역시 홍보였어요<br data-start="71" data-end="74">
+좋은 상품과 서비스를 갖추고도<br data-start="90" data-end="93">
+알리지 못하면 의미가 없더라고요<br data-start="110" data-end="113">
+그래서 전주온라인광고 업체를<br data-start="128" data-end="131">
+여러 곳 비교하며 알아보게 됐고<br data-start="148" data-end="151">
+단순한 광고가 아니라 실제로<br data-start="166" data-end="169">
+매출 흐름까지 바꿀 수 있는지<br data-start="185" data-end="188">
+직접 경험해보고 싶다는 생각이 컸어요</p>
+</li>
+<li data-section-id="80gavr" data-start="212" data-end="437">
+<p data-start="215" data-end="437">처음 느꼈던 브랜드의 안정감과 분위기<br data-start="235" data-end="238">
+여러 업체를 접하면서 느낀 건<br data-start="254" data-end="257">
+겉으로 보이는 말보다 내부 구조가<br data-start="275" data-end="278">
+훨씬 중요하다는 점이었어요<br data-start="292" data-end="295">
+제가 선택했던 곳은 사무실 환경부터<br data-start="314" data-end="317">
+체계적으로 운영되는 느낌이 강했고<br data-start="335" data-end="338">
+브랜딩 디자인이나 시스템이<br data-start="352" data-end="355">
+이미 잘 잡혀 있다는 인상이었어요<br data-start="373" data-end="376">
+간판, 배너, 로고 같은 부분도<br data-start="393" data-end="396">
+일관성 있게 연결되는 점에서<br data-start="411" data-end="414">
+단순 광고사가 아니라는 확신이 들었어요</p>
+</li>
+<li data-section-id="15ejy9x" data-start="439" data-end="668">
+<p data-start="442" data-end="668">AI 기반 빅데이터 구조를 직접 경험한 부분<br data-start="466" data-end="469">
+실제로 진행하면서 가장 인상 깊었던 건<br data-start="490" data-end="493">
+AI 자동화 기반으로 돌아가는<br data-start="509" data-end="512">
+광고 세팅과 관리 방식이었어요<br data-start="528" data-end="531">
+캠페인을 설정하면 끝이 아니라<br data-start="547" data-end="550">
+실시간으로 데이터를 반영하면서<br data-start="566" data-end="569">
+계속 최적화가 이루어지는 구조였고<br data-start="587" data-end="590">
+하나의 대시보드에서 흐름을 확인하며<br data-start="609" data-end="612">
+조금씩 변화가 쌓이는 걸 보니까<br data-start="629" data-end="632">
+사람 감각보다 더 정교하다는 걸<br data-start="649" data-end="652">
+확실하게 느낄 수 있었어요</p>
+</li>
+<li data-section-id="sb0bcp" data-start="670" data-end="896">
+<p data-start="673" data-end="896">업종별 맞춤 전략이 실제로 적용된 경험<br data-start="694" data-end="697">
+같은 방식으로 진행되는 게 아니라<br data-start="715" data-end="718">
+업종에 따라 접근이 달랐던 점도<br data-start="735" data-end="738">
+굉장히 인상 깊었던 부분이에요<br data-start="754" data-end="757">
+외식 매장은 지역 기반 흐름 중심으로<br data-start="777" data-end="780">
+교육 업종은 신뢰를 강조하는 방향으로<br data-start="800" data-end="803">
+이커머스는 전환 흐름 중심으로<br data-start="819" data-end="822">
+각각 전략이 다르게 적용되더라고요<br data-start="840" data-end="843">
+저 같은 소상공인 입장에서는<br data-start="858" data-end="861">
+이런 맞춤 흐름이 결과에<br data-start="874" data-end="877">
+직접적인 영향을 준다고 느꼈어요</p>
+</li>
+<li data-section-id="1vdh4ot" data-start="898" data-end="1107">
+<p data-start="901" data-end="1107">3D 시안과 영상 콘텐츠 제작 경험<br data-start="920" data-end="923">
+광고를 시작하기 전에 3D 시안으로<br data-start="942" data-end="945">
+매장 이미지나 콘텐츠를<br data-start="957" data-end="960">
+미리 확인할 수 있었던 것도 좋았어요<br data-start="980" dat
+... (총 5514자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 전주온라인광고 업체 선택 기준을 고민하게 된 계기
+  텍스트: (159자) 처음 매장을 운영하면서 가장 크게
+고민했던 부분은 역시 홍보였어요
+좋은 상품과 서비스를 갖추고도
+알리지 못하면 의미가 없더라고요
+그래서 전주온라...
+[HTML PARSE] li[2]
+  인용구: 처음 느꼈던 브랜드의 안정감과 분위기
+  텍스트: (179자) 여러 업체를 접하면서 느낀 건
+겉으로 보이는 말보다 내부 구조가
+훨씬 중요하다는 점이었어요
+제가 선택했던 곳은 사무실 환경부터
+체계적으로 운영되...
+[HTML PARSE] li[3]
+  인용구: AI 기반 빅데이터 구조를 직접 경험한 부분
+  텍스트: (179자) 실제로 진행하면서 가장 인상 깊었던 건
+AI 자동화 기반으로 돌아가는
+광고 세팅과 관리 방식이었어요
+캠페인을 설정하면 끝이 아니라
+실시간으로 데...
+[HTML PARSE] li[4]
+  인용구: 업종별 맞춤 전략이 실제로 적용된 경험
+  텍스트: (179자) 같은 방식으로 진행되는 게 아니라
+업종에 따라 접근이 달랐던 점도
+굉장히 인상 깊었던 부분이에요
+외식 매장은 지역 기반 흐름 중심으로
+교육 업종...
+[HTML PARSE] li[5]
+  인용구: 3D 시안과 영상 콘텐츠 제작 경험
+  텍스트: (164자) 광고를 시작하기 전에 3D 시안으로
+매장 이미지나 콘텐츠를
+미리 확인할 수 있었던 것도 좋았어요
+막연한 상상이 아니라
+눈으로 보면서 방향을 잡을...
+[HTML PARSE] li[6]
+  인용구: 전국 센터 협업과 다채널 운영 구조
+  텍스트: (171자) 진행하면서 느낀 또 하나의 장점은
+한 지역이 아닌 전국 단위로
+센터가 연결되어 있다는 점이었어요
+문제가 생기거나 수정이 필요할 때
+바로 대응이 ...
+[HTML PARSE] li[7]
+  인용구: 시간이 지나며 체감된 변화와 차이
+  텍스트: (175자) 처음에는 반신반의했던 것도 사실인데
+시간이 지나면서 흐름이 달라졌어요
+방문이 조금씩 이어지기 시작했고
+유입 경로도 다양해지면서
+전체적인 매출 구...
+[HTML PARSE] li[8]
+  인용구: 결국 선택 기준은 ‘관리와 신뢰’였던 이유
+  텍스트: (183자) 결국 제가 느낀 선택 기준은
+단순한 광고 실행이 아니라
+얼마나 함께 운영해주는지였어요
+평일뿐 아니라 주말에도
+지속적으로 케어가 이어지고
+마치 내...
+[CHATGPT] parsed: 1614 chars, 16 parts
+[MANUAL GEN] response length: 1614
+[PARSE] 인트로 (본문): (191자) 1. 전주온라인광고 업체 선택 기준을 고민하게 된 계기
+
+처음 매장을 운영하면서 가장 크게
+고민했던 부분은 ...
+[PARSE] 번호 섹션: 7개
+  [sec 0] heading: 2. 처음 느꼈던 브랜드의 안정감과 분위기  body: 179자
+  [sec 1] heading: 3. AI 기반 빅데이터 구조를 직접 경험한 부분  body: 179자
+  [sec 2] heading: 4. 업종별 맞춤 전략이 실제로 적용된 경험  body: 179자
+  [sec 3] heading: 5. 3D 시안과 영상 콘텐츠 제작 경험  body: 164자
+  [sec 4] heading: 6. 전국 센터 협업과 다채널 운영 구조  body: 171자
+  [sec 5] heading: 7. 시간이 지나며 체감된 변화와 차이  body: 175자
+  [sec 6] heading: 8. 결국 선택 기준은 ‘관리와 신뢰’였던 이유  body: 183자
+[TITLE] 엑셀 제목 유지: 전주온라인광고 업체 선택 기준 정리
+[PARSE] quotation 위치: [10, 19, 28]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (191자) styles=[]
+  [block 2] map → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] image → SKIP
+  [block 6] text → SEC[0] bold heading+body (210자)
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] image → SKIP
+  [block 10] quotation → SEC[1].heading: 3. AI 기반 빅데이터 구조를 직접 경험한 부분
+           body → 1개 text 블록에 배정
+  [block 11] text → BODY[0] (179자) styles=[]
+  [block 12] image → SKIP
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] text → SEC[2] bold heading+body (211자)
+  [block 16] image → SKIP
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[3].heading: 5. 3D 시안과 영상 콘텐츠 제작 경험
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (164자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] image → SKIP
+  [block 24] text → SEC[4] bold heading+body (201자)
+  [block 25] image → SKIP
+  [block 26] image → SKIP
+  [block 27] image → SKIP
+  [block 28] quotation → SEC[5].heading: 7. 시간이 지나며 체감된 변화와 차이
+           body → 1개 text 블록에 배정
+  [block 29] text → BODY[0] (175자) styles=[]
+  [block 30] image → SKIP
+  [block 31] image → SKIP
+  [block 32] image → SKIP
+  [block 33] text → SEC[6] bold heading+body (217자)
+  [block 34] video → SKIP
+  [block 35] extra_text → SKIP
+  [block 36] map → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 7/7
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (191자) 1. 전주온라인광고 업체 선택 기준을 고민하게 된 계기
+
+처음 매장을 운영하면서 가장 크게
+고민했던 부분은 ...
+  [block 6] 텍스트: (210자) <b>2. 처음 느꼈던 브랜드의 안정감과 분위기</b>
+여러 업체를 접하면서 느낀 건
+겉으로 보이는 말보다 ...
+  [block 10] 인용구: (27자) 3. AI 기반 빅데이터 구조를 직접 경험한 부분
+  [block 11] 텍스트: (179자) 실제로 진행하면서 가장 인상 깊었던 건
+AI 자동화 기반으로 돌아가는
+광고 세팅과 관리 방식이었어요
+캠페인을...
+  [block 15] 텍스트: (211자) <b>4. 업종별 맞춤 전략이 실제로 적용된 경험</b>
+같은 방식으로 진행되는 게 아니라
+업종에 따라 접근...
+  [block 19] 인용구: (22자) 5. 3D 시안과 영상 콘텐츠 제작 경험
+  [block 20] 텍스트: (164자) 광고를 시작하기 전에 3D 시안으로
+매장 이미지나 콘텐츠를
+미리 확인할 수 있었던 것도 좋았어요
+막연한 상상...
+  [block 24] 텍스트: (201자) <b>6. 전국 센터 협업과 다채널 운영 구조</b>
+진행하면서 느낀 또 하나의 장점은
+한 지역이 아닌 전국...
+  [block 28] 인용구: (21자) 7. 시간이 지나며 체감된 변화와 차이
+  [block 29] 텍스트: (175자) 처음에는 반신반의했던 것도 사실인데
+시간이 지나면서 흐름이 달라졌어요
+방문이 조금씩 이어지기 시작했고
+유입 ...
+  [block 33] 텍스트: (217자) <b>8. 결국 선택 기준은 ‘관리와 신뢰’였던 이유</b>
+결국 제가 느낀 선택 기준은
+단순한 광고 실행이...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[대체텍스트] 10개 규칙, 8건 적용
+[IMG] 1/22: 20251229_160555(0).jpg
+[IMG] 2/22: 20251229_160555(1).jpg
+[IMG] 3/22: 20251229_160556(1).jpg
+[IMG] 4/22: 20251229_160556(3).jpg
+[IMG] 5/22: 20251229_160600(1).jpg
+[IMG] 6/22: 20251229_160603.jpg
+[IMG] 7/22: 20251229_160604.jpg
+[IMG] 8/22: 20251229_160640(2).jpg
+[IMG] 9/22: 20251229_160642(1).jpg
+[IMG] 10/22: 20251229_160643(1).jpg
+[IMG] 11/22: 20251229_160647(1).jpg
+[IMG] 12/22: 20251229_160648(0).jpg
+[IMG] 13/22: 20251229_160651.jpg
+[IMG] 14/22: 20251229_160655(0).jpg
+[IMG] 15/22: 20251229_160656(2).jpg
+[IMG] 16/22: 20251229_160656.jpg
+[IMG] 17/22: 20251229_160657(0).jpg
+[IMG] 18/22: 20251229_160702.jpg
+[IMG] 19/22: 20251229_160703(1).jpg
+[IMG] 20/22: 20251229_160703(3).jpg
+[IMG] 21/22: 20251229_160708.jpg
+[IMG] 22/22: 20251229_160713.jpg
+[IMG] 22장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=ED5B49F713884F9A57B0...
+[VIDEO] 파일: 미래마케팅플러스.mp4 (32.8MB)
+[VIDEO] 2/6 세션 생성: key=64642aef-25aa-11f1-9...
+[VIDEO] 3/6 청크 업로드 시작 (7개)
+[VIDEO]   청크 1/7: 200 (5242880 bytes)
+[VIDEO]   청크 2/7: 200 (5242880 bytes)
+[VIDEO]   청크 3/7: 200 (5242880 bytes)
+[VIDEO]   청크 4/7: 200 (5242880 bytes)
+[VIDEO]   청크 5/7: 200 (5242880 bytes)
+[VIDEO]   청크 6/7: 200 (5242880 bytes)
+[VIDEO]   청크 7/7: 200 (2890579 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [VideoHeader:done, Ingest:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_03_2...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 미래마케팅플러스.mp4, vid=ED5B49F713884F9A57B0...
+[MAP] maps=['전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스', '전북미래마케팅플러스'], excel_counter=6, query="전북미래마케팅플러스"
+[MAP] 검색: 전북미래마케팅플러스 → 미래마케팅플러스 전북센터 (전북특별자치도 익산시 익산대로2길 27-3 2층 205호 에이03)
+[추가문구] 블록[35] → extra[0]: 미래마케팅플러스/번호 클릭시 전화연결/문의: 010-9543-8253(tel:010-954
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[COMPONENT] map 삽입
+[RANDOM BG] #D4EDDA 적용: 7/11줄 (확률80%, 비율70%)
+[RANDOM BG] #FDEBD0 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #E2D9F3 적용: 7/11줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #E2D9F3 적용: 8/12줄 (확률80%, 비율70%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[35] 삽입
+[COMPONENT] map SKIP (지도 없음 또는 이미 사용)
+[TAGS] 본문 끝에 추가: #전주온라인광고 #미래마케팅플러스 #전주마케팅
+[COMPONENTS] 37 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 5] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 9] represent=False src=...image.png
+  [IMG 12] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 16] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 23] represent=False src=...image.png
+  [IMG 25] represent=False src=...image.png
+  [IMG 26] represent=False src=...image.png
+  [IMG 27] represent=False src=...image.png
+  [IMG 30] represent=False src=...image.png
+  [IMG 31] represent=False src=...image.png
+  [IMG 32] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=shgodhs154&Redirect=View&logNo=224225430147&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLev
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #7 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_sht212652.pkl
+[PUBLISH ERROR] keyword=7, excel=7: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #8 실패: Expecting value: line 3 column
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_dnjsdpals87607.pkl
+[PUBLISH ERROR] keyword=8, excel=8: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #9 실패: Expecting value: line 3 column
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\userpc\Desktop\프로그램\naver_cookie_save_tjwpsl4505.pkl
+[PUBLISH ERROR] keyword=9, excel=9: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\userpc\Desktop\프로그램\report_20260322.csv: #10 실패: Expecting value: line 3 column
