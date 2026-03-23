@@ -1,0 +1,827 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 146
+최신 크롬 버전 :: 146
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 146
+내 드라이버 버전 :: 146
+DB access----success!!
+1999
+0       골프연습장 케이스퀘어72 골프레슨 SDR+
+1       골프연습장 케이스퀘어72 골프레슨 SDR+
+2       골프연습장 케이스퀘어72 골프레슨 SDR+
+3       골프연습장 케이스퀘어72 골프레슨 SDR+
+4       골프연습장 케이스퀘어72 골프레슨 SDR+
+                 ...           
+1994                           
+1995                           
+1996                           
+1997                           
+1998                           
+Name: 작업 매장, Length: 1999, dtype: object
+find_name 골프연습장 케이스퀘어72 골프레슨 SDR+
+IP 변경중...
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.19.85
+
+
+변경된 IP : 175.223.19.85
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:55377
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.15.187
+
+
+변경된 IP : 175.223.15.187
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:55101
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.51.2
+
+
+변경된 IP : 39.7.51.2
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:57632
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.34.96
+
+
+변경된 IP : 175.223.34.96
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:59194
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.26.179
+
+
+변경된 IP : 175.223.26.179
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:50627
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.54.176
+
+
+변경된 IP : 110.70.54.176
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:54384
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.47.36
+
+
+변경된 IP : 39.7.47.36
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:51614
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.14.101
+
+
+변경된 IP : 110.70.14.101
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:64133
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.55.100
+
+
+변경된 IP : 39.7.55.100
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:53407
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.50.254
+
+
+변경된 IP : 110.70.50.254
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:62605
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.59.23
+
+
+변경된 IP : 110.70.59.23
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:53601
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.19.165
+
+
+변경된 IP : 175.223.19.165
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:51952
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.47.10
+
+
+변경된 IP : 39.7.47.10
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:50686
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.58.44
+
+
+변경된 IP : 39.7.58.44
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60688
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.54.151
+
+
+변경된 IP : 110.70.54.151
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:55023
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.26.152
+
+
+변경된 IP : 175.223.26.152
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:50005
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.35.230
+
+
+변경된 IP : 175.223.35.230
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:63777
+from session not created: This version of ChromeDriver only supports Chrome version 144
+Current browser version is 146.0.7680.81
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12e5093
+	0x12e50d4
+	0x10db490
+	0x1116ae2
+	0x1115b1c
+	0x110bbf5
+	0x110ba16
+	0x11547bf
+	0x1153fd7
+	0x1147f56
+	0x11196c9
+	0x111a484
+	0x1537e34
+	0x15330c9
+	0x1550add
+	0x12fdb38
+	0x13058ad
+	0x12ed848
+	0x12eda12
+	0x12d75fa
+	0x771f5d49
+	0x77d6d81b
+	0x77d6d7a1
+
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  175.223.27.194
+
+
+변경된 IP : 175.223.27.194
+
+시작
+File saved to: C:\Users\vip36\OneDrive\Desktop\OneDrive_2025-09-11\네이버플레이스\유효타\logfile.txt
