@@ -1,0 +1,25 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+[분석] 구글 별도 드라이버 생성 (headless 해제)
+[분석] 구글 1페이지 검색 완료
+[분석] 구글 1페이지 → 파싱 11건, 찾기: "wikidocs"
+[분석] 구글 2페이지 → https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88&start=10
+[분석] 구글 2페이지 → 파싱 10건, 찾기: "wikidocs"
+[분석] 구글 3페이지 → https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88&start=20
+[분석] 구글 3페이지 → 파싱 9건, 찾기: "wikidocs"
+[분석] 구글 4페이지 → https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88&start=30
+[분석] 구글 4페이지 → 파싱 10건, 찾기: "wikidocs"
+[분석] 구글 5페이지 → https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88&start=40
+[분석] 구글 5페이지 → 파싱 9건, 찾기: "wikidocs"
+로그 저장 시작
+File saved to: C:\Users\sgjeon\Desktop\claudhere\logfile.txt
