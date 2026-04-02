@@ -1,0 +1,549 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+🟢 사용자 선택: 서버2
+DB access----success!!
+11
+0     광화문특고기 정동집
+1     광화문특고기 정동집
+2     광화문특고기 정동집
+3     광화문특고기 정동집
+4     광화문특고기 정동집
+5     광화문특고기 정동집
+6     광화문특고기 정동집
+7     광화문특고기 정동집
+8     광화문특고기 정동집
+9     광화문특고기 정동집
+10    광화문특고기 정동집
+Name: 작업 매장, dtype: object
+find_name 광화문특고기 정동집
+IP 변경중...
+
+변경된 IP : 49.254.254.105
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60239
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 121.126.240.141
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60258
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 121.126.2.154
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60277
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 115.144.113.76
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60288
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 121.126.244.120
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60298
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 115.144.142.97
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60310
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 124.198.85.26
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60324
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 124.198.101.73
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60336
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 121.126.168.251
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60354
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 125.7.152.138
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60365
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 121.126.155.85
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60383
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 125.7.157.187
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60394
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 125.7.157.187
+
+IP 변경중...
+
+변경된 IP : 115.144.30.113
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:60405
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+변경된 IP : 115.144.30.113
+
+IP 변경중...
+
+변경된 IP : 115.144.30.113
+
+IP 변경중...
+
+변경된 IP : 115.144.30.113
+
+IP 변경중...
+
+변경된 IP : 210.92.57.99
+
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:49330
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 146.0.7680.165
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa41213
+	0xa41254
+	0x82e6dd
+	0x86a958
+	0x869992
+	0x85fbe5
+	0x85fa16
+	0x8a7826
+	0x8a7047
+	0x89b2e6
+	0x86d321
+	0x86e1d4
+	0xc95254
+	0xc9080b
+	0xcad0ea
+	0xa5b118
+	0xa6311d
+	0xa49518
+	0xa496d9
+	0xa33a68
+	0x754cfcc9
+	0x776a82ae
+	0x776a827e
+
+IP 변경중...
+
+시작
+File saved to: C:\마케팅\프로그램\OneDrive_2026-04-02\네이버플레이스\유효타\logfile.txt
