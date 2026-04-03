@@ -1,0 +1,1674 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\8dcd5a26f46a47759cd454ca49064d7b.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\aae8c8b9e3194ac380d961658d006ff0.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\079566116c12476483136e086ceb37b8.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 146
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-04-03 15:56:18
+now: 2026-04-03 16:19:38.745573
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\f40bddd6218d4889b12cdf2c6e9cf064.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\8fbfe863653a4fe2922a9456d5a257ec.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\f2604b526628446ca4a447ec80715c13.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 146
+버전업 필요
+title 교통사고 피해자 합의금 기준은
+title 교통사고 피해자 보험사 대응은
+title 교통사고 피해자 보상 전략은
+title 교통사고 피해자 합의금 산정은
+title 교통사고 피해자 대응 방향은
+title 교통사고피해자 합의금산정과 법률지원
+title 교통사고피해자 전문변호사의 조언은
+title 교통사고사망 소송 전문변호사의 법률조언은
+title 교통사고 사망사고 소송 결과는
+title 교통사고 중상해 피해자 합의금은
+title 
+title 
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', '프롬프트키워드', '프롬프트이미지 경로', '대표이미지', '인물이미지', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '영상URL', '태그', 'Unnamed: 11', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+9     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지
+10                                              없음
+11                                              없음
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+9     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\인물이미지
+10                                             없음
+11                                             없음
+Name: 인물이미지, dtype: object
+TITLE_image_folder,TITLE_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+9     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지
+10                                             없음
+11                                             없음
+Name: 대표이미지, dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0     교통사고 피해자 합의금 기준은이라는 제목으로 네이버 블로그 글을 작성해줘. 글은 교...
+1     교통사고 피해자 보험사 대응은이라는 제목으로 네이버 상위노출 가능한 블로그 글을 작...
+2     교통사고 피해자 보상 전략은이라는 제목으로 블로그 글을 작성해줘. 글은 교통사고 피...
+3     교통사고 피해자 합의금 산정은이라는 제목으로 네이버 블로그 글을 작성해줘. 글은 교...
+4     교통사고 피해자 대응 방향은이라는 제목으로 네이버 상위노출 가능한 블로그 글을 작성...
+5     교통사고피해자 합의금산정과 법률지원이라는 제목으로 네이버 블로그 글을 작성해줘. 글...
+6     교통사고피해자 전문변호사의 조언은이라는 제목으로 네이버 상위노출 가능한 블로그 글을...
+7     교통사고사망 소송 전문변호사의 법률조언은이라는 제목으로 네이버 블로그 글을 작성해줘...
+8     교통사고 사망사고 소송 결과는이라는 제목으로 네이버 블로그용 성공사례 글을 작성해줘...
+9     교통사고 중상해 피해자 합의금은이라는 제목으로 네이버 블로그용 성공사례 글을 작성해...
+10                                                   없음
+11                                                   없음
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0     없음
+1     없음
+2     없음
+3     없음
+4     없음
+5     없음
+6     없음
+7     없음
+8     없음
+9     없음
+10    없음
+11    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0     교통사고 장면
+1     교통사고 장면
+2     교통사고 장면
+3     교통사고 장면
+4     교통사고 장면
+5     교통사고 장면
+6     교통사고 장면
+7     교통사고 장면
+8     교통사고 장면
+9     교통사고 장면
+10         없음
+11         없음
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+1     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+2     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+3     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+4     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+5     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+6     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+7     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+8     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+9     C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\홍보이미지
+10                                             없음
+11                                             없음
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0     tel:010-5240-4972
+1     tel:010-5240-4972
+2     tel:010-5240-4972
+3     tel:010-5240-4972
+4     tel:010-5240-4972
+5     tel:010-5240-4972
+6     tel:010-5240-4972
+7     tel:010-5240-4972
+8     tel:010-5240-4972
+9     tel:010-5240-4972
+10                   없음
+11                   없음
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0     https://youtu.be/8EpKrE13j0Y?si=zMZJwU0ICTXNubro
+1     https://youtu.be/KynW0fj4E9s?si=noEHwPDeeQQA4UpT
+2     https://youtu.be/KynW0fj4E9s?si=noEHwPDeeQQA4UpT
+3     https://youtu.be/Gnufpnio5WA?si=omV5UaM17KQ5j-9I
+4                                                   없음
+5     https://youtu.be/F7H4SBWNFMs?si=MW7404C7qfH5HZ5f
+6     https://youtu.be/F7H4SBWNFMs?si=MW7404C7qfH5HZ5f
+7                                                   없음
+8     https://youtu.be/TsfZjqnc6wY?si=zuPkL5RP-smHA6dE
+9     https://youtu.be/TsfZjqnc6wY?si=zuPkL5RP-smHA6dE
+10                                                  없음
+11                                                  없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+1     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+2     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+3     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+4     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+5     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+6     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+7     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+8     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+9     교통사고/교통사고전문변호사/교통사고변호사/서초변호사/교통사고상담/12대중과실교통사고...
+10                                                   없음
+11                                                   없음
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0     None
+1     None
+2     None
+3     None
+4     None
+5     None
+6     None
+7     None
+8     None
+9     None
+10    None
+11    None
+dtype: object
+엑셀 개수 12
+지금 아이디 :
+excel_counter 0
+qoxorb24459
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고 피해자 합의금 기준은 교통사고 피해자 합의금 기준은
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['The standards for settlement amounts for traffic accident victims are:', '교통사고 피해자 합의금 기준은 교통사고 피해자 합의금 기준은', 'ko']
+The standards for settlement amounts for traffic accident victims are:
+The standards for settlement amounts for traffic accident victims are:
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+이전
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Stack of vintage vinyl records with colorful album covers, arranged on a turntable, 12 inch LPs, record player, warm moody lighting, shallow depth of field, high quality image, hyper-realistic
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 교통사고 장면
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고 피해자 합의금 기준은 교통사고 피해자 합의금 기준은
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['The standards for settlement amounts for traffic accident victims are:', '교통사고 피해자 합의금 기준은 교통사고 피해자 합의금 기준은', 'ko']
+The standards for settlement amounts for traffic accident victims are:
+The standards for settlement amounts for traffic accident victims are:
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+이전
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Photo of gold and ruby treasures sparkling in a cave, shadows and sunbeams, treasure hunter in the foreground
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 교통사고 장면
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  교통사고 피해자 합의금 기준은 교통사고 피해자 합의금 기준은
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['The standards for settlement amounts for traffic accident victims are:', '교통사고 피해자 합의금 기준은 교통사고 피해자 합의금 기준은', 'ko']
+The standards for settlement amounts for traffic accident victims are:
+The standards for settlement amounts for traffic accident victims are:
+===
+
+===
+
+===
+ImageFX
+arrow_drop_down
+===
+정보
+help_outlined
+===
+
+===
+이전
+===
+arrow_left_alt
+이전 미디어
+===
+arrow_right_alt
+다음 미디어
+===
+grid_view
+gallery_thumbnail
+===
+Ukiyo-e painting of a cat hacker wearing VR headsets, on a postage stamp, no text in any characters
+===
+lock_open_right
+lock_open_right
+===
+모델
+고품질
+arrow_drop_down
+===
+가로세로 비율
+가로 모드(16:9)
+arrow_drop_down
+===
+설정
+===
+collapse_all
+도구 상자 펼치기
+찾았어------------------
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+region
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+textbox
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+group
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+수집된 텍스트: 교통사고 장면
+stop_button_while_C 0
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 1
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 2
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 3
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 4
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 5
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 6
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 7
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 8
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 9
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. _이미지 바드
+stop_button_while_C 10
+while 벗어남
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_bu fill
+image_bu 1
+image_buffer 4
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="72b7b3512e689b4c394faf1befdfb897")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-690c26e5257881919049bb30b9134260-eibeul-gibon']
+ID_gmemo https://chatgpt.com/g/g-690c26e5257881919049bb30b9134260-eibeul-gibon
+체크4
+현재 URL: https://chatgpt.com/g/g-690c26e5257881919049bb30b9134260-eibeul-gibon
+수집된 텍스트: 주제 : 교통사고 피해자 합의금 기준은이라는 제목으로 네이버 블로그 글을 작성해줘. 글은 교통사고 피해자 입장에서 합의금이 어떤 기준으로 산정되는지 쉽게 설명하는 정보성 글로 써줘. 치료비만이 아니라 휴업손해, 위자료, 향후 치료비, 후유장해 가능성 등 여러 요소가 함께 반영된다는 점을 자연스럽게 포함해줘. 보험사 제시 금액만 보고 섣불리 합의하면 안 되는 이유도 함께 설명해줘. 문장은 너무 딱딱하지 않게, 읽기 쉽게 소제목 구성으로 작성해줘. 중간에는 수술이나 골절이 동반된 중상해 사고에서는 합의금 기준이 더 중요해질 수 있다는 내용도 넣어줘. 마지막에는 교통사고 피해자 사건은 사안에 따라 보상 결과가 달라질 수 있으므로 법무법인 에이블 상담을 통해 현재 보상 상태를 점검해보라는 내용으로 자연스럽게 마무리해줘. 이모티콘 없이 작성해줘.
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+신문사 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+간병 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+홈페이지 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+블로그 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+법무법인 에이블 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+원고 제작 도움 요청의 대화 옵션 열기
+---끝
+---체
+중상해 교통사고 형사합의의 대화 옵션 열기
+---끝
+---체
+위임장 작성법 안내의 대화 옵션 열기
+---끝
+---체
+AI 영상 길이 설명의 대화 옵션 열기
+---끝
+---체
+종이 신문 발행 과정의 대화 옵션 열기
+---끝
+---체
+청주 빽다방 점주 갈등의 대화 옵션 열기
+---끝
+---체
+교통사고 형사처벌 대응법의 대화 옵션 열기
+---끝
+---체
+교통사고 피해자 대응법의 대화 옵션 열기
+---끝
+---체
+민사소송 이미지 아이디어의 대화 옵션 열기
+---끝
+---체
+강제집행 정지 사례의 대화 옵션 열기
+---끝
+---체
+급여제공계획서 작성 도움의 대화 옵션 열기
+---끝
+---체
+법률 이미지 요청의 대화 옵션 열기
+---끝
+---체
+롱폼 영상 AI 프로그램의 대화 옵션 열기
+---끝
+---체
+가사소송 이미지 요청의 대화 옵션 열기
+---끝
+---체
+그림체 학습 요청의 대화 옵션 열기
+---끝
+---체
+교통사고 형사합의 사례의 대화 옵션 열기
+---끝
+---체
+유튜브 배너 작업의 대화 옵션 열기
+---끝
+---체
+법률 잡지 등록목적의 대화 옵션 열기
+---끝
+---체
+인스타 뉴스기사 작성법의 대화 옵션 열기
+---끝
+---체
+스크랩 블로그 작성법의 대화 옵션 열기
+---끝
+---체
+명함 뒷면 디자인의 대화 옵션 열기
+---끝
+---체
+법정 판사봉 이미지의 대화 옵션 열기
+---끝
+---체
+유튜브 오디오 텍스트 변환의 대화 옵션 열기
+---끝
+---체
+차량자석스티커 디자인의 대화 옵션 열기
+---끝
+---체
+간판 제작 준비의 대화 옵션 열기
+---끝
+---체
+로고 디자인 변형 요청의 대화 옵션 열기
+---끝
+---체
+업무폰 명의 리스크의 대화 옵션 열기
+---끝
+---체
+기자 수첩 추천의 대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x108cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x108cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xe72120]
+	undetected_chromedriver!(No symbol) [0xebabca]
+	undetected_chromedriver!(No symbol) [0xebae6b]
+	undetected_chromedriver!(No symbol) [0xefd0b2]
+	undetected_chromedriver!(No symbol) [0xeddb54]
+	undetected_chromedriver!(No symbol) [0xefa9a5]
+	undetected_chromedriver!(No symbol) [0xedd8a6]
+	undetected_chromedriver!(No symbol) [0xeb0229]
+	undetected_chromedriver!(No symbol) [0xeb0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x12f48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x12efeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x130e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x10a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x10ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x10958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x1095a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x107ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76517ba9+19]
+	ntdll!RtlInitializeExceptionChain [0x7783c3ab+6b]
+	ntdll!RtlClearBits [0x7783c32f+bf]
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x108cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x108cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xe72120]
+	undetected_chromedriver!(No symbol) [0xe78d51]
+	undetected_chromedriver!(No symbol) [0xe7b2bd]
+	undetected_chromedriver!(No symbol) [0xefb6f1]
+	undetected_chromedriver!(No symbol) [0xeddb0c]
+	undetected_chromedriver!(No symbol) [0xefa9a5]
+	undetected_chromedriver!(No symbol) [0xedd8a6]
+	undetected_chromedriver!(No symbol) [0xeb0229]
+	undetected_chromedriver!(No symbol) [0xeb0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x12f48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x12efeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x130e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x10a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x10ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x10958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x1095a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x107ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76517ba9+19]
+	ntdll!RtlInitializeExceptionChain [0x7783c3ab+6b]
+	ntdll!RtlClearBits [0x7783c32f+bf]
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x108cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x108cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xe72120]
+	undetected_chromedriver!(No symbol) [0xe78d51]
+	undetected_chromedriver!(No symbol) [0xe7b2bd]
+	undetected_chromedriver!(No symbol) [0xefb6f1]
+	undetected_chromedriver!(No symbol) [0xeddb0c]
+	undetected_chromedriver!(No symbol) [0xefa9a5]
+	undetected_chromedriver!(No symbol) [0xedd8a6]
+	undetected_chromedriver!(No symbol) [0xeb0229]
+	undetected_chromedriver!(No symbol) [0xeb0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x12f48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x12efeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x130e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x10a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x10ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x10958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x1095a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x107ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76517ba9+19]
+	ntdll!RtlInitializeExceptionChain [0x7783c3ab+6b]
+	ntdll!RtlClearBits [0x7783c32f+bf]
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x108cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x108cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xe72120]
+	undetected_chromedriver!(No symbol) [0xe78d51]
+	undetected_chromedriver!(No symbol) [0xe7b2bd]
+	undetected_chromedriver!(No symbol) [0xefb6f1]
+	undetected_chromedriver!(No symbol) [0xeddb0c]
+	undetected_chromedriver!(No symbol) [0xefa9a5]
+	undetected_chromedriver!(No symbol) [0xedd8a6]
+	undetected_chromedriver!(No symbol) [0xeb0229]
+	undetected_chromedriver!(No symbol) [0xeb0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x12f48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x12efeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x130e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x10a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x10ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x10958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x1095a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x107ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76517ba9+19]
+	ntdll!RtlInitializeExceptionChain [0x7783c3ab+6b]
+	ntdll!RtlClearBits [0x7783c32f+bf]
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x108cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x108cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xe72120]
+	undetected_chromedriver!(No symbol) [0xe78d51]
+	undetected_chromedriver!(No symbol) [0xe7b2bd]
+	undetected_chromedriver!(No symbol) [0xefb6f1]
+	undetected_chromedriver!(No symbol) [0xeddb0c]
+	undetected_chromedriver!(No symbol) [0xefa9a5]
+	undetected_chromedriver!(No symbol) [0xedd8a6]
+	undetected_chromedriver!(No symbol) [0xeb0229]
+	undetected_chromedriver!(No symbol) [0xeb0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x12f48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x12efeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x130e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x10a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x10ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x10958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x1095a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x107ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76517ba9+19]
+	ntdll!RtlInitializeExceptionChain [0x7783c3ab+6b]
+	ntdll!RtlClearBits [0x7783c32f+bf]
+
+UI 제거 실패: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x108cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x108cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xe72120]
+	undetected_chromedriver!(No symbol) [0xe78d51]
+	undetected_chromedriver!(No symbol) [0xe7b2bd]
+	undetected_chromedriver!(No symbol) [0xefb6f1]
+	undetected_chromedriver!(No symbol) [0xeddb0c]
+	undetected_chromedriver!(No symbol) [0xefa9a5]
+	undetected_chromedriver!(No symbol) [0xedd8a6]
+	undetected_chromedriver!(No symbol) [0xeb0229]
+	undetected_chromedriver!(No symbol) [0xeb0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x12f48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x12efeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x130e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x10a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x10ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x10958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x1095a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x107ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76517ba9+19]
+	ntdll!RtlInitializeExceptionChain [0x7783c3ab+6b]
+	ntdll!RtlClearBits [0x7783c32f+bf]
+
+collected_text [[교통사고 피해자 합의금 기준은 어떻게 결정될까]]^^엔터^^교통사고가 발생하면 가장 먼저 떠오르는 문제 중 하나가 바로 ‘합의금’이다. 이와 관련해 자주 질문을 받는 부분은 “치료비만 잘 받으면 되는 것 아닌가”라는 점인데, 실제로는 그렇지 않다. 교통사고 피해자 합의금은 단순히 병원비만으로 결정되지 않으며, 여러 요소가 종합적으로 반영되어 산정된다. 이 기준을 정확히 이해하지 못한 상태에서 합의를 진행하면 예상보다 낮은 보상을 받는 경우도 적지 않다.^^엔터^^^^엔터^^^^엔터^^교통사고 합의금의 기본 구성은 치료비 외에도 다양한 항목으로 이루어진다. 대표적으로는 휴업손해, 위자료, 향후 치료비 등이 포함된다.^^엔터^^휴업손해는 사고로 인해 일을 하지 못하면서 발생한 수입 손실을 의미한다. 직장인의 경우 급여를 기준으로 산정되며, 자영업자나 프리랜서는 소득 입증 방식에 따라 달라질 수 있다.^^엔터^^위자료는 사고로 인해 겪은 정신적 고통에 대한 보상이다. 상해의 정도, 치료 기간 등에 따라 차이가 발생하는데, 경미한 사고와 중상해 사고 사이에는 상당한 차이가 생길 수 있다.^^엔터^^이처럼 합의금은 단순히 병원비 정산 개념이 아니라, 사고로 인해 발생한 전체적인 손해를 평가하는 구조로 이해할 필요가 있다.^^엔터^^^^엔터^^^^엔터^^실제 사건을 보면 합의 시점에서 간과되는 부분이 바로 ‘향후 치료비’와 ‘후유장해’이다.^^엔터^^사고 직후에는 증상이 가벼워 보이더라도 시간이 지나면서 통증이 지속되거나 후유증이 남는 경우가 적지 않다. 특히 목·허리 통증이나 관절 문제는 장기간 치료가 필요한 경우가 많다.^^엔터^^또한 후유장해가 인정될 경우, 이는 합의금에 큰 영향을 미치는 요소가 된다. 장해율이 인정되면 단순 치료비 수준을 넘어 장기적인 손해까지 반영되기 때문이다.^^엔터^^이 부분은 초기 합의 단계에서 충분히 고려되지 않는 경우가 많아, 신중한 판단이 필요한 영역이다.^^엔터^^^^엔터^^^^엔터^^골절이나 수술이 필요한 사고의 경우, 합의금 산정 기준은 더욱 중요해진다.^^엔터^^이러한 중상해 사고에서는 치료 기간이 길어지고, 휴업손해가 커지며, 후유장해로 이어질 가능성도 높아진다. 실제 사건을 보면 같은 골절이라도 수술 여부, 회복 상태, 직업에 따라 보상 금액이 크게 달라지는 경우가 많다.^^엔터^^특히 수술이 동반된 경우에는 향후 재활치료나 추가 치료 가능성까지 고려해야 하므로, 단순히 현재 치료비만 기준으로 합의를 진행하는 것은 적절하지 않을 수 있다.^^엔터^^^^엔터^^^^엔터^^교통사고 이후 보험사가 제시하는 합의금은 일종의 ‘초기 제안’에 해당한다. 문제는 이 금액이 모든 손해를 충분히 반영하지 못하는 경우가 있다는 점이다.^^엔터^^보험사는 빠른 합의를 전제로 금액을 제시하는 경우가 많기 때문에, 향후 치료비나 장해 가능성까지 충분히 반영되지 않을 수 있다.^^엔터^^실제 사건에서도 초기에 제시된 금액을 그대로 수용했다가 이후 치료가 길어지면서 불이익을 겪는 사례가 반복적으로 발생한다.^^엔터^^따라서 합의금은 제시된 금액을 기준으로 판단하기보다는, 전체 손해 항목이 제대로 반영되었는지를 중심으로 검토하는 것이 중요하다.^^엔터^^^^엔터^^^^엔터^^정리해 보면 교통사고 피해자 합의금은 다음과 같은 요소들이 함께 고려되어야 한다.^^엔터^^현재까지 발생한 치료비^^엔터^^사고로 인한 휴업손해^^엔터^^정신적 손해에 대한 위자료^^엔터^^향후 치료비 가능성^^엔터^^후유장해 여부^^엔터^^이 중 하나라도 충분히 반영되지 않았다면, 합의금은 실제 손해보다 낮게 산정될 가능성이 있다. 초기 판단 방향에 따라 이후 절차가 달라지는 경우가 많기 때문에, 합의 시점에서의 검토가 매우 중요하다.^^엔터^^^^엔터^^^^엔터^^교통사고 피해자 사건은 사고의 정도, 치료 경과, 직업, 후유증 여부 등에 따라 보상 결과가 크게 달라질 수 있다. 사건의 구체적인 상황에 따라 적용 기준은 달라질 수 있으며, 개별 상황에 맞는 검토가 필요한 부분이다.^^엔터^^현재 제시된 보상 금액이 적정한지 여부는 법무법인 에이블 상담을 통해 전체 손해 항목 기준으로 점검해보는 과정도 하나의 방법이 될 수 있다.
+⚠️ 이모지 부족 → 문장 기준 split 수행
+===== A 영역 =====
+[[교통사고 피해자 합의금 기준은 어떻게 결정될까]]^^엔터^^교통사고가 발생하면 가장 먼저 떠오르는 문제 중 하나가 바로 ‘합의금’이다.이와 관련해 자주 질문을 받는 부분은 “치료비만 잘 받으면 되는 것 아닌가”라는 점인데, 실제로는 그렇지 않다.교통사고 피해자 합의금은 단순히 병원비만으로 결정되지 않으며, 여러 요소가 종합적으로 반영되어 산정된다.이 기준을 정확히 이해하지 못한 상태에서 합의를 진행하면 예상보다 낮은 보상을 받는 경우도 적지 않다.^^엔터^^^^엔터^^^^엔터^^교통사고 합의금의 기본 구성은 치료비 외에도 다양한 항목으로 이루어진다.대표적으로는 휴업손해, 위자료, 향후 치료비 등이 포함된다.^^엔터^^휴업손해는 사고로 인해 일을 하지 못하면서 발생한 수입 손실을 의미한다.직장인의 경우 급여를 기준으로 산정되며, 자영업자나 프리랜서는 소득 입증 방식에 따라 달라질 수 있다.^^엔터^^위자료는 사고로 인해 겪은 정신적 고통에 대한 보상이다.상해의 정도, 치료 기간 등에 따라 차이가 발생하는데, 경미한 사고와 중상해 사고 사이에는 상당한 차이가 생길 수 있다.^^엔터^^이처럼 합의금은 단순히 병원비 정산 개념이 아니라, 사고로 인해 발생한 전체적인 손해를 평가하는 구조로 이해할 필요가 있다.^^엔터^^^^엔터^^^^엔터^^실제 사건을 보면 합의 시점에서 간과되는 부분이 바로 ‘향후 치료비’와 ‘후유장해’이다.^^엔터^^사고 직후에는 증상이 가벼워 보이더라도 시간이 지나면서 통증이 지속되거나 후유증이 남는 경우가 적지 않다.특히 목·허리 통증이나 관절 문제는 장기간 치료가 필요한 경우가 많다.^^엔터^^또한 후유장해가 인정될 경우, 이는 합의금에 큰 영향을 미치는 요소가 된다.장해율이 인정되면 단순 치료비 수준을 넘어 장기적인 손해까지 반영되기 때문이다.
+===== B 영역 =====
+^^엔터^^이 부분은 초기 합의 단계에서 충분히 고려되지 않는 경우가 많아, 신중한 판단이 필요한 영역이다.^^엔터^^^^엔터^^^^엔터^^골절이나 수술이 필요한 사고의 경우, 합의금 산정 기준은 더욱 중요해진다.^^엔터^^이러한 중상해 사고에서는 치료 기간이 길어지고, 휴업손해가 커지며, 후유장해로 이어질 가능성도 높아진다.실제 사건을 보면 같은 골절이라도 수술 여부, 회복 상태, 직업에 따라 보상 금액이 크게 달라지는 경우가 많다.^^엔터^^특히 수술이 동반된 경우에는 향후 재활치료나 추가 치료 가능성까지 고려해야 하므로, 단순히 현재 치료비만 기준으로 합의를 진행하는 것은 적절하지 않을 수 있다.^^엔터^^^^엔터^^^^엔터^^교통사고 이후 보험사가 제시하는 합의금은 일종의 ‘초기 제안’에 해당한다.문제는 이 금액이 모든 손해를 충분히 반영하지 못하는 경우가 있다는 점이다.^^엔터^^보험사는 빠른 합의를 전제로 금액을 제시하는 경우가 많기 때문에, 향후 치료비나 장해 가능성까지 충분히 반영되지 않을 수 있다.^^엔터^^실제 사건에서도 초기에 제시된 금액을 그대로 수용했다가 이후 치료가 길어지면서 불이익을 겪는 사례가 반복적으로 발생한다.^^엔터^^따라서 합의금은 제시된 금액을 기준으로 판단하기보다는, 전체 손해 항목이 제대로 반영되었는지를 중심으로 검토하는 것이 중요하다.^^엔터^^^^엔터^^^^엔터^^정리해 보면 교통사고 피해자 합의금은 다음과 같은 요소들이 함께 고려되어야 한다.^^엔터^^현재까지 발생한 치료비^^엔터^^사고로 인한 휴업손해^^엔터^^정신적 손해에 대한 위자료^^엔터^^향후 치료비 가능성^^엔터^^후유장해 여부^^엔터^^이 중 하나라도 충분히 반영되지 않았다면, 합의금은 실제 손해보다 낮게 산정될 가능성이 있다.초기 판단 방향에 따라 이후 절차가 달라지는 경우가 많기 때문에, 합의 시점에서의 검토가 매우 중요하다.^^엔터^^^^엔터^^^^엔터^^교통사고 피해자 사건은 사고의 정도, 치료 경과, 직업, 후유증 여부 등에 따라 보상 결과가 크게 달라질 수 있다.사건의 구체적인 상황에 따라 적용 기준은 달라질 수 있으며, 개별 상황에 맞는 검토가 필요한 부분이다.^^엔터^^현재 제시된 보상 금액이 적정한지 여부는 법무법인 에이블 상담을 통해 전체 손해 항목 기준으로 점검해보는 과정도 하나의 방법이 될 수 있다.
+collected_text [[교통사고 피해자 합의금 기준은 어떻게 결정될까]]^^엔터^^교통사고가 발생하면 가장 먼저 떠오르는 문제 중 하나가 바로 ‘합의금’이다. 이와 관련해 자주 질문을 받는 부분은 “치료비만 잘 받으면 되는 것 아닌가”라는 점인데, 실제로는 그렇지 않다. 교통사고 피해자 합의금은 단순히 병원비만으로 결정되지 않으며, 여러 요소가 종합적으로 반영되어 산정된다. 이 기준을 정확히 이해하지 못한 상태에서 합의를 진행하면 예상보다 낮은 보상을 받는 경우도 적지 않다.^^엔터^^^^엔터^^^^엔터^^교통사고 합의금의 기본 구성은 치료비 외에도 다양한 항목으로 이루어진다. 대표적으로는 휴업손해, 위자료, 향후 치료비 등이 포함된다.^^엔터^^휴업손해는 사고로 인해 일을 하지 못하면서 발생한 수입 손실을 의미한다. 직장인의 경우 급여를 기준으로 산정되며, 자영업자나 프리랜서는 소득 입증 방식에 따라 달라질 수 있다.^^엔터^^위자료는 사고로 인해 겪은 정신적 고통에 대한 보상이다. 상해의 정도, 치료 기간 등에 따라 차이가 발생하는데, 경미한 사고와 중상해 사고 사이에는 상당한 차이가 생길 수 있다.^^엔터^^이처럼 합의금은 단순히 병원비 정산 개념이 아니라, 사고로 인해 발생한 전체적인 손해를 평가하는 구조로 이해할 필요가 있다.^^엔터^^^^엔터^^^^엔터^^실제 사건을 보면 합의 시점에서 간과되는 부분이 바로 ‘향후 치료비’와 ‘후유장해’이다.^^엔터^^사고 직후에는 증상이 가벼워 보이더라도 시간이 지나면서 통증이 지속되거나 후유증이 남는 경우가 적지 않다. 특히 목·허리 통증이나 관절 문제는 장기간 치료가 필요한 경우가 많다.^^엔터^^또한 후유장해가 인정될 경우, 이는 합의금에 큰 영향을 미치는 요소가 된다. 장해율이 인정되면 단순 치료비 수준을 넘어 장기적인 손해까지 반영되기 때문이다.^^엔터^^이 부분은 초기 합의 단계에서 충분히 고려되지 않는 경우가 많아, 신중한 판단이 필요한 영역이다.^^엔터^^^^엔터^^^^엔터^^골절이나 수술이 필요한 사고의 경우, 합의금 산정 기준은 더욱 중요해진다.^^엔터^^이러한 중상해 사고에서는 치료 기간이 길어지고, 휴업손해가 커지며, 후유장해로 이어질 가능성도 높아진다. 실제 사건을 보면 같은 골절이라도 수술 여부, 회복 상태, 직업에 따라 보상 금액이 크게 달라지는 경우가 많다.^^엔터^^특히 수술이 동반된 경우에는 향후 재활치료나 추가 치료 가능성까지 고려해야 하므로, 단순히 현재 치료비만 기준으로 합의를 진행하는 것은 적절하지 않을 수 있다.^^엔터^^^^엔터^^^^엔터^^교통사고 이후 보험사가 제시하는 합의금은 일종의 ‘초기 제안’에 해당한다. 문제는 이 금액이 모든 손해를 충분히 반영하지 못하는 경우가 있다는 점이다.^^엔터^^보험사는 빠른 합의를 전제로 금액을 제시하는 경우가 많기 때문에, 향후 치료비나 장해 가능성까지 충분히 반영되지 않을 수 있다.^^엔터^^실제 사건에서도 초기에 제시된 금액을 그대로 수용했다가 이후 치료가 길어지면서 불이익을 겪는 사례가 반복적으로 발생한다.^^엔터^^따라서 합의금은 제시된 금액을 기준으로 판단하기보다는, 전체 손해 항목이 제대로 반영되었는지를 중심으로 검토하는 것이 중요하다.^^엔터^^^^엔터^^^^엔터^^정리해 보면 교통사고 피해자 합의금은 다음과 같은 요소들이 함께 고려되어야 한다.^^엔터^^현재까지 발생한 치료비^^엔터^^사고로 인한 휴업손해^^엔터^^정신적 손해에 대한 위자료^^엔터^^향후 치료비 가능성^^엔터^^후유장해 여부^^엔터^^이 중 하나라도 충분히 반영되지 않았다면, 합의금은 실제 손해보다 낮게 산정될 가능성이 있다. 초기 판단 방향에 따라 이후 절차가 달라지는 경우가 많기 때문에, 합의 시점에서의 검토가 매우 중요하다.^^엔터^^^^엔터^^^^엔터^^교통사고 피해자 사건은 사고의 정도, 치료 경과, 직업, 후유증 여부 등에 따라 보상 결과가 크게 달라질 수 있다. 사건의 구체적인 상황에 따라 적용 기준은 달라질 수 있으며, 개별 상황에 맞는 검토가 필요한 부분이다.^^엔터^^현재 제시된 보상 금액이 적정한지 여부는 법무법인 에이블 상담을 통해 전체 손해 항목 기준으로 점검해보는 과정도 하나의 방법이 될 수 있다.
+matches2: 교통사고 피해자 합의금 기준은 어떻게 결정될까
+text2: ^^엔터^^교통사고가 발생하면 가장 먼저 떠오르는 문제 중 하나가 바로 ‘합의금’이다. 이와 관련해 자주 질문을 받는 부분은 “치료비만 잘 받으면 되는 것 아닌가”라는 점인데, 실제로는 그렇지 않다. 교통사고 피해자 합의금은 단순히 병원비만으로 결정되지 않으며, 여러 요소가 종합적으로 반영되어 산정된다. 이 기준을 정확히 이해하지 못한 상태에서 합의를 진행하면 예상보다 낮은 보상을 받는 경우도 적지 않다.^^엔터^^^^엔터^^^^엔터^^교통사고 합의금의 기본 구성은 치료비 외에도 다양한 항목으로 이루어진다. 대표적으로는 휴업손해, 위자료, 향후 치료비 등이 포함된다.^^엔터^^휴업손해는 사고로 인해 일을 하지 못하면서 발생한 수입 손실을 의미한다. 직장인의 경우 급여를 기준으로 산정되며, 자영업자나 프리랜서는 소득 입증 방식에 따라 달라질 수 있다.^^엔터^^위자료는 사고로 인해 겪은 정신적 고통에 대한 보상이다. 상해의 정도, 치료 기간 등에 따라 차이가 발생하는데, 경미한 사고와 중상해 사고 사이에는 상당한 차이가 생길 수 있다.^^엔터^^이처럼 합의금은 단순히 병원비 정산 개념이 아니라, 사고로 인해 발생한 전체적인 손해를 평가하는 구조로 이해할 필요가 있다.^^엔터^^^^엔터^^^^엔터^^실제 사건을 보면 합의 시점에서 간과되는 부분이 바로 ‘향후 치료비’와 ‘후유장해’이다.^^엔터^^사고 직후에는 증상이 가벼워 보이더라도 시간이 지나면서 통증이 지속되거나 후유증이 남는 경우가 적지 않다. 특히 목·허리 통증이나 관절 문제는 장기간 치료가 필요한 경우가 많다.^^엔터^^또한 후유장해가 인정될 경우, 이는 합의금에 큰 영향을 미치는 요소가 된다. 장해율이 인정되면 단순 치료비 수준을 넘어 장기적인 손해까지 반영되기 때문이다.^^엔터^^이 부분은 초기 합의 단계에서 충분히 고려되지 않는 경우가 많아, 신중한 판단이 필요한 영역이다.^^엔터^^^^엔터^^^^엔터^^골절이나 수술이 필요한 사고의 경우, 합의금 산정 기준은 더욱 중요해진다.^^엔터^^이러한 중상해 사고에서는 치료 기간이 길어지고, 휴업손해가 커지며, 후유장해로 이어질 가능성도 높아진다. 실제 사건을 보면 같은 골절이라도 수술 여부, 회복 상태, 직업에 따라 보상 금액이 크게 달라지는 경우가 많다.^^엔터^^특히 수술이 동반된 경우에는 향후 재활치료나 추가 치료 가능성까지 고려해야 하므로, 단순히 현재 치료비만 기준으로 합의를 진행하는 것은 적절하지 않을 수 있다.^^엔터^^^^엔터^^^^엔터^^교통사고 이후 보험사가 제시하는 합의금은 일종의 ‘초기 제안’에 해당한다. 문제는 이 금액이 모든 손해를 충분히 반영하지 못하는 경우가 있다는 점이다.^^엔터^^보험사는 빠른 합의를 전제로 금액을 제시하는 경우가 많기 때문에, 향후 치료비나 장해 가능성까지 충분히 반영되지 않을 수 있다.^^엔터^^실제 사건에서도 초기에 제시된 금액을 그대로 수용했다가 이후 치료가 길어지면서 불이익을 겪는 사례가 반복적으로 발생한다.^^엔터^^따라서 합의금은 제시된 금액을 기준으로 판단하기보다는, 전체 손해 항목이 제대로 반영되었는지를 중심으로 검토하는 것이 중요하다.^^엔터^^^^엔터^^^^엔터^^정리해 보면 교통사고 피해자 합의금은 다음과 같은 요소들이 함께 고려되어야 한다.^^엔터^^현재까지 발생한 치료비^^엔터^^사고로 인한 휴업손해^^엔터^^정신적 손해에 대한 위자료^^엔터^^향후 치료비 가능성^^엔터^^후유장해 여부^^엔터^^이 중 하나라도 충분히 반영되지 않았다면, 합의금은 실제 손해보다 낮게 산정될 가능성이 있다. 초기 판단 방향에 따라 이후 절차가 달라지는 경우가 많기 때문에, 합의 시점에서의 검토가 매우 중요하다.^^엔터^^^^엔터^^^^엔터^^교통사고 피해자 사건은 사고의 정도, 치료 경과, 직업, 후유증 여부 등에 따라 보상 결과가 크게 달라질 수 있다. 사건의 구체적인 상황에 따라 적용 기준은 달라질 수 있으며, 개별 상황에 맞는 검토가 필요한 부분이다.^^엔터^^현재 제시된 보상 금액이 적정한지 여부는 법무법인 에이블 상담을 통해 전체 손해 항목 기준으로 점검해보는 과정도 하나의 방법이 될 수 있다.
+check_word_length 0
+len(kkq) 2027
+2--now_device_check DEEAE9BF-F60B-4977-A0E5-C8530945B44C
+2--device_check_DB 8C6FA60A-CC0D-E14B-ACDE-4B62D560EAD7
+제목  교통사고 피해자 합의금 기준은
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\Users\법무법인 에이블\chromeCookie\Profile qoxorb24459 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\Users\법무법인 에이블\chromeCookie\Profile qoxorb24459
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\Users\법무법인 에이블\chromeCookie\Profile qoxorb24459)
+cookies [{'domain': '.naver.com', 'expiry': 1809761006, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Ptlo7f3RaKbBSPzREgHkcxmLxD5Q4GPSbjycrLFjRWM='}, {'domain': '.nid.naver.com', 'expiry': 1806737004, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1'}, {'domain': '.nid.naver.com', 'expiry': 1809397382, 'httpOnly': False, 'name': 'nid_buk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '2WJBQAD633EWS'}, {'domain': '.naver.com', 'expiry': 1809761006, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'SDjEBAhe2RlxA'}, {'domain': '.naver.com', 'expiry': 1809761006, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2WJBQAD633EWS'}, {'domain': '.nid.naver.com', 'expiry': 1792481004, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'oBkkrUceTKO/bdg6ZiT1aAHlVQR7mImpMsFTx0jOKG2pr13j9aMzmXEjVKGQIQeNzUiuSiRxRRg9Q4Bp2b1SPL7ffA4ZQVvbto3WYcfxLI6vAQUNPlqsau6TDyrllzCAK4zwjA3baBIbLz6pTn0oHGOekLcVk8LTmdsYjbADTQI='}, {'domain': '.naver.com', 'expiry': 1775201306, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1775201003'}, {'domain': '.naver.com', 'expiry': 1775202806, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1775201003'}, {'domain': '.naver.com', 'expiry': 1775287406, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}]
+BUC -> Ptlo7f3RaKbBSPzREgHkcxmLxD5Q4GPSbjycrLFjRWM=
+nid_slevel -> -1
+nid_buk -> 2WJBQAD633EWS
+NAC -> SDjEBAhe2RlxA
+NNB -> 2WJBQAD633EWS
+NID_JST -> oBkkrUceTKO/bdg6ZiT1aAHlVQR7mImpMsFTx0jOKG2pr13j9aMzmXEjVKGQIQeNzUiuSiRxRRg9Q4Bp2b1SPL7ffA4ZQVvbto3WYcfxLI6vAQUNPlqsau6TDyrllzCAK4zwjA3baBIbLz6pTn0oHGOekLcVk8LTmdsYjbADTQI=
+SRT5 -> 1775201003
+SRT30 -> 1775201003
+NACT -> 1
+쿠키 체크
+frame None
+cookies {'NAC': 'SDjEBAhe2RlxA', 'NNB': '2WJBQAD633EWS', 'BA_DEVICE': '971ff54c-1156-4b76-971a-1dea739d8387', 'stat_yn': '1', 'page_uid': 'ipH1SlprfjCssfzzVZwssssssRl-064457', 'nid_inf': '', 'NID_AUT': '', 'NID_JKL': '', 'NACT': '1', 'BUC': 'Ptlo7f3RaKbBSPzREgHkcxmLxD5Q4GPSbjycrLFjRWM=', 'JSESSIONID': 'EB6022D944A4E08A0CBFFB5035C40896.jvm1', 'NID_SES': ''}
+userNaverId=naverIDID2
+userNaverId qoxorb24459
+--------캡차 체크 시작
+[캡차] 1번째 시도
+[캡차] 질문: 구매한 두유의 전체 이름은 [?] 두유 입니다. (빈 칸을 채워주세요)
+[캡차] GPT-4o API로 캡차 풀기 시도
+[캡차] 4o 원본: 유리병 → 최종: 유리병
+[캡차] 답변: 유리병
+[캡차] 입력필드 찾음: input#captcha
+[캡차] 비밀번호 재입력 완료
+[캡차] 로그인 버튼 클릭
+[캡차] 1번째 실패, 재시도...
+[캡차] 2번째 시도
+[캡차] 질문: 모든 물건의 총 구매 금액은 얼마입니까?
+[캡차] GPT-4o API로 캡차 풀기 시도
+[캡차] 4o 원본: 22000 → 최종: 22000
+[캡차] 답변: 22000
+[캡차] 입력필드 찾음: input#captcha
+[캡차] 비밀번호 재입력 완료
+[캡차] 로그인 버튼 클릭
+[캡차] 2번째 실패, 재시도...
+[캡차] 3번째 시도
+[캡차] 질문: 구매한 당면 하나 당 중량은 몇 g 입니까?
+[캡차] GPT-4o API로 캡차 풀기 시도
+[캡차] 4o 원본: 1000 → 최종: 1000
+[캡차] 답변: 1000
+[캡차] 입력필드 찾음: input#captcha
+[캡차] 비밀번호 재입력 완료
+[캡차] 로그인 버튼 클릭
+[캡차] 3번째 실패, 재시도...
+[캡차] 4번째 시도
+[캡차] 질문: 비트즙 (30세트)의 한 개 당 가격은 얼마 입니까?
+[캡차] GPT-4o API로 캡차 풀기 시도
+[캡차] 4o 원본: 300 → 최종: 300
+[캡차] 답변: 300
+[캡차] 입력필드 찾음: input#captcha
+[캡차] 비밀번호 재입력 완료
+[캡차] 로그인 버튼 클릭
+[캡차] 4번째 실패, 재시도...
+[캡차] 5번째 시도
+[캡차] 질문: 무농약 양파의 한 개 당 가격은 얼마 입니까?
+[캡차] GPT-4o API로 캡차 풀기 시도
+[캡차] 4o 원본: 900 → 최종: 900
+[캡차] 답변: 900
+[캡차] 입력필드 찾음: input#captcha
+[캡차] 비밀번호 재입력 완료
+[캡차] 로그인 버튼 클릭
+[캡차] 5번째 실패, 재시도...
+ddd
+cookies [{'domain': '.nid.naver.com', 'expiry': 1792481101, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'CUQVkJxnchgNfBTae9Glnn++eMzuJ8+HXsU6TtyFIZsKXX2YjlKt0eVdyM51hDvXhlQLsq2nTx7RRjFVuGg4RY+FP0tJl8/4caQyihS8ssoU9WKfenAF2EvWum4vEc/YKC3r/J/e+R4npNeXRu6oMXCm+gtNjScilLh6soGLVpg='}, {'domain': '.naver.com', 'expiry': 1775201401, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1775201003'}, {'domain': '.nid.naver.com', 'expiry': 1809397382, 'httpOnly': False, 'name': 'nid_buk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '2WJBQAD633EWS'}, {'domain': '.naver.com', 'expiry': 1809761006, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'SDjEBAhe2RlxA'}, {'domain': '.naver.com', 'expiry': 1809761101, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '2WJBQAD633EWS'}, {'domain': '.naver.com', 'expiry': 1775202901, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1775201003'}, {'domain': '.naver.com', 'expiry': 1775287406, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1806737101, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1'}, {'domain': '.naver.com', 'expiry': 1809761101, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'dDqp_s1vMBEtqgvxiMBuW0fiWSoQcAzhmG5HYMy6gdI='}]
+[쿠키] 수집된 쿠키 이름: ['NID_JST', 'SRT5', 'nid_buk', 'NAC', 'NNB', 'SRT30', 'NACT', 'nid_slevel', 'BUC']
+[쿠키] ⚠️ NID_SES 없음! 로그인 실패 가능성
+NID_JST -> CUQVkJxnchgNfBTae9Glnn++eMzuJ8+HXsU6TtyFIZsKXX2YjlKt0eVdyM51hDvXhlQLsq2nTx7RRjFVuGg4RY+FP0tJl8/4caQyihS8ssoU9WKfenAF2EvWum4vEc/YKC3r/J/e+R4npNeXRu6oMXCm+gtNjScilLh6soGLVpg=
+SRT5 -> 1775201003
+nid_buk -> 2WJBQAD633EWS
+NAC -> SDjEBAhe2RlxA
+NNB -> 2WJBQAD633EWS
+SRT30 -> 1775201003
+NACT -> 1
+nid_slevel -> -1
+BUC -> dDqp_s1vMBEtqgvxiMBuW0fiWSoQcAzhmG5HYMy6gdI=
+ua Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+lang ko-KR
+handles :  ['7F745F494BEAFC807FCC77748DA7E71C']
+스탑
+브라우저 로그인 체크 1
+IMAGE_PATH_PATH C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\image_b
+[]
+title_image []
+타이틀 이미지 찾을 수 없습니다.
+어짜피 타이틀 이미지를 경로에서 찾기 때문에 이건 당연히 못찾음
+선택된 파일: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\대표이미지\대표이미지.jpg
+human_dirs jpg_files ['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\인물이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\인물이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\인물이미지\\0.jpg']
+1개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+선택된 이미지 개수: 1
+promotion_dirs jpg_files ['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\홍보이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\홍보이미지\\0.jpg']
+['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\홍보이미지\\0.jpg']
+1개의 이미지가 숫자 순으로 버퍼에 저장되었습니다.
+정렬된 파일 목록:
+C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\마지막이미지\0.jpg
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta http-equiv="Pragma" content="No-Cache">
+	<meta http-equiv="Expires" content="0">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>블로그 :: 네이버</title>
+	<style>
+		@font-face {
+			font-family: 'NanumGothic';
+			font-style: normal;
+			font-weight: 400;
+			src: url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.eot);
+			src: local("Nanum Gothic Regular"),local("NanumGothicR"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.eot?#iefix) format("embedded-opentype"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.woff2) format("woff2"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.woff) format("woff"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.ttf) format("truetype")
+		}
+
+		@font-face {
+			font-family: 'NanumGothic';
+			font-style: normal;
+			font-weight: 700;
+			src: url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.eot);
+			src: local("Nanum Gothic Bold"),local("NanumGothicB"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.eot?#iefix) format("embedded-opentype"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.woff2) format("woff2"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.woff) format("woff"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.ttf) format("truetype")
+		}
+		html { height: 100%; }
+		body { overflow: hidden; margin: 0; display: table; width: 100%; height: 100%; }
+		.error_wrap { display: table-cell; font-family: NanumGothic, sans-serif; text-align: center; vertical-align: middle; }
+		.error_svg { line-height: 0; }
+		.error_h1 { margin: 28px 0 0; font-size: 24px; line-height: 32px; font-weight: 700; color: #000; }
+		.error_p { margin: 8px 0 0; font-size: 15px; line-height: 21px; color: #000; }
+		.area_btn{margin-top:44px;font-size:0;line-height:0;}
+		.area_btn .link{display:inline-block;width:280px;height:48px;border-radius:6px;background-color:#323232;font-size:15px;line-height:48px;color:#fff;font-weight:700;text-align:center;text-decoration:none}
+	</style>
+</head>
+<body>
+<div class="error_wrap">
+	<div class="error_svg">
+		<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+			<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+				<g stroke="#03C75A">
+					<g transform="translate(-486 -223) translate(372 223) translate(114) translate(3 3) translate(.25 .25)">
+						<path stroke-width="2.5" d="M22.75 9.208L22.75 27.865M22.75 33.763L22.75 36.292"/>
+						<circle cx="22.75" cy="22.75" r="22.75" stroke-width="2"/>
+					</g>
+				</g>
+			</g>
+		</svg>
+
+	</div>
+	<h1 class="error_h1">죄송합니다. 유효하지 않은 요청입니다.</h1>
+	<p class="error_p">접근하고자하는 블로그 아이디가 없습니다.  접근하고자하는 블로그 아이디를 입력해주시기 바랍니다.</p>
+	<div class="area_btn">
+		<a href="javascript:history.back(-1)" class="link">이전 화면으로</a>
+	</div>
+</div>
+</body>
+</html>
+----------------------------import --------
+에러메세지 in before_please
+Expecting value: line 3 column 1 (char 2)
+before_please 루프 1
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta http-equiv="Pragma" content="No-Cache">
+	<meta http-equiv="Expires" content="0">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>블로그 :: 네이버</title>
+	<style>
+		@font-face {
+			font-family: 'NanumGothic';
+			font-style: normal;
+			font-weight: 400;
+			src: url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.eot);
+			src: local("Nanum Gothic Regular"),local("NanumGothicR"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.eot?#iefix) format("embedded-opentype"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.woff2) format("woff2"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.woff) format("woff"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.ttf) format("truetype")
+		}
+
+		@font-face {
+			font-family: 'NanumGothic';
+			font-style: normal;
+			font-weight: 700;
+			src: url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.eot);
+			src: local("Nanum Gothic Bold"),local("NanumGothicB"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.eot?#iefix) format("embedded-opentype"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.woff2) format("woff2"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.woff) format("woff"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.ttf) format("truetype")
+		}
+		html { height: 100%; }
+		body { overflow: hidden; margin: 0; display: table; width: 100%; height: 100%; }
+		.error_wrap { display: table-cell; font-family: NanumGothic, sans-serif; text-align: center; vertical-align: middle; }
+		.error_svg { line-height: 0; }
+		.error_h1 { margin: 28px 0 0; font-size: 24px; line-height: 32px; font-weight: 700; color: #000; }
+		.error_p { margin: 8px 0 0; font-size: 15px; line-height: 21px; color: #000; }
+		.area_btn{margin-top:44px;font-size:0;line-height:0;}
+		.area_btn .link{display:inline-block;width:280px;height:48px;border-radius:6px;background-color:#323232;font-size:15px;line-height:48px;color:#fff;font-weight:700;text-align:center;text-decoration:none}
+	</style>
+</head>
+<body>
+<div class="error_wrap">
+	<div class="error_svg">
+		<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+			<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+				<g stroke="#03C75A">
+					<g transform="translate(-486 -223) translate(372 223) translate(114) translate(3 3) translate(.25 .25)">
+						<path stroke-width="2.5" d="M22.75 9.208L22.75 27.865M22.75 33.763L22.75 36.292"/>
+						<circle cx="22.75" cy="22.75" r="22.75" stroke-width="2"/>
+					</g>
+				</g>
+			</g>
+		</svg>
+
+	</div>
+	<h1 class="error_h1">죄송합니다. 유효하지 않은 요청입니다.</h1>
+	<p class="error_p">접근하고자하는 블로그 아이디가 없습니다.  접근하고자하는 블로그 아이디를 입력해주시기 바랍니다.</p>
+	<div class="area_btn">
+		<a href="javascript:history.back(-1)" class="link">이전 화면으로</a>
+	</div>
+</div>
+</body>
+</html>
+----------------------------import --------
+에러메세지 in before_please
+Expecting value: line 3 column 1 (char 2)
+before_please 루프 2
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta http-equiv="Pragma" content="No-Cache">
+	<meta http-equiv="Expires" content="0">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>블로그 :: 네이버</title>
+	<style>
+		@font-face {
+			font-family: 'NanumGothic';
+			font-style: normal;
+			font-weight: 400;
+			src: url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.eot);
+			src: local("Nanum Gothic Regular"),local("NanumGothicR"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.eot?#iefix) format("embedded-opentype"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.woff2) format("woff2"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.woff) format("woff"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Regular.ttf) format("truetype")
+		}
+
+		@font-face {
+			font-family: 'NanumGothic';
+			font-style: normal;
+			font-weight: 700;
+			src: url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.eot);
+			src: local("Nanum Gothic Bold"),local("NanumGothicB"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.eot?#iefix) format("embedded-opentype"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.woff2) format("woff2"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.woff) format("woff"),url(https://ssl.pstatic.net/static/blog/font/NanumGothic-Bold.ttf) format("truetype")
+		}
+		html { height: 100%; }
+		body { overflow: hidden; margin: 0; display: table; width: 100%; height: 100%; }
+		.error_wrap { display: table-cell; font-family: NanumGothic, sans-serif; text-align: center; vertical-align: middle; }
+		.error_svg { line-height: 0; }
+		.error_h1 { margin: 28px 0 0; font-size: 24px; line-height: 32px; font-weight: 700; color: #000; }
+		.error_p { margin: 8px 0 0; font-size: 15px; line-height: 21px; color: #000; }
+		.area_btn{margin-top:44px;font-size:0;line-height:0;}
+		.area_btn .link{display:inline-block;width:280px;height:48px;border-radius:6px;background-color:#323232;font-size:15px;line-height:48px;color:#fff;font-weight:700;text-align:center;text-decoration:none}
+	</style>
+</head>
+<body>
+<div class="error_wrap">
+	<div class="error_svg">
+		<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+			<g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+				<g stroke="#03C75A">
+					<g transform="translate(-486 -223) translate(372 223) translate(114) translate(3 3) translate(.25 .25)">
+						<path stroke-width="2.5" d="M22.75 9.208L22.75 27.865M22.75 33.763L22.75 36.292"/>
+						<circle cx="22.75" cy="22.75" r="22.75" stroke-width="2"/>
+					</g>
+				</g>
+			</g>
+		</svg>
+
+	</div>
+	<h1 class="error_h1">죄송합니다. 유효하지 않은 요청입니다.</h1>
+	<p class="error_p">접근하고자하는 블로그 아이디가 없습니다.  접근하고자하는 블로그 아이디를 입력해주시기 바랍니다.</p>
+	<div class="area_btn">
+		<a href="javascript:history.back(-1)" class="link">이전 화면으로</a>
+	</div>
+</div>
+</body>
+</html>
+----------------------------import --------
+에러메세지 in before_please
+Expecting value: line 3 column 1 (char 2)
+before_please 루프 3
+image1_10 ['C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image0.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image1.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image10.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image11.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image2.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image3.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image4.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image5.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image6.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image7.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image8.png', 'C:\\Users\\법무법인 에이블\\Desktop\\프로그램\\네이버블로그\\image_b\\Image9.png']
+----------------------------import --------
+에러메세지
+local variable 'mustSend' referenced before assignment
+로그인문제
+9
+16시 25분 27초
+timeclock_forLoop 9.0
+asdf2 540
+동작중 0
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
