@@ -1,0 +1,162 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+312
+232
+280
+556
+791
+681
+83
+621
+795
+812
+166
+631
+scrollcounter 10
+17
+총 1000회 순서대로 실행
+-----------------------------------
+1/1000 - link_number 0
+-----------------------------------
+keyword_excel https://m.search.naver.com/search.naver?nso=&page=2&query=%EC%9D%B8%EC%B2%9C%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%84%B1%EC%A7%80&sm=mtb_pge&start=1&where=m_web
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.47.47
+
+
+변경된 IP : 39.7.47.47
+
+check1
+네이버 검색결과: 0개
+1페이지에서 못찾음, 2페이지 시도
+check1
+2페이지에서 못찾음, 3페이지 시도
+check1
+3페이지에서 못찾음, 4페이지 시도
+check1
+4페이지에서 못찾음, 5페이지 시도
+크롬 강제 종료 성공
+크롬 강제 종료 성공
+동작 중지됨
+312
+232
+280
+556
+791
+681
+83
+621
+795
+812
+166
+631
+scrollcounter 10
+16
+총 1000회 순서대로 실행
+-----------------------------------
+1/1000 - link_number 0
+-----------------------------------
+keyword_excel https://m.search.naver.com/search.naver?nso=&page=2&query=%EC%9D%B8%EC%B2%9C%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%84%B1%EC%A7%80&sm=mtb_pge&start=1&where=m_web
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+DNS request timed out.
+    timeout was 2 seconds.
+�̸�:    myip.opendns.com
+Address:  39.7.54.205
+
+
+변경된 IP : 39.7.54.205
+
+check1
+네이버 검색결과: 0개
+1페이지에서 못찾음, 2페이지 시도
+check1
+2페이지에서 못찾음, 3페이지 시도
+check1
+3페이지에서 못찾음, 4페이지 시도
+check1
+4페이지에서 못찾음, 5페이지 시도
+check1
+이전 크롬 정리 완료
+-----------------------------------
+2/1000 - link_number 1
+-----------------------------------
+keyword_excel https://m.search.naver.com/search.naver?nso=&page=2&query=%EC%9D%B8%EC%B2%9C%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%84%B1%EC%A7%80&sm=mtb_pge&start=1&where=m_web
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  110.70.14.96
+
+
+변경된 IP : 110.70.14.96
+
+check1
+네이버 검색결과: 0개
+1페이지에서 못찾음, 2페이지 시도
+check1
+2페이지에서 못찾음, 3페이지 시도
+check1
+3페이지에서 못찾음, 4페이지 시도
+check1
+4페이지에서 못찾음, 5페이지 시도
+check1
+이전 크롬 정리 완료
+-----------------------------------
+3/1000 - link_number 2
+-----------------------------------
+keyword_excel https://m.search.naver.com/search.naver?nso=&page=2&query=%EC%9D%B8%EC%B2%9C%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%84%B1%EC%A7%80&sm=mtb_pge&start=1&where=m_web
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+IP 변경중...
+
+���� ���� ����:
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  39.7.47.125
+
+
+로그 저장 시작
+File saved to: C:\Users\marketingCOM1\Desktop\트래픽마스터\logfile.txt
