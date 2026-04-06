@@ -1,0 +1,100 @@
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\52d9157b9d2845d1b1763b8955a9397a.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\3535516a87124419b7fd8a71a035b26a.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\29cce1ee26e940e48fb32e84b1ddf274.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 146
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0d0145fa67474d819b85c5f1e75531c5.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\d2aa1ed7104746bb891743173caa3cc9.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\34172d4d1a91408ab2bef518cd0226e2.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 146
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\1ae9838cb58a4ee2929645aa2fc65162.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\e30e290961b84247925f74430f2a2881.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\92abe38872b9486d8ff82399fa87f7cc.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 146
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\5d9856eb14244866931aff18727b704b.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 크롬 버전 :: 146
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\0177a69c15a9426b80988d9d82a0e7fa.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\법무법~1\AppData\Local\Temp\b7a1c1656220481d878058a3416102d7.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 146
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 146
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\법무법인 에이블\Desktop\프로그램\네이버블로그\logfile.txt
