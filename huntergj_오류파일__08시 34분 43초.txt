@@ -1,0 +1,248 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+CCC
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  114.206.50.41
+
+
+CCC
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  10.208.48.154
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  10.208.48.154
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.208.48.154
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.211.175.101
+
+
+
+CCC
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  10.211.175.101
+
+
+
+로그 저장 시작
+File saved to: C:\Users\신민우\Desktop\트래픽마스터\logfile.txt
