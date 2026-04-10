@@ -1,0 +1,171 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[LABSFX] Edge major: 146, Driver major: 146
+[LABSFX] msedgedriver version: Microsoft Edge WebDriver 146.0.3856.109 (4ea561665942d77ab9418b65918fd837650cfaff)
+[LABSFX] Edge browser version: 146.0.3856.109
+[LABSFX] user_data_dir: C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10
+[LABSFX] msedge_path: C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\msedgedriver.exe
+[LABSFX] disk cache dir: C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10
+[LABSFX] Edge 수동 실행 + attach 방식
+[LABSFX] Edge exe: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[LABSFX] Edge 수동 실행: port=9561
+[LABSFX] debug port 9561 ready (0.5s)
+[LABSFX] attach 성공
+[LABSFX] current URL: https://labs.google/fx/ko/tools/image-fx
+[LABSFX] Edge major: 146, Driver major: 146
+[LABSFX] msedgedriver version: Microsoft Edge WebDriver 146.0.3856.109 (4ea561665942d77ab9418b65918fd837650cfaff)
+[LABSFX] Edge browser version: 146.0.3856.109
+[LABSFX] user_data_dir: C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10
+[LABSFX] msedge_path: C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\msedgedriver.exe
+[LABSFX] disk cache dir: C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10
+[LABSFX] Edge 수동 실행 + attach 방식
+[LABSFX] Edge exe: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[LABSFX] Edge 수동 실행: port=9663
+[LABSFX] debug port 9663 ready (0.5s)
+[LABSFX] attach 성공
+[LABSFX] current URL: https://labs.google/fx/ko/tools/image-fx
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[MANUAL] focused tab: https://chatgpt.com/
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[EXCEL] loaded from: C:/Users/ageln/Desktop/전승규_블로그자동화/OneDrive_2026-03-30/Premium_Keyword.xlsx
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '고정 이미지 경로(순서)', '고정 이미지 경로(1개)', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1', '백링크', '백링크.1']
+[EXCEL] gpt주소 = ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+[EXCEL DEBUG] gpt주소[0] = https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+[MANUAL] focused tab: https://chatgpt.com/
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\naver_cookie_save_agelnh.pkl
+[LOGIN] URL check: https://blog.naver.com/agelnh → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\naver_cookie_save_agelnh.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KNVXK29MC4QDGHP1N75Q1SST
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1775832238580
+[MANUAL] prompt: 구글성인인증오류2 < / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+[CHATGPT DEBUG] _current_excel_counter = 0, len(gpt_urls) = 1
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 1852 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+[[구글 성인인증 오류2 해결 방법 총정리 가이드]]
+
+<h2 style='font-size:26px;' align='left'>구글 성인인증 오류 발생 원인</h2> 구글 서비스를 이용하다 보면 간혹 성인인증이 정상적으로 진행되지 않는 문제가 발생합니다. 이는 단순한 시스템 오류가 아니라 여러 요인이 복합적으로 작용한 결과일 수 있습니다. 대표적으로 <b>계정 정보 불일치</b>, <b>브라우저 캐시 문제</b>, 그리고 <b>지역 및 IP 인식 오류</b> 등이 있습니다. 특히 해외 IP로 인식되거나 VPN 사용 시 인증 단계에서 차단되는 사례가 많습니다. 또한 계정 생성 시 입력한 생년월일 정보가 정확하지 않을 경우에도 인증 절차가 반복되거나 실패할 수 있습니다. 이러한 요소를 정확히 파악하는 것이 해결의 첫 단계입니다. <h2 style='font-size:26px;' align='left'>기본적인 해결 방법 체크리스트</h2> 성인인증 오류가 발생했을 때는 아래와 같은 기본 점검을 우선 진행해야 합니다. <ul> <li>구글 계정 생년월일 정보 확인 및 수정</li> <li>브라우저 캐시 및 쿠키 삭제</li> <li>VPN 또는 프록시 사용 여부 해제</li> <li>다른 브라우저 또는 기기에서 재시도</li> </ul> 이 과정만으로도 상당수 문제가 해결됩니다. 특히 캐시 데이터는 오래 쌓일수록 인증 시스템과 충돌을 일으킬 수 있기 때문에 주기적인 정리가 중요합니다. 전문가 입장에서는 단순 오류처럼 보여도 이런 기본 점검을 하지 않으면 문제 원인을 놓치기 쉽습니다. <h2 style='font-size:26px;' align='left'>심화 해결 방법과 설정 점검</h2> 기본 방법으로 해결되지 않는다면 보다 구체적인 설정을 점검해야 합니다. 아래 표를 통해 주요 점검 항목을 정리해보겠습니다. <table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">점검 항목</th> <th style="background-color: lightblue; text-align:center">설명</th> </tr> <tr> <td>계정 보안 설정</td> <td>2단계 인증 및 보안 상태 확인</td> </tr> <tr> <td>결제 프로필</td> <td>성인 인증과 연동된 국가 정보 확인</td> </tr> <tr> <td>IP 위치</td> <td>현재 접속 지역이 정상인지 확인</td> </tr> </table> 특히 결제 프로필의 국가 설정이 실제 위치와 다를 경우 인증 오류가 반복될 수 있습니다. 이런 경우 프로필을 새로 생성하거나 기존 정보를 수정하는 것이 필요합니다. 또한 공용 와이파이를 사용할 경우 IP가 불안정하게 인식될 수 있으므로 개인 네트워크 사용을 권장합니다. <h2 style='font-size:26px;' align='left'>재발 방지를 위한 관리 방법</h2> 문제를 해결했다면 이후 동일한 오류를 방지하는 것이 중요합니다. 평소 계정 정보를 정확하게 유지하고, 불필요한 확장 프로그램은 최소화해야 합니다. 또한 <b>정기적인 비밀번호 변경</b>과 <b>보안 점검</b>을 통해 계정 상태를 안정적으로 유지하는 것이 좋습니다. 작은 설정 하나가 큰 오류를 예방하는 핵심이 됩니다. 구글 성인인증 문제는 단순한 불편을 넘어 서비스 이용 자체를 제한할 수 있기 때문에 초기 대응이 중요합니다. 문제가 반복된다면 고객센터를 통한 공식 지원을 받는 것도 하나의 방법입니다. 전문가 관점에서는 빠른 원인 파악과 단계별 접근이 가장 효율적인 해결 전략입니다.
+
+<<<전체 글 끝>>>
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 1852
+[PARSE] 인트로: 29자, h2 섹션: 4개
+  [h2 0] heading: 구글 성인인증 오류 발생 원인  body: 317자
+  [h2 1] heading: 기본적인 해결 방법 체크리스트  body: 308자
+  [h2 2] heading: 심화 해결 방법과 설정 점검  body: 586자
+  [h2 3] heading: 재발 방지를 위한 관리 방법  body: 329자
+[TITLE] 엑셀 제목 유지: 구글성인인증오류2
+[PARSE] 콘텐츠 큐: 9개
+  [0] intro: [[구글 성인인증 오류2 해결 방법 총정리 가이드]]
+  [1] heading: 구글 성인인증 오류 발생 원인
+  [2] body: 구글 서비스를 이용하다 보면 간혹 성인인증이 정상적으로 진행되지 않는 문제가 발생합니다. 
+  [3] heading: 기본적인 해결 방법 체크리스트
+  [4] body: 성인인증 오류가 발생했을 때는 아래와 같은 기본 점검을 우선 진행해야 합니다. <ul> <
+  [5] heading: 심화 해결 방법과 설정 점검
+  [6] body: 기본 방법으로 해결되지 않는다면 보다 구체적인 설정을 점검해야 합니다. 아래 표를 통해 주
+  [7] heading: 재발 방지를 위한 관리 방법
+  [8] body: 문제를 해결했다면 이후 동일한 오류를 방지하는 것이 중요합니다. 평소 계정 정보를 정확하게
+  [block 0] quotation → heading[0]: 구글 성인인증 오류 발생 원인
+  [block 4] quotation → heading[1]: 기본적인 해결 방법 체크리스트
+  [block 5] text → body[1] (308자)
+  [block 8] quotation → heading[2]: 심화 해결 방법과 설정 점검
+  [block 9] text → body[2] (586자)
+  [block 11] text → heading+body (352자)
+  [block 13] text → PASS (큐 소진)
+  [block 15] text → PASS (큐 소진)
+  [block 17] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 0] 인용구: (16자) 구글 성인인증 오류 발생 원인
+  [block 4] 인용구: (16자) 기본적인 해결 방법 체크리스트
+  [block 5] 텍스트: (308자) 성인인증 오류가 발생했을 때는 아래와 같은 기본 점검을 우선 진행해야 합니다. <ul> <li>구글 계정 생...
+  [block 8] 인용구: (15자) 심화 해결 방법과 설정 점검
+  [block 9] 텍스트: (586자) 기본 방법으로 해결되지 않는다면 보다 구체적인 설정을 점검해야 합니다. 아래 표를 통해 주요 점검 항목을 정...
+  [block 11] 텍스트: (352자) <b>재발 방지를 위한 관리 방법</b>
+문제를 해결했다면 이후 동일한 오류를 방지하는 것이 중요합니다. 평...
+  [block 13] text: (비어있음)
+  [block 15] text: (비어있음)
+  [block 17] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=ai_labsfx, needed_images=10, img_path=C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\AI생성이미지, driver_labsfx=True
+[LABSFX] 번역: 구글성인인증오류2 → Google Adult Verification Error 2
+[LABSFX] 프롬프트 변환: create image[[Google Adult Verification Error 2]]  please re
+[LABSFX ERROR] round 1: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: MicrosoftEdge=146.0.3856.109)
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b73cf037]
+	msedgedriver!(No symbol) [0x7ff7b73cedd5]
+	msedgedriver!(No symbol) [0x7ff7b73ccf02]
+	msedgedriver!(No symbol) [0x7ff7b73cd72f]
+	msedgedriver!(No symbol) [0x7ff7b73d7fd0]
+	msedgedriver!(No symbol) [0x7ff7b73e918d]
+	msedgedriver!(No symbol) [0x7ff7b73ee93a]
+	msedgedriver!(No symbol) [0x7ff7b73ce0c8]
+	msedgedriver!(No symbol) [0x7ff7b73cddde]
+	msedgedriver!(No symbol) [0x7ff7b73e8bfd]
+	msedgedriver!(No symbol) [0x7ff7b74609ac]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] 번역: 구글성인인증오류2 → Google Adult Verification Error 2
+[LABSFX] 프롬프트 변환: create image[[Google Adult Verification Error 2]]  please re
+[LABSFX ERROR] round 2: 'NoneType' object has no attribute 'get'
+[LABSFX] 번역: 구글성인인증오류2 → Google Adult Verification Error 2
+[LABSFX] 프롬프트 변환: create image[[Google Adult Verification Error 2]]  please re
+[LABSFX ERROR] round 3: 'NoneType' object has no attribute 'get'
+[IMG] AI 모드 Image*.png 파일: []
+[MAP] maps=['강남 맛집'], excel_counter=0, query="강남 맛집"
+[MAP] 검색: 강남 맛집 → 행운간 (서울특별시 강남구 양재천로 189 1층)
+[백링크] 블록[2] → [1번] 실패: string indices must be integers
+[대표이미지] 폴더에서 선택: C:\Users\ageln\Desktop\자동화 테스트자료\썸네일\썸네일.jpg
+[대표이미지] 구조에 대표이미지 블록 없음 → SKIP
+[고정IMG순서] 폴더: C:\Users\ageln\Desktop\자동화 테스트자료\메인사진, 파일 4개
+[고정IMG순서] 1/4: 교통사고_a1.jpg
+[고정IMG순서] 2/4: 교통사고_a2.jpg
+[고정IMG순서] 3/4: 교통사고_a3.jpg
+[고정IMG순서] 4/4: 교통사고_a4.jpg
+[COMPONENT] fixed_img_seq[1] 4장 삽입
+[COMPONENT] backlink[2] SKIP (데이터 없음)
+[COMPONENT] map 삽입 (1/2)
+[COMPONENT] fixed_img_one[6] SKIP (데이터 없음)
+[TAGS] 본문 끝에 추가: #태그1 #태그2 #태그3
+[COMPONENTS] 20 components built
+  [IMG 1] represent=False src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+[LAB] AutoSaveWrite result: 
+{"isSuccess":true,"result":{"autoSaveNo":1775832238580}}
+[LAB] 임시저장 글 복원 완료
