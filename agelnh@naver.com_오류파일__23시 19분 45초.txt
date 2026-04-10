@@ -1,0 +1,652 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[LABSFX] Edge major: 146, Driver major: 146
+[LABSFX] msedgedriver version: Microsoft Edge WebDriver 146.0.3856.109 (4ea561665942d77ab9418b65918fd837650cfaff)
+[LABSFX] Edge browser version: 146.0.3856.109
+[LABSFX] user_data_dir: C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10
+[LABSFX] msedge_path: C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\msedgedriver.exe
+[LABSFX] disk cache dir: C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10
+[LABSFX] 시도 1: 기존 프로필 사용
+[LABSFX] 시도 1 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+b9QXxOQvdoidEg0ktvAubY+tt3egSVzarYqIphIu4/0zzDV3xAgtLMUMjswBNigMECgIAAco+nAMKBAgAEAESGAoCCAUSAggIGgIIASIECAAQASgBMgIIASICCAIyNAgAGiw0N0RFUXBqOEhCU2ErL1RJbVcrNUpDZXVRZVJrbTVOTXBKV1pHM2hTdUZVPSIAKgA6Cwjz///v9/////8BQh8SCjEuMy4yMjcuMTEYBSAAKgRNMTAwMgd3aW5kb3dzUgIIAFr8AQnn+6nx0k04QBE/NV66SUwnQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAADwPxkAAAAAAADwPxkAAAAAAAAAABkAAAAAAADwPxkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAABZQBkAAAAAAAAAABkAAAAAAABZQBkAAAAAAADwPxkAAAAAAABZQBkAAAAAAADwPxkAAAAAAADwPxkAAAAAAAA0QBkAAAAAAADwPxkAAAAAAABZQBkAAAAAAABZQHoCCACCAQIYAKoBAgoAsAEA",
+         "saved_system_profile_hash": "26081AA316BBE711560E4963203335B48B77D335",
+         "stats_buildtime": "1775417121",
+         "stats_version": "146.0.3856.109-64",
+         "system_crash_count": 0
+      },
+      "unsent_log_metadata": {
+         "initial_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 0,
+            "unsent_samples_count": 0
+         },
+         "ongoing_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 0,
+            "unsent_samples_count": 0
+         }
+      }
+   },
+   "variations_crash_streak": 1,
+   "variations_google_groups": {
+      "Default": [  ]
+   },
+   "was": {
+      "restarted": false
+   }
+}
+[1775830729.825][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830729.825][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830729.827][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830729.827][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-blink-features=AutomationControlled --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-features=IgnoreDuplicateNavs,Prewarm,msEdgeFirstRunExperience --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-software-rasterizer --disable-sync --disk-cache-dir="C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10" --disk-cache-size=1048576 --enable-logging --lang=ko-KR --log-level=0 --no-default-browser-check --no-first-run --no-sandbox --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10"
+[1775830729.905][INFO]: [093ba1da45ee226ffedf8589e9e8b186] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830729.905][DEBUG]: Log type 'driver' lost 2 entries on destruction
+[1775830729.905][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 2: 프로필 삭제 후 재생성
+[LABSFX] 시도 2 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+ulating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1775830733.828][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1775830733.830][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830733.830][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830733.831][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830733.831][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-blink-features=AutomationControlled --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-features=IgnoreDuplicateNavs,Prewarm,msEdgeFirstRunExperience --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-software-rasterizer --disable-sync --disk-cache-dir="C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10" --disk-cache-size=1048576 --enable-logging --lang=ko-KR --log-level=0 --no-default-browser-check --no-first-run --no-sandbox --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10"
+[1775830733.916][INFO]: [2b217805b7beee2d8590a13845ae4b85] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830733.916][DEBUG]: Log type 'driver' lost 2 entries on destruction
+[1775830733.916][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 3: Temp 폴더의 단순 경로 사용
+[LABSFX] safe profile path: C:\Users\ageln\AppData\Local\Temp\labsfx_edge_chatGPT10
+[LABSFX] 시도 3 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+QABQAFgAYABoAHIBCngAgAEAiAEAyD4D0j4gb2xtaGNoa2lhZm5pZmZjYWljaWlvbWZkcGxubWtsYWvaPgDgPgDqPgIAAfA+APgB1SKAAv///////////wGIAgGoAvoFsgJgZB450jfirX7FiAAqfsiwbNubM6nYwC2x7motf0y0VBNUH43yY3cefXlLqmnnbDVi+KKILx378HB6L4VJ2lMG5xv1BfE5C92iLbwLm2Prbd3oElc2q2KiKYSLuP9M8w1d8QK9cdS6Wtn00IoDBAoCAAHKPpwDCgQIABABEhgKAggFEgIICBoCCAEiBAgAEAEoATICCAEiAggCMjQIABosNDdERVFwajhIQlNhKy9USW1XKzVKQ2V1UWVSa201Tk1wSldaRzNoU3VGVT0iACoAOgsI8///7/f/////AUIfEgoxLjMuMjI3LjExGAUgACoETTEwMDIHd2luZG93c1ICCABa/AEJcT0K16OQOEARPzVeuklMJ0AZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAA8D8ZAAAAAAAA8D8ZAAAAAAAAAAAZAAAAAAAA8D8ZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAAAAZAAAAAAAAWUAZAAAAAAAA8D8ZAAAAAAAAWUAZAAAAAAAA8D8ZAAAAAAAA8D8ZAAAAAAAANEAZAAAAAAAA8D8ZAAAAAAAAWUAZAAAAAAAAWUB6AggAggECGACqAQIKALABAA==",
+         "saved_system_profile_hash": "E626B7FCE36E58469E95A8B936368171C3EDAA86",
+         "stats_buildtime": "1775417121",
+         "stats_version": "146.0.3856.109-64",
+         "system_crash_count": 0
+      },
+      "unsent_log_metadata": {
+         "initial_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 0,
+            "unsent_samples_count": 0
+         },
+         "ongoing_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 0,
+            "unsent_samples_count": 0
+         }
+      }
+   },
+   "variations_crash_streak": 1,
+   "variations_google_groups": {
+      "Default": [  ]
+   },
+   "was": {
+      "restarted": false
+   }
+}
+[1775830736.532][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830736.532][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830736.534][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830736.534][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-blink-features=AutomationControlled --disable-client-side-phishing-detection --disable-default-apps --disable-features=IgnoreDuplicateNavs,Prewarm --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-logging --lang=ko-KR --log-level=0 --no-default-browser-check --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\AppData\Local\Temp\labsfx_edge_chatGPT10"
+[1775830736.607][INFO]: [10ce5258de5bd4ba9e78f8204d54f035] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830736.607][DEBUG]: Log type 'driver' lost 2 entries on destruction
+[1775830736.607][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 4: 프로필 없이 최소 옵션
+[LABSFX] 시도 4 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+30739.168][INFO]: Browser search. Trying... C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[1775830739.168][INFO]: Browser search. Found at  C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[1775830739.170][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1775830739.171][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1775830739.175][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830739.175][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830739.180][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830739.180][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-client-side-phishing-detection --disable-default-apps --disable-features=IgnoreDuplicateNavs,Prewarm --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-logging --log-level=0 --no-default-browser-check --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\AppData\Local\Temp\scoped_dir2944_1221096282" data:,
+[1775830739.303][INFO]: [582c2171af1a591b7bbbfc1ce3a1cd53] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830739.303][DEBUG]: Log type 'driver' lost 0 entries on destruction
+[1775830739.303][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 5: 수동 Edge launch + attach
+[LABSFX] Edge exe: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[LABSFX] Edge 수동 실행: port=9668
+[LABSFX] debug port 9668 ready (0.5s)
+[LABSFX] 시도 5 성공: Edge에 attach 완료
+[LABSFX] Edge major: 146, Driver major: 146
+[LABSFX] msedgedriver version: Microsoft Edge WebDriver 146.0.3856.109 (4ea561665942d77ab9418b65918fd837650cfaff)
+[LABSFX] Edge browser version: 146.0.3856.109
+[LABSFX] user_data_dir: C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10
+[LABSFX] msedge_path: C:\Users\ageln\Desktop\전승규_블로그자동화\OneDrive_2026-03-30\msedgedriver.exe
+[LABSFX] disk cache dir: C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10
+[LABSFX] 시도 1: 기존 프로필 사용
+[LABSFX] 시도 1 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+146.0.3856.109", "KR" ],
+   "variations_runtime_compressed_seed": "H4sIAAAAAAAAAH1RXW/aQBD8L/vspffl8x1SHhAfaoXSUmgbNQ0PF3xQS/7q+YwgyP+9OpwoSgN9nJ2Z3RntCcZVuc12nyYNDGGBS6REcyZipMho1A+UJAIp8uSME8WJRIpU9ZBLdoY9KzmVMQpk8gxjzgRHhj0pCNEc+QvJVSIEJqh7llOlNTKNQutogROkNFaSCmQo+iRMU6koMvZyjSZKJCwo9HNWrhJJQhwCEUzTnV22pc8KC8MTfB+Nq6I2PnvM8swfZ9khTG1pHnM7s8a3zjYw/AVF849yYremzX0wrCOojTOF9dYF8QlKE7bDqK7z43VfBHuTt0HoXWuhW3fdm3z9G0KeaVH740XmfVJr3QbWXQS31psvq9ss3RmX/rCuyaryf8aZ9Zvfl0zXC15Uv9aiA0aYJJzxgR6Q54IfrUnPa04wrtrSu+O4SoN6vgzv+WZ2MIQHqJ7uJnZ1/2c/NSv3YfO10WZD93P1uWWHxaERexYrv3I/t/PpzQNA1/0Fcp/eprcCAAA=",
+   "variations_runtime_config_ids": "P-R-1093245-1-21,P-R-108604-1-37,P-R-78306-1-18,P-R-73626-1-17,P-R-63165-4-26,P-R-53243-2-7,P-R-40093-3-26,P-R-38744-7-97,P-R-31899-29-499,P-D-1158614-2-4,P-R-1291681-22-17,P-R-1784724-2-9,P-R-1038760-1-10",
+   "variations_seed_client_version_at_store": "146.0.3856.109",
+   "variations_seed_date": "13420304346000000",
+   "variations_seed_milestone": 146,
+   "variations_seed_runtime_etag": "\"ozWDeSZqvEaSr/cQs9ac1vK8Nu2xPxs4v258tSrYfKE=\"",
+   "variations_seed_runtime_serial_number": "\"ozWDeSZqvEaSr/cQs9ac1vK8Nu2xPxs4v258tSrYfKE=\"",
+   "variations_seed_serial_number": "\"ZerD4XRutHwqJpZSTAE/YxD5hZBATMwN3tGrfdJ+u0k=\"",
+   "variations_seed_signature": "",
+   "was": {
+      "restarted": false
+   }
+}
+[1775830762.417][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830762.417][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830762.419][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830762.419][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-blink-features=AutomationControlled --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-features=IgnoreDuplicateNavs,Prewarm,msEdgeFirstRunExperience --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-software-rasterizer --disable-sync --disk-cache-dir="C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10" --disk-cache-size=1048576 --enable-logging --lang=ko-KR --log-level=0 --no-default-browser-check --no-first-run --no-sandbox --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10"
+[1775830762.486][INFO]: [0d759d57f54a53e04ddd703ea7fc9cc8] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830762.486][DEBUG]: Log type 'driver' lost 2 entries on destruction
+[1775830762.486][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 2: 프로필 삭제 후 재생성
+[LABSFX] 시도 2 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+ulating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1775830766.964][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1775830766.965][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830766.965][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830766.967][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830766.967][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-blink-features=AutomationControlled --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-features=IgnoreDuplicateNavs,Prewarm,msEdgeFirstRunExperience --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-software-rasterizer --disable-sync --disk-cache-dir="C:\Users\ageln\AppData\Local\Temp\labsfx_edge_cache_chatGPT10" --disk-cache-size=1048576 --enable-logging --lang=ko-KR --log-level=0 --no-default-browser-check --no-first-run --no-sandbox --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\chromeCookie\Profile labsfx_edge_chatGPT10"
+[1775830767.049][INFO]: [01e1116c813aa5b6f7b99175444c9719] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830767.049][DEBUG]: Log type 'driver' lost 2 entries on destruction
+[1775830767.049][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 3: Temp 폴더의 단순 경로 사용
+[LABSFX] safe profile path: C:\Users\ageln\AppData\Local\Temp\labsfx_edge_chatGPT10
+[LABSFX] 시도 3 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+OhVeb9LYSgoNQJNwsRVeb9LYSgoNE+QAMRVeb9LYSgoNWSI9rhVeb9LYSgoNFwcUqRVeb9LYSgoNlW4XtBVeb9LYSgoNE9qbXBVeb9LYSgoNcBvSzRVeb9LYSgoNkOmrPxVeb9LYSgoNQzthbhVeb9LYUARiBElOQlhqCAgAEAA4AEAAgAHgp7KmBpgBAPgB1SKAAv///////////wGIAgGoAvoFsgJgZB450jfirX7FiAAqfsiwbNubM6nYwC2x7motf0y0VBNUH43yY3cefXlLqmnnbDVi+KKILx378HB6L4VJ2lMG5xv1BfE5C92iLbwLm2Prbd3oElc2q2KiKYSLuP9M8w1d8QK+mskstKZoAso+3gIKBAgAEAESCCIECAIQAigBIgIIAjIGCAAiACoAOgsI8///7/f/////AUIfEgoxLjMuMjI3LjExGAUgACoETTEwMDIHd2luZG93c1ICCABa/AEJcT0K16OQOEARPzVeuklMJ0AZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAA8D8ZAAAAAAAA8D8ZAAAAAAAAAAAZAAAAAAAA8D8ZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAWUAZAAAAAAAAAAAZAAAAAAAAWUAZAAAAAAAA8D8ZAAAAAAAAWUAZAAAAAAAA8D8ZAAAAAAAA8D8ZAAAAAAAANEAZAAAAAAAA8D8ZAAAAAAAAWUAZAAAAAAAAWUB6AggAggECGACqAQIKALABAA==",
+         "saved_system_profile_hash": "E821C1208921F7A1A14EB98CE20A919945CB8642",
+         "stats_buildtime": "1775417121",
+         "stats_version": "146.0.3856.109-64",
+         "system_crash_count": 0
+      },
+      "unsent_log_metadata": {
+         "initial_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 4,
+            "unsent_samples_count": 1
+         },
+         "ongoing_logs": {
+            "sent_samples_count": 0,
+            "unsent_persisted_size_in_kb": 0,
+            "unsent_samples_count": 0
+         }
+      }
+   },
+   "variations_crash_streak": 1,
+   "variations_google_groups": {
+      "Default": [  ]
+   },
+   "was": {
+      "restarted": false
+   }
+}
+[1775830769.621][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830769.621][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830769.622][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830769.622][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-blink-features=AutomationControlled --disable-client-side-phishing-detection --disable-default-apps --disable-features=IgnoreDuplicateNavs,Prewarm --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-logging --lang=ko-KR --log-level=0 --no-default-browser-check --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\AppData\Local\Temp\labsfx_edge_chatGPT10"
+[1775830769.702][INFO]: [70910da231ae270ca0efc72fa27a1ffe] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830769.702][DEBUG]: Log type 'driver' lost 2 entries on destruction
+[1775830769.702][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 4: 프로필 없이 최소 옵션
+[LABSFX] 시도 4 실패: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
+
+[LABSFX] ==== msedgedriver.log (tail) ====
+30772.260][INFO]: Browser search. Trying... C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[1775830772.260][INFO]: Browser search. Found at  C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[1775830772.261][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1775830772.261][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1775830772.262][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1775830772.262][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1775830772.265][INFO]: WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS = 
+[1775830772.265][INFO]: Launching Microsoft Edge: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --allow-pre-commit-input --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-client-side-phishing-detection --disable-default-apps --disable-features=IgnoreDuplicateNavs,Prewarm --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-logging --log-level=0 --no-default-browser-check --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ageln\AppData\Local\Temp\scoped_dir8492_1071740377" data:,
+[1775830772.358][INFO]: [ddcca31b29e61c611683845df9ff3e18] RESPONSE InitSession ERROR session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+[1775830772.358][DEBUG]: Log type 'driver' lost 0 entries on destruction
+[1775830772.358][DEBUG]: Log type 'browser' lost 0 entries on destruction
+
+[LABSFX] ==== log end ====
+[LABSFX] 시도 5: 수동 Edge launch + attach
+[LABSFX] Edge exe: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[LABSFX] Edge 수동 실행: port=9791
+[LABSFX] debug port 9791 ready (0.5s)
+[LABSFX] 시도 5 성공: Edge에 attach 완료
+[LABSFX ERROR] HTTPConnectionPool(host='localhost', port=61472): Max retries exceeded with url: /session/14e216392736e63e1e664b475fd1bf63/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239E59D0550>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
