@@ -1,0 +1,53 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'draft', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'right', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[EXCEL] loaded from: C:/Users/ageln/Desktop/전승규_블로그자동화/OneDrive_2026-03-30/Premium_Keyword.xlsx
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '고정 이미지 경로(순서)', '고정 이미지 경로(1개)', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1', '백링크', '백링크.1']
+[EXCEL] gpt주소 = ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+[SAVE BLOCKS] 20블록 저장
+[SAVE BLOCKS] 19블록 저장
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'right', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'right', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'right', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'left', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'right', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'fixed'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'move', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'fixed'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'fixed'}
+[SAVE OPTIONS] {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[LABSFX] msedgedriver 다운로드: https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/146.0.3856.109/edgedriver_win64.zip
+[LABSFX] msedgedriver 다운로드 실패: File is not a zip file
+[LABSFX] msedgedriver 다운로드: https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/146.0.3856.109/edgedriver_win64.zip
+[LABSFX] msedgedriver 다운로드 실패: File is not a zip file
+[MANUAL] chrome major: 146
+[MANUAL DEBUG] self.excel_data id = 2523115693632
+[MANUAL DEBUG] excel_path = C:/Users/ageln/Desktop/전승규_블로그자동화/OneDrive_2026-03-30/Premium_Keyword.xlsx
+[MANUAL DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+[MANUAL] navigating to: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+[MANUAL] current URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+[MANUAL] focused tab: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-tes
+[LABSFX ERROR] Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7431310e5+da15]
+	msedgedriver!GetHandleVerifier [0x7ff743131144+da74]
+	msedgedriver!GetHandleVerifier [0x7ff74349f8dc+37c20c]
+	msedgedriver!(No symbol) [0x7ff742e934ad]
+	msedgedriver!(No symbol) [0x7ff742e8f390]
+	msedgedriver!(No symbol) [0x7ff742ed051e]
+	msedgedriver!(No symbol) [0x7ff742ecfeb6]
+	msedgedriver!(No symbol) [0x7ff742e9b1fc]
+	msedgedriver!(No symbol) [0x7ff742e9a456]
+	msedgedriver!(No symbol) [0x7ff742e9b023]
+	msedgedriver!(No symbol) [0x7ff742f68b69]
+	msedgedriver!(No symbol) [0x7ff742f65103]
+	msedgedriver!(No symbol) [0x7ff742f74d14]
+	msedgedriver!GetHandleVerifier [0x7ff74314bf68+28898]
+	msedgedriver!GetHandleVerifier [0x7ff743154726+31056]
+	msedgedriver!GetHandleVerifier [0x7ff743138824+15154]
+	msedgedriver!GetHandleVerifier [0x7ff743138969+15299]
+	msedgedriver!GetHandleVerifier [0x7ff743125b62+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
