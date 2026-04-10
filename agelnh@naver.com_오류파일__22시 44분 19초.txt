@@ -1,0 +1,26 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[LABSFX ERROR] Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff7b76b10d5+d8e5]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b1134+d944]
+	msedgedriver!GetHandleVerifier [0x7ff7b7a1f7bc+37bfcc]
+	msedgedriver!(No symbol) [0x7ff7b74134ad]
+	msedgedriver!(No symbol) [0x7ff7b740f390]
+	msedgedriver!(No symbol) [0x7ff7b745051e]
+	msedgedriver!(No symbol) [0x7ff7b744feb6]
+	msedgedriver!(No symbol) [0x7ff7b741b1fc]
+	msedgedriver!(No symbol) [0x7ff7b741a456]
+	msedgedriver!(No symbol) [0x7ff7b741b023]
+	msedgedriver!(No symbol) [0x7ff7b74e8bb9]
+	msedgedriver!(No symbol) [0x7ff7b74e5153]
+	msedgedriver!(No symbol) [0x7ff7b74f4d64]
+	msedgedriver!GetHandleVerifier [0x7ff7b76cbf58+28768]
+	msedgedriver!GetHandleVerifier [0x7ff7b76d4716+30f26]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8814+15024]
+	msedgedriver!GetHandleVerifier [0x7ff7b76b8959+15169]
+	msedgedriver!GetHandleVerifier [0x7ff7b76a5c82+2492]
+	KERNEL32!BaseThreadInitThunk [0x7ffa1dcbe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa1f62c48c+2c]
