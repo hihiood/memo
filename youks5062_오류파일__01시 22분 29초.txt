@@ -1,0 +1,450 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+3
+0    휴대폰성지홈서비스여기다 신천점
+1    휴대폰성지홈서비스여기다 화봉점
+2    휴대폰성지홈서비스여기다 남목점
+Name: 작업 매장, dtype: object
+find_name 휴대폰성지홈서비스여기다 신천점
+IP 변경중...
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  203.109.28.36
+
+
+DB access----success!!
+3
+0    휴대폰성지홈서비스여기다 신천점
+1    휴대폰성지홈서비스여기다 화봉점
+2    휴대폰성지홈서비스여기다 남목점
+Name: 작업 매장, dtype: object
+find_name 휴대폰성지홈서비스여기다 신천점
+IP 변경중...
+
+변경된 IP : 203.109.28.36
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+더보기
+머지???
+울산휴대폰성지
+울산휴대폰성지 더보기
+머지???
+울산휴대폰성지
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+next_check_click True
+map 찾는중
+map 찾음2
+IP 변경중...
+
+끝---
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff69ea610b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff69ea61120+14d30]
+	chromedriver!(No symbol) [0x7ff69e7cdb6d]
+	chromedriver!(No symbol) [0x7ff69e827082]
+	chromedriver!(No symbol) [0x7ff69e82738c]
+	chromedriver!(No symbol) [0x7ff69e8773f7]
+	chromedriver!(No symbol) [0x7ff69e873f7b]
+	chromedriver!(No symbol) [0x7ff69e8196e8]
+	chromedriver!(No symbol) [0x7ff69e81a5d3]
+	chromedriver!GetHandleVerifier [0x7ff69ed65ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff69ed604cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff69ed829ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff69ea7ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff69ea85bac+397bc]
+	chromedriver!GetHandleVerifier [0x7ff69ea6a4d4+1e0e4]
+	chromedriver!GetHandleVerifier [0x7ff69ea6a686+1e296]
+	chromedriver!GetHandleVerifier [0x7ff69ea4ef97+2ba7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe83ee7344+14]
+	ntdll!RtlUserThreadStart [0x7ffe857226b1+21]
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.22.103
+
+더보기
+머지???
+울산휴대폰성지
+울산휴대폰성지 더보기
+머지???
+울산휴대폰성지
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff69ea610b5+14cc5]
+	chromedriver!GetHandleVerifier [0x7ff69ea61120+14d30]
+	chromedriver!(No symbol) [0x7ff69e7cdb6d]
+	chromedriver!(No symbol) [0x7ff69e7a4352]
+	chromedriver!(No symbol) [0x7ff69e857256]
+	chromedriver!(No symbol) [0x7ff69e873862]
+	chromedriver!(No symbol) [0x7ff69e8196e8]
+	chromedriver!(No symbol) [0x7ff69e81a5d3]
+	chromedriver!GetHandleVerifier [0x7ff69ed65ded+3199fd]
+	chromedriver!GetHandleVerifier [0x7ff69ed604cd+3140dd]
+	chromedriver!GetHandleVerifier [0x7ff69ed829ca+3365da]
+	chromedriver!GetHandleVerifier [0x7ff69ea7ca55+30665]
+	chromedriver!GetHandleVerifier [0x7ff69ea85bac+397bc]
+	chromedriver!GetHandleVerifier [0x7ff69ea6a4d4+1e0e4]
+	chromedriver!GetHandleVerifier [0x7ff69ea6a686+1e296]
+	chromedriver!GetHandleVerifier [0x7ff69ea4ef97+2ba7]
+	KERNEL32!BaseThreadInitThunk [0x7ffe83ee7344+14]
+	ntdll!RtlUserThreadStart [0x7ffe857226b1+21]
+
+🟢 사용자 선택: 서버2
+[clean_temp_folder] deleted=380 skipped=13 dir=C:\Users\ADMINI~1\AppData\Local\Temp
+[clean_temp_folder] deleted=25 skipped=13 dir=C:\Users\ADMINI~1\AppData\Local\Temp
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.36
+
+변경된 IP : 203.109.28.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 2] No such file or directory: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\_MEI133922\\random_user_agent\\data/user_agents.zip'
+[clean_temp_folder] deleted=1 skipped=6 dir=C:\Users\ADMINI~1\AppData\Local\Temp
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.36
+
+IP 변경중...
+
+변경된 IP : 203.109.28.36
+
+변경된 IP : 203.109.28.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 2] No such file or directory: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\_MEI133922\\random_user_agent\\data/user_agents.zip'
+[clean_temp_folder] deleted=0 skipped=6 dir=C:\Users\ADMINI~1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+DB access----success!!
+3
+0    휴대폰성지홈서비스여기다 신천점
+1    휴대폰성지홈서비스여기다 화봉점
+2    휴대폰성지홈서비스여기다 남목점
+Name: 작업 매장, dtype: object
+find_name 휴대폰성지홈서비스여기다 신천점
+IP 변경중...
+
+변경된 IP : 203.109.28.37
+
+IP 변경중...
+
+시작
+File saved to: C:\Users\Administrator\Downloads\logfile.txt
