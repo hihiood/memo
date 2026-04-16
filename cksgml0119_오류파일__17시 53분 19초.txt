@@ -1,0 +1,1999 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '25', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[SAVE OPTIONS] {'interval': '24', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '23', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[MANUAL] focused tab: https://chatgpt.com/
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '고정이미지', '고정이미지url', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE BLOCKS] 29블록 저장
+[SAVE OPTIONS] {'interval': '23', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '23', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '23', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'altq', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '23', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '8', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': True, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[IP ERROR] ADB 미설치 (C:/platform-tools/adb.exe)
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '고정이미지', '고정이미지url', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwanggoyijeongdab
+[MANUAL] current URL: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwanggoyijeongdab
+[MANUAL] focused tab: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwa
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[PUBLISH ERROR] keyword=0, excel=0: HTTPConnectionPool(host='localhost', port=53814): Max retries exceeded with url: /session/36bd7db28b52ca9fed0babcd7ce23179/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021F815884F0>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #1 실패: HTTPConnectionPool(host='local
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '고정이미지', '고정이미지url', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[MANUAL] chrome major: 147
+[MANUAL] Chrome launch failed after 4.6s: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwanggoyijeongdab
+[MANUAL] current URL: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwanggoyijeongdab
+[MANUAL] focused tab: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwa
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPA7AKYD649APDY6YJ7G52S7
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776312209466
+[MANUAL] prompt: 대전블로그광고 초고속 신규유입 전략 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 4506 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="38">대전블로그광고 초고속 신규유입 전략<br data-start="19" data-end="22">
+체감이 달라진 변화의 시작</p>
+<p data-start="40" data-end="240">1 새로운 흐름을 체감한 시작점에서<br data-start="59" data-end="62">
+매장을 운영하면서 가장 크게 느낀 건<br data-start="82" data-end="85">
+고객의 발걸음이 일정하지 않다는 점이었어요<br data-start="108" data-end="111">
+꾸준함이 중요하다는 건 알지만<br data-start="127" data-end="130">
+어디서부터 손을 대야 할지 막막했어요<br data-start="150" data-end="153">
+대전블로그광고를 고민하게 된 것도<br data-start="171" data-end="174" data-is-only-node="">
+그 답답함에서 출발한 선택이었어요<br data-start="192" data-end="195">
+단순한 홍보가 아닌 방향이 필요했어요<br data-start="215" data-end="218">
+그 흐름을 잡아주는 구조가 중요했어요</p>
+<p data-start="242" data-end="449">2 단건 광고의 한계를 넘어서 느낀 변화<br data-start="264" data-end="267">
+이전에는 한 가지 채널만 집중했는데<br data-start="286" data-end="289">
+시간이 지나도 큰 차이를 못 느꼈어요<br data-start="309" data-end="312">
+그때 알게 된 건 단편적인 방식보다<br data-start="331" data-end="334">
+여러 채널을 함께 운영하는 구조였어요<br data-start="354" data-end="357">
+대전블로그광고도 그 일부로 작용했고<br data-start="376" data-end="379" data-is-only-node="">
+전체 흐름 속에서 움직이는 방식이었어요<br data-start="400" data-end="403">
+하나가 아닌 전체를 보는 시각이 중요했어요<br data-start="426" data-end="429">
+그 이후로 변화 속도가 달라졌어요</p>
+<p data-start="451" data-end="676">3 대표가 직접 진행하는 구조에서 오는 신뢰<br data-start="475" data-end="478">
+처음 미팅을 진행하면서 놀랐던 점은<br data-start="497" data-end="500">
+영업 담당이 아닌 대표가 직접 온다는 점이었어요<br data-start="526" data-end="529">
+현장을 직접 보고 판단하는 과정에서<br data-start="548" data-end="551">
+단순한 제안이 아니라 분석이 느껴졌어요<br data-start="572" data-end="575">
+대기업 출신이라는 이력보다 더 와닿았던 건<br data-start="598" data-end="601" data-is-only-node="">
+현장 중심으로 이야기를 풀어간다는 점이었어요<br data-start="625" data-end="628">
+대전블로그광고 방향도 매장 상황에 맞게<br data-start="649" data-end="652">
+자연스럽게 설계되는 과정이 인상적이었어요</p>
+<p data-start="678" data-end="892">4 지역 기반 맞춤 전략의 차별성<br data-start="696" data-end="699">
+대전이라는 지역 특성을 반영한 접근이<br data-start="719" data-end="722">
+생각보다 큰 차이를 만들어냈어요<br data-start="739" data-end="742">
+단순히 키워드만 맞추는 방식이 아니라<br data-start="762" data-end="765">
+상권 흐름과 고객 성향까지 반영했어요<br data-start="785" data-end="788">
+지역 밀착형 운영이라는 말이<br data-start="803" data-end="806" data-is-only-node="">
+이럴 때 의미가 있다는 걸 느꼈어요<br data-start="825" data-end="828">
+대전블로그광고도 단순 노출이 아니라<br data-start="847" data-end="850">
+실제 방문으로 이어지는 구조였어요<br data-start="868" data-end="871">
+이 부분이 가장 현실적인 변화였어요</p>
+<p data-start="894" data-end="1094">5 원스톱 시스템에서 느껴지는 효율<br data-start="913" data-end="916">
+촬영부터 디자인, 기획까지 이어지는 흐름이<br data-start="939" data-end="942">
+끊기지 않고 이어지는 점이 좋았어요<br data-start="961" data-end="964">
+여러 업체를 따로 관리할 필요 없이<br data-start="983" data-end="986">
+한 번에 진행되는 구조가 편했어요<br data-start="1004" data-end="1007">
+대전블로그광고 역시 전체 전략 속에서<br data-start="1027" data-end="1030" data-is-only-node="">
+자연스럽게 녹아들어가는 방식이었어요<br data-start="1049" data-end="1052">
+작은 부분까지 이어지는 디테일이<br data-start="1069" data-end="1072">
+결과 차이를 만든다는 걸 알게 됐어요</p>
+<p data-start="1096" data-end="1284">6 실시간 소통이 만들어내는 안정감<br data-start="1115" data-end="1118">
+운영하면서 가장 중요하게 느낀 건<br data-start="1136" data-end="1139">
+빠르게 
+... (총 4506자, 이하 생략)
+────────────────────────────────────────────────────────────
+[CHATGPT] parsed: 1458 chars, 9 parts
+[MANUAL GEN] response length: 1458
+[PARSE] 인트로 (본문): (1458자) 대전블로그광고 초고속 신규유입 전략체감이 달라진 변화의 시작
+
+1 새로운 흐름을 체감한 시작점에서매장을 운영...
+[PARSE] 번호 없음 → 빈 줄 기준 fallback
+[PARSE FALLBACK] 섹션 추출 실패 → 전체를 인트로로
+[PARSE] 번호 섹션: 0개
+[TITLE] GPT 출력 결과물에 제목이 없습니다
+[TITLE] 엑셀 제목 유지: 대전블로그광고 초고속 신규유입 전략
+[PARSE] quotation 위치: [9, 15, 19]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (174자) styles=[]
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → PASS (인트로 부족)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → PASS (섹션 부족)
+  [block 10] text → PASS (body 부족)
+  [block 11] image → SKIP
+  [block 12] text → PASS (body 부족)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → PASS (섹션 부족)
+  [block 16] text → PASS (body 부족)
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → PASS (섹션 부족)
+  [block 20] text → PASS (body 부족)
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → PASS (body 부족)
+  [block 24] image → SKIP
+  [block 25] text → PASS (body 부족)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 0/0
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (174자) 1 새로운 흐름을 체감한 시작점에서매장을 운영하면서 가장 크게 느낀 건고객의 발걸음이 일정하지 않다는 점이었...
+  [block 5] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 12] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 23] text: (비어있음)
+  [block 25] text: (비어있음)
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 다양성] 폴더 1133장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260405_151330(0).jpg
+[IMG] 2/15: 20260412_154610(0).jpg
+[IMG] 3/15: 20260217_162948(0).jpg
+[IMG] 4/15: 20260217_164121(0).jpg
+[IMG] 5/15: 20260316_090621(0).jpg
+[IMG] 6/15: 20260331_093219(0).jpg
+[IMG] 7/15: 20260405_152245(0).jpg
+[IMG] 8/15: 20260316_091208.jpg
+[IMG] 9/15: 20260405_151011.jpg
+[IMG] 10/15: 20260412_153835(0).jpg
+[IMG] 11/15: 20260217_162745(0).jpg
+[IMG] 12/15: 20260412_154514(0).jpg
+[IMG] 13/15: 20260412_154204(0).jpg
+[IMG] 14/15: 20260412_154112.jpg
+[IMG] 15/15: 20260217_162442(0).jpg
+[IMG] 15장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=39864F9496326A1A35DA...
+[VIDEO] 파일: 광고의정답.mp4 (2.5MB)
+[VIDEO] 2/6 세션 생성: key=a3c21fd4-3949-11f1-a...
+[VIDEO] 3/6 청크 업로드 시작 (1개)
+[VIDEO]   청크 1/1: 200 (2656641 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [Ingest:done, VideoHeader:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_04_1...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 광고의정답.mp4, vid=39864F9496326A1A35DA...
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=0, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 30 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[LAB] AutoSaveWrite result: 
+{"isSuccess":true,"result":{"autoSaveNo":1776312209466}}
+[LAB] 임시저장 글 복원 완료
+[LAB] 인용구 클릭 1
+[LAB] 인용구 클릭 2
+[LAB] 인용구 클릭 3
+[LAB] 인용구 클릭 4
+[LAB] 인용구 클릭 5
+[LAB] 인용구 클릭 6
+[LAB] 인용구 클릭 7
+[LAB] 인용구 클릭 8
+[LAB] 인용구 클릭 9
+[LAB] 총 9개 요소 클릭
+[LAB] 발행 URL 확인: https://blog.naver.com/bugger2636/224254367919
+[LAB PUBLISH] 성공 → https://blog.naver.com/bugger2636/224254367919
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #1 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[LOGIN] URL check: https://blog.naver.com/bugger2636 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPA90FC1G4ZWPA7G9FZF12X8
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776313974282
+[MANUAL] prompt: 대전광고 새로운 매출타파 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로 글자수 ...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5618 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="27">대전광고 새로운 매출타파로 달라진 하루의 흐름</p>
+<p data-start="29" data-end="359">1 변화의 시작 지역 밀착형 광고 선택<br data-start="50" data-end="53">
+가게 운영을 이어가며 늘 비슷한 고민이 쌓였어요<br data-start="79" data-end="82">
+유입은 있는데 실제 매출로 이어지지 않는 답답함이었어요<br data-start="112" data-end="115">
+대전광고라는 키워드를 중심으로 다시 방향을 잡았어요<br data-start="143" data-end="146">
+지역 상권을 이해하는 파트너가 필요하다고 느꼈어요<br data-start="173" data-end="176">
+타지역 중심 운영보다 가까운 곳에서 빠르게 소통되는 구조가 중요했어요<br data-start="214" data-end="217" data-is-only-node="">
+처음 접한 방식은 단순 홍보가 아닌 전반을 바라보는 흐름이었어요<br data-start="252" data-end="255">
+가게의 현재 위치를 차분히 짚어주는 과정이 인상 깊었어요<br data-start="286" data-end="289">
+그 과정에서 내가 놓치고 있던 요소들이 자연스럽게 드러났어요<br data-start="322" data-end="325">
+이때부터 매출을 바라보는 시선이 조금씩 달라지기 시작했어요</p>
+<p data-start="361" data-end="689">2 대표 직접 방문 맞춤 전략 제시<br data-start="380" data-end="383">
+대기업 출신 대표가 직접 방문해 흐름을 살펴보는 구조였어요<br data-start="415" data-end="418">
+현장에서 바로 업종 특성에 맞는 방향을 잡아주는 점이 인상 깊었어요<br data-start="455" data-end="458">
+서류로만 전달되는 방식과는 확실히 결이 달랐어요<br data-start="484" data-end="487">
+매장의 동선과 고객 반응까지 세밀하게 체크하는 모습이 보였어요<br data-start="521" data-end="524">
+그 자리에서 바로 수정 방향을 잡아주는 속도가 남달랐어요<br data-start="555" data-end="558" data-is-only-node="">
+단순 제안이 아니라 실행까지 연결되는 구조였어요<br data-start="584" data-end="587">
+대표가 직접 대면으로 진행하니 신뢰가 자연스럽게 쌓였어요<br data-start="618" data-end="621">
+말로만 하는 방식이 아니라 현장 기반으로 이어지는 흐름이었어요<br data-start="655" data-end="658">
+그 덕분에 방향성에 대한 확신이 빠르게 자리 잡았어요</p>
+<p data-start="691" data-end="1009">3 토탈 광고의 중요성 체감<br data-start="706" data-end="709">
+기존에는 한 가지 채널에만 집중하는 방식이었어요<br data-start="735" data-end="738">
+하지만 대전광고를 진행하면서 통합 운영의 힘을 느꼈어요<br data-start="768" data-end="771">
+여러 채널이 연결되니 고객의 흐름이 자연스럽게 이어졌어요<br data-start="802" data-end="805">
+단건으로는 보이지 않던 부분들이 한 번에 정리되는 느낌이었어요<br data-start="839" data-end="842">
+콘텐츠 기획부터 촬영 디자인까지 한 번에 이어지는 구조였어요<br data-start="875" data-end="878" data-is-only-node="">
+이 과정에서 브랜드 이미지도 점점 또렷해졌어요<br data-start="903" data-end="906">
+각 채널이 따로 노는 것이 아니라 하나로 묶이는 경험이었어요<br data-start="939" data-end="942">
+이런 흐름이 결국 매출로 연결되는 구조라는 걸 체감했어요<br data-start="973" data-end="976">
+지금은 왜 토탈 광고가 중요한지 명확히 이해하게 되었어요</p>
+<p data-start="1011" data-end="1319">4 365일 실시간 소통의 안정감<br data-start="1029" data-end="1032">
+운영을 하다 보면 예측하지 못한 상황이 자주 생겨요<br data-start="1060" data-end="1063">
+그럴 때 바로 대응이 가능한 구조가 정말 중요했어요<br data-start="1091" data-end="1094">
+평일과 주말 구분 없이 이어지는 피드백이 큰 힘이 되었어요<br data-start="1126" data-end="1129">
+작은 수정도 빠르게 반영되니 흐름이 끊기지 않았어요<br data-start="1157" data-end="1160">
+기다림 없이 이어지는 소통이 매장의 리듬을 살려줬어요<br data-start="1189" data-end="1192" data-is-only-node="">
+단순 관리가 아니라 함께 운영하는 느낌이 들었어요<br data-start="1219" data-end="1222">
+나만의 마케팅 팀처럼 움직이는 구조라는 점이 인상 깊었어요<br data-start="1254" data-end="1257">
+이 과정에서 불안감이 줄어들고 안정감이 커졌어요<br data-start="1283" data-end="1286">
+결과적으로 운영에 더 집중할 수 있는 환경이 만들어졌어요</p>
+<p data-start="1321" data-end="1624">5 업종별 맞춤 분석과 방향 설정<br data-start="1339" data-end="1342">
+같은 업종이라도 상권에 따라 접근 방식이 달라야 했어요<br data-start="1372" data-end="1375">
+지역 특성을 반영한 분석이 
+... (총 5618자, 이하 생략)
+────────────────────────────────────────────────────────────
+[CHATGPT] parsed: 2308 chars, 9 parts
+[MANUAL GEN] response length: 2308
+[PARSE] 인트로 (본문): (2308자) 대전광고 새로운 매출타파로 달라진 하루의 흐름
+
+1 변화의 시작 지역 밀착형 광고 선택가게 운영을 이어가며 ...
+[PARSE] 번호 없음 → 빈 줄 기준 fallback
+[PARSE FALLBACK] 섹션 추출 실패 → 전체를 인트로로
+[PARSE] 번호 섹션: 0개
+[TITLE] GPT 출력 결과물에 제목이 없습니다
+[TITLE] 엑셀 제목 유지: 대전광고 새로운 매출타파
+[PARSE] quotation 위치: [9, 15, 19]
+  [block 0] image → SKIP
+  [block 1] text → INTRO[0] (301자) styles=[]
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → PASS (인트로 부족)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → PASS (섹션 부족)
+  [block 10] text → PASS (body 부족)
+  [block 11] image → SKIP
+  [block 12] text → PASS (body 부족)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → PASS (섹션 부족)
+  [block 16] text → PASS (body 부족)
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → PASS (섹션 부족)
+  [block 20] text → PASS (body 부족)
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → PASS (body 부족)
+  [block 24] image → SKIP
+  [block 25] text → PASS (body 부족)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 1, sec 0/0
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (301자) 1 변화의 시작 지역 밀착형 광고 선택가게 운영을 이어가며 늘 비슷한 고민이 쌓였어요유입은 있는데 실제 매출...
+  [block 5] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 12] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 23] text: (비어있음)
+  [block 25] text: (비어있음)
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 다양성] 폴더 1118장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260205_173540.jpg
+[IMG] 2/15: 20260405_151040(0).jpg
+[IMG] 3/15: 20260412_154400(0).jpg
+[IMG] 4/15: 20260412_154243(0).jpg
+[IMG] 5/15: 20260217_161836(1).jpg
+[IMG] 6/15: 20260316_084852.jpg
+[IMG] 7/15: 20260217_162859.jpg
+[IMG] 8/15: 20260217_164900(0).jpg
+[IMG] 9/15: 20260405_150511.jpg
+[IMG] 10/15: 20260412_154332.jpg
+[IMG] 11/15: 20260331_093531(1).jpg
+[IMG] 12/15: 20260331_092518.jpg
+[IMG] 13/15: 20260217_165920.jpg
+[IMG] 14/15: 20260412_153307.jpg
+[IMG] 15/15: 20260412_152501.jpg
+[IMG] 15장 삭제
+[VIDEO] 동영상 경로 없음 → video 블록 SKIP
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=1, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 29 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[LAB] AutoSaveWrite result: 
+{"isSuccess":true,"result":{"autoSaveNo":1776313974282}}
+[LAB] 임시저장 글 복원 완료
+[LAB] 총 0개 요소 클릭
+[LAB] publish_btn_area click failed, trying JS click: Message: element click intercepted: Element <div class="publish_btn_area__KjA2i">...</div> is not clickable at point (1821, 15). Other element would receive the click: <div class="se-popup-dim se-popup-dim-white"></div>
+  (Session info: chrome=147.0.7727.57)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x63c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x63c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x412100]
+	undetected_chromedriver!(No symbol) [0x4613a8]
+	undetected_chromedriver!(No symbol) [0x45f5b9]
+	undetected_chromedriver!(No symbol) [0x45cf72]
+	undetected_chromedriver!(No symbol) [0x45c184]
+	undetected_chromedriver!(No symbol) [0x451db8]
+	undetected_chromedriver!(No symbol) [0x47dc1c]
+	undetected_chromedriver!(No symbol) [0x4517f4]
+	undetected_chromedriver!(No symbol) [0x47dde4]
+	undetected_chromedriver!(No symbol) [0x49b1f4]
+	undetected_chromedriver!(No symbol) [0x47d9b6]
+	undetected_chromedriver!(No symbol) [0x450339]
+	undetected_chromedriver!(No symbol) [0x4510f4]
+	undetected_chromedriver!GetHandleVerifier [0x89fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x89b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x8b9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x657188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x65f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0x645138+19578]
+	undetected_chromedriver!GetHandleVerifier [0x645302+19742]
+	undetected_chromedriver!GetHandleVerifier [0x62e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x748d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7744d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7744d7c1+231]
+
+[LAB] publish_btn_area JS click OK
+[LAB] confirm_btn click failed, trying JS click: Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x63c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x63c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x412100]
+	undetected_chromedriver!(No symbol) [0x45acba]
+	undetected_chromedriver!(No symbol) [0x45af5b]
+	undetected_chromedriver!(No symbol) [0x49d9c2]
+	undetected_chromedriver!(No symbol) [0x47dc64]
+	undetected_chromedriver!(No symbol) [0x49b1f4]
+	undetected_chromedriver!(No symbol) [0x47d9b6]
+	undetected_chromedriver!(No symbol) [0x450339]
+	undetected_chromedriver!(No symbol) [0x4510f4]
+	undetected_chromedriver!GetHandleVerifier [0x89fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x89b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x8b9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x657188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x65f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0x645138+19578]
+	undetected_chromedriver!GetHandleVerifier [0x645302+19742]
+	undetected_chromedriver!GetHandleVerifier [0x62e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x748d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7744d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7744d7c1+231]
+
+[LAB] confirm_btn JS click also failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":".confirm_btn__WEaBq"}
+  (Session info: chrome=147.0.7727.57)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x63c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x63c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x412100]
+	undetected_chromedriver!(No symbol) [0x45acba]
+	undetected_chromedriver!(No symbol) [0x45af5b]
+	undetected_chromedriver!(No symbol) [0x49d9c2]
+	undetected_chromedriver!(No symbol) [0x47dc64]
+	undetected_chromedriver!(No symbol) [0x49b1f4]
+	undetected_chromedriver!(No symbol) [0x47d9b6]
+	undetected_chromedriver!(No symbol) [0x450339]
+	undetected_chromedriver!(No symbol) [0x4510f4]
+	undetected_chromedriver!GetHandleVerifier [0x89fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x89b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x8b9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x657188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x65f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0x645138+19578]
+	undetected_chromedriver!GetHandleVerifier [0x645302+19742]
+	undetected_chromedriver!GetHandleVerifier [0x62e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x748d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7744d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7744d7c1+231]
+
+[PUBLISH ERROR] keyword=1, excel=1: 발행 버튼 클릭 실패
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #2 실패: 발행 버튼 클릭 실패
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[LOGIN] URL check: https://blog.naver.com/bugger2636 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPAAP9GYS4JRM3BJDZRKCZE1
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776315737727
+[MANUAL] prompt: 대전마케팅 토탈이 가능한 곳 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로 글자...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5171 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="26">대전마케팅 토탈이 가능한 곳을 찾으며 느낀 변화</p>
+<ol data-start="28" data-end="1645" data-is-last-node="" data-is-only-node="">
+<li data-section-id="73ak7s" data-start="28" data-end="243">
+<p data-start="31" data-end="243">지역 기반 선택의 중요성을 몸소 느낀 계기<br data-start="54" data-end="57">
+장사를 하다 보면 어느 순간부터<br data-start="74" data-end="77">
+혼자 감당하기 어려운 시점이 와요<br data-start="95" data-end="98">
+매출 흐름은 일정하지 않고<br data-start="112" data-end="115">
+홍보는 해야 하는데 방향이 막막했어요<br data-start="135" data-end="138">
+그래서 대전마케팅을 알아보던 중<br data-start="155" data-end="158">
+단순 광고가 아닌 토탈 관리가 가능한<br data-start="178" data-end="181">
+방식이 있다는 걸 알게 되었어요<br data-start="198" data-end="201">
+지역 상권을 제대로 이해하는 곳이<br data-start="219" data-end="222">
+왜 중요한지도 그때 처음 깨달았어요</p>
+</li>
+<li data-section-id="4la5g3" data-start="245" data-end="440">
+<p data-start="248" data-end="440">대표 직접 방문으로 시작된 신뢰감<br data-start="266" data-end="269">
+처음부터 인상 깊었던 부분은<br data-start="284" data-end="287">
+대표가 직접 방문해준다는 점이었어요<br data-start="306" data-end="309">
+대기업 출신이라는 이력보다도<br data-start="324" data-end="327">
+현장에서 바로 방향을 잡아주는<br data-start="343" data-end="346">
+그 과정 자체가 굉장히 현실적이었어요<br data-start="366" data-end="369">
+비대면이 아닌 직접 대면으로<br data-start="384" data-end="387">
+상권과 매장을 함께 살펴보면서<br data-start="403" data-end="406">
+맞춤 전략을 제안해주는 구조가<br data-start="422" data-end="425">
+확실히 다르게 느껴졌어요</p>
+</li>
+<li data-section-id="1phivwg" data-start="442" data-end="647">
+<p data-start="445" data-end="647">단건 광고의 한계를 넘는 통합 관리<br data-start="464" data-end="467">
+예전에는 하나씩 광고를 진행했는데<br data-start="485" data-end="488">
+성과가 왜 들쭉날쭉한지 몰랐어요<br data-start="505" data-end="508">
+대전마케팅을 토탈로 운영하면서<br data-start="524" data-end="527">
+전체 흐름을 연결해 관리하니까<br data-start="543" data-end="546">
+각 채널이 따로 노는 느낌이 사라졌어요<br data-start="567" data-end="570">
+단건으로는 보이지 않던 문제들이<br data-start="587" data-end="590">
+컨설팅 과정에서 바로 드러났고<br data-start="606" data-end="609">
+빠르게 수정이 가능하다는 점이<br data-start="625" data-end="628">
+생각보다 큰 차이를 만들더라고요</p>
+</li>
+<li data-section-id="16w9n0n" data-start="649" data-end="851">
+<p data-start="652" data-end="851">촬영부터 디자인까지 원스톱 진행<br data-start="669" data-end="672">
+광고를 진행하면서 가장 번거로운 건<br data-start="691" data-end="694">
+여러 업체를 따로 관리하는 일이었어요<br data-start="714" data-end="717">
+그런데 촬영부터 디자인까지<br data-start="731" data-end="734">
+한 번에 이어지는 구조라서<br data-start="748" data-end="751">
+시간과 에너지가 크게 줄어들었어요<br data-start="769" data-end="772">
+전문 인력이 체계적으로 나뉘어 있어<br data-start="791" data-end="794">
+각 분야 완성도도 높게 느껴졌고<br data-start="811" data-end="814">
+브랜드 이미지까지 함께 고민해주는<br data-start="832" data-end="835">
+부분이 특히 만족스러웠어요</p>
+</li>
+<li data-section-id="145h0d5" data-start="853" data-end="1045">
+<p data-start="856" data-end="1045">365일 소통 가능한 운영의 안정감<br data-start="875" data-end="878">
+운영하면서 가장 중요했던 건<br data-start="893" data-end="896">
+결국 소통이라는 걸 알게 되었어요<br data-start="914" data-end="917">
+평일과 주말 구분 없이<br data-start="929" data-end="932">
+피드백이 이어지는 구조라서<br data-start="946" data-end="949">
+변화가 생기면 바로 대응이 가능했어요<br data-start="969" data-en
+... (총 5171자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 지역 기반 선택의 중요성을 몸소 느낀 계기
+  텍스트: (168자) 장사를 하다 보면 어느 순간부터
+혼자 감당하기 어려운 시점이 와요
+매출 흐름은 일정하지 않고
+홍보는 해야 하는데 방향이 막막했어요
+그래서 대전마...
+[HTML PARSE] li[2]
+  인용구: 대표 직접 방문으로 시작된 신뢰감
+  텍스트: (153자) 처음부터 인상 깊었던 부분은
+대표가 직접 방문해준다는 점이었어요
+대기업 출신이라는 이력보다도
+현장에서 바로 방향을 잡아주는
+그 과정 자체가 굉장...
+[HTML PARSE] li[3]
+  인용구: 단건 광고의 한계를 넘는 통합 관리
+  텍스트: (162자) 예전에는 하나씩 광고를 진행했는데
+성과가 왜 들쭉날쭉한지 몰랐어요
+대전마케팅을 토탈로 운영하면서
+전체 흐름을 연결해 관리하니까
+각 채널이 따로 ...
+[HTML PARSE] li[4]
+  인용구: 촬영부터 디자인까지 원스톱 진행
+  텍스트: (161자) 광고를 진행하면서 가장 번거로운 건
+여러 업체를 따로 관리하는 일이었어요
+그런데 촬영부터 디자인까지
+한 번에 이어지는 구조라서
+시간과 에너지가 ...
+[HTML PARSE] li[5]
+  인용구: 365일 소통 가능한 운영의 안정감
+  텍스트: (149자) 운영하면서 가장 중요했던 건
+결국 소통이라는 걸 알게 되었어요
+평일과 주말 구분 없이
+피드백이 이어지는 구조라서
+변화가 생기면 바로 대응이 가능...
+[HTML PARSE] li[6]
+  인용구: 정부 지원사업까지 가능한 확장성
+  텍스트: (157자) 광고를 하다 보면 비용 부담이
+생각보다 크게 느껴질 때가 있어요
+그런데 마케팅지원사업까지
+연계가 가능하다는 점이 의외였어요
+일반적으로 접근하기 ...
+[HTML PARSE] li[7]
+  인용구: 동일 업종 단일 관리의 차별성
+  텍스트: (147자) 특히 마음에 들었던 부분은
+같은 업종을 동시에 맡지 않는다는 점이에요
+이 구조 덕분에 경쟁 구조 속에서도
+더 집중된 전략이 가능했고
+내 매장에 ...
+[HTML PARSE] li[8]
+  인용구: 입소문으로 이어지는 이유를 이해
+  텍스트: (168자) 처음에는 단순히 광고를 맡긴다는
+가벼운 생각으로 시작했는데
+지금은 전체 흐름을 함께 관리하는
+파트너에 가까운 느낌이에요
+예약제로 운영될 만큼 일...
+[CHATGPT] parsed: 1493 chars, 17 parts
+[MANUAL GEN] response length: 1493
+[PARSE] GPT 제목 감지: 대전마케팅 토탈이 가능한 곳을 찾으며 느낀 변화
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 지역 기반 선택의 중요성을 몸소 느낀 계기  body: 168자
+  [sec 1] heading: 2. 대표 직접 방문으로 시작된 신뢰감  body: 153자
+  [sec 2] heading: 3. 단건 광고의 한계를 넘는 통합 관리  body: 162자
+  [sec 3] heading: 4. 촬영부터 디자인까지 원스톱 진행  body: 161자
+  [sec 4] heading: 5. 365일 소통 가능한 운영의 안정감  body: 149자
+  [sec 5] heading: 6. 정부 지원사업까지 가능한 확장성  body: 157자
+  [sec 6] heading: 7. 동일 업종 단일 관리의 차별성  body: 147자
+  [sec 7] heading: 8. 입소문으로 이어지는 이유를 이해  body: 168자
+[TITLE] GPT 제목 사용: 대전마케팅 토탈이 가능한 곳을 찾으며 느낀 변화
+[PARSE] quotation 위치: [9, 15, 19]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (202자)
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → SEC[1] bold heading+body (182자)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → SEC[2].heading: 3. 단건 광고의 한계를 넘는 통합 관리
+           body → 1개 text 블록에 배정
+  [block 10] text → BODY[0] (162자) styles=[]
+  [block 11] image → SKIP
+  [block 12] text → SEC[3] bold heading+body (189자)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → SEC[4].heading: 5. 365일 소통 가능한 운영의 안정감
+           body → 1개 text 블록에 배정
+  [block 16] text → BODY[0] (149자) styles=[]
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[5].heading: 6. 정부 지원사업까지 가능한 확장성
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (157자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → SEC[6] bold heading+body (174자)
+  [block 24] image → SKIP
+  [block 25] text → SEC[7] bold heading+body (196자)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (202자) <b>1. 지역 기반 선택의 중요성을 몸소 느낀 계기</b>
+장사를 하다 보면 어느 순간부터
+혼자 감당하기 ...
+  [block 5] 텍스트: (182자) <b>2. 대표 직접 방문으로 시작된 신뢰감</b>
+처음부터 인상 깊었던 부분은
+대표가 직접 방문해준다는 점...
+  [block 9] 인용구: (22자) 3. 단건 광고의 한계를 넘는 통합 관리
+  [block 10] 텍스트: (162자) 예전에는 하나씩 광고를 진행했는데
+성과가 왜 들쭉날쭉한지 몰랐어요
+대전마케팅을 토탈로 운영하면서
+전체 흐름을...
+  [block 12] 텍스트: (189자) <b>4. 촬영부터 디자인까지 원스톱 진행</b>
+광고를 진행하면서 가장 번거로운 건
+여러 업체를 따로 관리...
+  [block 15] 인용구: (22자) 5. 365일 소통 가능한 운영의 안정감
+  [block 16] 텍스트: (149자) 운영하면서 가장 중요했던 건
+결국 소통이라는 걸 알게 되었어요
+평일과 주말 구분 없이
+피드백이 이어지는 구조...
+  [block 19] 인용구: (20자) 6. 정부 지원사업까지 가능한 확장성
+  [block 20] 텍스트: (157자) 광고를 하다 보면 비용 부담이
+생각보다 크게 느껴질 때가 있어요
+그런데 마케팅지원사업까지
+연계가 가능하다는 ...
+  [block 23] 텍스트: (174자) <b>7. 동일 업종 단일 관리의 차별성</b>
+특히 마음에 들었던 부분은
+같은 업종을 동시에 맡지 않는다는...
+  [block 25] 텍스트: (196자) <b>8. 입소문으로 이어지는 이유를 이해</b>
+처음에는 단순히 광고를 맡긴다는
+가벼운 생각으로 시작했는데...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 유사] 20260412_152259(1).jpg 유사도 99.8% → 제외
+[IMG 다양성] 폴더 1103장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260316_090519.jpg
+[IMG] 2/15: 20260316_084818.jpg
+[IMG] 3/15: 20260412_152612.jpg
+[IMG] 4/15: 20260331_100129(0).jpg
+[IMG] 5/15: 20260412_153554.jpg
+[IMG] 6/15: 20260302_105416(1).jpg
+[IMG] 7/15: 20260412_152538(1).jpg
+[IMG] 8/15: 20260412_154144.jpg
+[IMG] 9/15: 20260412_154649.jpg
+[IMG] 10/15: 20260302_104247(2).jpg
+[IMG] 11/15: 20260412_153537.jpg
+[IMG] 12/15: 20260412_154411(0).jpg
+[IMG] 13/15: 20260217_164928.jpg
+[IMG] 14/15: 20260412_153033.jpg
+[IMG] 15/15: 20260331_091824(0).jpg
+[IMG] 15장 삭제
+[VIDEO] 동영상 경로 없음 → video 블록 SKIP
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=2, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[RANDOM BG] #FFF3CD 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #FDEBD0 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #CCE5FF 적용: 7/10줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 6/9줄 (확률80%, 비율70%)
+[RANDOM BG] #F8D7DA 적용: 7/11줄 (확률80%, 비율70%)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 29 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[LAB] AutoSaveWrite result: 
+{"isSuccess":true,"result":{"autoSaveNo":1776315737727}}
+[LAB] 임시저장 글 복원 완료
+[LAB] 총 0개 요소 클릭
+[LAB] publish_btn_area click failed, trying JS click: Message: element click intercepted: Element <div class="publish_btn_area__KjA2i">...</div> is not clickable at point (1821, 15). Other element would receive the click: <div class="se-popup-dim se-popup-dim-white"></div>
+  (Session info: chrome=147.0.7727.57)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x63c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x63c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x412100]
+	undetected_chromedriver!(No symbol) [0x4613a8]
+	undetected_chromedriver!(No symbol) [0x45f5b9]
+	undetected_chromedriver!(No symbol) [0x45cf72]
+	undetected_chromedriver!(No symbol) [0x45c184]
+	undetected_chromedriver!(No symbol) [0x451db8]
+	undetected_chromedriver!(No symbol) [0x47dc1c]
+	undetected_chromedriver!(No symbol) [0x4517f4]
+	undetected_chromedriver!(No symbol) [0x47dde4]
+	undetected_chromedriver!(No symbol) [0x49b1f4]
+	undetected_chromedriver!(No symbol) [0x47d9b6]
+	undetected_chromedriver!(No symbol) [0x450339]
+	undetected_chromedriver!(No symbol) [0x4510f4]
+	undetected_chromedriver!GetHandleVerifier [0x89fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x89b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x8b9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x657188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x65f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0x645138+19578]
+	undetected_chromedriver!GetHandleVerifier [0x645302+19742]
+	undetected_chromedriver!GetHandleVerifier [0x62e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x748d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7744d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7744d7c1+231]
+
+[LAB] publish_btn_area JS click OK
+[LAB] confirm_btn click failed, trying JS click: Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x63c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x63c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x412100]
+	undetected_chromedriver!(No symbol) [0x45acba]
+	undetected_chromedriver!(No symbol) [0x45af5b]
+	undetected_chromedriver!(No symbol) [0x49d9c2]
+	undetected_chromedriver!(No symbol) [0x47dc64]
+	undetected_chromedriver!(No symbol) [0x49b1f4]
+	undetected_chromedriver!(No symbol) [0x47d9b6]
+	undetected_chromedriver!(No symbol) [0x450339]
+	undetected_chromedriver!(No symbol) [0x4510f4]
+	undetected_chromedriver!GetHandleVerifier [0x89fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x89b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x8b9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x657188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x65f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0x645138+19578]
+	undetected_chromedriver!GetHandleVerifier [0x645302+19742]
+	undetected_chromedriver!GetHandleVerifier [0x62e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x748d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7744d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7744d7c1+231]
+
+[LAB] confirm_btn JS click also failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":".confirm_btn__WEaBq"}
+  (Session info: chrome=147.0.7727.57)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x63c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x63c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x412100]
+	undetected_chromedriver!(No symbol) [0x45acba]
+	undetected_chromedriver!(No symbol) [0x45af5b]
+	undetected_chromedriver!(No symbol) [0x49d9c2]
+	undetected_chromedriver!(No symbol) [0x47dc64]
+	undetected_chromedriver!(No symbol) [0x49b1f4]
+	undetected_chromedriver!(No symbol) [0x47d9b6]
+	undetected_chromedriver!(No symbol) [0x450339]
+	undetected_chromedriver!(No symbol) [0x4510f4]
+	undetected_chromedriver!GetHandleVerifier [0x89fe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x89b459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x8b9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x657188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x65f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0x645138+19578]
+	undetected_chromedriver!GetHandleVerifier [0x645302+19742]
+	undetected_chromedriver!GetHandleVerifier [0x62e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x748d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7744d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7744d7c1+231]
+
+[PUBLISH ERROR] keyword=2, excel=2: 발행 버튼 클릭 실패
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #3 실패: 발행 버튼 클릭 실패
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] 로그인 페이지 유지 → 캡차 체크
+[LOGIN] 현재 URL: https://nid.naver.com/nidlogin.login
+[캡차] 페이지에 captcha 포함: True
+[캡차] 이미지 요소 못찾음 → 전체 img 태그 확인
+[캡차] 탐지결과: detected=False
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[PUBLISH ERROR] keyword=3, excel=3: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #4 실패: Expecting value: line 3 column
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] 로그인 페이지 유지 → 캡차 체크
+[LOGIN] 현재 URL: https://nid.naver.com/nidlogin.login
+[캡차] 페이지에 captcha 포함: True
+[캡차] 이미지 요소 못찾음 → 전체 img 태그 확인
+[캡차] 탐지결과: detected=False
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[PUBLISH ERROR] keyword=4, excel=4: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #5 실패: Expecting value: line 3 column
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '6', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[STOP] keyword_counter=4 → 다음 시작=6번째
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60ss', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '고정이미지', '고정이미지url', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60s', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'lab', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 9, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 90, 'random_bg_line': 70}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 90, 'random_bg_line': 8}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 90, 'random_bg_line': 80}
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 90, 'random_bg_line': 80}
+[SERVER] changed to: https://vmwareflask.autoprogram.life/
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwanggoyijeongdab
+[MANUAL] current URL: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwanggoyijeongdab
+[MANUAL] focused tab: https://chatgpt.com/g/g-6805d71606948191963bf7be7bc1209c-gwa
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '지도', '고정이미지', '고정이미지url', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '추가문구(본문).1']
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[LOGIN] URL check: https://blog.naver.com/bugger2636 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPAE4RFBY24VNCCTKZYRHSZF
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776319357512
+[MANUAL] prompt: 대전블로그광고 초고속 신규유입 전략 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5410 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="37">대전블로그광고 초고속 신규유입 전략<br data-start="19" data-end="22">
+현장에서 체감한 변화의 시작</p>
+<ol data-start="39" data-end="1707" data-is-only-node="" data-is-last-node="">
+<li data-section-id="nhf1x4" data-start="39" data-end="246">
+<p data-start="42" data-end="246">시작부터 달랐던 첫 만남<br data-start="55" data-end="58">
+가게 운영을 하다 보면 매출 흐름이<br data-start="77" data-end="80">
+예측과 다르게 흔들릴 때가 있어요<br data-start="98" data-end="101">
+저 역시 비슷한 고민을 오래 안고<br data-start="119" data-end="122">
+여러 광고 방식을 시도해봤지만<br data-start="138" data-end="141">
+단편적인 운영으로는 한계가 분명했어요<br data-start="161" data-end="164">
+그러다 대전블로그광고 방향으로<br data-start="180" data-end="183">
+전환을 고민하게 된 계기가 생겼고<br data-start="201" data-end="204">
+처음부터 체계적인 접근이 필요하다는<br data-start="223" data-end="226">
+생각이 자연스럽게 들기 시작했어요</p>
+</li>
+<li data-section-id="1i0hgsx" data-start="248" data-end="467">
+<p data-start="251" data-end="467">대표가 직접 진행하는 신뢰 구조<br data-start="268" data-end="271">
+무엇보다 인상 깊었던 건<br data-start="284" data-end="287">
+중간 전달 과정 없이 대표가 직접<br data-start="305" data-end="308">
+현장을 확인하고 방향을 잡아준다는 점이었어요<br data-start="332" data-end="335">
+대기업 경험 기반의 시각으로<br data-start="350" data-end="353">
+상권과 고객 흐름을 짚어주니<br data-start="368" data-end="371">
+막연했던 부분이 정리되는 느낌이었어요<br data-start="391" data-end="394">
+형식적인 제안이 아니라<br data-start="406" data-end="409">
+실제 매장 상황에 맞는 구조를<br data-start="425" data-end="428">
+현장에서 바로 잡아주는 방식이라<br data-start="445" data-end="448">
+신뢰가 빠르게 쌓일 수 있었어요</p>
+</li>
+<li data-section-id="76scrf" data-start="469" data-end="684">
+<p data-start="472" data-end="684">단건 광고의 한계를 넘는 방식<br data-start="488" data-end="491">
+기존에는 하나의 채널만 집중하다 보니<br data-start="511" data-end="514">
+유입은 있어도 이어지지 않는 경우가 많았어요<br data-start="538" data-end="541">
+하지만 대전블로그광고를 중심으로<br data-start="558" data-end="561">
+여러 채널을 동시에 연결해 운영하니<br data-start="580" data-end="583">
+흐름 자체가 달라지는 걸 느꼈어요<br data-start="601" data-end="604">
+단건이 아닌 통합 관리 방식이<br data-start="620" data-end="623">
+왜 중요한지 직접 경험하게 되었고<br data-start="641" data-end="644">
+문제가 생겨도 빠르게 수정이 가능해<br data-start="663" data-end="666">
+속도감 있는 운영이 가능했어요</p>
+</li>
+<li data-section-id="19xnmnz" data-start="686" data-end="877">
+<p data-start="689" data-end="877">지역 기반 분석의 힘<br data-start="700" data-end="703">
+같은 업종이라도 지역마다<br data-start="716" data-end="719">
+고객 반응은 완전히 다르다고 느꼈어요<br data-start="739" data-end="742">
+이 부분을 단순 데이터가 아니라<br data-start="759" data-end="762">
+현장 기반으로 분석해준다는 점이<br data-start="779" data-end="782">
+굉장히 현실적으로 다가왔어요<br data-start="797" data-end="800">
+대전블로그광고 전략도<br data-start="811" data-end="814">
+지역 상권 흐름에 맞춰 구성되다 보니<br data-start="834" data-end="837">
+불필요한 시행착오가 줄어들었고<br data-start="853" data-end="856">
+효율적으로 방향을 잡을 수 있었어요</p>
+</li>
+<li data-section-id="frrp2k" data-start="879" data-end="1098">
+<p data-start="882" data-end="1098">원스톱 운영이 주는 안정감<br data-start="896" data-end="899">
+촬영부터 디자인 그리고 콘텐츠까지<br data-start="917" data-end="920">
+하나의 흐름으로 이어지는 구조라<br data-start="937" data-end="940">
+따로 신경 쓸 부분이 거의 없었어요<br data-start="959" data-end="962">
+각 파
+... (총 5410자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 시작부터 달랐던 첫 만남
+  텍스트: (170자) 가게 운영을 하다 보면 매출 흐름이
+예측과 다르게 흔들릴 때가 있어요
+저 역시 비슷한 고민을 오래 안고
+여러 광고 방식을 시도해봤지만
+단편적인 ...
+[HTML PARSE] li[2]
+  인용구: 대표가 직접 진행하는 신뢰 구조
+  텍스트: (176자) 무엇보다 인상 깊었던 건
+중간 전달 과정 없이 대표가 직접
+현장을 확인하고 방향을 잡아준다는 점이었어요
+대기업 경험 기반의 시각으로
+상권과 고객...
+[HTML PARSE] li[3]
+  인용구: 단건 광고의 한계를 넘는 방식
+  텍스트: (175자) 기존에는 하나의 채널만 집중하다 보니
+유입은 있어도 이어지지 않는 경우가 많았어요
+하지만 대전블로그광고를 중심으로
+여러 채널을 동시에 연결해 운...
+[HTML PARSE] li[4]
+  인용구: 지역 기반 분석의 힘
+  텍스트: (156자) 같은 업종이라도 지역마다
+고객 반응은 완전히 다르다고 느꼈어요
+이 부분을 단순 데이터가 아니라
+현장 기반으로 분석해준다는 점이
+굉장히 현실적으로...
+[HTML PARSE] li[5]
+  인용구: 원스톱 운영이 주는 안정감
+  텍스트: (179자) 촬영부터 디자인 그리고 콘텐츠까지
+하나의 흐름으로 이어지는 구조라
+따로 신경 쓸 부분이 거의 없었어요
+각 파트가 따로 움직이는 게 아니라
+하나의...
+[HTML PARSE] li[6]
+  인용구: 365일 이어지는 소통의 차이
+  텍스트: (134자) 운영하면서 가장 크게 체감된 건
+소통 속도의 차이였어요
+평일과 주말 구분 없이
+바로 피드백이 이어지니
+결정이 늦어지는 일이 없었어요
+대전블로그광...
+[HTML PARSE] li[7]
+  인용구: 입소문이 만들어낸 이유
+  텍스트: (169자) 처음에는 왜 이렇게 예약이
+빠르게 차는지 궁금했어요
+직접 경험해보니 이유가 명확했어요
+형식적인 운영이 아니라
+각 매장을 하나의 브랜드처럼
+집중 ...
+[HTML PARSE] li[8]
+  인용구: 매출 흐름이 바뀐 결정적 순간
+  텍스트: (180자) 가장 크게 느낀 변화는
+유입 이후의 전환 흐름이었어요
+단순히 방문자가 늘어나는 게 아니라
+실제 매출로 이어지는 비율이 달라졌어요
+대전블로그광고를...
+[CHATGPT] parsed: 1544 chars, 17 parts
+[MANUAL GEN] response length: 1544
+[PARSE] GPT 제목 감지: 대전블로그광고 초고속 신규유입 전략현장에서 체감한 변화의 시작
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 시작부터 달랐던 첫 만남  body: 170자
+  [sec 1] heading: 2. 대표가 직접 진행하는 신뢰 구조  body: 176자
+  [sec 2] heading: 3. 단건 광고의 한계를 넘는 방식  body: 175자
+  [sec 3] heading: 4. 지역 기반 분석의 힘  body: 156자
+  [sec 4] heading: 5. 원스톱 운영이 주는 안정감  body: 179자
+  [sec 5] heading: 6. 365일 이어지는 소통의 차이  body: 134자
+  [sec 6] heading: 7. 입소문이 만들어낸 이유  body: 169자
+  [sec 7] heading: 8. 매출 흐름이 바뀐 결정적 순간  body: 180자
+[TITLE] GPT 제목 사용: 대전블로그광고 초고속 신규유입 전략현장에서 체감한 변화의 시작
+[PARSE] quotation 위치: [9, 15, 19]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (194자)
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → SEC[1] bold heading+body (204자)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → SEC[2].heading: 3. 단건 광고의 한계를 넘는 방식
+           body → 1개 text 블록에 배정
+  [block 10] text → BODY[0] (175자) styles=[]
+  [block 11] image → SKIP
+  [block 12] text → SEC[3] bold heading+body (178자)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → SEC[4].heading: 5. 원스톱 운영이 주는 안정감
+           body → 1개 text 블록에 배정
+  [block 16] text → BODY[0] (179자) styles=[]
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[5].heading: 6. 365일 이어지는 소통의 차이
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (134자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → SEC[6] bold heading+body (192자)
+  [block 24] image → SKIP
+  [block 25] text → SEC[7] bold heading+body (207자)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (194자) <b>1. 시작부터 달랐던 첫 만남</b>
+가게 운영을 하다 보면 매출 흐름이
+예측과 다르게 흔들릴 때가 있...
+  [block 5] 텍스트: (204자) <b>2. 대표가 직접 진행하는 신뢰 구조</b>
+무엇보다 인상 깊었던 건
+중간 전달 과정 없이 대표가 직접...
+  [block 9] 인용구: (19자) 3. 단건 광고의 한계를 넘는 방식
+  [block 10] 텍스트: (175자) 기존에는 하나의 채널만 집중하다 보니
+유입은 있어도 이어지지 않는 경우가 많았어요
+하지만 대전블로그광고를 중...
+  [block 12] 텍스트: (178자) <b>4. 지역 기반 분석의 힘</b>
+같은 업종이라도 지역마다
+고객 반응은 완전히 다르다고 느꼈어요
+이 부...
+  [block 15] 인용구: (17자) 5. 원스톱 운영이 주는 안정감
+  [block 16] 텍스트: (179자) 촬영부터 디자인 그리고 콘텐츠까지
+하나의 흐름으로 이어지는 구조라
+따로 신경 쓸 부분이 거의 없었어요
+각 파...
+  [block 19] 인용구: (19자) 6. 365일 이어지는 소통의 차이
+  [block 20] 텍스트: (134자) 운영하면서 가장 크게 체감된 건
+소통 속도의 차이였어요
+평일과 주말 구분 없이
+바로 피드백이 이어지니
+결정이...
+  [block 23] 텍스트: (192자) <b>7. 입소문이 만들어낸 이유</b>
+처음에는 왜 이렇게 예약이
+빠르게 차는지 궁금했어요
+직접 경험해보니...
+  [block 25] 텍스트: (207자) <b>8. 매출 흐름이 바뀐 결정적 순간</b>
+가장 크게 느낀 변화는
+유입 이후의 전환 흐름이었어요
+단순히...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 유사] 20260217_165000(0).jpg 유사도 99.5% → 제외
+[IMG 다양성] 폴더 1088장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260302_104316.jpg
+[IMG] 2/15: 20260412_152345.jpg
+[IMG] 3/15: 20260217_161003(1).jpg
+[IMG] 4/15: 20260405_152602.jpg
+[IMG] 5/15: 20260302_110301(0).jpg
+[IMG] 6/15: 20260331_093402.jpg
+[IMG] 7/15: 20260331_100152.jpg
+[IMG] 8/15: 20260331_095550.jpg
+[IMG] 9/15: 20260331_092320.jpg
+[IMG] 10/15: 20260217_161640(0).jpg
+[IMG] 11/15: 20260331_095946.jpg
+[IMG] 12/15: 20260331_091934.jpg
+[IMG] 13/15: 20260405_152210.jpg
+[IMG] 14/15: 20260217_161341.jpg
+[IMG] 15/15: 20260331_094129.jpg
+[IMG] 15장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=0E8E05F926B945CB3A7E...
+[VIDEO] 파일: 광고의정답.mp4 (2.5MB)
+[VIDEO] 2/6 세션 생성: key=43724d39-395a-11f1-8...
+[VIDEO] 3/6 청크 업로드 시작 (1개)
+[VIDEO]   청크 1/1: 200 (2656641 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [VideoHeader:done, Ingest:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_04_1...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 광고의정답.mp4, vid=0E8E05F926B945CB3A7E...
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=0, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[RANDOM BG] #FDEBD0 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #CCE5FF 적용: 8/11줄 (확률90%, 비율80%)
+[RANDOM BG] #D4EDDA 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #CCE5FF 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #FDEBD0 적용: 8/11줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 9/12줄 (확률90%, 비율80%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 30 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=bugger2636&Redirect=View&logNo=224254512782&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLev
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #1 성공
+[SAVE OPTIONS] {'interval': '22', 'rest_time': '7', 'delay': '60', 'publish_mode': 'public', 'title_transform': True, 'fixed_image': False, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server2', 'gen_mode': 'manual', 'start_row': '2', 'img_after_use': 'delete', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 90, 'random_bg_line': 80}
+[STOP] keyword_counter=0 → 다음 시작=2번째
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[LOGIN] URL check: https://blog.naver.com/bugger2636 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPAEK952N85ZDAXS3MEPCT6E
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776319833343
+[MANUAL] prompt: 대전광고 새로운 매출타파 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로 글자수 ...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 4859 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="31">대전광고 새로운 매출타파 변화의 시작을 경험한 이야기</p>
+<ol data-start="33" data-end="1613" data-is-only-node="" data-is-last-node="">
+<li data-section-id="1ejs8g" data-start="33" data-end="227">
+<p data-start="36" data-end="227">막막했던 매출 흐름의 전환점<br data-start="51" data-end="54">
+가게를 운영하면서 가장 크게 느꼈던 건<br data-start="75" data-end="78">
+시간이 갈수록 줄어드는 유입이었어요<br data-start="97" data-end="100">
+노력은 그대로인데 결과는 달랐고<br data-start="117" data-end="120">
+무엇을 바꿔야 할지 감이 잡히지 않았어요<br data-start="142" data-end="145">
+대전광고를 알아보게 된 것도<br data-start="160" data-end="163">
+그런 답답함 속에서 시작된 선택이었어요<br data-start="184" data-end="187">
+단순한 홍보가 아니라 구조를 바꿔야<br data-start="206" data-end="209">
+한다는 생각이 점점 강해졌어요</p>
+</li>
+<li data-section-id="1diualc" data-start="229" data-end="438">
+<p data-start="232" data-end="438">단건 광고의 한계를 체감하다<br data-start="247" data-end="250">
+그동안 여러 방식의 광고를 시도했지만<br data-start="270" data-end="273">
+각각 따로 움직이다 보니 방향성이 없었어요<br data-start="296" data-end="299">
+보이는 수치만 잠깐 오를 뿐<br data-start="314" data-end="317">
+지속되는 흐름으로 이어지지 않았어요<br data-start="336" data-end="339">
+대전광고를 진행하며 느낀 건<br data-start="354" data-end="357">
+단건 중심 방식은 결국 한계가 있다는 점이었어요<br data-start="383" data-end="386">
+전체를 함께 관리하는 방식이 아니라면<br data-start="406" data-end="409">
+매출 흐름 자체를 바꾸기 어렵다는 걸 알게 됐어요</p>
+</li>
+<li data-section-id="1ow8lb9" data-start="440" data-end="651">
+<p data-start="443" data-end="651">대표 직접 방문이 만든 신뢰<br data-start="458" data-end="461">
+처음 미팅 과정이 인상 깊게 남아 있어요<br data-start="483" data-end="486">
+영업 중심이 아니라 대표가 직접 와서<br data-start="506" data-end="509">
+현장을 하나씩 살펴보는 방식이었어요<br data-start="528" data-end="531">
+단순히 광고를 권하는 느낌이 아니라<br data-start="550" data-end="553">
+매장의 구조와 흐름을 분석하는 느낌이었어요<br data-start="576" data-end="579">
+대기업 출신이라는 배경도 있었지만<br data-start="597" data-end="600">
+그보다 중요한 건 현실적인 방향 제시였어요<br data-start="623" data-end="626">
+그 자리에서 이미 신뢰가 생겼던 것 같아요</p>
+</li>
+<li data-section-id="pyj540" data-start="653" data-end="854">
+<p data-start="656" data-end="854">지역 기반 분석의 차별성<br data-start="669" data-end="672">
+대전광고를 진행하면서 느낀 차이는<br data-start="690" data-end="693">
+지역 상권을 정확히 이해하고 있다는 점이었어요<br data-start="718" data-end="721">
+같은 업종이라도 위치에 따라 전략이 달라졌고<br data-start="745" data-end="748">
+그 부분을 세밀하게 반영해줬어요<br data-start="765" data-end="768">
+타지역 중심으로 운영되는 곳과 달리<br data-start="787" data-end="790">
+현장 중심으로 판단이 이루어졌어요<br data-start="808" data-end="811">
+그래서 불필요한 방향 낭비가 줄었고<br data-start="830" data-end="833">
+바로 적용 가능한 전략이 이어졌어요</p>
+</li>
+<li data-section-id="pe1b1h" data-start="856" data-end="1048">
+<p data-start="859" data-end="1048">통합 운영이 만든 변화 속도<br data-start="874" data-end="877">
+여러 채널을 따로 관리하던 시기와 달리<br data-start="898" data-end="901">
+한 번에 전체 흐름을 조정해주는 구조였어요<br data-start="924" data-end="927">
+촬영부터 디자인 그리고 운영까지<br data-start="944" data-end="947">
+하나로 이어지는 방식이었어요<br data-start="962" data-end="965">
+이렇게 연결되니 수정 속도도 빨랐고<br data-start="984" data-end="987">
+문제가 생기면 바로 반영이 되었어요<br data-start="1006" data-end="1009">
+대전광고의 핵심은 결국<br data-start="1021" data-end="1024">
+이 통합 
+... (총 4859자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 막막했던 매출 흐름의 전환점
+  텍스트: (157자) 가게를 운영하면서 가장 크게 느꼈던 건
+시간이 갈수록 줄어드는 유입이었어요
+노력은 그대로인데 결과는 달랐고
+무엇을 바꿔야 할지 감이 잡히지 않았...
+[HTML PARSE] li[2]
+  인용구: 단건 광고의 한계를 체감하다
+  텍스트: (172자) 그동안 여러 방식의 광고를 시도했지만
+각각 따로 움직이다 보니 방향성이 없었어요
+보이는 수치만 잠깐 오를 뿐
+지속되는 흐름으로 이어지지 않았어요...
+[HTML PARSE] li[3]
+  인용구: 대표 직접 방문이 만든 신뢰
+  텍스트: (174자) 처음 미팅 과정이 인상 깊게 남아 있어요
+영업 중심이 아니라 대표가 직접 와서
+현장을 하나씩 살펴보는 방식이었어요
+단순히 광고를 권하는 느낌이 ...
+[HTML PARSE] li[4]
+  인용구: 지역 기반 분석의 차별성
+  텍스트: (166자) 대전광고를 진행하면서 느낀 차이는
+지역 상권을 정확히 이해하고 있다는 점이었어요
+같은 업종이라도 위치에 따라 전략이 달라졌고
+그 부분을 세밀하게...
+[HTML PARSE] li[5]
+  인용구: 통합 운영이 만든 변화 속도
+  텍스트: (155자) 여러 채널을 따로 관리하던 시기와 달리
+한 번에 전체 흐름을 조정해주는 구조였어요
+촬영부터 디자인 그리고 운영까지
+하나로 이어지는 방식이었어요
+...
+[HTML PARSE] li[6]
+  인용구: 소통 방식에서 느낀 차이
+  텍스트: (154자) 운영하면서 가장 만족스러웠던 부분은
+소통이 끊기지 않는다는 점이었어요
+평일과 주말 구분 없이 이어졌고
+피드백이 늦어지는 일이 없었어요
+마치 내부...
+[HTML PARSE] li[7]
+  인용구: 업종 단일 관리의 안정감
+  텍스트: (138자) 같은 업종을 여러 곳 동시에 맡지 않는다는 점도
+굉장히 신선하게 느껴졌어요
+경쟁 구조가 아닌 집중 구조로
+관리해주는 방식이었어요
+그래서 방향이 ...
+[HTML PARSE] li[8]
+  인용구: 매출 상승보다 중요한 변화
+  텍스트: (161자) 결과적으로 매출은 자연스럽게 따라왔어요
+하지만 더 크게 느껴진 건
+운영에 대한 기준이 바뀌었다는 점이에요
+단순한 광고가 아니라
+전체 흐름을 설계...
+[CHATGPT] parsed: 1475 chars, 17 parts
+[MANUAL GEN] response length: 1475
+[PARSE] GPT 제목 감지: 대전광고 새로운 매출타파 변화의 시작을 경험한 이야기
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 막막했던 매출 흐름의 전환점  body: 157자
+  [sec 1] heading: 2. 단건 광고의 한계를 체감하다  body: 172자
+  [sec 2] heading: 3. 대표 직접 방문이 만든 신뢰  body: 174자
+  [sec 3] heading: 4. 지역 기반 분석의 차별성  body: 166자
+  [sec 4] heading: 5. 통합 운영이 만든 변화 속도  body: 155자
+  [sec 5] heading: 6. 소통 방식에서 느낀 차이  body: 154자
+  [sec 6] heading: 7. 업종 단일 관리의 안정감  body: 138자
+  [sec 7] heading: 8. 매출 상승보다 중요한 변화  body: 161자
+[TITLE] GPT 제목 사용: 대전광고 새로운 매출타파 변화의 시작을 경험한 이야기
+[PARSE] quotation 위치: [9, 15, 19]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (183자)
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → SEC[1] bold heading+body (198자)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → SEC[2].heading: 3. 대표 직접 방문이 만든 신뢰
+           body → 1개 text 블록에 배정
+  [block 10] text → BODY[0] (174자) styles=[]
+  [block 11] image → SKIP
+  [block 12] text → SEC[3] bold heading+body (190자)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → SEC[4].heading: 5. 통합 운영이 만든 변화 속도
+           body → 1개 text 블록에 배정
+  [block 16] text → BODY[0] (155자) styles=[]
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[5].heading: 6. 소통 방식에서 느낀 차이
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (154자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → SEC[6] bold heading+body (162자)
+  [block 24] image → SKIP
+  [block 25] text → SEC[7] bold heading+body (186자)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (183자) <b>1. 막막했던 매출 흐름의 전환점</b>
+가게를 운영하면서 가장 크게 느꼈던 건
+시간이 갈수록 줄어드는...
+  [block 5] 텍스트: (198자) <b>2. 단건 광고의 한계를 체감하다</b>
+그동안 여러 방식의 광고를 시도했지만
+각각 따로 움직이다 보니...
+  [block 9] 인용구: (18자) 3. 대표 직접 방문이 만든 신뢰
+  [block 10] 텍스트: (174자) 처음 미팅 과정이 인상 깊게 남아 있어요
+영업 중심이 아니라 대표가 직접 와서
+현장을 하나씩 살펴보는 방식이...
+  [block 12] 텍스트: (190자) <b>4. 지역 기반 분석의 차별성</b>
+대전광고를 진행하면서 느낀 차이는
+지역 상권을 정확히 이해하고 있...
+  [block 15] 인용구: (18자) 5. 통합 운영이 만든 변화 속도
+  [block 16] 텍스트: (155자) 여러 채널을 따로 관리하던 시기와 달리
+한 번에 전체 흐름을 조정해주는 구조였어요
+촬영부터 디자인 그리고 운...
+  [block 19] 인용구: (16자) 6. 소통 방식에서 느낀 차이
+  [block 20] 텍스트: (154자) 운영하면서 가장 만족스러웠던 부분은
+소통이 끊기지 않는다는 점이었어요
+평일과 주말 구분 없이 이어졌고
+피드백...
+  [block 23] 텍스트: (162자) <b>7. 업종 단일 관리의 안정감</b>
+같은 업종을 여러 곳 동시에 맡지 않는다는 점도
+굉장히 신선하게 ...
+  [block 25] 텍스트: (186자) <b>8. 매출 상승보다 중요한 변화</b>
+결과적으로 매출은 자연스럽게 따라왔어요
+하지만 더 크게 느껴진 ...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 다양성] 폴더 1073장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260331_092050(0).jpg
+[IMG] 2/15: 20260331_093043.jpg
+[IMG] 3/15: 20260412_154441.jpg
+[IMG] 4/15: 20260331_093601.jpg
+[IMG] 5/15: 20260412_152542.jpg
+[IMG] 6/15: 20260412_153435.jpg
+[IMG] 7/15: 20260405_151613(0).jpg
+[IMG] 8/15: 20260405_152451.jpg
+[IMG] 9/15: 20260412_154250.jpg
+[IMG] 10/15: 20260217_165256.jpg
+[IMG] 11/15: 20260405_151854(0).jpg
+[IMG] 12/15: 20260405_151555.jpg
+[IMG] 13/15: 20260331_093248.jpg
+[IMG] 14/15: 20260217_165736.jpg
+[IMG] 15/15: 20260331_094017.jpg
+[IMG] 15장 삭제
+[VIDEO] 1/6 토큰 획득: videoId=9D9AE37EB3AEF238B10B...
+[VIDEO] 파일: 광고의정답.mp4 (2.5MB)
+[VIDEO] 2/6 세션 생성: key=5f351ec2-395b-11f1-a...
+[VIDEO] 3/6 청크 업로드 시작 (1개)
+[VIDEO]   청크 1/1: 200 (2656641 bytes)
+[VIDEO] 3/6 청크 업로드 완료
+[VIDEO] 4/6 인코딩 대기 (Ingest+VideoHeader)...
+[VIDEO]   poll: [Ingest:done, VideoHeader:done]
+[VIDEO] 4/6 인코딩 완료: 1920x1080
+[VIDEO] 5/6 썸네일 대기...
+[VIDEO] 5/6 썸네일 완료: https://phinf.pstatic.net/image.nmv/blog_2026_04_1...
+[VIDEO] 6/6 컴포넌트 생성 중...
+[VIDEO] uploaded: 광고의정답.mp4, vid=9D9AE37EB3AEF238B10B...
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=0, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[RANDOM BG] #F8D7DA 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #F8D7DA 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 6/8줄 (확률90%, 비율80%)
+[RANDOM BG] #FFF3CD 적용: 6/8줄 (확률90%, 비율80%)
+[RANDOM BG] #CCE5FF 적용: 6/8줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 8/10줄 (확률90%, 비율80%)
+[COMPONENT] video 삽입
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 30 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=bugger2636&Redirect=View&logNo=224254523443&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLev
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #1 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[LOGIN] URL check: https://blog.naver.com/bugger2636 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPAG21XGTSE81RZVSN6FBSQE
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776321366054
+[MANUAL] prompt: 대전마케팅 토탈이 가능한 곳 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로 글자...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5389 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="34">대전마케팅 토탈이 가능한 곳<br data-start="15" data-end="18">
+현장에서 느낀 변화의 시작</p>
+<ol data-start="36" data-end="1855" data-is-only-node="" data-is-last-node="">
+<li data-section-id="kelxj7" data-start="36" data-end="274">
+<p data-start="39" data-end="274">대전마케팅 선택의 기준이 달라진 순간<br data-start="59" data-end="62">
+가게를 운영하면서 가장 고민됐던 건<br data-start="81" data-end="84">
+어디에 맡겨야 하는지에 대한 부분이었어요<br data-start="106" data-end="109">
+단순 광고 몇 개로는 체감이 부족했고<br data-start="129" data-end="132">
+결과가 이어지지 않는 답답함이 컸어요<br data-start="152" data-end="155">
+그래서 대전마케팅을 다시 찾게 되었고<br data-start="175" data-end="178">
+이번에는 토탈로 운영되는 곳을 기준으로<br data-start="199" data-end="202">
+더 깊이 비교하게 되었던 기억이 있어요<br data-start="223" data-end="226">
+결국 방향이 달라야 결과도 달라진다는 걸<br data-start="248" data-end="251">
+직접 경험하면서 선택 기준이 바뀌었어요</p>
+</li>
+<li data-section-id="tepe4r" data-start="276" data-end="515">
+<p data-start="279" data-end="515">단건 광고의 한계를 체감했던 경험<br data-start="297" data-end="300">
+그동안은 하나씩 따로 진행하는 방식이었어요<br data-start="323" data-end="326">
+채널별로 따로 관리하다 보니 흐름이 끊겼고<br data-start="349" data-end="352">
+어디서 문제가 생기는지도 알기 어려웠어요<br data-start="374" data-end="377">
+광고는 돌아가는데 매출은 그대로인 느낌이<br data-start="399" data-end="402">
+계속 이어지다 보니 고민이 깊어졌어요<br data-start="422" data-end="425">
+대전마케팅을 토탈로 운영하는 구조를 보고<br data-start="447" data-end="450">
+전체를 같이 보는 방식이 필요하다고 느꼈고<br data-start="473" data-end="476">
+컨설팅 기반으로 접근하는 방식이<br data-start="493" data-end="496">
+왜 중요한지 그때 이해가 됐어요</p>
+</li>
+<li data-section-id="18dopno" data-start="517" data-end="764">
+<p data-start="520" data-end="764">대표가 직접 방문하는 구조의 신뢰감<br data-start="539" data-end="542">
+가장 인상 깊었던 건 직접 방문이었어요<br data-start="563" data-end="566">
+영업 위주의 설명이 아니라 현장을 보면서<br data-start="588" data-end="591">
+업종과 상권을 같이 분석해주는 과정이었어요<br data-start="614" data-end="617">
+대기업 출신 대표가 직접 진행하다 보니<br data-start="638" data-end="641">
+이야기의 깊이나 방향 자체가 달랐어요<br data-start="661" data-end="664">
+형식적인 제안이 아니라 현실적인 방향이<br data-start="685" data-end="688">
+바로 그 자리에서 잡히는 느낌이었어요<br data-start="708" data-end="711">
+대전마케팅을 맡긴다는 게 단순 위탁이 아니라<br data-start="735" data-end="738">
+같이 고민하는 구조라는 점이 크게 와닿았어요</p>
+</li>
+<li data-section-id="j4bt2f" data-start="766" data-end="979">
+<p data-start="769" data-end="979">지역 밀착 운영이 주는 차이<br data-start="784" data-end="787">
+대전 지역 기반으로 운영된다는 점도<br data-start="806" data-end="809">
+생각보다 큰 차이를 만들었어요<br data-start="825" data-end="828">
+타지역 업체와 진행했을 때 느꼈던<br data-start="846" data-end="849">
+소통의 답답함이 거의 사라졌어요<br data-start="866" data-end="869">
+필요한 피드백이 빠르게 오고<br data-start="884" data-end="887">
+상황 변화에도 바로 대응이 되니까<br data-start="905" data-end="908">
+운영 자체가 훨씬 안정적으로 느껴졌어요<br data-start="929" data-end="932">
+대전마케팅을 지역 중심으로 선택해야 하는<br data-start="954" data-end="957">
+이유를 직접 겪으면서 이해하게 됐어요</p>
+</li>
+<li data-section-id="1m02tsr" data-start="981" data-end="1203">
+<p data-start="984" data-end="1203">다양한 채널을 하나로 묶는 구조<br data-start="1001" data-end="1004">
+가장 만족스러웠던 부분은 통합 운영이에요<br data-start="1026" data-end="1029">
+한 채널만 보는 게 아니라 전체 흐름을 보고<br data-st
+... (총 5389자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 대전마케팅 선택의 기준이 달라진 순간
+  텍스트: (194자) 가게를 운영하면서 가장 고민됐던 건
+어디에 맡겨야 하는지에 대한 부분이었어요
+단순 광고 몇 개로는 체감이 부족했고
+결과가 이어지지 않는 답답함이...
+[HTML PARSE] li[2]
+  인용구: 단건 광고의 한계를 체감했던 경험
+  텍스트: (197자) 그동안은 하나씩 따로 진행하는 방식이었어요
+채널별로 따로 관리하다 보니 흐름이 끊겼고
+어디서 문제가 생기는지도 알기 어려웠어요
+광고는 돌아가는데...
+[HTML PARSE] li[3]
+  인용구: 대표가 직접 방문하는 구조의 신뢰감
+  텍스트: (204자) 가장 인상 깊었던 건 직접 방문이었어요
+영업 위주의 설명이 아니라 현장을 보면서
+업종과 상권을 같이 분석해주는 과정이었어요
+대기업 출신 대표가 ...
+[HTML PARSE] li[4]
+  인용구: 지역 밀착 운영이 주는 차이
+  텍스트: (174자) 대전 지역 기반으로 운영된다는 점도
+생각보다 큰 차이를 만들었어요
+타지역 업체와 진행했을 때 느꼈던
+소통의 답답함이 거의 사라졌어요
+필요한 피드...
+[HTML PARSE] li[5]
+  인용구: 다양한 채널을 하나로 묶는 구조
+  텍스트: (181자) 가장 만족스러웠던 부분은 통합 운영이에요
+한 채널만 보는 게 아니라 전체 흐름을 보고
+필요한 부분을 동시에 조정해주는 방식이에요
+촬영부터 디자인...
+[HTML PARSE] li[6]
+  인용구: 365일 이어지는 실시간 소통
+  텍스트: (161자) 운영하면서 가장 중요하게 느낀 건
+결국 소통이라는 부분이었어요
+평일 주말 구분 없이 이어지는 피드백이
+생각보다 큰 안정감을 만들어줬어요
+문제가 ...
+[HTML PARSE] li[7]
+  인용구: 동일 업종 단일 관리의 차별성
+  텍스트: (175자) 같은 업종을 여러 곳 동시에 맡지 않는다는 점
+이 부분도 신뢰로 이어졌어요
+경쟁 구조를 피하면서 집중 관리가 가능하니
+전략 자체가 더 세밀하게 ...
+[HTML PARSE] li[8]
+  인용구: 결과보다 과정을 바꾸는 선택
+  텍스트: (193자) 결국 느낀 건 결과는 과정에서 나온다는 점이에요
+단순히 광고를 돌리는 개념이 아니라
+전체 구조를 바꿔가는 과정이었어요
+브랜드 방향까지 같이 고민...
+[CHATGPT] parsed: 1700 chars, 17 parts
+[MANUAL GEN] response length: 1700
+[PARSE] GPT 제목 감지: 대전마케팅 토탈이 가능한 곳현장에서 느낀 변화의 시작
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 대전마케팅 선택의 기준이 달라진 순간  body: 194자
+  [sec 1] heading: 2. 단건 광고의 한계를 체감했던 경험  body: 197자
+  [sec 2] heading: 3. 대표가 직접 방문하는 구조의 신뢰감  body: 204자
+  [sec 3] heading: 4. 지역 밀착 운영이 주는 차이  body: 174자
+  [sec 4] heading: 5. 다양한 채널을 하나로 묶는 구조  body: 181자
+  [sec 5] heading: 6. 365일 이어지는 실시간 소통  body: 161자
+  [sec 6] heading: 7. 동일 업종 단일 관리의 차별성  body: 175자
+  [sec 7] heading: 8. 결과보다 과정을 바꾸는 선택  body: 193자
+[TITLE] GPT 제목 사용: 대전마케팅 토탈이 가능한 곳현장에서 느낀 변화의 시작
+[PARSE] quotation 위치: [9, 15, 19]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (225자)
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → SEC[1] bold heading+body (226자)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → SEC[2].heading: 3. 대표가 직접 방문하는 구조의 신뢰감
+           body → 1개 text 블록에 배정
+  [block 10] text → BODY[0] (204자) styles=[]
+  [block 11] image → SKIP
+  [block 12] text → SEC[3] bold heading+body (200자)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → SEC[4].heading: 5. 다양한 채널을 하나로 묶는 구조
+           body → 1개 text 블록에 배정
+  [block 16] text → BODY[0] (181자) styles=[]
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[5].heading: 6. 365일 이어지는 실시간 소통
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (161자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → SEC[6] bold heading+body (202자)
+  [block 24] image → SKIP
+  [block 25] text → SEC[7] bold heading+body (219자)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (225자) <b>1. 대전마케팅 선택의 기준이 달라진 순간</b>
+가게를 운영하면서 가장 고민됐던 건
+어디에 맡겨야 하...
+  [block 5] 텍스트: (226자) <b>2. 단건 광고의 한계를 체감했던 경험</b>
+그동안은 하나씩 따로 진행하는 방식이었어요
+채널별로 따로...
+  [block 9] 인용구: (22자) 3. 대표가 직접 방문하는 구조의 신뢰감
+  [block 10] 텍스트: (204자) 가장 인상 깊었던 건 직접 방문이었어요
+영업 위주의 설명이 아니라 현장을 보면서
+업종과 상권을 같이 분석해주...
+  [block 12] 텍스트: (200자) <b>4. 지역 밀착 운영이 주는 차이</b>
+대전 지역 기반으로 운영된다는 점도
+생각보다 큰 차이를 만들었...
+  [block 15] 인용구: (20자) 5. 다양한 채널을 하나로 묶는 구조
+  [block 16] 텍스트: (181자) 가장 만족스러웠던 부분은 통합 운영이에요
+한 채널만 보는 게 아니라 전체 흐름을 보고
+필요한 부분을 동시에 ...
+  [block 19] 인용구: (19자) 6. 365일 이어지는 실시간 소통
+  [block 20] 텍스트: (161자) 운영하면서 가장 중요하게 느낀 건
+결국 소통이라는 부분이었어요
+평일 주말 구분 없이 이어지는 피드백이
+생각보...
+  [block 23] 텍스트: (202자) <b>7. 동일 업종 단일 관리의 차별성</b>
+같은 업종을 여러 곳 동시에 맡지 않는다는 점
+이 부분도 신...
+  [block 25] 텍스트: (219자) <b>8. 결과보다 과정을 바꾸는 선택</b>
+결국 느낀 건 결과는 과정에서 나온다는 점이에요
+단순히 광고를...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 유사] 20260405_151710(0).jpg 유사도 99.1% → 제외
+[IMG 다양성] 폴더 1058장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260217_164608(1).jpg
+[IMG] 2/15: 20260412_153240.jpg
+[IMG] 3/15: 20260217_163419(1).jpg
+[IMG] 4/15: 20260405_152316.jpg
+[IMG] 5/15: 20260217_164903.jpg
+[IMG] 6/15: 20260405_151209.jpg
+[IMG] 7/15: 20260331_091851.jpg
+[IMG] 8/15: 20260405_151956(0).jpg
+[IMG] 9/15: 20260217_161856(0).jpg
+[IMG] 10/15: 20260405_151126.jpg
+[IMG] 11/15: 20260302_105446(0).jpg
+[IMG] 12/15: 20260405_150036(0).jpg
+[IMG] 13/15: 20260217_165358.jpg
+[IMG] 14/15: 20260405_152357.jpg
+[IMG] 15/15: 20260302_104701(0).jpg
+[IMG] 15장 삭제
+[VIDEO] 동영상 경로 없음 → video 블록 SKIP
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=1, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[RANDOM BG] #FFF3CD 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #D4EDDA 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #F8D7DA 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #FDEBD0 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #D4EDDA 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #FDEBD0 적용: 8/10줄 (확률90%, 비율80%)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 29 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=bugger2636&Redirect=View&logNo=224254559086&categoryNo=2&isAfterWrite=true&isMrblogPost=false&isHappyBeanLev
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #2 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[LOGIN] URL check: https://blog.naver.com/bugger2636 → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bugger2636.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KPAHGC0PHX96ANVZ496PWWP7
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1776322883732
+[MANUAL] prompt: 대전블로그광고 실력의 차이 < < 이걸로 블로그 후기성 글로 적어주세요(나는 소상공인 및 자영업자니깐 광고 이용 후기 글이야) 8단락으로 글자수...
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-6805d71606948191963bf7be7b...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 5160 chars (html)
+────────────────────────────────────────────────────────────
+[RAW HTML 수집 원본]
+────────────────────────────────────────────────────────────
+<p data-start="0" data-end="25">대전블로그광고 실력의 차이로 체감한 변화 기록</p>
+<ol data-start="27" data-end="1668" data-is-only-node="" data-is-last-node="">
+<li data-section-id="14w8mhs" data-start="27" data-end="239">
+<p data-start="30" data-end="239">시작하게 된 배경과 고민<br data-start="43" data-end="46">
+가게를 운영하면서 가장 답답했던<br data-start="63" data-end="66">
+부분은 손님 흐름의 불규칙함이었어요<br data-start="85" data-end="88">
+어느 날은 몰리고 어느 날은 텅 비고<br data-start="108" data-end="111">
+이 원인을 찾고 싶다는 생각이 컸어요<br data-start="131" data-end="134">
+주변에서 대전블로그광고 이야기를<br data-start="151" data-end="154">
+여러 번 듣기는 했지만 막연했어요<br data-start="172" data-end="175">
+단순 홍보만으로 해결될까 의문이었고<br data-start="194" data-end="197">
+비슷한 시도를 했던 경험도 있어서<br data-start="215" data-end="218">
+더 신중하게 접근해야겠다고 느꼈어요</p>
+</li>
+<li data-section-id="1k30221" data-start="241" data-end="450">
+<p data-start="244" data-end="450">단건 광고의 한계 체감<br data-start="256" data-end="259">
+이전에 몇 번 진행했던 광고는<br data-start="275" data-end="278">
+짧은 반짝 효과만 남기고 끝났어요<br data-start="296" data-end="299">
+노출은 되는 것 같았지만 연결이<br data-start="316" data-end="319">
+매출로 이어지는 구조는 아니었어요<br data-start="337" data-end="340">
+문제는 왜 안 되는지 모른다는 점이었고<br data-start="361" data-end="364">
+분석 없이 반복되는 느낌이 강했어요<br data-start="383" data-end="386">
+대전블로그광고도 결국 비슷할까<br data-start="402" data-end="405">
+의심이 자연스럽게 생겼던 상황이었어요<br data-start="425" data-end="428">
+그래서 더 체계적인 방식이 필요했어요</p>
+</li>
+<li data-section-id="1rs9xlb" data-start="452" data-end="655">
+<p data-start="455" data-end="655">선택 기준의 변화<br data-start="464" data-end="467">
+이번에는 접근 방식을 바꿔보기로 했어요<br data-start="488" data-end="491">
+단순 진행이 아니라 전체 흐름을<br data-start="508" data-end="511">
+같이 봐주는 곳을 찾기 시작했어요<br data-start="529" data-end="532">
+대전블로그광고도 결국 전략이라는<br data-start="549" data-end="552">
+생각이 들면서 기준이 달라졌어요<br data-start="569" data-end="572">
+대표가 직접 현장을 본다는 점과<br data-start="589" data-end="592">
+업종별 분석을 한다는 부분이<br data-start="607" data-end="610">
+결정에 큰 영향을 줬던 요소였어요<br data-start="628" data-end="631">
+겉으로 보이는 결과보다 과정이 중요했어요</p>
+</li>
+<li data-section-id="5ordtd" data-start="657" data-end="871">
+<p data-start="660" data-end="871">현장 중심 컨설팅의 차이<br data-start="673" data-end="676">
+실제로 진행 과정에서 가장 놀랐던 건<br data-start="696" data-end="699">
+현장에서 바로 방향을 잡아주는 부분이었어요<br data-start="722" data-end="725">
+가게 구조부터 고객 흐름까지 세밀하게<br data-start="745" data-end="748">
+짚어주는 모습이 인상 깊었어요<br data-start="764" data-end="767">
+대전블로그광고라고 해서 단순히<br data-start="783" data-end="786">
+글만 관리하는 게 아니라 전반적인<br data-start="804" data-end="807">
+브랜드 방향까지 함께 고민해주는<br data-start="824" data-end="827">
+느낌이 강하게 들었던 순간이었어요<br data-start="845" data-end="848">
+이 차이가 결과를 바꾸는 핵심 같았어요</p>
+</li>
+<li data-section-id="5kbhgg" data-start="873" data-end="1072">
+<p data-start="876" data-end="1072">통합 관리의 체감 효과<br data-start="888" data-end="891">
+한 채널만 보는 방식이 아니라<br data-start="907" data-end="910">
+여러 흐름을 동시에 관리해주니까<br data-start="927" data-end="930">
+확실히 변화 속도가 달랐어요<br data-start="945" data-end="948">
+대전블로그광고도 그 안에서<br data-start="962" data-end="965">
+중요한 역할을 하는 구조였고<br data-start="9
+... (총 5160자, 이하 생략)
+────────────────────────────────────────────────────────────
+[HTML PARSE] li[1]
+  인용구: 시작하게 된 배경과 고민
+  텍스트: (175자) 가게를 운영하면서 가장 답답했던
+부분은 손님 흐름의 불규칙함이었어요
+어느 날은 몰리고 어느 날은 텅 비고
+이 원인을 찾고 싶다는 생각이 컸어요
+...
+[HTML PARSE] li[2]
+  인용구: 단건 광고의 한계 체감
+  텍스트: (173자) 이전에 몇 번 진행했던 광고는
+짧은 반짝 효과만 남기고 끝났어요
+노출은 되는 것 같았지만 연결이
+매출로 이어지는 구조는 아니었어요
+문제는 왜 안...
+[HTML PARSE] li[3]
+  인용구: 선택 기준의 변화
+  텍스트: (170자) 이번에는 접근 방식을 바꿔보기로 했어요
+단순 진행이 아니라 전체 흐름을
+같이 봐주는 곳을 찾기 시작했어요
+대전블로그광고도 결국 전략이라는
+생각이...
+[HTML PARSE] li[4]
+  인용구: 현장 중심 컨설팅의 차이
+  텍스트: (177자) 실제로 진행 과정에서 가장 놀랐던 건
+현장에서 바로 방향을 잡아주는 부분이었어요
+가게 구조부터 고객 흐름까지 세밀하게
+짚어주는 모습이 인상 깊었...
+[HTML PARSE] li[5]
+  인용구: 통합 관리의 체감 효과
+  텍스트: (163자) 한 채널만 보는 방식이 아니라
+여러 흐름을 동시에 관리해주니까
+확실히 변화 속도가 달랐어요
+대전블로그광고도 그 안에서
+중요한 역할을 하는 구조였...
+[HTML PARSE] li[6]
+  인용구: 소통 방식의 안정감
+  텍스트: (163자) 운영하면서 가장 중요하게 느낀 건
+결국 소통이라는 부분이었어요
+지역 기반으로 바로 대응이 되니까
+답답함이 쌓이지 않는 점이 좋았어요
+대전블로그광...
+[HTML PARSE] li[7]
+  인용구: 신뢰를 만들었던 요소
+  텍스트: (153자) 처음에는 반신반의했던 부분도
+시간이 지나면서 자연스럽게
+신뢰로 바뀌는 과정이 있었어요
+대전블로그광고 결과도 중요하지만
+그보다 운영 방식 자체가 ...
+[HTML PARSE] li[8]
+  인용구: 지금 느끼는 확실한 차이
+  텍스트: (170자) 지금은 초반과 비교하면 흐름 자체가
+안정적으로 바뀌었다는 걸 느껴요
+대전블로그광고 하나만의 효과라기보다
+전체 전략 안에서 움직인 결과였어요
+브랜...
+[CHATGPT] parsed: 1518 chars, 17 parts
+[MANUAL GEN] response length: 1518
+[PARSE] GPT 제목 감지: 대전블로그광고 실력의 차이로 체감한 변화 기록
+[PARSE] 번호 섹션: 8개
+  [sec 0] heading: 1. 시작하게 된 배경과 고민  body: 175자
+  [sec 1] heading: 2. 단건 광고의 한계 체감  body: 173자
+  [sec 2] heading: 3. 선택 기준의 변화  body: 170자
+  [sec 3] heading: 4. 현장 중심 컨설팅의 차이  body: 177자
+  [sec 4] heading: 5. 통합 관리의 체감 효과  body: 163자
+  [sec 5] heading: 6. 소통 방식의 안정감  body: 163자
+  [sec 6] heading: 7. 신뢰를 만들었던 요소  body: 153자
+  [sec 7] heading: 8. 지금 느끼는 확실한 차이  body: 170자
+[TITLE] GPT 제목 사용: 대전블로그광고 실력의 차이로 체감한 변화 기록
+[PARSE] quotation 위치: [9, 15, 19]
+[PARSE] intro 없음 → 인트로 구간 건너뛰기
+  [block 0] image → SKIP
+  [block 1] text → SEC[0] bold heading+body (199자)
+  [block 2] image → SKIP
+  [block 3] image → SKIP
+  [block 4] image → SKIP
+  [block 5] text → SEC[1] bold heading+body (196자)
+  [block 6] image → SKIP
+  [block 7] image → SKIP
+  [block 8] image → SKIP
+  [block 9] quotation → SEC[2].heading: 3. 선택 기준의 변화
+           body → 1개 text 블록에 배정
+  [block 10] text → BODY[0] (170자) styles=[]
+  [block 11] image → SKIP
+  [block 12] text → SEC[3] bold heading+body (201자)
+  [block 13] image → SKIP
+  [block 14] image → SKIP
+  [block 15] quotation → SEC[4].heading: 5. 통합 관리의 체감 효과
+           body → 1개 text 블록에 배정
+  [block 16] text → BODY[0] (163자) styles=[]
+  [block 17] image → SKIP
+  [block 18] image → SKIP
+  [block 19] quotation → SEC[5].heading: 6. 소통 방식의 안정감
+           body → 1개 text 블록에 배정
+  [block 20] text → BODY[0] (163자) styles=[]
+  [block 21] image → SKIP
+  [block 22] image → SKIP
+  [block 23] text → SEC[6] bold heading+body (175자)
+  [block 24] image → SKIP
+  [block 25] text → SEC[7] bold heading+body (194자)
+  [block 26] video → SKIP
+  [block 27] extra_text → SKIP
+  [block 28] map → SKIP
+[PARSE] 매핑 완료: intro splits 0, sec 8/8
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (199자) <b>1. 시작하게 된 배경과 고민</b>
+가게를 운영하면서 가장 답답했던
+부분은 손님 흐름의 불규칙함이었어...
+  [block 5] 텍스트: (196자) <b>2. 단건 광고의 한계 체감</b>
+이전에 몇 번 진행했던 광고는
+짧은 반짝 효과만 남기고 끝났어요
+노...
+  [block 9] 인용구: (12자) 3. 선택 기준의 변화
+  [block 10] 텍스트: (170자) 이번에는 접근 방식을 바꿔보기로 했어요
+단순 진행이 아니라 전체 흐름을
+같이 봐주는 곳을 찾기 시작했어요
+대...
+  [block 12] 텍스트: (201자) <b>4. 현장 중심 컨설팅의 차이</b>
+실제로 진행 과정에서 가장 놀랐던 건
+현장에서 바로 방향을 잡아주...
+  [block 15] 인용구: (15자) 5. 통합 관리의 체감 효과
+  [block 16] 텍스트: (163자) 한 채널만 보는 방식이 아니라
+여러 흐름을 동시에 관리해주니까
+확실히 변화 속도가 달랐어요
+대전블로그광고도 ...
+  [block 19] 인용구: (13자) 6. 소통 방식의 안정감
+  [block 20] 텍스트: (163자) 운영하면서 가장 중요하게 느낀 건
+결국 소통이라는 부분이었어요
+지역 기반으로 바로 대응이 되니까
+답답함이 쌓...
+  [block 23] 텍스트: (175자) <b>7. 신뢰를 만들었던 요소</b>
+처음에는 반신반의했던 부분도
+시간이 지나면서 자연스럽게
+신뢰로 바뀌는...
+  [block 25] 텍스트: (194자) <b>8. 지금 느끼는 확실한 차이</b>
+지금은 초반과 비교하면 흐름 자체가
+안정적으로 바뀌었다는 걸 느껴...
+────────────────────────────────────────────────────────────
+[PARSE] 매핑 검토 완료
+[IMG 유사] 20260405_152027(1).jpg 유사도 99.5% → 제외
+[IMG 다양성] 폴더 1043장 중 서로 다른 15장 선택 (임계값:99%)
+[IMG] 1/15: 20260405_152021.jpg
+[IMG] 2/15: 20260217_165158.jpg
+[IMG] 3/15: 20260205_171644(0).jpg
+[IMG] 4/15: 20260412_152342(1).jpg
+[IMG] 5/15: 20260302_104609(3).jpg
+[IMG] 6/15: 20260412_153256(1).jpg
+[IMG] 7/15: 20260217_164610.jpg
+[IMG] 8/15: 20260412_152337.jpg
+[IMG] 9/15: 20260331_093004.jpg
+[IMG] 10/15: 20260331_095655.jpg
+[IMG] 11/15: 20260331_092018.jpg
+[IMG] 12/15: 20260217_164529.jpg
+[IMG] 13/15: 20260331_091917.jpg
+[IMG] 14/15: 20260302_104426(0).jpg
+[IMG] 15/15: 20260217_165000(0).jpg
+[IMG] 15장 삭제
+[VIDEO] 동영상 경로 없음 → video 블록 SKIP
+[MAP] maps=['광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사', '광고의정답 대전지사'], excel_counter=2, query="광고의정답 대전지사"
+[MAP] 검색: 광고의정답 대전지사 → 광고의정답 대전지사 (대전광역시 서구 월평북로 85 3층 333호)
+[추가문구] 블록[27] → extra[0]: 광고의정답/전화상담/문의:010-8077-2615(tel:010-8077-2615)
+[RANDOM BG] #E2D9F3 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #F8D7DA 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #FDEBD0 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #FFF3CD 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #CCE5FF 적용: 7/9줄 (확률90%, 비율80%)
+[RANDOM BG] #D4EDDA 적용: 8/10줄 (확률90%, 비율80%)
+[RANDOM BG] #E2D9F3 적용: 8/10줄 (확률90%, 비율80%)
+[COMPONENT] video SKIP (동영상 없음 또는 이미 사용)
+[COMPONENT] extra_text[27] 삽입
+[COMPONENT] map 삽입 (1/2)
+[TAGS] 본문 끝에 추가: #광고의정답 #온라인광고업체
+[COMPONENTS] 29 components built
+  [IMG 0] represent=True src=...image.png
+  [IMG 2] represent=False src=...image.png
+  [IMG 3] represent=False src=...image.png
+  [IMG 4] represent=False src=...image.png
+  [IMG 6] represent=False src=...image.png
+  [IMG 7] represent=False src=...image.png
+  [IMG 8] represent=False src=...image.png
+  [IMG 11] represent=False src=...image.png
+  [IMG 13] represent=False src=...image.png
+  [IMG 14] represent=False src=...image.png
+  [IMG 17] represent=False src=...image.png
+  [IMG 18] represent=False src=...image.png
+  [IMG 21] represent=False src=...image.png
+  [IMG 22] represent=False src=...image.png
+  [IMG 24] represent=False src=...image.png
+[PUBLISH RESULT] {"isSuccess": true, "result": {"redirectUrl": "https://blog.naver.com/PostView.naver?blogId=bugger2636&Redirect=View&logNo=224254592538&categoryNo=3&isAfterWrite=true&isMrblogPost=false&isHappyBeanLev
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #3 성공
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] 로그인 페이지 유지 → 캡차 체크
+[LOGIN] 현재 URL: https://nid.naver.com/nidlogin.login
+[캡차] 페이지에 captcha 포함: True
+[캡차] 이미지 요소 못찾음 → 전체 img 태그 확인
+[캡차] 탐지결과: detected=False
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[PUBLISH ERROR] keyword=4, excel=3: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #4 실패: Expecting value: line 3 column
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] 로그인 페이지 유지 → 캡차 체크
+[LOGIN] 현재 URL: https://nid.naver.com/nidlogin.login
+[캡차] 페이지에 captcha 포함: True
+[캡차] 이미지 요소 못찾음 → 전체 img 태그 확인
+[캡차] 탐지결과: detected=False
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[PUBLISH ERROR] keyword=5, excel=4: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #5 실패: Expecting value: line 3 column
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] cookie injected from C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] 로그인 페이지 유지 → 캡차 체크
+[LOGIN] 현재 URL: https://nid.naver.com/nidlogin.login
+[캡차] 페이지에 captcha 포함: True
+[캡차] 이미지 요소 못찾음 → 전체 img 태그 확인
+[캡차] 탐지결과: detected=False
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_bcillus1810.pkl
+[PUBLISH ERROR] keyword=6, excel=5: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #6 실패: Expecting value: line 3 column
+[PUBLISH] server: https://vmwareflask.autoprogram.life/
+[LOGIN] URL check: https://nid.naver.com/nidlogin.login?mode=form&url=https://b → logged_in=False
+[LOGIN] id 입력란 바로 발견
+[LOGIN] 로그인 유지 체크
+[LOGIN] 로그인 페이지 유지 → 캡차 체크
+[LOGIN] 현재 URL: https://nid.naver.com/nidlogin.login
+[캡차] 페이지에 captcha 포함: True
+[캡차] 이미지 요소 못찾음 → 전체 img 태그 확인
+[캡차] 탐지결과: detected=False
+[LOGIN] cookie saved/renewed: C:\Users\user\Desktop\프로그램\naver_cookie_save_rushing1189.pkl
+[PUBLISH ERROR] keyword=7, excel=6: Expecting value: line 3 column 1 (char 2)
+[REPORT] C:\Users\user\Desktop\프로그램\report_20260416.csv: #7 실패: Expecting value: line 3 column
