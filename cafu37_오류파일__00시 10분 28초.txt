@@ -1,0 +1,187 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 3888)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\s1\Desktop\traffic\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1608
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: None
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\s1\Desktop\traffic\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1608
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IDID []
+PWPW []
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립new
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립new
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+외부 IP: None
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립new
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+외부 IP: None
+크롬드라이버 강제 종료 성공
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1608
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+크롬드라이버 강제 종료 성공
+IDID []
+PWPW []
+크롬드라이버 강제 종료 성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x68c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0x68c864+10ca4]
+	undetected_chromedriver!(No symbol) [0x461f3e]
+	undetected_chromedriver!(No symbol) [0x49f5c5]
+	undetected_chromedriver!(No symbol) [0x4cdad6]
+	undetected_chromedriver!(No symbol) [0x4c8f42]
+	undetected_chromedriver!(No symbol) [0x4c8561]
+	undetected_chromedriver!(No symbol) [0x43531e]
+	undetected_chromedriver!(No symbol) [0x4358be]
+	undetected_chromedriver!(No symbol) [0x435d9d]
+	undetected_chromedriver!GetHandleVerifier [0x8efe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0x8eb459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0x909bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0x6a7188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0x6af23d+3367d]
+	undetected_chromedriver!(No symbol) [0x434e99]
+	undetected_chromedriver!(No symbol) [0x4344e0]
+	undetected_chromedriver!GetHandleVerifier [0xa32faf+3b73ef]
+	KERNEL32!BaseThreadInitThunk [0x75cefcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x777382ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7773827e+ee]
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1608
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\s1\Desktop\traffic\logfile.txt
