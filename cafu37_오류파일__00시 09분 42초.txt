@@ -1,0 +1,308 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 5284)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\s1\Desktop\traffic\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 115.144.234.14
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\s1\Desktop\traffic\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: None
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=147.0.7727.57); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd5c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0xd5c864+10ca4]
+	undetected_chromedriver!(No symbol) [0xb32100]
+	undetected_chromedriver!(No symbol) [0xb224c3]
+	undetected_chromedriver!(No symbol) [0xb221f5]
+	undetected_chromedriver!(No symbol) [0xb20308]
+	undetected_chromedriver!(No symbol) [0xb20b56]
+	undetected_chromedriver!(No symbol) [0xb2d9ab]
+	undetected_chromedriver!(No symbol) [0xb3f75e]
+	undetected_chromedriver!(No symbol) [0xb451d6]
+	undetected_chromedriver!(No symbol) [0xb211dc]
+	undetected_chromedriver!(No symbol) [0xb3eff5]
+	undetected_chromedriver!(No symbol) [0xbbb514]
+	undetected_chromedriver!(No symbol) [0xb9d9b6]
+	undetected_chromedriver!(No symbol) [0xb70339]
+	undetected_chromedriver!(No symbol) [0xb710f4]
+	undetected_chromedriver!GetHandleVerifier [0xfbfe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0xfbb459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0xfd9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0xd77188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0xd7f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0xd65138+19578]
+	undetected_chromedriver!GetHandleVerifier [0xd65302+19742]
+	undetected_chromedriver!GetHandleVerifier [0xd4e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x77b0fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d1827e+ee]
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 121.126.194.189
+외부 IP: None
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=147.0.7727.57); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd5c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0xd5c864+10ca4]
+	undetected_chromedriver!(No symbol) [0xb32100]
+	undetected_chromedriver!(No symbol) [0xb224c3]
+	undetected_chromedriver!(No symbol) [0xb221f5]
+	undetected_chromedriver!(No symbol) [0xb20308]
+	undetected_chromedriver!(No symbol) [0xb20b56]
+	undetected_chromedriver!(No symbol) [0xb2d9ab]
+	undetected_chromedriver!(No symbol) [0xb3f75e]
+	undetected_chromedriver!(No symbol) [0xb451d6]
+	undetected_chromedriver!(No symbol) [0xb211dc]
+	undetected_chromedriver!(No symbol) [0xb3eff5]
+	undetected_chromedriver!(No symbol) [0xbbb104]
+	undetected_chromedriver!(No symbol) [0xb9d9b6]
+	undetected_chromedriver!(No symbol) [0xb70339]
+	undetected_chromedriver!(No symbol) [0xb710f4]
+	undetected_chromedriver!GetHandleVerifier [0xfbfe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0xfbb459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0xfd9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0xd77188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0xd7f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0xd65138+19578]
+	undetected_chromedriver!GetHandleVerifier [0xd65302+19742]
+	undetected_chromedriver!GetHandleVerifier [0xd4e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x77b0fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d1827e+ee]
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 115.144.18.31
+외부 IP: None
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=147.0.7727.57); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd5c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0xd5c864+10ca4]
+	undetected_chromedriver!(No symbol) [0xb32100]
+	undetected_chromedriver!(No symbol) [0xb224c3]
+	undetected_chromedriver!(No symbol) [0xb221f5]
+	undetected_chromedriver!(No symbol) [0xb20308]
+	undetected_chromedriver!(No symbol) [0xb20a1a]
+	undetected_chromedriver!(No symbol) [0xb1f765]
+	undetected_chromedriver!(No symbol) [0xb3d171]
+	undetected_chromedriver!(No symbol) [0xbc39bc]
+	undetected_chromedriver!(No symbol) [0xb9dc1c]
+	undetected_chromedriver!(No symbol) [0xbbb1f4]
+	undetected_chromedriver!(No symbol) [0xb9d9b6]
+	undetected_chromedriver!(No symbol) [0xb70339]
+	undetected_chromedriver!(No symbol) [0xb710f4]
+	undetected_chromedriver!GetHandleVerifier [0xfbfe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0xfbb459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0xfd9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0xd77188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0xd7f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0xd65138+19578]
+	undetected_chromedriver!GetHandleVerifier [0xd65302+19742]
+	undetected_chromedriver!GetHandleVerifier [0xd4e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x77b0fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d1827e+ee]
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: 183.78.134.114
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: 115.144.160.125
+외부 IP: None
+외부 IP: None
+외부 IP: None
+외부 IP: 121.126.166.124
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+외부 IP: None
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: target frame detached: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=147.0.7727.57)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd5c733+10b73]
+	undetected_chromedriver!GetHandleVerifier [0xd5c864+10ca4]
+	undetected_chromedriver!(No symbol) [0xb32100]
+	undetected_chromedriver!(No symbol) [0xb2391b]
+	undetected_chromedriver!(No symbol) [0xb22b84]
+	undetected_chromedriver!(No symbol) [0xb224f5]
+	undetected_chromedriver!(No symbol) [0xb221f5]
+	undetected_chromedriver!(No symbol) [0xb20308]
+	undetected_chromedriver!(No symbol) [0xb20a1a]
+	undetected_chromedriver!(No symbol) [0xb35b9e]
+	undetected_chromedriver!(No symbol) [0xbbbd04]
+	undetected_chromedriver!(No symbol) [0xb9dc1c]
+	undetected_chromedriver!(No symbol) [0xbbb1f4]
+	undetected_chromedriver!(No symbol) [0xb9d9b6]
+	undetected_chromedriver!(No symbol) [0xb70339]
+	undetected_chromedriver!(No symbol) [0xb710f4]
+	undetected_chromedriver!GetHandleVerifier [0xfbfe04+274244]
+	undetected_chromedriver!GetHandleVerifier [0xfbb459+26f899]
+	undetected_chromedriver!GetHandleVerifier [0xfd9bd5+28e015]
+	undetected_chromedriver!GetHandleVerifier [0xd77188+2b5c8]
+	undetected_chromedriver!GetHandleVerifier [0xd7f23d+3367d]
+	undetected_chromedriver!GetHandleVerifier [0xd65138+19578]
+	undetected_chromedriver!GetHandleVerifier [0xd65302+19742]
+	undetected_chromedriver!GetHandleVerifier [0xd4e48f+28cf]
+	KERNEL32!BaseThreadInitThunk [0x77b0fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77d1827e+ee]
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1568
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\s1\Desktop\traffic\logfile.txt
