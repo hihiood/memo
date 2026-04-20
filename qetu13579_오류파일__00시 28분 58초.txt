@@ -1,0 +1,30 @@
+DOCS_modelChunk not found.
+An error occurred: 
+학습chatGPT1
+findIng_excel_here 사용할 키워드.xlsx
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\f13523df857b4d1391a639936792486e.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\1f5544a5b47f4a49b920377ae2507bf7.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\user\AppData\Local\Temp\c9b123d5c0e246a9bb245c21f6284a65.pyd
+Running main() from the .pyd file...
+Captured output: 145
+내 드라이버 버전 :: 145
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 145
+드라이버 업데이트 필요
+{insertreplycomment.get()} chatGPT10
+시작
+File saved to: C:\Users\user\Desktop\SG워프\logfile.txt
