@@ -1,0 +1,69 @@
+for_use_date
+for_use_date VIP
+오예
+[chrome-launch] chromedriver major: 147
+[chrome-launch] 성공, 소요시간: 3.16s
+1
+[('1', 'https://blog.naver.com/heroanistar/223684885513', '5~5', '5~5', '5~5', '30~30', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/heroanistar/223684885513', '5~5', '5~5', '5~5', '30~30', '대기')
+개수 :  1.0
+선택된 값 DD:  30
+체류시간 :  ['30', '30']
+blogname_insert_data https://blog.naver.com/heroanistar/223684885513
+3
+testLogID 223684885513
+['https:', '', 'blog.naver.com', 'heroanistar', '223684885513']
+testID heroanistar
+['kenzlei_zullynazt/0p9o8i7u!', '아이디/비번', '아이디/비번']
+아이디 :::  ['아이디', 'kenzlei_zullynazt', '아이디']
+비밀번호 :::  ['비번', '0p9o8i7u!', '비번']
+선택된 값 D:  5
+cookies_value_WEBBLOG 에서 current_proxy0 None
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile 아이디 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile 아이디
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile 아이디)
+cookies [{'domain': '.naver.com', 'expiry': 1776857211, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1776856911'}, {'domain': '.nid.naver.com', 'expiry': 1811414351, 'httpOnly': False, 'name': 'nid_buk', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'LGSRFL2NUXUGS'}, {'domain': '.naver.com', 'expiry': 1811416911, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'LGSRFL2NUXUGS'}, {'domain': '.naver.com', 'expiry': 1811414347, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'MuVRBAh8zBsfB'}, {'domain': '.naver.com', 'expiry': 1776940747, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.nid.naver.com', 'expiry': 1808392911, 'httpOnly': False, 'name': 'nid_slevel', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1'}, {'domain': '.nid.naver.com', 'expiry': 1794136911, 'httpOnly': True, 'name': 'NID_JST', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '/57Ti5K/N3wHzPSXzkZNyInhZNk0rdcADT7G5G2mN2aNUlAzZU++RiUwup89sQ5rQ7fp2x1uHoQcVw6hm00NqIyBkY81dI5RFoBxtH3+xn4ucdlv9u/yVQfb6rrApMSho0eY7r4Ewsx4N5RPz4vqeLiqXntNu3D9LKG0354jVzE='}, {'domain': '.naver.com', 'expiry': 1776858711, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1776856911'}, {'domain': '.naver.com', 'expiry': 1811416911, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'Ud4aOLaWxyOG3TiT05Sl1chlwF_ylXeWFqLM5r3GBdA='}]
+SRT5 -> 1776856911
+nid_buk -> LGSRFL2NUXUGS
+NNB -> LGSRFL2NUXUGS
+NAC -> MuVRBAh8zBsfB
+NACT -> 1
+nid_slevel -> -1
+NID_JST -> /57Ti5K/N3wHzPSXzkZNyInhZNk0rdcADT7G5G2mN2aNUlAzZU++RiUwup89sQ5rQ7fp2x1uHoQcVw6hm00NqIyBkY81dI5RFoBxtH3+xn4ucdlv9u/yVQfb6rrApMSho0eY7r4Ewsx4N5RPz4vqeLiqXntNu3D9LKG0354jVzE=
+SRT30 -> 1776856911
+BUC -> Ud4aOLaWxyOG3TiT05Sl1chlwF_ylXeWFqLM5r3GBdA=
+쿠키 체크
+frame None
+userNaverId=naverIDID2
+userNaverId 아이디
+실행 중 오류 발생2: Message: 
+
+Task 1의 상태가 '대기'로 변경되었습니다.
+----------------------
+1
+[('1', 'https://blog.naver.com/heroanistar/223684885513', '5~5', '5~5', '5~5', '30~30', '대기')]
+Task 1의 상태가 '동작'으로 변경되었습니다.
+[0] 동작 시작
+리얼 들어옴
+insert_data ('1', 'https://blog.naver.com/heroanistar/223684885513', '5~5', '5~5', '5~5', '30~30', '대기')
+개수 :  1.0
+선택된 값 DD:  30
+체류시간 :  ['30', '30']
+blogname_insert_data https://blog.naver.com/heroanistar/223684885513
+3
+testLogID 223684885513
+['https:', '', 'blog.naver.com', 'heroanistar', '223684885513']
+testID heroanistar
+['kenzlei_zullynazt/0p9o8i7u!', '아이디/비번', '아이디/비번']
+아이디 :::  ['아이디', '아이디', 'kenzlei_zullynazt']
+비밀번호 :::  ['비번', '비번', '0p9o8i7u!']
+선택된 값 D:  5
+cookies_value_WEBBLOG 에서 current_proxy0 None
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile 아이디 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile 아이디
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile 아이디)
