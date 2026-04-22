@@ -1,0 +1,13 @@
+for_use_date VIP
+passion_clothes
+            블로그 주소 스크랩 개수 좋아요 개수 댓글 개수 체류시간(초) 새로운글 확인 시간(분)
+0  passion_clothes    5~5    5~5   5~5   30~30         30~30
+[chrome-launch] chromedriver major: 147
+[chrome-launch] 실패 (1.80s): WebDriverException: Message: 'undetected_chromedriver.exe' executable may have wrong permissions. 
+
+프로필 매칭 Chrome 7개 종료: C:\chromeCookie\Profile kenzlei_zullynazt
+크롬드라이버 강제 종료 성공
+[chrome-launch] chromedriver major: 147
+[chrome-launch] 실패 (1.72s): WebDriverException: Message: 'undetected_chromedriver.exe' executable may have wrong permissions. 
+
+프로필 매칭 Chrome 2개 종료: C:\chromeCookie\Profile kenzlei_zullynazt
