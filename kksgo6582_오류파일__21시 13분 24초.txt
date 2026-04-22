@@ -1,0 +1,199 @@
+for_use_date VIP
+kenzlei_zullynazt
+for_use_date VIP
+passion_clothes
+            블로그 주소 스크랩 개수 좋아요 개수 댓글 개수 체류시간(초) 새로운글 확인 시간(분)
+0  passion_clothes    5~5    5~5   5~5   30~30         30~30
+인증정보 저장 실패: [Errno 13] Permission denied: 'C:\\Users\\BEST1\\Desktop\\공유좋아요 댓글\\공유좋아요댓글\\공유좋아요댓글\\New\\.auth_cache.dat'
+=========1=========
+1
+=========2=========
+insert_dataMain ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '대기', '30~30')
+Task 1의 상태가 '동작'으로 변경되었습니다.
+동작123412341234
+리얼 들어옴
+insert_data ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '대기', '30~30')
+first_run_flag {}
+선택된 값 QQ:  30
+체류시간 :  ['30', '30']
+compile_blog_title_NO 2
+;checking_time 30~30
+기존 파일 없음 → 최초 시작
+최초 데이터 수집중...
+titleWithInspectMessage: 어린이집 시간제 보육
+logNo: 224256496750
+blogID passion_clothes
+{'title': '어린이집 시간제 보육', 'logid': 224256496750, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 어린이집 시간제 보육
+logNo: 224256478313
+blogID passion_clothes
+{'title': '어린이집 시간제 보육', 'logid': 224256478313, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 호랑이 나오는 꿈
+logNo: 224256472232
+blogID passion_clothes
+{'title': '호랑이 나오는 꿈', 'logid': 224256472232, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 넷플릭스 가격인상
+logNo: 224256324786
+blogID passion_clothes
+{'title': '넷플릭스 가격인상', 'logid': 224256324786, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 코로나 4차백신
+logNo: 224248403411
+blogID passion_clothes
+{'title': '코로나 4차백신', 'logid': 224248403411, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 공룡 꿈
+logNo: 224248399831
+blogID passion_clothes
+{'title': '공룡 꿈', 'logid': 224248399831, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 불법주정차
+logNo: 224248396188
+blogID passion_clothes
+{'title': '불법주정차', 'logid': 224248396188, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 네이버캡처
+logNo: 224248392370
+blogID passion_clothes
+{'title': '네이버캡처', 'logid': 224248392370, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 넷플릭스 하정우
+logNo: 224248387656
+blogID passion_clothes
+{'title': '넷플릭스 하정우', 'logid': 224248387656, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 드므
+logNo: 224248383237
+blogID passion_clothes
+{'title': '드므', 'logid': 224248383237, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 무한돌파삼국지
+logNo: 224248378532
+blogID passion_clothes
+{'title': '무한돌파삼국지', 'logid': 224248378532, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 척수염 증상
+logNo: 224248373820
+blogID passion_clothes
+{'title': '척수염 증상', 'logid': 224248373820, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 산정특례 신청
+logNo: 224248368819
+blogID passion_clothes
+{'title': '산정특례 신청', 'logid': 224248368819, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 트위터 계정 비공개
+logNo: 224248363889
+blogID passion_clothes
+{'title': '트위터 계정 비공개', 'logid': 224248363889, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 다치는 꿈
+logNo: 224248358787
+blogID passion_clothes
+{'title': '다치는 꿈', 'logid': 224248358787, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 개에 물리는 꿈
+logNo: 224248353277
+blogID passion_clothes
+{'title': '개에 물리는 꿈', 'logid': 224248353277, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 위에 안좋은 음식
+logNo: 224248347026
+blogID passion_clothes
+{'title': '위에 안좋은 음식', 'logid': 224248347026, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 디딤돌대출 보금자리론
+logNo: 224248340744
+blogID passion_clothes
+{'title': '디딤돌대출 보금자리론', 'logid': 224248340744, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 세포외수분비
+logNo: 224248334076
+blogID passion_clothes
+{'title': '세포외수분비', 'logid': 224248334076, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 어린이집 시간제 보육
+logNo: 224248326750
+blogID passion_clothes
+{'title': '어린이집 시간제 보육', 'logid': 224248326750, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 종합소득세 기한후신고
+logNo: 224248319130
+blogID passion_clothes
+{'title': '종합소득세 기한후신고', 'logid': 224248319130, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 호랑이 나오는 꿈
+logNo: 224248310836
+blogID passion_clothes
+{'title': '호랑이 나오는 꿈', 'logid': 224248310836, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 넷플릭스 가격인상
+logNo: 224248301323
+blogID passion_clothes
+{'title': '넷플릭스 가격인상', 'logid': 224248301323, 'blogname_insert_data': 'passion_clothes'}
+titleWithInspectMessage: 분당보청기, 부모님께 맞는 선택을 위한 완전 가이드
+logNo: 224237129081
+blogID passion_clothes
+{'title': '분당보청기, 부모님께 맞는 선택을 위한 완전 가이드', 'logid': 224237129081, 'blogname_insert_data': 'passion_clothes'}
+---------------------저장한 데이터---------------------
+[{'title': '어린이집 시간제 보육', 'logid': 224256496750, 'blogname_insert_data': 'passion_clothes'}, {'title': '어린이집 시간제 보육', 'logid': 224256478313, 'blogname_insert_data': 'passion_clothes'}, {'title': '호랑이 나오는 꿈', 'logid': 224256472232, 'blogname_insert_data': 'passion_clothes'}, {'title': '넷플릭스 가격인상', 'logid': 224256324786, 'blogname_insert_data': 'passion_clothes'}, {'title': '코로나 4차백신', 'logid': 224248403411, 'blogname_insert_data': 'passion_clothes'}, {'title': '공룡 꿈', 'logid': 224248399831, 'blogname_insert_data': 'passion_clothes'}, {'title': '불법주정차', 'logid': 224248396188, 'blogname_insert_data': 'passion_clothes'}, {'title': '네이버캡처', 'logid': 224248392370, 'blogname_insert_data': 'passion_clothes'}, {'title': '넷플릭스 하정우', 'logid': 224248387656, 'blogname_insert_data': 'passion_clothes'}, {'title': '드므', 'logid': 224248383237, 'blogname_insert_data': 'passion_clothes'}, {'title': '무한돌파삼국지', 'logid': 224248378532, 'blogname_insert_data': 'passion_clothes'}, {'title': '척수염 증상', 'logid': 224248373820, 'blogname_insert_data': 'passion_clothes'}, {'title': '산정특례 신청', 'logid': 224248368819, 'blogname_insert_data': 'passion_clothes'}, {'title': '트위터 계정 비공개', 'logid': 224248363889, 'blogname_insert_data': 'passion_clothes'}, {'title': '다치는 꿈', 'logid': 224248358787, 'blogname_insert_data': 'passion_clothes'}, {'title': '개에 물리는 꿈', 'logid': 224248353277, 'blogname_insert_data': 'passion_clothes'}, {'title': '위에 안좋은 음식', 'logid': 224248347026, 'blogname_insert_data': 'passion_clothes'}, {'title': '디딤돌대출 보금자리론', 'logid': 224248340744, 'blogname_insert_data': 'passion_clothes'}, {'title': '세포외수분비', 'logid': 224248334076, 'blogname_insert_data': 'passion_clothes'}, {'title': '어린이집 시간제 보육', 'logid': 224248326750, 'blogname_insert_data': 'passion_clothes'}, {'title': '종합소득세 기한후신고', 'logid': 224248319130, 'blogname_insert_data': 'passion_clothes'}, {'title': '호랑이 나오는 꿈', 'logid': 224248310836, 'blogname_insert_data': 'passion_clothes'}, {'title': '넷플릭스 가격인상', 'logid': 224248301323, 'blogname_insert_data': 'passion_clothes'}, {'title': '분당보청기, 부모님께 맞는 선택을 위한 완전 가이드', 'logid': 224237129081, 'blogname_insert_data': 'passion_clothes'}]
+------------------------------------------
+['kenzlei_zullynazt/0p9o8i7u!', '아이디/비번', '아이디/비번']
+아이디 :::  ['kenzlei_zullynazt', '아이디', '아이디']
+비밀번호 :::  ['0p9o8i7u!', '비번', '비번']
+compile_blog_title_NO,compile_blog_title_NO 2
+선택된 값KK :  5
+cookies_value_WEBBLOG 에서 current_proxy0 None
+[chrome-launch] chromedriver major: 147
+[chrome-launch] 실패 (1.80s): WebDriverException: Message: 'undetected_chromedriver.exe' executable may have wrong permissions. 
+
+프로필 매칭 Chrome 3개 종료: C:\chromeCookie\Profile kenzlei_zullynazt
+실행 중 오류 발생1: 'NoneType' object has no attribute 'get'
+Task 1의 상태가 '대기'로 변경되었습니다.
+빠져나오나?
+=========1=========
+1
+=========2=========
+insert_dataMain ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+Task 1의 상태가 '동작'으로 변경되었습니다.
+동작123412341234
+리얼 들어옴
+insert_data ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+first_run_flag {'passion_clothes': True}
+선택된 값 QQ:  30
+체류시간 :  ['30', '30']
+compile_blog_title_NO 2
+;checking_time 대기
+실행 중 오류 발생1: list index out of range
+Task 1의 상태가 '대기'로 변경되었습니다.
+빠져나오나?
+=========1=========
+1
+=========2=========
+insert_dataMain ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+Task 1의 상태가 '동작'으로 변경되었습니다.
+동작123412341234
+리얼 들어옴
+insert_data ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+first_run_flag {'passion_clothes': True}
+선택된 값 QQ:  30
+체류시간 :  ['30', '30']
+compile_blog_title_NO 2
+;checking_time 대기
+실행 중 오류 발생1: list index out of range
+Task 1의 상태가 '대기'로 변경되었습니다.
+빠져나오나?
+=========1=========
+1
+=========2=========
+insert_dataMain ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+Task 1의 상태가 '동작'으로 변경되었습니다.
+동작123412341234
+리얼 들어옴
+insert_data ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+first_run_flag {'passion_clothes': True}
+선택된 값 QQ:  30
+체류시간 :  ['30', '30']
+compile_blog_title_NO 2
+;checking_time 대기
+실행 중 오류 발생1: list index out of range
+Task 1의 상태가 '대기'로 변경되었습니다.
+빠져나오나?
+=========1=========
+1
+=========2=========
+insert_dataMain ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+Task 1의 상태가 '동작'으로 변경되었습니다.
+동작123412341234
+리얼 들어옴
+insert_data ('1', '2026-04-22 21:10:53', 'passion_clothes', '5~5', '5~5', '5~5', '30~30', '2', '동작', '대기')
+first_run_flag {'passion_clothes': True}
+선택된 값 QQ:  30
+체류시간 :  ['30', '30']
+compile_blog_title_NO 2
+;checking_time 대기
+실행 중 오류 발생1: list index out of range
+Task 1의 상태가 '대기'로 변경되었습니다.
+크롬드라이버 강제 종료 성공
+빠져나오나?
