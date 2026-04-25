@@ -1,0 +1,10 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jun231
+realPW test1234
+로그인 성공
+모드3
+[오류] coupang_nodriver_session_v5 import 실패: No module named 'coupang_nodriver_session_v5'
+시작
+File saved to: C:\Users\leo9\SynologyDrive\23 [애드센스 작업치는것]\쇼핑몰 트래픽\엑셀 버전\logfile.txt
