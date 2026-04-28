@@ -1,0 +1,6891 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+25
+0     조조순대 남도삼합
+1     조조순대 남도삼합
+2     조조순대 남도삼합
+3     조조순대 남도삼합
+4     조조순대 남도삼합
+5     조조순대 남도삼합
+6     조조순대 남도삼합
+7     조조순대 남도삼합
+8     조조순대 남도삼합
+9     조조순대 남도삼합
+10    조조순대 남도삼합
+11    조조순대 남도삼합
+12    조조순대 남도삼합
+13    조조순대 남도삼합
+14    조조순대 남도삼합
+15    조조순대 남도삼합
+16    조조순대 남도삼합
+17    조조순대 남도삼합
+18    조조순대 남도삼합
+19    조조순대 남도삼합
+20    조조순대 남도삼합
+21    조조순대 남도삼합
+22    조조순대 남도삼합
+23    조조순대 남도삼합
+24    조조순대 남도삼합
+Name: 작업 매장, dtype: object
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 125.7.135.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.175.231
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.75.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.155
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.157.186
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.130.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 125.7.147.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=2 skipped=9 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.88.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.41.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.180
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.139.16
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.214.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.208.75
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=9 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 49.254.254.142
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.44.66
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.107.27
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.168.250
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.78
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.9.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.134
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.165.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=9 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.166.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.126.151
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 49.254.115.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.231
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 125.7.159.109
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.242.39
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.169.168
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.180.139
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=1 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.133.105
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.208.73
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.6
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.64.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 125.7.143.222
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.147.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.116
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 49.254.106.26
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.168.253
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.234.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.2.156
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.24
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.105.159
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.165.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.44
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.149.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.155
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.160.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.133.104
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.11.39
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.133.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.130.118
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.12.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.62.142
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.70.103
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.142.96
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.90.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.166.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 49.254.210.21
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.159.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.80.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.80.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.35
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.164.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.215.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.97
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+변경된 IP : 124.198.61.82
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.197
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.175.225
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.202.246
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.148.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.95.223
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.130.116
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.11.32
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.130.141
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.37.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.150.232
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.18.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.163.233
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.23.219
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.159.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.208.72
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.76.55
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.42.222
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.105
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.176.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.163.235
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.194
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.80.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.113.74
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.124
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.167.102
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.123.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.40.7
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.175.224
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.157.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.245.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.135.39
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.159.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.163.168
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.163.232
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.64.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.172
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.160.2
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.130.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.132.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.143.219
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.111
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.149.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.76.53
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.47
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.3.17
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.147.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.76.54
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.224.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.218.5
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.129
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.184.180
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.215.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 49.254.210.23
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.203.151
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.11.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.189
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.242.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.234.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.163.234
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.248.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.164.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.61.84
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.15.175
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.128
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.157.184
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.64.11
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.177.2
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.132.130
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 125.7.162.38
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.157.11
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.248.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.196.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.166.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.130.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.107.29
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.135.26
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.128.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.108.6
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.133.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.177.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.248.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.95.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.39.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.157
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.18.24
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.143
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.194.184
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.240.141
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.28
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.160.3
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.210.16
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+IP 변경중...
+
+변경된 IP : 121.126.44.68
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.163.172
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.212.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.103.64
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.2
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 124.198.62.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.196.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.150.73
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.234.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 125.7.181.150
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.163.169
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.168.251
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.147.97
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.144.35
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.128
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.42
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.41.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.101.78
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.72.131
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.115
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.148.140
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.131
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.136
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.113.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.196.82
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.110
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.108.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.11.35
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.218.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.139.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.3.20
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.147.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.61.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.22.31
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.167.103
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.130.139
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.23.222
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.221
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.196.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.130
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 49.254.210.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.103.71
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.148.138
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.167.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.181.147
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.240.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.44.64
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.153
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.149.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.212.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.105.152
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.246
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.26.49
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.186.48
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.152.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.130.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.123.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.202.240
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.89.170
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.43
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.141.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.245.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.181.146
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.17
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.163.239
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.181.144
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.150.238
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.119.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.84
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.139.18
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.18.28
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.102
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.245.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.135.31
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.169.174
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.76.52
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.3.18
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.176
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.40.6
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.106
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.182
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.175.228
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.103.69
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.118
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.200.236
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.3.21
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.6
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.135.29
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.15.168
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.38
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.230
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.150.79
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.113.77
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.2.157
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.219
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.105.155
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.147
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.141.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.184.181
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.22.26
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.148
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.16
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.152.34
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.196
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.132.115
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.166.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.85.24
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.113.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.75.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.150.72
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.203.144
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.132.134
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.130.139
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.159
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.126.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.61.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.89.169
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.124
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.215.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.242
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.52.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.227
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.101.75
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+IP 변경중...
+
+변경된 IP : 115.144.119.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.208.74
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.132.119
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.203.146
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.154
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.155
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.202.242
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.254
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.181.149
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.251
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.167.96
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.25
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.165.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.159.108
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.130.142
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.132.129
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.85.26
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.145.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.181.145
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.194.189
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.194.186
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.140.252
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.26.50
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.178
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.101.79
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.115.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.26.55
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.175.230
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.142.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.217
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 121.126.155.186
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.115.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.136.116
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.130.138
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.39.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.136.118
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.225
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.222
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.79
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.245.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.176.20
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 49.254.107.26
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.37.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.107.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.105.154
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.10.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.130.138
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.113.75
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.206.178
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.200.238
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.64.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.130.141
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.80.11
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.107.25
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.140
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.248.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.15.171
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.20
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.129
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.159.107
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.85.25
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.164.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.159.111
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.141.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.135
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.143.216
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.186.52
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.152.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.157
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.162.176
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.162.177
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.226
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.39.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.120.229
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.187
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.52.21
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.133
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.2.152
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 49.254.254.105
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.245
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.26.53
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.142.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.177.5
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.2.153
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.90.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.214.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.200.232
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.130.136
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.82
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.159
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.119.35
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.135
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.149.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.247
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.174
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.200.235
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.126.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.90.96
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.162.179
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.128.100
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.144.32
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.139
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.42.216
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.64.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.141.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.128.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.3
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.109
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.147.103
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.64.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.203.144
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.141.124
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.176.16
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.16
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.228
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.70.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 183.78.133.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.183
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.147
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.107.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.11.38
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.108.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.150.236
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.252
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.18
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.175.227
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.39
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.115.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.206.177
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.182
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.113.75
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.184.178
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.150.234
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.103.70
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.251.197
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.164.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.163.168
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.119.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.88.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.20
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.152.32
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.254.143
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.21
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.249
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.248.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.147.102
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.9.115
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.188
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.52.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.166.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.148.139
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.39.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.176.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.203.149
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.90.97
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.141.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.120.229
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.30.116
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.175.228
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.162.176
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.105.152
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.123.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.119.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.42.218
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+변경된 IP : 115.144.9.114
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.130
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.140.254
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.18.31
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.200.232
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.163.170
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.159.107
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.42.222
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.80.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.34
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.108.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.23.218
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.37.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.163.175
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.7
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.104
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.135.26
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.113.119
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.9.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.206.182
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.143.221
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.42
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.148.143
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.133.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.123.119
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+IP 변경중...
+
+변경된 IP : 115.144.147.21
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.164.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.3.20
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.118
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.226
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.180.143
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.126.82
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.142.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.202.242
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.62.143
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.70.103
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.62.142
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.152.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.139.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.9.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.157.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.206.179
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.176.23
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.84
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.130.142
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.115.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.134
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.144.32
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.150.72
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.177.3
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.35
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.220
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.38
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.100
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.215.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.139.17
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.169.171
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.198
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.184.179
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.242.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.158
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.181
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.212.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.103.69
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.75
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.181.146
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.105.156
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.3.23
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.196
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.82.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.78
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.167.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.108
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.126.149
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.2.154
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.176.5
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.40.1
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.61.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.153
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.115.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.210.21
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.135.38
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.175.226
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.165.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.101.75
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.194.189
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.17
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.168
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.123.115
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.224.3
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.150.78
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.106.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.215.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.200.239
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.119.34
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.152
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.248.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.222
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.147.11
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.208.72
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.2.155
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.130.116
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.9
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.216
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.195
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.44.224
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.149.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.61.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.130.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.180.140
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.75.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.143
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.75.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.82
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.214.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.253.159
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.196.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.143.218
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.101.79
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.166.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.144.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.248.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.163.234
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.43
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.41.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.44.66
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.186.50
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.100
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.177.7
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.144.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.108.5
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.244.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.244.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.42.221
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.152
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.194.186
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.74
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.85.27
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.159
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.76.53
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 49.254.126.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.15.171
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.133
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.167.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.15.172
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.70.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.15.173
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.89.171
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.240.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.11.34
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.218.2
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.113.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.132.131
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.39.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.215.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.161.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.130.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.242.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.245.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.134
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.164.179
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.159.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.159.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.79
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.41.81
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.124
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.2
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.41.84
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.44.227
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.61.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.80
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.89.173
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.40.2
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.80.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.37.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.168.250
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.149.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.15
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.208.74
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.108
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.210.19
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.144.35
+
+DOCS_modelChunk not found.
+->new버전으로 동작
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+IP 변경중...
+
+변경된 IP : 115.144.150.79
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 183.78.133.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.30.119
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.150.77
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.45
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.42.220
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.22.31
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.12
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.155.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.224.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.12.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.194.184
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.126
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.105
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.18.27
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.155.87
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.194.188
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.30.114
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.156.128
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.234.10
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.180.141
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.22.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.12.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.44.65
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.62.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.169.174
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.136.119
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.101.76
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.133.103
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 124.198.11.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.164.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.119
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.180.137
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.135.28
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.125.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.135.30
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.11.36
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.215.124
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.202.241
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.24.41
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.248
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.37.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.13
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.202.245
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.152.158
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.202.244
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.240.139
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.40.7
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.121
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.214.61
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.89.169
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.35
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.70.99
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.218.6
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.142.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 125.7.157.190
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.254.105
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.62.136
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.157
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.212.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.212.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.191.57
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.120.228
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.76.52
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.166.124
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.173.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.141.127
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.173.122
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.89.172
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.109
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.245.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.240.140
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.144.34
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.28
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.103.67
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.25
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.147.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.184.181
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.108.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.132.114
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.221
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.160.123
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.147.98
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.120
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.111
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.95.56
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.150.232
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.126.146
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.162.183
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.251.194
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.90.101
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.210.23
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.152.33
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.76.54
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.162.37
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.253.153
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.39.85
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.10.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.154.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.140.249
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 49.254.125.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 115.144.130.138
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.234.111
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.68.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.113.112
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.133.96
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.106.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.11.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.107.29
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.157.8
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 124.198.82.63
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.72.129
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.186.54
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.139.22
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.168.248
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.132.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.214.59
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.177.5
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.23.220
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.159.108
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.139.18
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+find_name 조조순대 남도삼합
+IP 변경중...
+
+변경된 IP : 121.126.180.138
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.115.58
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.222.23
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.26.52
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.89.170
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.114
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 124.198.92.62
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.159.86
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 121.126.166.125
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 121.126.130.138
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.108.4
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.160.7
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.123.117
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 49.254.126.60
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.104.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.147.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 183.78.134.113
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 125.7.135.32
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+IP 변경중...
+
+변경된 IP : 115.144.145.14
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+[clean_temp_folder] deleted=0 skipped=7 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+
+변경된 IP : 115.144.126.83
+
+--------------total error-------import --------
+에러메세지
+[Errno 13] Permission denied: 'C:\\marketing\\네이버플레이스\\네이버플레이스\\유효타\\chromedriver.exe'
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+시작
+File saved to: C:\marketing\네이버플레이스\네이버플레이스\유효타\logfile.txt
