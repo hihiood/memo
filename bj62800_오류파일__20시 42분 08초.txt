@@ -1,0 +1,179 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+13
+0     광화문특고기 정동집
+1     광화문특고기 정동집
+2     광화문특고기 정동집
+3     광화문특고기 정동집
+4     광화문특고기 정동집
+5     광화문특고기 정동집
+6     광화문특고기 정동집
+7     광화문특고기 정동집
+8     광화문특고기 정동집
+9     광화문특고기 정동집
+10    광화문특고기 정동집
+11    광화문특고기 정동집
+12    광화문특고기 정동집
+Name: 작업 매장, dtype: object
+find_name 광화문특고기 정동집
+IP 변경중...
+
+변경된 IP : 121.126.141.125
+
+명동삼겹살 더보기
+머지???
+명동삼겹살
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xe96c93+10b53]
+	chromedriver!GetHandleVerifier [0xe96dc4+10c84]
+	chromedriver!(No symbol) [0xc720f0]
+	chromedriver!(No symbol) [0xcbac7a]
+	chromedriver!(No symbol) [0xcbaf1b]
+	chromedriver!(No symbol) [0xcfd172]
+	chromedriver!(No symbol) [0xcddc14]
+	chromedriver!(No symbol) [0xcfa9a4]
+	chromedriver!(No symbol) [0xcdd966]
+	chromedriver!(No symbol) [0xcb02f9]
+	chromedriver!(No symbol) [0xcb10b4]
+	chromedriver!GetHandleVerifier [0x10eef49+268e09]
+	chromedriver!GetHandleVerifier [0x10ea61d+2644dd]
+	chromedriver!GetHandleVerifier [0x11083b7+282277]
+	chromedriver!GetHandleVerifier [0xeafcd8+29b98]
+	chromedriver!GetHandleVerifier [0xeb7c1d+31add]
+	chromedriver!GetHandleVerifier [0xe9f6a8+19568]
+	chromedriver!GetHandleVerifier [0xe9f872+19732]
+	chromedriver!GetHandleVerifier [0xe88cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7674fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7798827e+ee]
+
+IP 변경중...
+
+변경된 IP : 121.126.141.125
+
+IP 변경중...
+
+시작
+File saved to: C:\marketing\네이버플레이스\네이버플레이스\유효타\logfile.txt
+
+--- Captured Logs ---
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+13
+0     광화문특고기 정동집
+1     광화문특고기 정동집
+2     광화문특고기 정동집
+3     광화문특고기 정동집
+4     광화문특고기 정동집
+5     광화문특고기 정동집
+6     광화문특고기 정동집
+7     광화문특고기 정동집
+8     광화문특고기 정동집
+9     광화문특고기 정동집
+10    광화문특고기 정동집
+11    광화문특고기 정동집
+12    광화문특고기 정동집
+Name: 작업 매장, dtype: object
+find_name 광화문특고기 정동집
+IP 변경중...
+
+변경된 IP : 121.126.141.125
+
+명동삼겹살 더보기
+머지???
+명동삼겹살
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xe96c93+10b53]
+	chromedriver!GetHandleVerifier [0xe96dc4+10c84]
+	chromedriver!(No symbol) [0xc720f0]
+	chromedriver!(No symbol) [0xcbac7a]
+	chromedriver!(No symbol) [0xcbaf1b]
+	chromedriver!(No symbol) [0xcfd172]
+	chromedriver!(No symbol) [0xcddc14]
+	chromedriver!(No symbol) [0xcfa9a4]
+	chromedriver!(No symbol) [0xcdd966]
+	chromedriver!(No symbol) [0xcb02f9]
+	chromedriver!(No symbol) [0xcb10b4]
+	chromedriver!GetHandleVerifier [0x10eef49+268e09]
+	chromedriver!GetHandleVerifier [0x10ea61d+2644dd]
+	chromedriver!GetHandleVerifier [0x11083b7+282277]
+	chromedriver!GetHandleVerifier [0xeafcd8+29b98]
+	chromedriver!GetHandleVerifier [0xeb7c1d+31add]
+	chromedriver!GetHandleVerifier [0xe9f6a8+19568]
+	chromedriver!GetHandleVerifier [0xe9f872+19732]
+	chromedriver!GetHandleVerifier [0xe88cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x7674fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7798827e+ee]
+
+IP 변경중...
+
+변경된 IP : 121.126.141.125
+
+IP 변경중...
+
+시작
+File saved to: C:\marketing\네이버플레이스\네이버플레이스\유효타\logfile.txt
+
+시작
+File saved to: C:\marketing\네이버플레이스\네이버플레이스\유효타\logfile.txt
