@@ -1,0 +1,244 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Master\AppData\Local\Temp\8989f888d5284383a6f5a9add62d725f.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Master\AppData\Local\Temp\4a7fd856aa2348a99975103f3289c55f.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Master\AppData\Local\Temp\2994f74ea42f4dcd8b871ad94d2e277e.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 147
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Master\AppData\Local\Temp\2f252e2451e1405891fc98dc05c32643.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Master\AppData\Local\Temp\262a81f769ea40318444aa39530da8c7.pyd
+Running main() from the .pyd file...
+Captured output: 147
+최신 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Master\AppData\Local\Temp\296e8c40d8894bc4b5c80f2d3b98b4ce.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 147
+내 드라이버 버전 :: 147
+카카오톡 포렌식 복구 방지 완료, 영구 삭제 후 체크할 5가지
+title 카카오톡 포렌식 복구 방지 완료, 영구 삭제 후 체크할 5가지
+전원 안켜지는 휴대폰복구 긴급 대처법, 메인보드 고장일 때 데이터 살리기
+title 전원 안켜지는 휴대폰복구 긴급 대처법, 메인보드 고장일 때 데이터 살리기
+휴대폰복구 받기 전 꼭 백업해야 하는 이유, 데이터 날릴 위험 있는 수리 유형
+title 휴대폰복구 받기 전 꼭 백업해야 하는 이유, 데이터 날릴 위험 있는 수리 유형
+급속충전 안되는 휴대폰복구 체크포인트, 일반 충전은 되는데 고속만 안될 때
+title 급속충전 안되는 휴대폰복구 체크포인트, 일반 충전은 되는데 고속만 안될 때
+휴대폰복구 소요시간 기종별 정리, 당일 수리 가능한 모델과 부품 리스트
+title 휴대폰복구 소요시간 기종별 정리, 당일 수리 가능한 모델과 부품 리스트
+액정 번짐 현상 휴대폰복구 실제 후기, 번진 부분만 부분 교체 가능할까?
+title 액정 번짐 현상 휴대폰복구 실제 후기, 번진 부분만 부분 교체 가능할까?
+발열 심한 휴대폰복구가 필요한 순간, 배터리 문제인지 메인보드 문제인지 구별법
+title 발열 심한 휴대폰복구가 필요한 순간, 배터리 문제인지 메인보드 문제인지 구별법
+휴대폰복구 보증기간 꼼꼼히 확인하세요, 업체별 AS 기간과 조건 비교 정리
+title 휴대폰복구 보증기간 꼼꼼히 확인하세요, 업체별 AS 기간과 조건 비교 정리
+터치 먹통된 휴대폰복구 응급처치법, 중요한 데이터 백업하는 긴급 대처 방법
+title 터치 먹통된 휴대폰복구 응급처치법, 중요한 데이터 백업하는 긴급 대처 방법
+휴대폰복구 전문가가 알려주는 관리 꿀팁, 고장 예방하는 스마트폰 관리법
+title 휴대폰복구 전문가가 알려주는 관리 꿀팁, 고장 예방하는 스마트폰 관리법
+소리 작아진 휴대폰복구 셀프 점검법, 스피커 청소로 해결되는 경우가 80%
+title 소리 작아진 휴대폰복구 셀프 점검법, 스피커 청소로 해결되는 경우가 80%
+휴대폰복구 할인받는 7가지 방법, 카드 할인부터 이벤트 활용까지 총정리
+title 휴대폰복구 할인받는 7가지 방법, 카드 할인부터 이벤트 활용까지 총정리
+블루투스 연결 안되는 휴대폰복구 가이드, 이어폰 연결 문제 해결 완벽 매뉴얼
+title 블루투스 연결 안되는 휴대폰복구 가이드, 이어폰 연결 문제 해결 완벽 매뉴얼
+휴대폰복구 후 데이터 복원 성공률 높이기, 사전 백업부터 복구까지 단계별 정리
+title 휴대폰복구 후 데이터 복원 성공률 높이기, 사전 백업부터 복구까지 단계별 정리
+화면 깜빡임 휴대폰복구 원인과 해결, 액정 문제인지 소프트웨어 오류인지 판단법
+title 화면 깜빡임 휴대폰복구 원인과 해결, 액정 문제인지 소프트웨어 오류인지 판단법
+휴대폰복구 예약 없이 당일 수리 가능한 곳, 강남 홍대 주요 상권별 업체 정리
+title 휴대폰복구 예약 없이 당일 수리 가능한 곳, 강남 홍대 주요 상권별 업체 정리
+카메라 초점 안맞는 휴대폰복구 팁, 흔들림 보정 고장 증상과 수리 비용
+title 카메라 초점 안맞는 휴대폰복구 팁, 흔들림 보정 고장 증상과 수리 비용
+휴대폰복구 가격 네고하는 현실적인 방법, 부품 가격 알고 가면 깎을 수 있습니다
+title 휴대폰복구 가격 네고하는 현실적인 방법, 부품 가격 알고 가면 깎을 수 있습니다
+휴대폰복구 업체 리뷰 보는 법, 광고성 후기와 진짜 후기 구별하는 꿀팁
+title 휴대폰복구 업체 리뷰 보는 법, 광고성 후기와 진짜 후기 구별하는 꿀팁
+액정 줄 생긴 휴대폰복구 비용 실화? 부분 수리 vs 전체 교체 가격 비교
+title 액정 줄 생긴 휴대폰복구 비용 실화? 부분 수리 vs 전체 교체 가격 비교
+휴대폰복구 후 성능 차이 있을까? 수리 전후 속도 테스트 결과 공개합니다
+title 휴대폰복구 후 성능 차이 있을까? 수리 전후 속도 테스트 결과 공개합니다
+진짜 vs 가짜 휴대폰복구 부품 구별법, 정품 아닌 짝퉁 부품 사용 업체 주의
+title 진짜 vs 가짜 휴대폰복구 부품 구별법, 정품 아닌 짝퉁 부품 사용 업체 주의
+휴대폰복구 받기 전 꼭 백업해야 하는 이유, 데이터 날릴 위험 있는 수리 유형
+title 휴대폰복구 받기 전 꼭 백업해야 하는 이유, 데이터 날릴 위험 있는 수리 유형
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None]
+엑셀 개수 40
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+hby6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 이미시 만들기
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+시작
+File saved to: C:\Users\Master\Dropbox\PC\Desktop\까페 정보성 글쓰기\logfile.txt
