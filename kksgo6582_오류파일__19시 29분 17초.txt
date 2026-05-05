@@ -1,0 +1,36 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '10', 'rest_time': '600', 'delay': '0', 'publish_mode': 'draft', 'title_transform': True, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'fixed'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[MANUAL] tab switch error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=147.0.7727.138)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xbeb373+10553]
+	undetected_chromedriver!GetHandleVerifier [0xbeb4a4+10684]
+	undetected_chromedriver!(No symbol) [0x9f1e10]
+	undetected_chromedriver!(No symbol) [0x9d0923]
+	undetected_chromedriver!(No symbol) [0xa63bcb]
+	undetected_chromedriver!(No symbol) [0xa6bcc6]
+	undetected_chromedriver!(No symbol) [0xa5d833]
+	undetected_chromedriver!(No symbol) [0xa30039]
+	undetected_chromedriver!(No symbol) [0xa30df4]
+	undetected_chromedriver!GetHandleVerifier [0xe6ddb4+292f94]
+	undetected_chromedriver!GetHandleVerifier [0xe6937d+28e55d]
+	undetected_chromedriver!GetHandleVerifier [0xe88215+2ad3f5]
+	undetected_chromedriver!GetHandleVerifier [0xc04c18+29df8]
+	undetected_chromedriver!GetHandleVerifier [0xc0c6fd+318dd]
+	undetected_chromedriver!GetHandleVerifier [0xbf3c78+18e58]
+	undetected_chromedriver!GetHandleVerifier [0xbf3e42+19022]
+	undetected_chromedriver!GetHandleVerifier [0xbdd45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x75a35d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7710d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7710d7c1+231]
+
+[EXCEL] loaded from: C:/Users/BEST1/Desktop/네이버전용/Premium_Keyword.xlsx
+[EXCEL] columns: ['Unnamed: 0', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '고정 이미지 경로(순서)', '고정 이미지 경로(1개)', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '백링크', '백링크.1']
+[EXCEL] gpt주소 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[EXCEL DEBUG] gpt주소[0] = https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
