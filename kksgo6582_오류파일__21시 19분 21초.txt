@@ -1,0 +1,727 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '5`', 'rest_time': '10', 'delay': '0', 'publish_mode': 'draft', 'title_transform': True, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'fixed'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[MANUAL] chrome major: 147
+[MANUAL] navigating to: https://chatgpt.com/
+[MANUAL] current URL: https://chatgpt.com/
+[MANUAL] focused tab: https://chatgpt.com/
+[EXCEL] loaded from: C:/Users/com/Desktop/네이버전용/Premium_Keyword.xlsx
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '고정 이미지 경로(순서)', '고정 이미지 경로(1개)', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '백링크', '백링크.1']
+[EXCEL] gpt주소 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[EXCEL DEBUG] gpt주소[0] = https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[EXCEL] loaded from: C:/Users/com/Desktop/네이버전용/Premium_Keyword.xlsx
+[EXCEL] columns: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '대표 이미지 경로', '고정 이미지 경로(순서)', '고정 이미지 경로(1개)', '지도', '체류시간(초)', '프롬프트', 'gpt주소', '태그', '동영상', '네이버지도', '추가문구(본문)', '백링크', '백링크.1']
+[EXCEL] gpt주소 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[EXCEL DEBUG] gpt주소[0] = https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[LOGIN] URL check: https://blog.naver.com/s_a_v → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KQVY8VVVQTM9MRSR1REN4Z7G
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1777980436467
+[MANUAL] prompt: 에어컨매립배관lg에어컨통신오류전선수리 < 제목 / / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' a...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[CHATGPT DEBUG] _current_excel_counter = 0, len(gpt_urls) = 2
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5e...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 991 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+
+[[<<에어컨매립배관 LG통신오류 전선수리 원인분석>>]]
+
+에어컨매립배관 현장에서 가장 많이 접하는 문제 중 하나가 바로 <b>LG에어컨 통신에러와 전선 문제</b>예요. 실제로 고객님 댁을 방문해 보면 “갑자기 에어컨이 안돼요”, “통신오류가 떠요”라는 문의가 많은데요. 단순한 고장이 아니라 대부분 <b>전선, 매립배관, 환경적인 요인</b>이 복합적으로 작용해서 발생하는 경우가 많아요. 특히 에어컨매립배관 구조에서는 외부에서 확인이 어렵기 때문에 더 큰 문제로 이어질 수 있어요.
+
+에어컨매립배관에서 발생하는 통신에러는 단순히 리모컨 문제나 일시적인 오류가 아니라 <b>전선 손상, 수분 유입, 누전</b> 같은 근본적인 원인이 있는 경우가 많아요. 이런 상태를 방치하면 냉방 불량은 물론이고 심한 경우 <b>화재 위험</b>까지 이어질 수 있기 때문에 정확한 원인 파악이 중요해요.
+
+<h2 style='font-size:26px;' align='left'>LG에어컨 통신에러란 무엇인가?</h2>
+
+LG에어컨에서 발생하는 통신에러는 실내기와 실외기 간의 데이터 전달이 원활하지 않을 때 발생해요. 쉽게 말해 두 장치가 서로 신호를 주고받지 못하는 상태인데요.
+
+<ul> <li>실내기 ↔ 실외기 데이터 전송 실패</li> <li>전선 접촉 불량 또는 단선</li> <li>전압 불안정 및 누전</li> </ul>
+
+특히 LG 제품은 <b>4가닥 통신선(갈색, 청색, 녹색, 흑색)</b>을 모두 사용하기 때문에 하나라도 문제가 생기면 전체 시스템이 멈추는 구조예요. 반면 일부 타 브랜드는 2가닥만 사용하기 때문에 동일 상황에서도 오류 발생 확률이 낮은 편이에요.
+
+이 구조적인 차이 때문에 LG에어컨은 통신에러 발생 빈도가 상대적으로 높은데요. 그래서 단순 수리가 아닌 <b>전선 교체까지 진행되는 경우</b>도 많아요.
+
+<h2 style='font-size:26px;' align='left'>에어컨매립배관에서 전선 문제가 발
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 991
+[PARSE] GPT 제목: 에어컨매립배관 LG통신오류 전선수리 원인분석
+[PARSE] 인트로: 409자, h2 섹션: 1개
+  [h2 0] heading: LG에어컨 통신에러란 무엇인가?  body: 466자
+[TITLE] GPT 제목 사용: 에어컨매립배관 LG통신오류 전선수리 원인분석
+[PARSE] 콘텐츠 큐: 3개
+  [0] intro: 에어컨매립배관 현장에서 가장 많이 접하는 문제 중 하나가 바로 <b>LG에어컨 통신에러와 
+  [1] heading: LG에어컨 통신에러란 무엇인가?
+  [2] body: LG에어컨에서 발생하는 통신에러는 실내기와 실외기 간의 데이터 전달이 원활하지 않을 때 발
+  [block 1] text → intro (409자)
+  [block 2] text → heading+body (491자)
+  [block 3] quotation → PASS (heading 부족)
+  [block 4] text → PASS (큐 소진)
+  [block 5] quotation → PASS (heading 부족)
+  [block 6] text → PASS (큐 소진)
+  [block 7] quotation → PASS (heading 부족)
+  [block 8] text → PASS (큐 소진)
+  [block 9] quotation → PASS (heading 부족)
+  [block 10] text → PASS (큐 소진)
+  [block 11] quotation → PASS (heading 부족)
+  [block 12] text → PASS (큐 소진)
+  [block 13] quotation → PASS (heading 부족)
+  [block 14] text → PASS (큐 소진)
+  [block 15] quotation → PASS (heading 부족)
+  [block 16] text → PASS (큐 소진)
+  [block 17] quotation → PASS (heading 부족)
+  [block 18] text → PASS (큐 소진)
+  [block 19] quotation → PASS (heading 부족)
+  [block 20] text → PASS (큐 소진)
+  [block 21] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (409자) 에어컨매립배관 현장에서 가장 많이 접하는 문제 중 하나가 바로 <b>LG에어컨 통신에러와 전선 문제</b>예...
+  [block 2] 텍스트: (491자) <b>LG에어컨 통신에러란 무엇인가?</b>
+LG에어컨에서 발생하는 통신에러는 실내기와 실외기 간의 데이터 ...
+  [block 3] quotation: (비어있음)
+  [block 4] text: (비어있음)
+  [block 5] quotation: (비어있음)
+  [block 6] text: (비어있음)
+  [block 7] quotation: (비어있음)
+  [block 8] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 11] quotation: (비어있음)
+  [block 12] text: (비어있음)
+  [block 13] quotation: (비어있음)
+  [block 14] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 17] quotation: (비어있음)
+  [block 18] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 21] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=fixed, needed_images=0, img_path=, driver_labsfx=False
+[MAP] maps=['', ''], excel_counter=0, query=""
+[COMPONENT] represent_image SKIP (대표이미지 없음)
+[RANDOM BG] #FFF3CD 적용: 1/2줄 (확률80%, 비율70%)
+[COMPONENT] quotation[3] SKIP (데이터 없음)
+[COMPONENT] text[4] SKIP (데이터 없음)
+[COMPONENT] quotation[5] SKIP (데이터 없음)
+[COMPONENT] text[6] SKIP (데이터 없음)
+[COMPONENT] quotation[7] SKIP (데이터 없음)
+[COMPONENT] text[8] SKIP (데이터 없음)
+[COMPONENT] quotation[9] SKIP (데이터 없음)
+[COMPONENT] text[10] SKIP (데이터 없음)
+[COMPONENT] quotation[11] SKIP (데이터 없음)
+[COMPONENT] text[12] SKIP (데이터 없음)
+[COMPONENT] quotation[13] SKIP (데이터 없음)
+[COMPONENT] text[14] SKIP (데이터 없음)
+[COMPONENT] quotation[15] SKIP (데이터 없음)
+[COMPONENT] text[16] SKIP (데이터 없음)
+[COMPONENT] quotation[17] SKIP (데이터 없음)
+[COMPONENT] text[18] SKIP (데이터 없음)
+[COMPONENT] quotation[19] SKIP (데이터 없음)
+[COMPONENT] text[20] SKIP (데이터 없음)
+[COMPONENT] text[21] SKIP (데이터 없음)
+[COMPONENTS] 2 components built
+[PUBLISH RESULT] {"isSuccess": true, "result": {"logNo": 224275689976, "modiDate": 1777980521579}}
+[REPORT] C:\Users\com\Desktop\네이버전용\report_20260505.csv: #1 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[LOGIN] URL check: https://blog.naver.com/s_a_v → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KQVYHDV40XAEN0DA06A9TDG4
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1777980717023
+[MANUAL] prompt: 에어컨매립배관물이넘치는역류현상이발생되는누수 < 제목 / / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[CHATGPT DEBUG] _current_excel_counter = 1, len(gpt_urls) = 2
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5e...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 1119 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+
+[[<<에어컨매립배관 역류누수 원인과 해결방법>>]]
+
+에어컨매립배관물이넘치는역류현상이발생되는누수 문제는 현장에서 정말 자주 접하게 되는 사례예요. 특히 여름철이 되면 에어컨 사용량이 급격히 증가하면서 매립배관 내부의 흐름 문제가 그대로 드러나는데요. 단순히 물이 넘친다고 해서 배수만 뚫는다고 해결되는 문제가 아니에요. 실제로 제가 고객 집을 방문해 보면, 에어컨 누수의 근본 원인은 대부분 매립배관 구조나 시공 문제에서 시작되는 경우가 많아요. 이 글에서는 에어컨, 매립배관, 누수, 역류 현상이 왜 발생하는지, 그리고 어떤 방식으로 해결해야 하는지를 전문가 관점에서 정확하게 설명해드릴게요.
+
+<h2 style='font-size:26px;' align='left'>에어컨 매립배관 역류누수란 무엇인가?</h2>
+
+에어컨을 가동하면 내부 열교환기에서 응축수가 발생해요. 이 물은 자연스럽게 배수라인을 통해 외부로 배출되어야 정상인데요. 하지만 매립배관 내부 구조가 잘못되었거나 막힘이 발생하면 물이 정상적으로 흐르지 못하고 역류하는 현상이 발생해요.
+
+<b>역류누수의 핵심 특징</b>
+
+<ul> <li>실내기에서 물이 넘침</li> <li>천장형 에어컨 누수 발생</li> <li>배관 내부에서 ‘꿀렁’ 소리 발생</li> <li>지속적인 습기 및 곰팡이 문제</li> </ul>
+
+이러한 현상은 단순 누수가 아니라 “흐름이 막힌 구조적 문제”라는 점이 중요해요.
+
+<h2 style='font-size:26px;' align='left'>왜 역류 현상이 발생할까?</h2>
+
+에어컨 매립배관 누수의 가장 큰 원인은 바로 <b>배관 기울기(구배) 문제</b>예요. 물은 0.1mm라도 기울기가 있어야 자연스럽게 흐르는데, 이 조건이 무너지면 물이 고이게 되거든요.
+
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">원인</th> <th style="background-color: lightblue; text-align:center">설명</th> </tr> <tr> <td>역구배</td> <td>배관이 반대로 기울어
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 1119
+[PARSE] GPT 제목: 에어컨매립배관 역류누수 원인과 해결방법
+[PARSE] 인트로: 302자, h2 섹션: 2개
+  [h2 0] heading: 에어컨 매립배관 역류누수란 무엇인가?  body: 308자
+  [h2 1] heading: 왜 역류 현상이 발생할까?  body: 329자
+[TITLE] GPT 제목 사용: 에어컨매립배관 역류누수 원인과 해결방법
+[PARSE] 콘텐츠 큐: 5개
+  [0] intro: 에어컨매립배관물이넘치는역류현상이발생되는누수 문제는 현장에서 정말 자주 접하게 되는 사례예요
+  [1] heading: 에어컨 매립배관 역류누수란 무엇인가?
+  [2] body: 에어컨을 가동하면 내부 열교환기에서 응축수가 발생해요. 이 물은 자연스럽게 배수라인을 통해
+  [3] heading: 왜 역류 현상이 발생할까?
+  [4] body: 에어컨 매립배관 누수의 가장 큰 원인은 바로 <b>배관 기울기(구배) 문제</b>예요. 물
+  [block 1] text → intro (302자)
+  [block 2] text → heading+body (336자)
+  [block 3] quotation → heading[1]: 왜 역류 현상이 발생할까?
+  [block 4] text → body[1] (329자)
+  [block 5] quotation → PASS (heading 부족)
+  [block 6] text → PASS (큐 소진)
+  [block 7] quotation → PASS (heading 부족)
+  [block 8] text → PASS (큐 소진)
+  [block 9] quotation → PASS (heading 부족)
+  [block 10] text → PASS (큐 소진)
+  [block 11] quotation → PASS (heading 부족)
+  [block 12] text → PASS (큐 소진)
+  [block 13] quotation → PASS (heading 부족)
+  [block 14] text → PASS (큐 소진)
+  [block 15] quotation → PASS (heading 부족)
+  [block 16] text → PASS (큐 소진)
+  [block 17] quotation → PASS (heading 부족)
+  [block 18] text → PASS (큐 소진)
+  [block 19] quotation → PASS (heading 부족)
+  [block 20] text → PASS (큐 소진)
+  [block 21] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (302자) 에어컨매립배관물이넘치는역류현상이발생되는누수 문제는 현장에서 정말 자주 접하게 되는 사례예요. 특히 여름철이 ...
+  [block 2] 텍스트: (336자) <b>에어컨 매립배관 역류누수란 무엇인가?</b>
+에어컨을 가동하면 내부 열교환기에서 응축수가 발생해요. 이...
+  [block 3] 인용구: (14자) 왜 역류 현상이 발생할까?
+  [block 4] 텍스트: (329자) 에어컨 매립배관 누수의 가장 큰 원인은 바로 <b>배관 기울기(구배) 문제</b>예요. 물은 0.1mm라도 ...
+  [block 5] quotation: (비어있음)
+  [block 6] text: (비어있음)
+  [block 7] quotation: (비어있음)
+  [block 8] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 11] quotation: (비어있음)
+  [block 12] text: (비어있음)
+  [block 13] quotation: (비어있음)
+  [block 14] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 17] quotation: (비어있음)
+  [block 18] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 21] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=fixed, needed_images=0, img_path=, driver_labsfx=False
+[MAP] maps=['', ''], excel_counter=1, query=""
+[COMPONENT] represent_image SKIP (대표이미지 없음)
+[RANDOM BG] #F8D7DA 적용: 3/5줄 (확률80%, 비율70%)
+[RANDOM BG] #D4EDDA 적용: 1/2줄 (확률80%, 비율70%)
+[COMPONENT] quotation[5] SKIP (데이터 없음)
+[COMPONENT] text[6] SKIP (데이터 없음)
+[COMPONENT] quotation[7] SKIP (데이터 없음)
+[COMPONENT] text[8] SKIP (데이터 없음)
+[COMPONENT] quotation[9] SKIP (데이터 없음)
+[COMPONENT] text[10] SKIP (데이터 없음)
+[COMPONENT] quotation[11] SKIP (데이터 없음)
+[COMPONENT] text[12] SKIP (데이터 없음)
+[COMPONENT] quotation[13] SKIP (데이터 없음)
+[COMPONENT] text[14] SKIP (데이터 없음)
+[COMPONENT] quotation[15] SKIP (데이터 없음)
+[COMPONENT] text[16] SKIP (데이터 없음)
+[COMPONENT] quotation[17] SKIP (데이터 없음)
+[COMPONENT] text[18] SKIP (데이터 없음)
+[COMPONENT] quotation[19] SKIP (데이터 없음)
+[COMPONENT] text[20] SKIP (데이터 없음)
+[COMPONENT] text[21] SKIP (데이터 없음)
+[COMPONENTS] 4 components built
+[PUBLISH RESULT] {"isSuccess": true, "result": {"logNo": 224275693447, "modiDate": 1777980773225}}
+[REPORT] C:\Users\com\Desktop\네이버전용\report_20260505.csv: #2 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[LOGIN] URL check: https://blog.naver.com/s_a_v → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KQVZ5ZE0T5BZJRQK0GK77NKX
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1777981390391
+[MANUAL] prompt: 에어컨매립배관가스빠짐으로인한배관교체와수리의차이점 < 제목 / / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[CHATGPT DEBUG] _current_excel_counter = 0, len(gpt_urls) = 2
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5e...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 1171 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+
+[[<<에어컨매립배관가스빠짐 수리와교체차이>>]]
+
+에어컨을 사용하다 보면 갑자기 냉방이 약해지거나 전혀 시원하지 않은 상황을 겪게 되는데요. 이런 경우 대부분 에어컨매립배관가스빠짐 문제가 원인인 경우가 많아요. 현장에서 직접 고객님 댁을 방문해보면 단순한 가스 부족이 아니라 에어컨배관 내부 손상, 누수, 전선 문제, 심지어는 통신에러까지 함께 발생하는 복합적인 문제가 많아요. 특히 매립배관 구조에서는 눈에 보이지 않기 때문에 문제를 방치하면 화재 위험이나 장비 손상까지 이어질 수 있어요. 그래서 오늘은 에어컨매립배관가스빠짐 상황에서 ‘수리’와 ‘교체’의 차이를 정확하게 알려드릴게요.
+
+<h2 style='font-size:26px;' align='left'>에어컨매립배관가스빠짐이란 무엇인가?</h2>
+
+에어컨매립배관가스빠짐은 말 그대로 냉매가스가 외부로 빠져나가는 현상을 의미해요. 이때 단순히 가스만 빠지는 게 아니라 공기와 수분이 함께 유입되는 것이 가장 큰 문제인데요. 이 공기와 수분이 에어컨 내부로 들어가게 되면 압축기(콤프레샤)에 큰 부담을 주게 돼요.
+
+<b>주요 특징을 보면</b>
+
+<li>냉방 효율 급격히 저하</li> <li>콤프레샤 압력 불안정</li> <li>배관 내부 산화 및 부식</li>
+
+이러한 문제는 단순히 가스를 보충한다고 해결되지 않아요. 왜냐하면 이미 배관 내부에 공기가 유입된 상태라면 냉매 순환 자체가 비정상적으로 이루어지기 때문이에요. 결국 근본적인 에어컨배관 문제 해결이 필요해요.
+
+<h2 style='font-size:26px;' align='left'>수리로 해결 가능한 경우는 언제일까?</h2>
+
+모든 에어컨매립배관가스빠짐이 교체로 이어지는 건 아니에요. 실제 현장에서는 충분히 수리로 해결 가능한 경우도 많아요. 핵심은 ‘누설 지점이 명확한가’예요.
+
+<table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">구분</th> <th style="background-color: lightblue; text-align:center">수리 가능 여부</th> <tr><td>배관 일부 미세 누수</td><td>가능</td></tr> <tr><td>용접 부위 문제</td><td
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 1171
+[PARSE] GPT 제목: 에어컨매립배관가스빠짐 수리와교체차이
+[PARSE] 인트로: 301자, h2 섹션: 2개
+  [h2 0] heading: 에어컨매립배관가스빠짐이란 무엇인가?  body: 349자
+  [h2 1] heading: 수리로 해결 가능한 경우는 언제일까?  body: 338자
+[TITLE] GPT 제목 사용: 에어컨매립배관가스빠짐 수리와교체차이
+[PARSE] 콘텐츠 큐: 5개
+  [0] intro: 에어컨을 사용하다 보면 갑자기 냉방이 약해지거나 전혀 시원하지 않은 상황을 겪게 되는데요.
+  [1] heading: 에어컨매립배관가스빠짐이란 무엇인가?
+  [2] body: 에어컨매립배관가스빠짐은 말 그대로 냉매가스가 외부로 빠져나가는 현상을 의미해요. 이때 단순
+  [3] heading: 수리로 해결 가능한 경우는 언제일까?
+  [4] body: 모든 에어컨매립배관가스빠짐이 교체로 이어지는 건 아니에요. 실제 현장에서는 충분히 수리로 
+  [block 1] text → intro (301자)
+  [block 2] text → heading+body (376자)
+  [block 3] quotation → heading[1]: 수리로 해결 가능한 경우는 언제일까?
+  [block 4] text → body[1] (338자)
+  [block 5] quotation → PASS (heading 부족)
+  [block 6] text → PASS (큐 소진)
+  [block 7] quotation → PASS (heading 부족)
+  [block 8] text → PASS (큐 소진)
+  [block 9] quotation → PASS (heading 부족)
+  [block 10] text → PASS (큐 소진)
+  [block 11] quotation → PASS (heading 부족)
+  [block 12] text → PASS (큐 소진)
+  [block 13] quotation → PASS (heading 부족)
+  [block 14] text → PASS (큐 소진)
+  [block 15] quotation → PASS (heading 부족)
+  [block 16] text → PASS (큐 소진)
+  [block 17] quotation → PASS (heading 부족)
+  [block 18] text → PASS (큐 소진)
+  [block 19] quotation → PASS (heading 부족)
+  [block 20] text → PASS (큐 소진)
+  [block 21] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (301자) 에어컨을 사용하다 보면 갑자기 냉방이 약해지거나 전혀 시원하지 않은 상황을 겪게 되는데요. 이런 경우 대부분...
+  [block 2] 텍스트: (376자) <b>에어컨매립배관가스빠짐이란 무엇인가?</b>
+에어컨매립배관가스빠짐은 말 그대로 냉매가스가 외부로 빠져나가...
+  [block 3] 인용구: (20자) 수리로 해결 가능한 경우는 언제일까?
+  [block 4] 텍스트: (338자) 모든 에어컨매립배관가스빠짐이 교체로 이어지는 건 아니에요. 실제 현장에서는 충분히 수리로 해결 가능한 경우도...
+  [block 5] quotation: (비어있음)
+  [block 6] text: (비어있음)
+  [block 7] quotation: (비어있음)
+  [block 8] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 11] quotation: (비어있음)
+  [block 12] text: (비어있음)
+  [block 13] quotation: (비어있음)
+  [block 14] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 17] quotation: (비어있음)
+  [block 18] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 21] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=fixed, needed_images=0, img_path=, driver_labsfx=False
+[MAP] maps=['', ''], excel_counter=0, query=""
+[COMPONENT] represent_image SKIP (대표이미지 없음)
+[RANDOM BG] #D4EDDA 적용: 3/5줄 (확률80%, 비율70%)
+[RANDOM BG] #D4EDDA 적용: 1/2줄 (확률80%, 비율70%)
+[COMPONENT] quotation[5] SKIP (데이터 없음)
+[COMPONENT] text[6] SKIP (데이터 없음)
+[COMPONENT] quotation[7] SKIP (데이터 없음)
+[COMPONENT] text[8] SKIP (데이터 없음)
+[COMPONENT] quotation[9] SKIP (데이터 없음)
+[COMPONENT] text[10] SKIP (데이터 없음)
+[COMPONENT] quotation[11] SKIP (데이터 없음)
+[COMPONENT] text[12] SKIP (데이터 없음)
+[COMPONENT] quotation[13] SKIP (데이터 없음)
+[COMPONENT] text[14] SKIP (데이터 없음)
+[COMPONENT] quotation[15] SKIP (데이터 없음)
+[COMPONENT] text[16] SKIP (데이터 없음)
+[COMPONENT] quotation[17] SKIP (데이터 없음)
+[COMPONENT] text[18] SKIP (데이터 없음)
+[COMPONENT] quotation[19] SKIP (데이터 없음)
+[COMPONENT] text[20] SKIP (데이터 없음)
+[COMPONENT] text[21] SKIP (데이터 없음)
+[COMPONENTS] 4 components built
+[PUBLISH RESULT] {"isSuccess": true, "result": {"logNo": 224275703030, "modiDate": 1777981475938}}
+[REPORT] C:\Users\com\Desktop\네이버전용\report_20260505.csv: #3 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[LOGIN] URL check: https://blog.naver.com/s_a_v → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KQVZEHNQ80B9G9R0QGF22HGV
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1777981671230
+[MANUAL] prompt: 천장형시스템에어컨누수가발생되는원인이무엇이있을까 < 제목 / / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26p...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[CHATGPT DEBUG] _current_excel_counter = 1, len(gpt_urls) = 2
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5e...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 780 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+
+[[<<천장형 시스템에어컨 누수 원인과 해결 방법>>]]
+
+여름철이 되면 천장형시스템에어컨누수 문제로 문의가 정말 많아져요. 현장에서 직접 고객 집을 방문해 보면 단순히 물이 떨어지는 문제가 아니라, 매립배관 구조나 에어컨배관 시공 상태, 전선 문제까지 복합적으로 얽혀 있는 경우가 많습니다. 특히 에어컨 누수는 단순 청소로 끝나는 문제가 아니라 근본적인 원인을 정확히 파악하지 않으면 반복적으로 발생하게 되는데요. 천장형시스템에어컨누수는 결국 “왜 물이 정상적으로 배출되지 못하는가” 이 한 가지 질문에서 시작해야 해요. 오늘은 실제 수리 현장에서 자주 겪는 사례를 바탕으로 에어컨 누수의 원인과 해결 방법을 전문가 관점에서 정확하게 알려드릴게요.
+
+<h2 style='font-size:26px;' align='left'>천장형시스템에어컨누수란 무엇인가?</h2>
+
+천장형시스템에어컨누수는 냉방 과정에서 발생하는 응축수가 정상적으로 배출되지 못하고 실내로 떨어지는 현상을 의미해요. 에어컨은 공기를 차갑게 만들면서 수분을 물로 바꾸는 구조인데요, 이 물은 반드시 배관을 통해 외부로 배출되어야 합니다.
+
+<b>핵심 구조</b>
+
+<li>냉각 → 응축수 발생</li> <li>드레인 배관 → 외부 배출</li> <li>배관 기울기 → 자연 배수</li>
+
+문제는 이 과정 중 하나라도 문제가 생기면 물이 역류하거나 고이면서 누수가 발생한다는 점이에요. 특히 매립배관 구조에서는 내부 상태를 눈으로 확인할 수 없기 때문에 더 위험합니다. 장기간 방치될 경우 천장 손상
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 780
+[PARSE] GPT 제목: 천장형 시스템에어컨 누수 원인과 해결 방법
+[PARSE] 인트로: 330자, h2 섹션: 1개
+  [h2 0] heading: 천장형시스템에어컨누수란 무엇인가?  body: 334자
+[TITLE] GPT 제목 사용: 천장형 시스템에어컨 누수 원인과 해결 방법
+[PARSE] 콘텐츠 큐: 3개
+  [0] intro: 여름철이 되면 천장형시스템에어컨누수 문제로 문의가 정말 많아져요. 현장에서 직접 고객 집을
+  [1] heading: 천장형시스템에어컨누수란 무엇인가?
+  [2] body: 천장형시스템에어컨누수는 냉방 과정에서 발생하는 응축수가 정상적으로 배출되지 못하고 실내로 
+  [block 1] text → intro (330자)
+  [block 2] text → heading+body (360자)
+  [block 3] quotation → PASS (heading 부족)
+  [block 4] text → PASS (큐 소진)
+  [block 5] quotation → PASS (heading 부족)
+  [block 6] text → PASS (큐 소진)
+  [block 7] quotation → PASS (heading 부족)
+  [block 8] text → PASS (큐 소진)
+  [block 9] quotation → PASS (heading 부족)
+  [block 10] text → PASS (큐 소진)
+  [block 11] quotation → PASS (heading 부족)
+  [block 12] text → PASS (큐 소진)
+  [block 13] quotation → PASS (heading 부족)
+  [block 14] text → PASS (큐 소진)
+  [block 15] quotation → PASS (heading 부족)
+  [block 16] text → PASS (큐 소진)
+  [block 17] quotation → PASS (heading 부족)
+  [block 18] text → PASS (큐 소진)
+  [block 19] quotation → PASS (heading 부족)
+  [block 20] text → PASS (큐 소진)
+  [block 21] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (330자) 여름철이 되면 천장형시스템에어컨누수 문제로 문의가 정말 많아져요. 현장에서 직접 고객 집을 방문해 보면 단순...
+  [block 2] 텍스트: (360자) <b>천장형시스템에어컨누수란 무엇인가?</b>
+천장형시스템에어컨누수는 냉방 과정에서 발생하는 응축수가 정상적...
+  [block 3] quotation: (비어있음)
+  [block 4] text: (비어있음)
+  [block 5] quotation: (비어있음)
+  [block 6] text: (비어있음)
+  [block 7] quotation: (비어있음)
+  [block 8] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 11] quotation: (비어있음)
+  [block 12] text: (비어있음)
+  [block 13] quotation: (비어있음)
+  [block 14] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 17] quotation: (비어있음)
+  [block 18] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 21] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=fixed, needed_images=0, img_path=, driver_labsfx=False
+[MAP] maps=['', ''], excel_counter=1, query=""
+[COMPONENT] represent_image SKIP (대표이미지 없음)
+[RANDOM BG] #E2D9F3 적용: 3/5줄 (확률80%, 비율70%)
+[COMPONENT] quotation[3] SKIP (데이터 없음)
+[COMPONENT] text[4] SKIP (데이터 없음)
+[COMPONENT] quotation[5] SKIP (데이터 없음)
+[COMPONENT] text[6] SKIP (데이터 없음)
+[COMPONENT] quotation[7] SKIP (데이터 없음)
+[COMPONENT] text[8] SKIP (데이터 없음)
+[COMPONENT] quotation[9] SKIP (데이터 없음)
+[COMPONENT] text[10] SKIP (데이터 없음)
+[COMPONENT] quotation[11] SKIP (데이터 없음)
+[COMPONENT] text[12] SKIP (데이터 없음)
+[COMPONENT] quotation[13] SKIP (데이터 없음)
+[COMPONENT] text[14] SKIP (데이터 없음)
+[COMPONENT] quotation[15] SKIP (데이터 없음)
+[COMPONENT] text[16] SKIP (데이터 없음)
+[COMPONENT] quotation[17] SKIP (데이터 없음)
+[COMPONENT] text[18] SKIP (데이터 없음)
+[COMPONENT] quotation[19] SKIP (데이터 없음)
+[COMPONENT] text[20] SKIP (데이터 없음)
+[COMPONENT] text[21] SKIP (데이터 없음)
+[COMPONENTS] 2 components built
+[PUBLISH RESULT] {"isSuccess": true, "result": {"logNo": 224275706441, "modiDate": 1777981728420}}
+[REPORT] C:\Users\com\Desktop\네이버전용\report_20260505.csv: #4 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[LOGIN] URL check: https://blog.naver.com/s_a_v → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KQW0346X8BX4657FPW6JHYPP
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1777982345571
+[MANUAL] prompt: 에어컨매립형배관이땅속에서꺾여서 스프링이 안들어가는이유 < 제목 / / 수집한 글은 다음과 같아 :  - / <h2 style='font-size...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[CHATGPT DEBUG] _current_excel_counter = 0, len(gpt_urls) = 2
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5e...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 442 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+[[<<에어컨 매립배관 꺾임 원인과 해결방법 총정리>>]]
+
+<h2 style='font-size:26px;' align='left'>에어컨 매립배관 꺾임, 왜 이렇게 자주 발생할까요?</h2> 에어컨을 설치하려고 현장에 방문해보면 생각보다 많은 곳에서 <b>에어컨 매립배관 꺾임</b> 문제가 발견돼요. 특히 스프링이 들어가지 않을 정도로 꺾여 있는 경우는 단순 시공 문제가 아니라 구조적인 문제일 가능성이 높아요. 에어컨 매립배관은 벽체나 바닥, 즉 땅속에 매립되어 있기 때문에 한 번 꺾이게 되면 눈으로 확인하기 어렵고, 문제를 방치하면 냉매 흐름이 원활하지 않아 <b>에어컨 냉방 효율 저하</b>로 이어져요. 더 심한 경우에는 냉매 순환이 막혀 압력이 비정상적으로 상승하면서 실외기 고장이나 화재 위험까지 이어질 수 있어요. 실제로 현장에서 보면 단순히 “
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 442
+[PARSE] GPT 제목: 에어컨 매립배관 꺾임 원인과 해결방법 총정리
+[PARSE] 인트로: 0자, h2 섹션: 1개
+  [h2 0] heading: 에어컨 매립배관 꺾임, 왜 이렇게 자주 발생할까요?  body: 319자
+[TITLE] GPT 제목 사용: 에어컨 매립배관 꺾임 원인과 해결방법 총정리
+[PARSE] 콘텐츠 큐: 2개
+  [0] heading: 에어컨 매립배관 꺾임, 왜 이렇게 자주 발생할까요?
+  [1] body: 에어컨을 설치하려고 현장에 방문해보면 생각보다 많은 곳에서 <b>에어컨 매립배관 꺾임</b
+  [block 1] text → heading+body (355자)
+  [block 2] text → PASS (큐 소진)
+  [block 3] quotation → PASS (heading 부족)
+  [block 4] text → PASS (큐 소진)
+  [block 5] quotation → PASS (heading 부족)
+  [block 6] text → PASS (큐 소진)
+  [block 7] quotation → PASS (heading 부족)
+  [block 8] text → PASS (큐 소진)
+  [block 9] quotation → PASS (heading 부족)
+  [block 10] text → PASS (큐 소진)
+  [block 11] quotation → PASS (heading 부족)
+  [block 12] text → PASS (큐 소진)
+  [block 13] quotation → PASS (heading 부족)
+  [block 14] text → PASS (큐 소진)
+  [block 15] quotation → PASS (heading 부족)
+  [block 16] text → PASS (큐 소진)
+  [block 17] quotation → PASS (heading 부족)
+  [block 18] text → PASS (큐 소진)
+  [block 19] quotation → PASS (heading 부족)
+  [block 20] text → PASS (큐 소진)
+  [block 21] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (355자) <b>에어컨 매립배관 꺾임, 왜 이렇게 자주 발생할까요?</b>
+에어컨을 설치하려고 현장에 방문해보면 생각보...
+  [block 2] text: (비어있음)
+  [block 3] quotation: (비어있음)
+  [block 4] text: (비어있음)
+  [block 5] quotation: (비어있음)
+  [block 6] text: (비어있음)
+  [block 7] quotation: (비어있음)
+  [block 8] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 11] quotation: (비어있음)
+  [block 12] text: (비어있음)
+  [block 13] quotation: (비어있음)
+  [block 14] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 17] quotation: (비어있음)
+  [block 18] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 21] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=fixed, needed_images=0, img_path=, driver_labsfx=False
+[MAP] maps=['', ''], excel_counter=0, query=""
+[COMPONENT] represent_image SKIP (대표이미지 없음)
+[COMPONENT] text[2] SKIP (데이터 없음)
+[COMPONENT] quotation[3] SKIP (데이터 없음)
+[COMPONENT] text[4] SKIP (데이터 없음)
+[COMPONENT] quotation[5] SKIP (데이터 없음)
+[COMPONENT] text[6] SKIP (데이터 없음)
+[COMPONENT] quotation[7] SKIP (데이터 없음)
+[COMPONENT] text[8] SKIP (데이터 없음)
+[COMPONENT] quotation[9] SKIP (데이터 없음)
+[COMPONENT] text[10] SKIP (데이터 없음)
+[COMPONENT] quotation[11] SKIP (데이터 없음)
+[COMPONENT] text[12] SKIP (데이터 없음)
+[COMPONENT] quotation[13] SKIP (데이터 없음)
+[COMPONENT] text[14] SKIP (데이터 없음)
+[COMPONENT] quotation[15] SKIP (데이터 없음)
+[COMPONENT] text[16] SKIP (데이터 없음)
+[COMPONENT] quotation[17] SKIP (데이터 없음)
+[COMPONENT] text[18] SKIP (데이터 없음)
+[COMPONENT] quotation[19] SKIP (데이터 없음)
+[COMPONENT] text[20] SKIP (데이터 없음)
+[COMPONENT] text[21] SKIP (데이터 없음)
+[COMPONENTS] 1 components built
+[PUBLISH RESULT] {"isSuccess": true, "result": {"logNo": 224275716682, "modiDate": 1777982432830}}
+[REPORT] C:\Users\com\Desktop\네이버전용\report_20260505.csv: #5 성공
+[PUBLISH] server: https://sgtestflask.autoprogram.blog/
+[LOGIN] cookie injected from C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[LOGIN] URL check: https://blog.naver.com/s_a_v → logged_in=True
+[LOGIN] cookie saved/renewed: C:\Users\com\Desktop\네이버전용\naver_cookie_save_s_a_v.pkl
+[TOKEN] eyJ0eXAiOiJKV1QiLCJh...
+[EDITOR_ID] 01KQW0BRA2RYMHHEJE95H4KYC4
+[AUTO_SAVE FALLBACK] first attempt failed: string indices must be integers
+[AUTO_SAVE FALLBACK] 1777982628295
+[MANUAL] prompt: 거실에어컨을 사용하면 나도모르게 아래층 천장으로 물이떨어지는 누수원인은? < 제목 / / 수집한 글은 다음과 같아 :  - / <h2 style...
+[CHATGPT DEBUG] gpt_urls 전체 = ['https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu', 'https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu']
+[CHATGPT DEBUG] _current_excel_counter = 1, len(gpt_urls) = 2
+[CHATGPT] driver.get() 호출 전 URL: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] driver.get() 호출 후 current_url: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5eacb8a9-neibeobeulrogeu
+[CHATGPT] 엑셀 gpt주소: https://chatgpt.com/g/g-69de45bda254819187b5ab3c5e...
+[CHATGPT] prompt sent, waiting for response...
+[CHATGPT] response collected: 870 chars
+────────────────────────────────────────────────────────────
+[수집 원본]
+────────────────────────────────────────────────────────────
+<<<전체 글 시작>>>
+
+[[<<거실에어컨 사용 시 아래층 누수 원인 총정리>>]]
+
+거실에어컨을 사용하다 보면 어느 날 갑자기 아래층에서 연락이 오는 경우가 있어요. “천장에서 물이 떨어진다”는 이야기인데요. 이런 상황은 단순한 물 떨어짐이 아니라, 실제로는 에어컨 매립배관, 누수, 전선 문제, 통신에러, 심지어 화재 위험까지 이어질 수 있는 중요한 신호일 수 있어요. 특히 에어컨을 켤 때만 발생하는 누수라면, 대부분 원인은 내부 구조나 배관 문제에서 시작되는 경우가 많아요. 현장에서 수많은 사례를 보면 단순히 물이 고여 넘치는 수준이 아니라, 잘못된 시공이나 관리 부족으로 인해 에어컨배관 구조 자체의 문제가 누적으로 발생한 경우가 많아요. 그래서 단순한 증상만 보는 게 아니라 왜 이런 누수가 생기는지 근본적인 원인을 아는 것이 정말 중요해요.
+
+<h2 style='font-size:26px;' align='left'>거실에어컨 누수, 왜 아래층까지 내려갈까?</h2>
+
+거실에어컨에서 발생한 물이 아래층까지 내려간다는 건 단순한 표면 누수가 아니에요. 대부분은 매립된 에어컨배관 내부에서 문제가 발생한 경우가 많아요. 에어컨은 작동 시 공기 중 수분을 응축시켜 물을 만들고, 이 물은 배수관을 통해 외부로 배출되어야 해요. 그런데 이 과정에서 문제가 생기면 물이 배출되지 못하고 역류하거나 고이게 되죠.
+
+<b>주요 원인 정리</b>
+
+<ul> <li>배관 내부 이물질로 인한 막힘</li> <li>배관 기울기(구배) 불량 → 역구배 형성</li> <li>슬라임(점액질) 생성으로 물 흐름 방해</li> <li>배관 연결부 누수 및 틈 발생</li> </ul>
+
+이 상태에서 계속 에어컨을 사용하면 물이 천장 내부로 스며들고, 결국 아래층
+────────────────────────────────────────────────────────────
+[MANUAL GEN] response length: 870
+[PARSE] GPT 제목: 거실에어컨 사용 시 아래층 누수 원인 총정리
+[PARSE] 인트로: 374자, h2 섹션: 1개
+  [h2 0] heading: 거실에어컨 누수, 왜 아래층까지 내려갈까?  body: 374자
+[TITLE] GPT 제목 사용: 거실에어컨 사용 시 아래층 누수 원인 총정리
+[PARSE] 콘텐츠 큐: 3개
+  [0] intro: 거실에어컨을 사용하다 보면 어느 날 갑자기 아래층에서 연락이 오는 경우가 있어요. “천장에
+  [1] heading: 거실에어컨 누수, 왜 아래층까지 내려갈까?
+  [2] body: 거실에어컨에서 발생한 물이 아래층까지 내려간다는 건 단순한 표면 누수가 아니에요. 대부분은
+  [block 1] text → intro (374자)
+  [block 2] text → heading+body (405자)
+  [block 3] quotation → PASS (heading 부족)
+  [block 4] text → PASS (큐 소진)
+  [block 5] quotation → PASS (heading 부족)
+  [block 6] text → PASS (큐 소진)
+  [block 7] quotation → PASS (heading 부족)
+  [block 8] text → PASS (큐 소진)
+  [block 9] quotation → PASS (heading 부족)
+  [block 10] text → PASS (큐 소진)
+  [block 11] quotation → PASS (heading 부족)
+  [block 12] text → PASS (큐 소진)
+  [block 13] quotation → PASS (heading 부족)
+  [block 14] text → PASS (큐 소진)
+  [block 15] quotation → PASS (heading 부족)
+  [block 16] text → PASS (큐 소진)
+  [block 17] quotation → PASS (heading 부족)
+  [block 18] text → PASS (큐 소진)
+  [block 19] quotation → PASS (heading 부족)
+  [block 20] text → PASS (큐 소진)
+  [block 21] text → PASS (큐 소진)
+────────────────────────────────────────────────────────────
+[최종 블록 매핑 결과]
+────────────────────────────────────────────────────────────
+  [block 1] 텍스트: (374자) 거실에어컨을 사용하다 보면 어느 날 갑자기 아래층에서 연락이 오는 경우가 있어요. “천장에서 물이 떨어진다”...
+  [block 2] 텍스트: (405자) <b>거실에어컨 누수, 왜 아래층까지 내려갈까?</b>
+거실에어컨에서 발생한 물이 아래층까지 내려간다는 건 ...
+  [block 3] quotation: (비어있음)
+  [block 4] text: (비어있음)
+  [block 5] quotation: (비어있음)
+  [block 6] text: (비어있음)
+  [block 7] quotation: (비어있음)
+  [block 8] text: (비어있음)
+  [block 9] quotation: (비어있음)
+  [block 10] text: (비어있음)
+  [block 11] quotation: (비어있음)
+  [block 12] text: (비어있음)
+  [block 13] quotation: (비어있음)
+  [block 14] text: (비어있음)
+  [block 15] quotation: (비어있음)
+  [block 16] text: (비어있음)
+  [block 17] quotation: (비어있음)
+  [block 18] text: (비어있음)
+  [block 19] quotation: (비어있음)
+  [block 20] text: (비어있음)
+  [block 21] text: (비어있음)
+────────────────────────────────────────────────────────────
+[IMG] img_mode=fixed, needed_images=0, img_path=, driver_labsfx=False
+[MAP] maps=['', ''], excel_counter=1, query=""
+[COMPONENT] represent_image SKIP (대표이미지 없음)
+[COMPONENT] quotation[3] SKIP (데이터 없음)
+[COMPONENT] text[4] SKIP (데이터 없음)
+[COMPONENT] quotation[5] SKIP (데이터 없음)
+[COMPONENT] text[6] SKIP (데이터 없음)
+[COMPONENT] quotation[7] SKIP (데이터 없음)
+[COMPONENT] text[8] SKIP (데이터 없음)
+[COMPONENT] quotation[9] SKIP (데이터 없음)
+[COMPONENT] text[10] SKIP (데이터 없음)
+[COMPONENT] quotation[11] SKIP (데이터 없음)
+[COMPONENT] text[12] SKIP (데이터 없음)
+[COMPONENT] quotation[13] SKIP (데이터 없음)
+[COMPONENT] text[14] SKIP (데이터 없음)
+[COMPONENT] quotation[15] SKIP (데이터 없음)
+[COMPONENT] text[16] SKIP (데이터 없음)
+[COMPONENT] quotation[17] SKIP (데이터 없음)
+[COMPONENT] text[18] SKIP (데이터 없음)
+[COMPONENT] quotation[19] SKIP (데이터 없음)
+[COMPONENT] text[20] SKIP (데이터 없음)
+[COMPONENT] text[21] SKIP (데이터 없음)
+[COMPONENTS] 2 components built
+[PUBLISH RESULT] {"isSuccess": true, "result": {"logNo": 224275720326, "modiDate": 1777982686305}}
+[REPORT] C:\Users\com\Desktop\네이버전용\report_20260505.csv: #6 성공
+[SAVE OPTIONS] {'interval': '5`', 'rest_time': '10', 'delay': '0', 'publish_mode': 'draft', 'title_transform': True, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': 'server1', 'gen_mode': 'manual', 'start_row': '1', 'img_after_use': 'keep', 'text_align': 'center', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'fixed'}
+[DONE] 전체 완료 → start_row 리셋 (1)
