@@ -1,0 +1,8 @@
+buffers_g ['', '', '', '', '']
+----------------------------import --------
+에러메세지
+'username'
+[IP] https://api64.ipify.org 실패 (returncode 3221225786)
+외부 IP: 110.13.137.225
+시작
+File saved to: C:\Users\two-kim\Downloads\shopping-traffic\logfile.txt
