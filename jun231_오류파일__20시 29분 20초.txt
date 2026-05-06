@@ -1,0 +1,5 @@
+[LOAD OPTIONS] config has options: True
+[LOAD OPTIONS] opts: {'interval': '1', 'rest_time': '5', 'delay': '0', 'publish_mode': 'lab', 'title_transform': False, 'fixed_image': True, 'ip_change': False, 'ip_method': 'tethering', 'server': '2', 'gen_mode': 'manual', 'start_row': '6', 'img_after_use': 'keep', 'text_align': 'right', 'random_bg': True, 'random_bg_prob': 80, 'random_bg_line': 70, 'img_mode': 'ai_labsfx'}
+[LOAD OPTIONS] gen_mode set to: manual
+[LOAD OPTIONS] done. gen_mode_var=manual
+[LABSFX ERROR] No module named 'selenium.webdriver.edge.webdriver'
