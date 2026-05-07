@@ -1,0 +1,73 @@
+DOCS_modelChunk not found.
+An error occurred: 
+학습chatGPT1
+findIng_excel_here Premium_Keyword.xlsx
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\8d38033425484971aedd482c62814511.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\27514211baaf4602beb0ad46b303e648.pyd
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\d521e8063a6148059364b57d79cd5d39.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 147
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\mycom\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=147
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.06s
+크롬 all set
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\ff524bd7f1a2438a9911b07194db6d20.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\3631fe4020a143deb731b7398d4377e2.pyd
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\aae7867accc844c6a0543e51d8de55f4.pyd
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 147
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\mycom\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=147
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 0.82s
+크롬 all set
+시작
+File saved to: C:\Users\mycom\Desktop\12-15New워드프레스\logfile.txt
