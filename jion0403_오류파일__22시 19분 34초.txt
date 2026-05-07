@@ -1,0 +1,1078 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+1176
+0       새길병원
+1       새길병원
+2       새길병원
+3       새길병원
+4       새길병원
+        ... 
+1171    새길병원
+1172    새길병원
+1173    새길병원
+1174    새길병원
+1175    새길병원
+Name: 작업 매장, Length: 1176, dtype: object
+find_name 새길병원
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth_3oj_me9u
+[데이터절감] 익스텐션 webRequest 차단 활성화 (사진/비디오 — 약 80% 절감)
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 인증 성공 — IP=1.255.171.136
+[smartproxy] target navigation 완료: https://www.naver.com/
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=33033170 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x416c93+10b53]
+	chromedriver!GetHandleVerifier [0x416dc4+10c84]
+	chromedriver!(No symbol) [0x1f20f0]
+	chromedriver!(No symbol) [0x23ac7a]
+	chromedriver!(No symbol) [0x23af1b]
+	chromedriver!(No symbol) [0x27d172]
+	chromedriver!(No symbol) [0x25dc14]
+	chromedriver!(No symbol) [0x27a9a4]
+	chromedriver!(No symbol) [0x25d966]
+	chromedriver!(No symbol) [0x2302f9]
+	chromedriver!(No symbol) [0x2310b4]
+	chromedriver!GetHandleVerifier [0x66ef49+268e09]
+	chromedriver!GetHandleVerifier [0x66a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x6883b7+282277]
+	chromedriver!GetHandleVerifier [0x42fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x437c1d+31add]
+	chromedriver!GetHandleVerifier [0x41f6a8+19568]
+	chromedriver!GetHandleVerifier [0x41f872+19732]
+	chromedriver!GetHandleVerifier [0x408cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x77065d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77c6d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77c6d7c1+231]
+
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth_etlyamin
+[데이터절감] 익스텐션 webRequest 차단 활성화 (사진/비디오 — 약 80% 절감)
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 인증 성공 — IP=211.60.156.175
+[smartproxy] target navigation 완료: https://www.naver.com/
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=33033170 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+더보기
+머지???
+부산진구 부전동안과
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+[지역체크] region=None
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다 (V2: skip)
+pagedown 끝 (V2: skip)
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+41
+[1] 업체명: 이미지 수
+10
+[2] 업체명: 이미지 수
+13
+[3] 업체명: 이미지 수
+11
+[4] 업체명: 이미지 수
+24
+[5] 업체명: 이미지 수
+7
+[6] 업체명: 이미지 수
+16
+[7] 업체명: 이미지 수
+6
+[8] 업체명: 이미지 수
+14
+[9] 업체명: 이미지 수
+5
+[10] 업체명: 이미지 수
+14
+[11] 업체명: 이미지 수
+22
+[12] 업체명: 이미지 수
+8
+[13] 업체명: 이미지 수
+17
+[14] 업체명: 이미지 수
+10
+[15] 업체명: 이미지 수
+2
+[16] 업체명: 이미지 수
+25
+[17] 업체명: 이미지 수
+6
+[18] 업체명: 이미지 수
+3
+[19] 업체명: 눈사랑안과의원
+[20] 업체명: 이미지 수
+2
+[21] 업체명: 이상협안과의원
+[22] 업체명: 이미지 수
+5
+[23] 업체명: 이미지 수
+29
+[24] 업체명: 이미지 수
+6
+[25] 업체명: 부전안과의원
+[26] 업체명: 이미지 수
+27
+[27] 업체명: 이미지 수
+20
+[28] 업체명: 최안과의원
+[29] 업체명: 이미지 수
+5
+[30] 업체명: 이미지 수
+8
+[31] 업체명: 이미지 수
+8
+[32] 업체명: 아이존안과의원
+[33] 업체명: 현대안과의원
+[34] 업체명: 이미지 수
+15
+[35] 업체명: 이미지 수
+9
+[36] 업체명: 이미지 수
+5
+[37] 업체명: 이미지 수
+4
+[38] 업체명: 이미지 수
+10
+[39] 업체명: 이미지 수
+5
+[40] 업체명: 조앤조내과신경과의원
+[41] 업체명: 이미지 수
+6
+이미지 수
+10
+이미지 수
+13
+이미지 수
+11
+이미지 수
+24
+이미지 수
+7
+이미지 수
+16
+이미지 수
+6
+이미지 수
+14
+이미지 수
+5
+이미지 수
+22
+이미지 수
+8
+이미지 수
+17
+이미지 수
+2
+이미지 수
+25
+이미지 수
+3
+눈사랑안과의원
+이상협안과의원
+이미지 수
+29
+부전안과의원
+이미지 수
+27
+이미지 수
+20
+최안과의원
+아이존안과의원
+현대안과의원
+이미지 수
+15
+이미지 수
+9
+이미지 수
+4
+조앤조내과신경과의원
+namelist[Q5].text 이미지 수
+10
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+13
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+11
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+24
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+7
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+16
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+6
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+14
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+5
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+22
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+8
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+17
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+2
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+25
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+3
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 눈사랑안과의원
+namelist_clean 눈사랑안과의원
+find_name 새길병원
+namelist[Q5].text 이상협안과의원
+namelist_clean 이상협안과의원
+find_name 새길병원
+namelist[Q5].text 이미지 수
+29
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 부전안과의원
+namelist_clean 부전안과의원
+find_name 새길병원
+namelist[Q5].text 이미지 수
+27
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+20
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 최안과의원
+namelist_clean 최안과의원
+find_name 새길병원
+namelist[Q5].text 아이존안과의원
+namelist_clean 아이존안과의원
+find_name 새길병원
+namelist[Q5].text 현대안과의원
+namelist_clean 현대안과의원
+find_name 새길병원
+namelist[Q5].text 이미지 수
+15
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+9
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 이미지 수
+4
+namelist_clean 이미지 수
+find_name 새길병원
+namelist[Q5].text 조앤조내과신경과의원
+namelist_clean 조앤조내과신경과의원
+find_name 새길병원
+============================================================
+======= 첫번째 페이지 매장 (총 28개) =======
+target: 새길병원
+------------------------------------------------------------
+  1. 이미지 수
+  2. 이미지 수
+  3. 이미지 수
+  4. 이미지 수
+  5. 이미지 수
+  6. 이미지 수
+  7. 이미지 수
+  8. 이미지 수
+  9. 이미지 수
+  10. 이미지 수
+  11. 이미지 수
+  12. 이미지 수
+  13. 이미지 수
+  14. 이미지 수
+  15. 이미지 수
+  16. 눈사랑안과의원
+  17. 이상협안과의원
+  18. 이미지 수
+  19. 부전안과의원
+  20. 이미지 수
+  21. 이미지 수
+  22. 최안과의원
+  23. 아이존안과의원
+  24. 현대안과의원
+  25. 이미지 수
+  26. 이미지 수
+  27. 이미지 수
+  28. 조앤조내과신경과의원
+------------------------------------------------------------
+Page 1 결과: 매칭 0개
+============================================================
+homeBTN 1
+홈버튼 들어옴
+print_text.text 안과
+print_text.text 전문의
+print_text.text 야간/휴일
+print_text.text 진료중
+print_text.text 예약
+print_text.text 휠체어출입가능
+print_text.text 이미지 수
+10
+print_text.text 그랜드BS안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 905블로그 리뷰 2,064
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+13
+print_text.text 아이시티안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,702블로그 리뷰 2,544
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+11
+print_text.text 바로안과의원 서면역안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 111블로그 리뷰 795
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+24
+print_text.text 밝은수안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,557블로그 리뷰 2,897
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+7
+print_text.text 밝은세상안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 8,075블로그 리뷰 184
+print_text.text 안과 전문의 7명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 이미지 수
+16
+print_text.text 하이뷰안과의원 서면안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,030블로그 리뷰 2,551
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+6
+print_text.text 부산하늘안과의원안과
+print_text.text 진료 종료10:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 782블로그 리뷰 1,270
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 문의
+print_text.text 이미지 수
+14
+print_text.text 누네빛안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 3,385블로그 리뷰 895
+print_text.text 안과 전문의 5명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+5
+print_text.text 서면좋은사람안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 550블로그 리뷰 330
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+14
+print_text.text 제이린안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,195블로그 리뷰 958
+print_text.text 안과 전문의 3명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 이미지 수
+22
+print_text.text 서면성모안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,185블로그 리뷰 158
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+8
+print_text.text 굿모닝성모안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 2,148블로그 리뷰 522
+print_text.text 안과 전문의 3명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 문의
+print_text.text 이미지 수
+17
+print_text.text ABC 안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 339블로그 리뷰 330
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+10
+print_text.text 밝은성모안과의원 부산점안과
+print_text.text 진료 종료10:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 361블로그 리뷰 301
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 이미지 수
+2
+print_text.text 정근안과병원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 205블로그 리뷰 28
+print_text.text 안과 전문의 6명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+25
+print_text.text 굿모닝백이안과의원 서면역안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,198블로그 리뷰 1,217
+print_text.text 안과 전문의 4명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 문의
+print_text.text 이미지 수
+6
+print_text.text 더참안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 373블로그 리뷰 77
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 이미지 수
+3
+print_text.text 백록안과의원안과
+print_text.text 진료 종료08:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 272블로그 리뷰 249
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 
+print_text.text 눈사랑안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 187블로그 리뷰 44
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+2
+print_text.text 신&박킴스안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 304블로그 리뷰 2
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이상협안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 201블로그 리뷰 1
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+5
+print_text.text 다봄안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 246블로그 리뷰 16
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+29
+print_text.text 신세계안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 367블로그 리뷰 132
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 문의
+print_text.text 이미지 수
+6
+print_text.text 눈에손안과의원안과
+print_text.text 진료 종료08:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 136블로그 리뷰 48
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 부전안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 402블로그 리뷰 6
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 이미지 수
+27
+print_text.text 밝은눈안과병원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부암동
+상세주소 열기
+print_text.text 방문자 리뷰 1,543블로그 리뷰 968
+print_text.text 안과 전문의 9명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 이미지 수
+20
+print_text.text 양정베스트안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 양정동
+상세주소 열기
+print_text.text 방문자 리뷰 282블로그 리뷰 1,449
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 문의
+print_text.text 
+print_text.text 최안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 당감동
+상세주소 열기
+print_text.text 방문자 리뷰 665블로그 리뷰 12
+print_text.text 안과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+5
+print_text.text 이영안과의원안과
+print_text.text 진료 종료09:30에 진료 시작
+print_text.text 부산 동구 범일동
+상세주소 열기
+print_text.text 방문자 리뷰 836블로그 리뷰 65
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+8
+print_text.text 누네조은안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 당감동
+상세주소 열기
+print_text.text 방문자 리뷰 256블로그 리뷰 151
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+8
+print_text.text 눈시원안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 범천동
+상세주소 열기
+print_text.text 방문자 리뷰 329블로그 리뷰 104
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 예약
+print_text.text 아이존안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 범천동
+상세주소 열기
+print_text.text 방문자 리뷰 212블로그 리뷰 5
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 현대안과의원안과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 범천동
+상세주소 열기
+print_text.text 방문자 리뷰 262블로그 리뷰 1
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+15
+print_text.text 핑이비인후과의원이비인후과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 1,101블로그 리뷰 1,487
+print_text.text 이비인후과 전문의 4명신경과 외 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 문의
+print_text.text 이미지 수
+9
+print_text.text 새길병원병원,의원
+print_text.text 진료 종료08:30에 진료 시작
+print_text.text 부산 부산진구 부전동
+상세주소 열기
+print_text.text 방문자 리뷰 48블로그 리뷰 173
+print_text.text 안과 전문의 1명내과 외 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+5
+print_text.text 에덴어린이병원소아청소년과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 가야동
+상세주소 열기
+print_text.text 방문자 리뷰 1,097블로그 리뷰 137
+print_text.text 소아청소년과 전문의 4명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+4
+print_text.text 온병원종합병원
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 당감동
+상세주소 열기
+print_text.text 방문자 리뷰 1,104블로그 리뷰 199
+print_text.text 내과 전문의 17명외과 외 전문의 8명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+10
+print_text.text 김병진이비인후과의원병원,의원
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 초읍동
+상세주소 열기
+print_text.text 방문자 리뷰 147블로그 리뷰 6
+print_text.text 이비인후과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+5
+print_text.text 장새로이내과의원내과
+print_text.text 진료 종료09:00에 진료 시작
+print_text.text 부산 부산진구 연지동
+상세주소 열기
+print_text.text 방문자 리뷰 360블로그 리뷰 2
+print_text.text 내과 전문의 2명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 
+print_text.text 조앤조내과신경과의원내과
+print_text.text 진료 종료08:30에 진료 시작
+print_text.text 부산 부산진구 양정동
+상세주소 열기
+print_text.text 방문자 리뷰 619블로그 리뷰 11
+print_text.text 내과 전문의 1명신경과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이미지 수
+6
+print_text.text 항도퀀텀의원 부산서면병원,의원
+print_text.text 진료 종료10:00에 진료 시작
+print_text.text 부산 부산진구 전포동
+상세주소 열기
+print_text.text 방문자 리뷰 76블로그 리뷰 47
+print_text.text 안과 전문의 1명
+print_text.text 출발
+print_text.text 도착
+print_text.text 거리뷰
+print_text.text 이전페이지
+print_text.text 1
+print_text.text 다음페이지
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 85
+동작중 55
+시작
+File saved to: C:\Users\user\Downloads\OneDrive_2026-04-30\logfile.txt
