@@ -1,0 +1,3083 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+2
+0    휴대폰성지홈서비스여기다 신천점
+1    휴대폰성지홈서비스여기다 매곡점
+Name: 작업 매장, dtype: object
+find_name 휴대폰성지홈서비스여기다 신천점
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce15:3d2a:e10d:a248:e2f4:123f
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.60
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51277): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.134
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53060): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce15:208e:e10d:a248:e2f4:123f
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56416): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.14
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.187
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54704): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.164
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63934): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce32:94a9:e10d:a248:e2f4:123f
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce31:f8a6:e10d:a248:e2f4:123f
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52644): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=21 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.3
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49732): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.114
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61161): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.144
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56771): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.234
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56955): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.132
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.229
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62624): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.2
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60763): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.197
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51180): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.166
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57456): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.67
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64128): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=18 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce44:37ad:e10d:a248:e2f4:123f
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52650): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.110
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54584): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce14:8fbf:e10d:a248:e2f4:123f
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=65213): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.99
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56735): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.172
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52910): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.162
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=65167): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.156
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63637): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.215
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62676): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.192
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50096): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.26
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64130): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=16 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.147
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=59332): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.68
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58884): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.196
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60941): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.174
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61143): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce43:5c2f:14df:b48f:1614:d802
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55199): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.24
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.70
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55062): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce10:3317:a9e9:17bc:314d:bffd
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58780): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.244
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49550): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce41:8e3e:1905:5875:a63b:42d0
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+[clean_temp_folder] deleted=14 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.232
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.130
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51661): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.134
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.118
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.252
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51097): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 2001:e60:ce11:c95e:e1a5:d740:906:98dc
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62016): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.184
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56411): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.170
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55244): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.146
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51600): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.84
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56659): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=16 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.107
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55652): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.50
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=65334): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.34
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49278): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.132
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56204): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.34
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53295): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.72
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.68
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.234
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53794): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.8
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49412): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.54
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58336): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=14 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.202
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57500): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.26
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=59990): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.4
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49518): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.144
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62191): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.130
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62541): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.154
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54294): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.44
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64772): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.18
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55289): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.124
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62376): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.54
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63581): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=15 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.238
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50338): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.198
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63521): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.152
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63653): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.10
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57004): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.26
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55106): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.116
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62902): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.2
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50406): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.186
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64567): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.160
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49364): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.220
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56466): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=17 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.200
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57631): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.196
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50843): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.140
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=59335): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.128
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50307): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.236
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52143): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.10
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53003): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.156
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62528): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.172
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.178
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63468): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.50
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60700): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=16 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.96
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56631): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.70
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64001): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.64
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.86
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56178): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.166
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50617): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.194
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51666): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.128
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51076): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.150
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52747): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.98
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63941): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.154
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57092): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=18 skipped=11 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.28
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55888): Read timed out. (read timeout=120)
+find_name 휴대폰성지홈서비스여기다 매곡점
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.246
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63395): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.124
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53631): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.228
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58235): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.236
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53223): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.176
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50882): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.94
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54939): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.104
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58290): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.102
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52600): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.216
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61303): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=13 skipped=11 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.194
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50525): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.226
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63947): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.20
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64582): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.228
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56905): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.206
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64467): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.228
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64263): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.188
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56560): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.128
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54013): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.22
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60526): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.204
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+[clean_temp_folder] deleted=14 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.190
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50959): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.254
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63156): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.242
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57109): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.78
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64663): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.42
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55905): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.78
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60493): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.56
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64703): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.94
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52612): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.100
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52640): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.192
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64659): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=17 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.108
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58509): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.50
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57255): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.148
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62185): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.56
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=65288): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.188
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56358): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.190
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.222
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60027): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.166
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64587): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.100
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56283): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.78
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51768): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=13 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.120
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55841): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.218
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51398): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.6
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53355): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.194
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64834): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.244
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51910): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.118
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53829): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.188
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54927): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.166
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61436): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.148
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55791): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.192
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49740): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=15 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.84
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51777): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.176
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=59754): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.168
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54083): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.80
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53443): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.134
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61362): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.122
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52895): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.28
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54960): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.242
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60610): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.124
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56597): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.54
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55432): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=17 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.220
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58872): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.80
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=62471): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.160
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=65339): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.30
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53382): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.88
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61937): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.150
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=50445): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.38
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61622): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.128
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55667): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.212
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56475): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.246
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=57097): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=15 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.26
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61406): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.144
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63088): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.66
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49548): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.230
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49844): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.208
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.4
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58756): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.116
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60093): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.230
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.132
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=54711): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.134
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=51309): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=17 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.28
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61573): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.40
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63729): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.126
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=58706): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.20
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60919): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.154
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=56964): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.186
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61248): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.182
+
+휴대폰성지홈서비스여기다 더보기
+머지???
+휴대폰성지홈서비스여기다
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49814): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.56
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52709): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.82.208
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60377): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.106
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=63634): Read timed out. (read timeout=120)
+[clean_temp_folder] deleted=13 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.84
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=55147): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.18
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=59086): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.16
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=53147): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.92
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.85.186
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60803): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.4
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=52733): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.92
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=49624): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.83.90
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61267): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.80.82
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=64560): Read timed out. (read timeout=120)
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.226
+
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7c628d685+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7c628d6f0+14f60]
+	chromedriver!(No symbol) [0x7ff7c5fdd59d]
+	chromedriver!(No symbol) [0x7ff7c6036f42]
+	chromedriver!(No symbol) [0x7ff7c603724c]
+	chromedriver!(No symbol) [0x7ff7c6087967]
+	chromedriver!(No symbol) [0x7ff7c60844ff]
+	chromedriver!(No symbol) [0x7ff7c6029608]
+	chromedriver!(No symbol) [0x7ff7c602a4f3]
+	chromedriver!GetHandleVerifier [0x7ff7c658b719+312f89]
+	chromedriver!GetHandleVerifier [0x7ff7c6585c2b+30d49b]
+	chromedriver!GetHandleVerifier [0x7ff7c65a8fb2+330822]
+	chromedriver!GetHandleVerifier [0x7ff7c62aa435+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7c62b2e2c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7c6296a24+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7c6296bb4+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7c627b2d7+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff95e82e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff95eaac48c+2c]
+
+[clean_temp_folder] deleted=15 skipped=10 dir=C:\Users\pc\AppData\Local\Temp
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.81.232
+
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=61139): Read timed out. (read timeout=120)
+DB access----success!!
+2
+0    휴대폰성지홈서비스여기다 신천점
+1    휴대폰성지홈서비스여기다 매곡점
+Name: 작업 매장, dtype: object
+find_name 휴대폰성지홈서비스여기다 신천점
+IP 변경중...
+
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.43.213
+
+
+
+변경된 IP : 118.235.84.134
+
+시작
+File saved to: C:\플레이스\logfile.txt
