@@ -1,0 +1,1007 @@
+errolinkQQ C:/Users/marketingCOM1/Desktop/tistory
+errolinkQQ_page3 C:\Users\marketingCOM1\Desktop\tistory
+An error occurred: local variable 'extracted_text' referenced before assignment
+학습chatGPT2
+맨아래
+크롬드라이버 강제 종료 성공
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 147
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\marketingCOM1\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=147
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.50s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 147
+버전업 필요
+경로가 존재합니다!
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 달토하이퍼블릭
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 부산휴대폰성지
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 선릉하퍼
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 스카이가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 돔가라오케
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+title 강남하퍼
+IDPW 개수: 529
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image7.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 147916
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image1.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 545656
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image3.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 499756
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image2.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 517548
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image4.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 87156
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image4.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 87156
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image2.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 517548
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image4.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 87156
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\chrome_chrome_BITS_1360_1094044731 because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image1.jpg
+image0.png로 저장 완료.
+chef 강남하퍼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 545656
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image1.jpg
+image0.png로 저장 완료.
+chef 달토하이퍼블릭
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 545656
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:/Users/marketingCOM1/Desktop/tistory\Image0.jpg
+image0.png로 저장 완료.
+chef 달토하이퍼블릭
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:/Users/marketingCOM1/Desktop/tistory
+image_file Image0.png
+img_sub_send 545656
+dir_path C:/Users/marketingCOM1/Desktop/tistory
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="bb93026ae9af977e0cbe40f5ab865bb1")>
+----------------------------import --------
+에러메세지
+(-2147221008, 'CoInitialize가 호출되지 않았습니다.', None, None)
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\036e95ba-1532-48de-9b0f-59bbf383af58.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\c9666753-a2f3-4230-b38e-5ca3e6133669.tmp because it's in use by another process.
+크롬드라이버 강제 종료 성공
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+크롬드라이버 강제 종료 성공
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 147
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\marketingCOM1\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=147
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 0.94s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 크롬 버전 :: 147
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 147
+내 드라이버 버전 :: 147
+=========================================
+내 크롬 버전 :: 147
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 147
+버전업 필요
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\tistory\logfile.txt
