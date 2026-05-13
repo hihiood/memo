@@ -1,0 +1,419 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\acdd058da4b144c1af570b577a547c04.pyd
+Running main() from the .pyd file...
+Captured output: 148
+내 크롬 버전 :: 148
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\de79ed5c35ba43ae86792441d00aca20.pyd
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\511d72d7661d4382a25f89101ba2b5a6.pyd
+Running main() from the .pyd file...
+Captured output: 148
+내 드라이버 버전 :: 148
+=========================================
+내 크롬 버전 :: 148
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 148
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\74b68c4978004058b7b4c39be4e5aaba.pyd
+Running main() from the .pyd file...
+Captured output: 148
+내 크롬 버전 :: 148
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\8cf2c57101404733a34aaae90a8fa0f7.pyd
+Running main() from the .pyd file...
+Captured output: 148
+최신 크롬 버전 :: 148
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\55d37afebb88432c819340c294dea707.pyd
+Running main() from the .pyd file...
+Captured output: 148
+내 드라이버 버전 :: 148
+=========================================
+내 크롬 버전 :: 148
+최신 크롬 버전 :: 148
+내 드라이버 버전 :: 148
+군산에서 먹통된 휴대폰 맡겼는데 연락처까지 살아났어요
+title 군산에서 먹통된 휴대폰 맡겼는데 연락처까지 살아났어요
+익산에서 충전 안 되던 폰 결국 데이터 복구됐습니다
+title 익산에서 충전 안 되던 폰 결국 데이터 복구됐습니다
+용인 처인구 CCTV설치 수리 맡겼더니 녹화 정상됐어요
+title 용인 처인구 CCTV설치 수리 맡겼더니 녹화 정상됐어요
+용인 CCTV설치 오래 방치했다가 영상 안 남을 뻔했어요
+title 용인 CCTV설치 오래 방치했다가 영상 안 남을 뻔했어요
+용인 수지구 CCTV설치 후 검은 화면 떠서 바로 점검했어요
+title 용인 수지구 CCTV설치 후 검은 화면 떠서 바로 점검했어요
+용인 기흥구 CCTV설치 교체 후 사각지대 줄어들었어요
+title 용인 기흥구 CCTV설치 교체 후 사각지대 줄어들었어요
+용인 처인구 CCTV설치 점검 받고 저장 기간 늘어났어요
+title 용인 처인구 CCTV설치 점검 받고 저장 기간 늘어났어요
+용인 CCTV설치 수리 맡긴 뒤 화질 차이 확실히 느꼈어요
+title 용인 CCTV설치 수리 맡긴 뒤 화질 차이 확실히 느꼈어요
+용인 수지구 CCTV설치 후 DVR 오류 해결한 후기입니다
+title 용인 수지구 CCTV설치 후 DVR 오류 해결한 후기입니다
+용인 기흥구 CCTV설치 점검 안 했다가 녹화 누락 생겼어요
+title 용인 기흥구 CCTV설치 점검 안 했다가 녹화 누락 생겼어요
+용인 처인구 CCTV설치 교체 맡기길 잘했다는 생각 들었어요
+title 용인 처인구 CCTV설치 교체 맡기길 잘했다는 생각 들었어요
+용인 CCTV설치 후 인터넷 연결 문제 점검으로 해결됐어요
+title 용인 CCTV설치 후 인터넷 연결 문제 점검으로 해결됐어요
+대전에서 휴대폰복구 맡기고 고장난 기기 복구한 후기
+title 대전에서 휴대폰복구 맡기고 고장난 기기 복구한 후기
+세종 휴대폰복구 통해 사라진 카톡 되찾은 실제 사례
+title 세종 휴대폰복구 통해 사라진 카톡 되찾은 실제 사례
+청주에서 휴대폰복구 진행 후 데이터 복구 성공 경험담
+title 청주에서 휴대폰복구 진행 후 데이터 복구 성공 경험담
+전주 휴대폰복구 맡긴 후 초기화 스마트폰 복원 후기
+title 전주 휴대폰복구 맡긴 후 초기화 스마트폰 복원 후기
+금산 휴대폰복구 통해 먹통 스마트폰 되살린 실제 사례
+title 금산 휴대폰복구 통해 먹통 스마트폰 되살린 실제 사례
+계룡에서 휴대폰복구 진행 후 삭제된 문자 복원 경험
+title 계룡에서 휴대폰복구 진행 후 삭제된 문자 복원 경험
+대전에서 휴대폰복구 맡겼다가 완전히 포기했던 가족사진까지 복구된 충격적인 실제 후기 공개합니다
+title 대전에서 휴대폰복구 맡겼다가 완전히 포기했던 가족사진까지 복구된 충격적인 실제 후기 공개합니다
+문자 메시지 완전삭제가 대전 사건에서 확인된 허점
+title 문자 메시지 완전삭제가 대전 사건에서 확인된 허점
+인스타그램 파일 삭제 실패 사례가 공주 지역에서 발생
+title 인스타그램 파일 삭제 실패 사례가 공주 지역에서 발생
+텔레그램 기록이 서천 사건에서 남아있던 이유
+title 텔레그램 기록이 서천 사건에서 남아있던 이유
+밴드 사진 영구삭제가 논산 포렌식에서 실패
+title 밴드 사진 영구삭제가 논산 포렌식에서 실패
+카톡 사진 흔적이 천안 실험에서 발견된 이유
+title 카톡 사진 흔적이 천안 실험에서 발견된 이유
+문자 MMS 복구가 옥천 장비에서 가능했던 배경
+title 문자 MMS 복구가 옥천 장비에서 가능했던 배경
+인스타 스토리 흔적이 청주 연구팀에서 검출
+title 인스타 스토리 흔적이 청주 연구팀에서 검출
+텔레그램 파일 완전삭제 실패 사례가 광주에서 추가 확인
+title 텔레그램 파일 완전삭제 실패 사례가 광주에서 추가 확인
+대전 휴대폰복구 상담만 받으려다 바로 맡기게 된 결정적인 이유와 복구 성공까지의 전체 과정 공개
+title 대전 휴대폰복구 상담만 받으려다 바로 맡기게 된 결정적인 이유와 복구 성공까지의 전체 과정 공개
+대전에서 휴대폰복구 진행 후 초기화된 스마트폰 카카오톡까지 복구된 실제 복원 사례 자세히 공개
+title 대전에서 휴대폰복구 진행 후 초기화된 스마트폰 카카오톡까지 복구된 실제 복원 사례 자세히 공개
+대전 휴대폰복구 맡겼는데 메인보드 손상 상태에서도 데이터가 살아난 놀라운 결과 후기입니다
+title 대전 휴대폰복구 맡겼는데 메인보드 손상 상태에서도 데이터가 살아난 놀라운 결과 후기입니다
+대전에서 휴대폰복구 비용 비교하다가 결국 전문가에게 맡길 수밖에 없었던 진짜 이유 공개
+title 대전에서 휴대폰복구 비용 비교하다가 결국 전문가에게 맡길 수밖에 없었던 진짜 이유 공개
+대전 휴대폰복구 진행 후 삭제된 줄 알았던 사진과 영상이 모두 복구된 실제 성공 사례 이야기
+title 대전 휴대폰복구 진행 후 삭제된 줄 알았던 사진과 영상이 모두 복구된 실제 성공 사례 이야기
+대전에서 휴대폰복구 맡긴 후 복구 불가라던 스마트폰이 다시 살아난 충격적인 반전 후기 공개
+title 대전에서 휴대폰복구 맡긴 후 복구 불가라던 스마트폰이 다시 살아난 충격적인 반전 후기 공개
+대전에서 삭제된 파일 복구된 블랙박스영상복구 후기입니다
+title 대전에서 삭제된 파일 복구된 블랙박스영상복구 후기입니다
+세종에서 사고 순간 영상 다시 찾았습니다 블랙박스복구 성공
+title 세종에서 사고 순간 영상 다시 찾았습니다 블랙박스복구 성공
+청주에서 메모리 인식 안 됐는데 영상 살아난 이유 공개
+title 청주에서 메모리 인식 안 됐는데 영상 살아난 이유 공개
+전주에서 포맷된 블랙박스 영상 복구 가능했습니다
+title 전주에서 포맷된 블랙박스 영상 복구 가능했습니다
+진천에서 사고 증거 없어 막막했는데 영상 복구됐어요
+title 진천에서 사고 증거 없어 막막했는데 영상 복구됐어요
+괴산에서 블랙박스복구 맡겼다가 번호판까지 확인했습니다
+title 괴산에서 블랙박스복구 맡겼다가 번호판까지 확인했습니다
+음성에서 영상 누락된 이유 블랙박스영상복구로 찾았어요
+title 음성에서 영상 누락된 이유 블랙박스영상복구로 찾았어요
+전주 하드디스크 복구를 위한 진단 시 확인할 대표 증상들  
+title 전주 하드디스크 복구를 위한 진단 시 확인할 대표 증상들  
+세종 외장 하드디스크 복구 가능 여부 판단 기준과 절차  
+title 세종 외장 하드디스크 복구 가능 여부 판단 기준과 절차  
+청주 지역 하드디스크 복구 업체에서 제공하는 기본 진단 서비스  
+title 청주 지역 하드디스크 복구 업체에서 제공하는 기본 진단 서비스  
+대전 하드디스크 복구 경험담으로 배우는 데이터 손실 예방법  
+title 대전 하드디스크 복구 경험담으로 배우는 데이터 손실 예방법  
+세종에서 의뢰한 하드디스크 복구 사례로 본 복원 범위의 한계  
+title 세종에서 의뢰한 하드디스크 복구 사례로 본 복원 범위의 한계  
+대전 외장 하드디스크 복구 시 작업 시간과 비용 예측하기  
+title 대전 외장 하드디스크 복구 시 작업 시간과 비용 예측하기  
+울산 휴대폰 데이터 복구 보안폴더 복구 가능한 구조
+title 울산 휴대폰 데이터 복구 보안폴더 복구 가능한 구조
+대구 휴대폰 포렌식 복구 삭제된 사진 복구 과정 공개
+title 대구 휴대폰 포렌식 복구 삭제된 사진 복구 과정 공개
+광주 휴대폰 데이터 복구 카톡 문자 복구 성공 후기
+title 광주 휴대폰 데이터 복구 카톡 문자 복구 성공 후기
+제주 휴대폰 포렌식 복구 휴지통 파일 복구 실제 사례
+title 제주 휴대폰 포렌식 복구 휴지통 파일 복구 실제 사례
+충주 휴대폰 데이터 복구 동영상 복구 가능성 분석
+title 충주 휴대폰 데이터 복구 동영상 복구 가능성 분석
+제천 휴대폰 포렌식 복구 카카오톡 삭제 복구 후기
+title 제천 휴대폰 포렌식 복구 카카오톡 삭제 복구 후기
+보은 휴대폰 데이터 복구 사진 문자 복구 실제 경험
+title 보은 휴대폰 데이터 복구 사진 문자 복구 실제 경험
+음성 휴대폰 데이터 카톡 문자 사진 완전삭제 안티포렌식 방법
+title 음성 휴대폰 데이터 카톡 문자 사진 완전삭제 안티포렌식 방법
+단양 블랙박스 외장하드 카카오톡 데이터 안티포렌식 적용 사례
+title 단양 블랙박스 외장하드 카카오톡 데이터 안티포렌식 적용 사례
+천안 휴대폰 데이터 카톡 문자 사진 동영상 안티포렌식 가이드
+title 천안 휴대폰 데이터 카톡 문자 사진 동영상 안티포렌식 가이드
+아산 카카오톡 문자 사진 블랙박스 외장하드 안티포렌식 후기
+title 아산 카카오톡 문자 사진 블랙박스 외장하드 안티포렌식 후기
+공주 휴대폰 데이터 카톡 문자 사진 안티포렌식 실제 과정
+title 공주 휴대폰 데이터 카톡 문자 사진 안티포렌식 실제 과정
+보령 블랙박스 외장하드 카카오톡 데이터 안티포렌식 가능성
+title 보령 블랙박스 외장하드 카카오톡 데이터 안티포렌식 가능성
+서산 휴대폰 데이터 카톡 문자 사진 동영상 안티포렌식 방법
+title 서산 휴대폰 데이터 카톡 문자 사진 동영상 안티포렌식 방법
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None]
+엑셀 개수 71
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+parkja5752
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 1
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 2
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 3
+parkja5752
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 4
+snp6692
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 5
+eowjs3913
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 6
+hby6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 7
+jinna57
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 8
+parkja5752
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 9
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 10
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 11
+parkja5752
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 12
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 13
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 14
+snp6692
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 15
+eowjs3913
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 16
+hby6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+'str' object has no attribute 'set_window_position'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+60
+16시 40분 10초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+시작
+File saved to: C:\Users\pc\Desktop\까페\logfile.txt
