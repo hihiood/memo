@@ -1,0 +1,394 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+[TMP 정리] 삭제:6 건너뜀:15 (C:\Users\admin\AppData\Local\Temp)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+[Errno 2] No such file or directory: '프록시유동_하이아이피.txt'
+[진단] 예외타입: FileNotFoundError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
