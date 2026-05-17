@@ -1,0 +1,121 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+1176
+0       새길병원
+1       새길병원
+2       새길병원
+3       새길병원
+4       새길병원
+        ... 
+1171    새길병원
+1172    새길병원
+1173    새길병원
+1174    새길병원
+1175    새길병원
+Name: 작업 매장, Length: 1176, dtype: object
+find_name 새길병원
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_s4o1vw3l
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=395014 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x8335a3+10643]
+	chromedriver!GetHandleVerifier [0x8336d4+10774]
+	chromedriver!(No symbol) [0x611df0]
+	chromedriver!(No symbol) [0x65a9da]
+	chromedriver!(No symbol) [0x65ac7b]
+	chromedriver!(No symbol) [0x69d6a2]
+	chromedriver!(No symbol) [0x67d974]
+	chromedriver!(No symbol) [0x69aee4]
+	chromedriver!(No symbol) [0x67d6c6]
+	chromedriver!(No symbol) [0x650049]
+	chromedriver!(No symbol) [0x650e04]
+	chromedriver!GetHandleVerifier [0xa9f504+27c5a4]
+	chromedriver!GetHandleVerifier [0xa9ab2d+277bcd]
+	chromedriver!GetHandleVerifier [0xab9795+296835]
+	chromedriver!GetHandleVerifier [0x84df58+2aff8]
+	chromedriver!GetHandleVerifier [0x855dbd+32e5d]
+	chromedriver!GetHandleVerifier [0x83bfc8+19068]
+	chromedriver!GetHandleVerifier [0x83c192+19232]
+	chromedriver!GetHandleVerifier [0x82581f+28bf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy] 이번 세션 측정 실패 또는 0 바이트
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_8u7h7sz7
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=1640656 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x8335a3+10643]
+	chromedriver!GetHandleVerifier [0x8336d4+10774]
+	chromedriver!(No symbol) [0x611df0]
+	chromedriver!(No symbol) [0x65a9da]
+	chromedriver!(No symbol) [0x65ac7b]
+	chromedriver!(No symbol) [0x69d6a2]
+	chromedriver!(No symbol) [0x67d974]
+	chromedriver!(No symbol) [0x69aee4]
+	chromedriver!(No symbol) [0x67d6c6]
+	chromedriver!(No symbol) [0x650049]
+	chromedriver!(No symbol) [0x650e04]
+	chromedriver!GetHandleVerifier [0xa9f504+27c5a4]
+	chromedriver!GetHandleVerifier [0xa9ab2d+277bcd]
+	chromedriver!GetHandleVerifier [0xab9795+296835]
+	chromedriver!GetHandleVerifier [0x84df58+2aff8]
+	chromedriver!GetHandleVerifier [0x855dbd+32e5d]
+	chromedriver!GetHandleVerifier [0x83bfc8+19068]
+	chromedriver!GetHandleVerifier [0x83c192+19232]
+	chromedriver!GetHandleVerifier [0x82581f+28bf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy] 이번 세션 측정 실패 또는 0 바이트
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_orn0syi_
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew9\logfile.txt
