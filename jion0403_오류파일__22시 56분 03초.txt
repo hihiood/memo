@@ -1,0 +1,7759 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+DB access----success!!
+1176
+0       새길병원
+1       새길병원
+2       새길병원
+3       새길병원
+4       새길병원
+        ... 
+1171    새길병원
+1172    새길병원
+1173    새길병원
+1174    새길병원
+1175    새길병원
+Name: 작업 매장, Length: 1176, dtype: object
+find_name 새길병원
+IP 변경중...
+변경된 IP : 112.162.23.77
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.168)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x2f0c33]
+	chromedriver!(No symbol) [0x38440b]
+	chromedriver!(No symbol) [0x39a3d9]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.112.175
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+41
+[1] 업체명: 밝은세상안과의원
+[2] 업체명: 아이시티안과의원
+[3] 업체명: 그랜드BS안과의원
+[4] 업체명: 바로안과의원 서면역
+[5] 업체명: 밝은수안과의원
+[6] 업체명: 누네빛안과의원
+[7] 업체명: 서면좋은사람안과의원
+[8] 업체명: 굿모닝백이안과의원 서면역
+[9] 업체명: 서면성모안과의원
+[10] 업체명: 하이뷰안과의원 서면
+[11] 업체명: 제이린안과의원
+[12] 업체명: 부산하늘안과의원
+[13] 업체명: 정근안과병원
+[14] 업체명: 밝은성모안과의원 부산점
+[15] 업체명: 백록안과의원
+[16] 업체명: 굿모닝성모안과의원
+[17] 업체명: 더참안과의원
+[18] 업체명: ABC 안과의원
+[19] 업체명: 눈사랑안과의원
+[20] 업체명: 다봄안과의원
+[21] 업체명: 신&박킴스안과의원
+[22] 업체명: 눈에손안과의원
+[23] 업체명: 이상협안과의원
+[24] 업체명: 신세계안과의원
+[25] 업체명: 부전안과의원
+[26] 업체명: 밝은눈안과병원
+[27] 업체명: 양정베스트안과의원
+[28] 업체명: 이영안과의원
+[29] 업체명: 최안과의원
+[30] 업체명: 누네조은안과의원
+[31] 업체명: 눈시원안과의원
+[32] 업체명: 아이존안과의원
+[33] 업체명: 현대안과의원
+[34] 업체명: 핑이비인후과의원
+[35] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[36] 업체명: 온병원
+[37] 업체명: 에덴어린이병원
+[38] 업체명: 장새로이내과의원
+[39] 업체명: 김병진이비인후과의원
+[40] 업체명: 조앤조내과신경과의원
+[41] 업체명: 항도퀀텀의원 부산서면
+밝은세상안과의원
+아이시티안과의원
+그랜드BS안과의원
+바로안과의원 서면역
+밝은수안과의원
+누네빛안과의원
+서면좋은사람안과의원
+굿모닝백이안과의원 서면역
+서면성모안과의원
+하이뷰안과의원 서면
+제이린안과의원
+부산하늘안과의원
+정근안과병원
+밝은성모안과의원 부산점
+백록안과의원
+굿모닝성모안과의원
+더참안과의원
+ABC 안과의원
+눈사랑안과의원
+다봄안과의원
+신&박킴스안과의원
+눈에손안과의원
+이상협안과의원
+신세계안과의원
+부전안과의원
+밝은눈안과병원
+양정베스트안과의원
+이영안과의원
+최안과의원
+누네조은안과의원
+눈시원안과의원
+아이존안과의원
+현대안과의원
+핑이비인후과의원
+새길병원
+온병원
+에덴어린이병원
+장새로이내과의원
+김병진이비인후과의원
+조앤조내과신경과의원
+항도퀀텀의원 부산서면
+namelist[Q5].text 밝은세상안과의원
+namelist_clean 밝은세상안과의원
+find_name 새길병원
+namelist[Q5].text 아이시티안과의원
+namelist_clean 아이시티안과의원
+find_name 새길병원
+namelist[Q5].text 그랜드BS안과의원
+namelist_clean 그랜드BS안과의원
+find_name 새길병원
+namelist[Q5].text 바로안과의원 서면역
+namelist_clean 바로안과의원 서면역
+find_name 새길병원
+namelist[Q5].text 밝은수안과의원
+namelist_clean 밝은수안과의원
+find_name 새길병원
+namelist[Q5].text 누네빛안과의원
+namelist_clean 누네빛안과의원
+find_name 새길병원
+namelist[Q5].text 서면좋은사람안과의원
+namelist_clean 서면좋은사람안과의원
+find_name 새길병원
+namelist[Q5].text 굿모닝백이안과의원 서면역
+namelist_clean 굿모닝백이안과의원 서면역
+find_name 새길병원
+namelist[Q5].text 서면성모안과의원
+namelist_clean 서면성모안과의원
+find_name 새길병원
+namelist[Q5].text 하이뷰안과의원 서면
+namelist_clean 하이뷰안과의원 서면
+find_name 새길병원
+namelist[Q5].text 제이린안과의원
+namelist_clean 제이린안과의원
+find_name 새길병원
+namelist[Q5].text 부산하늘안과의원
+namelist_clean 부산하늘안과의원
+find_name 새길병원
+namelist[Q5].text 정근안과병원
+namelist_clean 정근안과병원
+find_name 새길병원
+namelist[Q5].text 밝은성모안과의원 부산점
+namelist_clean 밝은성모안과의원 부산점
+find_name 새길병원
+namelist[Q5].text 백록안과의원
+namelist_clean 백록안과의원
+find_name 새길병원
+namelist[Q5].text 굿모닝성모안과의원
+namelist_clean 굿모닝성모안과의원
+find_name 새길병원
+namelist[Q5].text 더참안과의원
+namelist_clean 더참안과의원
+find_name 새길병원
+namelist[Q5].text ABC 안과의원
+namelist_clean ABC 안과의원
+find_name 새길병원
+namelist[Q5].text 눈사랑안과의원
+namelist_clean 눈사랑안과의원
+find_name 새길병원
+namelist[Q5].text 다봄안과의원
+namelist_clean 다봄안과의원
+find_name 새길병원
+namelist[Q5].text 신&박킴스안과의원
+namelist_clean 신&박킴스안과의원
+find_name 새길병원
+namelist[Q5].text 눈에손안과의원
+namelist_clean 눈에손안과의원
+find_name 새길병원
+namelist[Q5].text 이상협안과의원
+namelist_clean 이상협안과의원
+find_name 새길병원
+namelist[Q5].text 신세계안과의원
+namelist_clean 신세계안과의원
+find_name 새길병원
+namelist[Q5].text 부전안과의원
+namelist_clean 부전안과의원
+find_name 새길병원
+namelist[Q5].text 밝은눈안과병원
+namelist_clean 밝은눈안과병원
+find_name 새길병원
+namelist[Q5].text 양정베스트안과의원
+namelist_clean 양정베스트안과의원
+find_name 새길병원
+namelist[Q5].text 이영안과의원
+namelist_clean 이영안과의원
+find_name 새길병원
+namelist[Q5].text 최안과의원
+namelist_clean 최안과의원
+find_name 새길병원
+namelist[Q5].text 누네조은안과의원
+namelist_clean 누네조은안과의원
+find_name 새길병원
+namelist[Q5].text 눈시원안과의원
+namelist_clean 눈시원안과의원
+find_name 새길병원
+namelist[Q5].text 아이존안과의원
+namelist_clean 아이존안과의원
+find_name 새길병원
+namelist[Q5].text 현대안과의원
+namelist_clean 현대안과의원
+find_name 새길병원
+namelist[Q5].text 핑이비인후과의원
+namelist_clean 핑이비인후과의원
+find_name 새길병원
+namelist[Q5].text 새길병원
+namelist_clean 새길병원
+find_name 새길병원
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전화면
+print_text.text 새로고침
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.224.161
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.25.139
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.123.114
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 183.78.159.252
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x311f2e]
+	chromedriver!(No symbol) [0x34f587]
+	chromedriver!(No symbol) [0x37da86]
+	chromedriver!(No symbol) [0x378f12]
+	chromedriver!(No symbol) [0x378531]
+	chromedriver!(No symbol) [0x2e532e]
+	chromedriver!(No symbol) [0x2e58ce]
+	chromedriver!(No symbol) [0x2e5dad]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!(No symbol) [0x2e4ec9]
+	chromedriver!(No symbol) [0x2e4510]
+	chromedriver!GetHandleVerifier [0x8d8e1f+3b2cdf]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.104.8
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.186.203
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x311f2e]
+	chromedriver!(No symbol) [0x34f587]
+	chromedriver!(No symbol) [0x37da86]
+	chromedriver!(No symbol) [0x378f12]
+	chromedriver!(No symbol) [0x378531]
+	chromedriver!(No symbol) [0x2e532e]
+	chromedriver!(No symbol) [0x2e58ce]
+	chromedriver!(No symbol) [0x2e5dad]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!(No symbol) [0x2e4ec9]
+	chromedriver!(No symbol) [0x2e4510]
+	chromedriver!GetHandleVerifier [0x8d8e1f+3b2cdf]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.198.19
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+[clean_temp_folder] deleted=4 skipped=19 dir=C:\Users\user\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 49.254.174.75
+부산진구 부전동안과 더보기
+머지???
+부산진구 부전동안과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+find_name 새길병원
+IP 변경중...
+변경된 IP : 115.144.40.86
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.43.109
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.17.99
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.23.5
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.134.46
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.118.153
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.23.104
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.245.216
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.185.125
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+[clean_temp_folder] deleted=0 skipped=19 dir=C:\Users\user\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 121.126.216.152
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+find_name 새길병원
+IP 변경중...
+변경된 IP : 115.144.199.25
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.59.156
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.102.41
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.49.92
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.49.91
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.7.80
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.170.124
+더보기
+머지???
+부산안과
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 125.7.132.18
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+3
+------------------
+4
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+83
+[1] 업체명: 리안성모안과의원
+[2] 업체명: 밝은눈안과병원
+[3] 업체명: 부산성모안과병원
+[4] 업체명: 대연본안과의원
+[5] 업체명: 밝은세상안과의원
+[6] 업체명: 아이시티안과의원
+[7] 업체명: 퍼스트안과의원
+[8] 업체명: 그랜드BS안과의원
+[9] 업체명: 서부산성모안과의원
+[10] 업체명: 수정안과의원
+[11] 업체명: 바로안과의원 서면역
+[12] 업체명: 서울더블유안과의원
+[13] 업체명: 사랑가득안과의원
+[14] 업체명: 사직성모안과의원
+[15] 업체명: 제이린안과의원
+[16] 업체명: 주례성모안과의원
+[17] 업체명: 동래성모안과의원
+[18] 업체명: 밝은수안과의원
+[19] 업체명: 부산성모안과병원
+[20] 업체명: 누네빛안과의원
+[21] 업체명: 비스타안과의원
+[22] 업체명: 서면좋은사람안과의원
+[23] 업체명: 참좋은안과의원
+[24] 업체명: 굿모닝백이안과의원 서면역
+[25] 업체명: 서면성모안과의원
+[26] 업체명: 바로안과의원 서면역
+[27] 업체명: 조은눈안과의원
+[28] 업체명: 하이뷰안과의원 서면
+[29] 업체명: 제이린안과의원
+[30] 업체명: 밝은눈안과병원
+[31] 업체명: 삼성아이준안과의원
+[32] 업체명: 이안과의원
+[33] 업체명: 양정베스트안과의원
+[34] 업체명: 덕천성모안과의원
+[35] 업체명: 이영안과의원
+[36] 업체명: 리안성모안과의원
+[37] 업체명: 킴스안과의원
+[38] 업체명: 좋은강안병원
+[39] 업체명: 서부산성모안과의원
+[40] 업체명: 연산성모안과의원
+[41] 업체명: 류원열안과의원
+[42] 업체명: 센트럴성모안과의원 해운대
+[43] 업체명: 제안과의원
+[44] 업체명: 부산하늘안과의원
+[45] 업체명: 피엔유(PNU)부산안과의원
+[46] 업체명: 사직성모안과의원
+[47] 업체명: 비에스(BS)삼성안과의원
+[48] 업체명: 센텀밝은빛안과의원
+[49] 업체명: 정근안과병원
+[50] 업체명: 새빛안과의원
+[51] 업체명: 푸른숲안과의원
+[52] 업체명: 밝은성모안과의원 부산점
+[53] 업체명: 김향안과의원
+[54] 업체명: 기장제일안과의원
+[55] 업체명: 화명연세안과의원
+[56] 업체명: 금정성모안과의원
+[57] 업체명: 비케이삼성안과의원
+[58] 업체명: 백록안과의원
+[59] 업체명: 센텀성모안과의원
+[60] 업체명: 굿모닝성모안과의원
+[61] 업체명: 참조은안과의원
+[62] 업체명: 류원열안과의원
+[63] 업체명: 미남 애프터눈 안과의원
+[64] 업체명: 명지성모안과의원
+[65] 업체명: 더참안과의원
+[66] 업체명: 안락센텀안과의원
+[67] 업체명: 안락성모안과의원
+[68] 업체명: 센텀소중한눈안과의원
+[69] 업체명: 메트로성모안과의원
+[70] 업체명: 명지더봄안과의원
+[71] 업체명: 바른안과의원
+[72] 업체명: 조은눈안과의원
+[73] 업체명: 김완수안과의원
+[74] 업체명: 하단밝은안과의원
+[75] 업체명: 부산안과의원
+[76] 업체명: THE밝은안과의원
+[77] 업체명: 좋은성모안과의원
+[78] 업체명: 하단성모안과의원
+[79] 업체명: ABC 안과의원
+[80] 업체명: 영도밝은안과의원
+[81] 업체명: 최안과의원
+[82] 업체명: 누네조은안과의원
+[83] 업체명: 더퍼스트성모안과의원
+리안성모안과의원
+밝은눈안과병원
+부산성모안과병원
+대연본안과의원
+밝은세상안과의원
+아이시티안과의원
+퍼스트안과의원
+그랜드BS안과의원
+서부산성모안과의원
+수정안과의원
+바로안과의원 서면역
+서울더블유안과의원
+사랑가득안과의원
+사직성모안과의원
+제이린안과의원
+주례성모안과의원
+동래성모안과의원
+밝은수안과의원
+누네빛안과의원
+비스타안과의원
+서면좋은사람안과의원
+참좋은안과의원
+굿모닝백이안과의원 서면역
+서면성모안과의원
+조은눈안과의원
+하이뷰안과의원 서면
+삼성아이준안과의원
+이안과의원
+양정베스트안과의원
+덕천성모안과의원
+이영안과의원
+킴스안과의원
+좋은강안병원
+연산성모안과의원
+류원열안과의원
+센트럴성모안과의원 해운대
+제안과의원
+부산하늘안과의원
+피엔유(PNU)부산안과의원
+비에스(BS)삼성안과의원
+센텀밝은빛안과의원
+정근안과병원
+새빛안과의원
+푸른숲안과의원
+밝은성모안과의원 부산점
+김향안과의원
+기장제일안과의원
+화명연세안과의원
+금정성모안과의원
+비케이삼성안과의원
+백록안과의원
+센텀성모안과의원
+굿모닝성모안과의원
+참조은안과의원
+미남 애프터눈 안과의원
+명지성모안과의원
+더참안과의원
+안락센텀안과의원
+안락성모안과의원
+센텀소중한눈안과의원
+메트로성모안과의원
+명지더봄안과의원
+바른안과의원
+김완수안과의원
+하단밝은안과의원
+부산안과의원
+THE밝은안과의원
+좋은성모안과의원
+하단성모안과의원
+ABC 안과의원
+영도밝은안과의원
+최안과의원
+누네조은안과의원
+더퍼스트성모안과의원
+namelist[Q5].text 리안성모안과의원
+namelist_clean 리안성모안과의원
+find_name 새길병원
+namelist[Q5].text 밝은눈안과병원
+namelist_clean 밝은눈안과병원
+find_name 새길병원
+namelist[Q5].text 부산성모안과병원
+namelist_clean 부산성모안과병원
+find_name 새길병원
+namelist[Q5].text 대연본안과의원
+namelist_clean 대연본안과의원
+find_name 새길병원
+namelist[Q5].text 밝은세상안과의원
+namelist_clean 밝은세상안과의원
+find_name 새길병원
+namelist[Q5].text 아이시티안과의원
+namelist_clean 아이시티안과의원
+find_name 새길병원
+namelist[Q5].text 퍼스트안과의원
+namelist_clean 퍼스트안과의원
+find_name 새길병원
+namelist[Q5].text 그랜드BS안과의원
+namelist_clean 그랜드BS안과의원
+find_name 새길병원
+namelist[Q5].text 서부산성모안과의원
+namelist_clean 서부산성모안과의원
+find_name 새길병원
+namelist[Q5].text 수정안과의원
+namelist_clean 수정안과의원
+find_name 새길병원
+namelist[Q5].text 바로안과의원 서면역
+namelist_clean 바로안과의원 서면역
+find_name 새길병원
+namelist[Q5].text 서울더블유안과의원
+namelist_clean 서울더블유안과의원
+find_name 새길병원
+namelist[Q5].text 사랑가득안과의원
+namelist_clean 사랑가득안과의원
+find_name 새길병원
+namelist[Q5].text 사직성모안과의원
+namelist_clean 사직성모안과의원
+find_name 새길병원
+namelist[Q5].text 제이린안과의원
+namelist_clean 제이린안과의원
+find_name 새길병원
+namelist[Q5].text 주례성모안과의원
+namelist_clean 주례성모안과의원
+find_name 새길병원
+namelist[Q5].text 동래성모안과의원
+namelist_clean 동래성모안과의원
+find_name 새길병원
+namelist[Q5].text 밝은수안과의원
+namelist_clean 밝은수안과의원
+find_name 새길병원
+namelist[Q5].text 누네빛안과의원
+namelist_clean 누네빛안과의원
+find_name 새길병원
+namelist[Q5].text 비스타안과의원
+namelist_clean 비스타안과의원
+find_name 새길병원
+namelist[Q5].text 서면좋은사람안과의원
+namelist_clean 서면좋은사람안과의원
+find_name 새길병원
+namelist[Q5].text 참좋은안과의원
+namelist_clean 참좋은안과의원
+find_name 새길병원
+namelist[Q5].text 굿모닝백이안과의원 서면역
+namelist_clean 굿모닝백이안과의원 서면역
+find_name 새길병원
+namelist[Q5].text 서면성모안과의원
+namelist_clean 서면성모안과의원
+find_name 새길병원
+namelist[Q5].text 조은눈안과의원
+namelist_clean 조은눈안과의원
+find_name 새길병원
+namelist[Q5].text 하이뷰안과의원 서면
+namelist_clean 하이뷰안과의원 서면
+find_name 새길병원
+namelist[Q5].text 삼성아이준안과의원
+namelist_clean 삼성아이준안과의원
+find_name 새길병원
+namelist[Q5].text 이안과의원
+namelist_clean 이안과의원
+find_name 새길병원
+namelist[Q5].text 양정베스트안과의원
+namelist_clean 양정베스트안과의원
+find_name 새길병원
+namelist[Q5].text 덕천성모안과의원
+namelist_clean 덕천성모안과의원
+find_name 새길병원
+namelist[Q5].text 이영안과의원
+namelist_clean 이영안과의원
+find_name 새길병원
+namelist[Q5].text 킴스안과의원
+namelist_clean 킴스안과의원
+find_name 새길병원
+namelist[Q5].text 좋은강안병원
+namelist_clean 좋은강안병원
+find_name 새길병원
+namelist[Q5].text 연산성모안과의원
+namelist_clean 연산성모안과의원
+find_name 새길병원
+namelist[Q5].text 류원열안과의원
+namelist_clean 류원열안과의원
+find_name 새길병원
+namelist[Q5].text 센트럴성모안과의원 해운대
+namelist_clean 센트럴성모안과의원 해운대
+find_name 새길병원
+namelist[Q5].text 제안과의원
+namelist_clean 제안과의원
+find_name 새길병원
+namelist[Q5].text 부산하늘안과의원
+namelist_clean 부산하늘안과의원
+find_name 새길병원
+namelist[Q5].text 피엔유(PNU)부산안과의원
+namelist_clean 피엔유(PNU)부산안과의원
+find_name 새길병원
+namelist[Q5].text 비에스(BS)삼성안과의원
+namelist_clean 비에스(BS)삼성안과의원
+find_name 새길병원
+namelist[Q5].text 센텀밝은빛안과의원
+namelist_clean 센텀밝은빛안과의원
+find_name 새길병원
+namelist[Q5].text 정근안과병원
+namelist_clean 정근안과병원
+find_name 새길병원
+namelist[Q5].text 새빛안과의원
+namelist_clean 새빛안과의원
+find_name 새길병원
+namelist[Q5].text 푸른숲안과의원
+namelist_clean 푸른숲안과의원
+find_name 새길병원
+namelist[Q5].text 밝은성모안과의원 부산점
+namelist_clean 밝은성모안과의원 부산점
+find_name 새길병원
+namelist[Q5].text 김향안과의원
+namelist_clean 김향안과의원
+find_name 새길병원
+namelist[Q5].text 기장제일안과의원
+namelist_clean 기장제일안과의원
+find_name 새길병원
+namelist[Q5].text 화명연세안과의원
+namelist_clean 화명연세안과의원
+find_name 새길병원
+namelist[Q5].text 금정성모안과의원
+namelist_clean 금정성모안과의원
+find_name 새길병원
+namelist[Q5].text 비케이삼성안과의원
+namelist_clean 비케이삼성안과의원
+find_name 새길병원
+namelist[Q5].text 백록안과의원
+namelist_clean 백록안과의원
+find_name 새길병원
+namelist[Q5].text 센텀성모안과의원
+namelist_clean 센텀성모안과의원
+find_name 새길병원
+namelist[Q5].text 굿모닝성모안과의원
+namelist_clean 굿모닝성모안과의원
+find_name 새길병원
+namelist[Q5].text 참조은안과의원
+namelist_clean 참조은안과의원
+find_name 새길병원
+namelist[Q5].text 미남 애프터눈 안과의원
+namelist_clean 미남 애프터눈 안과의원
+find_name 새길병원
+namelist[Q5].text 명지성모안과의원
+namelist_clean 명지성모안과의원
+find_name 새길병원
+namelist[Q5].text 더참안과의원
+namelist_clean 더참안과의원
+find_name 새길병원
+namelist[Q5].text 안락센텀안과의원
+namelist_clean 안락센텀안과의원
+find_name 새길병원
+namelist[Q5].text 안락성모안과의원
+namelist_clean 안락성모안과의원
+find_name 새길병원
+namelist[Q5].text 센텀소중한눈안과의원
+namelist_clean 센텀소중한눈안과의원
+find_name 새길병원
+namelist[Q5].text 메트로성모안과의원
+namelist_clean 메트로성모안과의원
+find_name 새길병원
+namelist[Q5].text 명지더봄안과의원
+namelist_clean 명지더봄안과의원
+find_name 새길병원
+namelist[Q5].text 바른안과의원
+namelist_clean 바른안과의원
+find_name 새길병원
+namelist[Q5].text 김완수안과의원
+namelist_clean 김완수안과의원
+find_name 새길병원
+namelist[Q5].text 하단밝은안과의원
+namelist_clean 하단밝은안과의원
+find_name 새길병원
+namelist[Q5].text 부산안과의원
+namelist_clean 부산안과의원
+find_name 새길병원
+namelist[Q5].text THE밝은안과의원
+namelist_clean THE밝은안과의원
+find_name 새길병원
+namelist[Q5].text 좋은성모안과의원
+namelist_clean 좋은성모안과의원
+find_name 새길병원
+namelist[Q5].text 하단성모안과의원
+namelist_clean 하단성모안과의원
+find_name 새길병원
+namelist[Q5].text ABC 안과의원
+namelist_clean ABC 안과의원
+find_name 새길병원
+namelist[Q5].text 영도밝은안과의원
+namelist_clean 영도밝은안과의원
+find_name 새길병원
+namelist[Q5].text 최안과의원
+namelist_clean 최안과의원
+find_name 새길병원
+namelist[Q5].text 누네조은안과의원
+namelist_clean 누네조은안과의원
+find_name 새길병원
+namelist[Q5].text 더퍼스트성모안과의원
+namelist_clean 더퍼스트성모안과의원
+find_name 새길병원
+<undetected_chromedriver.webelement.WebElement (session="9133b598a8426c4d1247dd53fa6b5141", element="f.4A6189E435673435F47AE54F7537C562.d.CA495ECD743893B707356C7A19251AA6.e.1725")>
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+[1] 업체명: 리즈김상식안과의원
+[2] 업체명: 청춘안과의원
+[3] 업체명: 대신성모안과의원
+[4] 업체명: 눈초롱안과의원
+[5] 업체명: 독수리눈안과의원
+[6] 업체명: 눈사랑안과의원
+[7] 업체명: 백승우안과의원
+[8] 업체명: 다봄안과의원
+[9] 업체명: 진안과의원
+[10] 업체명: 대연성모안과
+[11] 업체명: 좋은이안과의원
+[12] 업체명: 천리안안과의원
+[13] 업체명: 부산제일안과의원
+[14] 업체명: 에이스안과의원
+[15] 업체명: 삼성안과의원
+[16] 업체명: 신&박킴스안과의원
+[17] 업체명: 서울안과의원
+[18] 업체명: 바른눈안과
+[19] 업체명: 조은성모안과의원
+[20] 업체명: 서울늘봄안과의원
+[21] 업체명: 이도용안과의원
+[22] 업체명: 푸른숲안과의원
+[23] 업체명: 성모밝은안과의원
+[24] 업체명: 수영성모안과의원
+[25] 업체명: 한빛안과의원
+[26] 업체명: 눈에손안과의원
+[27] 업체명: 이상협안과의원
+[28] 업체명: 눈시원안과의원
+[29] 업체명: 서울성모안과의원
+[30] 업체명: 새빛안과의원
+[31] 업체명: 밝은김안과의원
+[32] 업체명: 성모안과의원
+[33] 업체명: 화명성모안과의원
+[34] 업체명: 이슬기안과의원
+[35] 업체명: 아이존안과의원
+[36] 업체명: 기장 더밝은안과의원
+[37] 업체명: 밝은이안과의원
+[38] 업체명: 미남 애프터눈 안과의원
+[39] 업체명: 희망안과의원
+[40] 업체명: 세현안과의원
+[41] 업체명: 사상사랑성모안과의원
+[42] 업체명: 부산김안과의원
+[43] 업체명: 메디칼안과의원
+[44] 업체명: 신세계안과의원
+[45] 업체명: 센텀안과의원
+[46] 업체명: 밝은이안과의원
+[47] 업체명: 밝은홍안과의원
+[48] 업체명: 참안과의원
+[49] 업체명: 박창호안과의원
+[50] 업체명: 덕천김안과의원
+[51] 업체명: 선명안과의원
+[52] 업체명: 장한기안과의원
+[53] 업체명: 강지윤안과의원
+[54] 업체명: 삼성안과의원
+[55] 업체명: 우리성모안과의원
+[56] 업체명: 서동정안과의원
+[57] 업체명: 현대안과의원
+[58] 업체명: 바른성모안과의원
+[59] 업체명: 신세계안과의원
+[60] 업체명: 조은의원
+[61] 업체명: 조이안과의원
+[62] 업체명: 박성인안과의원
+[63] 업체명: 밝은미래안과의원
+[64] 업체명: 정안과의원
+[65] 업체명: 갤러리안과의원
+[66] 업체명: 이춘식안과의원
+[67] 업체명: 마린안과의원
+[68] 업체명: 신안과의원
+[69] 업체명: 밝은빛안과의원
+[70] 업체명: 준의원
+리즈김상식안과의원
+청춘안과의원
+대신성모안과의원
+눈초롱안과의원
+독수리눈안과의원
+눈사랑안과의원
+백승우안과의원
+다봄안과의원
+진안과의원
+대연성모안과
+좋은이안과의원
+천리안안과의원
+부산제일안과의원
+에이스안과의원
+삼성안과의원
+신&박킴스안과의원
+서울안과의원
+바른눈안과
+조은성모안과의원
+서울늘봄안과의원
+이도용안과의원
+푸른숲안과의원
+성모밝은안과의원
+수영성모안과의원
+한빛안과의원
+눈에손안과의원
+이상협안과의원
+눈시원안과의원
+서울성모안과의원
+새빛안과의원
+밝은김안과의원
+성모안과의원
+화명성모안과의원
+이슬기안과의원
+아이존안과의원
+기장 더밝은안과의원
+밝은이안과의원
+미남 애프터눈 안과의원
+희망안과의원
+세현안과의원
+사상사랑성모안과의원
+부산김안과의원
+메디칼안과의원
+신세계안과의원
+센텀안과의원
+밝은홍안과의원
+참안과의원
+박창호안과의원
+덕천김안과의원
+선명안과의원
+장한기안과의원
+강지윤안과의원
+우리성모안과의원
+서동정안과의원
+현대안과의원
+바른성모안과의원
+조은의원
+조이안과의원
+박성인안과의원
+밝은미래안과의원
+정안과의원
+갤러리안과의원
+이춘식안과의원
+마린안과의원
+신안과의원
+밝은빛안과의원
+준의원
+리즈김상식안과의원
+청춘안과의원
+대신성모안과의원
+눈초롱안과의원
+독수리눈안과의원
+눈사랑안과의원
+백승우안과의원
+다봄안과의원
+진안과의원
+대연성모안과
+좋은이안과의원
+천리안안과의원
+부산제일안과의원
+에이스안과의원
+삼성안과의원
+신&박킴스안과의원
+서울안과의원
+바른눈안과
+조은성모안과의원
+서울늘봄안과의원
+이도용안과의원
+푸른숲안과의원
+성모밝은안과의원
+수영성모안과의원
+한빛안과의원
+눈에손안과의원
+이상협안과의원
+눈시원안과의원
+서울성모안과의원
+새빛안과의원
+밝은김안과의원
+성모안과의원
+화명성모안과의원
+이슬기안과의원
+아이존안과의원
+기장 더밝은안과의원
+밝은이안과의원
+미남 애프터눈 안과의원
+희망안과의원
+세현안과의원
+사상사랑성모안과의원
+부산김안과의원
+메디칼안과의원
+신세계안과의원
+센텀안과의원
+밝은홍안과의원
+참안과의원
+박창호안과의원
+덕천김안과의원
+선명안과의원
+장한기안과의원
+강지윤안과의원
+우리성모안과의원
+서동정안과의원
+현대안과의원
+바른성모안과의원
+조은의원
+조이안과의원
+박성인안과의원
+밝은미래안과의원
+정안과의원
+갤러리안과의원
+이춘식안과의원
+마린안과의원
+신안과의원
+밝은빛안과의원
+준의원
+<undetected_chromedriver.webelement.WebElement (session="9133b598a8426c4d1247dd53fa6b5141", element="f.4A6189E435673435F47AE54F7537C562.d.CA495ECD743893B707356C7A19251AA6.e.1725")>
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음2
+✅ 스크롤 완료
+[1] 업체명: 배재용안과의원
+[2] 업체명: 도기공안과의원
+[3] 업체명: 조경일안과의원
+[4] 업체명: 김준호안과의원
+[5] 업체명: 오세민안과의원
+[6] 업체명: 아이웰이홍영안과의원
+[7] 업체명: 푸른안과의원
+[8] 업체명: 밝은현안과의원
+[9] 업체명: 참밝은안과의원
+[10] 업체명: 김현경안과의원
+[11] 업체명: 이원영안과의원
+[12] 업체명: 부산아이센터안과의원
+[13] 업체명: 부전안과의원
+[14] 업체명: 김안과의원
+[15] 업체명: 한빛사랑안과의원
+[16] 업체명: 서성국안과의원
+[17] 업체명: 임안과의원
+[18] 업체명: 하늘빛안과의원
+[19] 업체명: 봄빛안과
+[20] 업체명: 조용현안과
+[21] 업체명: 김영문안과의원
+[22] 업체명: 좋은강안병원
+[23] 업체명: 부산썬의원
+[24] 업체명: 삼성스마트내과의원
+[25] 업체명: 부산광역시의료원
+[26] 업체명: 핑이비인후과의원
+[27] 업체명: 동아대학교병원
+[28] 업체명: 인제대학교 해운대백병원
+[29] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[30] 업체명: 도레미의원 대연
+[31] 업체명: 인제대학교부산백병원
+[32] 업체명: 동의병원
+[33] 업체명: 삼육부산병원
+[34] 업체명: 부산성모병원
+[35] 업체명: 고신대학교복음병원
+[36] 업체명: 메리놀병원
+[37] 업체명: 더큰아이소아청소년과의원
+[38] 업체명: 부산대학교병원
+[39] 업체명: 온병원
+[40] 업체명: 보훈공단 부산보훈병원
+[41] 업체명: 에덴어린이병원
+[42] 업체명: 베스트이비인후과의원
+[43] 업체명: 건강만세365병원
+[44] 업체명: 강산들정형외과의원
+[45] 업체명: 반여센텀소아청소년과의원
+[46] 업체명: 이지숨이비인후과의원
+[47] 업체명: 비타민가정의학과의원
+[48] 업체명: 정앤김이비인후과의원
+[49] 업체명: 좋은미남이비인후과의원
+[50] 업체명: 제이엠가정의학과의원 센텀시티
+[51] 업체명: 센텀아동병원
+[52] 업체명: 하이장내과의원
+[53] 업체명: 새한내과의원
+[54] 업체명: 부산돌봄의료복지사회적협동조합 돌봄과나눔의원
+[55] 업체명: 원이비인후과의원
+[56] 업체명: 늘편한이비인후과의원
+[57] 업체명: 대연속내과의원
+[58] 업체명: 가까운내과의원
+[59] 업체명: 명이비인후과의원
+[60] 업체명: 온누리메디칼의원
+[61] 업체명: 우리이비인후과의원
+[62] 업체명: 장새로이내과의원
+[63] 업체명: 엘피부과의원
+[64] 업체명: 명지이비인후과의원
+[65] 업체명: 장편한내과의원
+[66] 업체명: 연제로하스의원
+[67] 업체명: 미소의원
+[68] 업체명: 바로이비인후과의원
+[69] 업체명: 김병진이비인후과의원
+[70] 업체명: 박소아청소년과의원
+배재용안과의원
+도기공안과의원
+조경일안과의원
+김준호안과의원
+오세민안과의원
+아이웰이홍영안과의원
+푸른안과의원
+밝은현안과의원
+참밝은안과의원
+김현경안과의원
+이원영안과의원
+부산아이센터안과의원
+부전안과의원
+김안과의원
+한빛사랑안과의원
+서성국안과의원
+임안과의원
+하늘빛안과의원
+봄빛안과
+조용현안과
+김영문안과의원
+좋은강안병원
+부산썬의원
+삼성스마트내과의원
+부산광역시의료원
+핑이비인후과의원
+동아대학교병원
+인제대학교 해운대백병원
+새길병원
+도레미의원 대연
+인제대학교부산백병원
+동의병원
+삼육부산병원
+부산성모병원
+고신대학교복음병원
+메리놀병원
+더큰아이소아청소년과의원
+부산대학교병원
+온병원
+보훈공단 부산보훈병원
+에덴어린이병원
+베스트이비인후과의원
+건강만세365병원
+강산들정형외과의원
+반여센텀소아청소년과의원
+이지숨이비인후과의원
+비타민가정의학과의원
+정앤김이비인후과의원
+좋은미남이비인후과의원
+제이엠가정의학과의원 센텀시티
+센텀아동병원
+하이장내과의원
+새한내과의원
+부산돌봄의료복지사회적협동조합 돌봄과나눔의원
+원이비인후과의원
+늘편한이비인후과의원
+대연속내과의원
+가까운내과의원
+명이비인후과의원
+온누리메디칼의원
+우리이비인후과의원
+장새로이내과의원
+엘피부과의원
+명지이비인후과의원
+장편한내과의원
+연제로하스의원
+미소의원
+바로이비인후과의원
+김병진이비인후과의원
+박소아청소년과의원
+-----------------
+배재용안과의원
+도기공안과의원
+조경일안과의원
+김준호안과의원
+오세민안과의원
+아이웰이홍영안과의원
+푸른안과의원
+밝은현안과의원
+참밝은안과의원
+김현경안과의원
+이원영안과의원
+부산아이센터안과의원
+부전안과의원
+김안과의원
+한빛사랑안과의원
+서성국안과의원
+임안과의원
+하늘빛안과의원
+봄빛안과
+조용현안과
+김영문안과의원
+좋은강안병원
+부산썬의원
+삼성스마트내과의원
+부산광역시의료원
+핑이비인후과의원
+동아대학교병원
+인제대학교 해운대백병원
+새길병원
+찾았다4----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 페이지 닫기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 더보기
+print_text.text 방문자 리뷰 60
+print_text.text 블로그 리뷰 186
+print_text.text 출발
+print_text.text 도착
+print_text.text 저장
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 예약
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 76
+동작중 59
+menubtn 0
+reviewbtn 0
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 50
+동작중 50
+sharebtn 1
+--------------total error-------import --------
+에러메세지
+Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x318d5c]
+	chromedriver!(No symbol) [0x31afea]
+	chromedriver!(No symbol) [0x31b078]
+	chromedriver!(No symbol) [0x35c952]
+	chromedriver!(No symbol) [0x35bab8]
+	chromedriver!(No symbol) [0x35205e]
+	chromedriver!(No symbol) [0x37dbcc]
+	chromedriver!(No symbol) [0x3517b4]
+	chromedriver!(No symbol) [0x37dd94]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.123.154
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+[clean_temp_folder] deleted=2 skipped=19 dir=C:\Users\user\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 115.144.103.202
+부산안과 더보기
+머지???
+부산안과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+find_name 새길병원
+IP 변경중...
+변경된 IP : 49.254.59.155
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.182.43
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.15.49
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.38.154
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.102.46
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.96.58
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.102.44
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+47
+[1] 업체명: 서면좋은사람안과의원
+[2] 업체명: 하이뷰안과의원 서면
+[3] 업체명: 굿모닝백이안과의원 서면역
+[4] 업체명: 밝은세상안과의원
+[5] 업체명: 아이시티안과의원
+[6] 업체명: 그랜드BS안과의원
+[7] 업체명: 바로안과의원 서면역
+[8] 업체명: 밝은수안과의원
+[9] 업체명: 누네빛안과의원
+[10] 업체명: 서면좋은사람안과의원
+[11] 업체명: 굿모닝백이안과의원 서면역
+[12] 업체명: 서면성모안과의원
+[13] 업체명: 하이뷰안과의원 서면
+[14] 업체명: 바로안과의원 서면역
+[15] 업체명: 제이린안과의원
+[16] 업체명: 제이린안과의원
+[17] 업체명: 부산하늘안과의원
+[18] 업체명: 정근안과병원
+[19] 업체명: 밝은성모안과의원 부산점
+[20] 업체명: 백록안과의원
+[21] 업체명: 굿모닝성모안과의원
+[22] 업체명: 더참안과의원
+[23] 업체명: ABC 안과의원
+[24] 업체명: 눈사랑안과의원
+[25] 업체명: 다봄안과의원
+[26] 업체명: 더참안과의원
+[27] 업체명: 신&박킴스안과의원
+[28] 업체명: 눈에손안과의원
+[29] 업체명: 이상협안과의원
+[30] 업체명: 신세계안과의원
+[31] 업체명: 부전안과의원
+[32] 업체명: 밝은눈안과병원
+[33] 업체명: 양정베스트안과의원
+[34] 업체명: 이영안과의원
+[35] 업체명: 최안과의원
+[36] 업체명: 누네조은안과의원
+[37] 업체명: 눈시원안과의원
+[38] 업체명: 아이존안과의원
+[39] 업체명: 현대안과의원
+[40] 업체명: 핑이비인후과의원
+[41] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[42] 업체명: 온병원
+[43] 업체명: 에덴어린이병원
+[44] 업체명: 장새로이내과의원
+[45] 업체명: 김병진이비인후과의원
+[46] 업체명: 조앤조내과신경과의원
+[47] 업체명: 항도퀀텀의원 부산서면
+서면좋은사람안과의원
+하이뷰안과의원 서면
+굿모닝백이안과의원 서면역
+밝은세상안과의원
+아이시티안과의원
+그랜드BS안과의원
+바로안과의원 서면역
+밝은수안과의원
+누네빛안과의원
+서면성모안과의원
+제이린안과의원
+부산하늘안과의원
+정근안과병원
+밝은성모안과의원 부산점
+백록안과의원
+굿모닝성모안과의원
+더참안과의원
+ABC 안과의원
+눈사랑안과의원
+다봄안과의원
+신&박킴스안과의원
+눈에손안과의원
+이상협안과의원
+신세계안과의원
+부전안과의원
+밝은눈안과병원
+양정베스트안과의원
+이영안과의원
+최안과의원
+누네조은안과의원
+눈시원안과의원
+아이존안과의원
+현대안과의원
+핑이비인후과의원
+새길병원
+온병원
+에덴어린이병원
+장새로이내과의원
+김병진이비인후과의원
+조앤조내과신경과의원
+항도퀀텀의원 부산서면
+namelist[Q5].text 서면좋은사람안과의원
+namelist_clean 서면좋은사람안과의원
+find_name 새길병원
+namelist[Q5].text 하이뷰안과의원 서면
+namelist_clean 하이뷰안과의원 서면
+find_name 새길병원
+namelist[Q5].text 굿모닝백이안과의원 서면역
+namelist_clean 굿모닝백이안과의원 서면역
+find_name 새길병원
+namelist[Q5].text 밝은세상안과의원
+namelist_clean 밝은세상안과의원
+find_name 새길병원
+namelist[Q5].text 아이시티안과의원
+namelist_clean 아이시티안과의원
+find_name 새길병원
+namelist[Q5].text 그랜드BS안과의원
+namelist_clean 그랜드BS안과의원
+find_name 새길병원
+namelist[Q5].text 바로안과의원 서면역
+namelist_clean 바로안과의원 서면역
+find_name 새길병원
+namelist[Q5].text 밝은수안과의원
+namelist_clean 밝은수안과의원
+find_name 새길병원
+namelist[Q5].text 누네빛안과의원
+namelist_clean 누네빛안과의원
+find_name 새길병원
+namelist[Q5].text 서면성모안과의원
+namelist_clean 서면성모안과의원
+find_name 새길병원
+namelist[Q5].text 제이린안과의원
+namelist_clean 제이린안과의원
+find_name 새길병원
+namelist[Q5].text 부산하늘안과의원
+namelist_clean 부산하늘안과의원
+find_name 새길병원
+namelist[Q5].text 정근안과병원
+namelist_clean 정근안과병원
+find_name 새길병원
+namelist[Q5].text 밝은성모안과의원 부산점
+namelist_clean 밝은성모안과의원 부산점
+find_name 새길병원
+namelist[Q5].text 백록안과의원
+namelist_clean 백록안과의원
+find_name 새길병원
+namelist[Q5].text 굿모닝성모안과의원
+namelist_clean 굿모닝성모안과의원
+find_name 새길병원
+namelist[Q5].text 더참안과의원
+namelist_clean 더참안과의원
+find_name 새길병원
+namelist[Q5].text ABC 안과의원
+namelist_clean ABC 안과의원
+find_name 새길병원
+namelist[Q5].text 눈사랑안과의원
+namelist_clean 눈사랑안과의원
+find_name 새길병원
+namelist[Q5].text 다봄안과의원
+namelist_clean 다봄안과의원
+find_name 새길병원
+namelist[Q5].text 신&박킴스안과의원
+namelist_clean 신&박킴스안과의원
+find_name 새길병원
+namelist[Q5].text 눈에손안과의원
+namelist_clean 눈에손안과의원
+find_name 새길병원
+namelist[Q5].text 이상협안과의원
+namelist_clean 이상협안과의원
+find_name 새길병원
+namelist[Q5].text 신세계안과의원
+namelist_clean 신세계안과의원
+find_name 새길병원
+namelist[Q5].text 부전안과의원
+namelist_clean 부전안과의원
+find_name 새길병원
+namelist[Q5].text 밝은눈안과병원
+namelist_clean 밝은눈안과병원
+find_name 새길병원
+namelist[Q5].text 양정베스트안과의원
+namelist_clean 양정베스트안과의원
+find_name 새길병원
+namelist[Q5].text 이영안과의원
+namelist_clean 이영안과의원
+find_name 새길병원
+namelist[Q5].text 최안과의원
+namelist_clean 최안과의원
+find_name 새길병원
+namelist[Q5].text 누네조은안과의원
+namelist_clean 누네조은안과의원
+find_name 새길병원
+namelist[Q5].text 눈시원안과의원
+namelist_clean 눈시원안과의원
+find_name 새길병원
+namelist[Q5].text 아이존안과의원
+namelist_clean 아이존안과의원
+find_name 새길병원
+namelist[Q5].text 현대안과의원
+namelist_clean 현대안과의원
+find_name 새길병원
+namelist[Q5].text 핑이비인후과의원
+namelist_clean 핑이비인후과의원
+find_name 새길병원
+namelist[Q5].text 새길병원
+namelist_clean 새길병원
+find_name 새길병원
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 페이지 닫기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 더보기
+print_text.text 방문자 리뷰 60
+print_text.text 블로그 리뷰 186
+print_text.text 출발
+print_text.text 도착
+print_text.text 저장
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 예약
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 30
+menubtn 0
+reviewbtn 0
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 30
+동작중 30
+sharebtn 1
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 125.7.175.145
+부전동안과 더보기
+머지???
+부전동안과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.172.227
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x311f2e]
+	chromedriver!(No symbol) [0x34f587]
+	chromedriver!(No symbol) [0x37da86]
+	chromedriver!(No symbol) [0x378f12]
+	chromedriver!(No symbol) [0x378531]
+	chromedriver!(No symbol) [0x2e532e]
+	chromedriver!(No symbol) [0x2e58ce]
+	chromedriver!(No symbol) [0x2e5dad]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!(No symbol) [0x2e4ec9]
+	chromedriver!(No symbol) [0x2e4510]
+	chromedriver!GetHandleVerifier [0x8d8e1f+3b2cdf]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+[clean_temp_folder] deleted=1 skipped=19 dir=C:\Users\user\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 115.144.96.59
+더보기
+머지???
+부전동안과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+find_name 새길병원
+IP 변경중...
+변경된 IP : 121.126.72.62
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.133.68
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 183.78.142.76
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x311f2e]
+	chromedriver!(No symbol) [0x34f587]
+	chromedriver!(No symbol) [0x37da86]
+	chromedriver!(No symbol) [0x378f12]
+	chromedriver!(No symbol) [0x378531]
+	chromedriver!(No symbol) [0x2e532e]
+	chromedriver!(No symbol) [0x2e58ce]
+	chromedriver!(No symbol) [0x2e5dad]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!(No symbol) [0x2e4ec9]
+	chromedriver!(No symbol) [0x2e4510]
+	chromedriver!GetHandleVerifier [0x8d8e1f+3b2cdf]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.224.160
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 125.7.168.149
+부전동 내과 더보기
+머지???
+부전동 내과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.174.76
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.215.120
+부전동 내과 더보기
+머지???
+부전동 내과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.170.127
+부전동 내과 더보기
+머지???
+부전동 내과
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+3
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+71
+[1] 업체명: 부산베스트내과의원
+[2] 업체명: 류마이준희내과의원
+[3] 업체명: 김주인내과의원
+[4] 업체명: 더좋은에스의원
+[5] 업체명: 서면필내과의원
+[6] 업체명: 부산베스트내과의원
+[7] 업체명: 서면속내과의원
+[8] 업체명: 갑내과산부인과의원
+[9] 업체명: 송준영내과소아청소년과의원
+[10] 업체명: 서면바른내과의원
+[11] 업체명: 이영우내과의원
+[12] 업체명: 강내과의원
+[13] 업체명: 홍택종심혈관리하는내과
+[14] 업체명: 손지식의원
+[15] 업체명: 센트럴부산의원
+[16] 업체명: 성애내과의원
+[17] 업체명: 고슴도치프롤노의원
+[18] 업체명: 원광메디칼내과의원
+[19] 업체명: 미래내과의원
+[20] 업체명: 이영진내과의원
+[21] 업체명: 세정의원
+[22] 업체명: 숨편한곽내과의원
+[23] 업체명: 김태형신경과의원
+[24] 업체명: 이샘병원
+[25] 업체명: 휴병원
+[26] 업체명: 365류내과의원
+[27] 업체명: 성가병원
+[28] 업체명: 행복한병원
+[29] 업체명: 다솜의원
+[30] 업체명: 장새로이내과의원
+[31] 업체명: 이신내과의원
+[32] 업체명: 백양제일내과의원
+[33] 업체명: 연지삼성내과의원
+[34] 업체명: 조앤조내과신경과의원
+[35] 업체명: 속편한장내과의원
+[36] 업체명: 중앙내과의원
+[37] 업체명: 서울케이내과의원
+[38] 업체명: 늘푸른의원
+[39] 업체명: 양정이나리아내과의원
+[40] 업체명: 속시원내과의원
+[41] 업체명: 범일연세내과의원
+[42] 업체명: 고려내과의원
+[43] 업체명: 윤내과의원
+[44] 업체명: 새영남내과의원
+[45] 업체명: 서울으뜸내과의원
+[46] 업체명: 허종현내과의원
+[47] 업체명: 영남내과의원
+[48] 업체명: 건강한내과의원
+[49] 업체명: 부강내과의원
+[50] 업체명: 한결의원
+[51] 업체명: 정내과의원
+[52] 업체명: 부산내과의원
+[53] 업체명: 김진규내과의원
+[54] 업체명: 성진내과의원
+[55] 업체명: 박성수내과의원
+[56] 업체명: 한빛내과의원
+[57] 업체명: 대한의원
+[58] 업체명: 범천박의원
+[59] 업체명: 이재복내과의원
+[60] 업체명: 참사랑의원
+[61] 업체명: 아남의원
+[62] 업체명: 최웅식의원
+[63] 업체명: 서일메디컬그룹의원 부산서면역
+[64] 업체명: 송수근내과의원
+[65] 업체명: 윤욱돈내과의원
+[66] 업체명: 조성래의원
+[67] 업체명: 보림의원
+[68] 업체명: 더올림의원 서면역
+[69] 업체명: 톤즈의원 부산서면역
+[70] 업체명: 유앤아이의원 부산점
+[71] 업체명: 세흥병원
+부산베스트내과의원
+류마이준희내과의원
+김주인내과의원
+더좋은에스의원
+서면필내과의원
+서면속내과의원
+갑내과산부인과의원
+송준영내과소아청소년과의원
+서면바른내과의원
+이영우내과의원
+강내과의원
+홍택종심혈관리하는내과
+손지식의원
+센트럴부산의원
+성애내과의원
+고슴도치프롤노의원
+원광메디칼내과의원
+미래내과의원
+이영진내과의원
+세정의원
+숨편한곽내과의원
+김태형신경과의원
+이샘병원
+휴병원
+365류내과의원
+성가병원
+행복한병원
+다솜의원
+장새로이내과의원
+이신내과의원
+백양제일내과의원
+연지삼성내과의원
+조앤조내과신경과의원
+속편한장내과의원
+중앙내과의원
+서울케이내과의원
+늘푸른의원
+양정이나리아내과의원
+속시원내과의원
+범일연세내과의원
+고려내과의원
+윤내과의원
+새영남내과의원
+서울으뜸내과의원
+허종현내과의원
+영남내과의원
+건강한내과의원
+부강내과의원
+한결의원
+정내과의원
+부산내과의원
+김진규내과의원
+성진내과의원
+박성수내과의원
+한빛내과의원
+대한의원
+범천박의원
+이재복내과의원
+참사랑의원
+아남의원
+최웅식의원
+서일메디컬그룹의원 부산서면역
+송수근내과의원
+윤욱돈내과의원
+조성래의원
+보림의원
+더올림의원 서면역
+톤즈의원 부산서면역
+유앤아이의원 부산점
+세흥병원
+namelist[Q5].text 부산베스트내과의원
+namelist_clean 부산베스트내과의원
+find_name 새길병원
+namelist[Q5].text 류마이준희내과의원
+namelist_clean 류마이준희내과의원
+find_name 새길병원
+namelist[Q5].text 김주인내과의원
+namelist_clean 김주인내과의원
+find_name 새길병원
+namelist[Q5].text 더좋은에스의원
+namelist_clean 더좋은에스의원
+find_name 새길병원
+namelist[Q5].text 서면필내과의원
+namelist_clean 서면필내과의원
+find_name 새길병원
+namelist[Q5].text 서면속내과의원
+namelist_clean 서면속내과의원
+find_name 새길병원
+namelist[Q5].text 갑내과산부인과의원
+namelist_clean 갑내과산부인과의원
+find_name 새길병원
+namelist[Q5].text 송준영내과소아청소년과의원
+namelist_clean 송준영내과소아청소년과의원
+find_name 새길병원
+namelist[Q5].text 서면바른내과의원
+namelist_clean 서면바른내과의원
+find_name 새길병원
+namelist[Q5].text 이영우내과의원
+namelist_clean 이영우내과의원
+find_name 새길병원
+namelist[Q5].text 강내과의원
+namelist_clean 강내과의원
+find_name 새길병원
+namelist[Q5].text 홍택종심혈관리하는내과
+namelist_clean 홍택종심혈관리하는내과
+find_name 새길병원
+namelist[Q5].text 손지식의원
+namelist_clean 손지식의원
+find_name 새길병원
+namelist[Q5].text 센트럴부산의원
+namelist_clean 센트럴부산의원
+find_name 새길병원
+namelist[Q5].text 성애내과의원
+namelist_clean 성애내과의원
+find_name 새길병원
+namelist[Q5].text 고슴도치프롤노의원
+namelist_clean 고슴도치프롤노의원
+find_name 새길병원
+namelist[Q5].text 원광메디칼내과의원
+namelist_clean 원광메디칼내과의원
+find_name 새길병원
+namelist[Q5].text 미래내과의원
+namelist_clean 미래내과의원
+find_name 새길병원
+namelist[Q5].text 이영진내과의원
+namelist_clean 이영진내과의원
+find_name 새길병원
+namelist[Q5].text 세정의원
+namelist_clean 세정의원
+find_name 새길병원
+namelist[Q5].text 숨편한곽내과의원
+namelist_clean 숨편한곽내과의원
+find_name 새길병원
+namelist[Q5].text 김태형신경과의원
+namelist_clean 김태형신경과의원
+find_name 새길병원
+namelist[Q5].text 이샘병원
+namelist_clean 이샘병원
+find_name 새길병원
+namelist[Q5].text 휴병원
+namelist_clean 휴병원
+find_name 새길병원
+namelist[Q5].text 365류내과의원
+namelist_clean 365류내과의원
+find_name 새길병원
+namelist[Q5].text 성가병원
+namelist_clean 성가병원
+find_name 새길병원
+namelist[Q5].text 행복한병원
+namelist_clean 행복한병원
+find_name 새길병원
+namelist[Q5].text 다솜의원
+namelist_clean 다솜의원
+find_name 새길병원
+namelist[Q5].text 장새로이내과의원
+namelist_clean 장새로이내과의원
+find_name 새길병원
+namelist[Q5].text 이신내과의원
+namelist_clean 이신내과의원
+find_name 새길병원
+namelist[Q5].text 백양제일내과의원
+namelist_clean 백양제일내과의원
+find_name 새길병원
+namelist[Q5].text 연지삼성내과의원
+namelist_clean 연지삼성내과의원
+find_name 새길병원
+namelist[Q5].text 조앤조내과신경과의원
+namelist_clean 조앤조내과신경과의원
+find_name 새길병원
+namelist[Q5].text 속편한장내과의원
+namelist_clean 속편한장내과의원
+find_name 새길병원
+namelist[Q5].text 중앙내과의원
+namelist_clean 중앙내과의원
+find_name 새길병원
+namelist[Q5].text 서울케이내과의원
+namelist_clean 서울케이내과의원
+find_name 새길병원
+namelist[Q5].text 늘푸른의원
+namelist_clean 늘푸른의원
+find_name 새길병원
+namelist[Q5].text 양정이나리아내과의원
+namelist_clean 양정이나리아내과의원
+find_name 새길병원
+namelist[Q5].text 속시원내과의원
+namelist_clean 속시원내과의원
+find_name 새길병원
+namelist[Q5].text 범일연세내과의원
+namelist_clean 범일연세내과의원
+find_name 새길병원
+namelist[Q5].text 고려내과의원
+namelist_clean 고려내과의원
+find_name 새길병원
+namelist[Q5].text 윤내과의원
+namelist_clean 윤내과의원
+find_name 새길병원
+namelist[Q5].text 새영남내과의원
+namelist_clean 새영남내과의원
+find_name 새길병원
+namelist[Q5].text 서울으뜸내과의원
+namelist_clean 서울으뜸내과의원
+find_name 새길병원
+namelist[Q5].text 허종현내과의원
+namelist_clean 허종현내과의원
+find_name 새길병원
+namelist[Q5].text 영남내과의원
+namelist_clean 영남내과의원
+find_name 새길병원
+namelist[Q5].text 건강한내과의원
+namelist_clean 건강한내과의원
+find_name 새길병원
+namelist[Q5].text 부강내과의원
+namelist_clean 부강내과의원
+find_name 새길병원
+namelist[Q5].text 한결의원
+namelist_clean 한결의원
+find_name 새길병원
+namelist[Q5].text 정내과의원
+namelist_clean 정내과의원
+find_name 새길병원
+namelist[Q5].text 부산내과의원
+namelist_clean 부산내과의원
+find_name 새길병원
+namelist[Q5].text 김진규내과의원
+namelist_clean 김진규내과의원
+find_name 새길병원
+namelist[Q5].text 성진내과의원
+namelist_clean 성진내과의원
+find_name 새길병원
+namelist[Q5].text 박성수내과의원
+namelist_clean 박성수내과의원
+find_name 새길병원
+namelist[Q5].text 한빛내과의원
+namelist_clean 한빛내과의원
+find_name 새길병원
+namelist[Q5].text 대한의원
+namelist_clean 대한의원
+find_name 새길병원
+namelist[Q5].text 범천박의원
+namelist_clean 범천박의원
+find_name 새길병원
+namelist[Q5].text 이재복내과의원
+namelist_clean 이재복내과의원
+find_name 새길병원
+namelist[Q5].text 참사랑의원
+namelist_clean 참사랑의원
+find_name 새길병원
+namelist[Q5].text 아남의원
+namelist_clean 아남의원
+find_name 새길병원
+namelist[Q5].text 최웅식의원
+namelist_clean 최웅식의원
+find_name 새길병원
+namelist[Q5].text 서일메디컬그룹의원 부산서면역
+namelist_clean 서일메디컬그룹의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 송수근내과의원
+namelist_clean 송수근내과의원
+find_name 새길병원
+namelist[Q5].text 윤욱돈내과의원
+namelist_clean 윤욱돈내과의원
+find_name 새길병원
+namelist[Q5].text 조성래의원
+namelist_clean 조성래의원
+find_name 새길병원
+namelist[Q5].text 보림의원
+namelist_clean 보림의원
+find_name 새길병원
+namelist[Q5].text 더올림의원 서면역
+namelist_clean 더올림의원 서면역
+find_name 새길병원
+namelist[Q5].text 톤즈의원 부산서면역
+namelist_clean 톤즈의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 유앤아이의원 부산점
+namelist_clean 유앤아이의원 부산점
+find_name 새길병원
+namelist[Q5].text 세흥병원
+namelist_clean 세흥병원
+find_name 새길병원
+<undetected_chromedriver.webelement.WebElement (session="e3b9aebcbd4ea02322f6723eda98481a", element="f.782317DC1E9D891C6FA39D935B1F844D.d.735EA7A4302A66649A1E4881B20584AB.e.1725")>
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+[1] 업체명: 핑이비인후과의원
+[2] 업체명: 바로서면병원
+[3] 업체명: 더붐의원 부산서면
+[4] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[5] 업체명: 시카고정형외과의원
+[6] 업체명: 서면좋은사람안과의원
+[7] 업체명: 리즈온의원 부산
+[8] 업체명: 소리온이비인후과의원
+[9] 업체명: 하나유외과의원 부산서면
+[10] 업체명: 굿모닝이비인후과의원
+[11] 업체명: 청맥병원
+[12] 업체명: 쉬즈라인의원 서면
+[13] 업체명: 희망클리닉의원
+[14] 업체명: 김병준레다스흉부외과의원
+[15] 업체명: 기운찬마취통증의학과의원
+[16] 업체명: 비오비의원 부산서면
+[17] 업체명: 부산여성비뇨의학과의원
+[18] 업체명: 하이유외과성형외과의원
+[19] 업체명: 리젤마취통증의학과의원 부산서면
+[20] 업체명: 서울더빛의원
+[21] 업체명: 파라다이스의원
+[22] 업체명: 아이리드성형외과의원 부산서면역
+[23] 업체명: 아루다의원
+[24] 업체명: 고은리프트의원
+[25] 업체명: 편한마취통증의학과의원
+[26] 업체명: 양승인부산흉부외과의원
+[27] 업체명: 서면엘레슈의원
+[28] 업체명: 위너성형외과의원
+[29] 업체명: 통통샤인정신건강의학과의원
+[30] 업체명: 눈에손안과의원
+[31] 업체명: 강철신경외과의원
+[32] 업체명: 부산서울하정외과의원
+[33] 업체명: 알파신경외과의원
+[34] 업체명: 마노필의원
+[35] 업체명: 우리들마취통증의학과의원
+[36] 업체명: 가인의원
+[37] 업체명: 강남더블유의원
+[38] 업체명: 선이고운의원
+[39] 업체명: 아이리스성형외과의원
+[40] 업체명: 일미의원
+[41] 업체명: 한화생명보험부산부속의원
+[42] 업체명: 손제용신경과의원
+[43] 업체명: 구도형바른의원
+[44] 업체명: 큰힘병원
+[45] 업체명: 목화병원
+[46] 업체명: KMI한국의학연구소 부산검진센터
+[47] 업체명: 파란시티병원
+[48] 업체명: 좋은문화병원
+[49] 업체명: 온병원
+[50] 업체명: 에덴어린이병원
+[51] 업체명: 밝은눈안과병원
+[52] 업체명: 수요양병원
+[53] 업체명: 바른의원
+[54] 업체명: 이영안과의원
+[55] 업체명: 춘해병원
+[56] 업체명: 크리스탈피부과의원
+[57] 업체명: 강남의원
+[58] 업체명: 시원한이비인후과의원
+[59] 업체명: 서울프라임피부과의원
+[60] 업체명: 상봉요양병원
+[61] 업체명: 부산혜민요양병원
+[62] 업체명: 연세척병원
+[63] 업체명: 온요양병원
+[64] 업체명: 김병진이비인후과의원
+[65] 업체명: 정든이비인후과의원
+[66] 업체명: 신통마취통증의학과의원
+[67] 업체명: 시티비뇨기과의원
+[68] 업체명: 새싹소아청소년과의원
+[69] 업체명: 튼튼신경외과의원
+[70] 업체명: 우리아동의원
+핑이비인후과의원
+바로서면병원
+더붐의원 부산서면
+새길병원
+시카고정형외과의원
+서면좋은사람안과의원
+리즈온의원 부산
+소리온이비인후과의원
+하나유외과의원 부산서면
+굿모닝이비인후과의원
+청맥병원
+쉬즈라인의원 서면
+희망클리닉의원
+김병준레다스흉부외과의원
+기운찬마취통증의학과의원
+비오비의원 부산서면
+부산여성비뇨의학과의원
+하이유외과성형외과의원
+리젤마취통증의학과의원 부산서면
+서울더빛의원
+파라다이스의원
+아이리드성형외과의원 부산서면역
+아루다의원
+고은리프트의원
+편한마취통증의학과의원
+양승인부산흉부외과의원
+서면엘레슈의원
+위너성형외과의원
+통통샤인정신건강의학과의원
+눈에손안과의원
+강철신경외과의원
+부산서울하정외과의원
+알파신경외과의원
+마노필의원
+우리들마취통증의학과의원
+가인의원
+강남더블유의원
+선이고운의원
+아이리스성형외과의원
+일미의원
+한화생명보험부산부속의원
+손제용신경과의원
+구도형바른의원
+큰힘병원
+목화병원
+KMI한국의학연구소 부산검진센터
+파란시티병원
+좋은문화병원
+온병원
+에덴어린이병원
+밝은눈안과병원
+수요양병원
+바른의원
+이영안과의원
+춘해병원
+크리스탈피부과의원
+강남의원
+시원한이비인후과의원
+서울프라임피부과의원
+상봉요양병원
+부산혜민요양병원
+연세척병원
+온요양병원
+김병진이비인후과의원
+정든이비인후과의원
+신통마취통증의학과의원
+시티비뇨기과의원
+새싹소아청소년과의원
+튼튼신경외과의원
+우리아동의원
+핑이비인후과의원
+바로서면병원
+더붐의원 부산서면
+새길병원
+찾았다3----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 페이지 닫기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 더보기
+print_text.text 방문자 리뷰 60
+print_text.text 블로그 리뷰 186
+print_text.text 출발
+print_text.text 도착
+print_text.text 저장
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 예약
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 71
+동작중 59
+menubtn 0
+reviewbtn 0
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 59
+sharebtn 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 53
+동작중 53
+destibtn 0
+savebtn 1
+지금부터
+이전 페이지
+None
+페이지 닫기
+None
+
+None
+
+None
+
+None
+
+None
+더보기
+None
+방문자 리뷰 60
+None
+블로그 리뷰 186
+None
+출발
+None
+도착
+None
+저장
+false
+거리뷰
+None
+공유
+None
+['아이디||비밀번호']
+아이디 :::  ['아이디']
+비밀번호 :::  ['비밀번호']
+--------------total error-------import --------
+에러메세지
+Message: javascript error: Cannot set properties of undefined (setting 'value')
+  (Session info: chrome=148.0.7778.168)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x318d5c]
+	chromedriver!(No symbol) [0x31b272]
+	chromedriver!(No symbol) [0x39b7b1]
+	chromedriver!(No symbol) [0x37dbcc]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.64.201
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+[clean_temp_folder] deleted=0 skipped=19 dir=C:\Users\user\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 115.144.70.147
+더보기
+머지???
+부전동 내과
+next_check_click None
+sdfinQK.text 지도
+지도 찾음
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+find_name 새길병원
+IP 변경중...
+변경된 IP : 124.198.89.160
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+72
+[1] 업체명: 좋은문화병원
+[2] 업체명: 부산베스트내과의원
+[3] 업체명: 류마이준희내과의원
+[4] 업체명: 김주인내과의원
+[5] 업체명: 더좋은에스의원
+[6] 업체명: 서면필내과의원
+[7] 업체명: 갑내과산부인과의원
+[8] 업체명: 서면바른내과의원
+[9] 업체명: 서면속내과의원
+[10] 업체명: 이영우내과의원
+[11] 업체명: 강내과의원
+[12] 업체명: 홍택종심혈관리하는내과
+[13] 업체명: 부산베스트내과의원
+[14] 업체명: 성애내과의원
+[15] 업체명: 원광메디칼내과의원
+[16] 업체명: 미래내과의원
+[17] 업체명: 세정의원
+[18] 업체명: 센트럴부산의원
+[19] 업체명: 고슴도치프롤노의원
+[20] 업체명: 새영남내과의원
+[21] 업체명: 이영진내과의원
+[22] 업체명: 이샘병원
+[23] 업체명: 한결의원
+[24] 업체명: 조성래의원
+[25] 업체명: 송준영내과소아청소년과의원
+[26] 업체명: 손지식의원
+[27] 업체명: 이신내과의원
+[28] 업체명: 속시원내과의원
+[29] 업체명: 휴병원
+[30] 업체명: 부강내과의원
+[31] 업체명: 성진내과의원
+[32] 업체명: 영남내과의원
+[33] 업체명: 중앙내과의원
+[34] 업체명: 다솜의원
+[35] 업체명: 행복한병원
+[36] 업체명: 참사랑의원
+[37] 업체명: 성가병원
+[38] 업체명: 아남의원
+[39] 업체명: 한빛내과의원
+[40] 업체명: 최웅식의원
+[41] 업체명: 대한의원
+[42] 업체명: 김태형신경과의원
+[43] 업체명: 숨편한곽내과의원
+[44] 업체명: 보림의원
+[45] 업체명: 윤내과의원
+[46] 업체명: 윤욱돈내과의원
+[47] 업체명: 허종현내과의원
+[48] 업체명: 김진규내과의원
+[49] 업체명: 서일메디컬그룹의원 부산서면역
+[50] 업체명: 구도형바른의원
+[51] 업체명: 더올림의원 서면역
+[52] 업체명: 톤즈의원 부산서면역
+[53] 업체명: 유앤아이의원 부산점
+[54] 업체명: 핑이비인후과의원
+[55] 업체명: 더붐의원 부산서면
+[56] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[57] 업체명: 시카고정형외과의원
+[58] 업체명: 서면좋은사람안과의원
+[59] 업체명: 리즈온의원 부산
+[60] 업체명: 소리온이비인후과의원
+[61] 업체명: 하나유외과의원 부산서면
+[62] 업체명: 굿모닝이비인후과의원
+[63] 업체명: 청맥병원
+[64] 업체명: 쉬즈라인의원 서면
+[65] 업체명: 희망클리닉의원
+[66] 업체명: 김병준레다스흉부외과의원
+[67] 업체명: 기운찬마취통증의학과의원
+[68] 업체명: 비오비의원 부산서면
+[69] 업체명: 부산여성비뇨의학과의원
+[70] 업체명: 하이유외과성형외과의원
+[71] 업체명: 리젤마취통증의학과의원 부산서면
+[72] 업체명: 서울더빛의원
+좋은문화병원
+부산베스트내과의원
+류마이준희내과의원
+김주인내과의원
+더좋은에스의원
+서면필내과의원
+갑내과산부인과의원
+서면바른내과의원
+서면속내과의원
+이영우내과의원
+강내과의원
+홍택종심혈관리하는내과
+성애내과의원
+원광메디칼내과의원
+미래내과의원
+세정의원
+센트럴부산의원
+고슴도치프롤노의원
+새영남내과의원
+이영진내과의원
+이샘병원
+한결의원
+조성래의원
+송준영내과소아청소년과의원
+손지식의원
+이신내과의원
+속시원내과의원
+휴병원
+부강내과의원
+성진내과의원
+영남내과의원
+중앙내과의원
+다솜의원
+행복한병원
+참사랑의원
+성가병원
+아남의원
+한빛내과의원
+최웅식의원
+대한의원
+김태형신경과의원
+숨편한곽내과의원
+보림의원
+윤내과의원
+윤욱돈내과의원
+허종현내과의원
+김진규내과의원
+서일메디컬그룹의원 부산서면역
+구도형바른의원
+더올림의원 서면역
+톤즈의원 부산서면역
+유앤아이의원 부산점
+핑이비인후과의원
+더붐의원 부산서면
+새길병원
+시카고정형외과의원
+서면좋은사람안과의원
+리즈온의원 부산
+소리온이비인후과의원
+하나유외과의원 부산서면
+굿모닝이비인후과의원
+청맥병원
+쉬즈라인의원 서면
+희망클리닉의원
+김병준레다스흉부외과의원
+기운찬마취통증의학과의원
+비오비의원 부산서면
+부산여성비뇨의학과의원
+하이유외과성형외과의원
+리젤마취통증의학과의원 부산서면
+서울더빛의원
+namelist[Q5].text 좋은문화병원
+namelist_clean 좋은문화병원
+find_name 새길병원
+namelist[Q5].text 부산베스트내과의원
+namelist_clean 부산베스트내과의원
+find_name 새길병원
+namelist[Q5].text 류마이준희내과의원
+namelist_clean 류마이준희내과의원
+find_name 새길병원
+namelist[Q5].text 김주인내과의원
+namelist_clean 김주인내과의원
+find_name 새길병원
+namelist[Q5].text 더좋은에스의원
+namelist_clean 더좋은에스의원
+find_name 새길병원
+namelist[Q5].text 서면필내과의원
+namelist_clean 서면필내과의원
+find_name 새길병원
+namelist[Q5].text 갑내과산부인과의원
+namelist_clean 갑내과산부인과의원
+find_name 새길병원
+namelist[Q5].text 서면바른내과의원
+namelist_clean 서면바른내과의원
+find_name 새길병원
+namelist[Q5].text 서면속내과의원
+namelist_clean 서면속내과의원
+find_name 새길병원
+namelist[Q5].text 이영우내과의원
+namelist_clean 이영우내과의원
+find_name 새길병원
+namelist[Q5].text 강내과의원
+namelist_clean 강내과의원
+find_name 새길병원
+namelist[Q5].text 홍택종심혈관리하는내과
+namelist_clean 홍택종심혈관리하는내과
+find_name 새길병원
+namelist[Q5].text 성애내과의원
+namelist_clean 성애내과의원
+find_name 새길병원
+namelist[Q5].text 원광메디칼내과의원
+namelist_clean 원광메디칼내과의원
+find_name 새길병원
+namelist[Q5].text 미래내과의원
+namelist_clean 미래내과의원
+find_name 새길병원
+namelist[Q5].text 세정의원
+namelist_clean 세정의원
+find_name 새길병원
+namelist[Q5].text 센트럴부산의원
+namelist_clean 센트럴부산의원
+find_name 새길병원
+namelist[Q5].text 고슴도치프롤노의원
+namelist_clean 고슴도치프롤노의원
+find_name 새길병원
+namelist[Q5].text 새영남내과의원
+namelist_clean 새영남내과의원
+find_name 새길병원
+namelist[Q5].text 이영진내과의원
+namelist_clean 이영진내과의원
+find_name 새길병원
+namelist[Q5].text 이샘병원
+namelist_clean 이샘병원
+find_name 새길병원
+namelist[Q5].text 한결의원
+namelist_clean 한결의원
+find_name 새길병원
+namelist[Q5].text 조성래의원
+namelist_clean 조성래의원
+find_name 새길병원
+namelist[Q5].text 송준영내과소아청소년과의원
+namelist_clean 송준영내과소아청소년과의원
+find_name 새길병원
+namelist[Q5].text 손지식의원
+namelist_clean 손지식의원
+find_name 새길병원
+namelist[Q5].text 이신내과의원
+namelist_clean 이신내과의원
+find_name 새길병원
+namelist[Q5].text 속시원내과의원
+namelist_clean 속시원내과의원
+find_name 새길병원
+namelist[Q5].text 휴병원
+namelist_clean 휴병원
+find_name 새길병원
+namelist[Q5].text 부강내과의원
+namelist_clean 부강내과의원
+find_name 새길병원
+namelist[Q5].text 성진내과의원
+namelist_clean 성진내과의원
+find_name 새길병원
+namelist[Q5].text 영남내과의원
+namelist_clean 영남내과의원
+find_name 새길병원
+namelist[Q5].text 중앙내과의원
+namelist_clean 중앙내과의원
+find_name 새길병원
+namelist[Q5].text 다솜의원
+namelist_clean 다솜의원
+find_name 새길병원
+namelist[Q5].text 행복한병원
+namelist_clean 행복한병원
+find_name 새길병원
+namelist[Q5].text 참사랑의원
+namelist_clean 참사랑의원
+find_name 새길병원
+namelist[Q5].text 성가병원
+namelist_clean 성가병원
+find_name 새길병원
+namelist[Q5].text 아남의원
+namelist_clean 아남의원
+find_name 새길병원
+namelist[Q5].text 한빛내과의원
+namelist_clean 한빛내과의원
+find_name 새길병원
+namelist[Q5].text 최웅식의원
+namelist_clean 최웅식의원
+find_name 새길병원
+namelist[Q5].text 대한의원
+namelist_clean 대한의원
+find_name 새길병원
+namelist[Q5].text 김태형신경과의원
+namelist_clean 김태형신경과의원
+find_name 새길병원
+namelist[Q5].text 숨편한곽내과의원
+namelist_clean 숨편한곽내과의원
+find_name 새길병원
+namelist[Q5].text 보림의원
+namelist_clean 보림의원
+find_name 새길병원
+namelist[Q5].text 윤내과의원
+namelist_clean 윤내과의원
+find_name 새길병원
+namelist[Q5].text 윤욱돈내과의원
+namelist_clean 윤욱돈내과의원
+find_name 새길병원
+namelist[Q5].text 허종현내과의원
+namelist_clean 허종현내과의원
+find_name 새길병원
+namelist[Q5].text 김진규내과의원
+namelist_clean 김진규내과의원
+find_name 새길병원
+namelist[Q5].text 서일메디컬그룹의원 부산서면역
+namelist_clean 서일메디컬그룹의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 구도형바른의원
+namelist_clean 구도형바른의원
+find_name 새길병원
+namelist[Q5].text 더올림의원 서면역
+namelist_clean 더올림의원 서면역
+find_name 새길병원
+namelist[Q5].text 톤즈의원 부산서면역
+namelist_clean 톤즈의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 유앤아이의원 부산점
+namelist_clean 유앤아이의원 부산점
+find_name 새길병원
+namelist[Q5].text 핑이비인후과의원
+namelist_clean 핑이비인후과의원
+find_name 새길병원
+namelist[Q5].text 더붐의원 부산서면
+namelist_clean 더붐의원 부산서면
+find_name 새길병원
+namelist[Q5].text 새길병원
+namelist_clean 새길병원
+find_name 새길병원
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 페이지 닫기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 더보기
+print_text.text 방문자 리뷰 60
+print_text.text 블로그 리뷰 186
+print_text.text 출발
+print_text.text 도착
+print_text.text 저장
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 예약
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 52
+동작중 52
+menubtn 0
+reviewbtn 0
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 43
+동작중 43
+sharebtn 1
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.7.83
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.248.139
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+72
+[1] 업체명: 좋은문화병원
+[2] 업체명: 부산베스트내과의원
+[3] 업체명: 류마이준희내과의원
+[4] 업체명: 김주인내과의원
+[5] 업체명: 더좋은에스의원
+[6] 업체명: 서면필내과의원
+[7] 업체명: 갑내과산부인과의원
+[8] 업체명: 서면바른내과의원
+[9] 업체명: 서면속내과의원
+[10] 업체명: 이영우내과의원
+[11] 업체명: 강내과의원
+[12] 업체명: 홍택종심혈관리하는내과
+[13] 업체명: 부산베스트내과의원
+[14] 업체명: 성애내과의원
+[15] 업체명: 원광메디칼내과의원
+[16] 업체명: 미래내과의원
+[17] 업체명: 세정의원
+[18] 업체명: 센트럴부산의원
+[19] 업체명: 고슴도치프롤노의원
+[20] 업체명: 새영남내과의원
+[21] 업체명: 이영진내과의원
+[22] 업체명: 이샘병원
+[23] 업체명: 한결의원
+[24] 업체명: 조성래의원
+[25] 업체명: 송준영내과소아청소년과의원
+[26] 업체명: 손지식의원
+[27] 업체명: 이신내과의원
+[28] 업체명: 속시원내과의원
+[29] 업체명: 휴병원
+[30] 업체명: 부강내과의원
+[31] 업체명: 성진내과의원
+[32] 업체명: 영남내과의원
+[33] 업체명: 중앙내과의원
+[34] 업체명: 다솜의원
+[35] 업체명: 행복한병원
+[36] 업체명: 참사랑의원
+[37] 업체명: 성가병원
+[38] 업체명: 아남의원
+[39] 업체명: 한빛내과의원
+[40] 업체명: 최웅식의원
+[41] 업체명: 대한의원
+[42] 업체명: 김태형신경과의원
+[43] 업체명: 숨편한곽내과의원
+[44] 업체명: 보림의원
+[45] 업체명: 윤내과의원
+[46] 업체명: 윤욱돈내과의원
+[47] 업체명: 허종현내과의원
+[48] 업체명: 김진규내과의원
+[49] 업체명: 서일메디컬그룹의원 부산서면역
+[50] 업체명: 구도형바른의원
+[51] 업체명: 더올림의원 서면역
+[52] 업체명: 톤즈의원 부산서면역
+[53] 업체명: 유앤아이의원 부산점
+[54] 업체명: 핑이비인후과의원
+[55] 업체명: 더붐의원 부산서면
+[56] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[57] 업체명: 시카고정형외과의원
+[58] 업체명: 서면좋은사람안과의원
+[59] 업체명: 리즈온의원 부산
+[60] 업체명: 소리온이비인후과의원
+[61] 업체명: 하나유외과의원 부산서면
+[62] 업체명: 굿모닝이비인후과의원
+[63] 업체명: 청맥병원
+[64] 업체명: 쉬즈라인의원 서면
+[65] 업체명: 희망클리닉의원
+[66] 업체명: 김병준레다스흉부외과의원
+[67] 업체명: 기운찬마취통증의학과의원
+[68] 업체명: 비오비의원 부산서면
+[69] 업체명: 부산여성비뇨의학과의원
+[70] 업체명: 하이유외과성형외과의원
+[71] 업체명: 리젤마취통증의학과의원 부산서면
+[72] 업체명: 서울더빛의원
+좋은문화병원
+부산베스트내과의원
+류마이준희내과의원
+김주인내과의원
+더좋은에스의원
+서면필내과의원
+갑내과산부인과의원
+서면바른내과의원
+서면속내과의원
+이영우내과의원
+강내과의원
+홍택종심혈관리하는내과
+성애내과의원
+원광메디칼내과의원
+미래내과의원
+세정의원
+센트럴부산의원
+고슴도치프롤노의원
+새영남내과의원
+이영진내과의원
+이샘병원
+한결의원
+조성래의원
+송준영내과소아청소년과의원
+손지식의원
+이신내과의원
+속시원내과의원
+휴병원
+부강내과의원
+성진내과의원
+영남내과의원
+중앙내과의원
+다솜의원
+행복한병원
+참사랑의원
+성가병원
+아남의원
+한빛내과의원
+최웅식의원
+대한의원
+김태형신경과의원
+숨편한곽내과의원
+보림의원
+윤내과의원
+윤욱돈내과의원
+허종현내과의원
+김진규내과의원
+서일메디컬그룹의원 부산서면역
+구도형바른의원
+더올림의원 서면역
+톤즈의원 부산서면역
+유앤아이의원 부산점
+핑이비인후과의원
+더붐의원 부산서면
+새길병원
+시카고정형외과의원
+서면좋은사람안과의원
+리즈온의원 부산
+소리온이비인후과의원
+하나유외과의원 부산서면
+굿모닝이비인후과의원
+청맥병원
+쉬즈라인의원 서면
+희망클리닉의원
+김병준레다스흉부외과의원
+기운찬마취통증의학과의원
+비오비의원 부산서면
+부산여성비뇨의학과의원
+하이유외과성형외과의원
+리젤마취통증의학과의원 부산서면
+서울더빛의원
+namelist[Q5].text 좋은문화병원
+namelist_clean 좋은문화병원
+find_name 새길병원
+namelist[Q5].text 부산베스트내과의원
+namelist_clean 부산베스트내과의원
+find_name 새길병원
+namelist[Q5].text 류마이준희내과의원
+namelist_clean 류마이준희내과의원
+find_name 새길병원
+namelist[Q5].text 김주인내과의원
+namelist_clean 김주인내과의원
+find_name 새길병원
+namelist[Q5].text 더좋은에스의원
+namelist_clean 더좋은에스의원
+find_name 새길병원
+namelist[Q5].text 서면필내과의원
+namelist_clean 서면필내과의원
+find_name 새길병원
+namelist[Q5].text 갑내과산부인과의원
+namelist_clean 갑내과산부인과의원
+find_name 새길병원
+namelist[Q5].text 서면바른내과의원
+namelist_clean 서면바른내과의원
+find_name 새길병원
+namelist[Q5].text 서면속내과의원
+namelist_clean 서면속내과의원
+find_name 새길병원
+namelist[Q5].text 이영우내과의원
+namelist_clean 이영우내과의원
+find_name 새길병원
+namelist[Q5].text 강내과의원
+namelist_clean 강내과의원
+find_name 새길병원
+namelist[Q5].text 홍택종심혈관리하는내과
+namelist_clean 홍택종심혈관리하는내과
+find_name 새길병원
+namelist[Q5].text 성애내과의원
+namelist_clean 성애내과의원
+find_name 새길병원
+namelist[Q5].text 원광메디칼내과의원
+namelist_clean 원광메디칼내과의원
+find_name 새길병원
+namelist[Q5].text 미래내과의원
+namelist_clean 미래내과의원
+find_name 새길병원
+namelist[Q5].text 세정의원
+namelist_clean 세정의원
+find_name 새길병원
+namelist[Q5].text 센트럴부산의원
+namelist_clean 센트럴부산의원
+find_name 새길병원
+namelist[Q5].text 고슴도치프롤노의원
+namelist_clean 고슴도치프롤노의원
+find_name 새길병원
+namelist[Q5].text 새영남내과의원
+namelist_clean 새영남내과의원
+find_name 새길병원
+namelist[Q5].text 이영진내과의원
+namelist_clean 이영진내과의원
+find_name 새길병원
+namelist[Q5].text 이샘병원
+namelist_clean 이샘병원
+find_name 새길병원
+namelist[Q5].text 한결의원
+namelist_clean 한결의원
+find_name 새길병원
+namelist[Q5].text 조성래의원
+namelist_clean 조성래의원
+find_name 새길병원
+namelist[Q5].text 송준영내과소아청소년과의원
+namelist_clean 송준영내과소아청소년과의원
+find_name 새길병원
+namelist[Q5].text 손지식의원
+namelist_clean 손지식의원
+find_name 새길병원
+namelist[Q5].text 이신내과의원
+namelist_clean 이신내과의원
+find_name 새길병원
+namelist[Q5].text 속시원내과의원
+namelist_clean 속시원내과의원
+find_name 새길병원
+namelist[Q5].text 휴병원
+namelist_clean 휴병원
+find_name 새길병원
+namelist[Q5].text 부강내과의원
+namelist_clean 부강내과의원
+find_name 새길병원
+namelist[Q5].text 성진내과의원
+namelist_clean 성진내과의원
+find_name 새길병원
+namelist[Q5].text 영남내과의원
+namelist_clean 영남내과의원
+find_name 새길병원
+namelist[Q5].text 중앙내과의원
+namelist_clean 중앙내과의원
+find_name 새길병원
+namelist[Q5].text 다솜의원
+namelist_clean 다솜의원
+find_name 새길병원
+namelist[Q5].text 행복한병원
+namelist_clean 행복한병원
+find_name 새길병원
+namelist[Q5].text 참사랑의원
+namelist_clean 참사랑의원
+find_name 새길병원
+namelist[Q5].text 성가병원
+namelist_clean 성가병원
+find_name 새길병원
+namelist[Q5].text 아남의원
+namelist_clean 아남의원
+find_name 새길병원
+namelist[Q5].text 한빛내과의원
+namelist_clean 한빛내과의원
+find_name 새길병원
+namelist[Q5].text 최웅식의원
+namelist_clean 최웅식의원
+find_name 새길병원
+namelist[Q5].text 대한의원
+namelist_clean 대한의원
+find_name 새길병원
+namelist[Q5].text 김태형신경과의원
+namelist_clean 김태형신경과의원
+find_name 새길병원
+namelist[Q5].text 숨편한곽내과의원
+namelist_clean 숨편한곽내과의원
+find_name 새길병원
+namelist[Q5].text 보림의원
+namelist_clean 보림의원
+find_name 새길병원
+namelist[Q5].text 윤내과의원
+namelist_clean 윤내과의원
+find_name 새길병원
+namelist[Q5].text 윤욱돈내과의원
+namelist_clean 윤욱돈내과의원
+find_name 새길병원
+namelist[Q5].text 허종현내과의원
+namelist_clean 허종현내과의원
+find_name 새길병원
+namelist[Q5].text 김진규내과의원
+namelist_clean 김진규내과의원
+find_name 새길병원
+namelist[Q5].text 서일메디컬그룹의원 부산서면역
+namelist_clean 서일메디컬그룹의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 구도형바른의원
+namelist_clean 구도형바른의원
+find_name 새길병원
+namelist[Q5].text 더올림의원 서면역
+namelist_clean 더올림의원 서면역
+find_name 새길병원
+namelist[Q5].text 톤즈의원 부산서면역
+namelist_clean 톤즈의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 유앤아이의원 부산점
+namelist_clean 유앤아이의원 부산점
+find_name 새길병원
+namelist[Q5].text 핑이비인후과의원
+namelist_clean 핑이비인후과의원
+find_name 새길병원
+namelist[Q5].text 더붐의원 부산서면
+namelist_clean 더붐의원 부산서면
+find_name 새길병원
+namelist[Q5].text 새길병원
+namelist_clean 새길병원
+find_name 새길병원
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 페이지 닫기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 더보기
+print_text.text 방문자 리뷰 60
+print_text.text 블로그 리뷰 186
+print_text.text 출발
+print_text.text 도착
+print_text.text 저장
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 예약
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 64
+동작중 59
+menubtn 0
+reviewbtn 0
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 87
+동작중 59
+sharebtn 1
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.58.138
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.245.68
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 202.126.116.41
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.72.31
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.191.230
+더보기
+머지???
+서면 내과
+서면 내과 더보기
+머지???
+서면 내과
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+2
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+72
+[1] 업체명: 좋은문화병원
+[2] 업체명: 부산베스트내과의원
+[3] 업체명: 류마이준희내과의원
+[4] 업체명: 김주인내과의원
+[5] 업체명: 더좋은에스의원
+[6] 업체명: 서면필내과의원
+[7] 업체명: 갑내과산부인과의원
+[8] 업체명: 서면바른내과의원
+[9] 업체명: 서면속내과의원
+[10] 업체명: 이영우내과의원
+[11] 업체명: 강내과의원
+[12] 업체명: 홍택종심혈관리하는내과
+[13] 업체명: 부산베스트내과의원
+[14] 업체명: 성애내과의원
+[15] 업체명: 원광메디칼내과의원
+[16] 업체명: 미래내과의원
+[17] 업체명: 세정의원
+[18] 업체명: 센트럴부산의원
+[19] 업체명: 고슴도치프롤노의원
+[20] 업체명: 새영남내과의원
+[21] 업체명: 이영진내과의원
+[22] 업체명: 이샘병원
+[23] 업체명: 한결의원
+[24] 업체명: 조성래의원
+[25] 업체명: 송준영내과소아청소년과의원
+[26] 업체명: 손지식의원
+[27] 업체명: 이신내과의원
+[28] 업체명: 속시원내과의원
+[29] 업체명: 휴병원
+[30] 업체명: 부강내과의원
+[31] 업체명: 성진내과의원
+[32] 업체명: 영남내과의원
+[33] 업체명: 중앙내과의원
+[34] 업체명: 다솜의원
+[35] 업체명: 행복한병원
+[36] 업체명: 참사랑의원
+[37] 업체명: 성가병원
+[38] 업체명: 아남의원
+[39] 업체명: 한빛내과의원
+[40] 업체명: 최웅식의원
+[41] 업체명: 대한의원
+[42] 업체명: 김태형신경과의원
+[43] 업체명: 숨편한곽내과의원
+[44] 업체명: 보림의원
+[45] 업체명: 윤내과의원
+[46] 업체명: 윤욱돈내과의원
+[47] 업체명: 허종현내과의원
+[48] 업체명: 김진규내과의원
+[49] 업체명: 서일메디컬그룹의원 부산서면역
+[50] 업체명: 구도형바른의원
+[51] 업체명: 더올림의원 서면역
+[52] 업체명: 톤즈의원 부산서면역
+[53] 업체명: 유앤아이의원 부산점
+[54] 업체명: 핑이비인후과의원
+[55] 업체명: 더붐의원 부산서면
+[56] 업체명: 새길병원
+  -> ★ 내가 찾는 이름: 새길병원 [일치!]
+[57] 업체명: 시카고정형외과의원
+[58] 업체명: 서면좋은사람안과의원
+[59] 업체명: 리즈온의원 부산
+[60] 업체명: 소리온이비인후과의원
+[61] 업체명: 하나유외과의원 부산서면
+[62] 업체명: 굿모닝이비인후과의원
+[63] 업체명: 청맥병원
+[64] 업체명: 쉬즈라인의원 서면
+[65] 업체명: 희망클리닉의원
+[66] 업체명: 김병준레다스흉부외과의원
+[67] 업체명: 기운찬마취통증의학과의원
+[68] 업체명: 비오비의원 부산서면
+[69] 업체명: 부산여성비뇨의학과의원
+[70] 업체명: 하이유외과성형외과의원
+[71] 업체명: 리젤마취통증의학과의원 부산서면
+[72] 업체명: 서울더빛의원
+좋은문화병원
+부산베스트내과의원
+류마이준희내과의원
+김주인내과의원
+더좋은에스의원
+서면필내과의원
+갑내과산부인과의원
+서면바른내과의원
+서면속내과의원
+이영우내과의원
+강내과의원
+홍택종심혈관리하는내과
+성애내과의원
+원광메디칼내과의원
+미래내과의원
+세정의원
+센트럴부산의원
+고슴도치프롤노의원
+새영남내과의원
+이영진내과의원
+이샘병원
+한결의원
+조성래의원
+송준영내과소아청소년과의원
+손지식의원
+이신내과의원
+속시원내과의원
+휴병원
+부강내과의원
+성진내과의원
+영남내과의원
+중앙내과의원
+다솜의원
+행복한병원
+참사랑의원
+성가병원
+아남의원
+한빛내과의원
+최웅식의원
+대한의원
+김태형신경과의원
+숨편한곽내과의원
+보림의원
+윤내과의원
+윤욱돈내과의원
+허종현내과의원
+김진규내과의원
+서일메디컬그룹의원 부산서면역
+구도형바른의원
+더올림의원 서면역
+톤즈의원 부산서면역
+유앤아이의원 부산점
+핑이비인후과의원
+더붐의원 부산서면
+새길병원
+시카고정형외과의원
+서면좋은사람안과의원
+리즈온의원 부산
+소리온이비인후과의원
+하나유외과의원 부산서면
+굿모닝이비인후과의원
+청맥병원
+쉬즈라인의원 서면
+희망클리닉의원
+김병준레다스흉부외과의원
+기운찬마취통증의학과의원
+비오비의원 부산서면
+부산여성비뇨의학과의원
+하이유외과성형외과의원
+리젤마취통증의학과의원 부산서면
+서울더빛의원
+namelist[Q5].text 좋은문화병원
+namelist_clean 좋은문화병원
+find_name 새길병원
+namelist[Q5].text 부산베스트내과의원
+namelist_clean 부산베스트내과의원
+find_name 새길병원
+namelist[Q5].text 류마이준희내과의원
+namelist_clean 류마이준희내과의원
+find_name 새길병원
+namelist[Q5].text 김주인내과의원
+namelist_clean 김주인내과의원
+find_name 새길병원
+namelist[Q5].text 더좋은에스의원
+namelist_clean 더좋은에스의원
+find_name 새길병원
+namelist[Q5].text 서면필내과의원
+namelist_clean 서면필내과의원
+find_name 새길병원
+namelist[Q5].text 갑내과산부인과의원
+namelist_clean 갑내과산부인과의원
+find_name 새길병원
+namelist[Q5].text 서면바른내과의원
+namelist_clean 서면바른내과의원
+find_name 새길병원
+namelist[Q5].text 서면속내과의원
+namelist_clean 서면속내과의원
+find_name 새길병원
+namelist[Q5].text 이영우내과의원
+namelist_clean 이영우내과의원
+find_name 새길병원
+namelist[Q5].text 강내과의원
+namelist_clean 강내과의원
+find_name 새길병원
+namelist[Q5].text 홍택종심혈관리하는내과
+namelist_clean 홍택종심혈관리하는내과
+find_name 새길병원
+namelist[Q5].text 성애내과의원
+namelist_clean 성애내과의원
+find_name 새길병원
+namelist[Q5].text 원광메디칼내과의원
+namelist_clean 원광메디칼내과의원
+find_name 새길병원
+namelist[Q5].text 미래내과의원
+namelist_clean 미래내과의원
+find_name 새길병원
+namelist[Q5].text 세정의원
+namelist_clean 세정의원
+find_name 새길병원
+namelist[Q5].text 센트럴부산의원
+namelist_clean 센트럴부산의원
+find_name 새길병원
+namelist[Q5].text 고슴도치프롤노의원
+namelist_clean 고슴도치프롤노의원
+find_name 새길병원
+namelist[Q5].text 새영남내과의원
+namelist_clean 새영남내과의원
+find_name 새길병원
+namelist[Q5].text 이영진내과의원
+namelist_clean 이영진내과의원
+find_name 새길병원
+namelist[Q5].text 이샘병원
+namelist_clean 이샘병원
+find_name 새길병원
+namelist[Q5].text 한결의원
+namelist_clean 한결의원
+find_name 새길병원
+namelist[Q5].text 조성래의원
+namelist_clean 조성래의원
+find_name 새길병원
+namelist[Q5].text 송준영내과소아청소년과의원
+namelist_clean 송준영내과소아청소년과의원
+find_name 새길병원
+namelist[Q5].text 손지식의원
+namelist_clean 손지식의원
+find_name 새길병원
+namelist[Q5].text 이신내과의원
+namelist_clean 이신내과의원
+find_name 새길병원
+namelist[Q5].text 속시원내과의원
+namelist_clean 속시원내과의원
+find_name 새길병원
+namelist[Q5].text 휴병원
+namelist_clean 휴병원
+find_name 새길병원
+namelist[Q5].text 부강내과의원
+namelist_clean 부강내과의원
+find_name 새길병원
+namelist[Q5].text 성진내과의원
+namelist_clean 성진내과의원
+find_name 새길병원
+namelist[Q5].text 영남내과의원
+namelist_clean 영남내과의원
+find_name 새길병원
+namelist[Q5].text 중앙내과의원
+namelist_clean 중앙내과의원
+find_name 새길병원
+namelist[Q5].text 다솜의원
+namelist_clean 다솜의원
+find_name 새길병원
+namelist[Q5].text 행복한병원
+namelist_clean 행복한병원
+find_name 새길병원
+namelist[Q5].text 참사랑의원
+namelist_clean 참사랑의원
+find_name 새길병원
+namelist[Q5].text 성가병원
+namelist_clean 성가병원
+find_name 새길병원
+namelist[Q5].text 아남의원
+namelist_clean 아남의원
+find_name 새길병원
+namelist[Q5].text 한빛내과의원
+namelist_clean 한빛내과의원
+find_name 새길병원
+namelist[Q5].text 최웅식의원
+namelist_clean 최웅식의원
+find_name 새길병원
+namelist[Q5].text 대한의원
+namelist_clean 대한의원
+find_name 새길병원
+namelist[Q5].text 김태형신경과의원
+namelist_clean 김태형신경과의원
+find_name 새길병원
+namelist[Q5].text 숨편한곽내과의원
+namelist_clean 숨편한곽내과의원
+find_name 새길병원
+namelist[Q5].text 보림의원
+namelist_clean 보림의원
+find_name 새길병원
+namelist[Q5].text 윤내과의원
+namelist_clean 윤내과의원
+find_name 새길병원
+namelist[Q5].text 윤욱돈내과의원
+namelist_clean 윤욱돈내과의원
+find_name 새길병원
+namelist[Q5].text 허종현내과의원
+namelist_clean 허종현내과의원
+find_name 새길병원
+namelist[Q5].text 김진규내과의원
+namelist_clean 김진규내과의원
+find_name 새길병원
+namelist[Q5].text 서일메디컬그룹의원 부산서면역
+namelist_clean 서일메디컬그룹의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 구도형바른의원
+namelist_clean 구도형바른의원
+find_name 새길병원
+namelist[Q5].text 더올림의원 서면역
+namelist_clean 더올림의원 서면역
+find_name 새길병원
+namelist[Q5].text 톤즈의원 부산서면역
+namelist_clean 톤즈의원 부산서면역
+find_name 새길병원
+namelist[Q5].text 유앤아이의원 부산점
+namelist_clean 유앤아이의원 부산점
+find_name 새길병원
+namelist[Q5].text 핑이비인후과의원
+namelist_clean 핑이비인후과의원
+find_name 새길병원
+namelist[Q5].text 더붐의원 부산서면
+namelist_clean 더붐의원 부산서면
+find_name 새길병원
+namelist[Q5].text 새길병원
+namelist_clean 새길병원
+find_name 새길병원
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 페이지 닫기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 더보기
+print_text.text 방문자 리뷰 60
+print_text.text 블로그 리뷰 186
+print_text.text 출발
+print_text.text 도착
+print_text.text 저장
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 예약
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 70
+동작중 59
+menubtn 0
+reviewbtn 0
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 79
+동작중 59
+sharebtn 1
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x536c93+10b53]
+	chromedriver!GetHandleVerifier [0x536dc4+10c84]
+	chromedriver!(No symbol) [0x3120f0]
+	chromedriver!(No symbol) [0x35ac7a]
+	chromedriver!(No symbol) [0x35af1b]
+	chromedriver!(No symbol) [0x39d172]
+	chromedriver!(No symbol) [0x37dc14]
+	chromedriver!(No symbol) [0x39a9a4]
+	chromedriver!(No symbol) [0x37d966]
+	chromedriver!(No symbol) [0x3502f9]
+	chromedriver!(No symbol) [0x3510b4]
+	chromedriver!GetHandleVerifier [0x78ef49+268e09]
+	chromedriver!GetHandleVerifier [0x78a61d+2644dd]
+	chromedriver!GetHandleVerifier [0x7a83b7+282277]
+	chromedriver!GetHandleVerifier [0x54fcd8+29b98]
+	chromedriver!GetHandleVerifier [0x557c1d+31add]
+	chromedriver!GetHandleVerifier [0x53f6a8+19568]
+	chromedriver!GetHandleVerifier [0x53f872+19732]
+	chromedriver!GetHandleVerifier [0x528cda+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75b8fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f2827e+ee]
+
+시작
+File saved to: C:\Users\user\Desktop\chromedriverNew9\logfile.txt
