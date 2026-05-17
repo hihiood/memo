@@ -1,0 +1,1235 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.8314.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_c6kuv6hj
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=329020 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=198008 "Nateon 로그인" [Afx:00B50000:0:00010003:00000000:00030567]
+[smartproxy watcher] 자동 입력 완료
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xb2b28a]
+	undetected_chromedriver!(No symbol) [0xb2b52b]
+	undetected_chromedriver!(No symbol) [0xb6d062]
+	undetected_chromedriver!(No symbol) [0xb4d7d4]
+	undetected_chromedriver!(No symbol) [0xb6a936]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6728.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_8naygpum
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=330056 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xad0d8e]
+	undetected_chromedriver!(No symbol) [0xaef97e]
+	undetected_chromedriver!(No symbol) [0xb53cdd]
+	undetected_chromedriver!(No symbol) [0xb6a2a9]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9010.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_imlrugjz
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=1114900 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+크롬드라이버 강제 종료 성공
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy] target navigation 에러: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy watcher] 시작
+[FP] CDP UA override 실패: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.8314.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_c6kuv6hj
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=329020 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=198008 "Nateon 로그인" [Afx:00B50000:0:00010003:00000000:00030567]
+[smartproxy watcher] 자동 입력 완료
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xb2b28a]
+	undetected_chromedriver!(No symbol) [0xb2b52b]
+	undetected_chromedriver!(No symbol) [0xb6d062]
+	undetected_chromedriver!(No symbol) [0xb4d7d4]
+	undetected_chromedriver!(No symbol) [0xb6a936]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6728.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_8naygpum
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=330056 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xad0d8e]
+	undetected_chromedriver!(No symbol) [0xaef97e]
+	undetected_chromedriver!(No symbol) [0xb53cdd]
+	undetected_chromedriver!(No symbol) [0xb6a2a9]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9010.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_imlrugjz
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=1114900 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+크롬드라이버 강제 종료 성공
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy] target navigation 에러: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy watcher] 시작
+[FP] CDP UA override 실패: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6988.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_sm8pw3zb
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=264868 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xb2b28a]
+	undetected_chromedriver!(No symbol) [0xb2b52b]
+	undetected_chromedriver!(No symbol) [0xb6d062]
+	undetected_chromedriver!(No symbol) [0xb4d7d4]
+	undetected_chromedriver!(No symbol) [0xb6a936]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://m.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://m.naver.com/의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9732.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_20bofwwc
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=330342 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9324.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_g2qs_r6i
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.8314.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_c6kuv6hj
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=329020 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=198008 "Nateon 로그인" [Afx:00B50000:0:00010003:00000000:00030567]
+[smartproxy watcher] 자동 입력 완료
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xb2b28a]
+	undetected_chromedriver!(No symbol) [0xb2b52b]
+	undetected_chromedriver!(No symbol) [0xb6d062]
+	undetected_chromedriver!(No symbol) [0xb4d7d4]
+	undetected_chromedriver!(No symbol) [0xb6a936]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6728.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_8naygpum
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=330056 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xad0d8e]
+	undetected_chromedriver!(No symbol) [0xaef97e]
+	undetected_chromedriver!(No symbol) [0xb53cdd]
+	undetected_chromedriver!(No symbol) [0xb6a2a9]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9010.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_imlrugjz
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=1114900 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+크롬드라이버 강제 종료 성공
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy] target navigation 에러: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy watcher] 시작
+[FP] CDP UA override 실패: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.8314.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_c6kuv6hj
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=329020 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=198008 "Nateon 로그인" [Afx:00B50000:0:00010003:00000000:00030567]
+[smartproxy watcher] 자동 입력 완료
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xb2b28a]
+	undetected_chromedriver!(No symbol) [0xb2b52b]
+	undetected_chromedriver!(No symbol) [0xb6d062]
+	undetected_chromedriver!(No symbol) [0xb4d7d4]
+	undetected_chromedriver!(No symbol) [0xb6a936]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://www.google.com/search?q=RWTDhcjPc5XVLulE&oq=RWTDhcjPc5XVLulE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1OWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8&source=chrome.ob의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6728.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_8naygpum
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=330056 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+[smartproxy watcher] 발견 hwnd=67432 "청춘IP - 로그인" [#32770]
+[smartproxy watcher] 자동 입력 완료
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xad0d8e]
+	undetected_chromedriver!(No symbol) [0xaef97e]
+	undetected_chromedriver!(No symbol) [0xb53cdd]
+	undetected_chromedriver!(No symbol) [0xb6a2a9]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9010.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_imlrugjz
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=1114900 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+크롬드라이버 강제 종료 성공
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy] target navigation 에러: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy watcher] 시작
+[FP] CDP UA override 실패: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6988.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_sm8pw3zb
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=264868 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1e90]
+	undetected_chromedriver!(No symbol) [0xb2b28a]
+	undetected_chromedriver!(No symbol) [0xb2b52b]
+	undetected_chromedriver!(No symbol) [0xb6d062]
+	undetected_chromedriver!(No symbol) [0xb4d7d4]
+	undetected_chromedriver!(No symbol) [0xb6a936]
+	undetected_chromedriver!(No symbol) [0xb4d526]
+	undetected_chromedriver!(No symbol) [0xb208f9]
+	undetected_chromedriver!(No symbol) [0xb216b4]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0xccfb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0xccfcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0xcb91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://m.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://m.naver.com/의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9732.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_20bofwwc
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 2차 시도 #1 hwnd=330342 "www.google.com - Chrome"
+[smartproxy] 2차#1 타이핑 완료 — 응답 대기
+[smartproxy] 2차#1 IP 미검출
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy watcher] 시작
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9324.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_g2qs_r6i
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+[smartproxy] 1차 IP 미검출
+[smartproxy] 1차 실패 → 2차 시도
+[smartproxy] 모든 시도 실패 — 그대로 target navigation
+[smartproxy] target navigation 에러: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[smartproxy watcher] 시작
+[FP] CDP UA override 실패: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xcc7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0xcc7254+10b54]
+	undetected_chromedriver!(No symbol) [0xae1cce]
+	undetected_chromedriver!(No symbol) [0xb1fb85]
+	undetected_chromedriver!(No symbol) [0xb4d646]
+	undetected_chromedriver!(No symbol) [0xb48869]
+	undetected_chromedriver!(No symbol) [0xb48252]
+	undetected_chromedriver!(No symbol) [0xab502e]
+	undetected_chromedriver!(No symbol) [0xab55ce]
+	undetected_chromedriver!(No symbol) [0xab5aad]
+	undetected_chromedriver!GetHandleVerifier [0xf61ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0xf5d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0xf7e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0xce1128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0xce8bbd+324bd]
+	undetected_chromedriver!(No symbol) [0xab4ba6]
+	undetected_chromedriver!(No symbol) [0xab41e0]
+	undetected_chromedriver!GetHandleVerifier [0x10cb02f+41492f]
+	KERNEL32!BaseThreadInitThunk [0x758a5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77aed83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77aed7c1+231]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.161.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/smartproxy_auth_r05_pv7o
+[smartproxy] _ensure_proxy_auth 시작
+[smartproxy] 팝업 감지 → 타이핑
+크롬드라이버 강제 종료 성공
+[smartproxy] 1차 타이핑 완료 — 응답 대기
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
