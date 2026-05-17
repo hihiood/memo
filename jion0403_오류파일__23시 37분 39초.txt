@@ -1,0 +1,181 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5514.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[smartproxy] 인증 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/cp_proxy_auth_v72rbq9e
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x6e7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0x6e7254+10b54]
+	undetected_chromedriver!(No symbol) [0x501e90]
+	undetected_chromedriver!(No symbol) [0x54b28a]
+	undetected_chromedriver!(No symbol) [0x54b52b]
+	undetected_chromedriver!(No symbol) [0x58d062]
+	undetected_chromedriver!(No symbol) [0x56d7d4]
+	undetected_chromedriver!(No symbol) [0x58a936]
+	undetected_chromedriver!(No symbol) [0x56d526]
+	undetected_chromedriver!(No symbol) [0x5408f9]
+	undetected_chromedriver!(No symbol) [0x5416b4]
+	undetected_chromedriver!GetHandleVerifier [0x981ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0x97d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0x99e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0x701128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0x708bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0x6efb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0x6efcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0x6d91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x7593fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x773282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7732827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://m.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://m.naver.com/의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.9274.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[smartproxy] 인증 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/cp_proxy_auth_xlo9pbwt
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x6e7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0x6e7254+10b54]
+	undetected_chromedriver!(No symbol) [0x501e90]
+	undetected_chromedriver!(No symbol) [0x54b28a]
+	undetected_chromedriver!(No symbol) [0x54b52b]
+	undetected_chromedriver!(No symbol) [0x58d062]
+	undetected_chromedriver!(No symbol) [0x56d7d4]
+	undetected_chromedriver!(No symbol) [0x58a936]
+	undetected_chromedriver!(No symbol) [0x56d526]
+	undetected_chromedriver!(No symbol) [0x5408f9]
+	undetected_chromedriver!(No symbol) [0x5416b4]
+	undetected_chromedriver!GetHandleVerifier [0x981ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0x97d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0x99e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0x701128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0x708bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0x6efb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0x6efcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0x6d91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x7593fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x773282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7732827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://m.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://m.naver.com/의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6898.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+[smartproxy] 인증 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/cp_proxy_auth_4qkk4jfl
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x6e7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0x6e7254+10b54]
+	undetected_chromedriver!(No symbol) [0x501e90]
+	undetected_chromedriver!(No symbol) [0x54b28a]
+	undetected_chromedriver!(No symbol) [0x54b52b]
+	undetected_chromedriver!(No symbol) [0x58d062]
+	undetected_chromedriver!(No symbol) [0x56d7d4]
+	undetected_chromedriver!(No symbol) [0x58a936]
+	undetected_chromedriver!(No symbol) [0x56d526]
+	undetected_chromedriver!(No symbol) [0x5408f9]
+	undetected_chromedriver!(No symbol) [0x5416b4]
+	undetected_chromedriver!GetHandleVerifier [0x981ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0x97d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0x99e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0x701128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0x708bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0x6efb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0x6efcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0x6d91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x7593fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x773282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7732827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://m.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://m.naver.com/의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.4606.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+[smartproxy] 인증 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/cp_proxy_auth_ih83wjjg
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x6e7123+10a23]
+	undetected_chromedriver!GetHandleVerifier [0x6e7254+10b54]
+	undetected_chromedriver!(No symbol) [0x501e90]
+	undetected_chromedriver!(No symbol) [0x54b28a]
+	undetected_chromedriver!(No symbol) [0x54b52b]
+	undetected_chromedriver!(No symbol) [0x58d062]
+	undetected_chromedriver!(No symbol) [0x56d7d4]
+	undetected_chromedriver!(No symbol) [0x58a936]
+	undetected_chromedriver!(No symbol) [0x56d526]
+	undetected_chromedriver!(No symbol) [0x5408f9]
+	undetected_chromedriver!(No symbol) [0x5416b4]
+	undetected_chromedriver!GetHandleVerifier [0x981ac4+2ab3c4]
+	undetected_chromedriver!GetHandleVerifier [0x97d0ed+2a69ed]
+	undetected_chromedriver!GetHandleVerifier [0x99e4f5+2c7df5]
+	undetected_chromedriver!GetHandleVerifier [0x701128+2aa28]
+	undetected_chromedriver!GetHandleVerifier [0x708bbd+324bd]
+	undetected_chromedriver!GetHandleVerifier [0x6efb28+19428]
+	undetected_chromedriver!GetHandleVerifier [0x6efcd5+195d5]
+	undetected_chromedriver!GetHandleVerifier [0x6d91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x7593fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x773282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7732827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://m.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+https://m.naver.com/의 웹페이지가 일시적으로 다운되었거나 새 웹 주소로 완전히 이동했을 수 있습니다.
+
+ERR_NO_SUPPORTED_PROXIES
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.2001.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+[smartproxy] 인증 익스텐션 로드: C:/Users/admin/AppData/Local/Temp/cp_proxy_auth_ycvb3w3k
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
