@@ -1,0 +1,234 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 64448)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.85.31
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.576.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+--------mode4 전체 error-------------import --------
+에러메세지
+Error calling OpenClipboard ([WinError 5] 액세스가 거부되었습니다.)
+[진단] 예외타입: PyperclipWindowsException
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EB%B0%98%ED%8C%94%ED%8B%B0&ackey=ae3rx8ef
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+쇼핑
+이미지
+블로그
+클립
+카페
+지식iN
+인플루언서
+동영상
+뉴스
+숏텐츠
+어학사전
+지도
+도서
+지식백과
+검색옵션
+브랜드검색
+신제품소개
+2026.03 출시
+내셔널지오그래픽 어패럴
+ROK 그래픽 반팔티
+
+서울의 감성을 담은 그래픽
+
+친환경 소재로 편안함까지
+
+상세보기
+기획전 보기
+한나어패럴
+iwindward.co.kr/
+전국이 찾는 과잠/단체복 쇼핑몰 한나어패럴!
+수많은 단체가 선택한 30년 경력 노하우 단체복, 자체공장 운영! 단체복 최대할인
+제작야구점퍼
+제작 후드티
+야구후
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.7.86
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5959.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 64448)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID jion0403
+realPW love4399!!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\admin\Desktop\chromedriverNew10\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+756
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.85.31
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.576.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+--------mode4 전체 error-------------import --------
+에러메세지
+Error calling OpenClipboard ([WinError 5] 액세스가 거부되었습니다.)
+[진단] 예외타입: PyperclipWindowsException
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EB%B0%98%ED%8C%94%ED%8B%B0&ackey=ae3rx8ef
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+쇼핑
+이미지
+블로그
+클립
+카페
+지식iN
+인플루언서
+동영상
+뉴스
+숏텐츠
+어학사전
+지도
+도서
+지식백과
+검색옵션
+브랜드검색
+신제품소개
+2026.03 출시
+내셔널지오그래픽 어패럴
+ROK 그래픽 반팔티
+
+서울의 감성을 담은 그래픽
+
+친환경 소재로 편안함까지
+
+상세보기
+기획전 보기
+한나어패럴
+iwindward.co.kr/
+전국이 찾는 과잠/단체복 쇼핑몰 한나어패럴!
+수많은 단체가 선택한 30년 경력 노하우 단체복, 자체공장 운영! 단체복 최대할인
+제작야구점퍼
+제작 후드티
+야구후
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.7.86
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5959.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
+
+--------mode4 전체 error-------------import --------
+에러메세지
+Error calling OpenClipboard ([WinError 5] 액세스가 거부되었습니다.)
+[진단] 예외타입: PyperclipWindowsException
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EB%B0%98%ED%8C%94%ED%8B%B0&ackey=hik4wumy
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+쇼핑
+이미지
+블로그
+클립
+카페
+지식iN
+인플루언서
+동영상
+뉴스
+숏텐츠
+어학사전
+지도
+도서
+지식백과
+검색옵션
+한나어패럴
+iwindward.co.kr/
+전국이 찾는 과잠/단체복 쇼핑몰 한나어패럴!
+수많은 단체가 선택한 30년 경력 노하우 단체복, 자체공장 운영! 단체복 최대할인
+제작야구점퍼
+제작 후드티
+야구후드집업
+네이버페이
+안다르
+m.andar.co.kr
+테크니컬 애슬레저, 안다르 11주년 쿨링위크 오픈!
+신축성있는 원단으로 뛰어난 착용감&핏 모두 갖춘 스타일리쉬한 안
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+IP 변경중 (청춘IP 시도 1/10)...
+시작
+File saved to: C:\Users\admin\Desktop\chromedriverNew10\logfile.txt
