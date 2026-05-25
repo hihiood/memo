@@ -1,0 +1,28 @@
+[SYSTEM INFO]
+app_version: v1.0.0
+timestamp: 2026-05-26T00:19:18.376770
+platform: Windows-10-10.0.26200-SP0
+python: 3.10.8
+executable: C:\Users\leo9\AppData\Local\Programs\Python\Python310\python.exe
+
+============================================================
+
+[UI PROGRESS LOG]
+[CLICK] ④ 백엔드 변경: edge_tts
+[CLICK] 카테고리 새로고침
+카테고리 45개 로드
+📥 큐에 1건 추가 (채널: jun23112, 시간: 2026-05-26T00:27:00)
+
+📤 로그 전송 중… (잠시만 기다려주세요)
+
+
+
+============================================================
+
+[CONSOLE / PRINT OUTPUT]
+[auth] POST https://sgtestflask.autoprogram.blog/db_check_new_version
+[auth]   ok=True category='cafe_information/naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT/tistory_GPT/tistory_VIP/NAVER_ID_MAKE/iamweb/naverShooping_traffic/captcha_voice/gisickin_GPTmac_addree_FREEcaptcha_solvercafe_information_GPT/instagram/tiktok/blindvideo'
+[auth] category='cafe_information/naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT/tistory_GPT/tistory_VIP/NAVER_ID_MAKE/iamweb/naverShooping_traffic/captcha_voice/gisickin_GPTmac_addree_FREEcaptcha_solvercafe_information_GPT/instagram/tiktok/blindvideo'
+[CLICK] ④ 백엔드 변경: edge_tts
+[CLICK] 카테고리 새로고침
+[yt_scan_videos] 2개 mp4 인식
