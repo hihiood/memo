@@ -1,0 +1,84 @@
+[DPI] scale=1.0
+errolinkQQ C:\Users\woo\Desktop\블로그스팟
+errolinkQQ_page3 C:\Users\woo\Desktop\블로그스팟
+An error occurred: local variable 'extracted_text' referenced before assignment
+크롬드라이버 강제 종료 성공
+[BLOGGER] _run 시작, BASE_DIR=C:\Users\woo\Desktop\블로그스팟
+[BLOGGER] msedgedriver 존재: True
+[BLOGGER] Edge 수동 실행: port=9786
+[BLOGGER] debug port 9786 ready (0.5s)
+[BLOGGER] Edge attach 성공
+학습chatGPT2
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+내 크롬 버전 :: 148
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+최신 크롬 버전 :: 149
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+내 드라이버 버전 :: 148
+=========================================
+내 크롬 버전 :: 148
+최신 크롬 버전 :: 149
+내 드라이버 버전 :: 148
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\woo\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=148
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 5.68s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+내 크롬 버전 :: 148
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+최신 크롬 버전 :: 149
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 148
+내 드라이버 버전 :: 148
+=========================================
+내 크롬 버전 :: 148
+최신 크롬 버전 :: 149
+내 드라이버 버전 :: 148
+버전업 필요
+경로가 존재합니다!
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1111"     crossorigin="anonymous"></script><!-- 상단광고2개배치 --><ins class="adsbygoogle"     style="display:block"     data-ad-client="ca-pub-11111"     data-ad-slot="1004553389"     data-ad-format="auto"     data-full-width-responsive="true"></ins><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1111"     crossorigin="anonymous"></script><!-- 상단광고2개배치 --><ins class="adsbygoogle"     style="display:block"     data-ad-client="ca-pub-11111"     data-ad-slot="1004553389"     data-ad-format="auto"     data-full-width-responsive="true"></ins><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script></script>
+title 익산 입주청소 깔끔한 후기
+IDPW 개수: 1
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지
+name 'win32com' is not defined
+시작
+File saved to: C:\Users\woo\Desktop\블로그스팟\logfile.txt
