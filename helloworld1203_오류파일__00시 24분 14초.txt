@@ -1,0 +1,187 @@
+[SYSTEM INFO]
+app_version: v1.0.0
+timestamp: 2026-06-03T00:24:13.785642
+platform: Windows-10-10.0.19045-SP0
+python: 3.10.8
+executable: C:\Users\COMu1\AppData\Local\BLINDV~1\blindvideo.exe
+
+============================================================
+
+[UI PROGRESS LOG]
+카테고리 46개 로드
+[CLICK] 글 목록 불러오기 — 카테고리='🔥 인기글 (홈)' slug=''
+'🔥 인기글 (홈)' 글 225개 로드
+[CLICK] 글 선택 — idx=[4] 제목=['옥순이 스토리 올렸는데']
+[CLICK] 🗓 큐 실행 시작 — 2건
+
+===== [🗓 큐 실행] 시작 =====
+큐 실행: 2건
+
+[1/2] ▶ 연봉 딱 1500만 늘어났으면 여한이 없겠다
+지정 글 사용: https://www.teamblind.com/kr/post/%EC%97%B0%EB%B4%89-%EB%94%B1-1500%EB%A7%8C-%EB%8A%98%EC%96%B4%EB%82%AC%EC%9C%BC%EB%A9%B4-%EC%97%AC%ED%95%9C%EC%9D%B4-%EC%97%86%EA%B2%A0%EB%8B%A4-83e2153y
+선택된 글: 연봉 딱 1500만 늘어났으면 여한이 없겠다
+본문 길이: 8 자
+저장: C:\Users\COMu1\Downloads\blindvideo_v1.0 (4)\work\scraped.json
+  [script LLM] backend=gemini
+  💰 +$0.0017  (g-2.5-flash  in=997 out=577)
+후킹 제목: 연봉 1억의 꼼수
+인트로: 연봉 딱 1500만 늘었으면  / 펀치라인: 은근 자랑 빌런
+장면 4개(댓글장면 1), 나레이션 총 250자
+  [1|normal] (61자) 야, 블라인드 '연봉 1500만 늘었으면' 글 봤냐? 본문 '아쉽다 아쉬워' 끝이야. 뭔 소리일까? 궁금하지?  [말풍선:🤔]
+  [2|comment] (62자) 댓글에 '그럼 1억 되는구나 부럽다' 딱 한 줄! 헐, 연봉 8천5백에서 1억 만들려던 거였어. 와, 어이없네!  [말풍선:1억!]
+  [3|normal] (63자) ㅁㅊ, 완전 은근슬쩍 연봉 자랑한 거였어! 8천5백도 대단한데, 딱 1억 찍고 싶었던 거지. 솔직히 나도 부럽다!  [말풍선:😎💸]
+  [4|normal] (64자) 다른 댓글은 '세후 550, 월 300 저축 가능'이래. 와, 이게 진짜 부자의 삶 아니냐? 나도 1억 찍고 싶다!  [말풍선:나도 부자!]
+저장: C:\Users\COMu1\Downloads\blindvideo_v1.0 (4)\work\script.json
+그림체: 웹툰  / 백엔드: gemini
+  💰 +$0.0390  (g-2.5-flash-image  in=146 out=1299)
+  [1/4] scene_01.png  (1860305 bytes)  +말풍선(🤔)
+  💰 +$0.0387  (g-2.5-flash-image  in=146 out=1290)
+  [2/4] scene_02.png  (1852493 bytes)  +말풍선(1억!)
+  💰 +$0.0387  (g-2.5-flash-image  in=116 out=1290)
+  [3/4] scene_03.png  (2810615 bytes)  +말풍선(😎💸)
+  💰 +$0.0387  (g-2.5-flash-image  in=136 out=1290)
+  [4/4] scene_04.png  (1979756 bytes)  +말풍선(나도 부자!)
+이미지 생성 완료: 4 장
+음성 엔진: Gemini TTS (Kore)
+  Gemini TTS 호출 — 6 parts → narration.mp3
+  💰 +$0.0104  (g-2.5-flash-preview-tts  in=262 out=1029)
+  [narration] narration.mp3  (384164 bytes, 6 parts 합쳐짐)
+  → build_video 가 char 비례로 세그 타이밍 자동 계산
+음성 생성 완료: 단일 모드
+단일 오디오 모드: narration 41.2s, 세그 6개 char 비례 분배 (총 41.2s, tempo x1.000)
+  세그 1/6 (카드) 1.4s
+  세그 2/6 (장면) 9.4s
+  세그 3/6 (장면) 9.6s
+  세그 4/6 (장면) 9.7s
+  세그 5/6 (장면) 9.9s
+  세그 6/6 (카드) 1.2s
+완료: 연봉_1억의_꼼수_20260603_001608.mp4  (12.0 MB, 41.2s)
+       최신 별칭: final.mp4  메타: 연봉_1억의_꼼수_20260603_001608.meta.json  (폴더: C:\Users\COMu1\Downloads\blindvideo_v1.0 (4)\output)
+  ✅ 완료 → 20260603_001609_연봉_딱_1500만_늘어났으면_여한이_없겠다.mp4
+
+[2/2] ▶ 옥순이 스토리 올렸는데
+지정 글 사용: https://www.teamblind.com/kr/post/%EC%98%A5%EC%88%9C%EC%9D%B4-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%98%AC%EB%A0%B8%EB%8A%94%EB%8D%B0-546vem3v
+선택된 글: 옥순이 스토리 올렸는데
+본문 길이: 34 자
+저장: C:\Users\COMu1\Downloads\blindvideo_v1.0 (4)\work\scraped.json
+  [script LLM] backend=gemini
+  💰 +$0.0018  (g-2.5-flash  in=1300 out=566)
+후킹 제목: 친구한테 엄마라고? ㄷㄷ
+인트로: 옥순이 스토리 올렸는데 지겹대  / 펀치라인: 옥순아, 그만해!
+장면 4개(댓글장면 1), 나레이션 총 259자
+  [1|normal] (70자) 야, 블라에 어떤 글 올라왔는데 진짜 어이없어. 옥순이 인스타 스토리에 또 뭘 올렸나 봐? 근데 다들 '지겹다'는 거야 ㅋㅋㅋ  [말풍선:🤦‍♀️]
+  [2|normal] (62자) 알고 보니 얘가 퇴사 파티 글을 올렸는데… 자기 친구를 '엄마'라고 부른다는 해명을 했대. 친구한테 엄마? 헐.  [말풍선:엄마??]
+  [3|comment] (67자) 댓글 반응 봐봐, 다들 '애 낳은 친구를 엄마라 부른다고?', '누가 친구한테 엄마라고 하냐?' 이러면서 난리 났어 ㅋㅋ  [말풍선:🤬]
+  [4|normal] (60자) 알고 보니 송별회 케이크도 다른 사람 거 돌려 쓴 거라던데? 와, 진짜 나르시시스트 아니야? 이게 말이 됨?  [말풍선:😱]
+저장: C:\Users\COMu1\Downloads\blindvideo_v1.0 (4)\work\script.json
+그림체: 웹툰  / 백엔드: gemini
+[CLICK] 💰 Gemini 비용 내역 열기
+[CLICK] 💰 Gemini 비용 내역 열기
+[CLICK] 💰 Gemini 비용 내역 열기
+[CLICK] 💰 Gemini 비용 내역 열기
+  💰 +$0.0389  (g-2.5-flash-image  in=114 out=1297)
+  [1/4] scene_01.png  (1614294 bytes)  +말풍선(🤦‍♀️)
+  💰 +$0.0389  (g-2.5-flash-image  in=143 out=1296)
+  [2/4] scene_02.png  (2424246 bytes)  +말풍선(엄마??)
+  💰 +$0.0387  (g-2.5-flash-image  in=139 out=1290)
+  [3/4] scene_03.png  (3241598 bytes)  +말풍선(🤬)
+  💰 +$0.0387  (g-2.5-flash-image  in=126 out=1290)
+  [4/4] scene_04.png  (1902252 bytes)  +말풍선(😱)
+이미지 생성 완료: 4 장
+음성 엔진: Gemini TTS (Kore)
+  Gemini TTS 호출 — 6 parts → narration.mp3
+  💰 +$0.0096  (g-2.5-flash-preview-tts  in=242 out=950)
+  [narration] narration.mp3  (353660 bytes, 6 parts 합쳐짐)
+  → build_video 가 char 비례로 세그 타이밍 자동 계산
+음성 생성 완료: 단일 모드
+단일 오디오 모드: narration 38.0s, 세그 6개 char 비례 분배 (총 38.0s, tempo x1.000)
+  세그 1/6 (카드) 1.8s
+[CLICK] 📖 메뉴얼 열기
+📖 메뉴얼 → C:\Users\COMu1\AppData\Local\Temp\blindvideo_manual.html
+[CLICK] 📖 메뉴얼 열기
+  세그 2/6 (장면) 9.5s
+  세그 3/6 (장면) 8.4s
+  세그 4/6 (장면) 9.1s
+  세그 5/6 (장면) 8.1s
+  세그 6/6 (카드) 1.2s
+완료: 친구한테_엄마라고_ㄷㄷ_20260603_001908.mp4  (12.0 MB, 38.0s)
+       최신 별칭: final.mp4  메타: 친구한테_엄마라고_ㄷㄷ_20260603_001908.meta.json  (폴더: C:\Users\COMu1\Downloads\blindvideo_v1.0 (4)\output)
+  ✅ 완료 → 20260603_001909_옥순이_스토리_올렸는데.mp4
+
+큐 종료. 완료 2/2건. output 폴더 확인.
+===== [🗓 큐 실행] 완료 =====
+📥 큐에 1건 추가 (채널: google1, 시간: 즉시)
+📥 큐에 1건 추가 (채널: google1, 시간: 즉시)
+[CLICK] 🚀 업로드 큐 실행 — 즉시 모드, 1건
+
+===== [🚀 업로드 큐 (즉시 모드)] 시작 =====
+업로드 큐 실행: 1건 (mode=즉시)
+
+[1/1] ▶ 20260603_001909_옥순이_스토리_올렸는데
+  → 프로필: ch1 / 채널: 무드재현tv
+    Chrome 띄우는 중...
+[yt_upload ch1] Chrome 띄우는 중...
+Traceback (most recent call last):
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\yt_upload.py", line 94, in upload
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\yt_upload.py", line 41, in _make_driver
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\undetected_chromedriver\__init__.py", line 466, in __init__
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\undetected_chromedriver\__init__.py", line 724, in start_session
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "C:\Users\COMu1\AppData\Local\BLINDV~1\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:56369
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd0b593+105d3]
+	undetected_chromedriver!GetHandleVerifier [0xd0b6c4+10704]
+	undetected_chromedriver!(No symbol) [0xb11cde]
+	undetected_chromedriver!(No symbol) [0xb05478]
+	undetected_chromedriver!(No symbol) [0xb4cb32]
+	undetected_chromedriver!(No symbol) [0xb42e25]
+	undetected_chromedriver!(No symbol) [0xb42c46]
+	undetected_chromedriver!(No symbol) [0xb8947f]
+	undetected_chromedriver!(No symbol) [0xb88c97]
+	undetected_chromedriver!(No symbol) [0xb7d516]
+	undetected_chromedriver!(No symbol) [0xb508e9]
+	undetected_chromedriver!(No symbol) [0xb516a4]
+	undetected_chromedriver!GetHandleVerifier [0xf93014+298054]
+	undetected_chromedriver!GetHandleVerifier [0xf8e603+293643]
+	undetected_chromedriver!GetHandleVerifier [0xfaea05+2b3a45]
+	undetected_chromedriver!GetHandleVerifier [0xd254e8+2a528]
+	undetected_chromedriver!GetHandleVerifier [0xd2cd1d+31d5d]
+	undetected_chromedriver!GetHandleVerifier [0xd13e68+18ea8]
+	undetected_chromedriver!GetHandleVerifier [0xd14015+19055]
+	undetected_chromedriver!GetHandleVerifier [0xcfd65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x756ffcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778882ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7788827e+ee]
+
+  ❌ 실패: Message: session not created: cannot connect to chrome at 127.0.0.1:56369
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifie
+
+업로드 큐 종료. 완료 0/1건.
+===== [🚀 업로드 큐 (즉시 모드)] 완료 =====
+
+📤 로그 전송 중… (잠시만 기다려주세요)
+
+
+
+============================================================
+
+[CONSOLE / PRINT OUTPUT]
+[auth] POST https://sgtestflask.autoprogram.blog/db_check_new_version
+[auth]   ok=True category='/blindvideo'
+[auth] category='/blindvideo'
+[ui_opts] 복원 완료 — {'img_style': '웹툰', 'img_backend': 'gemini', 'tts_backend': 'gemini_tts', 'edge_voice': '여성 · SunHi', 'edge_rate': '+8%', 'gemini_voice': 'Kore', 'gemini_speed': 1.0, 'gemini_style': '도파민 폭발 (유튜브 쇼츠)', 'cosy_speed': 1.25, 'cosy_batch': True}
+[yt_scan_videos] 31개 mp4 인식
+[CLICK] 글 목록 불러오기 — 카테고리='🔥 인기글 (홈)' slug=''
+[CLICK] 글 선택 — idx=[4] 제목=['옥순이 스토리 올렸는데']
+[CLICK] 🗓 큐 실행 시작 — 2건
+[yt_scan_videos] 34개 mp4 인식
+[CLICK] 🚀 업로드 큐 실행 — 즉시 모드, 1건
