@@ -1,0 +1,270 @@
+buffers_g ['', '', '', '', '']
+----------------------------import --------
+에러메세지
+'username'
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 설치 중... (1/4)
+[LOCAL STT] 음성캡차 엔진 설치 중... (2/4)
+[LOCAL STT] 음성캡차 엔진 설치 중... (3/4)
+[LOCAL STT] 음성캡차 엔진 설치 중... (4/4) 수 분 소요
+[LOCAL STT] 음성캡차 엔진 설치 완료
+[LOCAL STT] 음성캡차1 다운로드 중...
+[LOCAL STT] 음성캡차2 다운로드 중... (약 3GB)
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 8524)
+[LOCAL STT] 상태: {'status': 'ready'}
+[녹음테스트] VB-Cable 디바이스 발견: CABLE Output(VB-Audio Virtual C
+[녹음테스트] 디바이스 자동 설정 완료: 재생=CABLE Input 설정 / 녹음=CABLE Output 설정
+[LOCAL STT] recognized:  3, 8, 2, 9, 1 → digits: 38291
+시작
+realID jun231
+realPW test1234
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\JAMES1\Desktop\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+20
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1972.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[노드] Chrome HTTP 127.0.0.1:5004 + 인증 확장 적용
+[워밍업] 진입 URL: https://www.naver.com/ (session_mode=desktop)
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xe5fa13+106c3]
+	undetected_chromedriver!GetHandleVerifier [0xe5fa54+10704]
+	undetected_chromedriver!(No symbol) [0xc5a830]
+	undetected_chromedriver!(No symbol) [0xca3cdb]
+	undetected_chromedriver!(No symbol) [0xca3efb]
+	undetected_chromedriver!(No symbol) [0xce5a92]
+	undetected_chromedriver!(No symbol) [0xcc62d4]
+	undetected_chromedriver!(No symbol) [0xce32fa]
+	undetected_chromedriver!(No symbol) [0xcc6026]
+	undetected_chromedriver!(No symbol) [0xc99289]
+	undetected_chromedriver!(No symbol) [0xc9a054]
+	undetected_chromedriver!GetHandleVerifier [0x10e44fa+2951aa]
+	undetected_chromedriver!GetHandleVerifier [0x10dfb56+290806]
+	undetected_chromedriver!GetHandleVerifier [0x10fff8b+2b0c3b]
+	undetected_chromedriver!GetHandleVerifier [0xe79ed6+2ab86]
+	undetected_chromedriver!GetHandleVerifier [0xe8124d+31efd]
+	undetected_chromedriver!GetHandleVerifier [0xe683d8+19088]
+	undetected_chromedriver!GetHandleVerifier [0xe68585+19235]
+	undetected_chromedriver!GetHandleVerifier [0xe5125f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x76e2fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778382ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7783827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+www.naver.com에서 응답하는 데 시간이 너무 오래 걸립니다.
+
+다음 방법을 시도해 보세요.
+
+연결 확인
+프록시 및 방화벽 확인
+Windows 네트워크 진단 프로그램 실행
+ERR_TIMED_OUT
+새로고침
+세부정보
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+20
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5955.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[노드] Chrome HTTP 127.0.0.1:5004 + 인증 확장 적용
+[워밍업] 진입 URL: https://www.naver.com/ (session_mode=desktop)
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xe5fa13+106c3]
+	undetected_chromedriver!GetHandleVerifier [0xe5fa54+10704]
+	undetected_chromedriver!(No symbol) [0xc5a830]
+	undetected_chromedriver!(No symbol) [0xca3cdb]
+	undetected_chromedriver!(No symbol) [0xca3efb]
+	undetected_chromedriver!(No symbol) [0xce5a92]
+	undetected_chromedriver!(No symbol) [0xcc62d4]
+	undetected_chromedriver!(No symbol) [0xce32fa]
+	undetected_chromedriver!(No symbol) [0xcc6026]
+	undetected_chromedriver!(No symbol) [0xc99289]
+	undetected_chromedriver!(No symbol) [0xc9a054]
+	undetected_chromedriver!GetHandleVerifier [0x10e44fa+2951aa]
+	undetected_chromedriver!GetHandleVerifier [0x10dfb56+290806]
+	undetected_chromedriver!GetHandleVerifier [0x10fff8b+2b0c3b]
+	undetected_chromedriver!GetHandleVerifier [0xe79ed6+2ab86]
+	undetected_chromedriver!GetHandleVerifier [0xe8124d+31efd]
+	undetected_chromedriver!GetHandleVerifier [0xe683d8+19088]
+	undetected_chromedriver!GetHandleVerifier [0xe68585+19235]
+	undetected_chromedriver!GetHandleVerifier [0xe5125f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x76e2fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778382ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7783827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+www.naver.com에서 응답하는 데 시간이 너무 오래 걸립니다.
+
+다음 방법을 시도해 보세요.
+
+연결 확인
+프록시 및 방화벽 확인
+Windows 네트워크 진단 프로그램 실행
+ERR_TIMED_OUT
+새로고침
+세부정보
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+20
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4225.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[노드] Chrome HTTP 127.0.0.1:5004 + 인증 확장 적용
+[워밍업] 진입 URL: https://www.naver.com/ (session_mode=desktop)
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xe5fa13+106c3]
+	undetected_chromedriver!GetHandleVerifier [0xe5fa54+10704]
+	undetected_chromedriver!(No symbol) [0xc5a830]
+	undetected_chromedriver!(No symbol) [0xca3cdb]
+	undetected_chromedriver!(No symbol) [0xca3efb]
+	undetected_chromedriver!(No symbol) [0xce5a92]
+	undetected_chromedriver!(No symbol) [0xcc62d4]
+	undetected_chromedriver!(No symbol) [0xce32fa]
+	undetected_chromedriver!(No symbol) [0xcc6026]
+	undetected_chromedriver!(No symbol) [0xc99289]
+	undetected_chromedriver!(No symbol) [0xc9a054]
+	undetected_chromedriver!GetHandleVerifier [0x10e44fa+2951aa]
+	undetected_chromedriver!GetHandleVerifier [0x10dfb56+290806]
+	undetected_chromedriver!GetHandleVerifier [0x10fff8b+2b0c3b]
+	undetected_chromedriver!GetHandleVerifier [0xe79ed6+2ab86]
+	undetected_chromedriver!GetHandleVerifier [0xe8124d+31efd]
+	undetected_chromedriver!GetHandleVerifier [0xe683d8+19088]
+	undetected_chromedriver!GetHandleVerifier [0xe68585+19235]
+	undetected_chromedriver!GetHandleVerifier [0xe5125f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x76e2fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778382ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7783827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.naver.com/
+[진단] body 처음 300자: 상단영역 바로가기 서비스 메뉴 바로가기 새소식 블록 바로가기 쇼핑 블록 바로가기 관심사 블록 바로가기 MY 영역 바로가기 위젯 보드 바로가기 보기 설정 바로가기
+검색
+AI 검색
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+20
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5217.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+[노드] Chrome HTTP 127.0.0.1:5004 + 인증 확장 적용
+[워밍업] 진입 URL: https://www.naver.com/ (session_mode=desktop)
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xe5fa13+106c3]
+	undetected_chromedriver!GetHandleVerifier [0xe5fa54+10704]
+	undetected_chromedriver!(No symbol) [0xc5a830]
+	undetected_chromedriver!(No symbol) [0xca3cdb]
+	undetected_chromedriver!(No symbol) [0xca3efb]
+	undetected_chromedriver!(No symbol) [0xce5a92]
+	undetected_chromedriver!(No symbol) [0xcc62d4]
+	undetected_chromedriver!(No symbol) [0xce32fa]
+	undetected_chromedriver!(No symbol) [0xcc6026]
+	undetected_chromedriver!(No symbol) [0xc99289]
+	undetected_chromedriver!(No symbol) [0xc9a054]
+	undetected_chromedriver!GetHandleVerifier [0x10e44fa+2951aa]
+	undetected_chromedriver!GetHandleVerifier [0x10dfb56+290806]
+	undetected_chromedriver!GetHandleVerifier [0x10fff8b+2b0c3b]
+	undetected_chromedriver!GetHandleVerifier [0xe79ed6+2ab86]
+	undetected_chromedriver!GetHandleVerifier [0xe8124d+31efd]
+	undetected_chromedriver!GetHandleVerifier [0xe683d8+19088]
+	undetected_chromedriver!GetHandleVerifier [0xe68585+19235]
+	undetected_chromedriver!GetHandleVerifier [0xe5125f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x76e2fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778382ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7783827e+ee]
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://www.naver.com/
+[진단] body 처음 300자: 사이트에 연결할 수 없음
+
+www.naver.com에서 응답하는 데 시간이 너무 오래 걸립니다.
+
+다음 방법을 시도해 보세요.
+
+연결 확인
+프록시 및 방화벽 확인
+Windows 네트워크 진단 프로그램 실행
+ERR_TIMED_OUT
+새로고침
+세부정보
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+20
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+시작
+File saved to: C:\Users\JAMES1\Desktop\logfile.txt
