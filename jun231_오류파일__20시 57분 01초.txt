@@ -1,0 +1,26 @@
+header ('Connection', 'keep-alive')
+buf_head [('User-Agent', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.1'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'), ('Accept-Charset', 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'), ('Accept-Encoding', 'none'), ('Accept-Language', 'ko-KR,ko;q=0.8'), ('Connection', 'keep-alive')]
+buf_head[0] ('User-Agent', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.1')
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.1
+[DPI] 시스템 144 (150%) → 앱 100% 고정 렌더 목표
+[DPI] 실제 CTk widget_scaling=1.0, window_scaling=1.0
+[DPI] customtkinter 버전: 5.2.2
+16
+['회생', '파산', '햇살론', '담보대출', '재테크', '주식', '투자', '이혼소송', '10번쨰 키워드', 'secret', '4', '네이버 아이디 자동 변경', '10000', '500', '7153454189:-9B1aQn2Lz2UfQU9H1s', 'https://chatgpt.com/g/g-69e9786e67d88191a3d27a6252a252a2-neibeojisigin-saramceoreom-dabbyeonhagi']
+['leo9third', 'Eldyd231!aA', 'leo9third2', 'Eldyd231!aA']
+['https://autoprogram1.co.kr/', 'https://autoprogram2.co.kr/', 'https://autoprogram3.co.kr/', 'https://autoprogram4.co.kr/']
+['https://autoprogram1.co.kr/', 'https://autoprogram2.co.kr/', 'https://autoprogram3.co.kr/', 'https://autoprogram4.co.kr/', 'https://autoprogram5.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['http://megahubbot.com/', 'http://megahubbot.com/', 'http://megahubbot.com/', 'http://megahubbot.com/', 'http://megahubbot.com/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+5
+['없음', '없음', '없음', '없음', '없음']
+[IDPW] 2개 계정 로드: ['leo9third', 'leo9third2']
+시작
+File saved to: C:\Users\leo9\SynologyDrive\(쿠키)지식인\내꺼\0708_captcha_option_검색옵션_개선\24년2월25새로\logfile.txt
