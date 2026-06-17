@@ -1,0 +1,409 @@
+[AI썸네일] 저장된 설정 불러옴: {'style': '1:1', 'colormode': '선택색 고정', 'text': '용산/교통사고전문변호사', 'titlesize': 135, 'gap': 0}
+[설정복원] 적용: {'loop_forID_time': '60', 'timesleep': '5', 'loop_forID': '100', 'API_check_google': 1, 'API_check_papago': 0, 'CheckVar1_excel': 1, 'secret_temp_check': 0, 'IP_must_check': 0, 'title_gpt_changer': 0}
+학습chatGPT1
+[설정저장] {'loop_forID_time': '60', 'timesleep': '5', 'loop_forID': '100', 'API_check_google': 1, 'API_check_papago': 0, 'CheckVar1_excel': 0, 'secret_temp_check': 0, 'IP_must_check': 0, 'title_gpt_changer': 0}
+[설정저장] {'loop_forID_time': '60', 'timesleep': '5', 'loop_forID': '100', 'API_check_google': 1, 'API_check_papago': 0, 'CheckVar1_excel': 0, 'secret_temp_check': 0, 'IP_must_check': 0, 'title_gpt_changer': 0}
+[설정저장] {'loop_forID_time': '60', 'timesleep': '5', 'loop_forID': '100', 'API_check_google': 1, 'API_check_papago': 0, 'CheckVar1_excel': 0, 'secret_temp_check': 1, 'IP_must_check': 0, 'title_gpt_changer': 0}
+[설정저장] {'loop_forID_time': '60', 'timesleep': '5', 'loop_forID': '100', 'API_check_google': 1, 'API_check_papago': 0, 'CheckVar1_excel': 0, 'secret_temp_check': 1, 'IP_must_check': 0, 'title_gpt_changer': 0}
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\b2ca556f931c48f0a187404800256daa.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\4606a4d61ecd45d99e2f39e455e1b1d3.pyd
+Running main() from the .pyd file...
+Captured output: 149
+최신 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\1c1d40d0418741b9b85927d5053ce6e6.pyd
+Running main() from the .pyd file...
+Captured output: 146
+내 드라이버 버전 :: 146
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 149
+내 드라이버 버전 :: 146
+드라이버 업데이트 필요
+{insertreplycomment.get()} chatGPT10
+[수동 브라우저 1차 실패 - RAW]
+ Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17298, in lawAble_PremiumV104.bardcookiesfunction2
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54000
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x88cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x88cf24+10c34]
+	undetected_chromedriver!(No symbol) [0x672120]
+	undetected_chromedriver!(No symbol) [0x6ad642]
+	undetected_chromedriver!(No symbol) [0x6ac66c]
+	undetected_chromedriver!(No symbol) [0x6a2785]
+	undetected_chromedriver!(No symbol) [0x6a25a6]
+	undetected_chromedriver!(No symbol) [0x6e9cbf]
+	undetected_chromedriver!(No symbol) [0x6e94d7]
+	undetected_chromedriver!(No symbol) [0x6dd8a6]
+	undetected_chromedriver!(No symbol) [0x6b0229]
+	undetected_chromedriver!(No symbol) [0x6b0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xaf48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xaefeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xb0e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x8a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x8ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x8958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x895a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x87ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+[수동 브라우저 1단계 재시도 1/2 실패 - RAW]
+ Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17298, in lawAble_PremiumV104.bardcookiesfunction2
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54000
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x88cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x88cf24+10c34]
+	undetected_chromedriver!(No symbol) [0x672120]
+	undetected_chromedriver!(No symbol) [0x6ad642]
+	undetected_chromedriver!(No symbol) [0x6ac66c]
+	undetected_chromedriver!(No symbol) [0x6a2785]
+	undetected_chromedriver!(No symbol) [0x6a25a6]
+	undetected_chromedriver!(No symbol) [0x6e9cbf]
+	undetected_chromedriver!(No symbol) [0x6e94d7]
+	undetected_chromedriver!(No symbol) [0x6dd8a6]
+	undetected_chromedriver!(No symbol) [0x6b0229]
+	undetected_chromedriver!(No symbol) [0x6b0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xaf48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xaefeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xb0e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x8a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x8ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x8958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x895a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x87ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17440, in lawAble_PremiumV104.bardcookiesfunction2
+  File "lawAble_PremiumV104.py", line 17430, in lawAble_PremiumV104.bardcookiesfunction2._launch_browser
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54016
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x5acdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x5acf24+10c34]
+	undetected_chromedriver!(No symbol) [0x392120]
+	undetected_chromedriver!(No symbol) [0x3cd642]
+	undetected_chromedriver!(No symbol) [0x3cc66c]
+	undetected_chromedriver!(No symbol) [0x3c2785]
+	undetected_chromedriver!(No symbol) [0x3c25a6]
+	undetected_chromedriver!(No symbol) [0x409cbf]
+	undetected_chromedriver!(No symbol) [0x4094d7]
+	undetected_chromedriver!(No symbol) [0x3fd8a6]
+	undetected_chromedriver!(No symbol) [0x3d0229]
+	undetected_chromedriver!(No symbol) [0x3d0fe4]
+	undetected_chromedriver!GetHandleVerifier [0x8148b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x80feb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x82e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x5c5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x5cd9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x5b58c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x5b5a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x59ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+[수동 브라우저 1단계 재시도 2/2 실패 - RAW]
+ Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17298, in lawAble_PremiumV104.bardcookiesfunction2
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54000
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x88cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x88cf24+10c34]
+	undetected_chromedriver!(No symbol) [0x672120]
+	undetected_chromedriver!(No symbol) [0x6ad642]
+	undetected_chromedriver!(No symbol) [0x6ac66c]
+	undetected_chromedriver!(No symbol) [0x6a2785]
+	undetected_chromedriver!(No symbol) [0x6a25a6]
+	undetected_chromedriver!(No symbol) [0x6e9cbf]
+	undetected_chromedriver!(No symbol) [0x6e94d7]
+	undetected_chromedriver!(No symbol) [0x6dd8a6]
+	undetected_chromedriver!(No symbol) [0x6b0229]
+	undetected_chromedriver!(No symbol) [0x6b0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xaf48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xaefeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xb0e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x8a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x8ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x8958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x895a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x87ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17440, in lawAble_PremiumV104.bardcookiesfunction2
+  File "lawAble_PremiumV104.py", line 17430, in lawAble_PremiumV104.bardcookiesfunction2._launch_browser
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54030
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xd7cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0xd7cf24+10c34]
+	undetected_chromedriver!(No symbol) [0xb62120]
+	undetected_chromedriver!(No symbol) [0xb9d642]
+	undetected_chromedriver!(No symbol) [0xb9c66c]
+	undetected_chromedriver!(No symbol) [0xb92785]
+	undetected_chromedriver!(No symbol) [0xb925a6]
+	undetected_chromedriver!(No symbol) [0xbd9cbf]
+	undetected_chromedriver!(No symbol) [0xbd94d7]
+	undetected_chromedriver!(No symbol) [0xbcd8a6]
+	undetected_chromedriver!(No symbol) [0xba0229]
+	undetected_chromedriver!(No symbol) [0xba0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xfe48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xfdfeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xffe06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0xd95cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0xd9d9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0xd858c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0xd85a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0xd6ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+[수동 브라우저 2단계(초기화 후) 재시도 1/2 실패 - RAW]
+ Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17298, in lawAble_PremiumV104.bardcookiesfunction2
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54000
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x88cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x88cf24+10c34]
+	undetected_chromedriver!(No symbol) [0x672120]
+	undetected_chromedriver!(No symbol) [0x6ad642]
+	undetected_chromedriver!(No symbol) [0x6ac66c]
+	undetected_chromedriver!(No symbol) [0x6a2785]
+	undetected_chromedriver!(No symbol) [0x6a25a6]
+	undetected_chromedriver!(No symbol) [0x6e9cbf]
+	undetected_chromedriver!(No symbol) [0x6e94d7]
+	undetected_chromedriver!(No symbol) [0x6dd8a6]
+	undetected_chromedriver!(No symbol) [0x6b0229]
+	undetected_chromedriver!(No symbol) [0x6b0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xaf48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xaefeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xb0e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x8a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x8ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x8958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x895a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x87ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17464, in lawAble_PremiumV104.bardcookiesfunction2
+  File "lawAble_PremiumV104.py", line 17430, in lawAble_PremiumV104.bardcookiesfunction2._launch_browser
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54049
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xa7cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0xa7cf24+10c34]
+	undetected_chromedriver!(No symbol) [0x862120]
+	undetected_chromedriver!(No symbol) [0x89d642]
+	undetected_chromedriver!(No symbol) [0x89c66c]
+	undetected_chromedriver!(No symbol) [0x892785]
+	undetected_chromedriver!(No symbol) [0x8925a6]
+	undetected_chromedriver!(No symbol) [0x8d9cbf]
+	undetected_chromedriver!(No symbol) [0x8d94d7]
+	undetected_chromedriver!(No symbol) [0x8cd8a6]
+	undetected_chromedriver!(No symbol) [0x8a0229]
+	undetected_chromedriver!(No symbol) [0x8a0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xce48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xcdfeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xcfe06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0xa95cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0xa9d9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0xa858c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0xa85a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0xa6ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+[수동 브라우저 2단계(초기화 후) 재시도 2/2 실패 - RAW]
+ Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17298, in lawAble_PremiumV104.bardcookiesfunction2
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54000
+from session not created: This version of ChromeDriver only supports Chrome version 146
+Current browser version is 149.0.7827.156; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x88cdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x88cf24+10c34]
+	undetected_chromedriver!(No symbol) [0x672120]
+	undetected_chromedriver!(No symbol) [0x6ad642]
+	undetected_chromedriver!(No symbol) [0x6ac66c]
+	undetected_chromedriver!(No symbol) [0x6a2785]
+	undetected_chromedriver!(No symbol) [0x6a25a6]
+	undetected_chromedriver!(No symbol) [0x6e9cbf]
+	undetected_chromedriver!(No symbol) [0x6e94d7]
+	undetected_chromedriver!(No symbol) [0x6dd8a6]
+	undetected_chromedriver!(No symbol) [0x6b0229]
+	undetected_chromedriver!(No symbol) [0x6b0fe4]
+	undetected_chromedriver!GetHandleVerifier [0xaf48b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0xaefeb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0xb0e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x8a5cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x8ad9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x8958c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x895a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x87ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "lawAble_PremiumV104.py", line 17464, in lawAble_PremiumV104.bardcookiesfunction2
+  File "lawAble_PremiumV104.py", line 17430, in lawAble_PremiumV104.bardcookiesfunction2._launch_browser
+  File "undetected_chromedriver\__init__.py", line 466, in __init__
+  File "selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+  File "selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+  File "selenium\webdriver\common\webdriver.py", line 25, in __init__
+  File "selenium\webdriver\remote\webdriver.py", line 276, in __init__
+  File "undetected_chromedriver\__init__.py", line 724, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 372, in start_session
+  File "selenium\webdriver\remote\webdriver.py", line 468, in execute
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:54085
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x5fcdf3+10b03]
+	undetected_chromedriver!GetHandleVerifier [0x5fcf24+10c34]
+	undetected_chromedriver!(No symbol) [0x3e1f5e]
+	undetected_chromedriver!(No symbol) [0x3d5758]
+	undetected_chromedriver!(No symbol) [0x41c472]
+	undetected_chromedriver!(No symbol) [0x412785]
+	undetected_chromedriver!(No symbol) [0x4125a6]
+	undetected_chromedriver!(No symbol) [0x459cbf]
+	undetected_chromedriver!(No symbol) [0x4594d7]
+	undetected_chromedriver!(No symbol) [0x44d8a6]
+	undetected_chromedriver!(No symbol) [0x420229]
+	undetected_chromedriver!(No symbol) [0x420fe4]
+	undetected_chromedriver!GetHandleVerifier [0x8648b9+2785c9]
+	undetected_chromedriver!GetHandleVerifier [0x85feb5+273bc5]
+	undetected_chromedriver!GetHandleVerifier [0x87e06b+291d7b]
+	undetected_chromedriver!GetHandleVerifier [0x615cc8+299d8]
+	undetected_chromedriver!GetHandleVerifier [0x61d9fd+3170d]
+	undetected_chromedriver!GetHandleVerifier [0x6058c8+195d8]
+	undetected_chromedriver!GetHandleVerifier [0x605a92+197a2]
+	undetected_chromedriver!GetHandleVerifier [0x5eee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75a6fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x778182ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7781827e+ee]
+
+
+시작
+File saved to: C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 가해자\네이버블로그\logfile.txt
