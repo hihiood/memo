@@ -1,0 +1,1417 @@
+errolinkQQ C:/Users/a/Documents/image
+errolinkQQ_page3 D:\A. 바드마스터~굿커스텀 프로그램\워드프레스
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<2월 28일 공지사항>>@@ 
+Premium_wordpress_V2.27 다운 받아주세요@@
+ <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<11월 16일 공지사항>>@@ 
+Premium_wordpress_V2.17 다운 받아주세요@@
+무료이미지 업데이트 필요하신분은 갠톡 주세요.@@
+ <<8월 15일 공지사항>>@@ 
+Premium_wordpress_V2.10 다운 받아주세요@@
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@
+ <<7월 3일 공지사항>>@@ 
+Premium_wordpress_V2.8.exe 다운로드 해주세요.@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+<<6월 17일 공지사항>>@@ 
+이미지 오류, gpt 제목 오류 개선@@
+ <<5월 16일 공지사항>>@@ 
+GPT 오류 개선@@
+ <<4월 13일 공지사항>>@@ 
+글 색인시 alt 태그 오류 수정 / 표 중간정렬 / 모바일 색인 개선@@
+마지막 숫자 27 다운로드 부탁드립니다@@
+<<3월 20일 공지사항>>@@
+GPT에러 개선한 버전 : xxx_bard_multi24.exe@@
+글 더 풍부하게 나올수 있게 업데이트 완료@@
+바드 버전 출시 Premium_wordpress_V1.25_bard_multi22 버전업 해주세요@@
+multi21버전은 가끔 외국말 나오는 현상 개선한 버전입니다@@
+3월 31일 부터 4월14일까지 신혼여행으로 인해 프로그램 서비스가 잠시 중단됩니다. 프로그램 사용에는 문제되지 않지만 중간에 업데이트가 필요한경우 15일부터 순차적으로 진행하겠습니다. 감사합니다.@@
+제목 GPT 변환에 따옴표 나오는 현상 제거@@
+바드 소제목 다양하게 나오게 수정@@
+바드 프롬프트 정교화 작업 때문에 업데이트 빈도가 높습니다@@
+바드 사용시 무한 로딩 문제점 개선@@
+일부 워드프레스 이미지 업로드 문제점 개선@@
+GPT사용할때는 소제목 3개 권장 / 바드 사용할때는 소제목 6개 권장@@
+바드 API 발급받는방법 메뉴얼 꼭 숙지해주시고 저한테 보내주세요^^@@
+다운로드 링크 : https://1drv.ms/f/s!ArVRkWR0_GfA67cXKmsUblp1-Lhr8Q?e=exuoZr
+학습chatGPT2
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+최신 크롬 버전 :: 149
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 149
+내 드라이버 버전 :: 149
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\a\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=149
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.04s
+크롬 all set
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+최신 크롬 버전 :: 149
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 149
+내 드라이버 버전 :: 149
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\a\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=149
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 0.60s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+최신 크롬 버전 :: 149
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 149
+내 드라이버 버전 :: 149
+경로가 존재합니다!
+title 체크카드 추천 혜택 총정리 완벽정리
+title 토스 비상금대출 조건 총정리 완벽정리
+title 실비보험 자기부담금 총정리 완벽정리
+title 나스닥 ETF 추천 총정리 완벽정리
+title 무자본 부업 총정리 완벽정리
+title 애드센스 사이트 추가 총정리 완벽정리
+title 워드프레스 플러그인 추천 총정리 완벽정리
+title 청약통장 소득공제 총정리 완벽정리
+title 파킹통장 금리 비교 실패하지 않는 선택 기준
+title 핀크 비상금대출 후기 실패하지 않는 선택 기준
+title 실손보험 중복가입 확인 실패하지 않는 선택 기준
+title 월배당 ETF 추천 실패하지 않는 선택 기준
+title 주말 부업 추천 실패하지 않는 선택 기준
+title 애드센스 광고 설정 실패하지 않는 선택 기준
+title 워드프레스 속도 최적화 실패하지 않는 선택 기준
+title 의료비 세액공제 실패하지 않는 선택 기준
+title 입출금통장 금리 높은 곳 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 햇살론 유스 조건 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 자동차보험료 비교견적 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 배당주 투자 방법 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 블로그 부업 수익 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 애드센스 CPC 높이는 법 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 워드프레스 구글 검색등록 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 교육비 세액공제 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 예금 금리 높은 은행 총정리
+title 햇살론15 특례보증 총정리
+title 자동차보험 할인 특약 총정리
+title 국내 고배당주 추천 총정리
+title 쿠팡파트너스 시작 총정리
+title 애드센스 RPM 높이기 총정리
+title 워드프레스 네이버 서치어드바이저 총정리
+title 기부금 세액공제 총정리
+title 적금 금리 높은 곳 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 근로자 햇살론 자격 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 운전자보험 필요성 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 미국 배당주 추천 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 전자책 판매 부업 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 애드센스 CTR 높이는 방법 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 워드프레스 애드센스 연동 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 연금저축 세액공제 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 청년도약계좌 조건 총정리 완벽정리
+title 새희망홀씨 대출 조건 총정리 완벽정리
+title 운전자보험 자동차보험 차이 총정리 완벽정리
+title ISA 계좌 활용법 총정리 완벽정리
+title AI 부업 아이디어 총정리 완벽정리
+title 애드센스 수익 공개 총정리 완벽정리
+title 워드프레스 카테고리 구조 총정리 완벽정리
+title IRP 세액공제 한도 총정리 완벽정리
+title 청년희망적금 만기 장단점까지 한 번에 정리
+title 최저신용자 특례보증 장단점까지 한 번에 정리
+title 암보험 추천 기준 장단점까지 한 번에 정리
+title ISA 만기 전략 장단점까지 한 번에 정리
+title 챗GPT 부업 장단점까지 한 번에 정리
+title 애드센스 지급 기준 장단점까지 한 번에 정리
+title 워드프레스 글쓰기 SEO 장단점까지 한 번에 정리
+title ISA 비과세 혜택 장단점까지 한 번에 정리
+title 마이너스통장 조건 총정리, 초보자가 놓치기 쉬운 부분
+title 사잇돌대출 조건 총정리, 초보자가 놓치기 쉬운 부분
+title 암보험 비갱신형 갱신형 차이 총정리, 초보자가 놓치기 쉬운 부분
+title 연금저축펀드 ETF 총정리, 초보자가 놓치기 쉬운 부분
+title 온라인 강의 부업 총정리, 초보자가 놓치기 쉬운 부분
+title 애드센스 핀번호 도착 총정리, 초보자가 놓치기 쉬운 부분
+title 워드프레스 백업 방법 총정리, 초보자가 놓치기 쉬운 부분
+title 종합소득세 신고 방법 총정리, 초보자가 놓치기 쉬운 부분
+title 카드론 신용점수 영향 총정리
+title 중금리 대출 비교 총정리
+title 치아보험 가입 조건 총정리
+title IRP ETF 투자 총정리
+title 디지털 파일 판매 총정리
+title 애드센스 세금 정보 입력 총정리
+title 워드프레스 보안 설정 총정리
+title 종합소득세 절세 총정리
+title 현금서비스 신용점수 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 신용대출 금리 비교 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 치아보험 임플란트 보장 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 퇴직연금 ETF 추천 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 피로가 계속될 때 의심해볼 원인
+title 콜라겐 효능과 피부 건강
+title 스트레스 관리 잘하는 방법
+title 운동으로 혈압 관리하는 방법
+title 체지방률 낮추는 운동 루틴
+title 장 건강과 면역력의 관계
+title 철분제 복용 시 주의사항
+title 계단 오르기의 건강 효과
+title 체력 향상을 위한 운동 계획 세우기
+title 여성 다이어트 성공을 위한 핵심 습관
+title 혈액순환이 잘 안될 때 나타나는 증상
+title 아연이 면역력에 미치는 영향
+title 건강을 위한 물 마시는 습관
+title 근력운동 초보자를 위한 주간 루틴
+title 남성 복부비만 관리 방법
+title 계절별 건강관리 방법 총정리
+title 건강기능식품 올바르게 선택하는 법
+title 중년 건강관리 핵심 체크리스트
+title 하루 만 보 걷기의 건강 효과
+title 건강하게 살 빼는 30일 실천법
+title 건강을 해치는 잘못된 생활습관
+title 건강식품 과다복용의 위험성
+title 가족 건강을 지키는 생활수칙
+title 평생 건강을 위한 운동 습관 만들기
+title 체크카드 추천 혜택 총정리 완벽정리
+title 토스 비상금대출 조건 총정리 완벽정리
+title 실비보험 자기부담금 총정리 완벽정리
+title 나스닥 ETF 추천 총정리 완벽정리
+title 무자본 부업 총정리 완벽정리
+title 애드센스 사이트 추가 총정리 완벽정리
+title 워드프레스 플러그인 추천 총정리 완벽정리
+title 청약통장 소득공제 총정리 완벽정리
+title 파킹통장 금리 비교 실패하지 않는 선택 기준
+title 핀크 비상금대출 후기 실패하지 않는 선택 기준
+title 실손보험 중복가입 확인 실패하지 않는 선택 기준
+title 월배당 ETF 추천 실패하지 않는 선택 기준
+title 주말 부업 추천 실패하지 않는 선택 기준
+title 애드센스 광고 설정 실패하지 않는 선택 기준
+title 워드프레스 속도 최적화 실패하지 않는 선택 기준
+title 의료비 세액공제 실패하지 않는 선택 기준
+title 입출금통장 금리 높은 곳 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 햇살론 유스 조건 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 자동차보험료 비교견적 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 배당주 투자 방법 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 블로그 부업 수익 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 애드센스 CPC 높이는 법 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 워드프레스 구글 검색등록 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 교육비 세액공제 총정리, 월급쟁이가 꼭 알아야 할 내용
+title 예금 금리 높은 은행 총정리
+title 햇살론15 특례보증 총정리
+title 자동차보험 할인 특약 총정리
+title 국내 고배당주 추천 총정리
+title 쿠팡파트너스 시작 총정리
+title 애드센스 RPM 높이기 총정리
+title 워드프레스 네이버 서치어드바이저 총정리
+title 기부금 세액공제 총정리
+title 적금 금리 높은 곳 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 근로자 햇살론 자격 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 운전자보험 필요성 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 미국 배당주 추천 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 전자책 판매 부업 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 애드센스 CTR 높이는 방법 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 워드프레스 애드센스 연동 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 연금저축 세액공제 찾는 사람을 위한 신청 전 반드시 확인할 내용
+title 청년도약계좌 조건 총정리 완벽정리
+title 새희망홀씨 대출 조건 총정리 완벽정리
+title 운전자보험 자동차보험 차이 총정리 완벽정리
+title ISA 계좌 활용법 총정리 완벽정리
+title AI 부업 아이디어 총정리 완벽정리
+title 애드센스 수익 공개 총정리 완벽정리
+title 워드프레스 카테고리 구조 총정리 완벽정리
+title IRP 세액공제 한도 총정리 완벽정리
+title 청년희망적금 만기 장단점까지 한 번에 정리
+title 최저신용자 특례보증 장단점까지 한 번에 정리
+title 암보험 추천 기준 장단점까지 한 번에 정리
+title ISA 만기 전략 장단점까지 한 번에 정리
+title 챗GPT 부업 장단점까지 한 번에 정리
+title 애드센스 지급 기준 장단점까지 한 번에 정리
+title 워드프레스 글쓰기 SEO 장단점까지 한 번에 정리
+title ISA 비과세 혜택 장단점까지 한 번에 정리
+title 마이너스통장 조건 총정리, 초보자가 놓치기 쉬운 부분
+title 사잇돌대출 조건 총정리, 초보자가 놓치기 쉬운 부분
+title 암보험 비갱신형 갱신형 차이 총정리, 초보자가 놓치기 쉬운 부분
+title 연금저축펀드 ETF 총정리, 초보자가 놓치기 쉬운 부분
+title 온라인 강의 부업 총정리, 초보자가 놓치기 쉬운 부분
+title 애드센스 핀번호 도착 총정리, 초보자가 놓치기 쉬운 부분
+title 워드프레스 백업 방법 총정리, 초보자가 놓치기 쉬운 부분
+title 종합소득세 신고 방법 총정리, 초보자가 놓치기 쉬운 부분
+title 카드론 신용점수 영향 총정리
+title 중금리 대출 비교 총정리
+title 치아보험 가입 조건 총정리
+title IRP ETF 투자 총정리
+title 디지털 파일 판매 총정리
+title 애드센스 세금 정보 입력 총정리
+title 워드프레스 보안 설정 총정리
+title 종합소득세 절세 총정리
+title 현금서비스 신용점수 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 신용대출 금리 비교 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 치아보험 임플란트 보장 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+title 퇴직연금 ETF 추천 찾는 사람을 위한 검색 전 꼭 알아야 할 핵심
+IDPW 개수: 176
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+------전체 에러---------------import --------
+에러메세지
+Message: unknown error: failed to change window state to 'normal', current state is 'maximized'
+  (Session info: chrome=149.0.7827.104)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xf5a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0xf5a584+10434]
+	undetected_chromedriver!(No symbol) [0xd5a700]
+	undetected_chromedriver!(No symbol) [0xd3dab0]
+	undetected_chromedriver!(No symbol) [0xd3b514]
+	undetected_chromedriver!(No symbol) [0xd3d35d]
+	undetected_chromedriver!(No symbol) [0xdf6ea9]
+	undetected_chromedriver!(No symbol) [0xdc60cc]
+	undetected_chromedriver!(No symbol) [0xde339a]
+	undetected_chromedriver!(No symbol) [0xdc5e66]
+	undetected_chromedriver!(No symbol) [0xd99159]
+	undetected_chromedriver!(No symbol) [0xd99f24]
+	undetected_chromedriver!GetHandleVerifier [0x11e4bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0x11e0119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0x120103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0xf737f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0xf7a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0xf62d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0xf62ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0xf4c05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x765efcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c843e+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c840e+ee]
+
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  토스 비상금대출 조건 총정리 완벽정리 토스 비상금대출 조건 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Complete summary of Toss emergency fund loan conditions Complete summary of Toss emergency fund loan conditions Complete summary', '토스 비상금대출 조건 총정리 완벽정리 토스 비상금대출 조건 총정리 완벽정리', 'ko']
+Complete summary of Toss emergency fund loan conditions Complete summary of Toss emergency fund loan conditions Complete summary
+Complete summary of Toss emergency fund loan conditions Complete summary of Toss emergency fund loan conditions Complete summary
+[side-panel-diag] round=1 status=closed totalBtns=30 closeOnly=0 dakgiOnly=0 both=1
+  sample[0] kind=both rect=(1868,88,32,32)
+    html='<i class="sc-a39c2a59-0 bvvkYW google-symbols sc-e8425ea6-1 jZhFNn" font-size="1.125rem" color="currentColor">close</i><span style="position: absolute; border: 0px; width: 1px; height: 1px; padding: 0'
+    txt='close닫기'
+[side-panel-diag] CLICKED close button (회1)
+펼치기 버튼 감지 → 페이지 준비 완료
+에이전트 토글 ON 감지 → 클릭해서 OFF
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  토스 비상금대출 조건 총정리 완벽정리 토스 비상금대출 조건 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Complete summary of Toss emergency fund loan conditions Complete summary of Toss emergency fund loan conditions Complete summary', '토스 비상금대출 조건 총정리 완벽정리 토스 비상금대출 조건 총정리 완벽정리', 'ko']
+Complete summary of Toss emergency fund loan conditions Complete summary of Toss emergency fund loan conditions Complete summary
+Complete summary of Toss emergency fund loan conditions Complete summary of Toss emergency fund loan conditions Complete summary
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=40 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 40 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+이미지 존재함
+IMAGE_PATH_PATH C:/Users/a/Documents/image
+image_file Image0.png
+img_sub_send 570488
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="6c76d2381fe1b046abb2e1f2542f0976")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+ID_gmemo https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+체크4
+현재 URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+수집된 텍스트: 주제 : 토스 비상금대출 조건 총정리 완벽정리 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자~30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+새 프로젝트
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+오메가3 효능 선택법 고정
+---끝
+---체
+오메가3 효능 선택법의 대화 옵션 열기
+---끝
+---체
+면역력 저하 신호 분석 고정
+---끝
+---체
+면역력 저하 신호 분석의 대화 옵션 열기
+---끝
+---체
+워드프레스 전문가 지원 고정
+---끝
+---체
+워드프레스 전문가 지원의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+파일 추가 및 기타
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xf5a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0xf5a584+10434]
+	undetected_chromedriver!(No symbol) [0xd5a700]
+	undetected_chromedriver!(No symbol) [0xda3bab]
+	undetected_chromedriver!(No symbol) [0xda3dcb]
+	undetected_chromedriver!(No symbol) [0xde5b32]
+	undetected_chromedriver!(No symbol) [0xdc6114]
+	undetected_chromedriver!(No symbol) [0xde339a]
+	undetected_chromedriver!(No symbol) [0xdc5e66]
+	undetected_chromedriver!(No symbol) [0xd99159]
+	undetected_chromedriver!(No symbol) [0xd99f24]
+	undetected_chromedriver!GetHandleVerifier [0x11e4bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0x11e0119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0x120103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0xf737f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0xf7a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0xf62d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0xf62ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0xf4c05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x765efcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c843e+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c840e+ee]
+
+collected_text <<<전체 글 시작>>>
+[[<<토스 비상금대출 조건과 한도 완벽정리 가이드>>]]
+토스 비상금대출은 갑작스럽게 자금이 필요한 상황에서 비교적 간편하게 신청할 수 있는 소액 신용대출 상품으로 많은 관심을 받고 있습니다. 별도의 복잡한 서류 제출 없이 모바일로 진행할 수 있다는 점이 특징이며, 직장인뿐 아니라 일정 조건을 충족하는 경우 다양한 이용자가 신청을 검토할 수 있습니다. 다만 대출은 개인의 신용도와 금융 상황에 따라 승인 여부 및 조건이 달라질 수 있으므로 사전에 정확한 내용을 확인하는 것이 중요합니다.
+<h2 style='font-size:26px;' align='left'>토스 비상금대출이란?</h2>
+토스 비상금대출은 소액 자금이 필요한 이용자를 대상으로 제공되는 모바일 기반 대출 상품입니다. 일반적으로 복잡한 방문 절차 없이 앱을 통해 한도 조회와 신청이 가능하며, 심사 결과에 따라 즉시 이용할 수 있는 경우도 있습니다.
+<b>주요 특징</b>
+<ul> <li>모바일 앱을 통한 간편 신청</li> <li>소액 생활자금 마련 가능</li> <li>중도상환수수료 여부 확인 필요</li> <li>24시간 한도 조회 가능</li> <li>개인 신용평가에 따라 조건 차등 적용</li> </ul>
+특히 급하게 생활비가 필요하거나 예상치 못한 지출이 발생했을 때 활용하는 경우가 많습니다. 다만 단순히 편리하다는 이유만으로 이용하기보다는 금리와 상환 계획을 충분히 검토한 후 결정하는 것이 바람직합니다.
+<h2 style='font-size:26px;' align='left'>신청 조건 및 자격 요건</h2>
+토스 비상금대출은 일반적으로 신용평가를 기반으로 심사가 진행됩니다. 금융기관의 내부 심사 기준에 따라 결과가 달라질 수 있으며, 다음과 같은 요소들이 주요 평가 항목으로 활용됩니다.
+<table border='1' style="text-align:center; width:100%;"> <tr> <th style="background-color: lightblue; text-align:center">구분</th> <th style="background-color: lightblue; text-align:center">내용</th> </tr> <tr> <td>신용상태</td> <td>개인 신용점수 및 연체 이력 확인</td> </tr> <tr> <td>금융거래</td> <td>기존 대출 및 카드 사용 내역 반영</td> </tr> <tr> <td>연체 여부</td> <td>현재 연체 중일 경우 제한 가능</td> </tr> <tr> <td>심사 기준</td> <td>금융사 내부 정책에 따라 결정</td> </tr> </table>
+대출 심사는 신청 시점의 금융정보를 기준으로 진행되므로 과거에는 승인이 어려웠더라도 현재 신용 상태가 개선되었다면 결과가 달라질 수 있습니다. 반대로 기존 대출이 많거나 연체 기록이 존재한다면 승인 가능성이 낮아질 수 있습니다.
+<h2 style='font-size:26px;' align='left'>한도 및 금리 확인 방법</h2>
+비상금대출의 가장 큰 관심사는 역시 한도와 금리입니다. 실제 적용 조건은 개인별로 차이가 발생하며 조회 결과를 통해 확인할 수 있습니다.
+<b>한도와 금리에 영향을 주는 요소</b>
+<ul> <li>개인 신용점수</li> <li>기존 대출 보유 현황</li> <li>소득 및 금융거래 내역</li> <li>연체 기록 여부</li> <li>금융기관 내부 심사 기준</li> </ul>
+일반적으로 신용도가 높을수록 더 유리한 조건을 받을 가능성이 있으며, 반대로 금융 부담이 큰 경우 한도가 줄어들거나 금리가 높아질 수 있습니다. 따라서 여러 금융상품을 비교하고 자신의 상환 능력에 맞는 금액을 선택하는 것이 중요합니다.
+<h2 style='font-size:26px;' align='left'>신청 전 반드시 확인할 사항</h2>
+비상금대출은 편리하지만 대출이라는 점을 반드시 기억해야 합니다. 승인 이후에는 정해진 일정에 따라 원리금을 상환해야 하므로 무리한 이용은 피해야 합니다.
+<b>신청 전 체크리스트</b>
+<ul> <li>현재 월 소득 대비 상환 가능 여부 확인</li> <li>적용 금리 및 상환 방식 검토</li> <li>연체 발생 시 불이익 확인</li> <li>필요 금액만 신청하기</li> <li>다른 금융상품과 조건 비교하기</li> </ul>
+실제로 많은 이용자가 간편한 신청 절차 때문에 부담 없이 접근하지만, 상환 계획 없이 이용할 경우 신용도에 영향을 줄 수 있습니다. 따라서 대출은 단기적인 자금 문제를 해결하는 수단으로 활용하되 장기적인 재무 계획도 함께 고려하는 것이 좋습니다.
+토스 비상금대출은 모바일 환경에서 쉽고 빠르게 이용할 수 있다는 장점이 있지만, 개인 신용 상태에 따라 한도와 금리가 달라질 수 있습니다. 신청 전 자신의 금융 상황을 충분히 점검하고 필요한 범위 내에서 신중하게 이용한다면 긴급 자금 마련에 도움이 될 수 있습니다.
+<<<전체 글 끝>>>
+matches2: 토스 비상금대출 조건과 한도 완벽정리 가이드
+text2: 토스 비상금대출은 갑작스럽게 자금이 필요한 상황에서 비교적 간편하게 신청할 수 있는 소액 신용대출 상품으로 많은 관심을 받고 있습니다. 별도의 복잡한 서류 제출 없이 모바일로 진행할 수 있다는 점이 특징이며, 직장인뿐 아니라 일정 조건을 충족하는 경우 다양한 이용자가 신청을 검토할 수 있습니다. 다만 대출은 개인의 신용도와 금융 상황에 따라 승인 여부 및 조건이 달라질 수 있으므로 사전에 정확한 내용을 확인하는 것이 중요합니다.
+<h2 style='font-size:26px;' align='left'>토스 비상금대출이란?</h2>
+토스 비상금대출은 소액 자금이 필요한 이용자를 대상으로 제공되는 모바일 기반 대출 상품입니다. 일반적으로 복잡한 방문 절차 없이 앱을 통해 한도 조회와 신청이 가능하며, 심사 결과에 따라 즉시 이용할 수 있는 경우도 있습니다.
+<b>주요 특징</b>
+<ul> <li>모바일 앱을 통한 간편 신청</li> <li>소액 생활자금 마련 가능</li> <li>중도상환수수료 여부 확인 필요</li> <li>24시간 한도 조회 가능</li> <li>개인 신용평가에 따라 조건 차등 적용</li> </ul>
+특히 급하게 생활비가 필요하거나 예상치 못한 지출이 발생했을 때 활용하는 경우가 많습니다. 다만 단순히 편리하다는 이유만으로 이용하기보다는 금리와 상환 계획을 충분히 검토한 후 결정하는 것이 바람직합니다.
+<h2 style='font-size:26px;' align='left'>신청 조건 및 자격 요건</h2>
+토스 비상금대출은 일반적으로 신용평가를 기반으로 심사가 진행됩니다. 금융기관의 내부 심사 기준에 따라 결과가 달라질 수 있으며, 다음과 같은 요소들이 주요 평가 항목으로 활용됩니다.
+<table border='1' style="text-align:center; width:100%;"> <tr> <th style="background-color: lightblue; text-align:center">구분</th> <th style="background-color: lightblue; text-align:center">내용</th> </tr> <tr> <td>신용상태</td> <td>개인 신용점수 및 연체 이력 확인</td> </tr> <tr> <td>금융거래</td> <td>기존 대출 및 카드 사용 내역 반영</td> </tr> <tr> <td>연체 여부</td> <td>현재 연체 중일 경우 제한 가능</td> </tr> <tr> <td>심사 기준</td> <td>금융사 내부 정책에 따라 결정</td> </tr> </table>
+대출 심사는 신청 시점의 금융정보를 기준으로 진행되므로 과거에는 승인이 어려웠더라도 현재 신용 상태가 개선되었다면 결과가 달라질 수 있습니다. 반대로 기존 대출이 많거나 연체 기록이 존재한다면 승인 가능성이 낮아질 수 있습니다.
+<h2 style='font-size:26px;' align='left'>한도 및 금리 확인 방법</h2>
+비상금대출의 가장 큰 관심사는 역시 한도와 금리입니다. 실제 적용 조건은 개인별로 차이가 발생하며 조회 결과를 통해 확인할 수 있습니다.
+<b>한도와 금리에 영향을 주는 요소</b>
+<ul> <li>개인 신용점수</li> <li>기존 대출 보유 현황</li> <li>소득 및 금융거래 내역</li> <li>연체 기록 여부</li> <li>금융기관 내부 심사 기준</li> </ul>
+일반적으로 신용도가 높을수록 더 유리한 조건을 받을 가능성이 있으며, 반대로 금융 부담이 큰 경우 한도가 줄어들거나 금리가 높아질 수 있습니다. 따라서 여러 금융상품을 비교하고 자신의 상환 능력에 맞는 금액을 선택하는 것이 중요합니다.
+<h2 style='font-size:26px;' align='left'>신청 전 반드시 확인할 사항</h2>
+비상금대출은 편리하지만 대출이라는 점을 반드시 기억해야 합니다. 승인 이후에는 정해진 일정에 따라 원리금을 상환해야 하므로 무리한 이용은 피해야 합니다.
+<b>신청 전 체크리스트</b>
+<ul> <li>현재 월 소득 대비 상환 가능 여부 확인</li> <li>적용 금리 및 상환 방식 검토</li> <li>연체 발생 시 불이익 확인</li> <li>필요 금액만 신청하기</li> <li>다른 금융상품과 조건 비교하기</li> </ul>
+실제로 많은 이용자가 간편한 신청 절차 때문에 부담 없이 접근하지만, 상환 계획 없이 이용할 경우 신용도에 영향을 줄 수 있습니다. 따라서 대출은 단기적인 자금 문제를 해결하는 수단으로 활용하되 장기적인 재무 계획도 함께 고려하는 것이 좋습니다.
+토스 비상금대출은 모바일 환경에서 쉽고 빠르게 이용할 수 있다는 장점이 있지만, 개인 신용 상태에 따라 한도와 금리가 달라질 수 있습니다. 신청 전 자신의 금융 상황을 충분히 점검하고 필요한 범위 내에서 신중하게 이용한다면 긴급 자금 마련에 도움이 될 수 있습니다.
+kkq3: 
+kkq4: 
+kkq5: 
+kkq6: 
+kkq7: 
+kkq8: 
+final_img_path C:/Users/a/Documents/image\titled_image.png
+final_img_path C:/Users/a/Documents/image\titled_image.png
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+h2 <h2 align="left" style="font-size:26px;">토스 비상금대출이란?</h2>
+double_h2 <h2 align="left" style="font-size:26px;">토스 비상금대출이란?</h2>
+h2 <h2 align="left" style="font-size:26px;">신청 조건 및 자격 요건</h2>
+double_h2 <h2 align="left" style="font-size:26px;">신청 조건 및 자격 요건</h2>
+h2 <h2 align="left" style="font-size:26px;">한도 및 금리 확인 방법</h2>
+double_h2 <h2 align="left" style="font-size:26px;">한도 및 금리 확인 방법</h2>
+h2 <h2 align="left" style="font-size:26px;">신청 전 반드시 확인할 사항</h2>
+double_h2 <h2 align="left" style="font-size:26px;">신청 전 반드시 확인할 사항</h2>
+제목  토스 비상금대출 조건과 한도 완벽정리 가이드
+[upload_title_image_to_wp] image_path C:/Users/a/Documents/image/titled_image.png
+status: 201
+response: {"id":98,"date":"2026-06-17T12:20:40","date_gmt":"2026-06-17T03:20:40","guid":{"rendered":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg","raw":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg"},"modified":"2026-06-17T12:20:40","modified_gmt":"2026-06-17T03:20:40","slug":"titled_image-30","status":"inherit","type":"attachment","link":"https:\/\/moneyatlas.kr\/titled_image-30\/","title":{"raw":"titled_image","rendered":"titled_image"},"author":1,"featured_media":0,"comment_status":"open","ping_status":"closed","template":"","meta":[],"permalink_template":"https:\/\/moneyatlas.kr\/?attachment_id=98","generated_slug":"titled_image-30","class_list":["post-98","attachment","type-attachment","status-inherit","hentry"],"description":{"raw":"","rendered":"<p class=\"attachment\"><a href='https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"265\" height=\"265\" src=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg 265w, https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29-150x150.jpg 150w\" sizes=\"auto, (max-width: 265px) 100vw, 265px\" \/><\/a><\/p>\n"},"caption":{"raw":"","rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":265,"height":265,"file":"2026\/06\/titled_image-29.jpg","filesize":29007,"sizes":{"thumbnail":{"file":"titled_image-29-150x150.jpg","width":150,"height":150,"filesize":9533,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29-150x150.jpg"},"full":{"file":"titled_image-29.jpg","width":265,"height":265,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[],"alt":""}},"post":null,"source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-29.jpg","missing_image_sizes":[],"filename":"titled_image-29.jpg","filesize":29007,"exif_orientation":1,"_links":{"self":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/98","targetHints":{"allow":["GET","POST","PUT","PATCH","DELETE"]}}],"collection":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/comments?post=98"}],"wp:action-unfiltered-html":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/98"}],"wp:action-assign-author":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/98"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+타이틀 이미지 URL 적용완료: https://moneyatlas.kr/wp-content/uploads/2026/06/titled_image-29.jpg
+성공 code:201
+12시 20분 44초
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  실비보험 자기부담금 총정리 완벽정리 실비보험 자기부담금 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Complete summary of actual expense insurance deductibles Complete summary of actual expense insurance deductibles', '실비보험 자기부담금 총정리 완벽정리 실비보험 자기부담금 총정리 완벽정리', 'ko']
+Complete summary of actual expense insurance deductibles Complete summary of actual expense insurance deductibles
+Complete summary of actual expense insurance deductibles Complete summary of actual expense insurance deductibles
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=40 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 40 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  실비보험 자기부담금 총정리 완벽정리 실비보험 자기부담금 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Complete summary of actual expense insurance deductibles Complete summary of actual expense insurance deductibles', '실비보험 자기부담금 총정리 완벽정리 실비보험 자기부담금 총정리 완벽정리', 'ko']
+Complete summary of actual expense insurance deductibles Complete summary of actual expense insurance deductibles
+Complete summary of actual expense insurance deductibles Complete summary of actual expense insurance deductibles
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=40 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 40 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+이미지 존재함
+IMAGE_PATH_PATH C:/Users/a/Documents/image
+image_file Image0.png
+img_sub_send 566180
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="6c76d2381fe1b046abb2e1f2542f0976")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+ID_gmemo https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+체크4
+현재 URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+수집된 텍스트: 주제 : 실비보험 자기부담금 총정리 완벽정리 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자~30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+새 프로젝트
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+오메가3 효능 선택법 고정
+---끝
+---체
+오메가3 효능 선택법의 대화 옵션 열기
+---끝
+---체
+면역력 저하 신호 분석 고정
+---끝
+---체
+면역력 저하 신호 분석의 대화 옵션 열기
+---끝
+---체
+워드프레스 전문가 지원 고정
+---끝
+---체
+워드프레스 전문가 지원의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+파일 등 추가
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xf5a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0xf5a584+10434]
+	undetected_chromedriver!(No symbol) [0xd5a700]
+	undetected_chromedriver!(No symbol) [0xda3bab]
+	undetected_chromedriver!(No symbol) [0xda3dcb]
+	undetected_chromedriver!(No symbol) [0xde5b32]
+	undetected_chromedriver!(No symbol) [0xdc6114]
+	undetected_chromedriver!(No symbol) [0xde339a]
+	undetected_chromedriver!(No symbol) [0xdc5e66]
+	undetected_chromedriver!(No symbol) [0xd99159]
+	undetected_chromedriver!(No symbol) [0xd99f24]
+	undetected_chromedriver!GetHandleVerifier [0x11e4bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0x11e0119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0x120103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0xf737f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0xf7a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0xf62d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0xf62ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0xf4c05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x765efcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c843e+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c840e+ee]
+
+collected_text <<<전체 글 시작>>>
+[[<<실비보험 자기부담금 총정리 핵심가이드>>]]
+실비보험은 병원비 부담을 줄여주는 대표적인 보험이지만, 실제로 보험금을 청구할 때 가장 많이 궁금해하는 부분이 바로 <b>자기부담금</b>입니다. 많은 분들이 실비보험에 가입되어 있으면 병원비를 전부 돌려받는다고 생각하지만, 실제로는 일정 금액을 본인이 부담해야 하는 구조로 운영됩니다. 따라서 실비보험을 제대로 활용하려면 자기부담금의 개념과 계산 방법을 정확히 이해하는 것이 중요합니다. 이번 글에서는 실비보험 자기부담금의 의미부터 계산 방법, 세대별 차이점, 절약 방법까지 한 번에 정리해보겠습니다.
+<h2 style='font-size:26px;' align='left'>실비보험 자기부담금이란?</h2>
+실비보험 자기부담금은 의료비가 발생했을 때 보험사가 전액을 보상하는 것이 아니라 가입자가 일정 비율 또는 일정 금액을 직접 부담하는 제도를 의미합니다.
+예를 들어 병원비가 10만 원 발생했더라도 자기부담금이 20%라면 2만 원은 본인이 부담하고 나머지 금액만 보험금으로 지급됩니다.
+<ul> <li>과잉진료 방지 목적</li> <li>보험료 인상 억제 효과</li> <li>보험 재정 안정성 확보</li> <li>불필요한 의료 이용 감소</li> </ul>
+보험 가입 시기에 따라 자기부담금 비율이 다르므로 자신의 가입 시점을 확인하는 것이 매우 중요합니다.
+<h2 style='font-size:26px;' align='left'>실비보험 세대별 자기부담금 비교</h2>
+실비보험은 판매 시기에 따라 1세대부터 4세대까지 구분되며 자기부담금 구조도 달라집니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">구분</th> <th style="background-color: lightblue; text-align:center">자기부담금</th> <th style="background-color: lightblue; text-align:center">특징</th> </tr> <tr> <td>1세대</td> <td>거의 없음</td> <td>보장 범위 넓음</td> </tr> <tr> <td>2세대</td> <td>10~20%</td> <td>일부 본인 부담 발생</td> </tr> <tr> <td>3세대</td> <td>급여 10~20%</td> <td>비급여 부담 확대</td> </tr> <tr> <td>4세대</td> <td>급여 20%, 비급여 30%</td> <td>보험료 차등제 적용</td> </tr> </table>
+최근 판매되는 4세대 실손보험은 비급여 이용량에 따라 보험료가 달라질 수 있기 때문에 의료 이용 습관도 중요하게 작용합니다.
+<h2 style='font-size:26px;' align='left'>자기부담금 계산 방법과 예시</h2>
+실제 사례를 통해 계산 방법을 살펴보겠습니다.
+병원 진료비가 총 50만 원 발생했고 자기부담금 비율이 20%라고 가정해 보겠습니다.
+<b>계산식</b>
+50만 원 × 20% = 10만 원
+즉 가입자가 10만 원을 부담하고 보험사는 나머지 40만 원을 보상합니다.
+다만 실비보험은 단순히 비율만 적용되는 것이 아니라 최소 공제금액 조건이 적용되는 경우도 있습니다.
+예를 들어 외래진료 시:
+<ul> <li>의원급 : 최소 1만 원 공제</li> <li>병원급 : 최소 1만5천 원 공제</li> <li>상급종합병원 : 최소 2만 원 공제</li> </ul>
+따라서 진료비가 적은 경우에는 실제 환급액이 기대보다 적을 수 있습니다. 보험 약관을 반드시 확인하는 것이 좋습니다.
+<h2 style='font-size:26px;' align='left'>자기부담금을 줄이는 방법</h2>
+실비보험을 효율적으로 활용하려면 자기부담금 부담을 최소화하는 전략도 필요합니다.
+<ul> <li>불필요한 비급여 진료는 신중히 선택하기</li> <li>가입한 실손보험 세대 확인하기</li> <li>청구 가능한 의료비는 빠짐없이 청구하기</li> <li>특약 보장 범위 점검하기</li> <li>보험 리모델링 여부 검토하기</li> </ul>
+특히 4세대 실손보험 가입자는 비급여 진료 이용이 많을 경우 향후 보험료가 상승할 수 있으므로 의료 이용 패턴을 관리하는 것이 중요합니다.
+실비보험 자기부담금은 단순히 손해 보는 비용이 아니라 보험제도를 안정적으로 운영하기 위한 핵심 장치입니다. 자신의 보험 가입 시기와 보장 구조를 정확히 이해하면 예상치 못한 의료비 지출에도 훨씬 효과적으로 대비할 수 있습니다. 보험금 청구 전에는 반드시 약관을 확인하고 자기부담금 계산 기준을 점검해 보는 것이 바람직합니다. 작은 차이처럼 보이지만 장기간 누적되면 상당한 금액 차이가 발생할 수 있으므로 꼼꼼한 관리가 필요합니다.
+<<<전체 글 끝>>>
+matches2: 실비보험 자기부담금 총정리 핵심가이드
+text2: 실비보험은 병원비 부담을 줄여주는 대표적인 보험이지만, 실제로 보험금을 청구할 때 가장 많이 궁금해하는 부분이 바로 <b>자기부담금</b>입니다. 많은 분들이 실비보험에 가입되어 있으면 병원비를 전부 돌려받는다고 생각하지만, 실제로는 일정 금액을 본인이 부담해야 하는 구조로 운영됩니다. 따라서 실비보험을 제대로 활용하려면 자기부담금의 개념과 계산 방법을 정확히 이해하는 것이 중요합니다. 이번 글에서는 실비보험 자기부담금의 의미부터 계산 방법, 세대별 차이점, 절약 방법까지 한 번에 정리해보겠습니다.
+<h2 style='font-size:26px;' align='left'>실비보험 자기부담금이란?</h2>
+실비보험 자기부담금은 의료비가 발생했을 때 보험사가 전액을 보상하는 것이 아니라 가입자가 일정 비율 또는 일정 금액을 직접 부담하는 제도를 의미합니다.
+예를 들어 병원비가 10만 원 발생했더라도 자기부담금이 20%라면 2만 원은 본인이 부담하고 나머지 금액만 보험금으로 지급됩니다.
+<ul> <li>과잉진료 방지 목적</li> <li>보험료 인상 억제 효과</li> <li>보험 재정 안정성 확보</li> <li>불필요한 의료 이용 감소</li> </ul>
+보험 가입 시기에 따라 자기부담금 비율이 다르므로 자신의 가입 시점을 확인하는 것이 매우 중요합니다.
+<h2 style='font-size:26px;' align='left'>실비보험 세대별 자기부담금 비교</h2>
+실비보험은 판매 시기에 따라 1세대부터 4세대까지 구분되며 자기부담금 구조도 달라집니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">구분</th> <th style="background-color: lightblue; text-align:center">자기부담금</th> <th style="background-color: lightblue; text-align:center">특징</th> </tr> <tr> <td>1세대</td> <td>거의 없음</td> <td>보장 범위 넓음</td> </tr> <tr> <td>2세대</td> <td>10~20%</td> <td>일부 본인 부담 발생</td> </tr> <tr> <td>3세대</td> <td>급여 10~20%</td> <td>비급여 부담 확대</td> </tr> <tr> <td>4세대</td> <td>급여 20%, 비급여 30%</td> <td>보험료 차등제 적용</td> </tr> </table>
+최근 판매되는 4세대 실손보험은 비급여 이용량에 따라 보험료가 달라질 수 있기 때문에 의료 이용 습관도 중요하게 작용합니다.
+<h2 style='font-size:26px;' align='left'>자기부담금 계산 방법과 예시</h2>
+실제 사례를 통해 계산 방법을 살펴보겠습니다.
+병원 진료비가 총 50만 원 발생했고 자기부담금 비율이 20%라고 가정해 보겠습니다.
+<b>계산식</b>
+50만 원 × 20% = 10만 원
+즉 가입자가 10만 원을 부담하고 보험사는 나머지 40만 원을 보상합니다.
+다만 실비보험은 단순히 비율만 적용되는 것이 아니라 최소 공제금액 조건이 적용되는 경우도 있습니다.
+예를 들어 외래진료 시:
+<ul> <li>의원급 : 최소 1만 원 공제</li> <li>병원급 : 최소 1만5천 원 공제</li> <li>상급종합병원 : 최소 2만 원 공제</li> </ul>
+따라서 진료비가 적은 경우에는 실제 환급액이 기대보다 적을 수 있습니다. 보험 약관을 반드시 확인하는 것이 좋습니다.
+<h2 style='font-size:26px;' align='left'>자기부담금을 줄이는 방법</h2>
+실비보험을 효율적으로 활용하려면 자기부담금 부담을 최소화하는 전략도 필요합니다.
+<ul> <li>불필요한 비급여 진료는 신중히 선택하기</li> <li>가입한 실손보험 세대 확인하기</li> <li>청구 가능한 의료비는 빠짐없이 청구하기</li> <li>특약 보장 범위 점검하기</li> <li>보험 리모델링 여부 검토하기</li> </ul>
+특히 4세대 실손보험 가입자는 비급여 진료 이용이 많을 경우 향후 보험료가 상승할 수 있으므로 의료 이용 패턴을 관리하는 것이 중요합니다.
+실비보험 자기부담금은 단순히 손해 보는 비용이 아니라 보험제도를 안정적으로 운영하기 위한 핵심 장치입니다. 자신의 보험 가입 시기와 보장 구조를 정확히 이해하면 예상치 못한 의료비 지출에도 훨씬 효과적으로 대비할 수 있습니다. 보험금 청구 전에는 반드시 약관을 확인하고 자기부담금 계산 기준을 점검해 보는 것이 바람직합니다. 작은 차이처럼 보이지만 장기간 누적되면 상당한 금액 차이가 발생할 수 있으므로 꼼꼼한 관리가 필요합니다.
+kkq3: 
+kkq4: 
+kkq5: 
+kkq6: 
+kkq7: 
+kkq8: 
+final_img_path C:/Users/a/Documents/image\titled_image.png
+final_img_path C:/Users/a/Documents/image\titled_image.png
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+h2 <h2 align="left" style="font-size:26px;">실비보험 자기부담금이란?</h2>
+double_h2 <h2 align="left" style="font-size:26px;">실비보험 자기부담금이란?</h2>
+h2 <h2 align="left" style="font-size:26px;">실비보험 세대별 자기부담금 비교</h2>
+double_h2 <h2 align="left" style="font-size:26px;">실비보험 세대별 자기부담금 비교</h2>
+h2 <h2 align="left" style="font-size:26px;">자기부담금 계산 방법과 예시</h2>
+double_h2 <h2 align="left" style="font-size:26px;">자기부담금 계산 방법과 예시</h2>
+h2 <h2 align="left" style="font-size:26px;">자기부담금을 줄이는 방법</h2>
+double_h2 <h2 align="left" style="font-size:26px;">자기부담금을 줄이는 방법</h2>
+제목  실비보험 자기부담금 총정리 핵심가이드
+[upload_title_image_to_wp] image_path C:/Users/a/Documents/image/titled_image.png
+status: 201
+response: {"id":100,"date":"2026-06-17T12:56:00","date_gmt":"2026-06-17T03:56:00","guid":{"rendered":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg","raw":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg"},"modified":"2026-06-17T12:56:00","modified_gmt":"2026-06-17T03:56:00","slug":"titled_image-31","status":"inherit","type":"attachment","link":"https:\/\/moneyatlas.kr\/titled_image-31\/","title":{"raw":"titled_image","rendered":"titled_image"},"author":1,"featured_media":0,"comment_status":"open","ping_status":"closed","template":"","meta":[],"permalink_template":"https:\/\/moneyatlas.kr\/?attachment_id=100","generated_slug":"titled_image-31","class_list":["post-100","attachment","type-attachment","status-inherit","hentry"],"description":{"raw":"","rendered":"<p class=\"attachment\"><a href='https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"265\" height=\"265\" src=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg 265w, https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30-150x150.jpg 150w\" sizes=\"auto, (max-width: 265px) 100vw, 265px\" \/><\/a><\/p>\n"},"caption":{"raw":"","rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":265,"height":265,"file":"2026\/06\/titled_image-30.jpg","filesize":28914,"sizes":{"thumbnail":{"file":"titled_image-30-150x150.jpg","width":150,"height":150,"filesize":9184,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30-150x150.jpg"},"full":{"file":"titled_image-30.jpg","width":265,"height":265,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[],"alt":""}},"post":null,"source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-30.jpg","missing_image_sizes":[],"filename":"titled_image-30.jpg","filesize":28914,"exif_orientation":1,"_links":{"self":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/100","targetHints":{"allow":["GET","POST","PUT","PATCH","DELETE"]}}],"collection":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/comments?post=100"}],"wp:action-unfiltered-html":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/100"}],"wp:action-assign-author":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/100"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+타이틀 이미지 URL 적용완료: https://moneyatlas.kr/wp-content/uploads/2026/06/titled_image-30.jpg
+성공 code:201
+12시 56분 19초
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<2월 28일 공지사항>>@@ 
+Premium_wordpress_V2.27 다운 받아주세요@@
+ <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<11월 16일 공지사항>>@@ 
+Premium_wordpress_V2.17 다운 받아주세요@@
+무료이미지 업데이트 필요하신분은 갠톡 주세요.@@
+ <<8월 15일 공지사항>>@@ 
+Premium_wordpress_V2.10 다운 받아주세요@@
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@
+ <<7월 3일 공지사항>>@@ 
+Premium_wordpress_V2.8.exe 다운로드 해주세요.@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+<<6월 17일 공지사항>>@@ 
+이미지 오류, gpt 제목 오류 개선@@
+ <<5월 16일 공지사항>>@@ 
+GPT 오류 개선@@
+ <<4월 13일 공지사항>>@@ 
+글 색인시 alt 태그 오류 수정 / 표 중간정렬 / 모바일 색인 개선@@
+마지막 숫자 27 다운로드 부탁드립니다@@
+<<3월 20일 공지사항>>@@
+GPT에러 개선한 버전 : xxx_bard_multi24.exe@@
+글 더 풍부하게 나올수 있게 업데이트 완료@@
+바드 버전 출시 Premium_wordpress_V1.25_bard_multi22 버전업 해주세요@@
+multi21버전은 가끔 외국말 나오는 현상 개선한 버전입니다@@
+3월 31일 부터 4월14일까지 신혼여행으로 인해 프로그램 서비스가 잠시 중단됩니다. 프로그램 사용에는 문제되지 않지만 중간에 업데이트가 필요한경우 15일부터 순차적으로 진행하겠습니다. 감사합니다.@@
+제목 GPT 변환에 따옴표 나오는 현상 제거@@
+바드 소제목 다양하게 나오게 수정@@
+바드 프롬프트 정교화 작업 때문에 업데이트 빈도가 높습니다@@
+바드 사용시 무한 로딩 문제점 개선@@
+일부 워드프레스 이미지 업로드 문제점 개선@@
+GPT사용할때는 소제목 3개 권장 / 바드 사용할때는 소제목 6개 권장@@
+바드 API 발급받는방법 메뉴얼 꼭 숙지해주시고 저한테 보내주세요^^@@
+다운로드 링크 : https://1drv.ms/f/s!ArVRkWR0_GfA67cXKmsUblp1-Lhr8Q?e=exuoZr
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  나스닥 ETF 추천 총정리 완벽정리 나스닥 ETF 추천 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Complete summary of Nasdaq ETF recommendations Complete summary of Nasdaq ETF recommendations Complete summary', '나스닥 ETF 추천 총정리 완벽정리 나스닥 ETF 추천 총정리 완벽정리', 'ko']
+Complete summary of Nasdaq ETF recommendations Complete summary of Nasdaq ETF recommendations Complete summary
+Complete summary of Nasdaq ETF recommendations Complete summary of Nasdaq ETF recommendations Complete summary
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 39 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  나스닥 ETF 추천 총정리 완벽정리 나스닥 ETF 추천 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Complete summary of Nasdaq ETF recommendations Complete summary of Nasdaq ETF recommendations Complete summary', '나스닥 ETF 추천 총정리 완벽정리 나스닥 ETF 추천 총정리 완벽정리', 'ko']
+Complete summary of Nasdaq ETF recommendations Complete summary of Nasdaq ETF recommendations Complete summary
+Complete summary of Nasdaq ETF recommendations Complete summary of Nasdaq ETF recommendations Complete summary
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=40 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 40 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+이미지 존재함
+IMAGE_PATH_PATH C:/Users/a/Documents/image
+image_file Image0.png
+img_sub_send 625916
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="6c76d2381fe1b046abb2e1f2542f0976")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+ID_gmemo https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+체크4
+현재 URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+수집된 텍스트: 주제 : 나스닥 ETF 추천 총정리 완벽정리 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자~30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+새 프로젝트
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+오메가3 효능 선택법 고정
+---끝
+---체
+오메가3 효능 선택법의 대화 옵션 열기
+---끝
+---체
+면역력 저하 신호 분석 고정
+---끝
+---체
+면역력 저하 신호 분석의 대화 옵션 열기
+---끝
+---체
+워드프레스 전문가 지원 고정
+---끝
+---체
+워드프레스 전문가 지원의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+파일 등 추가
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xf5a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0xf5a584+10434]
+	undetected_chromedriver!(No symbol) [0xd5a700]
+	undetected_chromedriver!(No symbol) [0xda3bab]
+	undetected_chromedriver!(No symbol) [0xda3dcb]
+	undetected_chromedriver!(No symbol) [0xde5b32]
+	undetected_chromedriver!(No symbol) [0xdc6114]
+	undetected_chromedriver!(No symbol) [0xde339a]
+	undetected_chromedriver!(No symbol) [0xdc5e66]
+	undetected_chromedriver!(No symbol) [0xd99159]
+	undetected_chromedriver!(No symbol) [0xd99f24]
+	undetected_chromedriver!GetHandleVerifier [0x11e4bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0x11e0119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0x120103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0xf737f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0xf7a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0xf62d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0xf62ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0xf4c05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x765efcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c843e+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c840e+ee]
+
+collected_text <<<전체 글 시작>>>
+[[<<나스닥 ETF 추천 총정리와 투자전략 완벽가이드>>]]
+나스닥 시장은 전 세계 기술주를 대표하는 성장형 시장으로 평가받고 있습니다. 특히 인공지능, 반도체, 클라우드, 소프트웨어 기업들이 대거 포함되어 있어 장기적인 성장 가능성을 기대하는 투자자들의 관심이 꾸준히 이어지고 있는데요. 실제로 상담을 진행하다 보면 개별 종목을 직접 고르기보다 ETF를 통해 분산투자를 원하는 분들이 많았습니다. 오늘은 대표적인 나스닥 ETF들을 살펴보고 각각의 특징과 투자 시 체크해야 할 사항까지 정리해보겠습니다.
+<h2 style='font-size:26px;' align='left'>나스닥 ETF가 인기 있는 이유</h2>
+나스닥 ETF는 여러 기업에 동시에 투자할 수 있다는 장점이 있습니다. 애플, 마이크로소프트, 엔비디아, 아마존, 메타 등 글로벌 대형 기술주 비중이 높아 개별 종목 위험을 줄이면서도 성장성을 기대할 수 있습니다.
+<b>나스닥 ETF의 주요 장점</b>
+<ul> <li>분산투자를 통한 위험 관리</li> <li>성장 산업 중심의 포트폴리오 구성</li> <li>낮은 운용 비용</li> <li>장기 투자에 적합한 구조</li> <li>해외 우량 기업에 손쉽게 투자 가능</li> </ul>
+특히 최근 AI 산업 확대와 반도체 시장 성장으로 인해 나스닥 관련 ETF에 대한 관심이 더욱 높아지고 있습니다.
+<h2 style='font-size:26px;' align='left'>대표 나스닥 ETF 비교</h2>
+투자자들이 가장 많이 찾는 ETF들을 비교해보면 다음과 같습니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">ETF</th> <th style="background-color: lightblue; text-align:center">특징</th> <th style="background-color: lightblue; text-align:center">투자성향</th> </tr> <tr> <td>QQQ</td> <td>나스닥100 대표 ETF</td> <td>장기 성장형</td> </tr> <tr> <td>QQQM</td> <td>QQQ와 유사, 낮은 보수</td> <td>장기 적립식</td> </tr> <tr> <td>TQQQ</td> <td>3배 레버리지</td> <td>공격적 투자</td> </tr> <tr> <td>ONEQ</td> <td>나스닥 종목 폭넓게 구성</td> <td>분산 투자형</td> </tr> </table>
+그중에서도 QQQ는 가장 대표적인 나스닥 ETF로 평가받습니다. 거래량이 풍부하고 안정적인 운용 규모를 보유하고 있어 초보 투자자들도 쉽게 접근할 수 있습니다. 반면 TQQQ는 수익과 손실이 모두 확대될 수 있기 때문에 단기 전략 위주로 접근하는 경우가 많습니다.
+<h2 style='font-size:26px;' align='left'>투자 시 체크해야 할 핵심 포인트</h2>
+ETF라고 해서 무조건 안전한 것은 아닙니다. 실제 투자 경험을 살펴보면 시장 상승기에는 높은 수익률을 기록하지만 금리 인상이나 경기 침체 우려가 커질 경우 변동성이 크게 나타나기도 합니다.
+따라서 다음 사항을 반드시 확인하는 것이 좋습니다.
+<ul> <li>운용보수 수준 확인</li> <li>상위 보유 종목 비중 분석</li> <li>장기 투자 여부 결정</li> <li>환율 영향 고려</li> <li>정기적인 포트폴리오 점검</li> </ul>
+특히 나스닥 ETF는 기술주 비중이 높기 때문에 금리 정책 변화에 민감하게 반응할 수 있습니다. 따라서 단기 뉴스에 흔들리기보다는 장기적인 성장 가능성을 중심으로 판단하는 것이 중요합니다.
+<h2 style='font-size:26px;' align='left'>2026년 기준 추천 투자 전략</h2>
+현재 많은 전문가들은 나스닥 ETF를 장기 적립식 투자 대상으로 활용하고 있습니다. 매달 일정 금액을 꾸준히 투자하는 방식은 시장 변동성을 완화하는 데 도움이 될 수 있습니다.
+<b>추천 전략 예시</b>
+<ul> <li>안정형 : QQQM 중심 투자</li> <li>성장형 : QQQ + 반도체 ETF 조합</li> <li>공격형 : QQQ와 TQQQ 비중 조절</li> <li>분산형 : 나스닥 ETF와 S&P500 ETF 병행</li> </ul>
+결국 어떤 ETF가 가장 좋다고 단정하기보다는 자신의 투자 기간과 위험 감수 성향에 맞는 상품을 선택하는 것이 핵심입니다. 장기적으로 미국 기술 산업의 성장성을 긍정적으로 본다면 나스닥 ETF는 충분히 검토할 만한 투자 수단이 될 수 있습니다. 다만 단기 급등만 기대하기보다 꾸준한 분산투자와 리스크 관리 전략을 병행하는 것이 보다 안정적인 자산 형성에 도움이 될 것입니다.
+<<<전체 글 끝>>>
+matches2: 나스닥 ETF 추천 총정리와 투자전략 완벽가이드
+text2: 나스닥 시장은 전 세계 기술주를 대표하는 성장형 시장으로 평가받고 있습니다. 특히 인공지능, 반도체, 클라우드, 소프트웨어 기업들이 대거 포함되어 있어 장기적인 성장 가능성을 기대하는 투자자들의 관심이 꾸준히 이어지고 있는데요. 실제로 상담을 진행하다 보면 개별 종목을 직접 고르기보다 ETF를 통해 분산투자를 원하는 분들이 많았습니다. 오늘은 대표적인 나스닥 ETF들을 살펴보고 각각의 특징과 투자 시 체크해야 할 사항까지 정리해보겠습니다.
+<h2 style='font-size:26px;' align='left'>나스닥 ETF가 인기 있는 이유</h2>
+나스닥 ETF는 여러 기업에 동시에 투자할 수 있다는 장점이 있습니다. 애플, 마이크로소프트, 엔비디아, 아마존, 메타 등 글로벌 대형 기술주 비중이 높아 개별 종목 위험을 줄이면서도 성장성을 기대할 수 있습니다.
+<b>나스닥 ETF의 주요 장점</b>
+<ul> <li>분산투자를 통한 위험 관리</li> <li>성장 산업 중심의 포트폴리오 구성</li> <li>낮은 운용 비용</li> <li>장기 투자에 적합한 구조</li> <li>해외 우량 기업에 손쉽게 투자 가능</li> </ul>
+특히 최근 AI 산업 확대와 반도체 시장 성장으로 인해 나스닥 관련 ETF에 대한 관심이 더욱 높아지고 있습니다.
+<h2 style='font-size:26px;' align='left'>대표 나스닥 ETF 비교</h2>
+투자자들이 가장 많이 찾는 ETF들을 비교해보면 다음과 같습니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">ETF</th> <th style="background-color: lightblue; text-align:center">특징</th> <th style="background-color: lightblue; text-align:center">투자성향</th> </tr> <tr> <td>QQQ</td> <td>나스닥100 대표 ETF</td> <td>장기 성장형</td> </tr> <tr> <td>QQQM</td> <td>QQQ와 유사, 낮은 보수</td> <td>장기 적립식</td> </tr> <tr> <td>TQQQ</td> <td>3배 레버리지</td> <td>공격적 투자</td> </tr> <tr> <td>ONEQ</td> <td>나스닥 종목 폭넓게 구성</td> <td>분산 투자형</td> </tr> </table>
+그중에서도 QQQ는 가장 대표적인 나스닥 ETF로 평가받습니다. 거래량이 풍부하고 안정적인 운용 규모를 보유하고 있어 초보 투자자들도 쉽게 접근할 수 있습니다. 반면 TQQQ는 수익과 손실이 모두 확대될 수 있기 때문에 단기 전략 위주로 접근하는 경우가 많습니다.
+<h2 style='font-size:26px;' align='left'>투자 시 체크해야 할 핵심 포인트</h2>
+ETF라고 해서 무조건 안전한 것은 아닙니다. 실제 투자 경험을 살펴보면 시장 상승기에는 높은 수익률을 기록하지만 금리 인상이나 경기 침체 우려가 커질 경우 변동성이 크게 나타나기도 합니다.
+따라서 다음 사항을 반드시 확인하는 것이 좋습니다.
+<ul> <li>운용보수 수준 확인</li> <li>상위 보유 종목 비중 분석</li> <li>장기 투자 여부 결정</li> <li>환율 영향 고려</li> <li>정기적인 포트폴리오 점검</li> </ul>
+특히 나스닥 ETF는 기술주 비중이 높기 때문에 금리 정책 변화에 민감하게 반응할 수 있습니다. 따라서 단기 뉴스에 흔들리기보다는 장기적인 성장 가능성을 중심으로 판단하는 것이 중요합니다.
+<h2 style='font-size:26px;' align='left'>2026년 기준 추천 투자 전략</h2>
+현재 많은 전문가들은 나스닥 ETF를 장기 적립식 투자 대상으로 활용하고 있습니다. 매달 일정 금액을 꾸준히 투자하는 방식은 시장 변동성을 완화하는 데 도움이 될 수 있습니다.
+<b>추천 전략 예시</b>
+<ul> <li>안정형 : QQQM 중심 투자</li> <li>성장형 : QQQ + 반도체 ETF 조합</li> <li>공격형 : QQQ와 TQQQ 비중 조절</li> <li>분산형 : 나스닥 ETF와 S&P500 ETF 병행</li> </ul>
+결국 어떤 ETF가 가장 좋다고 단정하기보다는 자신의 투자 기간과 위험 감수 성향에 맞는 상품을 선택하는 것이 핵심입니다. 장기적으로 미국 기술 산업의 성장성을 긍정적으로 본다면 나스닥 ETF는 충분히 검토할 만한 투자 수단이 될 수 있습니다. 다만 단기 급등만 기대하기보다 꾸준한 분산투자와 리스크 관리 전략을 병행하는 것이 보다 안정적인 자산 형성에 도움이 될 것입니다.
+kkq3: 
+kkq4: 
+kkq5: 
+kkq6: 
+kkq7: 
+kkq8: 
+final_img_path C:/Users/a/Documents/image\titled_image.png
+final_img_path C:/Users/a/Documents/image\titled_image.png
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+h2 <h2 align="left" style="font-size:26px;">나스닥 ETF가 인기 있는 이유</h2>
+double_h2 <h2 align="left" style="font-size:26px;">나스닥 ETF가 인기 있는 이유</h2>
+h2 <h2 align="left" style="font-size:26px;">대표 나스닥 ETF 비교</h2>
+double_h2 <h2 align="left" style="font-size:26px;">대표 나스닥 ETF 비교</h2>
+h2 <h2 align="left" style="font-size:26px;">투자 시 체크해야 할 핵심 포인트</h2>
+double_h2 <h2 align="left" style="font-size:26px;">투자 시 체크해야 할 핵심 포인트</h2>
+h2 <h2 align="left" style="font-size:26px;">2026년 기준 추천 투자 전략</h2>
+double_h2 <h2 align="left" style="font-size:26px;">2026년 기준 추천 투자 전략</h2>
+제목  나스닥 ETF 추천 총정리와 투자전략 완벽가이드
+[upload_title_image_to_wp] image_path C:/Users/a/Documents/image/titled_image.png
+status: 201
+response: {"id":102,"date":"2026-06-17T13:31:37","date_gmt":"2026-06-17T04:31:37","guid":{"rendered":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg","raw":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg"},"modified":"2026-06-17T13:31:37","modified_gmt":"2026-06-17T04:31:37","slug":"titled_image-32","status":"inherit","type":"attachment","link":"https:\/\/moneyatlas.kr\/titled_image-32\/","title":{"raw":"titled_image","rendered":"titled_image"},"author":1,"featured_media":0,"comment_status":"open","ping_status":"closed","template":"","meta":[],"permalink_template":"https:\/\/moneyatlas.kr\/?attachment_id=102","generated_slug":"titled_image-32","class_list":["post-102","attachment","type-attachment","status-inherit","hentry"],"description":{"raw":"","rendered":"<p class=\"attachment\"><a href='https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"265\" height=\"265\" src=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg 265w, https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31-150x150.jpg 150w\" sizes=\"auto, (max-width: 265px) 100vw, 265px\" \/><\/a><\/p>\n"},"caption":{"raw":"","rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":265,"height":265,"file":"2026\/06\/titled_image-31.jpg","filesize":30021,"sizes":{"thumbnail":{"file":"titled_image-31-150x150.jpg","width":150,"height":150,"filesize":9822,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31-150x150.jpg"},"full":{"file":"titled_image-31.jpg","width":265,"height":265,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[],"alt":""}},"post":null,"source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-31.jpg","missing_image_sizes":[],"filename":"titled_image-31.jpg","filesize":30021,"exif_orientation":1,"_links":{"self":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/102","targetHints":{"allow":["GET","POST","PUT","PATCH","DELETE"]}}],"collection":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/comments?post=102"}],"wp:action-unfiltered-html":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/102"}],"wp:action-assign-author":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/102"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+타이틀 이미지 URL 적용완료: https://moneyatlas.kr/wp-content/uploads/2026/06/titled_image-31.jpg
+성공 code:201
+13시 31분 42초
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+------전체 에러---------------import --------
+에러메세지
+Message: unknown error: failed to change window state to 'normal', current state is 'maximized'
+  (Session info: chrome=149.0.7827.104)
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xf5a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0xf5a584+10434]
+	undetected_chromedriver!(No symbol) [0xd5a700]
+	undetected_chromedriver!(No symbol) [0xd3dab0]
+	undetected_chromedriver!(No symbol) [0xd3b514]
+	undetected_chromedriver!(No symbol) [0xd3d35d]
+	undetected_chromedriver!(No symbol) [0xdf6ea9]
+	undetected_chromedriver!(No symbol) [0xdc60cc]
+	undetected_chromedriver!(No symbol) [0xde339a]
+	undetected_chromedriver!(No symbol) [0xdc5e66]
+	undetected_chromedriver!(No symbol) [0xd99159]
+	undetected_chromedriver!(No symbol) [0xd99f24]
+	undetected_chromedriver!GetHandleVerifier [0x11e4bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0x11e0119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0x120103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0xf737f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0xf7a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0xf62d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0xf62ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0xf4c05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x765efcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c843e+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c840e+ee]
+
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  애드센스 사이트 추가 총정리 완벽정리 애드센스 사이트 추가 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Addition of AdSense site Complete summary Complete summary of addition of AdSense site Complete summary', '애드센스 사이트 추가 총정리 완벽정리 애드센스 사이트 추가 총정리 완벽정리', 'ko']
+Addition of AdSense site Complete summary Complete summary of addition of AdSense site Complete summary
+Addition of AdSense site Complete summary Complete summary of addition of AdSense site Complete summary
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=40 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 40 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+-------------bard---------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  애드센스 사이트 추가 총정리 완벽정리 애드센스 사이트 추가 총정리 완벽정리
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Addition of AdSense site Complete summary Complete summary of addition of AdSense site Complete summary', '애드센스 사이트 추가 총정리 완벽정리 애드센스 사이트 추가 총정리 완벽정리', 'ko']
+Addition of AdSense site Complete summary Complete summary of addition of AdSense site Complete summary
+Addition of AdSense site Complete summary Complete summary of addition of AdSense site Complete summary
+[side-panel-diag] round=1 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=5 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=10 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=15 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=20 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=25 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=30 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=35 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] round=40 status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+[side-panel-diag] TIMEOUT after 40 rounds, close_clicks=0
+  last status=none totalBtns=24 closeOnly=0 dakgiOnly=0 both=0
+이미지 존재함
+IMAGE_PATH_PATH C:/Users/a/Documents/image
+image_file Image0.png
+img_sub_send 593412
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="6c76d2381fe1b046abb2e1f2542f0976")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+ID_gmemo https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+체크4
+현재 URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+수집된 텍스트: 주제 : 애드센스 사이트 추가 총정리 완벽정리 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자~30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+새 프로젝트
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+오메가3 효능 선택법 고정
+---끝
+---체
+오메가3 효능 선택법의 대화 옵션 열기
+---끝
+---체
+면역력 저하 신호 분석 고정
+---끝
+---체
+면역력 저하 신호 분석의 대화 옵션 열기
+---끝
+---체
+워드프레스 전문가 지원 고정
+---끝
+---체
+워드프레스 전문가 지원의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+파일 등 추가
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xf5a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0xf5a584+10434]
+	undetected_chromedriver!(No symbol) [0xd5a700]
+	undetected_chromedriver!(No symbol) [0xda3bab]
+	undetected_chromedriver!(No symbol) [0xda3dcb]
+	undetected_chromedriver!(No symbol) [0xde5b32]
+	undetected_chromedriver!(No symbol) [0xdc6114]
+	undetected_chromedriver!(No symbol) [0xde339a]
+	undetected_chromedriver!(No symbol) [0xdc5e66]
+	undetected_chromedriver!(No symbol) [0xd99159]
+	undetected_chromedriver!(No symbol) [0xd99f24]
+	undetected_chromedriver!GetHandleVerifier [0x11e4bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0x11e0119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0x120103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0xf737f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0xf7a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0xf62d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0xf62ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0xf4c05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x765efcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c843e+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772c840e+ee]
+
+collected_text <<<전체 글 시작>>>
+[[<<애드센스 사이트 추가 총정리 완벽가이드>>]]
+애드센스를 운영하다 보면 새로운 도메인이나 블로그를 추가해야 하는 상황이 자주 발생합니다. 처음 진행하는 분들은 사이트 추가 메뉴를 찾지 못하거나 승인 절차를 혼동하는 경우가 많습니다. 실제로 사이트 등록 자체는 어렵지 않지만 몇 가지 중요한 조건을 놓치면 승인까지 오랜 시간이 걸릴 수 있습니다. 이번 글에서는 애드센스 사이트 추가 방법부터 승인 과정, 주의사항, 승인률을 높이는 방법까지 한 번에 정리해 보겠습니다.
+<h2 style='font-size:26px;' align='left'>애드센스 사이트 추가 방법</h2>
+새로운 웹사이트를 애드센스에 등록하려면 애드센스 관리자 화면에서 사이트 메뉴로 이동해야 합니다.
+<b>기본 등록 절차</b>
+<ul> <li>애드센스 로그인</li> <li>좌측 메뉴에서 사이트 선택</li> <li>사이트 추가 클릭</li> <li>등록할 도메인 입력</li> <li>저장 후 소유권 확인 진행</li> </ul>
+사이트 추가 시에는 일반적으로 루트 도메인을 입력하는 것이 좋습니다. 예를 들어 www.example.com이
+아닌 example.com 형태로 입력하면 하위 주소까지 함께 관리할 수 있습니다.
+또한 일부 플랫폼은 자동으로 인증이 진행되지만, 워드프레스나 자체 제작 사이트의 경우 소유권 확인 코드 삽입이 필요할 수 있습니다.
+<h2 style='font-size:26px;' align='left'>승인 전 반드시 확인해야 할 조건</h2>
+사이트를 추가했다고 바로 광고가 게재되는 것은 아닙니다. 구글은 등록된 사이트를 검토한 뒤 정책에 문제가 없는 경우 승인 절차를 완료합니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">항목</th> <th style="background-color: lightblue; text-align:center">확인 내용</th> </tr> <tr> <td>콘텐츠</td> <td>충분한 게시글 보유</td> </tr> <tr> <td>정책</td> <td>구글 정책 위반 여부</td> </tr> <tr> <td>접근성</td> <td>사이트 정상 접속 가능</td> </tr> <tr> <td>구성</td> <td>메뉴 및 페이지 구성 완성</td> </tr> </table>
+특히 콘텐츠 품질은 매우 중요합니다. 단순 복사 글이나 자동 생성된 내용만 있는 경우 승인 거절 가능성이 높아집니다. 방문자가 실제로 도움이 될 만한 정보를 제공하는 것이 핵심입니다.
+<h2 style='font-size:26px;' align='left'>승인 기간과 자주 발생하는 문제</h2>
+실제 운영 경험상 승인 기간은 사이트 상태에 따라 차이가 있습니다. 빠르면 하루 이내 승인되기도 하지만 길게는 몇 주 이상 걸리는 사례도 있습니다.
+자주 발생하는 문제는 다음과 같습니다.
+<ul> <li>콘텐츠 수 부족</li> <li>사이트 접속 오류</li> <li>정책 페이지 미구성</li> <li>저품질 또는 중복 콘텐츠</li> <li>검색엔진 색인 부족</li> </ul>
+승인이 지연될 경우에는 먼저 색인 상태를 확인하는 것이 좋습니다. 검색엔진에 정상적으로 노출되지 않는 사이트는 검토 과정에서도 불리할 수 있습니다.
+또한 개인정보처리방침, 문의하기, 소개 페이지 등을 준비하면 신뢰도를 높이는 데 도움이 됩니다. 작은 부분 같지만 승인 과정에서는 상당히 중요한 요소로 작용할 수 있습니다.
+<h2 style='font-size:26px;' align='left'>승인률 높이는 실전 팁 총정리</h2>
+애드센스 사이트 추가 후 승인률을 높이려면 단순히 글 개수만 늘리는 것이 아니라 품질 관리가 중요합니다.
+<b>추천 관리 방법</b>
+<ul> <li>최소 20개 이상의 정보성 게시글 작성</li> <li>한 게시글당 충분한 분량 확보</li> <li>이미지와 텍스트 균형 유지</li> <li>복사 콘텐츠 사용 금지</li> <li>정기적인 업데이트 진행</li> </ul>
+특히 신규 사이트의 경우 처음부터 광고 수익만 목적으로 운영하기보다 방문자 만족도를 우선으로 고려하는 것이 좋습니다. 구글은 사용자 경험을 중요하게 평가하기 때문에 체류시간과 콘텐츠 완성도 역시 간접적인 긍정 요소가 될 수 있습니다.
+결론적으로 애드센스 사이트 추가는 어렵지 않지만 승인 과정에서는 세부적인 준비가 필요합니다. 사이트 등록 후 콘텐츠 품질, 정책 준수, 사용자 편의성을 꾸준히 관리한다면 승인 가능성을 높일 수 있습니다. 처음 등록하는 분들도 위 내용을 순서대로 적용하면 보다 안정적으로 애드센스 승인을 진행할 수 있을 것입니다.
+<<<전체 글 끝>>>
+matches2: 애드센스 사이트 추가 총정리 완벽가이드
+text2: 애드센스를 운영하다 보면 새로운 도메인이나 블로그를 추가해야 하는 상황이 자주 발생합니다. 처음 진행하는 분들은 사이트 추가 메뉴를 찾지 못하거나 승인 절차를 혼동하는 경우가 많습니다. 실제로 사이트 등록 자체는 어렵지 않지만 몇 가지 중요한 조건을 놓치면 승인까지 오랜 시간이 걸릴 수 있습니다. 이번 글에서는 애드센스 사이트 추가 방법부터 승인 과정, 주의사항, 승인률을 높이는 방법까지 한 번에 정리해 보겠습니다.
+<h2 style='font-size:26px;' align='left'>애드센스 사이트 추가 방법</h2>
+새로운 웹사이트를 애드센스에 등록하려면 애드센스 관리자 화면에서 사이트 메뉴로 이동해야 합니다.
+<b>기본 등록 절차</b>
+<ul> <li>애드센스 로그인</li> <li>좌측 메뉴에서 사이트 선택</li> <li>사이트 추가 클릭</li> <li>등록할 도메인 입력</li> <li>저장 후 소유권 확인 진행</li> </ul>
+사이트 추가 시에는 일반적으로 루트 도메인을 입력하는 것이 좋습니다. 예를 들어 www.example.com이
+아닌 example.com 형태로 입력하면 하위 주소까지 함께 관리할 수 있습니다.
+또한 일부 플랫폼은 자동으로 인증이 진행되지만, 워드프레스나 자체 제작 사이트의 경우 소유권 확인 코드 삽입이 필요할 수 있습니다.
+<h2 style='font-size:26px;' align='left'>승인 전 반드시 확인해야 할 조건</h2>
+사이트를 추가했다고 바로 광고가 게재되는 것은 아닙니다. 구글은 등록된 사이트를 검토한 뒤 정책에 문제가 없는 경우 승인 절차를 완료합니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">항목</th> <th style="background-color: lightblue; text-align:center">확인 내용</th> </tr> <tr> <td>콘텐츠</td> <td>충분한 게시글 보유</td> </tr> <tr> <td>정책</td> <td>구글 정책 위반 여부</td> </tr> <tr> <td>접근성</td> <td>사이트 정상 접속 가능</td> </tr> <tr> <td>구성</td> <td>메뉴 및 페이지 구성 완성</td> </tr> </table>
+특히 콘텐츠 품질은 매우 중요합니다. 단순 복사 글이나 자동 생성된 내용만 있는 경우 승인 거절 가능성이 높아집니다. 방문자가 실제로 도움이 될 만한 정보를 제공하는 것이 핵심입니다.
+<h2 style='font-size:26px;' align='left'>승인 기간과 자주 발생하는 문제</h2>
+실제 운영 경험상 승인 기간은 사이트 상태에 따라 차이가 있습니다. 빠르면 하루 이내 승인되기도 하지만 길게는 몇 주 이상 걸리는 사례도 있습니다.
+자주 발생하는 문제는 다음과 같습니다.
+<ul> <li>콘텐츠 수 부족</li> <li>사이트 접속 오류</li> <li>정책 페이지 미구성</li> <li>저품질 또는 중복 콘텐츠</li> <li>검색엔진 색인 부족</li> </ul>
+승인이 지연될 경우에는 먼저 색인 상태를 확인하는 것이 좋습니다. 검색엔진에 정상적으로 노출되지 않는 사이트는 검토 과정에서도 불리할 수 있습니다.
+또한 개인정보처리방침, 문의하기, 소개 페이지 등을 준비하면 신뢰도를 높이는 데 도움이 됩니다. 작은 부분 같지만 승인 과정에서는 상당히 중요한 요소로 작용할 수 있습니다.
+<h2 style='font-size:26px;' align='left'>승인률 높이는 실전 팁 총정리</h2>
+애드센스 사이트 추가 후 승인률을 높이려면 단순히 글 개수만 늘리는 것이 아니라 품질 관리가 중요합니다.
+<b>추천 관리 방법</b>
+<ul> <li>최소 20개 이상의 정보성 게시글 작성</li> <li>한 게시글당 충분한 분량 확보</li> <li>이미지와 텍스트 균형 유지</li> <li>복사 콘텐츠 사용 금지</li> <li>정기적인 업데이트 진행</li> </ul>
+특히 신규 사이트의 경우 처음부터 광고 수익만 목적으로 운영하기보다 방문자 만족도를 우선으로 고려하는 것이 좋습니다. 구글은 사용자 경험을 중요하게 평가하기 때문에 체류시간과 콘텐츠 완성도 역시 간접적인 긍정 요소가 될 수 있습니다.
+결론적으로 애드센스 사이트 추가는 어렵지 않지만 승인 과정에서는 세부적인 준비가 필요합니다. 사이트 등록 후 콘텐츠 품질, 정책 준수, 사용자 편의성을 꾸준히 관리한다면 승인 가능성을 높일 수 있습니다. 처음 등록하는 분들도 위 내용을 순서대로 적용하면 보다 안정적으로 애드센스 승인을 진행할 수 있을 것입니다.
+kkq3: 
+kkq4: 
+kkq5: 
+kkq6: 
+kkq7: 
+kkq8: 
+final_img_path C:/Users/a/Documents/image\titled_image.png
+final_img_path C:/Users/a/Documents/image\titled_image.png
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+이미지 경로 :  C:/Users/a/Documents/image\titled_image
+h2 <h2 align="left" style="font-size:26px;">애드센스 사이트 추가 방법</h2>
+double_h2 <h2 align="left" style="font-size:26px;">애드센스 사이트 추가 방법</h2>
+h2 <h2 align="left" style="font-size:26px;">승인 전 반드시 확인해야 할 조건</h2>
+double_h2 <h2 align="left" style="font-size:26px;">승인 전 반드시 확인해야 할 조건</h2>
+h2 <h2 align="left" style="font-size:26px;">승인 기간과 자주 발생하는 문제</h2>
+double_h2 <h2 align="left" style="font-size:26px;">승인 기간과 자주 발생하는 문제</h2>
+h2 <h2 align="left" style="font-size:26px;">승인률 높이는 실전 팁 총정리</h2>
+double_h2 <h2 align="left" style="font-size:26px;">승인률 높이는 실전 팁 총정리</h2>
+제목  애드센스 사이트 추가 총정리 완벽가이드
+[upload_title_image_to_wp] image_path C:/Users/a/Documents/image/titled_image.png
+status: 201
+response: {"id":104,"date":"2026-06-17T14:07:28","date_gmt":"2026-06-17T05:07:28","guid":{"rendered":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg","raw":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg"},"modified":"2026-06-17T14:07:28","modified_gmt":"2026-06-17T05:07:28","slug":"titled_image-33","status":"inherit","type":"attachment","link":"https:\/\/moneyatlas.kr\/titled_image-33\/","title":{"raw":"titled_image","rendered":"titled_image"},"author":1,"featured_media":0,"comment_status":"open","ping_status":"closed","template":"","meta":[],"permalink_template":"https:\/\/moneyatlas.kr\/?attachment_id=104","generated_slug":"titled_image-33","class_list":["post-104","attachment","type-attachment","status-inherit","hentry"],"description":{"raw":"","rendered":"<p class=\"attachment\"><a href='https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"265\" height=\"265\" src=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg 265w, https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32-150x150.jpg 150w\" sizes=\"auto, (max-width: 265px) 100vw, 265px\" \/><\/a><\/p>\n"},"caption":{"raw":"","rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":265,"height":265,"file":"2026\/06\/titled_image-32.jpg","filesize":25160,"sizes":{"thumbnail":{"file":"titled_image-32-150x150.jpg","width":150,"height":150,"filesize":9138,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32-150x150.jpg"},"full":{"file":"titled_image-32.jpg","width":265,"height":265,"mime_type":"image\/jpeg","source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[],"alt":""}},"post":null,"source_url":"https:\/\/moneyatlas.kr\/wp-content\/uploads\/2026\/06\/titled_image-32.jpg","missing_image_sizes":[],"filename":"titled_image-32.jpg","filesize":25160,"exif_orientation":1,"_links":{"self":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/104","targetHints":{"allow":["GET","POST","PUT","PATCH","DELETE"]}}],"collection":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/comments?post=104"}],"wp:action-unfiltered-html":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/104"}],"wp:action-assign-author":[{"href":"https:\/\/moneyatlas.kr\/wp-json\/wp\/v2\/media\/104"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+타이틀 이미지 URL 적용완료: https://moneyatlas.kr/wp-content/uploads/2026/06/titled_image-32.jpg
+성공 code:201
+14시 07분 49초
+시작
+File saved to: D:\A. 바드마스터~굿커스텀 프로그램\워드프레스\logfile.txt
