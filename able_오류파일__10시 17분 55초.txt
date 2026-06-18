@@ -1,0 +1,158 @@
+[AI썸네일] 저장된 설정 불러옴: {'style': '1:1', 'colormode': '선택색 고정', 'text': '용산/교통사고전문변호사', 'titlesize': 135, 'gap': 0}
+[설정복원] 적용: {'loop_forID_time': '60', 'timesleep': '5', 'loop_forID': '100', 'API_check_google': 1, 'API_check_papago': 0, 'CheckVar1_excel': 0, 'secret_temp_check': 1, 'IP_must_check': 0, 'title_gpt_changer': 0}
+학습chatGPT1
+맨위
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\f49b05ad14bf42138416dbd90e06efb4.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\8c29f885aa794afe8260c4736b5aaec0.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\30b4a5a5e0574bb1a285e8741bbb9e93.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+target_time: 2026-06-18 10:16:57
+now: 2026-06-18 10:17:15.692906
+과거 시간 → 즉시 실행
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\c6f1e8d811544e869198319e5fe4e745.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\a42ae43568344ef6b68319fee9824dbf.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\Public\Documents\ESTsoft\CreatorTemp\7ae6322229654b029647dcdb1eb965fa.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+title 용산교통사고전문변호사 피해자전문 무료상담
+전체 키워드 개수 :
+엑셀에 있는 컬럼들: ['제목', '이미지 프롬프트', 'AI이미지 문구', '프롬프트키워드', 'GPT 실패시 참고할 메모장', '프롬프트이미지 경로', '고정이미지', '홍보이미지', '홍보이미지 맨 앞 링크', '슬라이더이미지1', '슬라이더이미지2', '영상URL', '태그', 'Unnamed: 13', '아이디', '비밀번호', '카테고리', '이미지 전화번호', '지도', '백링크1', '백링크2', '백링크3', '아이피 클릭 이미지', '아이피']
+Fix_image_folder,Fix_image_folder 0    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 가해자...
+Name: 고정이미지, dtype: object
+Human_image_folder,Human_image_folder 0    없음
+dtype: object
+TITLE_image_folder,TITLE_image_folder 0    없음
+dtype: object
+keyword_excel_gpt_yong,keyword_excel_gpt_yong 0    용산교통사고전문변호사 피해자전문 무료상담\n용산, 교통사고전문변호사, 피해자전문, ...
+Name: 프롬프트키워드, dtype: object
+keyword_excel_gpt_yong_IMG,keyword_excel_gpt_yong_IMG 0    없음
+Name: 프롬프트이미지 경로, dtype: object
+Added_prompt_insert_IMAGE,Added_prompt_insert_IMAGE 0    교통사고
+Name: 이미지 프롬프트, dtype: object
+hongbo_image_folder,hongbo_image_folder 0    C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 가해자...
+Name: 홍보이미지, dtype: object
+hongbo_link_link,hongbo_link_link 0    https://www.lawks.co.kr/send2/
+Name: 홍보이미지 맨 앞 링크, dtype: object
+video_back_link,video_back_link 0    없음
+Name: 영상URL, dtype: object
+tag_tage,tag_tage 0    교통사고/교통사고변호사/교통사고전문변호사/용산/용산교통사고/용산변호사/피해자전문/상담
+Name: 태그, dtype: object
+fail_GPT_memo,fail_GPT_memo 0    없음
+Name: GPT 실패시 참고할 메모장, dtype: object
+엑셀 개수 1
+지금 아이디 :
+excel_counter 0
+hihiy44
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+name 'win32com' is not defined
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+name 'win32com' is not defined
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+drivr_TEMP 에러 --- 무시 가능
+----------------------------import --------
+에러메세지 이미시 만들기
+name 'win32com' is not defined
+use_note_for_post,use_note_for_post True
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="a6668d57d7a4f2faeb2b3944ea69c319")>
+----------------------------import --------
+에러메세지
+check_word_length 650
+len(kkq) 1
+60
+10시 17분 38초
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 0
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 1
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 2
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 3
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 4
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 5
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 6
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 7
+timeclock_forLoop 60.0
+asdf2 3600
+동작중 8
+시작
+File saved to: C:\Users\A\Desktop\블로그 프로그램\자동프로그램\블로그프로그램 가해자\네이버블로그\logfile.txt
