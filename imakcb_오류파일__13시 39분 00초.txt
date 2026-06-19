@@ -1,0 +1,616 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 11588)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID imakcb
+realPW zxcv75376013aa
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\two-kim\Desktop\shopping-traffic\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:1272:39b5:bc56:140c:b942:d203
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9733.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:9147:7deb:482b:9d95:7535:c4ac
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1169.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:3127:b3e3:482b:9d95:7535:c4ac
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7960.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:11f1:422f:653e:8b0:f639:5ae5
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1098.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:1098:438c:653e:8b0:f639:5ae5
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5323.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:1152:9982:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.2451.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:9141:d4e8:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6284.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:3121:f1a7:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4897.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:1159:a1b1:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8464.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:9141:4fdf:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5985.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:312a:64a5:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.621.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:126f:d9d2:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.249.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:914c:894d:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1355.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:109b:3e40:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9819.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:11ef:b87c:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5557.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:2034:1c8a:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.950.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+크롬드라이버 강제 종료 성공
+외부 IP: 2001:e60:1046:1c7c:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4683.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+[캡차 로컬설치] 체크 상태: 0
+[캡차 로컬설치] 체크 해제
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 16432)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID imakcb
+realPW zxcv75376013aa
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\two-kim\Desktop\shopping-traffic\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:317a:ab9d:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.77.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:11e5:bed0:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.388.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:1066:58ae:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4858.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:3038:169c:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.983.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:11f0:e044:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3310.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+외부 IP: 2001:e60:9061:bb10:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9396.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:11ee:2afd:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6577.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:9365:7f33:f9de:e7f7:fee1:ad1c
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8038.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 연결 실패 — AntiDetect 프로그램이 실행 중인지 확인해주세요
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\two-kim\Desktop\shopping-traffic\logfile.txt
