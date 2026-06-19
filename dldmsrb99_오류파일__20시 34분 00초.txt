@@ -1,0 +1,67 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 5832)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID dldmsrb99
+realPW eun701031@
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\COMu1\Desktop\쇼핑트래픽\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+3
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 183.78.155.242
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5019.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=슈퍼싱글 침대프레임
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%8A%88%ED%8D%BC%EC%8B%B1%EA%B8%80
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8A%88%ED%8D%BC%EC%8B%B1%EA%B8%80+%EC%B9%A8%
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8A%88%ED%8D%BC%EC%8B%B1%EA%B8%80+%EC%B9%A8%EB%8C%80%ED%94%84%EB%A0%88%EC%9E%84
+[가격필터] 적용 시도: 99000 ~ 104000 원
+[가격필터] 보이는 input 3개. 후보: #45[ph=상품명 또는 브랜드 입력/aria=/name=] | #46[ph=0/aria=/name=] | #47[ph=790,000,000/aria=/name=]
+[가격필터] 입력칸발견 min=True max=True, 버튼=True(가격대 검색)
+[가격필터] min 입력값 확인: "99,000"
+[가격필터] max 입력값 확인: "104,000"
+[가격필터] 버튼범위 before=99000-104000 after=99000-104000 (입력 min=99,000 max=104,000)
+[가격필터] "가격대 검색" 버튼 클릭(Selenium 네이티브)
+[가격필터] 버튼 미반응 → 재시도 1/4 (새로고침+재입력+클릭)
+[가격필터] min 입력값 확인: "99,000"
+[가격필터] max 입력값 확인: "104,000"
+[가격필터] 버튼 미반응 → 재시도 2/4 (새로고침+재입력+클릭)
+[가격필터] min 입력값 확인: "99,000"
+[가격필터] max 입력값 확인: "104,000"
+크롬드라이버 강제 종료 성공
+시작
+File saved to: C:\Users\COMu1\Desktop\쇼핑트래픽\logfile.txt
