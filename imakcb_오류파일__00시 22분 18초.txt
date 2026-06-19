@@ -1,0 +1,142 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 9992)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID imakcb
+realPW zxcv75376013aa
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\two-kim\Desktop\shopping-traffic\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:212d:a882:98bf:82df:67b1:83ce
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7421.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[FINDER red] ⚠ AntiDetect 세션 생성 실패 (HTTP 500) — read ECONNRESET
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+realID imakcb
+realPW zxcv75376013aa
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\two-kim\Desktop\shopping-traffic\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:3164:e2b6:98bf:82df:67b1:83ce
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5411.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=-ARG5IiuNKKXPiIGGdS9g 가격대 1416100~1436100 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 1416100~1436100
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 1426100 (가격대내 74개)
+✓ 타겟 발견 — 1페이지 순위1, 가격 1426100
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=RNQjNLEidQcJlgFCZEd7%2F%2F%2F%2F%2Fw%3D%3DsLdzxprV1vO
+진입 완료: https://smartstore.naver.com/papagoz/products/13624897797?NaPm=ct%3Dmql2saow%7Cci%3D2c05e5
+체류 완료(~36s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.41.238
+
+
+
+외부 IP: 2001:e60:1157:56c2:98bf:82df:67b1:83ce
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8926.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[FINDER red] ⚠ AntiDetect 세션 생성 실패 (HTTP 500) — read ECONNRESET
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+2560
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\two-kim\Desktop\shopping-traffic\logfile.txt
