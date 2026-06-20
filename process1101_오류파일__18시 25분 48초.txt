@@ -1,0 +1,177 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 24152)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID process1101
+realPW 7177
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\User\Desktop\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+112
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 59.14.20.180
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5866.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+112
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 59.14.20.180
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 59.14.20.180
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.4423.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+크롬드라이버 강제 종료 성공
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+112
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+realID process1101
+realPW 7177
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\User\Desktop\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+112
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.76.190
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6165.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=온열찜질팩
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%A8%EC%97%B4%EC%B0%9C%EC%A7%88
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%98%A8%EC%97%B4%EC%B0%9C%EC%A7%88%ED%8C%A9
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%98%A8%EC%97%B4%EC%B0%9C%EC%A7%88%ED%8C%A9
+[가격대-트래픽] buildId=-ARG5IiuNKKXPiIGGdS9g 가격대 15000~16000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 15000~16000
+✓ 타겟 발견 — 19페이지 순위34(절대754), 가격 15900 (가격대내 11139개)
+✓ 타겟 발견 — 19페이지 순위34, 가격 15900
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=%2BBhLZSq%2BgqcolDEm0z%2FNzv%2F%2F%2Fw%3D%3DsG6ad7asn
+진입 완료: https://smartstore.naver.com/drtoday/products/13005342343?NaPm=ct%3Dmqm5awwg%7Cci%3Dcad511
+체류 완료(~42s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+112
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6594.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=찜질팩
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%B0%9C%EC%A7%88%ED%8C%A9&ackey=zx
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%B0%9C%EC%A7%88%ED%8C%A9
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%B0%9C%EC%A7%88%ED%8C%A9
+[가격대-트래픽] buildId=-ARG5IiuNKKXPiIGGdS9g 가격대 15000~16000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 15000~16000
+✓ 타겟 발견 — 1페이지 순위20(절대20), 가격 15900 (가격대내 13172개)
+✓ 타겟 발견 — 1페이지 순위20, 가격 15900
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=J2j5rj5eQ%2BPWQWUQiXclIf%2F%2F%2Fw%3D%3DsNr5Ooqq%2FEx
+진입 완료: https://smartstore.naver.com/drtoday/products/13005342343?NaPm=ct%3Dmqm5f4wo%7Cci%3D8b9b11
+체류 완료(~45s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+112
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.175.148
+시작
+File saved to: C:\Users\User\Desktop\logfile.txt
