@@ -1,0 +1,124 @@
+header ('Connection', 'keep-alive')
+buf_head [('User-Agent', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 TungstenBrowser/2.0'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'), ('Accept-Charset', 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'), ('Accept-Encoding', 'none'), ('Accept-Language', 'ko-KR,ko;q=0.8'), ('Connection', 'keep-alive')]
+buf_head[0] ('User-Agent', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 TungstenBrowser/2.0')
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 TungstenBrowser/2.0
+[DPI] 시스템 96 (100%) → 앱 100% 고정 렌더 목표
+[DPI] 실제 CTk widget_scaling=1.0, window_scaling=1.0
+[DPI] customtkinter 버전: 5.2.2
+16
+['회생', '파산', '햇살론', '담보대출', '재테크', '주식', '투자', '소득세', ' ', 'Secret', '400', '네이버 아이디 자동 변경', '10000', '500', '7153454189:-9B1', 'https://chatgpt.com/g/g-69e9786e67d88191a3d27a6252a252a2-neibeojisigin-saramceoreom-dabbyeonhagi']
+['wgkim69', 'wkim#$2600', 'cuad93', 'black2747#$']
+['https://autoprogram1.co.kr/', 'https://autoprogram2.co.kr/', 'https://autoprogram3.co.kr/', 'https://autoprogram4.co.kr/', 'https://autoprogram5.co.kr/']
+['https://autoprogram1.co.kr/', 'https://autoprogram2.co.kr/', 'https://autoprogram3.co.kr/', 'https://autoprogram4.co.kr/', 'https://autoprogram5.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+5
+['없음', '없음', '없음', '없음', '없음']
+[IDPW] 2개 계정 로드: ['wgkim69', 'cuad93']
+[아이콘 적용 실패] bitmap "app_icon.ico" not defined
+[아이콘 적용 실패] bitmap "app_icon.ico" not defined
+[아이콘 적용 실패] bitmap "app_icon.ico" not defined
+학습chatGPT1
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\U\AppData\Local\Temp\9913e4b299f942c6ab9446025809553b.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\U\AppData\Local\Temp\374defafecd342e8beef1e87df647be0.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\U\AppData\Local\Temp\1110878871ab4696a1b0970dc8af9359.pyd
+Running main() from the .pyd file...
+시작
+File saved to: C:\Users\U\Desktop\지식인 자동 프로그램\logfile.txt
+
+===== 발행 결과 목록 (publish_log.txt) =====
+2026-06-16 18:48:15|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=493896616&answerNo=2
+2026-06-16 22:43:32|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60211&docId=493895527&answerNo=5
+2026-06-16 23:11:47|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40107&docId=493887371&answerNo=4
+2026-06-16 23:41:09|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60224&docId=493875049&answerNo=3
+2026-06-17 00:09:26|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=401&docId=493871330&answerNo=2
+2026-06-17 00:37:41|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=601&docId=493865653&answerNo=6
+2026-06-17 01:05:51|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=11003&docId=493856918&answerNo=2
+2026-06-17 01:32:46|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60101&docId=493850438&answerNo=2
+2026-06-17 02:00:39|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=493849096
+2026-06-18 23:27:07|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=403&docId=493937261&answerNo=2
+2026-06-18 23:43:08|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40301&docId=493938909&answerNo=3
+2026-06-18 23:56:51|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40303&docId=493941975&answerNo=3
+2026-06-19 00:10:19|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40105&docId=493404371&answerNo=14
+2026-06-19 00:27:34|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40309&docId=493942728&answerNo=2
+2026-06-19 00:41:02|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40101&docId=493937586&answerNo=2
+2026-06-19 00:54:40|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060101&docId=493942645&answerNo=1
+2026-06-19 01:08:15|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40104&docId=493938569&answerNo=3
+2026-06-19 01:22:03|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=493940525&answerNo=5
+2026-06-19 01:36:37|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=493942554
+2026-06-19 08:53:08|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40603&docId=493943616&answerNo=2
+2026-06-19 09:45:20|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40309&docId=493944352&answerNo=4
+2026-06-19 10:38:32|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40101&docId=493944978&answerNo=2
+2026-06-19 11:33:08|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40102&docId=493945737&answerNo=3
+2026-06-19 13:10:23|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010302&docId=493946942&answerNo=6
+2026-06-19 14:03:06|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40305&docId=493509142&answerNo=5
+2026-06-19 14:56:18|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=108227694&answerNo=18
+2026-06-19 15:53:41|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60220&docId=493950077&answerNo=4
+2026-06-19 16:46:47|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40201&docId=493951036&answerNo=5
+2026-06-19 17:43:22|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40104&docId=493950784&answerNo=4
+2026-06-19 17:59:13|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40303&docId=493951307&answerNo=7
+2026-06-19 18:20:33|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60206&docId=493951954&answerNo=6
+2026-06-19 18:34:10|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=12&dirId=1209200203&docId=493952680&answerNo=1
+2026-06-19 19:31:49|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80902&docId=493953868&answerNo=2
+2026-06-19 19:52:46|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=5020304&docId=493954125&answerNo=1
+2026-06-19 20:18:00|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50201&docId=493954380&answerNo=1
+2026-06-19 20:31:52|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=81302&docId=493954580&answerNo=2
+2026-06-19 20:40:29|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8030207&docId=493954658&answerNo=1
+2026-06-19 20:50:45|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8030201&docId=493954832&answerNo=1
+2026-06-19 21:00:01|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50502&docId=493954951&answerNo=1
+2026-06-19 21:09:21|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=51003&docId=493955063&answerNo=1
+2026-06-19 21:18:38|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110409&docId=493955197&answerNo=1
+2026-06-19 21:29:10|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=614&docId=493955323&answerNo=1
+2026-06-19 21:38:26|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110302&docId=493955428&answerNo=1
+2026-06-19 21:50:32|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3070103&docId=493955564&answerNo=1
+2026-06-21 09:10:25|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=814&docId=493971470&answerNo=1
+2026-06-21 09:51:01|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50302&docId=493971741&answerNo=1
+2026-06-21 10:00:14|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40102&docId=493971797&answerNo=1
+2026-06-21 10:09:28|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8040303&docId=493971843&answerNo=1
+2026-06-21 10:18:43|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60804&docId=493971907&answerNo=1
+2026-06-21 10:31:31|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=493942554
+2026-06-21 11:15:17|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070402&docId=493972335&answerNo=1
+2026-06-21 11:47:20|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=493972606&answerNo=2
+2026-06-21 11:58:36|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30511&docId=493972724&answerNo=1
+2026-06-21 12:10:54|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60902&docId=493972801&answerNo=1
+2026-06-21 12:24:54|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=1106&docId=493954927&answerNo=1
+2026-06-21 12:37:30|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=5030104&docId=493973075&answerNo=1
+2026-06-21 12:46:49|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=493973133&answerNo=3
+2026-06-21 12:56:10|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=493973210&answerNo=2
+2026-06-21 13:08:26|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=493973289&answerNo=2
+2026-06-21 13:17:46|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080103&docId=493973420&answerNo=1
+2026-06-21 13:28:03|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31501&docId=493973539&answerNo=2
+2026-06-21 13:37:20|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=814&docId=493973612&answerNo=1
+2026-06-21 13:47:48|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=493973736&answerNo=2
+2026-06-21 13:57:09|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3070105&docId=493973836&answerNo=2
+2026-06-21 14:06:32|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=9&dirId=902&docId=493973909&answerNo=3
+2026-06-21 14:16:07|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60215&docId=493973991&answerNo=1
+2026-06-21 14:25:26|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=493974105&answerNo=1
+2026-06-21 14:34:45|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40102&docId=493974169&answerNo=2
+2026-06-21 14:44:09|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30502&docId=493974287&answerNo=1
+2026-06-21 14:56:37|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110703&docId=493974379&answerNo=2
+2026-06-21 15:06:53|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=100102&docId=493974495&answerNo=1
+2026-06-21 15:16:15|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60220&docId=493974603&answerNo=2
+2026-06-21 15:25:34|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6100101&docId=493974674&answerNo=1
+2026-06-21 15:34:57|wgkim69|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8110203&docId=493974789&answerNo=2
+
+===== GPT 수집/답변 기록 =====
+(GPT 수집 기록 없음)
