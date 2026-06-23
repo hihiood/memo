@@ -1,0 +1,40 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+시작
+realID dldmsrb99
+realPW eun701031@
+로그인 성공
+모드5(오늘의집)
+외부 IP: 121.126.2.188
+  [IP변경] AltQ(청춘IP/보나넷) 시작 (현재IP=121.126.2.188, AntiDetect=True)
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.253.85
+  [IP변경] ✓ 121.126.2.188 → 49.254.253.85
+  [안정화] AltQ IP변경 후 네트워크 안정화 15초 대기...
+[안정화] AltQ IP변경 후 15초 딜레이
+모든 Chrome 프로세스를 종료했습니다.
+[시도 1] 슈퍼싱글 침대프레임
+  [포커스] 지킴이 시작
+[DEBUG][오늘의집] 탭0: goods=13 url=https://ohou.se/productions/feed?query=%EC%8A%88%ED%8D%BC%EC%8B%B1%EA%B8%80%20%EC%B9%A8%EB%8C%80%ED%94%84%EB%A0%88%EC%9E%84
+  [검색] 상품 216개 로딩됨
+[DEBUG][오늘의집] 상품 덤프 실패(evaluate): TimeoutError: 
+[DEBUG][오늘의집] 상품 덤프 실패(evaluate): TimeoutError: 
+  [상품] 못찾음: 철제 침대프레임 슈퍼싱글 퀸 무헤드 조립식 수납침대 S/SS/Q (화이트/블랙)
+  [체류] 체류 시작 (30초)
+  [체류] 체류 끝 (30초)
+모든 Chrome 프로세스를 종료했습니다.
+[IP] https://api64.ipify.org 실패 (returncode 1)
+외부 IP: 49.254.253.85
+  [IP변경] AltQ(청춘IP/보나넷) 시작 (현재IP=49.254.253.85, AntiDetect=True)
+IP 변경중 (청춘IP 시도 1/10)...
+크롬드라이버 강제 종료 성공
+외부 IP: 49.254.253.84
+  [IP변경] ✓ 49.254.253.85 → 49.254.253.84
+  [안정화] AltQ IP변경 후 네트워크 안정화 15초 대기...
+[안정화] AltQ IP변경 후 15초 딜레이
+모든 Chrome 프로세스를 종료했습니다.
+[시도 1] 슈퍼싱글 침대프레임
+모든 Chrome 프로세스를 종료했습니다.
+[최종] 2세션 | 통과 1 | 차단 1 | 누적 0.0MB
+시작
+File saved to: C:\Users\COMu1\Desktop\쇼핑트래픽\logfile.txt
