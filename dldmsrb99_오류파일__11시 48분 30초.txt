@@ -1,0 +1,47 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] 음성캡차2 다운로드 중... (약 3GB)
+[LOCAL STT] 음성캡차2 (약 3GB) 다운로드 에러: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\dldms\\Desktop\\large-v3.zip' url=https://pub-6d9f21b77f0e4f26a6923527952354ee.r2.dev/large-v3.zip
+[LOCAL STT] 실패 지점: 음성캡차2(모델 3GB) 다운로드
+시작
+realID dldmsrb99
+realPW eun701031@
+로그인 성공
+모드5(오늘의집)
+외부 IP: 180.66.24.130
+  [IP변경] AltQ(청춘IP/보나넷) 시작 (현재IP=180.66.24.130, AntiDetect=True)
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 180.66.24.130
+  [IP변경] ⚠ IP 안 바뀜 (현재=180.66.24.130) — 보나넷 관리자권한/핫키 확인 필요
+모든 Chrome 프로세스를 종료했습니다.
+[FINDER red] ⚠ AntiDetect 인증 실패 — API 키가 올바른지 확인해주세요 (대시보드의 SDK 키)
+⚠ AntiDetect 일시 오류(브라우저는 실행 중) — 잠시 후 다시 시도합니다
+외부 IP: 124.198.77.147
+  [IP변경] AltQ(청춘IP/보나넷) 시작 (현재IP=124.198.77.147, AntiDetect=True)
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.81.83
+  [IP변경] ✓ 124.198.77.147 → 121.126.81.83
+모든 Chrome 프로세스를 종료했습니다.
+[FINDER red] ⚠ AntiDetect 인증 실패 — API 키가 올바른지 확인해주세요 (대시보드의 SDK 키)
+⚠ AntiDetect 일시 오류(브라우저는 실행 중) — 잠시 후 다시 시도합니다
+외부 IP: 121.126.81.83
+  [IP변경] AltQ(청춘IP/보나넷) 시작 (현재IP=121.126.81.83, AntiDetect=True)
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.124.129
+  [IP변경] ✓ 121.126.81.83 → 115.144.124.129
+모든 Chrome 프로세스를 종료했습니다.
+[FINDER red] ⚠ AntiDetect 인증 실패 — API 키가 올바른지 확인해주세요 (대시보드의 SDK 키)
+⚠ AntiDetect 일시 오류(브라우저는 실행 중) — 잠시 후 다시 시도합니다
+외부 IP: 115.144.124.129
+  [IP변경] AltQ(청춘IP/보나넷) 시작 (현재IP=115.144.124.129, AntiDetect=True)
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.147.198
+  [IP변경] ✓ 115.144.124.129 → 125.7.147.198
+모든 Chrome 프로세스를 종료했습니다.
+[FINDER red] ⚠ AntiDetect 인증 실패 — API 키가 올바른지 확인해주세요 (대시보드의 SDK 키)
+⚠ AntiDetect 일시 오류(브라우저는 실행 중) — 잠시 후 다시 시도합니다
+시작
+File saved to: C:\트래픽\logfile.txt
