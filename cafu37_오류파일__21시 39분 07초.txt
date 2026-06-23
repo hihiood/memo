@@ -1,0 +1,8379 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 7360)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.166.123
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3727.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 4, 7, 9, 6, 4 → digits: 547964
+변환된 텍스트: 547964
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 2, 4, 6, 1, 3 → digits: 224613
+변환된 텍스트: 224613
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqini20%7Cci%3Dc9ebda1901fb0e524a318fa897d5133616e5f36c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D26c899816d0b37c258e4a54b1d71b326ec5098ea&nl-au=ad11a66196f2484f9dfc24c27af997c6&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqini20%7Cci%3Dc9ebda1901fb0e524a318fa897d5133616e5f36c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D26c899816d0b37c258e4a54b1d71b326ec5098ea&nl-au=ad11a66196f2484f9dfc24c27af997c6&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqini20%7Cci%3Dc9ebda1901fb0e524a318fa897d5133616e5f36c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D26c899816d0b37c258e4a54b1d71b326ec5098ea&nl-au=ad11a66196f2484f9dfc24c27af997c6&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqini20%7Cci%3Dc9ebda1901fb0e524a318fa897d5133616e5f36c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D26c899816d0b37c258e4a54b1d71b326ec5098ea&nl-au=ad11a66196f2484f9dfc24c27af997c6&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.147.98
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8970.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+쇼핑
+---여기
+카페
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+카페
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4  4  5  5  9  2 → digits: 445592
+변환된 텍스트: 445592
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7  4  9  7  8  9 → digits: 749789
+변환된 텍스트: 749789
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqisgao%7Cci%3Dc296d711e05c321194348b805ec29a23d65d0d82%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D50b59646e5ec0a05e94967322cfc5cf60a186e39&nl-au=5397607f80124bd1bfc268a4d245c8af&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqisgao%7Cci%3Dc296d711e05c321194348b805ec29a23d65d0d82%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D50b59646e5ec0a05e94967322cfc5cf60a186e39&nl-au=5397607f80124bd1bfc268a4d245c8af&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqisgao%7Cci%3Dc296d711e05c321194348b805ec29a23d65d0d82%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D50b59646e5ec0a05e94967322cfc5cf60a186e39&nl-au=5397607f80124bd1bfc268a4d245c8af&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqisgao%7Cci%3Dc296d711e05c321194348b805ec29a23d65d0d82%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D50b59646e5ec0a05e94967322cfc5cf60a186e39&nl-au=5397607f80124bd1bfc268a4d245c8af&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.173.127
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6897.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 5, 4, 1, 9, 2 → digits: 154192
+변환된 텍스트: 154192
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 1, 4, 8, 1, 8 → digits: 514818
+변환된 텍스트: 514818
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqixczs%7Cci%3Dbe2e72f33053c909432135e80b87b5465305b5fc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7487de78de18a0604d8eadd33eede33acab2ff78&nl-au=c4d959d75ba546dbabf8fe50e00ea916&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqixczs%7Cci%3Dbe2e72f33053c909432135e80b87b5465305b5fc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7487de78de18a0604d8eadd33eede33acab2ff78&nl-au=c4d959d75ba546dbabf8fe50e00ea916&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqixczs%7Cci%3Dbe2e72f33053c909432135e80b87b5465305b5fc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7487de78de18a0604d8eadd33eede33acab2ff78&nl-au=c4d959d75ba546dbabf8fe50e00ea916&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqixczs%7Cci%3Dbe2e72f33053c909432135e80b87b5465305b5fc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7487de78de18a0604d8eadd33eede33acab2ff78&nl-au=c4d959d75ba546dbabf8fe50e00ea916&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.130.136
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7623.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 6, 3, 8, 8, 7 → digits: 763887
+변환된 텍스트: 763887
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯  하나  다섯  아홉  둘  넷 → digits: 515924
+변환된 텍스트: 515924
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj1zns%7Cci%3Deab804a0492f3d79d2fa201ac591ab416e6f056b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D5d3d7eb84ef1e81652d914ae57d73c451e9b7590&nl-au=a3a824c919504064ba4be460f79f8072&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj1zns%7Cci%3Deab804a0492f3d79d2fa201ac591ab416e6f056b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D5d3d7eb84ef1e81652d914ae57d73c451e9b7590&nl-au=a3a824c919504064ba4be460f79f8072&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj1zns%7Cci%3Deab804a0492f3d79d2fa201ac591ab416e6f056b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D5d3d7eb84ef1e81652d914ae57d73c451e9b7590&nl-au=a3a824c919504064ba4be460f79f8072&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj1zns%7Cci%3Deab804a0492f3d79d2fa201ac591ab416e6f056b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D5d3d7eb84ef1e81652d914ae57d73c451e9b7590&nl-au=a3a824c919504064ba4be460f79f8072&nl-query=tv%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 183.78.134.119
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6049.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉  다섯  여섯  일곱  하나  아홉 → digits: 956719
+변환된 텍스트: 956719
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4  4  8  2  4  1 → digits: 448241
+변환된 텍스트: 448241
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj70zk%7Cci%3D0abff1b0c2f31fa149bec993186186fad7a8cff6%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcad7dd69fdde94cf28565845738e5571bacc8f14&nl-au=0c33c2b682174dc68b46c9c732e74717&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj70zk%7Cci%3D0abff1b0c2f31fa149bec993186186fad7a8cff6%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcad7dd69fdde94cf28565845738e5571bacc8f14&nl-au=0c33c2b682174dc68b46c9c732e74717&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj70zk%7Cci%3D0abff1b0c2f31fa149bec993186186fad7a8cff6%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcad7dd69fdde94cf28565845738e5571bacc8f14&nl-au=0c33c2b682174dc68b46c9c732e74717&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqj70zk%7Cci%3D0abff1b0c2f31fa149bec993186186fad7a8cff6%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcad7dd69fdde94cf28565845738e5571bacc8f14&nl-au=0c33c2b682174dc68b46c9c732e74717&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.181.148
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6648.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 7, 1, 2, 4, 8 → digits: 271248
+변환된 텍스트: 271248
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 6, 2, 2, 9, 3 → digits: 762293
+변환된 텍스트: 762293
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjbvdc%7Cci%3Df5ba297803aad4a1210778eb510f68809a8f9779%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Debde0d4be60a7e60355f944cfcd8a9d59e804ac9&nl-au=3200cefceebf4d8eb8ad68d229deac92&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjbvdc%7Cci%3Df5ba297803aad4a1210778eb510f68809a8f9779%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Debde0d4be60a7e60355f944cfcd8a9d59e804ac9&nl-au=3200cefceebf4d8eb8ad68d229deac92&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjbvdc%7Cci%3Df5ba297803aad4a1210778eb510f68809a8f9779%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Debde0d4be60a7e60355f944cfcd8a9d59e804ac9&nl-au=3200cefceebf4d8eb8ad68d229deac92&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjbvdc%7Cci%3Df5ba297803aad4a1210778eb510f68809a8f9779%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Debde0d4be60a7e60355f944cfcd8a9d59e804ac9&nl-au=3200cefceebf4d8eb8ad68d229deac92&nl-query=tv%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 6
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.139.18
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3291.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=ssi몰
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나, 다섯, 셋, 여덟, 둘 → digits: 15382
+변환된 텍스트: 15382
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 5, 5, 6, 8, 5 → digits: 955685
+변환된 텍스트: 955685
+check_word 길이 : 6
+총-----> 2번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 서버 마더보드 IPMI 16DIMM 3647 C621 SSI EEB DDR4 Z11PRD16
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 수중 전용 엔코더 RS485 SSI 4-20mA 아날로그 IP68 절대 위치
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF38 전자 다중 단일 절대 값 인코더 SPI SSI 신호 출력 각도 계산 센서
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> SSI091SN-A1-2-TRN 실크 스크린 SSI091SN 패치 SSOP-28 원본
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 10 개 세트 TO-220 SQP50P03-07 SSF8509 SSI4N80A SSP10N05
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 비접촉식 디지털 전위차계 마그네틱 홀 인코더 각도 속도 센서 1-5V SSI IIC ABZ 출력 P3022
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF700 SSI 신호 감지 테이블 절대 값 직렬 포트 데이터 수집 컨트롤러 485 디지털 디스플레이
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF 하프 에어 증분 펄스 절대 값 SSI 아날로그 수량 0-10V 4-20mA RS485 인코더
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 8
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 8, 9, 6, 2 → digits: 78962
+변환된 텍스트: 78962
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 4, 9, 7, 9, 5 → digits: 449795
+변환된 텍스트: 449795
+check_word 길이 : 6
+총-----> 2번째 만에 성공
+성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjhcwg%7Cci%3De7d704b98bce71bb3ce0e6d865d128b2f9e6542c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D6aa250d40bd08c908df50110a6c56a6a7a220f7b&nl-au=03f87205aa884607b46a3d066743f980&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjhcwg%7Cci%3De7d704b98bce71bb3ce0e6d865d128b2f9e6542c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D6aa250d40bd08c908df50110a6c56a6a7a220f7b&nl-au=03f87205aa884607b46a3d066743f980&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjhcwg%7Cci%3De7d704b98bce71bb3ce0e6d865d128b2f9e6542c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D6aa250d40bd08c908df50110a6c56a6a7a220f7b&nl-au=03f87205aa884607b46a3d066743f980&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqjhcwg%7Cci%3De7d704b98bce71bb3ce0e6d865d128b2f9e6542c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D6aa250d40bd08c908df50110a6c56a6a7a220f7b&nl-au=03f87205aa884607b46a3d066743f980&nl-query=ssi%EB%AA%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 7
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.89.168
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7440.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱  여덟  여섯  다섯  여섯  일곱 → digits: 786567
+변환된 텍스트: 786567
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 8
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.133.98
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1519.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 8, 3, 5, 3, 7 → digits: 383537
+변환된 텍스트: 383537
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 9
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.104.98
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.138.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 다섯 일곱 셋 일곱 다섯 → digits: 157375
+변환된 텍스트: 157375
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 10
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.52.18
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8564.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4  6  5  4  9  8 → digits: 465498
+변환된 텍스트: 465498
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 11
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.150.233
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.215.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3  9  2  8  9  3 → digits: 392893
+변환된 텍스트: 392893
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 12
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.206.178
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5018.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv화면보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 3, 7, 6, 2, 1 → digits: 737621
+변환된 텍스트: 737621
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 13
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.113.115
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8217.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비화면보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5  3  8  4  3  2 → digits: 538432
+변환된 텍스트: 538432
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 14
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.23.222
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.403.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7  2  2  1  9  2 → digits: 722192
+변환된 텍스트: 722192
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EC%BB%A4%EB%B2%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 15
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.196.86
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9004.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10 → digits: 123456
+변환된 텍스트: 123456
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 16
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.159.83
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3450.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 1, 4, 3, 6 → digits: 31436
+변환된 텍스트: 31436
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 4, 4, 7, 3, 7 → digits: 444737
+변환된 텍스트: 444737
+check_word 길이 : 6
+총-----> 2번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 6, 5, 6, 9, 5 → digits: 465695
+변환된 텍스트: 465695
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkb0sw%7Cci%3Ddb684e225d99b60893425ecc66214038a8a7c4a9%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D49fc1c7e2bb3333705e0f90cb34c790dc81e4540&nl-au=ef79810e41a54bcab52fc228e10a0a0b&nl-query=tv%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkb0sw%7Cci%3Ddb684e225d99b60893425ecc66214038a8a7c4a9%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D49fc1c7e2bb3333705e0f90cb34c790dc81e4540&nl-au=ef79810e41a54bcab52fc228e10a0a0b&nl-query=tv%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkb0sw%7Cci%3Ddb684e225d99b60893425ecc66214038a8a7c4a9%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D49fc1c7e2bb3333705e0f90cb34c790dc81e4540&nl-au=ef79810e41a54bcab52fc228e10a0a0b&nl-query=tv%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkb0sw%7Cci%3Ddb684e225d99b60893425ecc66214038a8a7c4a9%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D49fc1c7e2bb3333705e0f90cb34c790dc81e4540&nl-au=ef79810e41a54bcab52fc228e10a0a0b&nl-query=tv%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 17
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.244.127
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.894.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비액정보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8  7  7  8  7  6 → digits: 877876
+변환된 텍스트: 877876
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 18
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.139.16
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3420.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=lg티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=lg%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 3, 1, 5, 4, 8 → digits: 231548
+변환된 텍스트: 231548
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=lg%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 19
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+[TMP 정리] 삭제:32 건너뜀:19 (C:\Users\cafu0\AppData\Local\Temp)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.135.253
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7435.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 6, 7, 4, 8 → digits: 96748
+변환된 텍스트: 96748
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 7, 4, 2, 1 → digits: 97421
+변환된 텍스트: 97421
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8, 7, 8, 3, 6, 9 → digits: 878369
+변환된 텍스트: 878369
+check_word 길이 : 6
+총-----> 3번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 2, 8, 4, 8, 8 → digits: 628488
+변환된 텍스트: 628488
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkn5j4%7Cci%3D467f77d5a0eef1fa04c720857a3327ccaedbd16a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df7ba1e511cfa79236bd5fb93c41855551bea1294&nl-au=a86e4d60c3db41019dcf02dbb378db87&nl-query=tv%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkn5j4%7Cci%3D467f77d5a0eef1fa04c720857a3327ccaedbd16a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df7ba1e511cfa79236bd5fb93c41855551bea1294&nl-au=a86e4d60c3db41019dcf02dbb378db87&nl-query=tv%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkn5j4%7Cci%3D467f77d5a0eef1fa04c720857a3327ccaedbd16a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df7ba1e511cfa79236bd5fb93c41855551bea1294&nl-au=a86e4d60c3db41019dcf02dbb378db87&nl-query=tv%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqkn5j4%7Cci%3D467f77d5a0eef1fa04c720857a3327ccaedbd16a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df7ba1e511cfa79236bd5fb93c41855551bea1294&nl-au=a86e4d60c3db41019dcf02dbb378db87&nl-query=tv%EB%B3%B4%ED%98%B8
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 20
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.11.121
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5008.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호대
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EB%8C%80
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 2, 8, 6, 6, 4 → digits: 328664
+변환된 텍스트: 328664
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EB%8C%80
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 21
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.23.220
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5621.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=oled더세리프삼성
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=oled%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EC%82%BC%EC%84%B1
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8, 8, 6, 8, 8, 4 → digits: 886884
+변환된 텍스트: 886884
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=oled%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EC%82%BC%EC%84%B1
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 22
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.108.8
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.527.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+이미지
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+이미지
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+이미지
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+이미지
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+이미지
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=블루라이트차단필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 6, 2, 1, 4, 8 → digits: 162148
+변환된 텍스트: 162148
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8%ED%95%84%EB%A6%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 23
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.68.62
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6964.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성커버tv
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EC%BB%A4%EB%B2%84tv
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 6, 2, 2, 1, 7 → digits: 562217
+변환된 텍스트: 562217
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EC%BB%A4%EB%B2%84tv
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 24
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.251.193
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9351.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=썬가드광학2026년티비보호기신형tv액정필름화면보호대커버블루라이트차단가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%992026%EB%85%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%8B%A0%ED%98%95tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EB%8C%80%EC%BB%A4%EB%B2%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 6, 7, 5, 1, 6 → digits: 367516
+변환된 텍스트: 367516
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%992026%EB%85%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%8B%A0%ED%98%95tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EB%8C%80%EC%BB%A4%EB%B2%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 25
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.11.126
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.2296.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기tv보호가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 다섯 여섯 하나 여섯 여섯 → digits: 956166
+변환된 텍스트: 956166
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 26
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.162.183
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7313.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=커버tv보호대
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%BB%A4%EB%B2%84tv%EB%B3%B4%ED%98%B8%EB%8C%80
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나, 여덟, 셋, 다섯, 셋 → digits: 18353
+변환된 텍스트: 18353
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7 6 7 7 7 2 → digits: 767772
+변환된 텍스트: 767772
+check_word 길이 : 6
+총-----> 2번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%BB%A4%EB%B2%84tv%EB%B3%B4%ED%98%B8%EB%8C%80
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷, 셋, 여섯, 하나, 셋, 둘 → digits: 436132
+변환된 텍스트: 436132
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqql7x7s%7Cci%3Dafb4dd9bf12be410ce2588e3f6303fb797af4cd3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df03ffb6f617ccd410d8efad8f671a56cd38ad6a1&nl-au=f522e8eb5b9548cdb3b8b91a09be585d&nl-query=%EC%BB%A4%EB%B2%84tv%EB%B3%B4%ED%98%B8%EB%8C%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqql7x7s%7Cci%3Dafb4dd9bf12be410ce2588e3f6303fb797af4cd3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df03ffb6f617ccd410d8efad8f671a56cd38ad6a1&nl-au=f522e8eb5b9548cdb3b8b91a09be585d&nl-query=%EC%BB%A4%EB%B2%84tv%EB%B3%B4%ED%98%B8%EB%8C%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqql7x7s%7Cci%3Dafb4dd9bf12be410ce2588e3f6303fb797af4cd3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df03ffb6f617ccd410d8efad8f671a56cd38ad6a1&nl-au=f522e8eb5b9548cdb3b8b91a09be585d&nl-query=%EC%BB%A4%EB%B2%84tv%EB%B3%B4%ED%98%B8%EB%8C%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqql7x7s%7Cci%3Dafb4dd9bf12be410ce2588e3f6303fb797af4cd3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df03ffb6f617ccd410d8efad8f671a56cd38ad6a1&nl-au=f522e8eb5b9548cdb3b8b91a09be585d&nl-query=%EC%BB%A4%EB%B2%84tv%EB%B3%B4%ED%98%B8%EB%8C%80
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 27
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.82.57
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.2450.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=썬가드광학lg순위
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg%EC%88%9C%EC%9C%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯  둘  여섯  일곱  아홉  여덟 → digits: 526798
+변환된 텍스트: 526798
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg%EC%88%9C%EC%9C%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 28
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.106.121
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7529.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정더프레임
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8, 2, 6, 7, 8, 5 → digits: 826785
+변환된 텍스트: 826785
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 29
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.68.57
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9477.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정보호
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 4, 5, 5, 3, 3 → digits: 945533
+변환된 텍스트: 945533
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 30
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.162.179
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.540.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=qledoled액정필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=qledoled%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7  9  2  5  1  1 → digits: 792511
+변환된 텍스트: 792511
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=qledoled%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 31
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.253.159
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3442.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=lg65인치화면보호
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=lg65%EC%9D%B8%EC%B9%98%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 8, 5, 7, 6, 7 → digits: 185767
+변환된 텍스트: 185767
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=lg65%EC%9D%B8%EC%B9%98%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 32
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.113.113
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.2324.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=qled썬가드광학
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=qled%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5. 6. 8. 5. 3. 2. → digits: 568532
+변환된 텍스트: 568532
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=qled%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 4, 7, 7, 5, 7 → digits: 947757
+변환된 텍스트: 947757
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+크롬드라이버 강제 종료 성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 33
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.147.12
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.2833.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 7, 2, 7 → digits: 3727
+변환된 텍스트: 3727
+check_word 길이 : 4
+영수증 캡차 
+* recording
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+크롬드라이버 강제 종료 성공
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다음 영상에서 만나요. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.234.107
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5679.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 2, 8, 5, 6, 9 → digits: 628569
+변환된 텍스트: 628569
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.156); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168378fd]
+	chromedriver_149!(No symbol) [0x7ff616822d72]
+	chromedriver_149!(No symbol) [0x7ff616849046]
+	chromedriver_149!(No symbol) [0x7ff6168c1480]
+	chromedriver_149!(No symbol) [0x7ff6168de3d2]
+	chromedriver_149!(No symbol) [0x7ff616883a58]
+	chromedriver_149!(No symbol) [0x7ff616884953]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09984+1ef84]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09b14+1f114]
+	chromedriver_149!GetHandleVerifier [0x7ff616ceca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+크롬드라이버 강제 종료 성공
+IP 변경중 (청춘IP 시도 1/10)...
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+외부 IP: 121.126.103.70
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3418.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.141.127
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6768.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+---여기
+지식iN
+블로그
+---여기
+---여기
+인플루언서
+카페
+---여기
+---여기
+동영상
+이미지
+---여기
+---여기
+쇼핑
+클립
+---여기
+---여기
+뉴스
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+영수증 캡차 
+---여기
+블로그
+---여기
+* recording
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+* done recording
+--로컬 STT 분석 시작
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+[LOCAL STT] recognized:  5, 2, 8, 5, 8, 4 → digits: 528584
+변환된 텍스트: 528584
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+flick_bx 탭 이동 10회 실패 → 페이지 오류
+[진단] 예외타입: Exception
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84&ackey=duvn0lk9
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+블로그
+카페
+이미지
+클립
+지식iN
+인플루언서
+동영상
+쇼핑
+뉴스
+숏텐츠
+어학사전
+지도
+도서
+지식백과
+검색옵션
+네이버로그인
+와이케이스
+ycase.kr
+S25 필름은 와이케이스! 재구매 10% 추가 할인
+케이스만 생폰 감성으로 쓰시나요? 필름도 생폰 감성 그대로
+할인
+지금만 1+1 특가
+액정보호필름
+사생활보호
+S25 필름
+갤럭시필름
+사생활보호
+렌즈보호필름
+브이가드
+brand.naver.com/vgard/
+브이가드
+자동차 프로텍션 전문브랜드 브이가드 PPF 본사 /셀프PPF
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.218.5
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.948.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+외부 IP: 115.144.218.5
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.126.86
+---여기
+쇼핑
+---여기
+카페
+---여기
+블로그
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4134.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+RE 저도 와이프가 하자고 하던데 제가 하지말자고 했습니다 이유는 1. 장난감을 안 던지게 교육하는게 우선이다 2. 대가 비싸다 제기억
+---여기
+RE 티비 썬가드 가격이 좀 나갑니다. 70인치 이상이면 가격이 20만 이상인걸로 아는데 아이들 교육 시킨다고 치는건 막기가 어려우니 고가
+---여기
+RE 저희는 애들은 안던지는데 마눌몬이 승질난다고 안마하는링을 바닥에 집어던졌는데 그게 바닥을 바운스해서 화면에 명중했어요. 130만
+---여기
+RE 아이가 장난감방망이로 거실tv 액정 깨는 너튜브 영상 봤는데 제가 마음이 너무 아프더라구요 ㅠㅠ
+---여기
+RE 저는 9월 예정일이라 그때 사려고 하는데.. 윗분처럼 못하게 교육하는게 우선이긴 하지만, 아기가 처음부터 말을 알아듣는 것도 아니고
+---여기
+RE 나중에 후회 하지 마시고... 티비가 보호되야 할 가치가 있다면 무조건 애기때에는 가드가 필요합니다. 저도 애 둘 키우다보니 첫째때 애가
+---여기
+더보기
+---여기
+RE 우린 팔았어 ㅋㅋ 그리고 침실에 스탠바이미 두고 필요할 때만 보여줘 ㅎㅎㅎ
+---여기
+RE 티비 근처에서 장난감 휘두르면 못하게 하고 조심 시키는 중 ㅠ ㅋㅋㅋ 며칠 전 할머니집에서 효자손을 앞에서 휘두르길래 후다닥
+---여기
+RE 우리는 티비에 손만 근처에 가도 안된다해서 그런지 아들둘인데 14년 됐는데 멀쩡해.......
+---여기
+더보기
+---여기
+RE 본인 어렸을 때 집에 TV보호기가 있었나요?
+---여기
+RE 성향에 따라 다르긴한데 저희는 티비 근처도 못가게해서
+---여기
+RE 가드 안했는데 그냥 버텨봅니다ㅋㅋ 22, 24년생 아들 둘 아빠
+---여기
+RE 저희도 아이가 티비를 손으로 만지기 시작해서 먼가 불안해서 보호기 설치했어요 하고 나면 마음이 편해요
+---여기
+더보기
+---여기
+RE TV보호기로 티비 생명 약 295738934번 정도 살렸습니다. 갑자기 장난감(원목 플라스틱 등) 던지는데 로 가고요 공놀이하다가 치고
+---여기
+RE 저희 남아 4살 안될때 자기가 좋아하는 공룡을 86인치 티비에 던져서 티비가 완.전.박.살 나고.. 액정수리 가격 알아보면서 공동구매로
+---여기
+더보기
+---여기
+RE 요즘 애들 스마트폰에 티비때문에 안경 빨리 쓰더라구여 저도 어제 첫째 안경하고 왔어여..ㅠ
+---여기
+RE 저희집은 라베스토 티비보호기 했는데 선명해서 괜춘해욤~ 보호기 씌워놔도 블루라이트 차단되는 거지 화질은 그대로라 처
+---여기
+더보기
+---여기
+RE 주문하는게 티비살리는거예요.. 어쩐지 단지내 무료나눔하니까 진짜금방가져가더라고요.ㅋㅋ
+---여기
+RE 네넵 완전 추천해요! 애기가 장난감으로 툭툭 치기만해도 액정 쉽게 나갈까봐 마음이 아주 불안했거든요 ㅠㅠ
+---여기
+RE 네~ 안 그래도 지난번에 애기가 플라스틱 장난감 칼로 막 두드렸거든요~ㅠ.. 진짜 깜짝놀라서 빨리 제지하긴 했는데 다행히 액정은 무사
+---여기
+더보기
+---여기
+RE 헉 저희는 아기 크기전에 티비 안방으로 옮기려구요ㅠㅠ
+---여기
+RE 저희도 둘째가 티비 해먹었던 ㅋㅋㅋㅋ 고치는값도 많이 들어서 그때 마침 인터넷바꾸면 준다해서 인테넷 바꾸면서 사은품으로 삼
+---여기
+RE 중앙이라 신경 많이 쓰일것 같은데 일단 수리견적부터 확인 해 보세요 ㅠㅠㅠ
+---여기
+더보기
+---여기
+RE 오 신기하네요!! 75인치 티비는 없지만 좋은 정보 알아갑니당~~^_^b
+---여기
+RE 와...이걸 알았으면 재작년 티비 하나 아직 살아있었을텐데...후...
+---여기
+더보기
+---여기
+RE 개인적으로 추천드려요~ 저는 잡고 서기 시작할때 구매했는데, 보호기 해두니 티비 앞에 있어도 마음이 편안하더라고요~ 65인치 16만원 정
+---여기
+RE 추천합니다! 주변에 티비..액정 나간 집 많아요…!!!!
+---여기
+RE 저는 아이스*몰에서 했어요. 근데 회사가 많이 있는 걸로 알아요. 유튜브 보시면서 리뷰보시구 결정하셔요.
+---여기
+더보기
+---여기
+RE 저희 남편도.. 티비관련해서는 엄청 예민하고 엄하게 굴어서 그런지 알아서 조심하더라구요?ㅋㅋㅋㅋ
+---여기
+RE 저희도 티비 보호기 했어요 티비 패널고장한번나고 바로 구입했습니다 블루라이트 차단도된다고 해서 니즈프렌에서 상품할인받고 주문했
+---여기
+더보기
+---여기
+RE 애들이 갈수록 티비에 푹 빠져살더라구염.. 시력 한번 잃으면 돌리기 어려우니까 저도 신경 많이써염
+---여기
+RE 라베스토 티비보호기 사용 중인데 마음에 들어요~ 우선 화질 괜찮고 여자혼자서도 쉽게 설치할 수 있거든욧^^ 남편 올때까지 기다리는 것
+---여기
+RE 저는 아예 티비설정을 하루에 한시간보기로 맞춰놨어요 티비 못 보니 책보더라구요
+---여기
+RE 저희 아이 시력 확 나빠져서 안과 갔는데 눈 영양제, 블루라이트 차단하는거 이런거 다 효과 없다 하더라구요. 뭐 당연한 얘기지만 시력
+---여기
+더보기
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+---여기
+쇼핑
+---여기
+카페
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+카페
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+* done recording
+--로컬 STT 분석 시작
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  2  2  8  6  2  5 → digits: 228625
+변환된 텍스트: 228625
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+영수증 캡차 
+* recording
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  시청해주셔서 감사합니다. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 하나 다섯 넷 하나 여덟 → digits: 115418
+변환된 텍스트: 115418
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 다운
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqm1rag%7Cci%3D23f030b5c5488d8bc99b6171f26f41c6f9de5969%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34ed3d31725810bdf40812e6eb3141639105baa0&nl-au=d94fae8637ab4f368e05012c3c08b3d3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqm1rag%7Cci%3D23f030b5c5488d8bc99b6171f26f41c6f9de5969%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34ed3d31725810bdf40812e6eb3141639105baa0&nl-au=d94fae8637ab4f368e05012c3c08b3d3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqm1rag%7Cci%3D23f030b5c5488d8bc99b6171f26f41c6f9de5969%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34ed3d31725810bdf40812e6eb3141639105baa0&nl-au=d94fae8637ab4f368e05012c3c08b3d3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmqqm1rag%7Cci%3D23f030b5c5488d8bc99b6171f26f41c6f9de5969%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34ed3d31725810bdf40812e6eb3141639105baa0&nl-au=d94fae8637ab4f368e05012c3c08b3d3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+영수증 캡차 
+* recording
+뒤로가기 완료
+스탑1
+스탑1
+* done recording
+--로컬 STT 분석 시작
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.147.22
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5440.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+외부 IP: 115.144.147.22
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.154.125
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5541.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  다섯  넷  다섯  여섯  셋  여덟 → digits: 545638
+변환된 텍스트: 545638
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.126.151
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.480.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+외부 IP: 115.144.126.151
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.157.188
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8612.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+영수증 캡차 
+* recording
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  둘, 넷, 하나, 둘, 둘, 셋 → digits: 241223
+변환된 텍스트: 241223
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.72.129
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3616.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+외부 IP: 124.198.72.129
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.82.56
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1646.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+쇼핑
+---여기
+블로그
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+쇼핑
+---여기
+카페
+영수증 캡차 
+* recording
+---여기
+전체
+---여기
+카페
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  8, 7, 2, 4, 6, 2 → digits: 872462
+변환된 텍스트: 872462
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 6
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.106.124
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6985.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+외부 IP: 49.254.106.124
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.85.24
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5516.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=ssi몰
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=ssi몰
+* done recording
+--로컬 STT 분석 시작
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  5, 6, 3, 2, 7 → digits: 56327
+변환된 텍스트: 56327
+check_word 길이 : 5
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  4, 1, 8, 1, 3, 7 → digits: 418137
+변환된 텍스트: 418137
+check_word 길이 : 6
+총-----> 2번째 만에 성공
+성공
+* done recording
+--로컬 STT 분석 시작
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 서버 마더보드 IPMI 16DIMM 3647 C621 SSI EEB DDR4 Z11PRD16
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 수중 전용 엔코더 RS485 SSI 4-20mA 아날로그 IP68 절대 위치
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF38 전자 다중 단일 절대 값 인코더 SPI SSI 신호 출력 각도 계산 센서
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> SSI091SN-A1-2-TRN 실크 스크린 SSI091SN 패치 SSOP-28 원본
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 10 개 세트 TO-220 SQP50P03-07 SSF8509 SSI4N80A SSP10N05
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 비접촉식 디지털 전위차계 마그네틱 홀 인코더 각도 속도 센서 1-5V SSI IIC ABZ 출력 P3022
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF700 SSI 신호 감지 테이블 절대 값 직렬 포트 데이터 수집 컨트롤러 485 디지털 디스플레이
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF 하프 에어 증분 펄스 절대 값 SSI 아날로그 수량 0-10V 4-20mA RS485 인코더
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 8
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉  둘 → digits: 92
+변환된 텍스트: 92
+check_word 길이 : 2
+[LOCAL STT] recognized:  9, 2, 2, 4, 7, 3 → digits: 922473
+변환된 텍스트: 922473
+check_word 길이 : 6
+총-----> 4번째 만에 성공
+성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 1, 4, 2, 3, 5 → digits: 214235
+변환된 텍스트: 214235
+check_word 길이 : 6
+총-----> 2번째 만에 성공
+성공
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+해당 영수증은 가상으로 제작된 것으로 실제 영수증 사진이 아닙니다.
+
+영수증의 가게 위치는 까치머리길 [?] 입니다. (빈 칸을 채워주세요)
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 6
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.234.9
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8766.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 7
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=149.0.7827.156); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168378fd]
+	chromedriver_149!(No symbol) [0x7ff616824439]
+	chromedriver_149!(No symbol) [0x7ff616824121]
+	chromedriver_149!(No symbol) [0x7ff616822f86]
+	chromedriver_149!(No symbol) [0x7ff616848200]
+	chromedriver_149!(No symbol) [0x7ff6168de9b3]
+	chromedriver_149!(No symbol) [0x7ff616883a58]
+	chromedriver_149!(No symbol) [0x7ff616884953]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09984+1ef84]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09b14+1f114]
+	chromedriver_149!GetHandleVerifier [0x7ff616ceca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 7
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.157.189
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1174.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+외부 IP: 125.7.157.189
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.106.28
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3786.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=149.0.7827.156)
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168378fd]
+	chromedriver_149!(No symbol) [0x7ff61680e362]
+	chromedriver_149!(No symbol) [0x7ff6168c1226]
+	chromedriver_149!(No symbol) [0x7ff6168de3d2]
+	chromedriver_149!(No symbol) [0x7ff616883a58]
+	chromedriver_149!(No symbol) [0x7ff616884953]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09984+1ef84]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09b14+1f114]
+	chromedriver_149!GetHandleVerifier [0x7ff616ceca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: NoSuchWindowException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 8
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=149.0.7827.156); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168378fd]
+	chromedriver_149!(No symbol) [0x7ff616824439]
+	chromedriver_149!(No symbol) [0x7ff616824121]
+	chromedriver_149!(No symbol) [0x7ff616822f86]
+	chromedriver_149!(No symbol) [0x7ff616848200]
+	chromedriver_149!(No symbol) [0x7ff6168dee69]
+	chromedriver_149!(No symbol) [0x7ff616883a58]
+	chromedriver_149!(No symbol) [0x7ff616884953]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09984+1ef84]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09b14+1f114]
+	chromedriver_149!GetHandleVerifier [0x7ff616ceca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+모든 Chrome 프로세스를 종료했습니다.
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 8
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.218.1
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.967.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+외부 IP: 115.144.218.1
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.206.182
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8145.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+---여기
+
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+* done recording
+--로컬 STT 분석 시작
+영수증 캡차 
+* recording
+[LOCAL STT] recognized:  5, 9, 3, 2, 1, 9 → digits: 593219
+변환된 텍스트: 593219
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효주 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: 
+
+[진단] 예외타입: TimeoutException
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 9
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 9
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.62.142
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.183.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+외부 IP: 124.198.62.142
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.12.21
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9539.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+크롬드라이버 강제 종료 성공
+--------mode4 전체 error-------------import --------
+에러메세지
+'NoneType' object has no attribute 'is_displayed'
+[진단] 예외타입: AttributeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 10
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.156); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168378fd]
+	chromedriver_149!(No symbol) [0x7ff61682166f]
+	chromedriver_149!(No symbol) [0x7ff61682272f]
+	chromedriver_149!(No symbol) [0x7ff616838463]
+	chromedriver_149!(No symbol) [0x7ff61680dce1]
+	chromedriver_149!(No symbol) [0x7ff6168cc498]
+	chromedriver_149!(No symbol) [0x7ff616883a58]
+	chromedriver_149!(No symbol) [0x7ff616884953]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09984+1ef84]
+	chromedriver_149!GetHandleVerifier [0x7ff616d09b14+1f114]
+	chromedriver_149!GetHandleVerifier [0x7ff616ceca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 10
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.234.108
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3327.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8  9  2  3  8  7 → digits: 892387
+변환된 텍스트: 892387
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+⚠ 캡차 입력 필드 없음(vcpt_answer 등 미발견) → 이 캡차 스킵
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9073.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+외부 IP: 220.79.43.121
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7605.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+영수증 캡차 
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+* recording
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+* done recording
+--로컬 STT 분석 시작
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+[LOCAL STT] recognized:  넷, 셋, 둘, 여덟, 셋, 하나 → digits: 432831
+변환된 텍스트: 432831
+check_word 길이 : 6
+총-----> 1번째 만에 성공
+성공
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+블로그
+---여기
+블로그
+---여기
+카페
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+--------mode4 전체 error-------------import --------
+에러메세지
+flick_bx 탭 이동 10회 실패 → 페이지 오류
+[진단] 예외타입: Exception
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84&ackey=sxjq7sek
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+블로그
+카페
+이미지
+클립
+지식iN
+인플루언서
+동영상
+쇼핑
+뉴스
+숏텐츠
+어학사전
+지도
+도서
+지식백과
+검색옵션
+네이버로그인
+와이케이스
+ycase.kr
+S25 필름은 와이케이스! 재구매 10% 추가 할인
+케이스만 생폰 감성으로 쓰시나요? 필름도 생폰 감성 그대로
+할인
+지금만 1+1 특가
+액정보호필름
+사생활보호
+S25 필름
+갤럭시필름
+사생활보호
+렌즈보호필름
+브이가드
+brand.naver.com/vgard/
+브이가드
+자동차 프로텍션 전문브랜드 브이가드 PPF 본사 /셀프PPF
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9355.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+--------mode4 전체 error-------------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver_149!GetHandleVerifier [0x7ff616cffd95+15395]
+	chromedriver_149!GetHandleVerifier [0x7ff616cffdf0+153f0]
+	chromedriver_149!(No symbol) [0x7ff6168376e6]
+	chromedriver_149!(No symbol) [0x7ff616882ad3]
+	chromedriver_149!(No symbol) [0x7ff6168b9c82]
+	chromedriver_149!(No symbol) [0x7ff6168b3aa2]
+	chromedriver_149!(No symbol) [0x7ff6168b3263]
+	chromedriver_149!(No symbol) [0x7ff6168003e5]
+	chromedriver_149!GetHandleVerifier [0x7ff6172c5511+5dab11]
+	chromedriver_149!GetHandleVerifier [0x7ff6172bf8fb+5d4efb]
+	chromedriver_149!GetHandleVerifier [0x7ff6172e3205+5f8805]
+	chromedriver_149!GetHandleVerifier [0x7ff616d1cc6e+3226e]
+	chromedriver_149!GetHandleVerifier [0x7ff616d2562c+3ac2c]
+	chromedriver_149!(No symbol) [0x7ff6167ff188]
+	chromedriver_149!GetHandleVerifier [0x7ff617481238+796838]
+	KERNEL32!BaseThreadInitThunk [0x7fffe60c7374+14]
+	ntdll!RtlUserThreadStart [0x7fffe80dcc91+21]
+
+[진단] 예외타입: InvalidSessionIdException
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4099.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+블로그
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+블로그
+---여기
+카페
+---여기
+이미지
+---여기
+클립
+---여기
+지식iN
+---여기
+인플루언서
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
