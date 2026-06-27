@@ -1,0 +1,485 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 28112)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.108.9
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5587.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효정 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 8, 2, 3, 8, 9 → digits: 182389
+변환된 텍스트: 182389
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 182389 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10 → digits: 123456
+변환된 텍스트: 123456
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 123456 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2  5  2  8  7  8 → digits: 252878
+변환된 텍스트: 252878
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 252878 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 2, 6, 8, 5 → digits: 52685
+변환된 텍스트: 52685
+check_word 길이 : 5
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.108.7
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9233.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 28112)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.108.9
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5587.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  한글자막 by 한효정 → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 8, 2, 3, 8, 9 → digits: 182389
+변환된 텍스트: 182389
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 182389 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10 → digits: 123456
+변환된 텍스트: 123456
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 123456 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2  5  2  8  7  8 → digits: 252878
+변환된 텍스트: 252878
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 252878 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 2, 6, 8, 5 → digits: 52685
+변환된 텍스트: 52685
+check_word 길이 : 5
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.108.7
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9233.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
+
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 4, 6, 4, 9, 2 → digits: 346492
+변환된 텍스트: 346492
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 346492 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7  3  8  7  1  8 → digits: 738718
+변환된 텍스트: 738718
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 738718 → 제출 후 검증
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
