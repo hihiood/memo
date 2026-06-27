@@ -1,0 +1,336 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 9016)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.3.176
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4407.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 1, 1, 8, 7, 8 → digits: 711878
+변환된 텍스트: 711878
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 711878 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9 3 9 5 3 4 → digits: 939534
+변환된 텍스트: 939534
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 939534 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 1, 6, 5, 7, 6 → digits: 316576
+변환된 텍스트: 316576
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 316576 → 제출 후 검증
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 9016)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.3.176
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4407.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 1, 1, 8, 7, 8 → digits: 711878
+변환된 텍스트: 711878
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 711878 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9 3 9 5 3 4 → digits: 939534
+변환된 텍스트: 939534
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 939534 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 1, 6, 5, 7, 6 → digits: 316576
+변환된 텍스트: 316576
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 316576 → 제출 후 검증
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
+
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 1, 7, 6, 8, 6 → digits: 617686
+변환된 텍스트: 617686
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 617686 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=1
+numpy.size(username3) 1
+오예
+next_numpy_count 100
+numpy.size(username3) 1
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> [넾다세일]아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 2
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 6, 4, 7, 2, 5 → digits: 664725
+변환된 텍스트: 664725
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 664725 → 제출 후 검증
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
