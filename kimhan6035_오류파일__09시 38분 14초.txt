@@ -1,0 +1,276 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+chatGPT1
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d5d8c3a45ff24a2689d2362504941374.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\98e2efbde2134351a48da41628848f79.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\804cfe673b8e46bdb6199b4a9b4cc7bc.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\b2d5f6ee25e64144b57935b0a2ea1492.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\06a24f073bf24240909c2e06d23b39d0.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\17ee273ea3ab4ffabbfceef49c902395.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\5d644faf78dd4c9580787a95cf21a52b.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4be4c8b200cd470d8c2aec53afcd394d.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\29784776e9dd4cb18028d490acb1c0fc.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+현재 브라우저 언어: ko-KR
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ebc394a3d8044964b194b0d9620725da.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\3e7d5fc15a1f4bddb7406cb904336022.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\246916918e564cdbb292e7de1d1ff604.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\64a19f3dea51491aa5838f8b807d85ae.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 크롬 버전 :: 149
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\2102e19398834c0c8f8eaa7eac1d9cb5.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a8d1c0da4bda4eeab2d2ec8fd7223e96.pyd
+Running main() from the .pyd file...
+Captured output: 149
+내 드라이버 버전 :: 149
+=========================================
+내 크롬 버전 :: 149
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 149
+버전업 필요
+바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+title 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험
+title 휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None]
+Video_file_path :  [None None None None None None None None None None None None]
+엑셀 개수 12
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.', '바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개', 'ko']
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.', '바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개', 'ko']
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.', '바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개', 'ko']
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.', '바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개', 'ko']
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+----------------------------import --------
+에러메세지 main
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x80a543+103f3]
+	undetected_chromedriver!GetHandleVerifier [0x80a584+10434]
+	undetected_chromedriver!(No symbol) [0x60a700]
+	undetected_chromedriver!(No symbol) [0x5f999e]
+	undetected_chromedriver!(No symbol) [0x618079]
+	undetected_chromedriver!(No symbol) [0x67c64c]
+	undetected_chromedriver!(No symbol) [0x692df9]
+	undetected_chromedriver!(No symbol) [0x675e66]
+	undetected_chromedriver!(No symbol) [0x649159]
+	undetected_chromedriver!(No symbol) [0x649f24]
+	undetected_chromedriver!GetHandleVerifier [0xa94bba+29aa6a]
+	undetected_chromedriver!GetHandleVerifier [0xa90119+295fc9]
+	undetected_chromedriver!GetHandleVerifier [0xab103e+2b6eee]
+	undetected_chromedriver!GetHandleVerifier [0x8237f6+296a6]
+	undetected_chromedriver!GetHandleVerifier [0x82a91d+307cd]
+	undetected_chromedriver!GetHandleVerifier [0x812d18+18bc8]
+	undetected_chromedriver!GetHandleVerifier [0x812ec5+18d75]
+	undetected_chromedriver!GetHandleVerifier [0x7fc05f+1f0f]
+	KERNEL32!BaseThreadInitThunk [0x75f05d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7707d5db+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7707d561+231]
+
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 1
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------import --------
+에러메세지 main
+HTTPConnectionPool(host='localhost', port=57225): Max retries exceeded with url: /session/296b0606f064b767fabd4b9c4d423d2b/window/rect (Caused by NewConnectionError("HTTPConnection(host='localhost', port=57225): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+시작
+File saved to: C:\Users\pc\Desktop\까페\logfile.txt
