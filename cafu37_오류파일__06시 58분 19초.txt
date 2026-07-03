@@ -1,0 +1,6505 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 3216)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.78.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 8, 2, 9, 9, 6 → digits: 482996
+변환된 텍스트: 482996
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 482996 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  다섯  다섯  둘  하나  하나 → digits: 655211
+변환된 텍스트: 655211
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 655211 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.642.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  여섯  아홉  아홉  일곱  일곱 → digits: 669977
+변환된 텍스트: 669977
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 669977 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나, 셋, 하나, 둘, 넷, 넷 → digits: 131244
+변환된 텍스트: 131244
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 131244 → 제출 후 검증
+총-----> 2번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 8, 6, 3, 2, 1 → digits: 786321
+변환된 텍스트: 786321
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 786321 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯. 여섯. 여섯. 일곱. 다섯. 여섯.  일곱. → digits: 666756
+변환된 텍스트: 666756
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 666756 → 제출 후 검증
+총-----> 2번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3440.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 1, 2, 4, 7 → digits: 51247
+변환된 텍스트: 51247
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 2, 2, 8, 1, 6 → digits: 922816
+변환된 텍스트: 922816
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 922816 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱  둘  일곱  하나  아홉  일곱 → digits: 727197
+변환된 텍스트: 727197
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 727197 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8  1  1  9  5  5 → digits: 811955
+변환된 텍스트: 811955
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 811955 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 5, 4, 5, 7, 9 → digits: 254579
+변환된 텍스트: 254579
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 254579 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1684.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 6, 6, 3, 2, 2 → digits: 566322
+변환된 텍스트: 566322
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 566322 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 5, 9, 8, 2, 4 → digits: 159824
+변환된 텍스트: 159824
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 159824 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 2, 9, 7, 5, 8 → digits: 429758
+변환된 텍스트: 429758
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 429758 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3  9  2  2  1  7 → digits: 392217
+변환된 텍스트: 392217
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 392217 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3894.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 2, 9, 5, 2 → digits: 122952
+변환된 텍스트: 122952
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 122952 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1. 2. 5. 8. 5. 4. 3. → digits: 125854
+변환된 텍스트: 125854
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 125854 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 7, 4, 3, 1, 6 → digits: 674316
+변환된 텍스트: 674316
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 674316 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 8, 6, 7, 5, 7 → digits: 986757
+변환된 텍스트: 986757
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 986757 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1457.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3  6  9  9  6  5 → digits: 369965
+변환된 텍스트: 369965
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 369965 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 8, 1, 8, 1, 4 → digits: 381814
+변환된 텍스트: 381814
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 381814 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 8, 4, 2, 2, 7 → digits: 984227
+변환된 텍스트: 984227
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 984227 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 1, 5, 7, 9, 2, → digits: 115792
+변환된 텍스트: 115792
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 115792 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 6
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5831.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=ssi몰
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9  4  9  7  7  6 → digits: 949776
+변환된 텍스트: 949776
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 949776 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  네, 일곱, 세, 여덟, 여덟, 여덟 → digits: 7888
+변환된 텍스트: 7888
+check_word 길이 : 4
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5 4 4 6 9 9 → digits: 544699
+변환된 텍스트: 544699
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 544699 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 2, 6, 4, 9, 8 → digits: 526498
+변환된 텍스트: 526498
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 526498 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 서버 마더보드 IPMI 16DIMM 3647 C621 SSI EEB DDR4 Z11PRD16
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 수중 전용 엔코더 RS485 SSI 4-20mA 아날로그 IP68 절대 위치
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF38 전자 다중 단일 절대 값 인코더 SPI SSI 신호 출력 각도 계산 센서
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> SSI091SN-A1-2-TRN 실크 스크린 SSI091SN 패치 SSOP-28 원본
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 10 개 세트 TO-220 SQP50P03-07 SSF8509 SSI4N80A SSP10N05
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 비접촉식 디지털 전위차계 마그네틱 홀 인코더 각도 속도 센서 1-5V SSI IIC ABZ 출력 P3022
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 6
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 7, 2, 4, 6, 2 → digits: 572462
+변환된 텍스트: 572462
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 572462 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 7
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4768.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 8, 7, 4, 7, 1 → digits: 387471
+변환된 텍스트: 387471
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 387471 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 1, 3, 6, 7, 1 → digits: 713671
+변환된 텍스트: 713671
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 713671 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 둘 넷 셋 일곱 넷 → digits: 124374
+변환된 텍스트: 124374
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 124374 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=3
+numpy.size(username3) 3
+오예
+next_numpy_count 100
+numpy.size(username3) 3
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 1, 7, 7, 2, 6 → digits: 317726
+변환된 텍스트: 317726
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 317726 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 8
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.555.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 3, 4, 5 → digits: 12345
+변환된 텍스트: 12345
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 4, 5, 9, 7, 3 → digits: 945973
+변환된 텍스트: 945973
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 945973 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 5, 5, 6, 1, 8 → digits: 455618
+변환된 텍스트: 455618
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 455618 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 2, 2, 5, 6, 9 → digits: 522569
+변환된 텍스트: 522569
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 522569 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> [넾다세일]아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 2
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 6, 6, 4, 4, 7 → digits: 666447
+변환된 텍스트: 666447
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 666447 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 9
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.13.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+--------mode4 전체 error-------------import --------
+에러메세지
+flick_bx 탭 이동 10회 실패 → 페이지 오류
+[진단] 예외타입: Exception
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0&ackey=ys8iyt8c
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+AInew
+블로그
+카페
+클립
+이미지
+지식iN
+동영상
+쇼핑
+뉴스
+어학사전
+지도
+인플루언서
+검색옵션
+AI 브리핑
+실험 단계로 정확하지 않을 수 있어요.
+씨즈뷰 SVT40 티비 TV 시력보호필름 화면보호기 40인치 난반사방지 - 모니터 주변기기 | 쿠팡
+coupang.com
+삼성TV OLED 못끈다고 답변받음ㅋㅋ 화면보호기 대기화면
+몽츄이
+네이버 블로그
+세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP77 써보고 매우 만족한 이유
+나홀
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 10
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6435.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 7, 9, 2, 9, 5 → digits: 379295
+변환된 텍스트: 379295
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 379295 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1. 2. 7. 5. 7. 8. 9. → digits: 127578
+변환된 텍스트: 127578
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 127578 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 5, 7, 2, 5, 5 → digits: 357255
+변환된 텍스트: 357255
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 357255 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8, 6, 7, 5, 8, 1 → digits: 867581
+변환된 텍스트: 867581
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 867581 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 → digits: 9
+변환된 텍스트: 9
+check_word 길이 : 1
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 5, 8, 4, 3, 7 → digits: 258437
+변환된 텍스트: 258437
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 258437 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2. 4. 6. 6. 4. 5. → digits: 246645
+변환된 텍스트: 246645
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 246645 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 11
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3475.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 5, 7, 8, 2, 7 → digits: 257827
+변환된 텍스트: 257827
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 257827 → 제출 후 검증
+크롬드라이버 강제 종료 성공
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[LOCAL STT] 워커 파일 존재: True, 크기: 3172
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 3216)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.78.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=화면보호필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 8, 2, 9, 9, 6 → digits: 482996
+변환된 텍스트: 482996
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 482996 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  다섯  다섯  둘  하나  하나 → digits: 655211
+변환된 텍스트: 655211
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 655211 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f2mo8%7Cci%3D147480eafdaf07b4e31eb56b6763eab3de820cbd%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D14af3a0d948c0a9ee357f571a3b513aa2accb03a&nl-au=337ff9449cca4b7ead8b48f17d80e01a&nl-query=%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.642.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  여섯  아홉  아홉  일곱  일곱 → digits: 669977
+변환된 텍스트: 669977
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 669977 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나, 셋, 하나, 둘, 넷, 넷 → digits: 131244
+변환된 텍스트: 131244
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 131244 → 제출 후 검증
+총-----> 2번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 8, 6, 3, 2, 1 → digits: 786321
+변환된 텍스트: 786321
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 786321 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯. 여섯. 여섯. 일곱. 다섯. 여섯.  일곱. → digits: 666756
+변환된 텍스트: 666756
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 666756 → 제출 후 검증
+총-----> 2번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5f84z4%7Cci%3D925b3023e10bb87c5fc648f8be389e9ec6e54fd0%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dac3dc8e5e6f8d2702d2300b92b51ae1022c6b56c&nl-au=c90648d418a04074b092b487fb6bbaf3&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3440.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv액정필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 1, 2, 4, 7 → digits: 51247
+변환된 텍스트: 51247
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 2, 2, 8, 1, 6 → digits: 922816
+변환된 텍스트: 922816
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 922816 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱  둘  일곱  하나  아홉  일곱 → digits: 727197
+변환된 텍스트: 727197
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 727197 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8  1  1  9  5  5 → digits: 811955
+변환된 텍스트: 811955
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 811955 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 5, 4, 5, 7, 9 → digits: 254579
+변환된 텍스트: 254579
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 254579 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fgwk8%7Cci%3D293617227a34998291b3601e99c4ce264ef7333b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Ddbb0b819bfedfcbe5e8f53c238f4e162dd87a31c&nl-au=6ee41ce942b942c7828ab72f11379824&nl-query=tv%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1684.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv필름
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 6, 6, 3, 2, 2 → digits: 566322
+변환된 텍스트: 566322
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 566322 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 5, 9, 8, 2, 4 → digits: 159824
+변환된 텍스트: 159824
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 159824 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 2, 9, 7, 5, 8 → digits: 429758
+변환된 텍스트: 429758
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 429758 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%ED%95%84%EB%A6%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3  9  2  2  1  7 → digits: 392217
+변환된 텍스트: 392217
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 392217 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fnlaw%7Cci%3Dc092d2f3b6ef1370b4632a5d6605e0fc3d3049c4%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1998131bb9fb10f61df00464a27f59363cf229bf&nl-au=bcd3935f89494359b4f7982b8014e313&nl-query=tv%ED%95%84%EB%A6%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3894.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 2, 9, 5, 2 → digits: 122952
+변환된 텍스트: 122952
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 122952 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1. 2. 5. 8. 5. 4. 3. → digits: 125854
+변환된 텍스트: 125854
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 125854 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 7, 4, 3, 1, 6 → digits: 674316
+변환된 텍스트: 674316
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 674316 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 8, 6, 7, 5, 7 → digits: 986757
+변환된 텍스트: 986757
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 986757 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5fubl4%7Cci%3D807cca0d2df30fae989234b40743728dacbfabee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D7f327edce0c3e1a40493c1ba7fc27eb3fe1b47c8&nl-au=5d28396101c5498fae719b8d14c4f0fb&nl-query=tv%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.1457.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3  6  9  9  6  5 → digits: 369965
+변환된 텍스트: 369965
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 369965 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 8, 1, 8, 1, 4 → digits: 381814
+변환된 텍스트: 381814
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 381814 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 8, 4, 2, 2, 7 → digits: 984227
+변환된 텍스트: 984227
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 984227 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 1, 5, 7, 9, 2, → digits: 115792
+변환된 텍스트: 115792
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 115792 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g12n4%7Cci%3D6d9a4fd3425e464801bac8afee517f12722f2363%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D661904ffd7fac8e761a51b67951f27fac8cc8f9c&nl-au=c8ac05af8da84e1ca9651112e3816877&nl-query=tv%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 6
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5831.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=ssi몰
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9  4  9  7  7  6 → digits: 949776
+변환된 텍스트: 949776
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 949776 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  네, 일곱, 세, 여덟, 여덟, 여덟 → digits: 7888
+변환된 텍스트: 7888
+check_word 길이 : 4
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5 4 4 6 9 9 → digits: 544699
+변환된 텍스트: 544699
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 544699 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 2, 6, 4, 9, 8 → digits: 526498
+변환된 텍스트: 526498
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 526498 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 서버 마더보드 IPMI 16DIMM 3647 C621 SSI EEB DDR4 Z11PRD16
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 수중 전용 엔코더 RS485 SSI 4-20mA 아날로그 IP68 절대 위치
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> WF38 전자 다중 단일 절대 값 인코더 SPI SSI 신호 출력 각도 계산 센서
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> SSI091SN-A1-2-TRN 실크 스크린 SSI091SN 패치 SSOP-28 원본
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 10 개 세트 TO-220 SQP50P03-07 SSF8509 SSI4N80A SSP10N05
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 비접촉식 디지털 전위차계 마그네틱 홀 인코더 각도 속도 센서 1-5V SSI IIC ABZ 출력 P3022
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 6
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 7, 2, 4, 6, 2 → digits: 572462
+변환된 텍스트: 572462
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 572462 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5g84i0%7Cci%3D2d041038b7b1f3b65aa053678bf197736fd4945a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21e02f02a055fb78a0122593a29a00931c6cb577&nl-au=4fb7bcf039664a9e84bf88ee0ccf7e4c&nl-query=ssi%EB%AA%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 7
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.4768.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 8, 7, 4, 7, 1 → digits: 387471
+변환된 텍스트: 387471
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 387471 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7, 1, 3, 6, 7, 1 → digits: 713671
+변환된 텍스트: 713671
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 713671 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 둘 넷 셋 일곱 넷 → digits: 124374
+변환된 텍스트: 124374
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 124374 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=3
+numpy.size(username3) 3
+오예
+next_numpy_count 100
+numpy.size(username3) 3
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 1, 7, 7, 2, 6 → digits: 317726
+변환된 텍스트: 317726
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 317726 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5get8o%7Cci%3D352c721ab1ef85d2843b4785cfcaace8d3dbee5c%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D89b952e4e3ba7870c0772e3cbb4797c9a1cf04f6&nl-au=1da4e15d950145809c4ffe858c8b9c99&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 8
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.555.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 3, 4, 5 → digits: 12345
+변환된 텍스트: 12345
+check_word 길이 : 5
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 4, 5, 9, 7, 3 → digits: 945973
+변환된 텍스트: 945973
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 945973 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 5, 5, 6, 1, 8 → digits: 455618
+변환된 텍스트: 455618
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 455618 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5, 2, 2, 5, 6, 9 → digits: 522569
+변환된 텍스트: 522569
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 522569 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> [넾다세일]아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 2
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6, 6, 6, 4, 4, 7 → digits: 666447
+변환된 텍스트: 666447
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 666447 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gmcug%7Cci%3Df4071c5e2c201ed0f3d2b2d958e23982253fc520%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D18a926e60e25db6c9fd17e4eb72e610555956eb3&nl-au=7799a24f07584382a8bc4c5e3ba3d88d&nl-query=tv%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 9
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.13.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+--------mode4 전체 error-------------import --------
+에러메세지
+flick_bx 탭 이동 10회 실패 → 페이지 오류
+[진단] 예외타입: Exception
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0&ackey=ys8iyt8c
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+AInew
+블로그
+카페
+클립
+이미지
+지식iN
+동영상
+쇼핑
+뉴스
+어학사전
+지도
+인플루언서
+검색옵션
+AI 브리핑
+실험 단계로 정확하지 않을 수 있어요.
+씨즈뷰 SVT40 티비 TV 시력보호필름 화면보호기 40인치 난반사방지 - 모니터 주변기기 | 쿠팡
+coupang.com
+삼성TV OLED 못끈다고 답변받음ㅋㅋ 화면보호기 대기화면
+몽츄이
+네이버 블로그
+세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP77 써보고 매우 만족한 이유
+나홀
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 10
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6435.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 7, 9, 2, 9, 5 → digits: 379295
+변환된 텍스트: 379295
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 379295 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1. 2. 7. 5. 7. 8. 9. → digits: 127578
+변환된 텍스트: 127578
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 127578 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 5, 7, 2, 5, 5 → digits: 357255
+변환된 텍스트: 357255
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 357255 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8, 6, 7, 5, 8, 1 → digits: 867581
+변환된 텍스트: 867581
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 867581 → 제출 후 검증
+총-----> 4번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 → digits: 9
+변환된 텍스트: 9
+check_word 길이 : 1
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 5, 8, 4, 3, 7 → digits: 258437
+변환된 텍스트: 258437
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 258437 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2. 4. 6. 6. 4. 5. → digits: 246645
+변환된 텍스트: 246645
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 246645 → 제출 후 검증
+총-----> 3번째 만에 성공 (검증 통과)
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmr5gvvfs%7Cci%3D2f3e8eec3f029ac61eaaa492938be88cc76cd436%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D21d73817ea688feb43abcb4da7542d50596ed925&nl-au=6f1012af18554914be93fe1b92f5a881&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 11
+1536
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.3475.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 5, 7, 8, 2, 7 → digits: 257827
+변환된 텍스트: 257827
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 257827 → 제출 후 검증
+크롬드라이버 강제 종료 성공
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
+
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
