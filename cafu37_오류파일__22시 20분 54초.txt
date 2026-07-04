@@ -1,0 +1,937 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+DOCS_modelChunk not found.
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[오디오] 라우팅 자동설정: 재생=CABLE Input 설정(vol hr=0) / 녹음=CABLE Output 설정(vol hr=0)
+[LOCAL STT] 워커 파일 존재: True, 크기: 6690
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=, stderr=Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 2
+    import sys, json, os, subprocess, tempfile, uuid,
+                                                     ^
+SyntaxError: invalid syntax, code=1
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 7928)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.230.216
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.8151.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2 8 5 5 3 6 → digits: 285536
+변환된 텍스트: 285536
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 285536 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9 9 5 5 6 3 → digits: 995563
+변환된 텍스트: 995563
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 995563 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8 9. 숫자 여섯 자리를 또박또박 읽습니다. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 7 6 1 5 → digits: 127615
+변환된 텍스트: 127615
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 127615 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2 8 8 1 9 1 → digits: 288191
+변환된 텍스트: 288191
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 288191 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+[IP] https://api64.ipify.org 타임아웃
+외부 IP: 121.126.102.147
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6879.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7. 하나. 둘. 다섯. 네. 아홉. → digits: 712549
+변환된 텍스트: 712549
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 712549 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3 1 5 9 8 5 → digits: 315985
+변환된 텍스트: 315985
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 315985 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8 1 6 8 4 1 → digits: 816841
+변환된 텍스트: 816841
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 816841 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5 6 6 8 7 7 → digits: 566877
+변환된 텍스트: 566877
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 566877 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 203.109.7.41
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.9193.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=ssi몰
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8 6 2 7 2 4 → digits: 862724
+변환된 텍스트: 862724
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 862724 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6 1 7 4 7 9 → digits: 617479
+변환된 텍스트: 617479
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 617479 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8 9. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8 9. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 1, 1, 6, 9, 6 → digits: 311696
+변환된 텍스트: 311696
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 311696 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=ssi%EB%AA%B0
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.41.72
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.566.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8 9. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 6 6 9 5 2 → digits: 166952
+변환된 텍스트: 166952
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 166952 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7 6 5 2 4 3 → digits: 765243
+변환된 텍스트: 765243
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 765243 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9, 6, 1, 1, 2, 4 → digits: 961124
+변환된 텍스트: 961124
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 961124 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6 6 6 1 6 9 → digits: 666169
+변환된 텍스트: 666169
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 666169 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.45.61
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.2153.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+쇼핑
+---여기
+클립
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+쇼핑
+---여기
+블로그
+---여기
+클립
+---여기
+카페
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  9 7 6 8 9 5 → digits: 976895
+변환된 텍스트: 976895
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 976895 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  6 5 4 4 5 6 → digits: 654456
+변환된 텍스트: 654456
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 654456 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2 3 4 6 1 4 → digits: 234614
+변환된 텍스트: 234614
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 234614 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8 4 2 6 7 3 → digits: 842673
+변환된 텍스트: 842673
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 842673 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EC%BB%A4%EB%B2%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+1092
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.38.186
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.5048.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비화면보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5 9 4 3 6 1 → digits: 594361
+변환된 텍스트: 594361
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 594361 → 제출 후 검증
+총-----> 1번째 만에 성공 (검증 통과)
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 라베스토 방탄형 티비보호기 1455x860mm(65) TV 화면 보호기
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> [넾다세일]아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> [넾다세일]아이오랩스 블루라이트차단 TV화면보호기 티비커버 시력 보호대 액정필름 가드 ABLT 77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음(네이버상품=True)==============================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 4
+a 태그 클릭 성공
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1, 7, 9, 6, 8, 3 → digits: 179683
+변환된 텍스트: 179683
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 179683 → 제출 후 검증
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
