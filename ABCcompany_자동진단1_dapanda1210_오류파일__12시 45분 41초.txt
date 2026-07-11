@@ -1,0 +1,31 @@
+[자동진단] confirm_btn실패 / 계정=dapanda1210 / 이번실행 발행시도 #1
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xe717b3+10673]
+	undetected_chromedriver!GetHandleVerifier [0xe717f4+106b4]
+	undetected_chromedriver!(No symbol) [0xc590a0]
+	undetected_chromedriver!(No symbol) [0xca313b]
+	undetected_chromedriver!(No symbol) [0xca335b]
+	undetected_ch
+===== 페이지 진단 confirm_btn실패 =====
+URL  : https://blog.naver.com/dapanda1210?Redirect=Write&categoryNo=1
+TITLE: dapanda1210님의블로그 : 네이버 블로그
+창 개수: 1
+POPUP 요소 13개:
+  - class="layer_popup__WjlfW" 표시=False text=""
+  - class="se-popup __se-sentry se-popup-alert se-popup-alert-confirm" 표시=True text="작성 중인 글이 있습니다.
+11일 오후 12시 44분에 작성중이던 내용이"
+  - class="se-popup-dim se-popup-dim-white" 표시=True text=""
+  - class="se-popup-container __se-pop-layer" 표시=True text="작성 중인 글이 있습니다.
+11일 오후 12시 44분에 작성중이던 내용이"
+  - class="se-popup-header" 표시=True text="작성 중인 글이 있습니다."
+  - class="se-popup-title" 표시=True text="작성 중인 글이 있습니다."
+  - class="se-popup-content" 표시=True text="11일 오후 12시 44분에 작성중이던 내용이 있습니다.
+이어서 작성하시"
+  - class="se-popup-alert-text" 표시=True text="11일 오후 12시 44분에 작성중이던 내용이 있습니다.
+이어서 작성하시"
+  - class="se-popup-button-container" 표시=True text="취소
+확인"
+  - class="se-popup-button se-popup-button-cancel" 표시=True text="취소"
+BUTTON 78개 텍스트: 저장 | 0 | 발행 | 사진 | MYBOX | 동영상 | 스티커 | 인용구 선택 | 구분선 선택 | 링크 | 파일 | 일정 | 소스코드 | 표 | 수식 | 장소 | 내돈내산 | 글감 | 내 클립 | 라이브러리 | 템플릿 | 본문 | 나눔고딕 | 15 | 굵게
+BODY(앞 300자): NAVER blog 저장 0 발행 사진 MYBOX 동영상 스티커 인용구 선택 인용구 구분선 선택 구분선 링크 파일 일정 소스코드 표 수식 장소 내돈내산 글감 내 클립 라이브러리 템플릿 본문 나눔고딕 15 굵게 기울이기 밑줄 취소선 글자색 배경색 정렬 줄간격 목록 머리글자 위첨자 아래첨자 특수문자 링크 번역 맞춤법 제목 나를 돌아보는 회고, 뜻밖의 발견을 기다립니다. #모두의회고 작성 중인 글이 있습니다. 11일 오후 12시 44분에 작성중이던 내용이 있습니다. 이어서 작성하시겠습니까? 취소 확인 글감
