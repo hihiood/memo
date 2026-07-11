@@ -1,0 +1,16 @@
+[자동진단] confirm_btn실패 / 계정=blanket131873 / 이번실행 발행시도 #25
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0xe717b3+10673]
+	undetected_chromedriver!GetHandleVerifier [0xe717f4+106b4]
+	undetected_chromedriver!(No symbol) [0xc590a0]
+	undetected_chromedriver!(No symbol) [0xca313b]
+	undetected_chromedriver!(No symbol) [0xca335b]
+	undetected_ch
+===== 페이지 진단 confirm_btn실패 =====
+URL  : https://nid.naver.com/nidlogin.login?url=https%253A%252F%252Fblog.naver.com%252FPostWriteForm.naver%253FblogId%253Dblanket131873%2526Redirect%253DWrite%2526redirect%253DWrite%2526widgetTypeCall%253Dtrue%2526from%253Dsection%2526topReferer%253Dhttps%25253A%25252F%25252Fsection.blog.naver.com%25252FBlogHome.naver%25253FdirectoryNo%25253D0%252526currentPage%25253D1%252526groupId%25253D0%2526trackingCode%253Dblog_sectionhome_pc%2526directAccess%253Dfalse
+TITLE: 네이버 : 로그인
+창 개수: 1
+POPUP 요소 0개:
+BUTTON 0개 텍스트: 
+BODY 조회실패: Message: no such element: Unable to locate element: {"method":"tag name","select
