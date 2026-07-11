@@ -1,0 +1,28 @@
+[로그인] 인증 시작: testfortest
+[인증] Flask 서버 인증 시도: testfortest
+[서버체크] https://sgtestflask.autoprogram.blog/ -> 200
+[서버] 현재 서버 정상: https://sgtestflask.autoprogram.blog/
+[인증] Flask 응답: ok=True
+[로그인] 인증 성공: testfortest
+[브라우저] 프로필 경로: C:\Users\FORYOUCOM\chromeCookie\Profile gpt
+[브라우저] URL: https://chatgpt.com/
+[크롬버전] BLBeacon 감지: 150.0.7871.102 -> version_main=150
+[브라우저] 열림 성공
+
+===== UI LOG =====
+[23:39:10] 저장된 Task 25개 불러옴
+[23:39:19] 로그인 성공
+[23:39:34] Task 추가: [GPT] 교육.txt x10회
+[23:39:38] Task 추가: [GPT] 영어교육.txt x10회
+[23:39:43] Task 추가: [GPT] 육아.txt x20회
+[23:39:49] Task 추가: [GPT] 육아꿀팁.txt x20회
+[23:39:55] Task 추가: [GPT] 이유식.txt x5회
+[23:40:00] Task 추가: [GPT] 출산선물.txt x5회
+[23:40:05] Task 추가: [GPT] 육아꿀팁.txt x10회
+[23:40:11] Task 추가: [GPT] 후유증.txt x10회
+[23:40:19] Task 추가: [GPT] 운동.txt x20회
+[23:40:29] Task 추가: [GPT] 점심.txt x10회
+[23:40:44] Task 추가: [GPT] 육아.txt x20회
+[23:44:04] 브라우저 열기 중...
+[23:44:04] 크롬 버전 감지: 150
+[23:44:08] 브라우저 열림. 로그인 후 [전체 시작]
