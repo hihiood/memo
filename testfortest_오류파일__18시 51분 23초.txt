@@ -1,0 +1,133 @@
+[로그인] 인증 시작: testfortest
+[인증] Flask 서버 인증 시도: testfortest
+[서버체크] https://sgtestflask.autoprogram.blog/ -> 200
+[서버] 현재 서버 정상: https://sgtestflask.autoprogram.blog/
+[인증] Flask 응답: ok=True
+[로그인] 인증 성공: testfortest
+[브라우저] 프로필 경로: C:\Users\hocru\chromeCookie\Profile hocrux1th
+[브라우저] URL: https://chatgpt.com/g/g-6a520ab3bc1881918e92112fb705d0bd-mamkape-ilsanggeul
+[크롬버전] BLBeacon 감지: 150.0.7871.115 -> version_main=150
+[브라우저] 열림 성공
+
+[Task] ===== Task 1/6 시작 =====
+[Task] 서비스: GPT
+[Task] URL: https://chatgpt.com/g/g-6a520ab3bc1881918e92112fb705d0bd-mamkape-ilsanggeul
+[Task] 파일: C:/Users/hocru/OneDrive/바탕 화면/바이럴 작업/카페바이럴/비검색/작업/GPT 주제키워드/분유.txt
+[Task] 저장: C:\Users\hocru\Documents\gemini_results
+[Task] 횟수: 5
+[Task] URL 이동 완료
+[Task] 프롬프트 길이: 2자
+[Task] 1/5 질문 전송
+[입력] 입력창 탐색 중...
+[입력] 입력창 발견, 클릭
+[입력] 클립보드 붙여넣기 (2자)
+[입력] 붙여넣기 결과: 2자 / 원본: 2자
+[입력] GPT 전송 버튼 클릭: button[data-testid="send-button"]
+[입력] GPT 전송 완료
+[응답] 대기 시작 (최대 60초)
+[응답대기-GPT] assistant 기대값: 1개 (현재: 0개)
+[응답대기-GPT] 응답 완료 (7초), 길이: 395자
+[응답] 정상 완료: 395자
+[Task] 1번째 저장: C:\Users\hocru\Documents\gemini_results\gpt_답변_001_20260711_184920.txt (395자)
+[Task] 2/5 질문 전송
+[입력] 입력창 탐색 중...
+[입력] 입력창 발견, 클릭
+[입력] 클립보드 붙여넣기 (2자)
+[입력] 붙여넣기 결과: 2자 / 원본: 2자
+[입력] GPT 전송 버튼 클릭: button[data-testid="send-button"]
+[입력] GPT 전송 완료
+[응답] 대기 시작 (최대 60초)
+[응답대기-GPT] assistant 기대값: 2개 (현재: 1개)
+[응답대기-GPT] 응답 완료 (5초), 길이: 321자
+[응답] 정상 완료: 321자
+[Task] 2번째 저장: C:\Users\hocru\Documents\gemini_results\gpt_답변_002_20260711_184934.txt (321자)
+[Task] Task 1 중지됨 (저장: 2개)
+[로그저장] 서버 전송 시도: ID=testfortest, 로그길이=359자
+[서버체크] https://sgtestflask.autoprogram.blog/ -> 200
+[서버] 현재 서버 정상: https://sgtestflask.autoprogram.blog/
+[로그저장] 서버 응답: sucess
+[로그저장] 서버 전송 성공
+
+[Task] ===== Task 1/6 시작 =====
+[Task] 서비스: GPT
+[Task] URL: https://chatgpt.com/g/g-6a520ab3bc1881918e92112fb705d0bd-mamkape-ilsanggeul
+[Task] 파일: C:/Users/hocru/OneDrive/바탕 화면/바이럴 작업/카페바이럴/비검색/작업/GPT 주제키워드/분유.txt
+[Task] 저장: C:\Users\hocru\Documents\gemini_results
+[Task] 횟수: 5
+[Task] URL 이동 완료
+[Task] 프롬프트 길이: 2자
+[Task] 1/5 질문 전송
+[입력] 입력창 탐색 중...
+[입력] 입력창 발견, 클릭
+[입력] 클립보드 붙여넣기 (2자)
+[입력] 붙여넣기 결과: 2자 / 원본: 2자
+[입력] GPT 전송 버튼 클릭: button[data-testid="send-button"]
+[입력] GPT 전송 완료
+[응답] 대기 시작 (최대 60초)
+[응답대기-GPT] assistant 기대값: 1개 (현재: 0개)
+[응답대기-GPT] 응답 완료 (6초), 길이: 331자
+[응답] 정상 완료: 331자
+[Task] 1번째 저장: C:\Users\hocru\Documents\gemini_results\gpt_답변_001_20260711_185038.txt (331자)
+[Task] 2/5 질문 전송
+[입력] 입력창 탐색 중...
+[입력] 입력창 발견, 클릭
+[입력] 클립보드 붙여넣기 (2자)
+[입력] 붙여넣기 결과: 2자 / 원본: 2자
+[입력] GPT 전송 버튼 클릭: button[data-testid="send-button"]
+[입력] GPT 전송 완료
+[응답] 대기 시작 (최대 60초)
+[응답대기-GPT] assistant 기대값: 2개 (현재: 1개)
+[응답대기-GPT] 응답 완료 (6초), 길이: 282자
+[응답] 정상 완료: 282자
+[Task] 2번째 저장: C:\Users\hocru\Documents\gemini_results\gpt_답변_002_20260711_185053.txt (282자)
+[Task] 3/5 질문 전송
+[입력] 입력창 탐색 중...
+[입력] 입력창 발견, 클릭
+[입력] 클립보드 붙여넣기 (2자)
+[입력] 붙여넣기 결과: 2자 / 원본: 2자
+[입력] GPT 전송 버튼 클릭: button[data-testid="send-button"]
+[입력] GPT 전송 완료
+[응답] 대기 시작 (최대 60초)
+[응답대기-GPT] assistant 기대값: 3개 (현재: 2개)
+[응답대기-GPT] 응답 완료 (5초), 길이: 300자
+[응답] 정상 완료: 300자
+[Task] 3번째 저장: C:\Users\hocru\Documents\gemini_results\gpt_답변_003_20260711_185106.txt (300자)
+[Task] 4/5 질문 전송
+[입력] 입력창 탐색 중...
+[입력] 입력창 발견, 클릭
+[입력] 클립보드 붙여넣기 (2자)
+[입력] 붙여넣기 결과: 2자 / 원본: 2자
+[입력] GPT 전송 버튼 클릭: button[data-testid="send-button"]
+[입력] GPT 전송 완료
+[응답] 대기 시작 (최대 60초)
+[응답대기-GPT] assistant 기대값: 4개 (현재: 3개)
+[응답대기-GPT] 응답 완료 (5초), 길이: 289자
+[응답] 정상 완료: 289자
+[Task] 4번째 저장: C:\Users\hocru\Documents\gemini_results\gpt_답변_004_20260711_185120.txt (289자)
+[Task] 5/5 질문 전송
+
+===== UI LOG =====
+[18:47:09] 저장된 Task 6개 불러옴
+[18:47:12] 로그인 성공
+[18:47:31] 브라우저 열기 중...
+[18:47:31] 크롬 버전 감지: 150
+[18:47:36] 브라우저 열림. 로그인 후 [전체 시작]
+[18:49:03] === Task 1/6 시작 [GPT] ===
+[18:49:07]   1/5 전송
+[18:49:20]   1번째 저장 (395자)
+[18:49:23]   2/5 전송
+[18:49:34]   2번째 저장 (321자)
+[18:49:36] 중지 요청됨. 현재 작업 완료 후 멈춥니다.
+[18:49:37]   Task 1 중지 (2개)
+[18:49:37] ===== 모든 Task 처리 완료 =====
+[18:49:41] 로그 저장 완료
+[18:50:20] === Task 1/6 시작 [GPT] ===
+[18:50:26]   1/5 전송
+[18:50:38]   1번째 저장 (331자)
+[18:50:41]   2/5 전송
+[18:50:53]   2번째 저장 (282자)
+[18:50:56]   3/5 전송
+[18:51:06]   3번째 저장 (300자)
+[18:51:09]   4/5 전송
+[18:51:20]   4번째 저장 (289자)
+[18:51:23]   5/5 전송
