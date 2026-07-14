@@ -1,0 +1,49 @@
+[SYSTEM INFO]
+app_version: v1.0.0
+timestamp: 2026-07-14T17:10:10.864561
+platform: Windows-10-10.0.19045-SP0
+python: 3.10.8
+executable: C:\Users\IN\AppData\Local\NAVERB~1\naverblogtovideo.exe
+
+============================================================
+
+[UI PROGRESS LOG]
+[CLICK] 글 선택 — idx=[2] 제목=['[2026-07-03]  경기도안성시 벚꽃길 음주운전 사망사고 검찰&quot;징역 6년 구형”']
+[CLICK] ② AI 대본 생성 클릭 — sel=[2]  post_paths=50건
+[CLICK]   → 후보: '[2026-07-03]  경기도안성시 벚꽃길 음주운전 사망사고 검찰&quot;징역 6년 구형”'  url=https://blog.naver.com/PostView.naver?blogId=able75759&logNo=224335534670
+[CLICK]   → 팝업 응답: 예
+
+📌 선택된 글로 대본 생성: [2026-07-03]  경기도안성시 벚꽃길 음주운전 사망사고 검찰&quot;징역 6년 구형”
+
+===== [① 스캔(지정)] 시작 =====
+지정 글 사용: https://blog.naver.com/PostView.naver?blogId=able75759&logNo=224335534670
+선택된 글: 경기도안성시 벚꽃길 음주운전 사망사고 검찰"징역 6년 구형”
+본문 길이: 4413 자
+저장: C:\Users\IN\Downloads\네이버 블로그 to shorts\work\scraped.json
+===== [① 스캔(지정)] 완료 =====
+
+===== [② 대본 생성] 시작 =====
+  [script LLM] backend=gemini
+⚠ API 오류: 404 NOT_FOUND
+===== [② 대본 생성] 실패: API 오류: 404 NOT_FOUND =====
+
+📤 로그 전송 중… (잠시만 기다려주세요)
+
+
+
+============================================================
+
+[CONSOLE / PRINT OUTPUT]
+[auth] POST https://sgtestflask.autoprogram.blog/db_check_new_version
+[auth]   ok=True category='cafe_information/naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT/tistory_GPT/tistory_VIP/NAVER_ID_MAKE/iamweb/naverShooping_traffic/captcha_voice/gisickin_GPT/mac_addree_FREEcaptcha_solver/cafe_information_GPT/blindvideo'
+[auth] category='cafe_information/naverBlog/tistory/gblog/indexing/gisickin/neighbor/wordpress/click_view/tistory_premium/naver_post_석영/naver_wongo_석영/shorts/cafe/naver_copy/cafe_coupang/naver_traffic/adsence_click/naver_place/naver_trans/naver_poster_/naverBAND/naverPOST/naverBlog_image/youtube_shorts/youtube_shorts_add/naver_LIKE_SHARE_COMMENT/Naver_cafe_like_share/navercafe_GPT/wordpress_GPT/naverBlog_GPT/tistory_GPT/tistory_VIP/NAVER_ID_MAKE/iamweb/naverShooping_traffic/captcha_voice/gisickin_GPT/mac_addree_FREEcaptcha_solver/cafe_information_GPT/blindvideo'
+[ui_opts] 복원 완료 — {'img_style': '웹툰', 'img_backend': 'svg', 'tts_backend': 'edge_tts', 'edge_voice': '여성 · SunHi', 'edge_rate': '+8%', 'gemini_voice': 'Kore', 'gemini_speed': 1.0, 'gemini_style': '기본', 'cosy_speed': 1.25, 'cosy_batch': True}
+[yt_scan_videos] 0개 mp4 인식
+[CLICK] 블로그 글 목록 불러오기 — https://blog.naver.com/able75759 (최대 50개)
+[CLICK] 글 선택 — idx=[0] 제목=['[2026-06-19]  한국법률신문이 소개한 법무법인 에이블의 법률서비스']
+[CLICK] 글 선택 — idx=[1] 제목=['[2026-06-19]  법무법인 에이블 교통사고센터']
+[CLICK] 🧹 로그 비우기
+[CLICK] 글 선택 — idx=[2] 제목=['[2026-07-03]  경기도안성시 벚꽃길 음주운전 사망사고 검찰&quot;징역 6년 구형”']
+[CLICK] ② AI 대본 생성 클릭 — sel=[2]  post_paths=50건
+[CLICK]   → 후보: '[2026-07-03]  경기도안성시 벚꽃길 음주운전 사망사고 검찰&quot;징역 6년 구형”'  url=https://blog.naver.com/PostView.naver?blogId=able75759&logNo=224335534670
+[CLICK]   → 팝업 응답: 예
