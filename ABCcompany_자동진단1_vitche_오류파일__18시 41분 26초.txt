@@ -1,0 +1,17 @@
+[자동진단] confirm_btn실패 / 계정=vitche / 이번실행 발행시도 #20
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x10a5843+10883]
+	undetected_chromedriver!GetHandleVerifier [0x10a5884+108c4]
+	undetected_chromedriver!(No symbol) [0xea90e0]
+	undetected_chromedriver!(No symbol) [0xef316b]
+	undetected_chromedriver!(No symbol) [0xef338b]
+	undetected_
+===== 페이지 진단 confirm_btn실패 =====
+URL  : https://blog.naver.com/1004wisedom?Redirect=Write&categoryNo=1
+TITLE: 호갱구조대님의블로그 : 네이버 블로그
+창 개수: 1
+POPUP 요소 1개:
+  - class="layer_popup__WjlfW" 표시=False text=""
+BUTTON 132개 텍스트: 저장 | 0 | 발행 | 사진 | MYBOX | 동영상 | 스티커 | 인용구 선택 | 구분선 선택 | 링크 | 파일 | 일정 | 소스코드 | 표 | 수식 | 장소 | 내돈내산 | 글감 | 내 클립 | 라이브러리 | 템플릿 | 인용구 | 24 | 굵게 | 기울이기
+BODY(앞 300자): NAVER blog 저장 0 발행 사진 MYBOX 동영상 스티커 인용구 선택 인용구 구분선 선택 구분선 링크 파일 일정 소스코드 표 수식 장소 내돈내산 글감 내 클립 라이브러리 템플릿 인용구 24 굵게 기울이기 밑줄 글자색 인용구 1 인용구 2 인용구 3 인용구 4 인용구 5 인용구 6 문서 너비 텍스트 배치 줄간격 특수문자 맞춤법 크림거품기 KC인증 꼭 확인해야 하는 이유와 선택 기준 인용구 1 인용구 2 인용구 3 인용구 4 인용구 5 인용구 6 본문 삭제 크림거품기 KC인증 꼭 확인해야 하는 이유와 선택 기준 출처 입력 링크 
