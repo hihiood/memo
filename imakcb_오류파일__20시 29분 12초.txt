@@ -1,0 +1,2291 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[오디오] 라우팅 자동설정: 재생=CABLE Input 설정(vol hr=0) / 녹음=CABLE Output 설정(vol hr=0)
+[LOCAL STT] 워커 파일: True, 크기: 6827
+[LOCAL STT] Python 테스트 코드: 0 / 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC 
+[LOCAL STT] 서브프로세스 시작 (PID: 3136, compute_type=int8, env=기본)
+시작
+realID imakcb
+realPW zxcv75376013aa
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\two-kim\Desktop\shopping-traffic\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1092:2803:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5025.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=1QvfenDriR%2F2BXY02dN0Ov%2F%2F%2Fw%3D%3Ds8k7CHdUlBAA4
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7dv68%7Cci%3D42b390
+체류 완료(~49s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:9145:37c7:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7322.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=b2oDjSPGm9hdTPnx3RY4Ef%2F%2F%2Fw%3D%3Dsnu3Ui375gb%2Fq
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7ikxc%7Cci%3D0221ff
+체류 완료(~45s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1221:fc90:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2684.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=BriTyyINT0Vxivp618W0M%2F%2F%2F%2Fw%3D%3Ds62zgu3S7Kife
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7n8d4%7Cci%3Ddf5c65
+체류 완료(~43s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:115c:beca:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.103.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=M%2FDrUtzCjJzAPhbraKRED%2F%2F%2F%2Fw%3D%3DsD%2B15JaVp
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7ry48%7Cci%3Defc644
+체류 완료(~49s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1098:487d:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5466.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=yXqBS7yiAvaOH0q455V%2Fj%2F%2F%2F%2Fw%3D%3DszWcNJSPJCQ
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7wks8%7Cci%3D1cdfd9
+체류 완료(~49s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:2140:5f85:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.9169.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=pk1FuUJb%2FwPa6EdsA7SRxP%2F%2F%2Fw%3D%3DsFNgwWzRdncI3
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8299c%7Cci%3Dae8df0
+체류 완료(~41s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:9061:de59:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7279.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=8num%2BrilBQiyjVv08N6JPv%2F%2F%2Fw%3D%3DsvCyTJMjtvbtP
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq86o7k%7Cci%3D266ef3
+체류 완료(~43s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:3124:1fb:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6420.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=AdTW%2FwTT4xu3%2BLiewJWQyP%2F%2F%2Fw%3D%3Dspn9LUKvj9q
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8avg0%7Cci%3D104f6f
+체류 완료(~46s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1090:89de:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.8491.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=4IC7vPTvz9aeUfIyr576j%2F%2F%2F%2Fw%3D%3DsLU%2Fxgtk4h%
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8ewi8%7Cci%3Dcbbd91
+체류 완료(~43s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:2123:ad2c:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5001.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=pCXzZzzTusS7N38LqIFmgf%2F%2F%2Fw%3D%3DsIO4GNHZkt7O9Xt
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8j7lk%7Cci%3D9ec500
+체류 완료(~37s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1091:8294:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2650.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 417개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=gMS6lgvZVXaDSDBrfpCJbf%2F%2F%2Fw%3D%3DsqgixvV8H28USrb
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq8niow%7Cci%3Dd69566
+체류 완료(~32s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:3124:7d4d:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4053.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 417개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=DXx0gVK%2FPCXH1u5PE1Ejd%2F%2F%2F%2Fw%3D%3Ds3CKeH3eJvP
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq8rvbs%7Cci%3D167229
+체류 완료(~37s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:2061:e0cc:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.963.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 418개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=FMQTdTpjvnv0%2BThxRS5%2Bg%2F%2F%2F%2Fw%3D%3DsV6AvVjpY
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq8w4vk%7Cci%3D67c59c
+체류 완료(~48s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:914a:165f:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1342.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 418개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=aezU5ITsHmDhNqVndijPWv%2F%2F%2Fw%3D%3DsofTzNqwZiW8ucJ
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq90ldc%7Cci%3Df0e73f
+체류 완료(~48s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:317a:215a:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.630.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 418개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=h5efwlML06euVuEbyPFqrf%2F%2F%2Fw%3D%3DsrQpNpyRKkdrprM
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq9581c%7Cci%3Dc499ea
+체류 완료(~40s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7859.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 세션 생성 실패 (HTTP 500) — getaddrinfo ENOTFOUND api.getantidetect.com
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 타임아웃
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 타임아웃
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 타임아웃
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+크롬드라이버 강제 종료 성공
+IP 변경중 (테더링 시도 1/10)...
+시작
+File saved to: C:\Users\two-kim\Desktop\shopping-traffic\logfile.txt
+
+--- Captured Logs ---
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[오디오] 라우팅 자동설정: 재생=CABLE Input 설정(vol hr=0) / 녹음=CABLE Output 설정(vol hr=0)
+[LOCAL STT] 워커 파일: True, 크기: 6827
+[LOCAL STT] Python 테스트 코드: 0 / 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC 
+[LOCAL STT] 서브프로세스 시작 (PID: 3136, compute_type=int8, env=기본)
+시작
+realID imakcb
+realPW zxcv75376013aa
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\two-kim\Desktop\shopping-traffic\page_info_log.txt
+[가격] mode4 가격대 필터 사용: 시작="시작가격", 끝="끝가격"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1092:2803:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5025.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=1QvfenDriR%2F2BXY02dN0Ov%2F%2F%2Fw%3D%3Ds8k7CHdUlBAA4
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7dv68%7Cci%3D42b390
+체류 완료(~49s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:9145:37c7:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7322.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=b2oDjSPGm9hdTPnx3RY4Ef%2F%2F%2Fw%3D%3Dsnu3Ui375gb%2Fq
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7ikxc%7Cci%3D0221ff
+체류 완료(~45s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1221:fc90:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2684.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=BriTyyINT0Vxivp618W0M%2F%2F%2F%2Fw%3D%3Ds62zgu3S7Kife
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7n8d4%7Cci%3Ddf5c65
+체류 완료(~43s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:115c:beca:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.103.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=M%2FDrUtzCjJzAPhbraKRED%2F%2F%2F%2Fw%3D%3DsD%2B15JaVp
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7ry48%7Cci%3Defc644
+체류 완료(~49s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1098:487d:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5466.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전기자전거
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 725000~740000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 725000~740000
+✓ 타겟 발견 — 1페이지 순위10(절대10), 가격 732200 (가격대내 551개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위10, 가격 732200 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=yXqBS7yiAvaOH0q455V%2Fj%2F%2F%2F%2Fw%3D%3DszWcNJSPJCQ
+진입 완료: https://smartstore.naver.com/papagoz/products/13524018972?NaPm=ct%3Dmrq7wks8%7Cci%3D1cdfd9
+체류 완료(~49s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:2140:5f85:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.9169.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=pk1FuUJb%2FwPa6EdsA7SRxP%2F%2F%2Fw%3D%3DsFNgwWzRdncI3
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8299c%7Cci%3Dae8df0
+체류 완료(~41s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:9061:de59:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7279.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=8num%2BrilBQiyjVv08N6JPv%2F%2F%2Fw%3D%3DsvCyTJMjtvbtP
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq86o7k%7Cci%3D266ef3
+체류 완료(~43s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:3124:1fb:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6420.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=AdTW%2FwTT4xu3%2BLiewJWQyP%2F%2F%2Fw%3D%3Dspn9LUKvj9q
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8avg0%7Cci%3D104f6f
+체류 완료(~46s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1090:89de:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.8491.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=4IC7vPTvz9aeUfIyr576j%2F%2F%2F%2Fw%3D%3DsLU%2Fxgtk4h%
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8ewi8%7Cci%3Dcbbd91
+체류 완료(~43s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:2123:ad2c:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5001.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=전기삼륜차
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%84%EA%B8%B0%EC%82%BC%EB%A5%9C%EC%B0%A8
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 980000~995000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 980000~995000
+✓ 타겟 발견 — 1페이지 순위1(절대1), 가격 988900 (가격대내 85개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위1, 가격 988900 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=pCXzZzzTusS7N38LqIFmgf%2F%2F%2Fw%3D%3DsIO4GNHZkt7O9Xt
+진입 완료: https://smartstore.naver.com/papagoz/products/13523986656?NaPm=ct%3Dmrq8j7lk%7Cci%3D9ec500
+체류 완료(~37s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:1091:8294:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2650.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 417개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=gMS6lgvZVXaDSDBrfpCJbf%2F%2F%2Fw%3D%3DsqgixvV8H28USrb
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq8niow%7Cci%3Dd69566
+체류 완료(~32s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:3124:7d4d:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4053.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 417개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=DXx0gVK%2FPCXH1u5PE1Ejd%2F%2F%2F%2Fw%3D%3Ds3CKeH3eJvP
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq8rvbs%7Cci%3D167229
+체류 완료(~37s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:2061:e0cc:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.963.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 418개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=FMQTdTpjvnv0%2BThxRS5%2Bg%2F%2F%2F%2Fw%3D%3DsV6AvVjpY
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq8w4vk%7Cci%3D67c59c
+체류 완료(~48s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:914a:165f:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1342.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 418개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=aezU5ITsHmDhNqVndijPWv%2F%2F%2Fw%3D%3DsofTzNqwZiW8ucJ
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq90ldc%7Cci%3Df0e73f
+체류 완료(~48s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. Query refused
+����:    UnKnown
+Address:  192.168.96.210
+
+
+
+외부 IP: 2001:e60:317a:215a:d4dc:bfda:7bb4:7355
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.630.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=접이식전동스쿠터
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A0%91%EC%9D%B4%EC%8B%9D%EC%A0%84%EB%8F%99%EC%8A%A4%EC%BF%A0%ED%84%B0
+[가격대-트래픽] buildId=fu6lJ3ZBhivB7I6FJ2wFz 가격대 635000~655000 데이터API로 타겟 탐색 → 클릭URL 진입
+가격대 635000~655000
+✓ 타겟 발견 — 1페이지 순위15(절대15), 가격 648700 (가격대내 418개) (네이버상품 우선)
+✓ 타겟 발견 — 1페이지 순위15, 가격 648700 (네이버상품 우선)
+클릭 URL 진입(검색→상품): https://cr.shopping.naver.com/adcr?x=h5efwlML06euVuEbyPFqrf%2F%2F%2Fw%3D%3DsrQpNpyRKkdrprM
+진입 완료: https://smartstore.naver.com/papagoz/products/13519823497?NaPm=ct%3Dmrq9581c%7Cci%3Dc499ea
+체류 완료(~40s) — 트래픽 1회 성공
+[가격대-트래픽] mode4 결과: True
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7859.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 세션 생성 실패 (HTTP 500) — getaddrinfo ENOTFOUND api.getantidetect.com
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 타임아웃
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 타임아웃
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 타임아웃
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 타임아웃
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 타임아웃
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown�� ���� ��û�� ���� �ð��� �ʰ��߽��ϴ�.
+DNS request timed out.
+    timeout was 2 seconds.
+����:    UnKnown
+Address:  192.168.96.210
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+[IP] https://api64.ipify.org 타임아웃
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+IP 변경중 (테더링 시도 1/10)...
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+크롬드라이버 강제 종료 성공
+IP 변경중 (테더링 시도 1/10)...
+시작
+File saved to: C:\Users\two-kim\Desktop\shopping-traffic\logfile.txt
+
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+🚨 모든 서버 장애 → preferred_server 반환
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+🚨 모든 서버 장애 → preferred_server 반환
+*** 'resolver1.opendns.com'�� ���� �ּҸ� ã�� �� �����ϴ�. *** UnKnown��(��) myip.opendns.com��(��) ã�� �� �����ϴ�. No response from server
+����:    UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+🚨 모든 서버 장애 → preferred_server 반환
+[로그저장] 서버 업로드 실패: ConnectionError: HTTPSConnectionPool(host='vmwareflask.autoprogram.life', port=443): Max retries exceeded with url: /go_write_github (Cau
+[IP] https://api64.ipify.org 실패 (returncode 1)
+[IP] https://ifconfig.me/ip 실패 (returncode 1)
+[IP] https://icanhazip.com 실패 (returncode 1)
+[IP] https://checkip.amazonaws.com 실패 (returncode 1)
+외부 IP: None
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.9071.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+[FINDER red] ⚠ AntiDetect 세션 생성 실패 (HTTP 500) — getaddrinfo ENOTFOUND api.getantidetect.com
+--------mode4 전체 error-------------import --------
+에러메세지
+antidetect_connect_failed
+[진단] 예외타입: RuntimeError
+[진단] URL: (URL 조회 실패 — 세션 끊김)
+[진단] body 처음 300자: (body 조회 실패)
+[AntiDetect] 앱 자동 재시작 — C:\Users\two-kim\AppData\Local\Programs\Antidetect Browser\Antidetect Browser.exe
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+1472
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+시작
+File saved to: C:\Users\two-kim\Desktop\shopping-traffic\logfile.txt
