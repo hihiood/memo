@@ -1,0 +1,7934 @@
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] 워커 파일 존재: True, 크기: 8003
+[LOCAL STT] 워커 파일 읽기 테스트: stdout=file ok, stderr=, code=0
+[LOCAL STT] Python-STT 경로: C:\Python-STT\python.exe
+[LOCAL STT] Python 테스트 stdout: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+ok
+[LOCAL STT] Python 테스트 stderr: 
+[LOCAL STT] Python 테스트 코드: 0
+[LOCAL STT] 워커 직접 실행: 10초 초과 (정상 - 모델 로딩 중)
+[LOCAL STT] 서브프로세스 시작 (PID: 3136, compute_type=int8, env=기본)
+[LOCAL STT] 상태: {'status': 'ready'}
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+[IP] https://api64.ipify.org 타임아웃
+외부 IP: 121.126.148.5
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5070.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=썬가드광학추천2026년
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 셋 여섯 여덟 넷 넷 → digits: 236844
+변환된 텍스트: 236844
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 둘 셋 넷 아홉  하나 일곱 → digits: 123491
+변환된 텍스트: 123491
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7 5 9 5  1 → digits: 75951
+변환된 텍스트: 75951
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 셋 둘 여덟 아홉 일곱 → digits: 732897
+변환된 텍스트: 732897
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 일곱  셋 여섯 넷 → digits: 27364
+변환된 텍스트: 27364
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 넷 다섯 일곱 둘 넷 → digits: 745724
+변환된 텍스트: 745724
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrra9nx4%7Cci%3D83fe61c1b79eac04c2cb4bb88345559978934c13%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dead9830211d41ac96705533647425e2e5cd389db&nl-au=64e164910b8c46d19bda52a7eca2efff&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrra9nx4%7Cci%3D83fe61c1b79eac04c2cb4bb88345559978934c13%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dead9830211d41ac96705533647425e2e5cd389db&nl-au=64e164910b8c46d19bda52a7eca2efff&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrra9nx4%7Cci%3D83fe61c1b79eac04c2cb4bb88345559978934c13%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dead9830211d41ac96705533647425e2e5cd389db&nl-au=64e164910b8c46d19bda52a7eca2efff&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrra9nx4%7Cci%3D83fe61c1b79eac04c2cb4bb88345559978934c13%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dead9830211d41ac96705533647425e2e5cd389db&nl-au=64e164910b8c46d19bda52a7eca2efff&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.206.136
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7293.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=비교qled커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 여섯 일곱  셋 일곱 일곱 → digits: 367377
+변환된 텍스트: 367377
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 일곱  일곱 여덟  일곱  여덟 → digits: 977878
+변환된 텍스트: 977878
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrafce8%7Cci%3D269534d8cf82c803eda40995a9d1481236da3045%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1d90131809e33429f264b065b2378c975164f220&nl-au=2cfed19358c24c56ab949efa04147d38&nl-query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrafce8%7Cci%3D269534d8cf82c803eda40995a9d1481236da3045%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1d90131809e33429f264b065b2378c975164f220&nl-au=2cfed19358c24c56ab949efa04147d38&nl-query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrafce8%7Cci%3D269534d8cf82c803eda40995a9d1481236da3045%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1d90131809e33429f264b065b2378c975164f220&nl-au=2cfed19358c24c56ab949efa04147d38&nl-query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrafce8%7Cci%3D269534d8cf82c803eda40995a9d1481236da3045%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D1d90131809e33429f264b065b2378c975164f220&nl-au=2cfed19358c24c56ab949efa04147d38&nl-query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 2
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.18.18
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5827.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티브이액정보호
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B8%8C%EC%9D%B4%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 하나 넷 여덟 여섯 여섯 → digits: 714866
+변환된 텍스트: 714866
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B8%8C%EC%9D%B4%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 에이픽스 라베스토 방탄형 티비보호기 163cm(65인치) TV 화면 보호기 블루라이트 차단 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 2
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 다섯 넷 하나 둘 셋 → digits: 754123
+변환된 텍스트: 754123
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrakdq0%7Cci%3D93284d790751160d5d41071c3a793922bb816408%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Deec7b0b523cc80939468e70a73ec30403426c6ee&nl-au=5e21d2398e8e46158c311399d96b23f1&nl-query=%ED%8B%B0%EB%B8%8C%EC%9D%B4%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrakdq0%7Cci%3D93284d790751160d5d41071c3a793922bb816408%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Deec7b0b523cc80939468e70a73ec30403426c6ee&nl-au=5e21d2398e8e46158c311399d96b23f1&nl-query=%ED%8B%B0%EB%B8%8C%EC%9D%B4%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrakdq0%7Cci%3D93284d790751160d5d41071c3a793922bb816408%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Deec7b0b523cc80939468e70a73ec30403426c6ee&nl-au=5e21d2398e8e46158c311399d96b23f1&nl-query=%ED%8B%B0%EB%B8%8C%EC%9D%B4%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrakdq0%7Cci%3D93284d790751160d5d41071c3a793922bb816408%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Deec7b0b523cc80939468e70a73ec30403426c6ee&nl-au=5e21d2398e8e46158c311399d96b23f1&nl-query=%ED%8B%B0%EB%B8%8C%EC%9D%B4%EC%95%A1%EC%A0%95%EB%B3%B4%ED%98%B8
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 3
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.70.1
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.8199.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=가드더프레임qled
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EA%B0%80%EB%93%9C%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84qled
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 둘  둘 여섯 넷  둘 → digits: 122642
+변환된 텍스트: 122642
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EA%B0%80%EB%93%9C%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84qled
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 삼성 더 프레임 TV와 호환되는 TV 가드 베젤 32인치 토스카나 블랙 벽걸이 TV에 적합 32
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 1
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 여섯 하나 둘 다섯 여덟 → digits: 561258
+변환된 텍스트: 561258
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrap0e0%7Cci%3D1300e8f2ff5c4678f10f8a524b01228e979ff66f%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D784c950e55571746fb5d0629feea18df4be6bc7a&nl-au=9c5b8634719c41c5aea64bde9b345bec&nl-query=%EA%B0%80%EB%93%9C%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84qled
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrap0e0%7Cci%3D1300e8f2ff5c4678f10f8a524b01228e979ff66f%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D784c950e55571746fb5d0629feea18df4be6bc7a&nl-au=9c5b8634719c41c5aea64bde9b345bec&nl-query=%EA%B0%80%EB%93%9C%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84qled
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrap0e0%7Cci%3D1300e8f2ff5c4678f10f8a524b01228e979ff66f%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D784c950e55571746fb5d0629feea18df4be6bc7a&nl-au=9c5b8634719c41c5aea64bde9b345bec&nl-query=%EA%B0%80%EB%93%9C%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84qled
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrap0e0%7Cci%3D1300e8f2ff5c4678f10f8a524b01228e979ff66f%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D784c950e55571746fb5d0629feea18df4be6bc7a&nl-au=9c5b8634719c41c5aea64bde9b345bec&nl-query=%EA%B0%80%EB%93%9C%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84qled
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 4
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 183.78.143.250
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6161.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=셰리프tv가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%85%B0%EB%A6%AC%ED%94%84tv%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 일곱  다섯 여덟  아홉 → digits: 37589
+변환된 텍스트: 37589
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 둘 넷  둘 여섯 → digits: 32426
+변환된 텍스트: 32426
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5 4 6  다섯 아홉 하나 → digits: 546591
+변환된 텍스트: 546591
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%85%B0%EB%A6%AC%ED%94%84tv%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 척척연구소 티비보호기 티비가드 액정필름 화면보호기 가드 액정 커버 필름 50
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 니즈프렌 맞춤제작 T98 티비보호기 247cm(98)화면 보안기 티비가드 블루라이트차단
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 자록 티비가드 TV 화면보호기 블루라이트 차단 필름 필터 거치식 50형
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 블루라이트차단 TV화면보호기 티비커버 시력 보호대 액정필름 가드 ABLT 77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 163cm(65인치) 티비 액정보호 보호대 TV 가드 화면 보호기 블루라이트차단 파손방지 커버 QLED OLED 벽걸이 LG 삼성 더프레임 더세리프 SB65
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 티비보호대 가드 tv화면보호기 액정 커버 65인치 필름 파손방지 티비보호커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 TV가드 긁힘방지 시력보호 블루라이트차단필름 65인치
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 티비화면보호기 65인치 TV 파손방지 55인치 파손 스트랩 보호필름 티비가드 방폭
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 티비보호기 스크린 55인치 65인치 액정 화면보호 방폭 파손 모니터 화면 보안기 티비가드
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 방폭 75 보호스크린 TV 가드 강화 필름 강화필름
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 티비가드 티비 보호커버 TV 보호기 보호대 SP 75
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 티비화면보호기 65인치 TV 가드 방지 커버 액정 유리 파손방지 티비보호대 75인치
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 16
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 여섯 아홉 셋 다섯 → digits: 26935
+변환된 텍스트: 26935
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 셋 넷 다섯 다섯 여섯 → digits: 634556
+변환된 텍스트: 634556
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrravebs%7Cci%3D061a49c3702f1b503572fa70b8c5dc31fe9bdc21%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D717f7a644a6daddfa425b9584a183a604a82709d&nl-au=7019ee2fc64443e0920bd52b0ccaece9&nl-query=%EC%85%B0%EB%A6%AC%ED%94%84tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrravebs%7Cci%3D061a49c3702f1b503572fa70b8c5dc31fe9bdc21%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D717f7a644a6daddfa425b9584a183a604a82709d&nl-au=7019ee2fc64443e0920bd52b0ccaece9&nl-query=%EC%85%B0%EB%A6%AC%ED%94%84tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrravebs%7Cci%3D061a49c3702f1b503572fa70b8c5dc31fe9bdc21%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D717f7a644a6daddfa425b9584a183a604a82709d&nl-au=7019ee2fc64443e0920bd52b0ccaece9&nl-query=%EC%85%B0%EB%A6%AC%ED%94%84tv%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrravebs%7Cci%3D061a49c3702f1b503572fa70b8c5dc31fe9bdc21%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D717f7a644a6daddfa425b9584a183a604a82709d&nl-au=7019ee2fc64443e0920bd52b0ccaece9&nl-query=%EC%85%B0%EB%A6%AC%ED%94%84tv%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 5
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.10.190
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.3804.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성더프레임tv논글레어보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84tv%EB%85%BC%EA%B8%80%EB%A0%88%EC%96%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  여섯  여덟  아홉  하나  넷 → digits: 168914
+변환된 텍스트: 168914
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 31
+2--numpy.size(username3) 31
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84tv%EB%85%BC%EA%B8%80%EB%A0%88%EC%96%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 여섯 여섯 둘  다섯 여덟 → digits: 566258
+변환된 텍스트: 566258
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb0ubc%7Cci%3D7520cf1cdf25ec7606bab612b46d0f70c1aa2c87%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34a6ad17af4e4b50c4a72f3e1bca0a0b2c3a184b&nl-au=44346eb8f03145d3a724ec97790a170c&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84tv%EB%85%BC%EA%B8%80%EB%A0%88%EC%96%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb0ubc%7Cci%3D7520cf1cdf25ec7606bab612b46d0f70c1aa2c87%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34a6ad17af4e4b50c4a72f3e1bca0a0b2c3a184b&nl-au=44346eb8f03145d3a724ec97790a170c&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84tv%EB%85%BC%EA%B8%80%EB%A0%88%EC%96%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb0ubc%7Cci%3D7520cf1cdf25ec7606bab612b46d0f70c1aa2c87%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34a6ad17af4e4b50c4a72f3e1bca0a0b2c3a184b&nl-au=44346eb8f03145d3a724ec97790a170c&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84tv%EB%85%BC%EA%B8%80%EB%A0%88%EC%96%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb0ubc%7Cci%3D7520cf1cdf25ec7606bab612b46d0f70c1aa2c87%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D34a6ad17af4e4b50c4a72f3e1bca0a0b2c3a184b&nl-au=44346eb8f03145d3a724ec97790a170c&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84tv%EB%85%BC%EA%B8%80%EB%A0%88%EC%96%B4%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 6
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.2.212
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5790.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기tv보호기파손방지
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B8%B0%ED%8C%8C%EC%86%90%EB%B0%A9%EC%A7%80
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 여덟 다섯 여섯 넷 아홉 → digits: 385649
+변환된 텍스트: 385649
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B8%B0%ED%8C%8C%EC%86%90%EB%B0%A9%EC%A7%80
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 넷  둘 셋  네 셋 → digits: 142343
+변환된 텍스트: 142343
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb5r0g%7Cci%3Dce20938f0b6cd3471187f8fc2548752d62b7f446%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0dd6f6a85704293f2d8b0eb1a60ef6a17d385876&nl-au=0151a7b5ca2245b6a246f84d4abd0b9f&nl-query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B8%B0%ED%8C%8C%EC%86%90%EB%B0%A9%EC%A7%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb5r0g%7Cci%3Dce20938f0b6cd3471187f8fc2548752d62b7f446%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0dd6f6a85704293f2d8b0eb1a60ef6a17d385876&nl-au=0151a7b5ca2245b6a246f84d4abd0b9f&nl-query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B8%B0%ED%8C%8C%EC%86%90%EB%B0%A9%EC%A7%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb5r0g%7Cci%3Dce20938f0b6cd3471187f8fc2548752d62b7f446%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0dd6f6a85704293f2d8b0eb1a60ef6a17d385876&nl-au=0151a7b5ca2245b6a246f84d4abd0b9f&nl-query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B8%B0%ED%8C%8C%EC%86%90%EB%B0%A9%EC%A7%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb5r0g%7Cci%3Dce20938f0b6cd3471187f8fc2548752d62b7f446%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0dd6f6a85704293f2d8b0eb1a60ef6a17d385876&nl-au=0151a7b5ca2245b6a246f84d4abd0b9f&nl-query=%EC%95%84%EA%B8%B0tv%EB%B3%B4%ED%98%B8%EA%B8%B0%ED%8C%8C%EC%86%90%EB%B0%A9%EC%A7%80
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 7
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.219.128
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6309.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기티비가드65인치
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C65%EC%9D%B8%EC%B9%98
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 둘 넷  일곱 여섯 셋 → digits: 724763
+변환된 텍스트: 724763
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 2
+2--numpy.size(username3) 2
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C65%EC%9D%B8%EC%B9%98
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  셋  둘  아홉  아홉 → digits: 13299
+변환된 텍스트: 13299
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 넷 아홉 여덟 일곱 여섯 → digits: 749876
+변환된 텍스트: 749876
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb9z0o%7Cci%3D708b307131bd4ccb6553289426eae5d1a11ff051%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0bd3164fb2cdf3c37e8a747e40c5d1b94fb7c160&nl-au=e1195d8db8194d2ab078dd0bb30c9688&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C65%EC%9D%B8%EC%B9%98
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb9z0o%7Cci%3D708b307131bd4ccb6553289426eae5d1a11ff051%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0bd3164fb2cdf3c37e8a747e40c5d1b94fb7c160&nl-au=e1195d8db8194d2ab078dd0bb30c9688&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C65%EC%9D%B8%EC%B9%98
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb9z0o%7Cci%3D708b307131bd4ccb6553289426eae5d1a11ff051%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0bd3164fb2cdf3c37e8a747e40c5d1b94fb7c160&nl-au=e1195d8db8194d2ab078dd0bb30c9688&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C65%EC%9D%B8%EC%B9%98
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrb9z0o%7Cci%3D708b307131bd4ccb6553289426eae5d1a11ff051%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0bd3164fb2cdf3c37e8a747e40c5d1b94fb7c160&nl-au=e1195d8db8194d2ab078dd0bb30c9688&nl-query=%EC%95%84%EA%B8%B0%ED%8B%B0%EB%B9%84%EA%B0%80%EB%93%9C65%EC%9D%B8%EC%B9%98
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 8
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.2.246
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4232.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성셰리프화면보호
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EC%85%B0%EB%A6%AC%ED%94%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 일곱 둘 셋 다섯 넷 → digits: 972354
+변환된 텍스트: 972354
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EC%85%B0%EB%A6%AC%ED%94%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 65인치 TV 화면 보호필름 무광 반사 방지블루라이트 차단먼지 방지 필터 필름 눈 보호용 SHARP SONY SAMSUNG Hisense LG 등용 1432 803mm 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 2026년형 썬가드광학 티비보호기 TV 화면 보호 커버 B60 블루라이트차단 액정가드 벽걸이 LG 삼성
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 3
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋  여덟  아홉  넷  하나 → digits: 38941
+변환된 텍스트: 38941
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 넷 일곱 하나 다섯 넷 → digits: 847154
+변환된 텍스트: 847154
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbfiv4%7Cci%3D0d32dc158a2cfefeec4f5f0a2783024dc53d2589%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D4957fe75b6d59649ff6eade65c488f07ba0d513a&nl-au=f89ff0da4b2b4c709fb5edc929bebcaf&nl-query=%EC%82%BC%EC%84%B1%EC%85%B0%EB%A6%AC%ED%94%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbfiv4%7Cci%3D0d32dc158a2cfefeec4f5f0a2783024dc53d2589%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D4957fe75b6d59649ff6eade65c488f07ba0d513a&nl-au=f89ff0da4b2b4c709fb5edc929bebcaf&nl-query=%EC%82%BC%EC%84%B1%EC%85%B0%EB%A6%AC%ED%94%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbfiv4%7Cci%3D0d32dc158a2cfefeec4f5f0a2783024dc53d2589%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D4957fe75b6d59649ff6eade65c488f07ba0d513a&nl-au=f89ff0da4b2b4c709fb5edc929bebcaf&nl-query=%EC%82%BC%EC%84%B1%EC%85%B0%EB%A6%AC%ED%94%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbfiv4%7Cci%3D0d32dc158a2cfefeec4f5f0a2783024dc53d2589%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D4957fe75b6d59649ff6eade65c488f07ba0d513a&nl-au=f89ff0da4b2b4c709fb5edc929bebcaf&nl-query=%EC%82%BC%EC%84%B1%EC%85%B0%EB%A6%AC%ED%94%84%ED%99%94%EB%A9%B4%EB%B3%B4%ED%98%B8
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 9
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.165.181
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4371.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=더프레임티비보호기최저가
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%B5%9C%EC%A0%80%EA%B0%80
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 셋 다섯 여섯 넷 하나 → digits: 635641
+변환된 텍스트: 635641
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%B5%9C%EC%A0%80%EA%B0%80
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 다섯 셋 둘 넷 다섯 → digits: 153245
+변환된 텍스트: 153245
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbkyuo%7Cci%3D40b3a4bb598b4f431c2de1354ae730ac41bb1d20%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D2b7b8e757b8a1b8f8467df13d9c2af1ae42dd821&nl-au=9390d6a22628444880062696e1b42bfb&nl-query=%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%B5%9C%EC%A0%80%EA%B0%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbkyuo%7Cci%3D40b3a4bb598b4f431c2de1354ae730ac41bb1d20%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D2b7b8e757b8a1b8f8467df13d9c2af1ae42dd821&nl-au=9390d6a22628444880062696e1b42bfb&nl-query=%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%B5%9C%EC%A0%80%EA%B0%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbkyuo%7Cci%3D40b3a4bb598b4f431c2de1354ae730ac41bb1d20%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D2b7b8e757b8a1b8f8467df13d9c2af1ae42dd821&nl-au=9390d6a22628444880062696e1b42bfb&nl-query=%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%B5%9C%EC%A0%80%EA%B0%80
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbkyuo%7Cci%3D40b3a4bb598b4f431c2de1354ae730ac41bb1d20%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D2b7b8e757b8a1b8f8467df13d9c2af1ae42dd821&nl-au=9390d6a22628444880062696e1b42bfb&nl-query=%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0%EC%B5%9C%EC%A0%80%EA%B0%80
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 10
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 183.78.143.252
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2352.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=oled커버qled
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=oled%EC%BB%A4%EB%B2%84qled
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 둘 넷 일곱 셋 넷 → digits: 324734
+변환된 텍스트: 324734
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 여섯 셋 아홉 셋 다섯 → digits: 463935
+변환된 텍스트: 463935
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=oled%EC%BB%A4%EB%B2%84qled
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 아홉 넷 여덞 아홉 → digits: 8949
+변환된 텍스트: 8949
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 셋 아홉 넷 여덟 → digits: 23948
+변환된 텍스트: 23948
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷  여덟  일곱  다섯  여덟  하나 → digits: 487581
+변환된 텍스트: 487581
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbqr6o%7Cci%3De7459c5629086a572bb026795d6a0b48058fc640%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De0dc92f70f9669c2ce136f277979d5ffb6bc2ec8&nl-au=04ce3222329a4f5b878ee55627ab1b8d&nl-query=oled%EC%BB%A4%EB%B2%84qled
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbqr6o%7Cci%3De7459c5629086a572bb026795d6a0b48058fc640%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De0dc92f70f9669c2ce136f277979d5ffb6bc2ec8&nl-au=04ce3222329a4f5b878ee55627ab1b8d&nl-query=oled%EC%BB%A4%EB%B2%84qled
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbqr6o%7Cci%3De7459c5629086a572bb026795d6a0b48058fc640%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De0dc92f70f9669c2ce136f277979d5ffb6bc2ec8&nl-au=04ce3222329a4f5b878ee55627ab1b8d&nl-query=oled%EC%BB%A4%EB%B2%84qled
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbqr6o%7Cci%3De7459c5629086a572bb026795d6a0b48058fc640%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De0dc92f70f9669c2ce136f277979d5ffb6bc2ec8&nl-au=04ce3222329a4f5b878ee55627ab1b8d&nl-query=oled%EC%BB%A4%EB%B2%84qled
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 11
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 202.133.16.65
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5518.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=액정필름qled판매
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84qled%ED%8C%90%EB%A7%A4
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  여덟  여덟  여섯  일곱 → digits: 18867
+변환된 텍스트: 18867
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 둘 일곱 일곱 하나 여섯 → digits: 627716
+변환된 텍스트: 627716
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 여덟 둘 하나 아홉 하나 → digits: 982191
+변환된 텍스트: 982191
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84qled%ED%8C%90%EB%A7%A4
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 셋  일곱 넷 여덟  일곱 → digits: 737487
+변환된 텍스트: 737487
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbygyo%7Cci%3D3703d11669ffb06d21c5503cc25a6e823232f0d8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd714ba5ff921ad4fc6f6fbecbb51a6f746a70079&nl-au=6913eadafc3440419ba04ec69586ccaa&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84qled%ED%8C%90%EB%A7%A4
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbygyo%7Cci%3D3703d11669ffb06d21c5503cc25a6e823232f0d8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd714ba5ff921ad4fc6f6fbecbb51a6f746a70079&nl-au=6913eadafc3440419ba04ec69586ccaa&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84qled%ED%8C%90%EB%A7%A4
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbygyo%7Cci%3D3703d11669ffb06d21c5503cc25a6e823232f0d8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd714ba5ff921ad4fc6f6fbecbb51a6f746a70079&nl-au=6913eadafc3440419ba04ec69586ccaa&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84qled%ED%8C%90%EB%A7%A4
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrbygyo%7Cci%3D3703d11669ffb06d21c5503cc25a6e823232f0d8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd714ba5ff921ad4fc6f6fbecbb51a6f746a70079&nl-au=6913eadafc3440419ba04ec69586ccaa&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84qled%ED%8C%90%EB%A7%A4
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 12
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.126.185
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2567.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=아기qled판매
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0qled%ED%8C%90%EB%A7%A4
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯  둘 셋  다섯  하나  다섯 → digits: 523515
+변환된 텍스트: 523515
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 일곱 여섯 하나 여섯 아홉 → digits: 476169
+변환된 텍스트: 476169
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 35
+2--numpy.size(username3) 35
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%84%EA%B8%B0qled%ED%8C%90%EB%A7%A4
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 상어 아기 음악 에어 호른 20 24V
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 여행용가방 탑승용 트롤리 케이스 호환 브레이크 아기 가방
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 이중 문짝 보관 캐비닛 아기 옷장 다층 가정용 사물함 70cm
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 3
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 아홉  둘 셋 아홉  둘 → digits: 292392
+변환된 텍스트: 292392
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc3w6g%7Cci%3De5b104b6097bf5c55a61768c5e3515f71ab503f3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db12d9fe24aacfd523d80ed05cd6477bbd5ae2889&nl-au=d4ec5d7b2ebb48f582aa2213f83251c8&nl-query=%EC%95%84%EA%B8%B0qled%ED%8C%90%EB%A7%A4
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc3w6g%7Cci%3De5b104b6097bf5c55a61768c5e3515f71ab503f3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db12d9fe24aacfd523d80ed05cd6477bbd5ae2889&nl-au=d4ec5d7b2ebb48f582aa2213f83251c8&nl-query=%EC%95%84%EA%B8%B0qled%ED%8C%90%EB%A7%A4
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc3w6g%7Cci%3De5b104b6097bf5c55a61768c5e3515f71ab503f3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db12d9fe24aacfd523d80ed05cd6477bbd5ae2889&nl-au=d4ec5d7b2ebb48f582aa2213f83251c8&nl-query=%EC%95%84%EA%B8%B0qled%ED%8C%90%EB%A7%A4
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc3w6g%7Cci%3De5b104b6097bf5c55a61768c5e3515f71ab503f3%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db12d9fe24aacfd523d80ed05cd6477bbd5ae2889&nl-au=d4ec5d7b2ebb48f582aa2213f83251c8&nl-query=%EC%95%84%EA%B8%B0qled%ED%8C%90%EB%A7%A4
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 13
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.86.232
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1811.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=보호대할인더프레임
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EB%B3%B4%ED%98%B8%EB%8C%80%ED%95%A0%EC%9D%B8%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 여덟 둘 일곱 둘 여섯 → digits: 682726
+변환된 텍스트: 682726
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 여덟 셋  하나 여섯 여섯 → digits: 183166
+변환된 텍스트: 183166
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EB%B3%B4%ED%98%B8%EB%8C%80%ED%95%A0%EC%9D%B8%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘  여덟  하나  여덟  하나  넷 → digits: 281814
+변환된 텍스트: 281814
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc9knk%7Cci%3D608772bdfde03f30f31d93197c97130037afbd91%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D3bc11c159fd6c07eed3364acf0e31268a154ff34&nl-au=894a37a57e0f4cfcad56b1b738701293&nl-query=%EB%B3%B4%ED%98%B8%EB%8C%80%ED%95%A0%EC%9D%B8%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc9knk%7Cci%3D608772bdfde03f30f31d93197c97130037afbd91%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D3bc11c159fd6c07eed3364acf0e31268a154ff34&nl-au=894a37a57e0f4cfcad56b1b738701293&nl-query=%EB%B3%B4%ED%98%B8%EB%8C%80%ED%95%A0%EC%9D%B8%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc9knk%7Cci%3D608772bdfde03f30f31d93197c97130037afbd91%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D3bc11c159fd6c07eed3364acf0e31268a154ff34&nl-au=894a37a57e0f4cfcad56b1b738701293&nl-query=%EB%B3%B4%ED%98%B8%EB%8C%80%ED%95%A0%EC%9D%B8%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrc9knk%7Cci%3D608772bdfde03f30f31d93197c97130037afbd91%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D3bc11c159fd6c07eed3364acf0e31268a154ff34&nl-au=894a37a57e0f4cfcad56b1b738701293&nl-query=%EB%B3%B4%ED%98%B8%EB%8C%80%ED%95%A0%EC%9D%B8%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 14
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.219.130
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7129.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성tv보호플라스틱
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1tv%EB%B3%B4%ED%98%B8%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋  둘  여섯 → digits: 326
+변환된 텍스트: 326
+check_word 길이 : 3
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 하나 둘 일곱  셋 → digits: 31273
+변환된 텍스트: 31273
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 다섯 셋 다섯  여덟 셋 → digits: 853583
+변환된 텍스트: 853583
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1tv%EB%B3%B4%ED%98%B8%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> atFoliX 플라스틱 유리 보호 필름 삼성 WB350F 호환 9H 하이브리드 FX 화면 보호기
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 2
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉  일곱 여섯 다섯 둘 → digits: 97652
+변환된 텍스트: 97652
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  여덟  넷  셋 → digits: 1843
+변환된 텍스트: 1843
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 여섯  넷 여섯 둘 아홉 → digits: 464629
+변환된 텍스트: 464629
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcfpc0%7Cci%3D62b6f58574e39f1f7580f1dd912142bd2d8e8c7b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcb8cca63f2b700ed148cf84a612f9516a8252adc&nl-au=7019a22ee6dd4ea8af0618d9fd7cb843&nl-query=%EC%82%BC%EC%84%B1tv%EB%B3%B4%ED%98%B8%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcfpc0%7Cci%3D62b6f58574e39f1f7580f1dd912142bd2d8e8c7b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcb8cca63f2b700ed148cf84a612f9516a8252adc&nl-au=7019a22ee6dd4ea8af0618d9fd7cb843&nl-query=%EC%82%BC%EC%84%B1tv%EB%B3%B4%ED%98%B8%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcfpc0%7Cci%3D62b6f58574e39f1f7580f1dd912142bd2d8e8c7b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcb8cca63f2b700ed148cf84a612f9516a8252adc&nl-au=7019a22ee6dd4ea8af0618d9fd7cb843&nl-query=%EC%82%BC%EC%84%B1tv%EB%B3%B4%ED%98%B8%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcfpc0%7Cci%3D62b6f58574e39f1f7580f1dd912142bd2d8e8c7b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcb8cca63f2b700ed148cf84a612f9516a8252adc&nl-au=7019a22ee6dd4ea8af0618d9fd7cb843&nl-query=%EC%82%BC%EC%84%B1tv%EB%B3%B4%ED%98%B8%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 15
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.135.156
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5828.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성썬가드광학lg
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 셋 아홉 여섯 셋 둘 → digits: 239632
+변환된 텍스트: 239632
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 아홉 넷 아홉 → digits: 6949
+변환된 텍스트: 6949
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  하나 넷  여덟 아홉  하나 → digits: 114891
+변환된 텍스트: 114891
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  여덟  일곱 둘 → digits: 6872
+변환된 텍스트: 6872
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 다섯 셋 하나 둘 다섯 → digits: 453125
+변환된 텍스트: 453125
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcnhfc%7Cci%3D43c3a2482f0453b0eed7f58406196b60694212dc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D014beece648596589759933a66d0b680102e1dd1&nl-au=71813f279634428e8da8d404c1662984&nl-query=%EC%82%BC%EC%84%B1%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcnhfc%7Cci%3D43c3a2482f0453b0eed7f58406196b60694212dc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D014beece648596589759933a66d0b680102e1dd1&nl-au=71813f279634428e8da8d404c1662984&nl-query=%EC%82%BC%EC%84%B1%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcnhfc%7Cci%3D43c3a2482f0453b0eed7f58406196b60694212dc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D014beece648596589759933a66d0b680102e1dd1&nl-au=71813f279634428e8da8d404c1662984&nl-query=%EC%82%BC%EC%84%B1%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcnhfc%7Cci%3D43c3a2482f0453b0eed7f58406196b60694212dc%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D014beece648596589759933a66d0b680102e1dd1&nl-au=71813f279634428e8da8d404c1662984&nl-query=%EC%82%BC%EC%84%B1%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99lg
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 16
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.97.90
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1633.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=보호기더프레임티비
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 다섯 넷 아홉 하나 다섯 → digits: 654915
+변환된 텍스트: 654915
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  넷  아홉  둘  하나  하나 → digits: 649211
+변환된 텍스트: 649211
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 둘 다섯 여덟 넷 셋 → digits: 725843
+변환된 텍스트: 725843
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 다섯 여덟 넷 여섯 일곱 → digits: 758467
+변환된 텍스트: 758467
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcun54%7Cci%3D1138cc9e96efa3ab1c82fd2fe0416c1ad6c4e5f8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db1d633daa058d90cbe1d5d57e0efb23d3198b9c9&nl-au=b8e27693863b4821bfca1153270071a7&nl-query=%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcun54%7Cci%3D1138cc9e96efa3ab1c82fd2fe0416c1ad6c4e5f8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db1d633daa058d90cbe1d5d57e0efb23d3198b9c9&nl-au=b8e27693863b4821bfca1153270071a7&nl-query=%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcun54%7Cci%3D1138cc9e96efa3ab1c82fd2fe0416c1ad6c4e5f8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db1d633daa058d90cbe1d5d57e0efb23d3198b9c9&nl-au=b8e27693863b4821bfca1153270071a7&nl-query=%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrcun54%7Cci%3D1138cc9e96efa3ab1c82fd2fe0416c1ad6c4e5f8%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db1d633daa058d90cbe1d5d57e0efb23d3198b9c9&nl-au=b8e27693863b4821bfca1153270071a7&nl-query=%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 17
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.53.10
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7560.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=썬가드tv
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9Ctv
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 일곱 하나 여덟 일곱 다섯 → digits: 371875
+변환된 텍스트: 371875
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱  일곱  여덟  일곱  둘  셋 → digits: 778723
+변환된 텍스트: 778723
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 일곱 아홉 여덟 아홉 → digits: 27989
+변환된 텍스트: 27989
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3  5  9  4  다섯  하나 → digits: 359451
+변환된 텍스트: 359451
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%8D%AC%EA%B0%80%EB%93%9Ctv
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 여섯 셋 하나 넷 둘 → digits: 863142
+변환된 텍스트: 863142
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd1vy0%7Cci%3Ddc1659824246827b5e7dbbddcc400152a75fc326%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df609a7868ed418c07886b209971601bad56750c2&nl-au=4951e7f161c8429892984e5ff43675bf&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9Ctv
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd1vy0%7Cci%3Ddc1659824246827b5e7dbbddcc400152a75fc326%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df609a7868ed418c07886b209971601bad56750c2&nl-au=4951e7f161c8429892984e5ff43675bf&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9Ctv
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd1vy0%7Cci%3Ddc1659824246827b5e7dbbddcc400152a75fc326%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df609a7868ed418c07886b209971601bad56750c2&nl-au=4951e7f161c8429892984e5ff43675bf&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9Ctv
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd1vy0%7Cci%3Ddc1659824246827b5e7dbbddcc400152a75fc326%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df609a7868ed418c07886b209971601bad56750c2&nl-au=4951e7f161c8429892984e5ff43675bf&nl-query=%EC%8D%AC%EA%B0%80%EB%93%9Ctv
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 18
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.254.199
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4337.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv보호판
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%ED%8C%90
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 하나  하나 넷 네 → digits: 61144
+변환된 텍스트: 61144
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 여섯  둘 아홉 넷 다섯 → digits: 262945
+변환된 텍스트: 262945
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 다섯 일곱 다섯 여섯 넷 → digits: 657564
+변환된 텍스트: 657564
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EB%B3%B4%ED%98%B8%ED%8C%90
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 에이픽스 라베스토 방탄형 티비보호기 163cm(65인치) TV 화면 보호기 블루라이트 차단 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 블루라이트차단 TV화면보호기 티비커버 시력 보호대 액정필름 가드 ABLT 77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 세이퍼 티비보호기 TV가드 블루라이트차단 액정 화면 보호커버 보호대 삼성LG 호환 SP40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 5
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 여덟 여섯 다섯 셋 → digits: 58653
+변환된 텍스트: 58653
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 일곱 둘 일곱 여섯 둘 → digits: 372762
+변환된 텍스트: 372762
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd83pk%7Cci%3D69e9adaa944caf7868d357a1307422a298a6ea9e%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D672de2ed9b5a42661a69b78509c14043aa88ff80&nl-au=7a60b47d50ee4f7999236170bca58c05&nl-query=tv%EB%B3%B4%ED%98%B8%ED%8C%90
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd83pk%7Cci%3D69e9adaa944caf7868d357a1307422a298a6ea9e%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D672de2ed9b5a42661a69b78509c14043aa88ff80&nl-au=7a60b47d50ee4f7999236170bca58c05&nl-query=tv%EB%B3%B4%ED%98%B8%ED%8C%90
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd83pk%7Cci%3D69e9adaa944caf7868d357a1307422a298a6ea9e%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D672de2ed9b5a42661a69b78509c14043aa88ff80&nl-au=7a60b47d50ee4f7999236170bca58c05&nl-query=tv%EB%B3%B4%ED%98%B8%ED%8C%90
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrd83pk%7Cci%3D69e9adaa944caf7868d357a1307422a298a6ea9e%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D672de2ed9b5a42661a69b78509c14043aa88ff80&nl-au=7a60b47d50ee4f7999236170bca58c05&nl-query=tv%EB%B3%B4%ED%98%B8%ED%8C%90
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 19
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+[TMP 정리] 삭제:36 건너뜀:13 (C:\Users\cafu0\AppData\Local\Temp)
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.246.68
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1579.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=tv인기보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=tv%EC%9D%B8%EA%B8%B0%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 하나 둘 다섯 둘 여섯 → digits: 712526
+변환된 텍스트: 712526
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷  하나  여덟  다섯  넷  여섯 → digits: 418546
+변환된 텍스트: 418546
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=tv%EC%9D%B8%EA%B8%B0%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 에이픽스 라베스토 방탄형 티비보호기 163cm(65인치) TV 화면 보호기 블루라이트 차단 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 블루라이트차단 TV화면보호기 티비커버 시력 보호대 액정필름 가드 ABLT 77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 4
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 하나 일곱 넷 아홉 하나 → digits: 517491
+변환된 텍스트: 517491
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdeqwo%7Cci%3De7efd2389108504b54888b642d7b90826507fd0d%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D9ed6bc70f47fcd86f5655e4f4ffc3a7bd3584184&nl-au=0c042c5d6e8b4556b0596b2f5da9fcd9&nl-query=tv%EC%9D%B8%EA%B8%B0%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdeqwo%7Cci%3De7efd2389108504b54888b642d7b90826507fd0d%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D9ed6bc70f47fcd86f5655e4f4ffc3a7bd3584184&nl-au=0c042c5d6e8b4556b0596b2f5da9fcd9&nl-query=tv%EC%9D%B8%EA%B8%B0%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdeqwo%7Cci%3De7efd2389108504b54888b642d7b90826507fd0d%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D9ed6bc70f47fcd86f5655e4f4ffc3a7bd3584184&nl-au=0c042c5d6e8b4556b0596b2f5da9fcd9&nl-query=tv%EC%9D%B8%EA%B8%B0%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdeqwo%7Cci%3De7efd2389108504b54888b642d7b90826507fd0d%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D9ed6bc70f47fcd86f5655e4f4ffc3a7bd3584184&nl-au=0c042c5d6e8b4556b0596b2f5da9fcd9&nl-query=tv%EC%9D%B8%EA%B8%B0%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 20
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 124.198.103.54
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7940.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+---여기
+AI
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+어학사전
+---여기
+지도
+---여기
+인플루언서
+---여기
+검색옵션
+--------mode4 전체 error-------------import --------
+에러메세지
+flick_bx 탭 이동 10회 실패 → 페이지 오류
+[진단] 예외타입: Exception
+[진단] URL: https://m.search.naver.com/search.naver?sm=mtp_hty.top&where=m&query=%EC%95%84%EA%B8%B0%EC%9A%A9tv%EB%B3%B4%ED%98%B8&ackey=j2uqwf92
+[진단] body 처음 300자: 본문 바로가기
+Naver
+이전페이지
+입력 내용 삭제
+음성검색
+검색
+AInew
+블로그
+카페
+클립
+이미지
+지식iN
+동영상
+쇼핑
+뉴스
+어학사전
+지도
+인플루언서
+검색옵션
+AI 브리핑
+실험 단계로 정확하지 않을 수 있어요.
+[내돈내산 SSI몰] 아기 있는 집 필수템, 씬가드 77인치 TV 액정 보호기 설치 후기
+디어퍼
+네이버 블로그
+TV보호가드 결국 달았어요 (ft.4살 블록 투척 사건)
+레이디엠
+네이버 블로그
+TV 보호기 고르는법 아기안전 블루라이트차단 LG 삼성 QLED OLED 호환
+평범한 취향
+[보자보자/티비보호기] 아기 있는 집 육
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 21
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.137.9
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7167.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=추천티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 넷 다섯 다섯 하나 일곱 → digits: 245517
+변환된 텍스트: 245517
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 여섯 둘 여덟 여덟 아홉 → digits: 362889
+변환된 텍스트: 362889
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 에이픽스 라베스토 방탄형 티비보호기 163cm(65인치) TV 화면 보호기 블루라이트 차단 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 블루라이트차단 TV화면보호기 티비커버 시력 보호대 액정필름 가드 ABLT 77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 4
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2  9  6  5  2  8 → digits: 296528
+변환된 텍스트: 296528
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdmkjk%7Cci%3D9eb69cbe495de3daa8c182d6b46fbf3455e63e2b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0b096de67670e5c17317b0e2df2e1f11f8c53353&nl-au=1e18a8c968f944a9b46ac796224d113b&nl-query=%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdmkjk%7Cci%3D9eb69cbe495de3daa8c182d6b46fbf3455e63e2b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0b096de67670e5c17317b0e2df2e1f11f8c53353&nl-au=1e18a8c968f944a9b46ac796224d113b&nl-query=%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdmkjk%7Cci%3D9eb69cbe495de3daa8c182d6b46fbf3455e63e2b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0b096de67670e5c17317b0e2df2e1f11f8c53353&nl-au=1e18a8c968f944a9b46ac796224d113b&nl-query=%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdmkjk%7Cci%3D9eb69cbe495de3daa8c182d6b46fbf3455e63e2b%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D0b096de67670e5c17317b0e2df2e1f11f8c53353&nl-au=1e18a8c968f944a9b46ac796224d113b&nl-query=%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 22
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.115.106
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.8194.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=최저가티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%B5%9C%EC%A0%80%EA%B0%80%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 아홉 셋 여섯 아홉 하나 → digits: 493691
+변환된 텍스트: 493691
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 셋 여섯 넷 아홉 여덟 → digits: 536498
+변환된 텍스트: 536498
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 넷 하나 하나 하나 셋 → digits: 641113
+변환된 텍스트: 641113
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  여덟  아홉  아홉  넷  아홉 → digits: 189949
+변환된 텍스트: 189949
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%B5%9C%EC%A0%80%EA%B0%80%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 에이픽스 라베스토 방탄형 티비보호기 163cm(65인치) TV 화면 보호기 블루라이트 차단 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 TV 화면보호기 티비가드 블루라이트 차단 액정 시력보호필름 커버 GBLT 40
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 아이오랩스 블루라이트차단 TV화면보호기 티비커버 시력 보호대 액정필름 가드 ABLT 77
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 4
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘  일곱  셋  여섯 → digits: 2736
+변환된 텍스트: 2736
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 아홉 하나 넷 아홉 넷 → digits: 891494
+변환된 텍스트: 891494
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdtuw0%7Cci%3D3ab41601769afe9bfce0e29eaebade6336d033b7%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dfba9ac15b2fc8ebad200f01298b7c6e76961d463&nl-au=22cacc327b214f579fefea81e53c2881&nl-query=%EC%B5%9C%EC%A0%80%EA%B0%80%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdtuw0%7Cci%3D3ab41601769afe9bfce0e29eaebade6336d033b7%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dfba9ac15b2fc8ebad200f01298b7c6e76961d463&nl-au=22cacc327b214f579fefea81e53c2881&nl-query=%EC%B5%9C%EC%A0%80%EA%B0%80%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdtuw0%7Cci%3D3ab41601769afe9bfce0e29eaebade6336d033b7%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dfba9ac15b2fc8ebad200f01298b7c6e76961d463&nl-au=22cacc327b214f579fefea81e53c2881&nl-query=%EC%B5%9C%EC%A0%80%EA%B0%80%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrdtuw0%7Cci%3D3ab41601769afe9bfce0e29eaebade6336d033b7%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dfba9ac15b2fc8ebad200f01298b7c6e76961d463&nl-au=22cacc327b214f579fefea81e53c2881&nl-query=%EC%B5%9C%EC%A0%80%EA%B0%80%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 23
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.253.41
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5173.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성티비보호커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  여덟  다섯  하나  일곱  셋 → digits: 185173
+변환된 텍스트: 185173
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 둘 아홉 넷 하나 하나 → digits: 129411
+변환된 텍스트: 129411
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 아홉 여섯 넷 아홉 일곱 → digits: 196497
+변환된 텍스트: 196497
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 하나 둘  하나 넷 둘 → digits: 612142
+변환된 텍스트: 612142
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 하나 일곱 여섯 일곱 → digits: 81767
+변환된 텍스트: 81767
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 둘 여덟 다섯 여섯 셋 → digits: 428563
+변환된 텍스트: 428563
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre1oiw%7Cci%3D0b8bd83c1cb1fab1a58d408ff3ae5befea6b70ee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De07d5c6c9e421b6358e0d947a470faf74a55e7d8&nl-au=5600afae2ccd41f7888f6624540306dc&nl-query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre1oiw%7Cci%3D0b8bd83c1cb1fab1a58d408ff3ae5befea6b70ee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De07d5c6c9e421b6358e0d947a470faf74a55e7d8&nl-au=5600afae2ccd41f7888f6624540306dc&nl-query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre1oiw%7Cci%3D0b8bd83c1cb1fab1a58d408ff3ae5befea6b70ee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De07d5c6c9e421b6358e0d947a470faf74a55e7d8&nl-au=5600afae2ccd41f7888f6624540306dc&nl-query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre1oiw%7Cci%3D0b8bd83c1cb1fab1a58d408ff3ae5befea6b70ee%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De07d5c6c9e421b6358e0d947a470faf74a55e7d8&nl-au=5600afae2ccd41f7888f6624540306dc&nl-query=%EC%82%BC%EC%84%B1%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 24
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.115.109
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.3850.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=액정필름QLED삼성
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84QLED%EC%82%BC%EC%84%B1
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟  아홉  셋 → digits: 893
+변환된 텍스트: 893
+check_word 길이 : 3
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4 3 2 1 여섯 다섯 → digits: 432165
+변환된 텍스트: 432165
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4 3  9 4 1 7 → digits: 439417
+변환된 텍스트: 439417
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 둘 넷  일곱 하나 다섯 → digits: 724715
+변환된 텍스트: 724715
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84QLED%EC%82%BC%EC%84%B1
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 하나 아홉 일곱 넷 여덟 → digits: 219748
+변환된 텍스트: 219748
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 업
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre9jpc%7Cci%3D20ce62f233c75f3fd32587d14238e97a6a2d1a40%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df762d970f9562e1c737ea97ed18666ef491ecabf&nl-au=6195cc52c8894aaaac089dd41e4edb26&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84QLED%EC%82%BC%EC%84%B1
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre9jpc%7Cci%3D20ce62f233c75f3fd32587d14238e97a6a2d1a40%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df762d970f9562e1c737ea97ed18666ef491ecabf&nl-au=6195cc52c8894aaaac089dd41e4edb26&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84QLED%EC%82%BC%EC%84%B1
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre9jpc%7Cci%3D20ce62f233c75f3fd32587d14238e97a6a2d1a40%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df762d970f9562e1c737ea97ed18666ef491ecabf&nl-au=6195cc52c8894aaaac089dd41e4edb26&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84QLED%EC%82%BC%EC%84%B1
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrre9jpc%7Cci%3D20ce62f233c75f3fd32587d14238e97a6a2d1a40%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Df762d970f9562e1c737ea97ed18666ef491ecabf&nl-au=6195cc52c8894aaaac089dd41e4edb26&nl-query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84QLED%EC%82%BC%EC%84%B1
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 25
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.120.41
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.9368.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=2026년TB65화면SSI몰
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=2026%EB%85%84TB65%ED%99%94%EB%A9%B4SSI%EB%AA%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 하나 셋 아홉 둘 넷 → digits: 413924
+변환된 텍스트: 413924
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  7  3  6  2  5  다섯 → digits: 736255
+변환된 텍스트: 736255
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 둘 여덟 여섯 여섯 여섯 → digits: 928666
+변환된 텍스트: 928666
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 다섯 여덟 일곱 일곱 다섯 → digits: 858775
+변환된 텍스트: 858775
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=2026%EB%85%84TB65%ED%99%94%EB%A9%B4SSI%EB%AA%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 다섯 여섯 여섯 둘 여섯 → digits: 356626
+변환된 텍스트: 356626
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrregwd4%7Cci%3D884eac5c6cc28341829a32708badf4372f930871%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd47f854bf95fd2a69b62a3583f10148f7dd78bf3&nl-au=4db29396516c4a819eb592090aa9e7bd&nl-query=2026%EB%85%84TB65%ED%99%94%EB%A9%B4SSI%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrregwd4%7Cci%3D884eac5c6cc28341829a32708badf4372f930871%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd47f854bf95fd2a69b62a3583f10148f7dd78bf3&nl-au=4db29396516c4a819eb592090aa9e7bd&nl-query=2026%EB%85%84TB65%ED%99%94%EB%A9%B4SSI%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrregwd4%7Cci%3D884eac5c6cc28341829a32708badf4372f930871%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd47f854bf95fd2a69b62a3583f10148f7dd78bf3&nl-au=4db29396516c4a819eb592090aa9e7bd&nl-query=2026%EB%85%84TB65%ED%99%94%EB%A9%B4SSI%EB%AA%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrregwd4%7Cci%3D884eac5c6cc28341829a32708badf4372f930871%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dd47f854bf95fd2a69b62a3583f10148f7dd78bf3&nl-au=4db29396516c4a819eb592090aa9e7bd&nl-query=2026%EB%85%84TB65%ED%99%94%EB%A9%B4SSI%EB%AA%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 26
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.223.161
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4506.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성더프레임티비보호커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 아홉 여섯 여덟 아홉 셋 → digits: 196893
+변환된 텍스트: 196893
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 둘 여덟 하나 아홉 여섯 → digits: 328196
+변환된 텍스트: 328196
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 일곱 여덟 넷 하나 → digits: 57841
+변환된 텍스트: 57841
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 다섯 아홉 다섯  셋 → digits: 75953
+변환된 텍스트: 75953
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 하나 여섯 하나 여덟 둘 → digits: 316182
+변환된 텍스트: 316182
+check_word 길이 : 6
+총-----> 5번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 5번째 만에 통과 성공
+[캡차] 5회 시도 실패 → unsolvable 처리(IP 변경)
+--------mode4 전체 error-------------import --------
+에러메세지
+검색 단계 캡차 해결 불가 — IP 변경 필요
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EB%8D%94%ED%94%84%EB%A0%88%EC%9E%84%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+[진단] body 처음 300자: 본문으로 바로가기
+NAVER
+네이버페이
+사용자 링크
+로그인
+서비스 더보기
+네이버 가격비교
+검색영역
+입력 내용 삭제
+검색레이어 펼치기
+검색
+네이버 플러스 쇼핑
+검색에서 더보기
+카테고리
+마이쇼핑
+장바구니
+검색결과
+찾으시는 상품과 유사한 상품도 함께 노출합니다. ‘삼성더프레임티비보호커버’로만 검색하기
+검색 도구
+카테고리
+더보기
+디지털/가전
+생활/건강
+가구/인테리어
+패션잡화
+출산/육아
+스포츠/레저
+가격
+6만원이하
+6만원 ~ 12만원
+12만원 ~ 24만원
+24만원 ~ 48만원
+48만원이상
+직접입력원~원가격대 검색
+배송/혜택
+n배송
+빠르게 받
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 27
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 125.7.161.101
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.8727.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기TB65비교
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0TB65%EB%B9%84%EA%B5%90
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 하나 여덟  하나 다섯 아홉 → digits: 518159
+변환된 텍스트: 518159
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 넷 둘  넷 넷  둘 → digits: 342442
+변환된 텍스트: 342442
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 하나 다섯 넷 둘 일곱 → digits: 915427
+변환된 텍스트: 915427
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3 4 5 2 3 → digits: 34523
+변환된 텍스트: 34523
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉  다섯 넷  셋 넷 → digits: 95434
+변환된 텍스트: 95434
+check_word 길이 : 5
+[캡차] 5회 시도 실패 → unsolvable 처리(IP 변경)
+--------mode4 전체 error-------------import --------
+에러메세지
+검색 단계 캡차 해결 불가 — IP 변경 필요
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0TB65%EB%B9%84%EA%B5%90
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 28
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.127.204
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.4375.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=삼성더세리프블루라이트차단
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2 4 7 6 5 6 → digits: 247656
+변환된 텍스트: 247656
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 넷  하나 넷  넷 아홉 → digits: 141449
+변환된 텍스트: 141449
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷  둘  일곱  넷  아홉  여섯 → digits: 427496
+변환된 텍스트: 427496
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 일곱 하나 하나 일곱 넷 → digits: 871174
+변환된 텍스트: 871174
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%82%BC%EC%84%B1%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 여덟 다섯 여덞 셋 다섯 → digits: 78535
+변환된 텍스트: 78535
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟  둘 다섯  여섯 둘 → digits: 82562
+변환된 텍스트: 82562
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 넷  하나 둘 여덟 → digits: 34128
+변환된 텍스트: 34128
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 둘 아홉  다섯 넷 여덟 → digits: 529548
+변환된 텍스트: 529548
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrreyo0w%7Cci%3Db67aa72e863cb011b1c1c5de30a261c2e1b01aeb%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D707e997f37837581daaa851cfad28578dd4096a9&nl-au=64cc09f578c5428898ae80d6e493fe55&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrreyo0w%7Cci%3Db67aa72e863cb011b1c1c5de30a261c2e1b01aeb%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D707e997f37837581daaa851cfad28578dd4096a9&nl-au=64cc09f578c5428898ae80d6e493fe55&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrreyo0w%7Cci%3Db67aa72e863cb011b1c1c5de30a261c2e1b01aeb%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D707e997f37837581daaa851cfad28578dd4096a9&nl-au=64cc09f578c5428898ae80d6e493fe55&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrreyo0w%7Cci%3Db67aa72e863cb011b1c1c5de30a261c2e1b01aeb%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D707e997f37837581daaa851cfad28578dd4096a9&nl-au=64cc09f578c5428898ae80d6e493fe55&nl-query=%EC%82%BC%EC%84%B1%EB%8D%94%EC%84%B8%EB%A6%AC%ED%94%84%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%B0%A8%EB%8B%A8
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 29
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.58.114
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1596.0 Safari/537.36
+[FP] window=1920x1080, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=신형QLED가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%8B%A0%ED%98%95QLED%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋  여덟  셋  여섯  넷  다섯 → digits: 383645
+변환된 텍스트: 383645
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2 4  5 → digits: 245
+변환된 텍스트: 245
+check_word 길이 : 3
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷 다섯  셋 아홉 여섯 → digits: 45396
+변환된 텍스트: 45396
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 다섯  다섯 둘 여섯  다섯 → digits: 855265
+변환된 텍스트: 855265
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%8B%A0%ED%98%95QLED%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 셋 하나  하나 다섯 둘 → digits: 831152
+변환된 텍스트: 831152
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrf7hxc%7Cci%3D44a124687c847f5f381b9f30211a844729a36b7a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D8ae4646047c4fa7cadcf0873acc4e9d68b6b746f&nl-au=03439bca3ede4b7d836d1688b1b05074&nl-query=%EC%8B%A0%ED%98%95QLED%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrf7hxc%7Cci%3D44a124687c847f5f381b9f30211a844729a36b7a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D8ae4646047c4fa7cadcf0873acc4e9d68b6b746f&nl-au=03439bca3ede4b7d836d1688b1b05074&nl-query=%EC%8B%A0%ED%98%95QLED%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrf7hxc%7Cci%3D44a124687c847f5f381b9f30211a844729a36b7a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D8ae4646047c4fa7cadcf0873acc4e9d68b6b746f&nl-au=03439bca3ede4b7d836d1688b1b05074&nl-query=%EC%8B%A0%ED%98%95QLED%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrf7hxc%7Cci%3D44a124687c847f5f381b9f30211a844729a36b7a%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3D8ae4646047c4fa7cadcf0873acc4e9d68b6b746f&nl-au=03439bca3ede4b7d836d1688b1b05074&nl-query=%EC%8B%A0%ED%98%95QLED%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 30
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 115.144.131.41
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6035.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호기OLED가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0OLED%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 일곱 여섯 둘 아홉 일곱 → digits: 576297
+변환된 텍스트: 576297
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 아홉 여덟 여섯 셋 일곱 → digits: 798637
+변환된 텍스트: 798637
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2 아홉 둘 아홉 일곱 둘 → digits: 292972
+변환된 텍스트: 292972
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 여덟 일곱 아홉 하나 둘 셋 넷 다섯 여섯 일곱 여덟 아홉 → digits: 987912
+변환된 텍스트: 987912
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0OLED%EA%B0%80%EB%93%9C
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯  셋  하나  둘 → digits: 6312
+변환된 텍스트: 6312
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 여덟 넷  여덟 다섯 셋 → digits: 784853
+변환된 텍스트: 784853
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfekk0%7Cci%3D7811c30d2b40299870b7b8779dda66298e780963%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De612b4008633fa89cfdb294f7c9129a1de7da729&nl-au=14bc4278b356447fae6a570febcf6c71&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0OLED%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfekk0%7Cci%3D7811c30d2b40299870b7b8779dda66298e780963%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De612b4008633fa89cfdb294f7c9129a1de7da729&nl-au=14bc4278b356447fae6a570febcf6c71&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0OLED%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfekk0%7Cci%3D7811c30d2b40299870b7b8779dda66298e780963%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De612b4008633fa89cfdb294f7c9129a1de7da729&nl-au=14bc4278b356447fae6a570febcf6c71&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0OLED%EA%B0%80%EB%93%9C
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfekk0%7Cci%3D7811c30d2b40299870b7b8779dda66298e780963%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3De612b4008633fa89cfdb294f7c9129a1de7da729&nl-au=14bc4278b356447fae6a570febcf6c71&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0OLED%EA%B0%80%EB%93%9C
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 31
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.92.218
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.3896.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=SSI몰티비보호
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=SSI%EB%AA%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 셋 다섯 셋 여섯 여섯 → digits: 735366
+변환된 텍스트: 735366
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 둘 여섯 셋 넷 여덟 → digits: 326348
+변환된 텍스트: 326348
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 둘 일곱 하나 하나 넷 → digits: 527114
+변환된 텍스트: 527114
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷  둘  넷  하나  일곱  셋 → digits: 424173
+변환된 텍스트: 424173
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=SSI%EB%AA%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯  셋 아홉  둘 → digits: 5392
+변환된 텍스트: 5392
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 셋 아홉 여섯 둘 일곱 → digits: 139627
+변환된 텍스트: 139627
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 다운
+스크롤 다운
+스크롤 업
+스크롤 다운
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfmitk%7Cci%3D8eed428562bcd2da8ec52509cec72b8ddf803435%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db8c3ad52825d574740ca16cd8029970192f937cd&nl-au=642f6af8316a4a5c8fbb861912541606&nl-query=SSI%EB%AA%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfmitk%7Cci%3D8eed428562bcd2da8ec52509cec72b8ddf803435%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db8c3ad52825d574740ca16cd8029970192f937cd&nl-au=642f6af8316a4a5c8fbb861912541606&nl-query=SSI%EB%AA%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfmitk%7Cci%3D8eed428562bcd2da8ec52509cec72b8ddf803435%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db8c3ad52825d574740ca16cd8029970192f937cd&nl-au=642f6af8316a4a5c8fbb861912541606&nl-query=SSI%EB%AA%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfmitk%7Cci%3D8eed428562bcd2da8ec52509cec72b8ddf803435%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Db8c3ad52825d574740ca16cd8029970192f937cd&nl-au=642f6af8316a4a5c8fbb861912541606&nl-query=SSI%EB%AA%B0%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 32
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.97.93
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6544.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=티비보호커버
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  여섯  셋 일곱  여섯 아홉 → digits: 163769
+변환된 텍스트: 163769
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 여섯 다섯  둘 셋 → digits: 26523
+변환된 텍스트: 26523
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여덟 둘 다섯 여섯 아홉 넷 → digits: 825694
+변환된 텍스트: 825694
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 여섯 여덟 하나 다섯 셋 → digits: 268153
+변환된 텍스트: 268153
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=2
+numpy.size(username3) 2
+오예
+next_numpy_count 100
+numpy.size(username3) 2
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 고부기 티비 화면 보호기 TV 가드 블루라이트 차단 액정 보호 필름 커버
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 에이픽스 라베스토 방탄형 티비보호기 163cm(65인치) TV 화면 보호기 블루라이트 차단 1개
+현재 페이지에 없음
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 2
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 하나 셋 둘 하나 → digits: 51321
+변환된 텍스트: 51321
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나  일곱  아홉  셋  일곱  셋 → digits: 179373
+변환된 텍스트: 179373
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 만에 통과 성공
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 업
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfucgg%7Cci%3D8997197951a9b68395287a6a429aba73201ed6ce%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Daeb36fef323855dc87fd32495453a3fbc005f4f9&nl-au=66ab5668ca8a441cafb6d7053de4479f&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfucgg%7Cci%3D8997197951a9b68395287a6a429aba73201ed6ce%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Daeb36fef323855dc87fd32495453a3fbc005f4f9&nl-au=66ab5668ca8a441cafb6d7053de4479f&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfucgg%7Cci%3D8997197951a9b68395287a6a429aba73201ed6ce%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Daeb36fef323855dc87fd32495453a3fbc005f4f9&nl-au=66ab5668ca8a441cafb6d7053de4479f&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrfucgg%7Cci%3D8997197951a9b68395287a6a429aba73201ed6ce%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Daeb36fef323855dc87fd32495453a3fbc005f4f9&nl-au=66ab5668ca8a441cafb6d7053de4479f&nl-query=%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EC%BB%A4%EB%B2%84
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 33
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.66.169
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.5486.0 Safari/537.36
+[FP] window=2560x1440, lang=ko-KR,ko;q=0.9, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=TV액정아기가드
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=TV%EC%95%A1%EC%A0%95%EC%95%84%EA%B8%B0%EA%B0%80%EB%93%9C
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 둘 아홉 다섯 넷 둘 → digits: 729542
+변환된 텍스트: 729542
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 하나 넷 일곱 셋 아홉 → digits: 914739
+변환된 텍스트: 914739
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  넷  여섯  둘  하나  여덟 → digits: 46218
+변환된 텍스트: 46218
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 여섯 일곱 여덟 아홉 일곱 → digits: 567897
+변환된 텍스트: 567897
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 여섯 아홉  둘 하나 → digits: 26921
+변환된 텍스트: 26921
+check_word 길이 : 5
+[캡차] 5회 시도 실패 → unsolvable 처리(IP 변경)
+--------mode4 전체 error-------------import --------
+에러메세지
+검색 단계 캡차 해결 불가 — IP 변경 필요
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=TV%EC%95%A1%EC%A0%95%EC%95%84%EA%B8%B0%EA%B0%80%EB%93%9C
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 34
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.80.124
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.9865.0 Safari/537.36
+[FP] window=1440x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=SSI몰추천티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=SSI%EB%AA%B0%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  아홉 여섯 셋 다섯  다섯 여섯 → digits: 963556
+변환된 텍스트: 963556
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 넷 둘 여덟  하나 → digits: 14281
+변환된 텍스트: 14281
+check_word 길이 : 5
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  다섯 둘 여덟  다섯 여덟 아홉 → digits: 528589
+변환된 텍스트: 528589
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  셋 여섯 넷 일곱 아홉 하나 → digits: 364791
+변환된 텍스트: 364791
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 다섯 하나 둘 일곱 아홉 → digits: 751279
+변환된 텍스트: 751279
+check_word 길이 : 6
+총-----> 5번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 5번째 만에 통과 성공
+[캡차] 5회 시도 실패 → unsolvable 처리(IP 변경)
+--------mode4 전체 error-------------import --------
+에러메세지
+검색 단계 캡차 해결 불가 — IP 변경 필요
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?query=SSI%EB%AA%B0%EC%B6%94%EC%B2%9C%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[진단] body 처음 300자: 본문으로 바로가기
+NAVER
+네이버페이
+사용자 링크
+로그인
+서비스 더보기
+네이버 가격비교
+검색영역
+입력 내용 삭제
+검색레이어 펼치기
+검색
+네이버 플러스 쇼핑
+검색에서 더보기
+카테고리
+마이쇼핑
+장바구니
+검색결과
+찾으시는 상품과 유사한 상품도 함께 노출합니다. ‘SSI몰추천티비보호기’로만 검색하기
+검색 도구
+카테고리
+더보기
+디지털/가전
+생활/건강
+가구/인테리어
+스포츠/레저
+패션잡화
+패션의류
+가격
+16만원이하
+16만원 ~ 32만원
+32만원이상
+직접입력원~원가격대 검색
+배송/혜택
+n배송
+빠르게 받기
+빠른배송 전체
+무료배송
+배송비포함 혜택가
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 35
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 121.126.44.186
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.1067.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=커버QLED티비보호기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%BB%A4%EB%B2%84QLED%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 아홉 여덟 둘 다섯 여섯 → digits: 298256
+변환된 텍스트: 298256
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 일곱 다섯 넷 여섯 둘 → digits: 275462
+변환된 텍스트: 275462
+check_word 길이 : 6
+총-----> 2번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 2번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 셋 둘 아홉 일곱 넷 → digits: 632974
+변환된 텍스트: 632974
+check_word 길이 : 6
+총-----> 3번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 3번째 제출 실패(오답, 캡차 잔존) → 재시도
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  일곱 둘 넷  일곱 여덟 둘 → digits: 724782
+변환된 텍스트: 724782
+check_word 길이 : 6
+총-----> 4번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 4번째 만에 통과 성공
+[상품 검색] 셀렉터=[class*='product_title'], 개수=5
+numpy.size(username3) 5
+오예
+next_numpy_count 100
+numpy.size(username3) 5
+2--next_numpy_count 40
+2--numpy.size(username3) 40
+끝
+[while]counting2 0
+driver_current _네이버 쇼핑 https://search.shopping.naver.com/search/all?query=%EC%BB%A4%EB%B2%84QLED%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+***********************************************
+*****************페이지 정보********************
+***********************************************
+None
+===============================================
+----> 썬가드광학 2026년 티비보호기 신형 TV 액정필름 화면 보호대 커버 블루라이트차단 가드 아기 TB65 163cm(65인치) QLED OLED 벽걸이 LG 삼성 더프레임 더세리프
+2찾음====================================================
+1
+counting2 0
+counting2 0
+-asdfiajsdf
+index 0
+a 태그 클릭 성공
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  여섯 일곱 다섯 일곱 아홉 다섯 → digits: 675795
+변환된 텍스트: 675795
+check_word 길이 : 6
+총-----> 1번째 STT 6자리 인식(제출 시도)
+----
+[캡차] 1번째 만에 통과 성공
+스크롤 업
+스크롤 다운
+스크롤 업
+스크롤 업
+스크롤 다운
+스크롤 다운
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrgdak0%7Cci%3D4b69f559efa08a7c2117a1de60f9c4600b42ea53%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcbbc8632fe5000421068cb82f86ebe2e63dc4681&nl-au=1c438d2b9f224ac490be47a852a922dc&nl-query=%EC%BB%A4%EB%B2%84QLED%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrgdak0%7Cci%3D4b69f559efa08a7c2117a1de60f9c4600b42ea53%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcbbc8632fe5000421068cb82f86ebe2e63dc4681&nl-au=1c438d2b9f224ac490be47a852a922dc&nl-query=%EC%BB%A4%EB%B2%84QLED%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrgdak0%7Cci%3D4b69f559efa08a7c2117a1de60f9c4600b42ea53%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcbbc8632fe5000421068cb82f86ebe2e63dc4681&nl-au=1c438d2b9f224ac490be47a852a922dc&nl-query=%EC%BB%A4%EB%B2%84QLED%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+드라이버 백
+지금 주소:
+https://smartstore.naver.com/ssimall/products/6351155946?NaPm=ct%3Dmrrgdak0%7Cci%3D4b69f559efa08a7c2117a1de60f9c4600b42ea53%7Ctr%3Dslsl%7Csn%3D5332064%7Chk%3Dcbbc8632fe5000421068cb82f86ebe2e63dc4681&nl-au=1c438d2b9f224ac490be47a852a922dc&nl-query=%EC%BB%A4%EB%B2%84QLED%ED%8B%B0%EB%B9%84%EB%B3%B4%ED%98%B8%EA%B8%B0
+시크릿모드: delete_cache 스킵
+뒤로가기 완료
+스탑1
+스탑1
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 36
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+IP 변경중 (청춘IP 시도 1/10)...
+외부 IP: 49.254.181.58
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.2361.0 Safari/537.36
+[FP] window=1536x864, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+---여기
+AInew
+---여기
+블로그
+---여기
+전체
+---여기
+블로그
+---여기
+AInew
+---여기
+카페
+---여기
+전체
+---여기
+카페
+---여기
+AInew
+---여기
+블로그
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+쇼핑
+---여기
+뉴스
+---여기
+전체
+---여기
+뉴스
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+동영상
+---여기
+전체
+---여기
+동영상
+---여기
+AInew
+---여기
+블로그
+---여기
+카페
+---여기
+클립
+---여기
+이미지
+---여기
+지식iN
+---여기
+쇼핑
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=액정필름TV아기
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?query=%EC%95%A1%EC%A0%95%ED%95%84%EB%A6%84TV%EC%95%84%EA%B8%B0
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  둘 아홉  여섯 일곱 → digits: 2967
+변환된 텍스트: 2967
+check_word 길이 : 4
+영수증 캡차 
+[캡차녹음] CABLE Output 장치 사용: idx=1 name=CABLE Output(VB-Audio Virtual C
+* recording
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
