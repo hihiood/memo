@@ -1,0 +1,4523 @@
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+--- Captured Logs ---
+[uc-cache] 일치 OK (Chrome v150)
+DOCS_modelChunk not found.
+->new버전으로 동작
+DOCS_modelChunk not found.
+extracted_text None
+An error occurred: 
+학습chatGPT1
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a56054c60e334b9b98253952a3d1417b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d486f5d2f9cc454bb56eb5ff6bb70a1b.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0138da019e1f441cab622bba30a1cc64.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.70s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\f5ffc8e901814a3490de1ad37bc379fe.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\c57a955ec393419183a185c4ee1424e8.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4afbb2f9494e4789afcafc1b1a510837.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\pc\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=150
+[chrome-launch] chrome_major=150, cd_major=150
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.05s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\ace22856906a4c748b1ed14d3aaf9a11.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4ba13159f5b14a93826f52b6e3ebc9e6.pyd
+Running main() from the .pyd file...
+Captured output: 150
+최신 크롬 버전 :: 150
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\055d0a5f8d384c618f4b813147ef6c5c.pyd
+Running main() from the .pyd file...
+Captured output: 150
+내 드라이버 버전 :: 150
+=========================================
+내 크롬 버전 :: 150
+최신 크롬 버전 :: 150
+내 드라이버 버전 :: 150
+전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+title 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+title 아침까지 멀쩡했던 휴대폰이 갑자기 꺼졌다면 세종에서 데이터부터 확인해야 하는 이유
+메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+title 메인보드 고장 판정을 받은 휴대폰, 청주에서 수리 없이 사진만 복구할 수 있을까
+충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+title 충전 표시조차 없던 갤럭시, 전주에서 연락처 1,500개를 되찾은 복구 사례
+삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+title 삼성 로고에서 멈춘 휴대폰, 대전에서 강제 재부팅을 반복하면 안 되는 이유
+무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+title 무한부팅이 시작된 갤럭시에서 사진과 동영상을 꺼낸 세종 복구 과정
+전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+title 전원 불량 휴대폰을 청주에서 점검했더니 배터리가 원인이 아니었던 이유
+휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+title 휴대폰이 갑자기 뜨거워진 뒤 꺼졌다면 전주에서 메인보드 손상을 확인해야 할까
+충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+title 충전기를 바꿔도 켜지지 않는 휴대폰, 대전 복구 가능성을 가르는 조건
+수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+title 수리점에서 어렵다고 한 고장폰, 세종 데이터 복구에서 확인된 결과
+출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+title 출근길에 꺼진 업무용 휴대폰, 청주에서 연락처와 문서를 되찾기까지
+밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+title 밤새 충전해도 켜지지 않는 갤럭시, 전주 점검에서 먼저 확인한 부분
+떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+title 떨어뜨린 뒤 진동만 울리는 휴대폰, 대전에서 화면 없이 데이터를 복구할 수 있을까
+액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+title 액정은 검은데 알림음은 들리는 휴대폰, 세종에서 사진을 옮긴 방법
+초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+title 초록색 줄이 생긴 갤럭시, 청주에서 계속 사용하면 데이터까지 위험할까
+보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+title 보라색 번짐이 커지는 휴대폰, 전주에서는 액정 교체보다 복구가 먼저인 이유
+터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+title 터치가 되지 않는 휴대폰에서 카카오톡과 사진을 꺼낸 대전 작업 후기
+화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+title 화면이 깨진 휴대폰을 컴퓨터에 연결해도 파일이 안 보이는 세종 사례
+차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+title 차에 깔린 파손폰에서도 아이 사진을 찾은 청주 휴대폰 복구 과정
+휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+title 휴대폰이 휘어진 상태로 전원을 켜면 안 되는 이유, 전주 점검 결과
+계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+title 계단에서 떨어뜨린 갤럭시, 대전에서 메인보드 손상 여부를 확인한 방법
+액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+title 액정만 고장 난 줄 알았는데 세종 데이터 복구가 필요했던 이유
+물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+title 물에 빠진 휴대폰을 켜봤다면 청주 복구는 이미 늦은 걸까
+세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+title 세면대에 빠진 갤럭시, 전주에서 가족사진을 복구한 실제 과정
+침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+title 침수폰을 쌀통에 넣어두면 괜찮을까 대전 전문가가 설명하는 현실
+세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+title 세탁기에 함께 돌린 휴대폰, 세종에서 포기 전 확인한 복구 가능성
+침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+title 침수 후 화면이 다시 켜졌다고 안심하면 안 되는 청주 복구 사례
+물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+title 물에 젖은 휴대폰에 충전기를 연결한 뒤 전주에서 발견된 내부 손상
+비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+title 비 오는 날 젖은 갤럭시, 대전에서 사진을 살리기 위해 먼저 한 일
+화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+title 화장실에 빠진 휴대폰, 세종 복구 점검에서 확인된 부식 상태
+계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+title 계곡물에 빠진 휴대폰은 청주에서 일반 침수보다 복구가 어려웠던 이유
+바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+title 바닷물에 젖은 휴대폰을 말린 뒤 켰다면 전주 데이터는 괜찮을까
+침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+title 침수폰 복구 비용이 대전 업체마다 달라지는 결정적인 이유
+침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+title 침수 후 하루가 지났다면 세종 사진 복구 가능성은 얼마나 달라질까
+드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+title 드라이기로 말린 침수폰, 청주 점검에서 추가 손상이 발견된 이유
+침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+title 침수된 휴대폰의 유심과 메모리카드, 전주에서는 바로 분리해야 할까
+갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+title 갤러리 휴지통까지 비운 사진, 대전에서 정말 다시 찾을 수 있을까
+삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+title 삭제한 사진을 복구하려면 세종에서는 휴대폰 사용부터 멈춰야 하는 이유
+아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+title 아이 사진 3년치를 실수로 삭제한 뒤 청주에서 확인한 결과
+사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+title 사진을 지운 뒤 새 사진을 찍으면 전주 복구 가능성이 낮아지는 이유
+휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+title 휴대폰 동영상을 영구 삭제했다면 대전에서 어떤 조건부터 확인할까
+재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+title 재생되지 않는 휴대폰 영상, 세종 복구에서 파일이 열리지 않았던 이유
+여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+title 여행 사진을 모두 삭제한 갤럭시, 청주에서 복구 전 확인한 사항
+오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+title 오래된 휴대폰 속 가족사진, 전주에서 새 휴대폰으로 옮길 수 있을까
+깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+title 깨진 사진과 끊기는 동영상이 생겼다면 대전 복구가 잘못된 걸까
+삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+title 삭제한 음성녹음 파일, 세종 휴대폰 복구로 다시 찾을 수 있을까
+중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+title 중요한 통화녹음을 지운 뒤 청주에서 바로 해야 하는 행동 세 가지
+연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+title 연락처가 갑자기 사라졌다면 전주에서는 삭제와 동기화 문제를 어떻게 구분할까
+휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+title 휴대폰 메모를 실수로 지웠을 때 대전 복구 가능성을 결정하는 조건
+문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+title 문자메시지를 삭제한 뒤 시간이 지나면 세종 복구가 어려워지는 이유
+카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+title 카카오톡 대화방을 나간 뒤에도 청주에서 대화를 복구할 수 있을까
+백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+title 백업 없이 삭제한 카톡, 전주 포렌식 점검에서 확인하는 항목
+카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+title 카카오톡을 재설치한 뒤 대화가 사라졌다면 대전 복구 가능성은 달라질까
+단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+title 단톡방을 나간 뒤 필요한 대화만 세종에서 다시 확인할 수 있을까
+카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+title 카톡 사진과 동영상은 청주 복구에서 대화보다 더 오래 남아 있을까
+오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+title 오래된 카카오톡 대화가 전주에서 최신 대화보다 복구가 어려운 이유
+톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+title 톡서랍을 사용하지 않았다면 대전에서 삭제한 카톡은 모두 사라진 걸까
+휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+title 휴대폰을 바꾸면서 사라진 카톡, 세종 복구 전 확인할 백업 항목
+카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+title 카톡 탈퇴 후 대화 복구를 청주에 문의할 때 반드시 알려야 할 내용
+삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+title 삭제한 카톡을 법원 제출 자료로 사용할 수 있는지 전주에서 확인하는 방법
+대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+title 대전에서 카톡 포렌식을 맡기기 전 개인정보 보호 절차를 확인해야 하는 이유
+카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+title 카카오톡 복구 비용이 세종에서는 대화량보다 휴대폰 상태에 따라 달라지는 이유
+삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+title 삭제한 문자와 카톡, 청주에서 일반 복구와 포렌식 분석은 무엇이 다를까
+공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+title 공장 초기화한 갤럭시, 전주에서 사진을 다시 찾을 수 있을까
+초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+title 초기화 직후 휴대폰을 사용하지 않았다면 대전 복구 가능성이 달라질까
+새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+title 새 휴대폰으로 로그인한 뒤 사진이 사라졌다면 세종에서 먼저 확인할 곳
+설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+title 설정 정리 중 실수로 초기화한 휴대폰, 청주 복구 점검 결과
+공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+title 공장 초기화 후 앱을 다시 설치하면 전주 복구가 어려워지는 이유
+초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+title 초기화한 최신 갤럭시에서 대전 데이터 복구가 제한되는 기술적 이유
+비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+title 비밀번호를 잊어 초기화한 휴대폰, 세종에서 사진까지 되찾을 수 있을까
+삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+title 삼성 계정과 구글 백업을 확인하면 청주 복구 비용을 줄일 수 있을까
+휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+title 휴대폰 저장공간 부족으로 사진이 사라진 것처럼 보였던 전주 사례
+업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+title 업데이트 후 부팅되지 않는 갤럭시, 대전에서 초기화 전에 확인해야 할 것
+휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+title 휴대폰 복구 비용이 세종에서 10만원과 50만원으로 달라지는 이유
+같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+title 같은 갤럭시인데 청주 데이터 복구 가격이 서로 다른 이유
+전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+title 전주 휴대폰 복구는 당일 가능할까 작업별 소요 시간 정리
+대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+title 대전 무료점검에서 확인할 수 있는 범위와 비용이 발생하는 시점
+복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+title 복구에 실패해도 비용을 내야 할까 세종 업체 방문 전 확인할 조건
+휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+title 휴대폰 데이터 복구 견적을 청주에서 전화만으로 확정하기 어려운 이유
+사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+title 사진 몇 장만 필요해도 전주 복구 비용이 크게 줄지 않는 이유
+메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+title 메인보드 작업이 필요한 휴대폰은 대전에서 복구 기간이 길어지는 이유
+복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+title 복구 결과를 확인한 뒤 비용을 결정할 수 있는지 세종에서 알아보기
+청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+title 청주에서 휴대폰 복구 업체를 선택할 때 가격보다 중요한 기준
+복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+title 복구율이 높다는 광고보다 전주에서 실제 확인해야 하는 작업 절차
+휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+title 휴대폰 원본을 보존하지 않는 복구 작업이 대전에서 위험한 이유
+개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+title 개인정보가 많은 휴대폰을 세종 업체에 맡기기 전 확인할 보안 기준
+복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+title 복구된 사진이 정상인지 청주에서 파일 검증 과정이 필요한 이유
+휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+title 휴대폰 복구 결과를 전주에서 USB와 외장하드 중 어디에 받아야 할까
+택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+title 택배로 휴대폰 복구를 대전에 맡길 때 파손을 줄이는 포장 방법
+세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+title 세종 방문 접수와 택배 접수 중 어떤 방식이 더 안전할까
+주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+title 주말이나 야간에 휴대폰이 고장 났을 때 청주에서 먼저 해야 할 대처
+서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+title 서비스센터에서 메인보드 교체를 권했다면 전주에서 데이터는 어떻게 복구할까
+휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+title 휴대폰 수리와 데이터 복구를 대전에서 동시에 진행하면 안 되는 경우
+중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+title 중고폰 판매 전 남은 개인정보를 세종에서 안전하게 정리하는 방법
+새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+title 새 휴대폰으로 바꾸기 전 청주에서 사진과 카톡을 빠짐없이 옮기는 점검표
+부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+title 부모님 휴대폰이 갑자기 고장 났을 때 전주에서 연락처부터 복구한 사례
+아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+title 아이 성장 영상이 담긴 고장폰, 대전에서 복구 가능성을 확인한 후기
+업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+title 업무 문서가 들어 있는 휴대폰이 켜지지 않을 때 세종에서 정한 복구 우선순위
+여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+title 여행 전날 고장 난 휴대폰, 청주에서 필요한 자료만 먼저 복구할 수 있을까
+오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+title 오래 사용한 갤럭시가 느려지다 꺼졌다면 전주에서 저장장치 문제를 확인해야 할까
+휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+title 휴대폰 복구를 대전에 맡긴 뒤 후회하지 않으려면 반드시 물어볼 다섯 가지
+전체 키워드 개수 :
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+path C:\Users\pc\Desktop\블로그 글쓰기\이미지
+->valid
+✅ 모든 이미지 경로 정상 확인!
+
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+엑셀 개수 101
+엑셀에 있는 컬럼들: ['제목', '아이디', '비밀번호', '카테고리', '이미지 경로', '지도', '백링크1', '백링크2', '백링크3', 'IP변경']
+Added_Video_insert,Added_Video_insert [None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None None None None None None None None None None None None
+ None None None]
+Slag_making,Slag_making 0      None
+1      None
+2      None
+3      None
+4      None
+       ... 
+96     None
+97     None
+98     None
+99     None
+100    None
+Length: 101, dtype: object
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+IPaddress_flask https://sgtestflask.autoprogram.blog/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+type of driver error check :: 
+<class 'undetected_chromedriver.Chrome'>
+[bring_window_to_front 오류] (5, 'SetForegroundWindow', '액세스가 거부되었습니다.')
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?', '전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까 전원도 안 들어오던 갤럭시, 대전 점검에서 가족사진은 남아 있었을까', 'ko']
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+Galaxy, which had no power, was there any family photos left during the inspection in Daejeon? Galaxy, which had no power, were there any family photos left during the inspection in Daejeon?
+펼치기 못 본 채 타임아웃 -> fallback
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
+
+시작
+File saved to: C:\Users\pc\Desktop\블로그 글쓰기\logfile.txt
