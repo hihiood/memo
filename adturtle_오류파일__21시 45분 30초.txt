@@ -1,0 +1,35 @@
+header ('Connection', 'keep-alive')
+buf_head [('User-Agent', 'Mozilla/5.0 (Windows NT 7.0; Win64; x64) AppleWebKit/535.15 (KHTML, like Gecko) Chrome/53.0.2710.66 Safari/535.15'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'), ('Accept-Charset', 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'), ('Accept-Encoding', 'none'), ('Accept-Language', 'ko-KR,ko;q=0.8'), ('Connection', 'keep-alive')]
+buf_head[0] ('User-Agent', 'Mozilla/5.0 (Windows NT 7.0; Win64; x64) AppleWebKit/535.15 (KHTML, like Gecko) Chrome/53.0.2710.66 Safari/535.15')
+Mozilla/5.0 (Windows NT 7.0; Win64; x64) AppleWebKit/535.15 (KHTML, like Gecko) Chrome/53.0.2710.66 Safari/535.15
+[DPI] 시스템 144 (150%) → 앱 100% 고정 렌더 목표
+[DPI] 실제 CTk widget_scaling=1.0, window_scaling=1.0
+[DPI] customtkinter 버전: 5.2.2
+16
+['회생', '파산', '햇살론', '담보대출', '재테크', '주식', '투자', '이혼소송', '가사소송', '10qㅂㄴ', '4', '네이버 아이디 자동 변경', '1000000', '500', '7153454189:-9B1aQn2Lz2UfQU9H1s', 'https://chatgpt.com/g/g-6780d62757608191a4fb14896eaf2d90-beulrogeu-jadong']
+['apozz', 'rhswldka123!']
+['https://autoprogram1.co.kr/', 'https://autoprogram2.co.kr/', 'https://autoprogram3.co.kr/', 'https://autoprogram4.co.kr/', 'https://autoprogram5.co.kr/']
+['https://autoprogram1.co.kr/', 'https://autoprogram2.co.kr/', 'https://autoprogram3.co.kr/', 'https://autoprogram4.co.kr/', 'https://autoprogram5.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+['https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/', 'https://autoprogram.co.kr/']
+5
+['안녕하세요', '없음', '없음', '없음', '감사합니다.']
+[IDPW] 1개 계정 로드: ['apozz']
+[아이콘 적용 실패] bitmap "app_icon.ico" not defined
+[아이콘 적용 실패] bitmap "app_icon.ico" not defined
+[아이콘 적용 실패] bitmap "app_icon.ico" not defined
+학습chatGPT1
+시작
+
+===== 발행 결과 목록 (publish_log.txt) =====
+(publish_log.txt 없음)
+
+===== GPT 수집/답변 기록 =====
+(GPT 수집 기록 없음)
