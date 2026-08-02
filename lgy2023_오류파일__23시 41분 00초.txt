@@ -1,0 +1,5632 @@
+2
+3
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  121.126.156.141
+
+
+DB access----success!!
+12
+0     그레이시티 천안점
+1     그레이시티 천안점
+2     그레이시티 천안점
+3     그레이시티 천안점
+4     그레이시티 천안점
+5     그레이시티 천안점
+6     그레이시티 천안점
+7     그레이시티 천안점
+8     그레이시티 천안점
+9     그레이시티 천안점
+10    그레이시티 천안점
+11    그레이시티 천안점
+Name: 작업 매장, dtype: object
+find_name 그레이시티 천안점
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+33
+[1] 업체명: 인더스칼프 두피문신 평택점
+[2] 업체명: 샤인
+[3] 업체명: 라라무드 수원점
+[4] 업체명: 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+[5] 업체명: 해피아워 천안눈썹문신&입술문신 불당점
+[7] 업체명: 그레이시티 천안점
+  -> ★ 내가 찾는 이름: 그레이시티 천안점 [일치!]
+[8] 업체명: 매드맥스잉크 두피문신&헤어라인 천안점
+[9] 업체명: 천안두피디자인
+[10] 업체명: 온화뷰티 천안점
+[11] 업체명: 마음에점을찍다 천안점 smp두피문신
+[13] 업체명: 두앤두뷰티센터
+[14] 업체명: 레노바
+[15] 업체명: 르베
+[16] 업체명: 비욘드도트
+[17] 업체명: 콤마더문 천안점
+[18] 업체명: 꼼꼼탈모커버
+[19] 업체명: 다시,봄 뷰티
+[20] 업체명: 켈리도트
+[21] 업체명: 도트데이
+[22] 업체명: 뷰티문
+[24] 업체명: 루다온
+[25] 업체명: 윤블랑헤어메이크업
+[26] 업체명: 아일린
+[27] 업체명: 노바SMP
+[28] 업체명: 한땀
+[29] 업체명: 더노블 라라무드
+[30] 업체명: 머리한
+[31] 업체명: 린다스칼프앤뷰티
+[32] 업체명: 타투
+[33] 업체명: 스칼프엘SMP
+인더스칼프 두피문신 평택점
+샤인
+라라무드 수원점
+데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+해피아워 천안눈썹문신&입술문신 불당점
+그레이시티 천안점
+매드맥스잉크 두피문신&헤어라인 천안점
+천안두피디자인
+온화뷰티 천안점
+마음에점을찍다 천안점 smp두피문신
+두앤두뷰티센터
+레노바
+르베
+비욘드도트
+콤마더문 천안점
+꼼꼼탈모커버
+다시,봄 뷰티
+켈리도트
+도트데이
+뷰티문
+루다온
+윤블랑헤어메이크업
+아일린
+노바SMP
+한땀
+더노블 라라무드
+머리한
+린다스칼프앤뷰티
+타투
+스칼프엘SMP
+namelist[Q5].text 인더스칼프 두피문신 평택점
+namelist_clean 인더스칼프 두피문신 평택점
+find_name 그레이시티 천안점
+namelist[Q5].text 샤인
+namelist_clean 샤인
+find_name 그레이시티 천안점
+namelist[Q5].text 라라무드 수원점
+namelist_clean 라라무드 수원점
+find_name 그레이시티 천안점
+namelist[Q5].text 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+namelist_clean 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+find_name 그레이시티 천안점
+namelist[Q5].text 해피아워 천안눈썹문신&입술문신 불당점
+namelist_clean 해피아워 천안눈썹문신&입술문신 불당점
+find_name 그레이시티 천안점
+namelist[Q5].text 그레이시티 천안점
+namelist_clean 그레이시티 천안점
+find_name 그레이시티 천안점
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 저장
+print_text.text 페이지 닫기
+print_text.text 리뷰 99
+print_text.text 출발
+print_text.text 도착
+print_text.text 예약
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 문의
+print_text.text 알림받기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 수박393
+print_text.text kr****
+print_text.text cafe****
+print_text.text ynot123
+print_text.text 인생2회차소
+print_text.text 더보기
+print_text.text 
+print_text.text 
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 62
+동작중 59
+menubtn 0
+reviewbtn 1
+리뷰버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 58
+동작중 58
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 0
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 1
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 2
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 3
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 4
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 5
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 6
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 7
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 8
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 9
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 10
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 11
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 12
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 13
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 14
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 15
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 16
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 17
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 18
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 19
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 20
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 21
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 22
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 23
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 24
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 25
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 26
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 27
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 28
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 29
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 30
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 31
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 32
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 33
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 34
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 35
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 36
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 37
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 38
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 39
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 40
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 41
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 42
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 43
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 44
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 45
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 46
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 47
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 48
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 49
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 50
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 51
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 52
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 53
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 54
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 55
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 56
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 57
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 58
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 59
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 60
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 61
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 62
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 63
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 64
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 65
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 66
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 67
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 68
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 69
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 70
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 71
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 72
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 73
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 74
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 75
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 76
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 77
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 78
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 79
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 80
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 81
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 82
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 83
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 84
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 85
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 86
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 87
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 88
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 89
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 90
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 91
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 92
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 93
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 94
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 95
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 96
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 97
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 98
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 99
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 100
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 101
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 102
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 103
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 104
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 105
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 106
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 107
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 108
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 109
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 110
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 111
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 112
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 113
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 114
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 115
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 116
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 117
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 118
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 122
+동작중 119
+sharebtn 0
+destibtn 0
+savebtn 0
+alarmbtn 0
+sosickbtn 0
+IP 변경중...
+변경된 IP : 121.126.129.94
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.88.251
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 125.7.134.191
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.231.99
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.209.157
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.79.77
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba52e]
+	chromedriver!(No symbol) [0x9f8355]
+	chromedriver!(No symbol) [0xa25ed6]
+	chromedriver!(No symbol) [0xa210e2]
+	chromedriver!(No symbol) [0xa20ac0]
+	chromedriver!(No symbol) [0x98db2e]
+	chromedriver!(No symbol) [0x98e0ce]
+	chromedriver!(No symbol) [0x98e5ad]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!(No symbol) [0x98d6a6]
+	chromedriver!(No symbol) [0x98cd02]
+	chromedriver!GetHandleVerifier [0xfac8ff+3f0fef]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.52.213
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba52e]
+	chromedriver!(No symbol) [0x9f8355]
+	chromedriver!(No symbol) [0xa25ed6]
+	chromedriver!(No symbol) [0xa210e2]
+	chromedriver!(No symbol) [0xa20ac0]
+	chromedriver!(No symbol) [0x98db2e]
+	chromedriver!(No symbol) [0x98e0ce]
+	chromedriver!(No symbol) [0x98e5ad]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!(No symbol) [0x98d6a6]
+	chromedriver!(No symbol) [0x98cd02]
+	chromedriver!GetHandleVerifier [0xfac8ff+3f0fef]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+[clean_temp_folder] deleted=11 skipped=19 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 121.126.134.124
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+find_name 그레이시티 천안점
+IP 변경중...
+변경된 IP : 121.126.38.22
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+33
+[1] 업체명: 샤인
+[2] 업체명: 라라무드 수원점
+[3] 업체명: 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+[4] 업체명: 해피아워 천안눈썹문신&입술문신 불당점
+[5] 업체명: 그레이시티 천안점
+  -> ★ 내가 찾는 이름: 그레이시티 천안점 [일치!]
+[7] 업체명: 매드맥스잉크 두피문신&헤어라인 천안점
+[8] 업체명: 인더스칼프 두피문신 평택점
+[9] 업체명: 천안두피디자인
+[10] 업체명: 온화뷰티 천안점
+[11] 업체명: 마음에점을찍다 천안점 smp두피문신
+[13] 업체명: 두앤두뷰티센터
+[14] 업체명: 르베
+[15] 업체명: 레노바
+[16] 업체명: 비욘드도트
+[17] 업체명: 콤마더문 천안점
+[18] 업체명: 꼼꼼탈모커버
+[19] 업체명: 다시,봄 뷰티
+[20] 업체명: 켈리도트
+[21] 업체명: 도트데이
+[22] 업체명: 뷰티문
+[24] 업체명: 루다온
+[25] 업체명: 윤블랑헤어메이크업
+[26] 업체명: 아일린
+[27] 업체명: 노바SMP
+[28] 업체명: 한땀
+[29] 업체명: 머리한
+[30] 업체명: 더노블 라라무드
+[31] 업체명: 린다스칼프앤뷰티
+[32] 업체명: 타투
+[33] 업체명: 스칼프엘SMP
+샤인
+라라무드 수원점
+데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+해피아워 천안눈썹문신&입술문신 불당점
+그레이시티 천안점
+매드맥스잉크 두피문신&헤어라인 천안점
+인더스칼프 두피문신 평택점
+천안두피디자인
+온화뷰티 천안점
+마음에점을찍다 천안점 smp두피문신
+두앤두뷰티센터
+르베
+레노바
+비욘드도트
+콤마더문 천안점
+꼼꼼탈모커버
+다시,봄 뷰티
+켈리도트
+도트데이
+뷰티문
+루다온
+윤블랑헤어메이크업
+아일린
+노바SMP
+한땀
+머리한
+더노블 라라무드
+린다스칼프앤뷰티
+타투
+스칼프엘SMP
+namelist[Q5].text 샤인
+namelist_clean 샤인
+find_name 그레이시티 천안점
+namelist[Q5].text 라라무드 수원점
+namelist_clean 라라무드 수원점
+find_name 그레이시티 천안점
+namelist[Q5].text 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+namelist_clean 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+find_name 그레이시티 천안점
+namelist[Q5].text 해피아워 천안눈썹문신&입술문신 불당점
+namelist_clean 해피아워 천안눈썹문신&입술문신 불당점
+find_name 그레이시티 천안점
+namelist[Q5].text 그레이시티 천안점
+namelist_clean 그레이시티 천안점
+find_name 그레이시티 천안점
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 저장
+print_text.text 페이지 닫기
+print_text.text 리뷰 99
+print_text.text 출발
+print_text.text 도착
+print_text.text 예약
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 문의
+print_text.text 알림받기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 수박393
+print_text.text kr****
+print_text.text cafe****
+print_text.text ynot123
+print_text.text 인생2회차소
+print_text.text 더보기
+print_text.text 
+print_text.text 
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 84
+동작중 59
+menubtn 0
+reviewbtn 1
+리뷰버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 45
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 0
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 1
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 2
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 3
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 4
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 5
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 6
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 7
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 8
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 9
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 10
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 11
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 12
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 13
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 14
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 15
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 16
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 17
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 18
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 19
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 20
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 21
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 22
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 23
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 24
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 25
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 26
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 27
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 28
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 29
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 30
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 31
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 32
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 33
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 34
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 35
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 36
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 37
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 38
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 39
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 40
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 41
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 42
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 43
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 44
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 45
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 46
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 47
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 48
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 49
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 50
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 51
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 52
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 53
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 54
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 55
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 56
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 57
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 58
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 59
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 60
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 61
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 62
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 63
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 64
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 65
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 66
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 67
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 68
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 69
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 70
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 71
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 72
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 73
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 74
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 75
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 76
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 77
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 78
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 79
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 80
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 81
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 82
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 83
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 84
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 85
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 86
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 87
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 88
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 89
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 90
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 91
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 92
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 93
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 94
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 95
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 96
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 97
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 98
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 99
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 100
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 101
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 102
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 103
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 104
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 105
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 106
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 107
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 108
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 109
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 110
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 111
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 112
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 113
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 114
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 115
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 116
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 117
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 118
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 119
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 120
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 121
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 122
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 123
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 124
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 125
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 126
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 127
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 128
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 129
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 130
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 131
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 132
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 133
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 134
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 135
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 136
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 137
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 138
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 139
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 140
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 141
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 142
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 143
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 144
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 145
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 146
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 147
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 148
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 149
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 150
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 151
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 152
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 153
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 154
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 155
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 156
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 157
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 158
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 159
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 160
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 161
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 162
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 163
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 164
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 165
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 166
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 167
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 168
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 169
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 170
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 171
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 172
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 173
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 174
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 175
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 176
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 177
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 178
+timeclock: 3
+asdf: 180
+변동된 시간 (초): 244
+동작중 179
+sharebtn 0
+destibtn 0
+savebtn 0
+alarmbtn 0
+sosickbtn 0
+IP 변경중...
+변경된 IP : 121.126.181.230
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.43.121
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba52e]
+	chromedriver!(No symbol) [0x9f8355]
+	chromedriver!(No symbol) [0xa25ed6]
+	chromedriver!(No symbol) [0xa210e2]
+	chromedriver!(No symbol) [0xa20ac0]
+	chromedriver!(No symbol) [0x98db2e]
+	chromedriver!(No symbol) [0x98e0ce]
+	chromedriver!(No symbol) [0x98e5ad]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!(No symbol) [0x98d6a6]
+	chromedriver!(No symbol) [0x98cd02]
+	chromedriver!GetHandleVerifier [0xfac8ff+3f0fef]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.113.223
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.1.205
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.248.243
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.137.209
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.117.16
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.122.33
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+[clean_temp_folder] deleted=12 skipped=19 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 49.254.231.103
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.88.186
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 125.7.162.180
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.46.159
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba52e]
+	chromedriver!(No symbol) [0x9f8355]
+	chromedriver!(No symbol) [0xa25ed6]
+	chromedriver!(No symbol) [0xa210e2]
+	chromedriver!(No symbol) [0xa20ac0]
+	chromedriver!(No symbol) [0x98db2e]
+	chromedriver!(No symbol) [0x98e0ce]
+	chromedriver!(No symbol) [0x98e5ad]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!(No symbol) [0x98d6a6]
+	chromedriver!(No symbol) [0x98cd02]
+	chromedriver!GetHandleVerifier [0xfac8ff+3f0fef]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.149.174
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.87.216
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+find_name 그레이시티 천안점
+IP 변경중...
+변경된 IP : 121.126.175.50
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba52e]
+	chromedriver!(No symbol) [0x9f8355]
+	chromedriver!(No symbol) [0xa25ed6]
+	chromedriver!(No symbol) [0xa210e2]
+	chromedriver!(No symbol) [0xa20ac0]
+	chromedriver!(No symbol) [0x98db2e]
+	chromedriver!(No symbol) [0x98e0ce]
+	chromedriver!(No symbol) [0x98e5ad]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!(No symbol) [0x98d6a6]
+	chromedriver!(No symbol) [0x98cd02]
+	chromedriver!GetHandleVerifier [0xfac8ff+3f0fef]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.30.251
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+33
+[1] 업체명: 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+[2] 업체명: 해피아워 천안눈썹문신&입술문신 불당점
+[3] 업체명: 그레이시티 천안점
+  -> ★ 내가 찾는 이름: 그레이시티 천안점 [일치!]
+[4] 업체명: 매드맥스잉크 두피문신&헤어라인 천안점
+[5] 업체명: 인더스칼프 두피문신 평택점
+[7] 업체명: 천안두피디자인
+[8] 업체명: 온화뷰티 천안점
+[9] 업체명: 마음에점을찍다 천안점 smp두피문신
+[10] 업체명: 두앤두뷰티센터
+[11] 업체명: 르베
+[13] 업체명: 레노바
+[14] 업체명: 비욘드도트
+[15] 업체명: 콤마더문 천안점
+[16] 업체명: 꼼꼼탈모커버
+[17] 업체명: 다시,봄 뷰티
+[18] 업체명: 켈리도트
+[19] 업체명: 도트데이
+[20] 업체명: 샤인
+[21] 업체명: 뷰티문
+[22] 업체명: 루다온
+[24] 업체명: 윤블랑헤어메이크업
+[25] 업체명: 아일린
+[26] 업체명: 노바SMP
+[27] 업체명: 라라무드 수원점
+[28] 업체명: 한땀
+[29] 업체명: 머리한
+[30] 업체명: 더노블 라라무드
+[31] 업체명: 린다스칼프앤뷰티
+[32] 업체명: 타투
+[33] 업체명: 스칼프엘SMP
+데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+해피아워 천안눈썹문신&입술문신 불당점
+그레이시티 천안점
+매드맥스잉크 두피문신&헤어라인 천안점
+인더스칼프 두피문신 평택점
+천안두피디자인
+온화뷰티 천안점
+마음에점을찍다 천안점 smp두피문신
+두앤두뷰티센터
+르베
+레노바
+비욘드도트
+콤마더문 천안점
+꼼꼼탈모커버
+다시,봄 뷰티
+켈리도트
+도트데이
+샤인
+뷰티문
+루다온
+윤블랑헤어메이크업
+아일린
+노바SMP
+라라무드 수원점
+한땀
+머리한
+더노블 라라무드
+린다스칼프앤뷰티
+타투
+스칼프엘SMP
+namelist[Q5].text 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+namelist_clean 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+find_name 그레이시티 천안점
+namelist[Q5].text 해피아워 천안눈썹문신&입술문신 불당점
+namelist_clean 해피아워 천안눈썹문신&입술문신 불당점
+find_name 그레이시티 천안점
+namelist[Q5].text 그레이시티 천안점
+namelist_clean 그레이시티 천안점
+find_name 그레이시티 천안점
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 저장
+print_text.text 페이지 닫기
+print_text.text 리뷰 99
+print_text.text 출발
+print_text.text 도착
+print_text.text 예약
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 문의
+print_text.text 알림받기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 수박393
+print_text.text kr****
+print_text.text cafe****
+print_text.text ynot123
+print_text.text 인생2회차소
+print_text.text 더보기
+print_text.text 
+print_text.text 
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 72
+동작중 59
+menubtn 0
+reviewbtn 1
+리뷰버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 40
+동작중 40
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 0
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 1
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 2
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 3
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 4
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 5
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 6
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 7
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 8
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 9
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 10
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 11
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 12
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 13
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 14
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 15
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 16
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 17
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 18
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 19
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 20
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 21
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 22
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 23
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 24
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 25
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 26
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 27
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 28
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 29
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 30
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 31
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 32
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 33
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 34
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 35
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 36
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 37
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 38
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 39
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 40
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 41
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 42
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 43
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 44
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 45
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 46
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 47
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 48
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 49
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 50
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 51
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 52
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 53
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 54
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 55
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 56
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 57
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 58
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 59
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 60
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 61
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 62
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 63
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 64
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 65
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 66
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 67
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 68
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 69
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 70
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 71
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 72
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 73
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 74
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 75
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 76
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 77
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 78
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 79
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 80
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 81
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 82
+동작중 82
+sharebtn 0
+destibtn 0
+savebtn 0
+alarmbtn 0
+sosickbtn 0
+IP 변경중...
+변경된 IP : 121.126.54.165
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 202.126.115.99
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.194.126
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.24.127
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 115.144.207.148
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 121.126.63.9
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.99.98
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+페이지 넘버 찾기 에러
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba52e]
+	chromedriver!(No symbol) [0x9f8355]
+	chromedriver!(No symbol) [0xa25ed6]
+	chromedriver!(No symbol) [0xa210e2]
+	chromedriver!(No symbol) [0xa20ac0]
+	chromedriver!(No symbol) [0x98db2e]
+	chromedriver!(No symbol) [0x98e0ce]
+	chromedriver!(No symbol) [0x98e5ad]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!(No symbol) [0x98d6a6]
+	chromedriver!(No symbol) [0x98cd02]
+	chromedriver!GetHandleVerifier [0xfac8ff+3f0fef]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+[clean_temp_folder] deleted=15 skipped=19 dir=C:\Users\COMu1\AppData\Local\Temp
+IP 변경중...
+변경된 IP : 49.254.8.212
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 49.254.24.67
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+--------------total error-------import --------
+에러메세지
+Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xbcba23+10113]
+	chromedriver!GetHandleVerifier [0xbcba64+10154]
+	chromedriver!(No symbol) [0x9ba6f0]
+	chromedriver!(No symbol) [0xa03b1b]
+	chromedriver!(No symbol) [0xa03d3b]
+	chromedriver!(No symbol) [0xa45822]
+	chromedriver!(No symbol) [0xa26064]
+	chromedriver!(No symbol) [0xa4308a]
+	chromedriver!(No symbol) [0xa25db6]
+	chromedriver!(No symbol) [0x9f90c9]
+	chromedriver!(No symbol) [0x9f9e94]
+	chromedriver!GetHandleVerifier [0xe563ca+29aaba]
+	chromedriver!GetHandleVerifier [0xe5193b+29602b]
+	chromedriver!GetHandleVerifier [0xe72abb+2b71ab]
+	chromedriver!GetHandleVerifier [0xbe57c6+29eb6]
+	chromedriver!GetHandleVerifier [0xbec9ad+3109d]
+	chromedriver!GetHandleVerifier [0xbd4238+18928]
+	chromedriver!GetHandleVerifier [0xbd43e5+18ad5]
+	chromedriver!GetHandleVerifier [0xbbd55f+1c4f]
+	KERNEL32!BaseThreadInitThunk [0x7511fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc82ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76fc827e+ee]
+
+IP 변경중...
+변경된 IP : 124.198.49.54
+천안두피문신 더보기
+머지???
+천안두피문신
+더보기
+next_check_click True
+map 찾는중
+map 찾음2
+끝---
+------------------
+이전페이지
+------------------
+1
+------------------
+다음페이지
+pagedown간다
+pagedown 끝
+✅ 스크롤 컨테이너 찾음
+✅ 스크롤 완료
+33
+[1] 업체명: 샤인
+[2] 업체명: 라라무드 수원점
+[3] 업체명: 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+[4] 업체명: 해피아워 천안눈썹문신&입술문신 불당점
+[5] 업체명: 그레이시티 천안점
+  -> ★ 내가 찾는 이름: 그레이시티 천안점 [일치!]
+[7] 업체명: 매드맥스잉크 두피문신&헤어라인 천안점
+[8] 업체명: 인더스칼프 두피문신 평택점
+[9] 업체명: 천안두피디자인
+[10] 업체명: 온화뷰티 천안점
+[11] 업체명: 마음에점을찍다 천안점 smp두피문신
+[13] 업체명: 두앤두뷰티센터
+[14] 업체명: 르베
+[15] 업체명: 레노바
+[16] 업체명: 비욘드도트
+[17] 업체명: 콤마더문 천안점
+[18] 업체명: 꼼꼼탈모커버
+[19] 업체명: 다시,봄 뷰티
+[20] 업체명: 켈리도트
+[21] 업체명: 도트데이
+[22] 업체명: 뷰티문
+[24] 업체명: 루다온
+[25] 업체명: 윤블랑헤어메이크업
+[26] 업체명: 아일린
+[27] 업체명: 노바SMP
+[28] 업체명: 한땀
+[29] 업체명: 머리한
+[30] 업체명: 더노블 라라무드
+[31] 업체명: 린다스칼프앤뷰티
+[32] 업체명: 타투
+[33] 업체명: 스칼프엘SMP
+샤인
+라라무드 수원점
+데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+해피아워 천안눈썹문신&입술문신 불당점
+그레이시티 천안점
+매드맥스잉크 두피문신&헤어라인 천안점
+인더스칼프 두피문신 평택점
+천안두피디자인
+온화뷰티 천안점
+마음에점을찍다 천안점 smp두피문신
+두앤두뷰티센터
+르베
+레노바
+비욘드도트
+콤마더문 천안점
+꼼꼼탈모커버
+다시,봄 뷰티
+켈리도트
+도트데이
+뷰티문
+루다온
+윤블랑헤어메이크업
+아일린
+노바SMP
+한땀
+머리한
+더노블 라라무드
+린다스칼프앤뷰티
+타투
+스칼프엘SMP
+namelist[Q5].text 샤인
+namelist_clean 샤인
+find_name 그레이시티 천안점
+namelist[Q5].text 라라무드 수원점
+namelist_clean 라라무드 수원점
+find_name 그레이시티 천안점
+namelist[Q5].text 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+namelist_clean 데이데이뷰티 눈썹문신&입술문신&두피문신 천안본점
+find_name 그레이시티 천안점
+namelist[Q5].text 해피아워 천안눈썹문신&입술문신 불당점
+namelist_clean 해피아워 천안눈썹문신&입술문신 불당점
+find_name 그레이시티 천안점
+namelist[Q5].text 그레이시티 천안점
+namelist_clean 그레이시티 천안점
+find_name 그레이시티 천안점
+찾음
+찾았다2----이미지 방식 아님
+homeBTN 1
+홈버튼 들어옴
+print_text.text 이전 페이지
+print_text.text 저장
+print_text.text 페이지 닫기
+print_text.text 리뷰 99
+print_text.text 출발
+print_text.text 도착
+print_text.text 예약
+print_text.text 거리뷰
+print_text.text 공유
+print_text.text 문의
+print_text.text 알림받기
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 
+print_text.text 수박393
+print_text.text kr****
+print_text.text cafe****
+print_text.text ynot123
+print_text.text 인생2회차소
+print_text.text 더보기
+print_text.text 
+print_text.text 
+print_text.text 홈
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 45
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 46
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 47
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 48
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 49
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 50
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 51
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 52
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 53
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 54
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 55
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 56
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 57
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 58
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 77
+동작중 59
+menubtn 0
+reviewbtn 1
+리뷰버튼 들어옴
+pagedown간다
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 0
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 1
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 2
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 3
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 4
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 5
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 6
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 7
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 8
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 9
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 10
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 11
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 12
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 13
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 14
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 15
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 16
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 17
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 18
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 19
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 20
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 21
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 22
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 23
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 24
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 25
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 26
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 27
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 28
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 29
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 30
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 31
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 32
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 33
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 34
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 35
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 36
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 37
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 38
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 39
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 40
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 41
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 42
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 43
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 44
+timeclock: 1
+asdf: 60
+변동된 시간 (초): 45
+동작중 45
+picturebtn 1
+사진버튼 들어옴
+pagedown간다
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 0
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 1
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 2
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 3
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 4
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 5
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 6
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 7
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 8
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 9
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 10
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 11
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 12
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 13
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 14
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 15
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 16
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 17
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 18
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 19
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 20
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 21
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 22
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 23
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 24
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 25
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 26
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 27
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 28
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 29
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 30
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 31
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 32
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 33
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 34
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 35
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 36
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 37
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 38
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 39
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 40
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 41
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 42
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 43
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 44
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 45
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 46
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 47
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 48
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 49
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 50
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 51
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 52
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 53
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 54
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 55
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 56
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 57
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 58
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 59
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 60
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 61
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 62
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 63
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 64
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 65
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 66
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 67
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 68
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 69
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 70
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 71
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 72
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 73
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 74
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 75
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 76
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 77
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 78
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 79
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 80
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 81
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 82
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 83
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 84
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 85
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 86
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 87
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 88
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 89
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 90
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 91
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 92
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 93
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 94
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 95
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 96
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 97
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 98
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 99
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 100
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 101
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 102
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 103
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 104
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 105
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 106
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 107
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 108
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 109
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 110
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 111
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 112
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 113
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 114
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 115
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 116
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 117
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 118
+timeclock: 2
+asdf: 120
+변동된 시간 (초): 159
+동작중 119
+sharebtn 0
+destibtn 0
+savebtn 0
+alarmbtn 0
+sosickbtn 0
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<11월 21일 공지사항>>@@ 
+플레이스 런처 새로 받아주세요.
+25년 10월 1일부터 원격 지원 종료 하겠습니다.@@
+<<3월 22일 공지사항>>@@ 
+naverPlace_trafficV11_34.exe@
+<<1월 21일 공지사항>>@@ 
+기존 것 수정 : naverPlace_trafficV11_23.exe@
+유입분석 강화화 : naverPlace_trafficV11_25.exe@
+->더보기 없는 경우 지도 클릭@
+<<1월 18일 공지사항>>@@ 
+플래이스 정책은 매번 바뀝니다.@
+따라서, 프로그램 사용으로 인해서 순위가 떨어지는 조짐이 보이면@
+사용을 멈추시고 개발자한테 분석을 의뢰하셔야 합니다.@
+저장하기, 리뷰블로그는 필수 입니다.@
+프로그램 사용에 대한 결과는 사용자 본인에게 있습니다.@
+프로그램은 마케팅 보조 역할을 할 뿐입니다.@
+IP 변경 실패 — 마지막 IP: 124.198.49.54
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경 실패 — 마지막 IP: 124.198.49.54
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경 실패 — 마지막 IP: 124.198.49.54
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경 실패 — 마지막 IP: 124.198.49.54
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경 실패 — 마지막 IP: 124.198.49.54
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경중...
+IP 변경 실패 — 마지막 IP: 124.198.49.54
+IP 변경중...
+IP 변경중...
+변경된 IP : 49.254.59.96
+시작
+File saved to: C:\Users\COMu1\Desktop\유효타\logfile.txt
