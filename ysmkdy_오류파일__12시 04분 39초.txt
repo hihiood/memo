@@ -1,0 +1,1374 @@
+DOCS_modelChunk not found.
+An error occurred: 
+학습chatGPT1
+findIng_excel_here Premium_Keyword.xlsx
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\71bee8bbc2bb4d0dbb9f300da7e683bd.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\3dcf61db3c7e46848f86cc23309111ea.pyd
+Running main() from the .pyd file...
+Captured output: 151
+최신 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\4a012ba79fec47c193ac0de242a6b85f.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 드라이버 버전 :: 151
+=========================================
+내 크롬 버전 :: 151
+최신 크롬 버전 :: 151
+내 드라이버 버전 :: 151
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\mycom\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=151
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 2.14s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\2aaebed334ec4d2aaf569d7df3ed3e3a.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\5925ab2e5c0e4fc394a85c2436014eef.pyd
+Running main() from the .pyd file...
+Captured output: 151
+최신 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\mycom\AppData\Local\Temp\2918d6270f4049e98397943c38cb1228.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 드라이버 버전 :: 151
+=========================================
+내 크롬 버전 :: 151
+최신 크롬 버전 :: 151
+내 드라이버 버전 :: 151
+안성시 안성동배수관막힘 물이 느리게 내려갈 때 필요한 점검과 청소 방법
+title 안성시 안성동배수관막힘 물이 느리게 내려갈 때 필요한 점검과 청소 방법
+하남시 덕풍동공동배관막힘 여러 세대에서 동시에 역류가 발생한 원인
+title 하남시 덕풍동공동배관막힘 여러 세대에서 동시에 역류가 발생한 원인
+의왕시 오전동정화조막힘 오수 냄새와 배수 문제를 해결한 작업 후기
+title 의왕시 오전동정화조막힘 오수 냄새와 배수 문제를 해결한 작업 후기
+양주시 덕정동하수구고압세척 배관 속 기름 슬러지를 제거한 현장 사례
+title 양주시 덕정동하수구고압세척 배관 속 기름 슬러지를 제거한 현장 사례
+포천시 신읍동배관내시경촬영 반복되는 하수구 막힘 원인을 확인한 후기
+title 포천시 신읍동배관내시경촬영 반복되는 하수구 막힘 원인을 확인한 후기
+여주시 홍문동하수구뚫는업체 비용과 장비를 비교해 선택하는 방법
+title 여주시 홍문동하수구뚫는업체 비용과 장비를 비교해 선택하는 방법
+동두천시 생연동배관청소 막힘과 악취를 예방하기 위한 정기 관리 방법
+title 동두천시 생연동배관청소 막힘과 악취를 예방하기 위한 정기 관리 방법
+과천시 별양동하수구냄새 원인을 찾아 배관 청소로 해결한 실제 사례
+title 과천시 별양동하수구냄새 원인을 찾아 배관 청소로 해결한 실제 사례
+구리시 교문동하수구막힘 배수 속도가 느려질 때 반드시 확인해야 할 점검 포인트
+title 구리시 교문동하수구막힘 배수 속도가 느려질 때 반드시 확인해야 할 점검 포인트
+가평군 가평읍싱크대막힘 기름때가 원인인 배관 막힘 해결 작업 후기
+title 가평군 가평읍싱크대막힘 기름때가 원인인 배관 막힘 해결 작업 후기
+양평군 양평읍변기막힘 뚫어뻥으로 해결되지 않을 때 필요한 작업 방법
+title 양평군 양평읍변기막힘 뚫어뻥으로 해결되지 않을 때 필요한 작업 방법
+연천군 전곡읍하수구역류 장마철 역류가 발생하는 원인과 해결 사례
+title 연천군 전곡읍하수구역류 장마철 역류가 발생하는 원인과 해결 사례
+팔달구 인계동싱크대역류 배수관 막힘으로 물이 넘친 현장 해결 후기
+title 팔달구 인계동싱크대역류 배수관 막힘으로 물이 넘친 현장 해결 후기
+기흥구 구갈동변기역류 공동배관 막힘으로 발생한 역류 해결 사례
+title 기흥구 구갈동변기역류 공동배관 막힘으로 발생한 역류 해결 사례
+권선구 권선동오수관막힘 오수 배관 슬러지를 제거한 고압세척 후기
+title 권선구 권선동오수관막힘 오수 배관 슬러지를 제거한 고압세척 후기
+일산동구 백석동배수관막힘 내시경 촬영으로 막힘 원인을 찾은 사례
+title 일산동구 백석동배수관막힘 내시경 촬영으로 막힘 원인을 찾은 사례
+강동구 천호동공동배관막힘 빌라 배관 막힘을 해결한 현장 작업 후기
+title 강동구 천호동공동배관막힘 빌라 배관 막힘을 해결한 현장 작업 후기
+종로구 혜화동정화조막힘 정기 청소가 필요한 이유와 관리 방법
+title 종로구 혜화동정화조막힘 정기 청소가 필요한 이유와 관리 방법
+금천구 가산동하수구고압세척 배수 불량을 빠르게 해결한 실제 작업 사례
+title 금천구 가산동하수구고압세척 배수 불량을 빠르게 해결한 실제 작업 사례
+강남구 역삼동배관내시경촬영 배관 손상 여부를 확인한 점검 후기
+title 강남구 역삼동배관내시경촬영 배관 손상 여부를 확인한 점검 후기
+동대문 용두동하수구뚫는업체 긴급 출동으로 당일 해결한 현장 사례
+title 동대문 용두동하수구뚫는업체 긴급 출동으로 당일 해결한 현장 사례
+영등포 영등포동배관청소 배관 속 이물질 제거로 악취를 해결한 후기
+title 영등포 영등포동배관청소 배관 속 이물질 제거로 악취를 해결한 후기
+노원구 상계동하수구냄새 하수 트랩 점검으로 냄새를 해결한 사례
+title 노원구 상계동하수구냄새 하수 트랩 점검으로 냄새를 해결한 사례
+중랑구 면목동하수구막힘 내시경 점검으로 정확한 원인을 찾아 해결한 현장 후기
+title 중랑구 면목동하수구막힘 내시경 점검으로 정확한 원인을 찾아 해결한 현장 후기
+구로구 구로동하수구막힘 주방과 화장실이 동시에 막힌 원인과 해결 방법
+title 구로구 구로동하수구막힘 주방과 화장실이 동시에 막힌 원인과 해결 방법
+은평구 불광동싱크대막힘 배수 호스까지 막힌 원인을 해결한 후기
+title 은평구 불광동싱크대막힘 배수 호스까지 막힌 원인을 해결한 후기
+강서구 화곡동변기막힘 변기 속 이물질 제거로 해결한 작업 사례
+title 강서구 화곡동변기막힘 변기 속 이물질 제거로 해결한 작업 사례
+관악구 신림동하수구역류 화장실 바닥에서 물이 올라온 원인 분석
+title 관악구 신림동하수구역류 화장실 바닥에서 물이 올라온 원인 분석
+서대문 홍제동싱크대역류 배수관 기름때 제거 후 정상 배수된 사례
+title 서대문 홍제동싱크대역류 배수관 기름때 제거 후 정상 배수된 사례
+서초구 반포동변기역류 오수 역류를 신속하게 해결한 현장 후기
+title 서초구 반포동변기역류 오수 역류를 신속하게 해결한 현장 후기
+광진구 자양동오수관막힘 노후 배관 청소로 배수를 회복한 작업 사례
+title 광진구 자양동오수관막힘 노후 배관 청소로 배수를 회복한 작업 사례
+도봉구 창동배수관막힘 반복되는 막힘을 예방하는 관리 방법
+title 도봉구 창동배수관막힘 반복되는 막힘을 예방하는 관리 방법
+동작구 사당동공동배관막힘 상가 건물 배관 막힘 해결 작업 후기
+title 동작구 사당동공동배관막힘 상가 건물 배관 막힘 해결 작업 후기
+중구 신당동정화조막힘 정화조 역류를 예방하는 관리 노하우
+title 중구 신당동정화조막힘 정화조 역류를 예방하는 관리 노하우
+용산구 이태원동하수구고압세척 배관 내부를 깨끗하게 청소한 현장 후기
+title 용산구 이태원동하수구고압세척 배관 내부를 깨끗하게 청소한 현장 후기
+송파구 잠실동배관내시경촬영 공사 전 배관 상태를 확인한 사례
+title 송파구 잠실동배관내시경촬영 공사 전 배관 상태를 확인한 사례
+성북구 길음동하수구뚫는업체 믿을 수 있는 업체를 선택하는 기준
+title 성북구 길음동하수구뚫는업체 믿을 수 있는 업체를 선택하는 기준
+성동구 성수동배관청소 고압세척과 함께 진행한 배관 관리 후기
+title 성동구 성수동배관청소 고압세척과 함께 진행한 배관 관리 후기
+마포구 합정동하수구냄새 욕실 악취의 원인을 해결한 작업 사례
+title 마포구 합정동하수구냄새 욕실 악취의 원인을 해결한 작업 사례
+안성시 공도읍싱크대막힘 배수관 기름때를 완벽하게 제거한 작업 사례
+title 안성시 공도읍싱크대막힘 배수관 기름때를 완벽하게 제거한 작업 사례
+하남시 망월동하수구막힘 배관 내부 기름 슬러지 제거 작업 후기
+title 하남시 망월동하수구막힘 배관 내부 기름 슬러지 제거 작업 후기
+의왕시 내손동싱크대막힘 음식물 배출 습관이 중요한 이유 알아보기
+title 의왕시 내손동싱크대막힘 음식물 배출 습관이 중요한 이유 알아보기
+양주시 옥정동변기막힘 휴지 과다 사용으로 막힌 변기 해결 사례
+title 양주시 옥정동변기막힘 휴지 과다 사용으로 막힌 변기 해결 사례
+포천시 소흘읍하수구역류 오수관 막힘으로 발생한 역류 해결 후기
+title 포천시 소흘읍하수구역류 오수관 막힘으로 발생한 역류 해결 후기
+여주시 오학동싱크대역류 싱크대 배수관 교체 전 점검해야 할 사항
+title 여주시 오학동싱크대역류 싱크대 배수관 교체 전 점검해야 할 사항
+동두천시 지행동변기역류 빌라 공동배관 문제를 해결한 실제 사례
+title 동두천시 지행동변기역류 빌라 공동배관 문제를 해결한 실제 사례
+과천시 중앙동오수관막힘 배관 내시경으로 원인을 확인한 작업 후기
+title 과천시 중앙동오수관막힘 배관 내시경으로 원인을 확인한 작업 후기
+구리시 수택동배수관막힘 고압세척으로 배수 속도를 회복한 사례
+title 구리시 수택동배수관막힘 고압세척으로 배수 속도를 회복한 사례
+가평군 설악면공동배관막힘 여러 층에서 발생한 막힘 해결 후기
+title 가평군 설악면공동배관막힘 여러 층에서 발생한 막힘 해결 후기
+양평군 용문면정화조막힘 악취와 역류를 함께 해결한 작업 사례
+title 양평군 용문면정화조막힘 악취와 역류를 함께 해결한 작업 사례
+연천군 연천읍하수구고압세척 오래된 배관을 깨끗하게 세척한 후기
+title 연천군 연천읍하수구고압세척 오래된 배관을 깨끗하게 세척한 후기
+팔달구 우만동배관내시경촬영 정확한 진단으로 비용을 절감한 사례
+title 팔달구 우만동배관내시경촬영 정확한 진단으로 비용을 절감한 사례
+기흥구 보정동하수구뚫는업체 배관 장비를 갖춘 전문 업체 선택 방법
+title 기흥구 보정동하수구뚫는업체 배관 장비를 갖춘 전문 업체 선택 방법
+권선구 금곡동배관청소 정기 관리로 막힘을 예방한 실제 사례
+title 권선구 금곡동배관청소 정기 관리로 막힘을 예방한 실제 사례
+일산동구 마두동하수구냄새 배관 청소 후 악취가 사라진 현장 후기
+title 일산동구 마두동하수구냄새 배관 청소 후 악취가 사라진 현장 후기
+강동구 길동변기막힘 역류 없이 안전하게 해결한 전문 작업 후기
+title 강동구 길동변기막힘 역류 없이 안전하게 해결한 전문 작업 후기
+종로구 창신동하수구막힘 하수구 물이 넘칠 때 빠르게 해결한 작업 후기
+title 종로구 창신동하수구막힘 하수구 물이 넘칠 때 빠르게 해결한 작업 후기
+금천구 독산동싱크대막힘 주방 배수 문제를 해결한 실제 현장 사례
+title 금천구 독산동싱크대막힘 주방 배수 문제를 해결한 실제 현장 사례
+강남구 삼성동변기막힘 전문 장비로 안전하게 해결한 작업 후기
+title 강남구 삼성동변기막힘 전문 장비로 안전하게 해결한 작업 후기
+동대문 장안동하수구역류 배관 청소로 역류를 예방한 관리 방법
+title 동대문 장안동하수구역류 배관 청소로 역류를 예방한 관리 방법
+영등포 당산동싱크대역류 고압세척으로 배수 문제를 해결한 사례
+title 영등포 당산동싱크대역류 고압세척으로 배수 문제를 해결한 사례
+노원구 중계동변기역류 내시경 점검 후 원인을 해결한 작업 후기
+title 노원구 중계동변기역류 내시경 점검 후 원인을 해결한 작업 후기
+중랑구 상봉동오수관막힘 건물 배수 문제를 해결한 현장 사례
+title 중랑구 상봉동오수관막힘 건물 배수 문제를 해결한 현장 사례
+구로구 신도림동배수관막힘 노후 배관을 청소해 배수를 회복한 후기
+title 구로구 신도림동배수관막힘 노후 배관을 청소해 배수를 회복한 후기
+은평구 응암동공동배관막힘 고압세척으로 공동배관을 복구한 작업 사례
+title 은평구 응암동공동배관막힘 고압세척으로 공동배관을 복구한 작업 사례
+강서구 등촌동정화조막힘 정화조 청소 시기를 놓치면 생기는 문제
+title 강서구 등촌동정화조막힘 정화조 청소 시기를 놓치면 생기는 문제
+관악구 봉천동하수구고압세척 막힘과 악취를 동시에 해결한 작업 후기
+title 관악구 봉천동하수구고압세척 막힘과 악취를 동시에 해결한 작업 후기
+서대문 북가좌동배관내시경촬영 막힘 원인을 한 번에 확인한 현장 사례
+title 서대문 북가좌동배관내시경촬영 막힘 원인을 한 번에 확인한 현장 사례
+서초구 서초동하수구뚫는업체 합리적인 비용으로 해결한 실제 후기
+title 서초구 서초동하수구뚫는업체 합리적인 비용으로 해결한 실제 후기
+광진구 구의동배관청소 배관 수명을 늘리는 정기 청소의 중요성
+title 광진구 구의동배관청소 배관 수명을 늘리는 정기 청소의 중요성
+도봉구 쌍문동하수구냄새 악취 원인을 정확히 찾아 해결한 작업 사례
+title 도봉구 쌍문동하수구냄새 악취 원인을 정확히 찾아 해결한 작업 사례
+동작구 상도동하수구막힘 물이 천천히 내려갈 때 확인해야 할 원인과 해결 방법
+title 동작구 상도동하수구막힘 물이 천천히 내려갈 때 확인해야 할 원인과 해결 방법
+중구 을지로동싱크대막힘 음식물 찌꺼기와 기름때를 제거한 현장 후기
+title 중구 을지로동싱크대막힘 음식물 찌꺼기와 기름때를 제거한 현장 후기
+용산구 한남동변기막힘 물이 차오를 때 먼저 확인해야 할 원인과 대처법
+title 용산구 한남동변기막힘 물이 차오를 때 먼저 확인해야 할 원인과 대처법
+송파구 문정동하수구역류 공동배관 문제로 오수가 올라온 현장 해결 사례
+title 송파구 문정동하수구역류 공동배관 문제로 오수가 올라온 현장 해결 사례
+성북구 정릉동싱크대역류 설거지 중 물이 올라오는 원인과 해결 방법
+title 성북구 정릉동싱크대역류 설거지 중 물이 올라오는 원인과 해결 방법
+성동구 행당동변기역류 반복되는 오수 문제를 배관 점검으로 해결한 후기
+title 성동구 행당동변기역류 반복되는 오수 문제를 배관 점검으로 해결한 후기
+마포구 공덕동오수관막힘 악취와 배수불량을 고압세척으로 해결한 사례
+title 마포구 공덕동오수관막힘 악취와 배수불량을 고압세척으로 해결한 사례
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+전체 키워드 개수 :
+엑셀 개수 78
+1--now_device_check 03FF0210-04E0-0576-6A06-830700080009
+1--device_check_DB 52006B9C-C707-0000-0000-000000000000
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+ysmkdy@naver.com
+IPaddress_flask https://vmwareflask.autoprogram.life/
+************************************************************
+*************************google***********************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+***************************daum*********************************
+************************************************************
+----------------------------import --------
+에러메세지33
+name 'response' is not defined
+***********************unsplash*************************************
+************************************************************
+************************************************************
+************************************************************
+선택된 파일: C:\Users\mycom\Desktop\image2\하수구막힘용인하수구공사 빌라 배관 교체 작업 (9).jpg
+image0.png로 저장 완료.
+chef 안성시 안성동배수관막힘 물이 느리게 내려갈 때 필요한 점검과 청소 방법
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:\Users\mycom\Desktop\image2
+image_file Image0.png
+img_sub_send 193348
+체크------이미지
+체크22------이미지
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="f69c5ad63adb42b3ece7a64c8eaab2be")>
+bring_window 에러
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-6a4db7ffe72c8191a1ab4a8493a5e602-myblog']
+ID_gmemo https://chatgpt.com/g/g-6a4db7ffe72c8191a1ab4a8493a5e602-myblog
+체크4
+현재 URL: https://chatgpt.com/g/g-6a4db7ffe72c8191a1ab4a8493a5e602-myblog
+수집된 텍스트: 주제 : 안성시 안성동배수관막힘 물이 느리게 내려갈 때 필요한 점검과 청소 방법 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 6개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 6개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘--안성동배수관막힘 라는 말은 문장에 자연스럽게None번 나오게 재작성 해줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+검색
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+새 프로젝트
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+하남시 덕풍동 배관 막힘 고정
+---끝
+---체
+하남시 덕풍동 배관 막힘의 대화 옵션 열기
+---끝
+---체
+아이 귀 부음 원인 고정
+---끝
+---체
+아이 귀 부음 원인의 대화 옵션 열기
+---끝
+---체
+병원약국 가격차이 고정
+---끝
+---체
+병원약국 가격차이의 대화 옵션 열기
+---끝
+---체
+블로그 제목 예시 고정
+---끝
+---체
+블로그 제목 예시의 대화 옵션 열기
+---끝
+---체
+의왕시 오전동 정화조 막힘 해결 고정
+---끝
+---체
+의왕시 오전동 정화조 막힘 해결의 대화 옵션 열기
+---끝
+---체
+마포구 하수구 막힘 후기 고정
+---끝
+---체
+마포구 하수구 막힘 후기의 대화 옵션 열기
+---끝
+---체
+안성동배수관막힘 점검 방법 고정
+---끝
+---체
+안성동배수관막힘 점검 방법의 대화 옵션 열기
+---끝
+---체
+덕풍동 공동배관 역류 원인 고정
+---끝
+---체
+덕풍동 공동배관 역류 원인의 대화 옵션 열기
+---끝
+---체
+덕풍동 공동배관 역류 원인 고정
+---끝
+---체
+덕풍동 공동배관 역류 원인의 대화 옵션 열기
+---끝
+---체
+안성동배수관막힘 점검법 고정
+---끝
+---체
+안성동배수관막힘 점검법의 대화 옵션 열기
+---끝
+---체
+백링크 최적화 방법 고정
+---끝
+---체
+백링크 최적화 방법의 대화 옵션 열기
+---끝
+---체
+의왕시 오수 문제 해결 고정
+---끝
+---체
+의왕시 오수 문제 해결의 대화 옵션 열기
+---끝
+---체
+구리시 교문동변기역류 해결 고정
+---끝
+---체
+구리시 교문동변기역류 해결의 대화 옵션 열기
+---끝
+---체
+다운로드 문제 해결 고정
+---끝
+---체
+다운로드 문제 해결의 대화 옵션 열기
+---끝
+---체
+하수구 대표 키워드 고정
+---끝
+---체
+하수구 대표 키워드의 대화 옵션 열기
+---끝
+---체
+밸런스 스태킹 스톤 고정
+---끝
+---체
+밸런스 스태킹 스톤의 대화 옵션 열기
+---끝
+---체
+치주과 vs 구강내과 차이 고정
+---끝
+---체
+치주과 vs 구강내과 차이의 대화 옵션 열기
+---끝
+---체
+제품 확인 방법 고정
+---끝
+---체
+제품 확인 방법의 대화 옵션 열기
+---끝
+---체
+세탁용 향기 비즈 고정
+---끝
+---체
+세탁용 향기 비즈의 대화 옵션 열기
+---끝
+---체
+성북동 맛집 추천 고정
+---끝
+---체
+성북동 맛집 추천의 대화 옵션 열기
+---끝
+---체
+영어유치원 설명회 고정
+---끝
+---체
+영어유치원 설명회의 대화 옵션 열기
+---끝
+---체
+드림렌즈 성인 효과 고정
+---끝
+---체
+드림렌즈 성인 효과의 대화 옵션 열기
+---끝
+---체
+카톡 방 유지 여부 고정
+---끝
+---체
+카톡 방 유지 여부의 대화 옵션 열기
+---끝
+---체
+아이의 어린이집 적응 문제 고정
+---끝
+---체
+아이의 어린이집 적응 문제의 대화 옵션 열기
+---끝
+---체
+페브릭 접착제 사용법 고정
+---끝
+---체
+페브릭 접착제 사용법의 대화 옵션 열기
+---끝
+---체
+서울시 누수탐지 제목 추천 고정
+---끝
+---체
+서울시 누수탐지 제목 추천의 대화 옵션 열기
+---끝
+---체
+마포구 글씨체 추측 고정
+---끝
+---체
+마포구 글씨체 추측의 대화 옵션 열기
+---끝
+---체
+2024년 12월 31일 고정
+---끝
+---체
+2024년 12월 31일의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+펼치기
+---끝
+---체
+파일 등 추가
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+시작
+File saved to: C:\Users\mycom\Desktop\12-15New워드프레스\logfile.txt
