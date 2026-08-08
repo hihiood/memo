@@ -1,0 +1,12 @@
+[로그인] 인증 시작: testfortest
+[인증] Flask 서버 인증 시도: testfortest
+[서버체크] https://sgtestflask.autoprogram.blog/ -> 200
+[서버] 현재 서버 정상: https://sgtestflask.autoprogram.blog/
+[인증] Flask 응답: ok=True
+[로그인] 인증 성공: testfortest
+
+===== UI LOG =====
+[10:23:27] 저장된 Task 27개 불러옴
+[10:23:27] 이전 입력값 불러옴
+[10:23:30] 로그인 성공
+[10:24:01] 폴더에서 Task 108개 추가: C:/Users/FORYOUCOM/전승규개발자_프로그램/001. gpt 자동화/생성파일
