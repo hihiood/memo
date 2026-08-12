@@ -1,0 +1,24 @@
+2
+3
+[히스토리] 스케줄 1행 보관 (총 1개 중)
+DB access----success!!
+1
+['가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 121.126.169.77
+[AntiDetect] 자동화 흔적 검사: 0개 (0 = 정상)
+[AntiDetect] 자동화 흔적 검사: 0개 (0 = 정상)
+--------------total error-------import --------
+에러메세지
+PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+[오류 위치] File "pyautogui\__init__.py", line 1722, in failSafeCheck
+[상세 오류] FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+IP 변경중...
+변경된 IP : 121.126.35.240
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=5 skipped=10 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+시작
+File saved to: C:\Users\idmaker1\Desktop\logfile.txt
