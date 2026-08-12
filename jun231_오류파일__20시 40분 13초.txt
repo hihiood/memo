@@ -1,0 +1,391 @@
+2
+3
+[AntiDetect] API 키를 입력해주세요 (AD키 칸)
+DB access----success!!
+80
+['가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 115.144.164.236
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:59944
+from session not created: This version of ChromeDriver only supports Chrome version 149
+Current browser version is 151.0.7922.137; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xdf2ad3+11183]
+	chromedriver!GetHandleVerifier [0xdf2c04+112b4]
+	chromedriver!(No symbol) [0xbc2020]
+	chromedriver!(No symbol) [0xbfde22]
+	chromedriver!(No symbol) [0xbfce49]
+	chromedriver!(No symbol) [0xbf2f85]
+	chromedriver!(No symbol) [0xbf2da6]
+	chromedriver!(No symbol) [0xc39aaf]
+	chromedriver!(No symbol) [0xc392c7]
+	chromedriver!(No symbol) [0xc2d696]
+	chromedriver!(No symbol) [0xc00a19]
+	chromedriver!(No symbol) [0xc017d4]
+	chromedriver!GetHandleVerifier [0x1052014+2706c4]
+	chromedriver!GetHandleVerifier [0x104d4fb+26bbab]
+	chromedriver!GetHandleVerifier [0x106de65+28c515]
+	chromedriver!GetHandleVerifier [0xe0ce88+2b538]
+	chromedriver!GetHandleVerifier [0xe14a0d+330bd]
+	chromedriver!GetHandleVerifier [0xdfb348+199f8]
+	chromedriver!GetHandleVerifier [0xdfb4f5+19ba5]
+	chromedriver!GetHandleVerifier [0xde44ef+2b9f]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+[버전 불일치] chromedriver(149) ≠ Chrome(151.0.7922.137)
+→ chromedriver.exe를 Chrome 151용으로 교체해주세요.
+→ 다운로드: https://googlechromelabs.github.io/chrome-for-testing/
+
+[드라이버] Chrome 151 용 chromedriver 자동 설치 시도...
+[AntiDetect] chromedriver 151 다운로드 중...
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=67 skipped=11 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[AntiDetect] chromedriver 151 준비 완료
+[드라이버] chromedriver 151 로 교체 완료 — 이어서 진행합니다
+find_name 가호
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 80개 행
+============================================================
+
+DB access----success!!
+80
+['가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 121.126.57.120
+더보기
+머지???
+목포 단체룸
+목포 단체룸 더보기
+머지???
+목포 단체룸
+next_check_click True
+map 찾는중
+map 찾음2
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=17 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[목록] searchIframe 진입 실패: ProtocolError
+DB access----success!!
+1
+['가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 115.144.157.38
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60096): Max retries exceeded with url: /session/c0d55cf0eedbf6c36878b0a3d53e5354/elements (Caused by NewConnectionError("HTTPConnection(host='localhost', port=60096): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[오류 위치] File "urllib3\util\retry.py", line 543, in increment
+[상세 오류] MaxRetryError: HTTPConnectionPool(host='localhost', port=60096): Max retries exceeded with url: /session/c0d55cf0eedbf6c36878b0a3d53e5354/elements (Caused by NewConnectionError("HTTPConnection(host='localhost', port=60096): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=151.0.7922.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x960003+102a3]
+	chromedriver!GetHandleVerifier [0x960044+102e4]
+	chromedriver!(No symbol) [0x7290d0]
+	chromedriver!(No symbol) [0x7196f3]
+	chromedriver!(No symbol) [0x719425]
+	chromedriver!(No symbol) [0x7175f8]
+	chromedriver!(No symbol) [0x717e46]
+	chromedriver!(No symbol) [0x724acb]
+	chromedriver!(No symbol) [0x7365de]
+	chromedriver!(No symbol) [0x73c636]
+	chromedriver!(No symbol) [0x7184cc]
+	chromedriver!(No symbol) [0x735e6a]
+	chromedriver!(No symbol) [0x7b3507]
+	chromedriver!(No symbol) [0x7953c6]
+	chromedriver!(No symbol) [0x768659]
+	chromedriver!(No symbol) [0x769424]
+	chromedriver!GetHandleVerifier [0xbd2556+2827f6]
+	chromedriver!GetHandleVerifier [0xbcda70+27dd10]
+	chromedriver!GetHandleVerifier [0xbedf2b+29e1cb]
+	chromedriver!GetHandleVerifier [0x979966+29c06]
+	chromedriver!GetHandleVerifier [0x98059d+3083d]
+	chromedriver!GetHandleVerifier [0x968ba8+18e48]
+	chromedriver!GetHandleVerifier [0x968d55+18ff5]
+	chromedriver!GetHandleVerifier [0x951c8f+1f2f]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+IP 변경중...
+변경된 IP : 124.198.70.34
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x960003+102a3]
+	chromedriver!GetHandleVerifier [0x960044+102e4]
+	chromedriver!(No symbol) [0x728f0e]
+	chromedriver!(No symbol) [0x7678e7]
+	chromedriver!(No symbol) [0x7954e6]
+	chromedriver!(No symbol) [0x790672]
+	chromedriver!(No symbol) [0x790051]
+	chromedriver!(No symbol) [0x6fc731]
+	chromedriver!(No symbol) [0x6fccd3]
+	chromedriver!(No symbol) [0x6fd18d]
+	chromedriver!GetHandleVerifier [0xbd2556+2827f6]
+	chromedriver!GetHandleVerifier [0xbcda70+27dd10]
+	chromedriver!GetHandleVerifier [0xbedf2b+29e1cb]
+	chromedriver!GetHandleVerifier [0x979966+29c06]
+	chromedriver!GetHandleVerifier [0x98059d+3083d]
+	chromedriver!(No symbol) [0x6fc3e0]
+	chromedriver!(No symbol) [0x6fba92]
+	chromedriver!GetHandleVerifier [0xd1f55f+3cf7ff]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+IP 변경중...
+IP 변경중...
+변경된 IP : 202.126.118.188
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=9 skipped=11 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+변경된 IP : 202.126.118.188
+IP 변경중...
+변경된 IP : 203.109.7.185
+시작
+File saved to: C:\Users\idmaker1\Desktop\logfile.txt
+
+--- Captured Logs ---
+2
+3
+[AntiDetect] API 키를 입력해주세요 (AD키 칸)
+DB access----success!!
+80
+['가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 115.144.164.236
+--------------total error-------import --------
+에러메세지
+Message: session not created: cannot connect to chrome at 127.0.0.1:59944
+from session not created: This version of ChromeDriver only supports Chrome version 149
+Current browser version is 151.0.7922.137; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xdf2ad3+11183]
+	chromedriver!GetHandleVerifier [0xdf2c04+112b4]
+	chromedriver!(No symbol) [0xbc2020]
+	chromedriver!(No symbol) [0xbfde22]
+	chromedriver!(No symbol) [0xbfce49]
+	chromedriver!(No symbol) [0xbf2f85]
+	chromedriver!(No symbol) [0xbf2da6]
+	chromedriver!(No symbol) [0xc39aaf]
+	chromedriver!(No symbol) [0xc392c7]
+	chromedriver!(No symbol) [0xc2d696]
+	chromedriver!(No symbol) [0xc00a19]
+	chromedriver!(No symbol) [0xc017d4]
+	chromedriver!GetHandleVerifier [0x1052014+2706c4]
+	chromedriver!GetHandleVerifier [0x104d4fb+26bbab]
+	chromedriver!GetHandleVerifier [0x106de65+28c515]
+	chromedriver!GetHandleVerifier [0xe0ce88+2b538]
+	chromedriver!GetHandleVerifier [0xe14a0d+330bd]
+	chromedriver!GetHandleVerifier [0xdfb348+199f8]
+	chromedriver!GetHandleVerifier [0xdfb4f5+19ba5]
+	chromedriver!GetHandleVerifier [0xde44ef+2b9f]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+[버전 불일치] chromedriver(149) ≠ Chrome(151.0.7922.137)
+→ chromedriver.exe를 Chrome 151용으로 교체해주세요.
+→ 다운로드: https://googlechromelabs.github.io/chrome-for-testing/
+
+[드라이버] Chrome 151 용 chromedriver 자동 설치 시도...
+[AntiDetect] chromedriver 151 다운로드 중...
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=67 skipped=11 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[AntiDetect] chromedriver 151 준비 완료
+[드라이버] chromedriver 151 로 교체 완료 — 이어서 진행합니다
+find_name 가호
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 80개 행
+============================================================
+
+DB access----success!!
+80
+['가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호', '가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 121.126.57.120
+더보기
+머지???
+목포 단체룸
+목포 단체룸 더보기
+머지???
+목포 단체룸
+next_check_click True
+map 찾는중
+map 찾음2
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=17 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[목록] searchIframe 진입 실패: ProtocolError
+DB access----success!!
+1
+['가호']
+find_name 가호
+IP 변경중...
+변경된 IP : 115.144.157.38
+--------------total error-------import --------
+에러메세지
+HTTPConnectionPool(host='localhost', port=60096): Max retries exceeded with url: /session/c0d55cf0eedbf6c36878b0a3d53e5354/elements (Caused by NewConnectionError("HTTPConnection(host='localhost', port=60096): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[오류 위치] File "urllib3\util\retry.py", line 543, in increment
+[상세 오류] MaxRetryError: HTTPConnectionPool(host='localhost', port=60096): Max retries exceeded with url: /session/c0d55cf0eedbf6c36878b0a3d53e5354/elements (Caused by NewConnectionError("HTTPConnection(host='localhost', port=60096): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=151.0.7922.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x960003+102a3]
+	chromedriver!GetHandleVerifier [0x960044+102e4]
+	chromedriver!(No symbol) [0x7290d0]
+	chromedriver!(No symbol) [0x7196f3]
+	chromedriver!(No symbol) [0x719425]
+	chromedriver!(No symbol) [0x7175f8]
+	chromedriver!(No symbol) [0x717e46]
+	chromedriver!(No symbol) [0x724acb]
+	chromedriver!(No symbol) [0x7365de]
+	chromedriver!(No symbol) [0x73c636]
+	chromedriver!(No symbol) [0x7184cc]
+	chromedriver!(No symbol) [0x735e6a]
+	chromedriver!(No symbol) [0x7b3507]
+	chromedriver!(No symbol) [0x7953c6]
+	chromedriver!(No symbol) [0x768659]
+	chromedriver!(No symbol) [0x769424]
+	chromedriver!GetHandleVerifier [0xbd2556+2827f6]
+	chromedriver!GetHandleVerifier [0xbcda70+27dd10]
+	chromedriver!GetHandleVerifier [0xbedf2b+29e1cb]
+	chromedriver!GetHandleVerifier [0x979966+29c06]
+	chromedriver!GetHandleVerifier [0x98059d+3083d]
+	chromedriver!GetHandleVerifier [0x968ba8+18e48]
+	chromedriver!GetHandleVerifier [0x968d55+18ff5]
+	chromedriver!GetHandleVerifier [0x951c8f+1f2f]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+IP 변경중...
+변경된 IP : 124.198.70.34
+창 포지션 에러2
+--------------total error-------import --------
+에러메세지
+Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x960003+102a3]
+	chromedriver!GetHandleVerifier [0x960044+102e4]
+	chromedriver!(No symbol) [0x728f0e]
+	chromedriver!(No symbol) [0x7678e7]
+	chromedriver!(No symbol) [0x7954e6]
+	chromedriver!(No symbol) [0x790672]
+	chromedriver!(No symbol) [0x790051]
+	chromedriver!(No symbol) [0x6fc731]
+	chromedriver!(No symbol) [0x6fccd3]
+	chromedriver!(No symbol) [0x6fd18d]
+	chromedriver!GetHandleVerifier [0xbd2556+2827f6]
+	chromedriver!GetHandleVerifier [0xbcda70+27dd10]
+	chromedriver!GetHandleVerifier [0xbedf2b+29e1cb]
+	chromedriver!GetHandleVerifier [0x979966+29c06]
+	chromedriver!GetHandleVerifier [0x98059d+3083d]
+	chromedriver!(No symbol) [0x6fc3e0]
+	chromedriver!(No symbol) [0x6fba92]
+	chromedriver!GetHandleVerifier [0xd1f55f+3cf7ff]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+IP 변경중...
+IP 변경중...
+변경된 IP : 202.126.118.188
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=9 skipped=11 dir=C:\Users\idmaker1\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+변경된 IP : 202.126.118.188
+IP 변경중...
+변경된 IP : 203.109.7.185
+시작
+File saved to: C:\Users\idmaker1\Desktop\logfile.txt
+
+--------------total error-------import --------
+에러메세지
+중단 요청
+[오류 위치] File "naverPlace_trafficV11_38.py", line 6170, in naverPlace_trafficV11_38.masterfunction
+--------------total error-------import --------
+에러메세지
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=151.0.7922.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x960003+102a3]
+	chromedriver!GetHandleVerifier [0x960044+102e4]
+	chromedriver!(No symbol) [0x7290d0]
+	chromedriver!(No symbol) [0x7196f3]
+	chromedriver!(No symbol) [0x719425]
+	chromedriver!(No symbol) [0x7175f8]
+	chromedriver!(No symbol) [0x717e46]
+	chromedriver!(No symbol) [0x7250d0]
+	chromedriver!(No symbol) [0x7365de]
+	chromedriver!(No symbol) [0x73c636]
+	chromedriver!(No symbol) [0x7184cc]
+	chromedriver!(No symbol) [0x735e6a]
+	chromedriver!(No symbol) [0x7b3507]
+	chromedriver!(No symbol) [0x7953c6]
+	chromedriver!(No symbol) [0x768659]
+	chromedriver!(No symbol) [0x769424]
+	chromedriver!GetHandleVerifier [0xbd2556+2827f6]
+	chromedriver!GetHandleVerifier [0xbcda70+27dd10]
+	chromedriver!GetHandleVerifier [0xbedf2b+29e1cb]
+	chromedriver!GetHandleVerifier [0x979966+29c06]
+	chromedriver!GetHandleVerifier [0x98059d+3083d]
+	chromedriver!GetHandleVerifier [0x968ba8+18e48]
+	chromedriver!GetHandleVerifier [0x968d55+18ff5]
+	chromedriver!GetHandleVerifier [0x951c8f+1f2f]
+	KERNEL32!BaseThreadInitThunk [0x7677fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779982ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7799827e+ee]
+
+[오류 위치] File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 1개 행
+============================================================
+
+find_name 가호
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 80개 행
+============================================================
+
+시작
+File saved to: C:\Users\idmaker1\Desktop\logfile.txt
