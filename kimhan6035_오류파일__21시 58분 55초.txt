@@ -1,0 +1,581 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\1d71a06b53534bff923943f90a8967fa.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\87ec0a2dd5ca4c99b9904dea484abed3.pyd
+Running main() from the .pyd file...
+Captured output: 152
+최신 크롬 버전 :: 152
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\6a7d6b6bb9ef47f8b789c88592ac7a49.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 드라이버 버전 :: 151
+=========================================
+내 크롬 버전 :: 151
+최신 크롬 버전 :: 152
+내 드라이버 버전 :: 151
+버전업 필요
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\104c5cb8123747d69a9297e0ad6ac2ce.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\9a3c55f7f1db42f0bee8ab0873a8bc47.pyd
+Running main() from the .pyd file...
+Captured output: 152
+최신 크롬 버전 :: 152
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\68a20ac96e7340188078887e4304290f.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 드라이버 버전 :: 151
+=========================================
+내 크롬 버전 :: 151
+최신 크롬 버전 :: 152
+내 드라이버 버전 :: 151
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0b9ff91f2f134faabbd2e010b3f232df.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 크롬 버전 :: 151
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\0ad5b47854c04023b0e4a6a7c5f18391.pyd
+Running main() from the .pyd file...
+Captured output: 152
+최신 크롬 버전 :: 152
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\fd647427e42343a9a2cfd48a2d1c1b86.pyd
+Running main() from the .pyd file...
+Captured output: 151
+내 드라이버 버전 :: 151
+=========================================
+내 크롬 버전 :: 151
+최신 크롬 버전 :: 152
+내 드라이버 버전 :: 151
+버전업 필요
+바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+title 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험
+title 휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None]
+HOMEPAGE_PATH_PATH :  [None None]
+TELEPHONE_PATH_PATH :  [None None]
+Main_title_image_path :  [None None]
+Video_file_path :  [None None]
+엑셀 개수 2
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+aqw6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.', '바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개', 'ko']
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+펼치기 못 본 채 타임아웃 -> fallback
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image0.png'
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image1.png'
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image2.png'
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image3.png'
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.', '바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개', 'ko']
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+I opened a submerged phone that fell into sea water, and the internal state was shocking revealed. I opened a submerged phone submerged in sea water, and the internal state was shocking revealed.
+펼치기 못 본 채 타임아웃 -> fallback
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image4.png'
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image5.png'
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image6.png'
+이미지 저장 실패: [Errno 2] No such file or directory: 'C:\\Users\\pc\\Desktop\\까페\\이미지/Image7.png'
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="2023bf7837df24d1fa26718a34558c07")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test']
+ID_gmemo https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+체크4
+현재 URL: https://chatgpt.com/g/g-681b4a4cd23081918b481caf66aff500-test
+수집된 텍스트: 주제 : 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+검색
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+None
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+AI가 인용하는 블로그 글 패턴 7가지 프롬프트 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+test 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+해시태그 7개 만들기 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+전문가 사례후기 글쓰기  프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+블로그 강화 추가 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+AI 브리핑 노출에 유리한 블로그 글쓰기 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+네이버 플레이스 소식글+쇼츠대본 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+네이버 tv설명글(쇼츠포함) 프로젝트 옵션 열기
+---끝
+---체
+블랙박스 포맷 사고영상 고정 해제
+---끝
+---체
+블랙박스 포맷 사고영상의 대화 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+새 프로젝트
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+동영상 쇼츠 만들기 대본 구성 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+동영상 대본 만들기+타임라인(블로그 삽입) 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+유튜브 쇼츠 전용 대본 생성 통합 지침 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+까페 글쓰기 프로젝트 옵션 열기
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+영구삭제 원고만들기 글쓰기 대본 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+침수폰 내부 점검 고정
+---끝
+---체
+침수폰 내부 점검의 대화 옵션 열기
+---끝
+---체
+대전 휴대폰 데이터복구 고정
+---끝
+---체
+대전 휴대폰 데이터복구의 대화 옵션 열기
+---끝
+---체
+봉천동 낙성대 월세 추천 고정
+---끝
+---체
+봉천동 낙성대 월세 추천의 대화 옵션 열기
+---끝
+---체
+대전 포렌식 업체 추천 고정
+---끝
+---체
+대전 포렌식 업체 추천의 대화 옵션 열기
+---끝
+---체
+대전 침수폰 데이터복구 고정
+---끝
+---체
+대전 침수폰 데이터복구의 대화 옵션 열기
+---끝
+---체
+유튜브 썸네일 디자인 고정
+---끝
+---체
+유튜브 썸네일 디자인의 대화 옵션 열기
+---끝
+---체
+프로젝트 순서 변경 방법 고정
+---끝
+---체
+프로젝트 순서 변경 방법의 대화 옵션 열기
+---끝
+---체
+프로젝트 관리 방법 고정
+---끝
+---체
+프로젝트 관리 방법의 대화 옵션 열기
+---끝
+---체
+블로그 제목 작성 고정
+---끝
+---체
+블로그 제목 작성의 대화 옵션 열기
+---끝
+---체
+신림역 주거 비교 고정
+---끝
+---체
+신림역 주거 비교의 대화 옵션 열기
+---끝
+---체
+블로그 제목 다듬기 고정
+---끝
+---체
+블로그 제목 다듬기의 대화 옵션 열기
+---끝
+---체
+월세 매물 찾기 고정
+---끝
+---체
+월세 매물 찾기의 대화 옵션 열기
+---끝
+---체
+수정 작성 고정
+---끝
+---체
+수정 작성의 대화 옵션 열기
+---끝
+---체
+기종 추정 고정
+---끝
+---체
+기종 추정의 대화 옵션 열기
+---끝
+---체
+기종 확인 요청 고정
+---끝
+---체
+기종 확인 요청의 대화 옵션 열기
+---끝
+---체
+사진 재사용 방법 고정
+---끝
+---체
+사진 재사용 방법의 대화 옵션 열기
+---끝
+---체
+강남역 근처 원룸 추천 고정
+---끝
+---체
+강남역 근처 원룸 추천의 대화 옵션 열기
+---끝
+---체
+강남 외곽 방 추천 고정
+---끝
+---체
+강남 외곽 방 추천의 대화 옵션 열기
+---끝
+---체
+카카오톡안티포렌식 영구삭제 후기 고정
+---끝
+---체
+카카오톡안티포렌식 영구삭제 후기의 대화 옵션 열기
+---끝
+---체
+고객상황선택 구성 방법 고정
+---끝
+---체
+고객상황선택 구성 방법의 대화 옵션 열기
+---끝
+---체
+워드프레스 이미지 사이즈 조정 고정
+---끝
+---체
+워드프레스 이미지 사이즈 조정의 대화 옵션 열기
+---끝
+---체
+쿠팡파트너스 대가성 문구 고정
+---끝
+---체
+쿠팡파트너스 대가성 문구의 대화 옵션 열기
+---끝
+---체
+로고 디자인 요청 고정
+---끝
+---체
+로고 디자인 요청의 대화 옵션 열기
+---끝
+---체
+스피드출동 이미지 요청 고정
+---끝
+---체
+스피드출동 이미지 요청의 대화 옵션 열기
+---끝
+---체
+전화 버튼 설정 방법 고정
+---끝
+---체
+전화 버튼 설정 방법의 대화 옵션 열기
+---끝
+---체
+로고 변경 방법 고정
+---끝
+---체
+로고 변경 방법의 대화 옵션 열기
+---끝
+---체
+체중 수정 요청 고정
+---끝
+---체
+체중 수정 요청의 대화 옵션 열기
+---끝
+---체
+구글 사이트 킷 영어 고정
+---끝
+---체
+구글 사이트 킷 영어의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+펼치기
+---끝
+---체
+파일 등 추가
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+스트리밍 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+전체 글 끝 감지 → 중지버튼 강제 클릭(스트리밍 종료 유도)
+collected_text 편집
+<<<전체 글 시작>>>
+[[<<바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개>>]]
+<h2 style='font-size:26px;' align='left'>바닷물에 빠진 휴대폰, 겉보다 내부가 더 위험합니다</h2>
+휴가철 바닷가에서 스마트폰을 사용하다 순간적으로 기기를 바닷물에 빠뜨린 뒤 점검을 요청하는 사례가 적지 않습니다. 이번에 확인한 침수폰 역시 바닷물에 빠진 직후 빠르게 건져냈고 외관만 봤을 때는 특별한 파손이 없어 보였습니다. 화면에도 당장 큰 이상이 나타나지 않아 그대로 사용할 수 있을 것 같았다고 하셨는데요. 하지만 바닷물 침수는 일반적인 물 침수와 전혀 다르게 접근해야 합니다.
+<b>전문가 입장에서 가장 주의해서 보는 부분은 바닷물에 포함된 염분입니다.</b> 물기가 마르더라도 소금 성분과 각종 불순물이 기판과 커넥터 주변에 그대로 남을 수 있기 때문이죠. 특히 전원이 들어오는 상태에서 염분이 남아 있으면 부식이나 쇼트가 빠르게 진행될 가능성이 있습니다.
+실제로 기기를 열어보니 외부에서 예상했던 것보다 내부 상태가 좋지 않았습니다. 배터리 주변과 하단 커넥터 부근에는 침수 흔적이 있었고 일부 금속 접점에는 하얗게 변색된 잔여물도 확인됐어요. 겉으로 멀쩡하다는 이유만으로 계속 사용했다면 시간이 지나면서 갑작스럽게 전원이 꺼지거나 충전이 되지 않는 증상으로 이어질 가능성이 있는 상태였습니다.
+<h2 style='font-size:26px;' align='left'>침수폰을 분해하자 발견된 예상 밖의 흔적</h2>
+본격적으로 내부를 살펴보기 위해 안전하게 전원을 차단한 뒤 순서대로 분해를 진행했습니다. 침수 기기는 무리하게 전원을 반복해서 켜보는 것보다 내부에 남은 수분과 오염 상태를 먼저 확인하는 것이 중요합니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">점검 부위</th> <th style="background-color: lightblue; text-align:center">확인 상태</th> </tr> <tr> <td>충전 커넥터</td> <td>염분 및 침수 흔적 확인</td> </tr> <tr> <td>메인 기판</td> <td>일부 접점 오염 확인</td> </tr> <tr> <td>배터리 주변</td> <td>미세한 수분 흔적 확인</td> </tr> </table>
+가장 눈에 띈 곳은 커넥터와 기판 가장자리였습니다. 바닷물이 들어왔다가 마르기 시작하면서 염분이 결정처럼 남은 부분이 보였고 작은 접점 사이에도 오염물이 자리 잡고 있었습니다. 이런 부분은 육안으로 대충 닦아내는 것만으로 완전히 해결하기 어렵습니다.
+<li>침수 직후 전원을 반복해서 켜지 않기</li> <li>충전기를 연결해 작동 여부를 확인하지 않기</li> <li>드라이어의 뜨거운 바람으로 무리하게 말리지 않기</li> <li>가능하면 빠른 시간 안에 내부 점검을 받기</li>
+특히 충전기를 연결하면 정상 여부를 확인할 수 있을 것이라고 생각하기 쉽지만 내부에 수분이 남아 있다면 오히려 손상 범위를 넓힐 수 있습니다.
+<h2 style='font-size:26px;' align='left'>바닷물 침수 후 시간이 중요한 이유</h2>
+침수폰은 물에서 꺼냈다고 문제가 끝난 것이 아닙니다. 오히려 그때부터 내부에서 변화가 진행될 수 있습니다. 일반적인 물도 전자기기에 위험하지만 바닷물은 염분 때문에 부식 진행 가능성을 더욱 신경 써야 합니다. 처음에는 화면과 터치, 카메라가 모두 정상적으로 작동하다가 몇 시간 또는 며칠 후 갑자기 문제가 나타나는 이유도 여기에 있습니다.
+이번 기기도 내부 세척과 건조를 진행하면서 접점 주변을 세밀하게 확인했습니다. 눈에 보이는 물기만 제거하는 것이 아니라 염분과 오염 잔여물을 확인하고 기판의 손상 여부까지 점검해야 했습니다. 이후 충분한 건조 과정을 거친 다음 각 부품을 다시 살펴봤어요.
+<b>바닷물에 빠진 스마트폰은 '지금 켜진다'는 사실보다 '내부에 무엇이 남아 있는가'가 훨씬 중요할 수 있습니다.</b> 방수 기능이 있는 스마트폰이라도 사용 기간, 충격 이력, 실링 상태 등에 따라 방수 성능이 달라질 수 있으므로 바닷물에 빠졌다면 무조건 괜찮다고 판단하는 것은 피하는 편이 좋습니다.
+<h2 style='font-size:26px;' align='left'>세척과 건조 후 다시 확인한 침수폰 상태</h2>
+오염 부위를 정리한 뒤에는 충분한 건조 시간을 확보하고 기판과 커넥터 상태를 다시 점검했습니다. 처음 분해했을 때 보이던 염분 흔적이 정리됐는지 확인하고 연결 부위에 추가적인 부식이 없는지도 하나씩 살폈습니다. 그다음 필요한 부분을 조립한 후 전원, 화면, 터치, 충전, 카메라 등 기본적인 기능을 순차적으로 확인했습니다.
+침수폰 작업에서 중요한 것은 단순히 전원을 켜는 데 성공하는 것이 아닙니다. 데이터가 중요한 기기라면 무리한 작동 시도보다 손상 범위를 최소화하는 방향으로 접근하는 것이 우선이며, 이미 부식이 심하게 진행된 경우에는 세척만으로 모든 문제가 해결되지 않을 수도 있습니다.
+이번 사례처럼 바닷물에 빠진 뒤 외관이 깨끗하고 정상적으로 작동한다고 해서 내부까지 안전하다고 단정하기는 어렵습니다. 직접 열어보니 예상하지 못했던 염분과 오염 흔적이 곳곳에서 확인됐기 때문인데요. 바다에서 휴대폰 침수가 발생했다면 전원과 충전을 반복적으로 시도하기보다 가능한 한 빠르게 상태를 점검하는 것이 좋습니다.
+특히 사진이나 연락처처럼 중요한 데이터가 들어 있다면 초기 대응이 더욱 중요합니다. <b>침수 후 얼마나 빨리 적절하게 대처했는지가 이후 복구 가능성과 추가 손상 범위에 영향을 줄 수 있기 때문입니다.</b> 바닷물 침수는 겉으로 보이는 상태만으로 판단하지 말고 내부 오염과 부식 가능성까지 함께 확인하는 것이 안전합니다.
+<<<전체 글 끝>>>
+matches2: 바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+text2: <h2 style='font-size:26px;' align='left'>바닷물에 빠진 휴대폰, 겉보다 내부가 더 위험합니다</h2>
+휴가철 바닷가에서 스마트폰을 사용하다 순간적으로 기기를 바닷물에 빠뜨린 뒤 점검을 요청하는 사례가 적지 않습니다. 이번에 확인한 침수폰 역시 바닷물에 빠진 직후 빠르게 건져냈고 외관만 봤을 때는 특별한 파손이 없어 보였습니다. 화면에도 당장 큰 이상이 나타나지 않아 그대로 사용할 수 있을 것 같았다고 하셨는데요. 하지만 바닷물 침수는 일반적인 물 침수와 전혀 다르게 접근해야 합니다.
+<b>전문가 입장에서 가장 주의해서 보는 부분은 바닷물에 포함된 염분입니다.</b> 물기가 마르더라도 소금 성분과 각종 불순물이 기판과 커넥터 주변에 그대로 남을 수 있기 때문이죠. 특히 전원이 들어오는 상태에서 염분이 남아 있으면 부식이나 쇼트가 빠르게 진행될 가능성이 있습니다.
+실제로 기기를 열어보니 외부에서 예상했던 것보다 내부 상태가 좋지 않았습니다. 배터리 주변과 하단 커넥터 부근에는 침수 흔적이 있었고 일부 금속 접점에는 하얗게 변색된 잔여물도 확인됐어요. 겉으로 멀쩡하다는 이유만으로 계속 사용했다면 시간이 지나면서 갑작스럽게 전원이 꺼지거나 충전이 되지 않는 증상으로 이어질 가능성이 있는 상태였습니다.
+<h2 style='font-size:26px;' align='left'>침수폰을 분해하자 발견된 예상 밖의 흔적</h2>
+본격적으로 내부를 살펴보기 위해 안전하게 전원을 차단한 뒤 순서대로 분해를 진행했습니다. 침수 기기는 무리하게 전원을 반복해서 켜보는 것보다 내부에 남은 수분과 오염 상태를 먼저 확인하는 것이 중요합니다.
+<table border='1' style="text-align:center"> <tr> <th style="background-color: lightblue; text-align:center">점검 부위</th> <th style="background-color: lightblue; text-align:center">확인 상태</th> </tr> <tr> <td>충전 커넥터</td> <td>염분 및 침수 흔적 확인</td> </tr> <tr> <td>메인 기판</td> <td>일부 접점 오염 확인</td> </tr> <tr> <td>배터리 주변</td> <td>미세한 수분 흔적 확인</td> </tr> </table>
+가장 눈에 띈 곳은 커넥터와 기판 가장자리였습니다. 바닷물이 들어왔다가 마르기 시작하면서 염분이 결정처럼 남은 부분이 보였고 작은 접점 사이에도 오염물이 자리 잡고 있었습니다. 이런 부분은 육안으로 대충 닦아내는 것만으로 완전히 해결하기 어렵습니다.
+<li>침수 직후 전원을 반복해서 켜지 않기</li> <li>충전기를 연결해 작동 여부를 확인하지 않기</li> <li>드라이어의 뜨거운 바람으로 무리하게 말리지 않기</li> <li>가능하면 빠른 시간 안에 내부 점검을 받기</li>
+특히 충전기를 연결하면 정상 여부를 확인할 수 있을 것이라고 생각하기 쉽지만 내부에 수분이 남아 있다면 오히려 손상 범위를 넓힐 수 있습니다.
+<h2 style='font-size:26px;' align='left'>바닷물 침수 후 시간이 중요한 이유</h2>
+침수폰은 물에서 꺼냈다고 문제가 끝난 것이 아닙니다. 오히려 그때부터 내부에서 변화가 진행될 수 있습니다. 일반적인 물도 전자기기에 위험하지만 바닷물은 염분 때문에 부식 진행 가능성을 더욱 신경 써야 합니다. 처음에는 화면과 터치, 카메라가 모두 정상적으로 작동하다가 몇 시간 또는 며칠 후 갑자기 문제가 나타나는 이유도 여기에 있습니다.
+이번 기기도 내부 세척과 건조를 진행하면서 접점 주변을 세밀하게 확인했습니다. 눈에 보이는 물기만 제거하는 것이 아니라 염분과 오염 잔여물을 확인하고 기판의 손상 여부까지 점검해야 했습니다. 이후 충분한 건조 과정을 거친 다음 각 부품을 다시 살펴봤어요.
+<b>바닷물에 빠진 스마트폰은 '지금 켜진다'는 사실보다 '내부에 무엇이 남아 있는가'가 훨씬 중요할 수 있습니다.</b> 방수 기능이 있는 스마트폰이라도 사용 기간, 충격 이력, 실링 상태 등에 따라 방수 성능이 달라질 수 있으므로 바닷물에 빠졌다면 무조건 괜찮다고 판단하는 것은 피하는 편이 좋습니다.
+<h2 style='font-size:26px;' align='left'>세척과 건조 후 다시 확인한 침수폰 상태</h2>
+오염 부위를 정리한 뒤에는 충분한 건조 시간을 확보하고 기판과 커넥터 상태를 다시 점검했습니다. 처음 분해했을 때 보이던 염분 흔적이 정리됐는지 확인하고 연결 부위에 추가적인 부식이 없는지도 하나씩 살폈습니다. 그다음 필요한 부분을 조립한 후 전원, 화면, 터치, 충전, 카메라 등 기본적인 기능을 순차적으로 확인했습니다.
+침수폰 작업에서 중요한 것은 단순히 전원을 켜는 데 성공하는 것이 아닙니다. 데이터가 중요한 기기라면 무리한 작동 시도보다 손상 범위를 최소화하는 방향으로 접근하는 것이 우선이며, 이미 부식이 심하게 진행된 경우에는 세척만으로 모든 문제가 해결되지 않을 수도 있습니다.
+이번 사례처럼 바닷물에 빠진 뒤 외관이 깨끗하고 정상적으로 작동한다고 해서 내부까지 안전하다고 단정하기는 어렵습니다. 직접 열어보니 예상하지 못했던 염분과 오염 흔적이 곳곳에서 확인됐기 때문인데요. 바다에서 휴대폰 침수가 발생했다면 전원과 충전을 반복적으로 시도하기보다 가능한 한 빠르게 상태를 점검하는 것이 좋습니다.
+특히 사진이나 연락처처럼 중요한 데이터가 들어 있다면 초기 대응이 더욱 중요합니다. <b>침수 후 얼마나 빨리 적절하게 대처했는지가 이후 복구 가능성과 추가 손상 범위에 영향을 줄 수 있기 때문입니다.</b> 바닷물 침수는 겉으로 보이는 상태만으로 판단하지 말고 내부 오염과 부식 가능성까지 함께 확인하는 것이 안전합니다.
+check_word_length 0
+len(kkq) 2856
+타이틀에 ['네이버 : 로그인', '로그인', '네이버', '새 탭'] 포함된 Chrome 창이 없습니다.
+제목  바닷물에 빠진 침수폰 열어봤더니 내부 상태 충격 공개
+✅ Chrome 실행 파일 찾음: C:\Program Files\Google\Chrome\Application\chrome.exe
+🚀 포트 9234 + 프로필 C:\chromeCookie\Profile aqw6035 실행 중...
+✅ 연결 성공: 포트 9234, 프로필 C:\chromeCookie\Profile aqw6035
+🌐 Naver 접속 완료 (포트: 9234, 프로필: C:\chromeCookie\Profile aqw6035)
+cookies [{'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '32D6026F93D9A6B2376D46EA30A2E3E3.jvm1'}, {'domain': '.naver.com', 'expiry': 1786711150, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1821185876, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3OQQWSQ6GGMWS'}, {'domain': '.naver.com', 'expiry': 1821184750, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0K8WB8AvVkeCB'}, {'domain': '.blog.naver.com', 'expiry': 1806207295, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db874d79-ff45-4b17-940e-a943aecdb111'}, {'domain': '.naver.com', 'expiry': 1789216841, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1336839148'}, {'domain': '.naver.com', 'expiry': 1786627676, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1786624749'}, {'domain': '.naver.com', 'expiry': 1789216841, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'yPk3I9u/VJ5XbLBSYCH2BEBwfBp/rWgbWoGGGKeyPrVrUjZ66VqmRzqEfMvt1LgI'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1786626176, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1786625872'}, {'domain': '.naver.com', 'expiry': 1821185876, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '8mFTuawyTUfPW2QDuNJ2VlG2RKqsuNlDOOkB7tTO6Bo='}, {'domain': '.naver.com', 'expiry': 1789216841, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAAB2AVJYHikdEPRFUfn+9Rj+STYnQ7ASbjITmZ7cwEtqpKw9d0B9NsPIo4loa9lAUjJ5jIFX+DFfIyNrCBLUe3DgBVwMzeFg8rIPfNk1QCPs5leaZc1q4+Euhy65qtCxsG8dLjYjM6iasuGWSuDOtN4PwKxKmv2nLiTAHRIM/7FG7vUDfoJBgwx4tqSYND1apwRuMdYuKalMkvZ1MG9lPejmFyzfUYj6pv4Lk+6gF5CEP3jQoULVCgtXK4SPMt/5+jIScMPlRvAxMbI/J/WQOeUXlfGx7KB3+eyXXzzfzMsmD5edGHYKWLSfmuMr1pS1AHK8/q87wurLhI0rqsQ6cgLXyH/WuN0zI65ySO+Sv8fP1KgYGKEACovRZmd19l4AprFyjmEcNTj57S+wLMS+iPxZDMtNli9l7w01Gav0P0U+/n9YwBYEKIqrV6a+7iAKJpZRrz4EHRei+vcPoxOQWoNWzVBcBk0yomp+lXF60VyBLx3BDMr3sqPVORV7g4fnpP0D0GnziGcQ49OWpGesn7ss1KQ0pu4i93xId6GVJ4KnqG+C+6W6UOVYZzpJ/mczB1AuxPDnCRFJrbDVvmrkwQ4X3ePAhC4jqfcUuyziN9oL363sa7vJEkPjM8Ahx3pZk8oYg=='}]
+JSESSIONID -> 32D6026F93D9A6B2376D46EA30A2E3E3.jvm1
+NACT -> 1
+NNB -> 3OQQWSQ6GGMWS
+NAC -> 0K8WB8AvVkeCB
+BA_DEVICE -> db874d79-ff45-4b17-940e-a943aecdb111
+nid_inf -> -1336839148
+SRT30 -> 1786624749
+NID_AUT -> yPk3I9u/VJ5XbLBSYCH2BEBwfBp/rWgbWoGGGKeyPrVrUjZ66VqmRzqEfMvt1LgI
+stat_yn -> 1
+SRT5 -> 1786625872
+BUC -> 8mFTuawyTUfPW2QDuNJ2VlG2RKqsuNlDOOkB7tTO6Bo=
+NID_SES -> AAAB2AVJYHikdEPRFUfn+9Rj+STYnQ7ASbjITmZ7cwEtqpKw9d0B9NsPIo4loa9lAUjJ5jIFX+DFfIyNrCBLUe3DgBVwMzeFg8rIPfNk1QCPs5leaZc1q4+Euhy65qtCxsG8dLjYjM6iasuGWSuDOtN4PwKxKmv2nLiTAHRIM/7FG7vUDfoJBgwx4tqSYND1apwRuMdYuKalMkvZ1MG9lPejmFyzfUYj6pv4Lk+6gF5CEP3jQoULVCgtXK4SPMt/5+jIScMPlRvAxMbI/J/WQOeUXlfGx7KB3+eyXXzzfzMsmD5edGHYKWLSfmuMr1pS1AHK8/q87wurLhI0rqsQ6cgLXyH/WuN0zI65ySO+Sv8fP1KgYGKEACovRZmd19l4AprFyjmEcNTj57S+wLMS+iPxZDMtNli9l7w01Gav0P0U+/n9YwBYEKIqrV6a+7iAKJpZRrz4EHRei+vcPoxOQWoNWzVBcBk0yomp+lXF60VyBLx3BDMr3sqPVORV7g4fnpP0D0GnziGcQ49OWpGesn7ss1KQ0pu4i93xId6GVJ4KnqG+C+6W6UOVYZzpJ/mczB1AuxPDnCRFJrbDVvmrkwQ4X3ePAhC4jqfcUuyziN9oL363sa7vJEkPjM8Ahx3pZk8oYg==
+쿠키 체크
+frame <iframe allowfullscreen="" id="mainFrame" name="mainFrame" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame();document.querySelector('#mainFrame').focus();" scrolling="auto" src="/PostList.naver?blogId=aqw6035&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=true"></iframe>
+쿠키 체크--2
+쿠키 체크--3
+userNaverId=naverIDID2
+userNaverId aqw6035
+handles :  ['FEE18BF56494CBC101DF0CC21D0F6FAE']
+스탑
+-------------------
+[{'domain': '.naver.com', 'expiry': 1789216841, 'httpOnly': False, 'name': 'NID_SES', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'AAAB2AVJYHikdEPRFUfn+9Rj+STYnQ7ASbjITmZ7cwEtqpKw9d0B9NsPIo4loa9lAUjJ5jIFX+DFfIyNrCBLUe3DgBVwMzeFg8rIPfNk1QCPs5leaZc1q4+Euhy65qtCxsG8dLjYjM6iasuGWSuDOtN4PwKxKmv2nLiTAHRIM/7FG7vUDfoJBgwx4tqSYND1apwRuMdYuKalMkvZ1MG9lPejmFyzfUYj6pv4Lk+6gF5CEP3jQoULVCgtXK4SPMt/5+jIScMPlRvAxMbI/J/WQOeUXlfGx7KB3+eyXXzzfzMsmD5edGHYKWLSfmuMr1pS1AHK8/q87wurLhI0rqsQ6cgLXyH/WuN0zI65ySO+Sv8fP1KgYGKEACovRZmd19l4AprFyjmEcNTj57S+wLMS+iPxZDMtNli9l7w01Gav0P0U+/n9YwBYEKIqrV6a+7iAKJpZRrz4EHRei+vcPoxOQWoNWzVBcBk0yomp+lXF60VyBLx3BDMr3sqPVORV7g4fnpP0D0GnziGcQ49OWpGesn7ss1KQ0pu4i93xId6GVJ4KnqG+C+6W6UOVYZzpJ/mczB1AuxPDnCRFJrbDVvmrkwQ4X3ePAhC4jqfcUuyziN9oL363sa7vJEkPjM8Ahx3pZk8oYg=='}, {'domain': '.naver.com', 'expiry': 1789216841, 'httpOnly': True, 'name': 'NID_AUT', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'yPk3I9u/VJ5XbLBSYCH2BEBwfBp/rWgbWoGGGKeyPrVrUjZ66VqmRzqEfMvt1LgI'}, {'domain': '.naver.com', 'expiry': 1821185876, 'httpOnly': False, 'name': 'NNB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '3OQQWSQ6GGMWS'}, {'domain': '.naver.com', 'expiry': 1821184750, 'httpOnly': False, 'name': 'NAC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0K8WB8AvVkeCB'}, {'domain': '.blog.naver.com', 'expiry': 1806207295, 'httpOnly': False, 'name': 'BA_DEVICE', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'db874d79-ff45-4b17-940e-a943aecdb111'}, {'domain': '.naver.com', 'expiry': 1786627676, 'httpOnly': False, 'name': 'SRT30', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1786624749'}, {'domain': '.naver.com', 'expiry': 1789216841, 'httpOnly': False, 'name': 'nid_inf', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '-1336839148'}, {'domain': '.naver.com', 'expiry': 1786711150, 'httpOnly': False, 'name': 'NACT', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': '.naver.com', 'expiry': 1786626176, 'httpOnly': False, 'name': 'SRT5', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1786625872'}, {'domain': '.blog.naver.com', 'httpOnly': False, 'name': 'stat_yn', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': '1'}, {'domain': 'blog.naver.com', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': '32D6026F93D9A6B2376D46EA30A2E3E3.jvm1'}, {'domain': '.naver.com', 'expiry': 1821185876, 'httpOnly': True, 'name': 'BUC', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '8mFTuawyTUfPW2QDuNJ2VlG2RKqsuNlDOOkB7tTO6Bo='}]
+-------------------
+g_sUserId: aqw6035
+g_sClubId: 31163179
+g_category: 2
+Main_title_image_path None
+----------------------------import --------
+에러메세지 main
+[WinError 3] 지정된 경로를 찾을 수 없습니다: 'C:\\Users\\pc\\Desktop\\까페\\이미지'
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 1
+hby60355
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험 휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['Experienced seeing results in one day after entrusting data recovery for damage to mobile phone motherboard Experience experiencing results in one day after entrusting data recovery for damage to mobile phone motherboard', '휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험 휴대폰 메인보드 손상 데이터 복구 맡기고 하루 만에 결과 본 경험', 'ko']
+Experienced seeing results in one day after entrusting data recovery for damage to mobile phone motherboard Experience experiencing results in one day after entrusting data recovery for damage to mobile phone motherboard
+Experienced seeing results in one day after entrusting data recovery for damage to mobile phone motherboard Experience experiencing results in one day after entrusting data recovery for damage to mobile phone motherboard
+시작
+File saved to: C:\Users\pc\Desktop\cafe9\logfile.txt
