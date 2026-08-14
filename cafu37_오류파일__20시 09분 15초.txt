@@ -1,0 +1,121 @@
+[단축키] Ctrl+Alt+Z = 중단
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[오디오] 라우팅 자동설정: 재생=CABLE Input(VB-Audio Virtual Cable) 설정(vol hr=0) / 녹음=CABLE Output 설정(vol hr=0)
+[LOCAL STT] 워커 파일: True, 크기: 6827
+[LOCAL STT] Python 테스트 코드: 0 / 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC 
+[LOCAL STT] 서브프로세스 시작 (PID: 7260, compute_type=int8, env=기본)
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.6986.0 Safari/537.36
+[FP] window=1600x900, lang=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, mobile=False
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=썬가드광학추천2026년
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  5 6 7 9 9 1 → digits: 567991
+변환된 텍스트: 567991
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 567991 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8 9. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  1 2 3 4 5 6 7 8. → digits: 
+변환된 텍스트: 
+check_word 길이 : 0
+영수증 캡차 
+* recording
+[녹음테스트] VB-Cable 디바이스 발견: CABLE Output(VB-Audio Virtual C
+[녹음테스트] 디바이스 자동 설정 완료: 재생=CABLE Input(VB-Audio Virtual Cable) 설정(vol hr=0) / 녹음=CABLE Output 설정(vol hr=0)
+[TTS] 생성 성공 (method=sapi)
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3 3 8 2 2 3 9 → digits: 338223
+[LOCAL STT] recognized:  3 3 8 2 2 3 9 1 3 5 7 5 → digits: 338223
+변환된 텍스트: 338223
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 338223 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  2, 6, 9, 7, 1, 1 → digits: 269711
+변환된 텍스트: 269711
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 269711 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.8851.0 Safari/537.36
+[FP] window=1366x768, lang=ko-KR,ko;q=0.9,en;q=0.8, mobile=False
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
