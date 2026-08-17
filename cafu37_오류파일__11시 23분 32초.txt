@@ -1,0 +1,132 @@
+[단축키] Ctrl+Alt+Z 등록 실패 (다른 프로그램이 선점)
+buffers_g ['', '', '', '', '']
+[설정] 저장된 설정 적용 완료
+[캡차 로컬설치] 체크 상태: 1
+[LOCAL STT] ===== 캡차 로컬설치 시작 =====
+[LOCAL STT] 음성캡차 엔진 이미 설치됨
+[LOCAL STT] ===== 캡차 로컬설치 완료 =====
+[오디오] 라우팅 자동설정: 재생=CABLE Input(VB-Audio Virtual Cable) 설정(vol hr=0) / 녹음=CABLE Output 설정(vol hr=0)
+[LOCAL STT] 워커 파일: True, 크기: 12555
+[LOCAL STT] Python 테스트 코드: 0 / 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC 
+[LOCAL STT] 서브프로세스 시작 (PID: 540, compute_type=int8, env=기본)
+시작
+realID cafu37
+realPW tlarudtlr1!
+로그인 성공
+모드4
+[로그 초기화 완료] C:\Users\cafu0\Desktop\새 폴더\page_info_log.txt
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 0
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.4245.0 Safari/537.36
+[FP] window=1680x1050, lang=ko-KR,ko;q=0.9, mobile=False
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=썬가드광학추천2026년
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%E
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 6, 2, 8, 6, 1 → digits: 362861 [낭독 6덩이, 3.5초부터]
+변환된 텍스트: 362861
+check_word 길이 : 6
+[캡차] 1회차 STT 6자리 인식: 362861 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  3, 2, 6, 8, 5, 3 → digits: 326853 [낭독 6덩이, 3.5초부터]
+변환된 텍스트: 326853
+check_word 길이 : 6
+[캡차] 2회차 STT 6자리 인식: 326853 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  8, 7, 3, 2, 1, 2 → digits: 873212 [낭독 6덩이, 3.6초부터]
+변환된 텍스트: 873212
+check_word 길이 : 6
+[캡차] 3회차 STT 6자리 인식: 873212 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  하나 둘 아홉 둘 셋 다섯 → digits: 129235 [낭독 6덩이, 3.5초부터]
+변환된 텍스트: 129235
+check_word 길이 : 6
+[캡차] 4회차 STT 6자리 인식: 129235 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+[LOCAL STT] recognized:  4, 7, 5, 1, 7, 2 → digits: 475172 [낭독 6덩이, 3.75초부터]
+변환된 텍스트: 475172
+check_word 길이 : 6
+[캡차] 5회차 STT 6자리 인식: 475172 → 제출 후 검증
+[캡차] 제출했으나 통과 실패(오답 추정) → 새 캡차로 재청취
+[캡차] 5회 시도했으나 통과 실패 → IP 변경 필요
+--------mode4 전체 error-------------import --------
+에러메세지
+캡차 통과 실패 → IP 변경 후 재시도
+[진단] 예외타입: Exception
+[진단] URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%8D%AC%EA%B0%80%EB%93%9C%EA%B4%91%ED%95%99%EC%B6%94%EC%B2%9C2026%EB%85%84
+[진단] body 처음 300자: NAVER
+보안 확인을 완료해 주세요.
+
+이 절차는 귀하가 실제 사용자임을 확인하여 계정을 안전하게 보호하고 스팸을 방지하는 데 도움이 됩니다.
+
+음성으로 안내되고 있습니다.
+
+음성 안내는 시작음 3회 반복 후 재생됩니다.
+
+스피커에서 들리는 내용을 하단 입력영역에 숫자로 입력해주세요.
+
+새로고침
+확인
+이용약관 개인정보처리방침 책임의 한계와 법적고지 회원정보 고객센터
+undefined
+ Copyright © NAVER Corp. All Rights Reserved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+loop_oper 1
+3200
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+모든 Chrome 프로세스를 종료했습니다.
+[디바이스 모드] device_mode=0 → session_mode=desktop
+[FP] mode=desktop UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.792.0 Safari/537.36
+[FP] window=1280x800, lang=ko-KR,ko;q=0.9, mobile=False
+[전환] 데스크톱 쇼핑: https://search.shopping.naver.com/search/all?query=비교qled커버
+네이버 메인 진입 → 검색창 타이핑 → 쇼핑 탭 클릭
+통합검색 도착: https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B
+쇼핑 탭 클릭 완료
+✓ 쇼핑 검색결과 도착(자연흐름): https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, URL: https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EB%B9%84%EA%B5%90qled%EC%BB%A4%EB%B2%84
+[쇼핑 도달] mode=desktop, 시작 페이지=1, 추가 이동 없음
+영수증 캡차 
+* recording
+* done recording
+--로컬 STT 분석 시작
+시작
+File saved to: C:\Users\cafu0\Desktop\새 폴더\logfile.txt
