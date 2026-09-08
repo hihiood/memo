@@ -1,0 +1,279 @@
+header ('Connection', 'keep-alive')
+buf_head [('User-Agent', 'Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'), ('Accept-Charset', 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'), ('Accept-Encoding', 'none'), ('Accept-Language', 'ko-KR,ko;q=0.8'), ('Connection', 'keep-alive')]
+buf_head[0] ('User-Agent', 'Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36')
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+[DPI] 시스템 96 (100%) → 앱 100% 고정 렌더 목표
+[DPI] 실제 CTk widget_scaling=1.0, window_scaling=1.0
+[DPI] customtkinter 버전: 5.2.2
+16
+['신용카드', 'LG', 'KT', 'SK', '알뜰폰', '폰테크', '상품권', '유심', '소액결제', 'secret', '900', '네이버 아이디 자동 변경', '10000', '500', '7153454189:-9B1aQn2Lz2UfQU9H1s', 'https://chatgpt.com/g/g-69e9786e67d88191a3d27a6252a252a2-neibeojisigin-saramceoreom-dabbyeonhagi']
+['kiss1251611', 'kiss7487!!']
+['없음 ', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+5
+['개인적인 의견과 취합 자료를 근거로 글 답변 적습니다. ', '없음', '없음', '없음', '도움이 되셨으면 좋겠습니다. ']
+[IDPW] 1개 계정 로드: ['kiss1251611']
+프로젝트GPT
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+[DEBUG][2026-09-09 07:55:51.008][Thread-1 (_run_project_gpt_open)][VERSION_CHECK_START]
+[DEBUG][2026-09-09 07:55:51.008][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='Mychromecheck' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 07:55:51.063][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='Mychromecheck' status=200 elapsed=0.05
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\bd2b1a36a1474a5097b28cf84c6add7b.pyd
+[DEBUG][2026-09-09 07:55:51.115][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='Mychromecheck'
+Running main() from the .pyd file...
+Captured output: 152
+[DEBUG][2026-09-09 07:55:51.191][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='Mychromecheck' result='152' elapsed=0.18
+내 크롬 버전 :: 152
+[DEBUG][2026-09-09 07:55:51.192][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='RealchromeVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 07:55:51.232][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='RealchromeVersion' status=200 elapsed=0.04
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\4a63432df9bb42f19886cb05915b6e48.pyd
+[DEBUG][2026-09-09 07:55:51.268][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='RealchromeVersion'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 07:55:51.317][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='RealchromeVersion' result='153' elapsed=0.13
+최신 크롬 버전 :: 153
+[DEBUG][2026-09-09 07:55:51.318][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='driverVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 07:55:51.371][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='driverVersion' status=200 elapsed=0.05
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\66621443b6b947599d80c510de1b6a11.pyd
+[DEBUG][2026-09-09 07:55:51.416][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='driverVersion'
+Running main() from the .pyd file...
+Captured output: 152
+[DEBUG][2026-09-09 07:55:51.582][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='driverVersion' result='152' elapsed=0.26
+내 드라이버 버전 :: 152
+=========================================
+내 크롬 버전 :: 152
+최신 크롬 버전 :: 153
+내 드라이버 버전 :: 152
+[DEBUG][2026-09-09 07:55:51.604][Thread-1 (_run_project_gpt_open)][VERSION_CHECK_VALUES] chrome=152 latest=153 driver=152
+버전업 필요
+[DEBUG][2026-09-09 07:55:51.763][Thread-1 (_run_project_gpt_open)][VERSION_CHECK_DONE] elapsed=0.75
+[수동] 프로필: C:\Users\cp\chromeCookie\Profile chatGPT10
+[수동] 사용할 크롬 버전: 152
+[수동] Chrome 실행 성공 (시도 1)
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+[DEBUG][2026-09-09 08:01:17.594][Thread-6 (_run_project_gpt_open)][VERSION_CHECK_START]
+[DEBUG][2026-09-09 08:01:17.594][Thread-6 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='Mychromecheck' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:01:17.636][Thread-6 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='Mychromecheck' status=200 elapsed=0.04
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\f673fea815cb4131a5a668bbae35116b.pyd
+[DEBUG][2026-09-09 08:01:17.689][Thread-6 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='Mychromecheck'
+Running main() from the .pyd file...
+Captured output: 152
+[DEBUG][2026-09-09 08:01:17.757][Thread-6 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='Mychromecheck' result='152' elapsed=0.16
+내 크롬 버전 :: 152
+[DEBUG][2026-09-09 08:01:17.758][Thread-6 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='RealchromeVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:01:17.805][Thread-6 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='RealchromeVersion' status=200 elapsed=0.05
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\e615989f10b041258c2681ed13a7e975.pyd
+[DEBUG][2026-09-09 08:01:17.842][Thread-6 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='RealchromeVersion'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:01:17.890][Thread-6 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='RealchromeVersion' result='153' elapsed=0.13
+최신 크롬 버전 :: 153
+[DEBUG][2026-09-09 08:01:17.891][Thread-6 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='driverVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:01:17.930][Thread-6 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='driverVersion' status=200 elapsed=0.04
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\fd942fa862e44cd085b0b8899e654da3.pyd
+[DEBUG][2026-09-09 08:01:17.965][Thread-6 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='driverVersion'
+Running main() from the .pyd file...
+Captured output: 152
+[DEBUG][2026-09-09 08:01:18.090][Thread-6 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='driverVersion' result='152' elapsed=0.2
+내 드라이버 버전 :: 152
+=========================================
+내 크롬 버전 :: 152
+최신 크롬 버전 :: 153
+내 드라이버 버전 :: 152
+[DEBUG][2026-09-09 08:01:18.095][Thread-6 (_run_project_gpt_open)][VERSION_CHECK_VALUES] chrome=152 latest=153 driver=152
+버전업 필요
+[DEBUG][2026-09-09 08:01:18.229][Thread-6 (_run_project_gpt_open)][VERSION_CHECK_DONE] elapsed=0.63
+[수동] 기존 GPT 드라이버 종료
+[수동] 프로필: C:\Users\cp\chromeCookie\Profile chatGPT10
+[수동] 사용할 크롬 버전: 152
+[수동] Chrome 실행 성공 (시도 1)
+시작
+
+===== 발행 결과 목록 (publish_log.txt) =====
+2026-08-27 20:41:56|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=494921127&answerNo=1
+2026-08-27 21:15:37|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60802&docId=494921543&answerNo=4
+2026-08-27 21:17:51|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3120101&docId=494921529&answerNo=1
+2026-08-27 21:32:07|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494921751&answerNo=3
+2026-08-27 22:02:14|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40201&docId=494922248&answerNo=1
+2026-08-27 22:04:43|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494922223&answerNo=2#
+2026-08-27 22:24:38|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494922615&answerNo=1
+2026-08-27 22:59:24|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40305&docId=494923225&answerNo=3
+2026-08-28 00:02:01|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494924168&answerNo=1
+2026-08-28 00:16:44|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40301&docId=494924400&answerNo=2
+2026-08-28 00:26:26|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=494924546&answerNo=1
+2026-08-28 00:36:52|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4020201&docId=494924683&answerNo=1
+2026-08-28 00:44:28|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494924778&answerNo=2
+2026-08-28 00:53:16|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40309&docId=494924918&answerNo=2
+2026-08-28 01:21:57|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494925222&answerNo=2
+2026-08-28 01:40:42|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494925348&answerNo=1
+2026-08-28 02:02:50|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=494925499&answerNo=1
+2026-08-28 04:20:19|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494925897&answerNo=1
+2026-08-28 05:21:31|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4020202&docId=494926004&answerNo=1
+2026-08-28 06:09:50|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494926095&answerNo=2
+2026-08-28 06:17:38|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926110&answerNo=1
+2026-08-28 06:25:36|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8110201&docId=494926139&answerNo=4
+2026-08-28 06:33:18|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926159&answerNo=2
+2026-08-28 06:47:52|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926199&answerNo=2
+2026-08-28 07:13:43|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60224&docId=494926284&answerNo=1
+2026-08-28 07:45:37|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40101&docId=494926412&answerNo=3
+2026-08-28 08:13:10|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926561&answerNo=1
+2026-08-28 08:24:00|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494926632&answerNo=2
+2026-08-28 08:36:04|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494926710&answerNo=1
+2026-08-28 09:25:32|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494927011&answerNo=1
+2026-08-28 13:32:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40104&docId=494929969&answerNo=3
+2026-08-28 14:01:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8030206&docId=494930478&answerNo=1
+2026-08-28 14:21:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30301&docId=494930785&answerNo=1
+2026-08-28 14:41:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494931117&answerNo=2
+2026-08-28 15:00:50|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8020505&docId=494931377&answerNo=1
+2026-08-28 15:18:37|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=494931676&answerNo=2
+2026-08-28 15:36:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060204&docId=494931943&answerNo=2
+2026-08-28 15:54:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50602&docId=494932263&answerNo=4
+2026-08-28 16:13:12|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060106&docId=494932546&answerNo=2
+2026-08-28 16:31:05|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010107&docId=494932776&answerNo=1
+2026-08-28 16:50:37|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060110&docId=494933054&answerNo=1
+2026-08-28 17:08:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70404&docId=494933290&answerNo=1
+2026-08-28 17:26:23|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110308&docId=494918174&answerNo=2
+2026-08-28 17:44:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=709&docId=494933745&answerNo=1
+2026-08-28 18:02:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10403&docId=494933978&answerNo=2
+2026-08-28 18:23:46|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=494934220&answerNo=1
+2026-08-28 18:28:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070201&docId=494934259&answerNo=1
+2026-08-28 18:54:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60805&docId=494934563&answerNo=1
+2026-08-28 19:12:32|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40202&docId=494934748&answerNo=2
+2026-08-28 19:31:21|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40203&docId=494934957&answerNo=2
+2026-08-28 19:49:38|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=107040202&docId=494935173&answerNo=1
+2026-08-28 20:07:44|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110503&docId=494935354&answerNo=1
+2026-08-28 20:25:53|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494935570&answerNo=2
+2026-08-28 20:48:48|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494935802&answerNo=1
+2026-08-28 21:18:18|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494936113&answerNo=1
+2026-08-28 21:36:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070202&docId=494936300&answerNo=1
+2026-08-28 21:55:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494936532&answerNo=1
+2026-08-28 22:14:37|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494936745&answerNo=1
+2026-08-28 22:33:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40104&docId=494936967&answerNo=1
+2026-08-28 23:23:18|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494937594&answerNo=3
+2026-08-30 05:02:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=494951440&answerNo=3
+2026-08-30 05:24:43|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494951498&answerNo=2
+2026-08-30 05:51:41|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=107020102&docId=494951572&answerNo=1
+2026-08-30 06:25:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494951625&answerNo=2
+2026-08-30 06:50:40|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494951680&answerNo=1
+2026-08-30 07:08:29|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494951720&answerNo=3
+2026-08-30 07:29:41|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494951786&answerNo=2
+2026-09-05 17:08:43|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30202&docId=495040872&answerNo=2
+2026-09-05 17:43:57|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=495041214&answerNo=1
+2026-09-05 18:18:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80902&docId=495041555&answerNo=1
+2026-09-05 18:56:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010105&docId=495041910&answerNo=1
+2026-09-05 19:30:07|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70103&docId=495042235&answerNo=1
+2026-09-05 20:03:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70102&docId=495042548&answerNo=1
+2026-09-05 20:35:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070402&docId=495042892&answerNo=2
+2026-09-05 21:09:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11040302&docId=495043267&answerNo=1
+2026-09-05 21:42:31|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60802&docId=495043630&answerNo=1
+2026-09-05 22:15:45|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8010502&docId=495043979&answerNo=1
+2026-09-05 23:00:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80603&docId=495044441&answerNo=1
+2026-09-05 23:33:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1061203&docId=495044858&answerNo=2
+2026-09-06 00:06:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110308&docId=495045217&answerNo=1
+2026-09-06 00:42:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=113110&docId=495045577&answerNo=1
+2026-09-06 01:17:00|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20701&docId=495045877&answerNo=1
+2026-09-06 01:51:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=814&docId=495046143&answerNo=1
+2026-09-06 02:25:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40602&docId=495046364&answerNo=1
+2026-09-06 03:01:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6020602&docId=495046533&answerNo=1
+2026-09-06 03:33:57|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80901&docId=495046644&answerNo=1
+2026-09-06 04:07:13|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50201&docId=495046738&answerNo=1
+2026-09-06 04:42:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6030501&docId=495046812&answerNo=2
+2026-09-06 05:18:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495046886&answerNo=2
+2026-09-06 05:52:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=51001&docId=495046940&answerNo=1
+2026-09-06 06:25:01|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=1130&docId=495046989&answerNo=1
+2026-09-06 06:57:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110704&docId=495047048&answerNo=1
+2026-09-06 07:31:51|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110307&docId=495047129&answerNo=2
+2026-09-06 08:04:43|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31501&docId=495047216&answerNo=4
+2026-09-06 08:38:29|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60906&docId=495047336&answerNo=1
+2026-09-06 09:11:27|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1061203&docId=495047482&answerNo=2
+2026-09-06 09:45:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=495047655&answerNo=3
+2026-09-06 10:18:00|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=495047877&answerNo=1
+2026-09-06 10:50:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70103&docId=495048093&answerNo=2
+2026-09-06 11:26:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40204&docId=495048356&answerNo=3
+2026-09-06 11:59:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60906&docId=495048632&answerNo=1
+2026-09-06 12:32:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10102&docId=495048924&answerNo=5
+2026-09-06 13:06:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110504&docId=495049224&answerNo=1
+2026-09-07 08:02:45|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010102&docId=495059116&answerNo=3
+2026-09-07 09:26:53|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495059728&answerNo=1
+2026-09-07 09:56:35|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10905&docId=495059989&answerNo=2
+2026-09-07 10:26:12|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60502&docId=495060311&answerNo=1
+2026-09-07 10:56:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6100402&docId=495060762&answerNo=2
+2026-09-07 11:24:39|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7011401&docId=495061131&answerNo=1
+2026-09-07 11:52:55|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3010101&docId=495061590&answerNo=1
+2026-09-07 12:21:05|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=71104&docId=495062112&answerNo=1
+2026-09-07 12:49:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40612&docId=495062628&answerNo=2
+2026-09-07 13:19:58|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110402&docId=495062976&answerNo=1
+2026-09-07 13:47:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=802&docId=495063421&answerNo=1
+2026-09-07 14:15:58|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31203&docId=495063834&answerNo=1
+2026-09-07 15:53:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=302&docId=495033378&answerNo=2
+2026-09-07 16:24:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60701&docId=495065861&answerNo=1
+2026-09-07 21:01:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40101&docId=495069614&answerNo=1
+2026-09-07 21:29:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70106&docId=495070032&answerNo=1
+2026-09-07 21:57:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40601&docId=495070460&answerNo=1
+2026-09-07 22:25:03|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=495070861&answerNo=1
+2026-09-07 22:54:53|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70402&docId=495071258&answerNo=2
+2026-09-07 23:23:40|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60805&docId=495071636&answerNo=1
+2026-09-07 23:51:38|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70401&docId=495072037&answerNo=1
+2026-09-08 00:19:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1010405&docId=495072442&answerNo=2
+2026-09-08 01:39:05|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060101&docId=495072588&answerNo=2
+2026-09-08 02:08:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60201&docId=495072711&answerNo=1
+2026-09-08 02:39:47|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=495072806&answerNo=2
+2026-09-08 03:10:29|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060114&docId=495072937&answerNo=1
+2026-09-08 03:38:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60204&docId=495073010&answerNo=1
+2026-09-08 04:06:31|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=495073061&answerNo=1
+2026-09-08 04:37:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=495073122&answerNo=2
+2026-09-08 05:05:31|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6080402&docId=495073172&answerNo=1
+2026-09-08 05:35:40|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010302&docId=495073236&answerNo=1
+2026-09-08 06:03:34|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8010502&docId=495073288&answerNo=1
+2026-09-08 06:32:48|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50502&docId=495073338&answerNo=1
+2026-09-08 07:00:45|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70104&docId=495073422&answerNo=1
+2026-09-08 07:28:38|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20208&docId=495073550&answerNo=1
+2026-09-08 07:56:32|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=5040107&docId=495073706&answerNo=1
+2026-09-08 08:27:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495073910&answerNo=2
+2026-09-08 10:16:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31402&docId=495075104&answerNo=1
+2026-09-08 10:47:01|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50501&docId=495075531&answerNo=1
+2026-09-08 12:08:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=495077020&answerNo=1
+2026-09-08 12:36:51|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=211&docId=495077500&answerNo=1
+2026-09-08 13:06:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=495077958&answerNo=1
+2026-09-08 14:05:17|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=100501&docId=495078341&answerNo=2
+2026-09-08 14:33:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070401&docId=495079075&answerNo=2
+2026-09-08 15:01:17|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=495079571&answerNo=1
+2026-09-08 15:29:51|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60224&docId=495080009&answerNo=1
+2026-09-08 16:02:14|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11050402&docId=495080490&answerNo=1
+2026-09-08 16:30:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11050402&docId=495080804&answerNo=1
+2026-09-08 19:43:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=495083399&answerNo=1
+2026-09-08 20:10:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40203&docId=495083811&answerNo=1
+2026-09-08 20:39:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=495084175&answerNo=1
+2026-09-08 21:07:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30213&docId=495084547&answerNo=1
+2026-09-08 21:35:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=100501&docId=495084958&answerNo=1
+2026-09-08 22:03:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495085347&answerNo=1
+2026-09-08 22:34:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20403&docId=495085835&answerNo=1
+2026-09-08 23:03:23|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080102&docId=495086238&answerNo=1
+2026-09-08 23:32:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=1001020205&docId=495086689&answerNo=2
+2026-09-09 00:00:34|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70102&docId=495087137&answerNo=2
+2026-09-09 00:30:44|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495087571&answerNo=1
+2026-09-09 01:02:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70108&docId=495087921&answerNo=1
+2026-09-09 01:39:32|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110310&docId=495088214&answerNo=1
+2026-09-09 02:07:23|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=495088362&answerNo=2
+2026-09-09 02:35:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10302&docId=495088467&answerNo=2
+2026-09-09 03:03:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=9&dirId=90113&docId=495088553&answerNo=1
+
+===== GPT 수집/답변 기록 =====
+(GPT 수집 기록 없음)
