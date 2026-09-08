@@ -1,0 +1,670 @@
+header ('Connection', 'keep-alive')
+buf_head [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/6.0 Safari/537.36'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'), ('Accept-Charset', 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'), ('Accept-Encoding', 'none'), ('Accept-Language', 'ko-KR,ko;q=0.8'), ('Connection', 'keep-alive')]
+buf_head[0] ('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/6.0 Safari/537.36')
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/6.0 Safari/537.36
+[DPI] 시스템 96 (100%) → 앱 100% 고정 렌더 목표
+[DPI] 실제 CTk widget_scaling=1.0, window_scaling=1.0
+[DPI] customtkinter 버전: 5.2.2
+16
+['신용카드', 'LG', 'KT', 'SK', '알뜰폰', '폰테크', '상품권', '유심', '소액결제', 'secret', '900', '네이버 아이디 자동 변경', '10000', '500', '7153454189:-9B1aQn2Lz2UfQU9H1s', 'https://chatgpt.com/g/g-69e9786e67d88191a3d27a6252a252a2-neibeojisigin-saramceoreom-dabbyeonhagi']
+['kiss1251611', 'kiss7487!!']
+['없음 ', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+['없음', '없음', '없음', '없음', '없음']
+5
+['개인적인 의견과 취합 자료를 근거로 글 답변 적습니다. ', '없음', '없음', '없음', '도움이 되셨으면 좋겠습니다. ']
+[IDPW] 1개 계정 로드: ['kiss1251611']
+프로젝트GPT
+[*] No process is using port 9222.
+[*] No process is using port 9223.
+[DEBUG][2026-09-09 08:14:40.743][Thread-1 (_run_project_gpt_open)][VERSION_CHECK_START]
+[DEBUG][2026-09-09 08:14:40.743][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='Mychromecheck' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:14:40.797][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='Mychromecheck' status=200 elapsed=0.05
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\fb6782777bf34afba02c547c72d8f3c9.pyd
+[DEBUG][2026-09-09 08:14:40.859][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='Mychromecheck'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:14:40.936][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='Mychromecheck' result='153' elapsed=0.19
+내 크롬 버전 :: 153
+[DEBUG][2026-09-09 08:14:40.937][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='RealchromeVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:14:40.964][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='RealchromeVersion' status=200 elapsed=0.03
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\94603cab03e84b28846eb3db7bc6f8e8.pyd
+[DEBUG][2026-09-09 08:14:40.996][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='RealchromeVersion'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:14:41.058][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='RealchromeVersion' result='153' elapsed=0.12
+최신 크롬 버전 :: 153
+[DEBUG][2026-09-09 08:14:41.059][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_START] module='driverVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:14:41.090][Thread-1 (_run_project_gpt_open)][VERSION_DOWNLOAD_RESPONSE] module='driverVersion' status=200 elapsed=0.03
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\861ad44f9b1d43058bd99b404a9a04cd.pyd
+[DEBUG][2026-09-09 08:14:41.122][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_START] module='driverVersion'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:14:41.263][Thread-1 (_run_project_gpt_open)][VERSION_MODULE_RUN_DONE] module='driverVersion' result='153' elapsed=0.2
+내 드라이버 버전 :: 153
+=========================================
+내 크롬 버전 :: 153
+최신 크롬 버전 :: 153
+내 드라이버 버전 :: 153
+[DEBUG][2026-09-09 08:14:41.274][Thread-1 (_run_project_gpt_open)][VERSION_CHECK_VALUES] chrome=153 latest=153 driver=153
+[DEBUG][2026-09-09 08:14:41.413][Thread-1 (_run_project_gpt_open)][VERSION_CHECK_DONE] elapsed=0.67
+[수동] 프로필: C:\Users\cp\chromeCookie\Profile chatGPT10
+[수동] 사용할 크롬 버전: 153
+[수동] Chrome 실행 성공 (시도 1)
+[DEBUG][2026-09-09 08:14:56.848][Thread-6 (functiontelelgram)][WORKER_START]
+[DEBUG][2026-09-09 08:14:56.848][Thread-6 (functiontelelgram)][AUTH_CHECK_START]
+[DEBUG][2026-09-09 08:14:57.794][Thread-6 (functiontelelgram)][AUTH_CHECK_DONE] result='DB access----success!!'
+An error occurred: Unauthorized
+[DEBUG][2026-09-09 08:14:58.768][Thread-6 (functiontelelgram)][CYCLE_START] cycle=1 delay='1500' account='네이버 아이디 자동 변경'
+[DEBUG][2026-09-09 08:14:58.768][Thread-6 (functiontelelgram)][ALL_INDEX_ENTER] breakpoint=0
+[DEBUG][2026-09-09 08:14:58.773][Thread-6 (functiontelelgram)][VERSION_CHECK_START]
+[DEBUG][2026-09-09 08:14:58.773][Thread-6 (functiontelelgram)][VERSION_DOWNLOAD_START] module='Mychromecheck' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:14:58.837][Thread-6 (functiontelelgram)][VERSION_DOWNLOAD_RESPONSE] module='Mychromecheck' status=200 elapsed=0.06
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\6175a49acf8143cf9bebe0f2da4dff1e.pyd
+[DEBUG][2026-09-09 08:14:58.908][Thread-6 (functiontelelgram)][VERSION_MODULE_RUN_START] module='Mychromecheck'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:14:58.976][Thread-6 (functiontelelgram)][VERSION_MODULE_RUN_DONE] module='Mychromecheck' result='153' elapsed=0.2
+내 크롬 버전 :: 153
+[DEBUG][2026-09-09 08:14:58.977][Thread-6 (functiontelelgram)][VERSION_DOWNLOAD_START] module='RealchromeVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:14:59.019][Thread-6 (functiontelelgram)][VERSION_DOWNLOAD_RESPONSE] module='RealchromeVersion' status=200 elapsed=0.04
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\97b0969d409747b897afaf47411cb935.pyd
+[DEBUG][2026-09-09 08:14:59.054][Thread-6 (functiontelelgram)][VERSION_MODULE_RUN_START] module='RealchromeVersion'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:14:59.104][Thread-6 (functiontelelgram)][VERSION_MODULE_RUN_DONE] module='RealchromeVersion' result='153' elapsed=0.13
+최신 크롬 버전 :: 153
+[DEBUG][2026-09-09 08:14:59.104][Thread-6 (functiontelelgram)][VERSION_DOWNLOAD_START] module='driverVersion' url='https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd'
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+[DEBUG][2026-09-09 08:14:59.135][Thread-6 (functiontelelgram)][VERSION_DOWNLOAD_RESPONSE] module='driverVersion' status=200 elapsed=0.03
+Saved .pyd file to C:\Users\cp\AppData\Local\Temp\18b3a0ea0b2149c88e7387e4aaf60cba.pyd
+[DEBUG][2026-09-09 08:14:59.160][Thread-6 (functiontelelgram)][VERSION_MODULE_RUN_START] module='driverVersion'
+Running main() from the .pyd file...
+Captured output: 153
+[DEBUG][2026-09-09 08:14:59.290][Thread-6 (functiontelelgram)][VERSION_MODULE_RUN_DONE] module='driverVersion' result='153' elapsed=0.19
+내 드라이버 버전 :: 153
+=========================================
+내 크롬 버전 :: 153
+최신 크롬 버전 :: 153
+내 드라이버 버전 :: 153
+[DEBUG][2026-09-09 08:14:59.295][Thread-6 (functiontelelgram)][VERSION_CHECK_VALUES] chrome=153 latest=153 driver=153
+[DEBUG][2026-09-09 08:14:59.425][Thread-6 (functiontelelgram)][VERSION_CHECK_DONE] elapsed=0.65
+[DEBUG][2026-09-09 08:14:59.425][Thread-6 (functiontelelgram)][ALL_INDEX_VERSION_CHECK_PASSED]
+Could not delete C:\Users\cp\AppData\Local\Temp\134abb80-e938-4462-adc2-15488aa99c04.tmp because it's in use by another process.
+Could not delete C:\Users\cp\AppData\Local\Temp\2ac82fab-8465-4112-b923-fa1eb80471c0.tmp because it's in use by another process.
+Could not delete C:\Users\cp\AppData\Local\Temp\a844eb86-6952-49ba-9cb1-a3e2d43c9441.tmp because it's in use by another process.
+Could not delete C:\Users\cp\AppData\Local\Temp\c97e8f32-04a1-4db7-9da3-8aaef2399a06.tmp because it's in use by another process.
+Could not delete C:\Users\cp\AppData\Local\Temp\mat-debug-5196.log because it's in use by another process.
+빙 들어옴
+[자동수락] beforeunload 감시 시작
+[로그인검증] 로그인 확인 OK
+룰렛대기
+광고 뜨나?11
+택배도착 언제
+수시 원서
+온전강제강력추진구체증거ㅡ2영복돈아끼박수선시켜뜻재산지키
+추석 때 친척집에 가지 않겠다는 게 그렇게 잘못된 일일까요
+고양이 호흡문제
+블록스피스에서 용용과 키츠네 제외하고 pve과 pvp에 모두 좋은 신화 열매 없을까요...
+문학 작품 원문 찾아주세요
+이제 밀키스 포도맛 안나오나요
+엄마를 오랜만에 봤을때
+베토벤 바이러스9화 중 삽입곡 제목좀 알려주세요!!
+멀미약을 먹을때 식후에 바로 먹어도 될까요?
+왜 저들은 저렇게 배려를 권리라 생각하고 남용하죠?
+인도네시아는, 대략 한국의 몇배 크기인가요?
+제주도 저렴한 자전거 대여점 있을까요?
+진로 고민 의대
+조성동곡해타의주체없강제-검사돈줄래?용돈애들정해가학하고...
+배송이 내일 도착하나요?
+cj대한통운
+불법사이트 회원가입
+영천고 내신 질문 ㅜㅜ
+08시 15분 09초
+ 키워드 찾음
+An error occurred: Unauthorized
+체크11--
+실패?
+타임슬립
+광고 뜨나?11
+handles :  ['75D1E567D52230677FDE695B787C2DE9', '527FF1B7B5447FE9F378628AED153566']
+https://kin.naver.com/qna/detail.naver?d1id=8&dirId=81302&docId=495089469
+bufferkeywordbefore 
+nowUrl https://kin.naver.com/qna/detail.naver?d1id=8&dirId=81302&docId=495089469
+룰렛대기
+광고 뜨나?55
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+dfje22ifQQ.text 
+body체크 <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.417")>
+pagedown간다
+pagedown 끝
+체크11--초과
+실패?
+test1 저장
+임시저장 글 수
+3
+등록
+test2 <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.441")>
+test3 [<selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.442")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.443")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.444")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.445")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.446")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.447")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.448")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.440")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.449")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.450")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.451")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.452")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.453")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.454")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.455")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.456")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.457")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.458")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.459")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.460")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.461")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.462")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.463")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.464")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.465")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.466")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.467")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.468")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.469")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.470")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.471")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.432")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.472")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.473")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.474")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.475")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.476")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.477")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.478")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.479")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.480")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.481")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.439")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.482")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.483")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.484")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.485")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.486")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.487")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.488")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.489")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.490")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.491")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.492")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.427")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.493")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.494")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.495")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.496")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.497")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.498")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.499")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.500")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.501")>, <selenium.webdriver.remote.webelement.WebElement (session="dc07a4677c50c825e83daa24b2182f37", element="f.527FF1B7B5447FE9F378628AED153566.d.65977C62A8018136E2A312958B3F7B41.e.502")>]
+질문
+택배도착 언제
+['질문', '택배도착 언제']
+check1
+check2
+gisickin_con2 303490099745 대한통운  언제 도착할까요?
+check3
+************************************
+제목 :  택배도착 언제
+내용 :  303490099745 대한통운  언제 도착할까요?
+GPT질문 :  택배도착 언제 303490099745 대한통운  언제 도착할까요?
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+[프로젝트GPT] 지침은 이미 넣어둔 프로젝트입니다 (건드리지 않음)
+[프로젝트GPT] URL 저장: https://chatgpt.com/g/g-p-6a967f5c95a48191a4a5e212f93adcd1/project
+[GPT] prompt-textarea 없음 → 로그인 풀림으로 판단 (1/5)
+[GPT] prompt-textarea 없음 → 로그인 풀림으로 판단 (2/5)
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+[프로젝트GPT] 지침은 이미 넣어둔 프로젝트입니다 (건드리지 않음)
+[프로젝트GPT] URL 저장: https://chatgpt.com/g/g-p-6a967f5c95a48191a4a5e212f93adcd1/project
+kill_chromedriver 함수 호출됨
+확인 중인 프로세스: System Idle Process (PID: 0)
+확인 중인 프로세스: System (PID: 4)
+확인 중인 프로세스: taskhostw.exe (PID: 8)
+확인 중인 프로세스: Registry (PID: 108)
+확인 중인 프로세스: smss.exe (PID: 416)
+확인 중인 프로세스: svchost.exe (PID: 580)
+확인 중인 프로세스: svchost.exe (PID: 588)
+확인 중인 프로세스: csrss.exe (PID: 600)
+확인 중인 프로세스: wininit.exe (PID: 684)
+확인 중인 프로세스: csrss.exe (PID: 692)
+확인 중인 프로세스: services.exe (PID: 756)
+확인 중인 프로세스: lsass.exe (PID: 772)
+확인 중인 프로세스: winlogon.exe (PID: 848)
+확인 중인 프로세스: svchost.exe (PID: 888)
+확인 중인 프로세스: SystemItsvcad.exe (PID: 956)
+확인 중인 프로세스: svchost.exe (PID: 964)
+확인 중인 프로세스: fontdrvhost.exe (PID: 992)
+확인 중인 프로세스: fontdrvhost.exe (PID: 1000)
+확인 중인 프로세스: TextInputHost.exe (PID: 1008)
+확인 중인 프로세스: svchost.exe (PID: 1080)
+확인 중인 프로세스: StartMenuExperienceHost.exe (PID: 1096)
+확인 중인 프로세스: svchost.exe (PID: 1112)
+확인 중인 프로세스: svchost.exe (PID: 1124)
+확인 중인 프로세스: dwm.exe (PID: 1188)
+확인 중인 프로세스: svchost.exe (PID: 1284)
+확인 중인 프로세스: svchost.exe (PID: 1324)
+확인 중인 프로세스: svchost.exe (PID: 1368)
+확인 중인 프로세스: svchost.exe (PID: 1372)
+확인 중인 프로세스: svchost.exe (PID: 1404)
+확인 중인 프로세스: svchost.exe (PID: 1440)
+확인 중인 프로세스: svchost.exe (PID: 1484)
+확인 중인 프로세스: igfxCUIService.exe (PID: 1508)
+확인 중인 프로세스: svchost.exe (PID: 1548)
+확인 중인 프로세스: svchost.exe (PID: 1560)
+확인 중인 프로세스: svchost.exe (PID: 1616)
+확인 중인 프로세스: WMIRegistrationService.exe (PID: 1624)
+확인 중인 프로세스: svchost.exe (PID: 1656)
+확인 중인 프로세스: svchost.exe (PID: 1664)
+확인 중인 프로세스: svchost.exe (PID: 1692)
+확인 중인 프로세스: svchost.exe (PID: 1720)
+확인 중인 프로세스: svchost.exe (PID: 1736)
+확인 중인 프로세스: svchost.exe (PID: 1744)
+확인 중인 프로세스: svchost.exe (PID: 1756)
+확인 중인 프로세스: MemCompression (PID: 1840)
+확인 중인 프로세스: svchost.exe (PID: 1968)
+확인 중인 프로세스: svchost.exe (PID: 2072)
+확인 중인 프로세스: dasHost.exe (PID: 2080)
+확인 중인 프로세스: svchost.exe (PID: 2212)
+확인 중인 프로세스: MoUsoCoreWorker.exe (PID: 2228)
+확인 중인 프로세스: svchost.exe (PID: 2244)
+확인 중인 프로세스: svchost.exe (PID: 2316)
+확인 중인 프로세스: svchost.exe (PID: 2428)
+확인 중인 프로세스: taskhostw.exe (PID: 2436)
+확인 중인 프로세스: svchost.exe (PID: 2504)
+확인 중인 프로세스: svchost.exe (PID: 2536)
+확인 중인 프로세스: svchost.exe (PID: 2544)
+확인 중인 프로세스: explorer.exe (PID: 2556)
+확인 중인 프로세스: svchost.exe (PID: 2588)
+확인 중인 프로세스: SearchApp.exe (PID: 2620)
+확인 중인 프로세스: spoolsv.exe (PID: 2708)
+확인 중인 프로세스: svchost.exe (PID: 2736)
+확인 중인 프로세스: svchost.exe (PID: 2776)
+확인 중인 프로세스: svchost.exe (PID: 2960)
+확인 중인 프로세스: svchost.exe (PID: 2976)
+확인 중인 프로세스: AnyDesk.exe (PID: 2992)
+확인 중인 프로세스: OneApp.IGCC.WinService.exe (PID: 3000)
+확인 중인 프로세스: svchost.exe (PID: 3008)
+확인 중인 프로세스: jhi_service.exe (PID: 3020)
+확인 중인 프로세스: svchost.exe (PID: 3028)
+확인 중인 프로세스: svchost.exe (PID: 3048)
+확인 중인 프로세스: RstMwService.exe (PID: 3056)
+확인 중인 프로세스: SecurityHealthSystray.exe (PID: 3108)
+확인 중인 프로세스: svchost.exe (PID: 3240)
+확인 중인 프로세스: svchost.exe (PID: 3304)
+확인 중인 프로세스: svchost.exe (PID: 3356)
+확인 중인 프로세스: svchost.exe (PID: 3600)
+확인 중인 프로세스: AnyDesk.exe (PID: 3688)
+확인 중인 프로세스: taskhostw.exe (PID: 3752)
+확인 중인 프로세스: svchost.exe (PID: 3908)
+확인 중인 프로세스: svchost.exe (PID: 4176)
+확인 중인 프로세스: ShellExperienceHost.exe (PID: 4184)
+확인 중인 프로세스: ctfmon.exe (PID: 4244)
+확인 중인 프로세스: RuntimeBroker.exe (PID: 4352)
+확인 중인 프로세스: svchost.exe (PID: 4444)
+확인 중인 프로세스: MsMpEng.exe (PID: 4476)
+확인 중인 프로세스: chrome.exe (PID: 4596)
+chrome.exe 프로세스 발견 (PID: 4596)
+CPU 사용량: 0.0%
+확인 중인 프로세스: svchost.exe (PID: 4660)
+확인 중인 프로세스: SearchIndexer.exe (PID: 4672)
+확인 중인 프로세스: sihost.exe (PID: 4944)
+확인 중인 프로세스: svchost.exe (PID: 4968)
+확인 중인 프로세스: dllhost.exe (PID: 5040)
+확인 중인 프로세스: svchost.exe (PID: 5044)
+확인 중인 프로세스: PresentationFontCache.exe (PID: 5084)
+확인 중인 프로세스: audiodg.exe (PID: 5096)
+확인 중인 프로세스: M365Copilot.exe (PID: 5196)
+확인 중인 프로세스: AggregatorHost.exe (PID: 5228)
+확인 중인 프로세스: svchost.exe (PID: 5268)
+확인 중인 프로세스: msedgewebview2.exe (PID: 5328)
+확인 중인 프로세스: svchost.exe (PID: 5472)
+확인 중인 프로세스: igfxEM.exe (PID: 5500)
+확인 중인 프로세스: svchost.exe (PID: 5608)
+확인 중인 프로세스: svchost.exe (PID: 5724)
+확인 중인 프로세스: RuntimeBroker.exe (PID: 5820)
+확인 중인 프로세스: dllhost.exe (PID: 5900)
+확인 중인 프로세스: svchost.exe (PID: 6084)
+확인 중인 프로세스: SecurityHealthService.exe (PID: 6116)
+확인 중인 프로세스: RuntimeBroker.exe (PID: 6124)
+확인 중인 프로세스: RuntimeBroker.exe (PID: 6412)
+확인 중인 프로세스: svchost.exe (PID: 6532)
+확인 중인 프로세스: msedgewebview2.exe (PID: 6592)
+확인 중인 프로세스: SearchApp.exe (PID: 6672)
+확인 중인 프로세스: RuntimeBroker.exe (PID: 6824)
+확인 중인 프로세스: WmiPrvSE.exe (PID: 6936)
+확인 중인 프로세스: setup.exe (PID: 7128)
+확인 중인 프로세스: svchost.exe (PID: 7188)
+확인 중인 프로세스: SystemItsvcad.exe (PID: 7236)
+확인 중인 프로세스: SearchProtocolHost.exe (PID: 7240)
+확인 중인 프로세스: svchost.exe (PID: 7344)
+확인 중인 프로세스: msedgewebview2.exe (PID: 7520)
+확인 중인 프로세스: svchost.exe (PID: 7524)
+확인 중인 프로세스: msedgewebview2.exe (PID: 7528)
+확인 중인 프로세스: svchost.exe (PID: 7728)
+확인 중인 프로세스: svchost.exe (PID: 7740)
+확인 중인 프로세스: RuntimeBroker.exe (PID: 7744)
+확인 중인 프로세스: RtkNGUI64.exe (PID: 8036)
+확인 중인 프로세스: svchost.exe (PID: 8092)
+확인 중인 프로세스: svchost.exe (PID: 8132)
+확인 중인 프로세스: svchost.exe (PID: 8296)
+확인 중인 프로세스: CompPkgSrv.exe (PID: 8532)
+확인 중인 프로세스: msedgewebview2.exe (PID: 8672)
+확인 중인 프로세스: UserOOBEBroker.exe (PID: 8744)
+확인 중인 프로세스: msedgewebview2.exe (PID: 8896)
+확인 중인 프로세스: ApplicationFrameHost.exe (PID: 9396)
+확인 중인 프로세스: svchost.exe (PID: 9656)
+확인 중인 프로세스: msedgewebview2.exe (PID: 10164)
+확인 중인 프로세스: msedgewebview2.exe (PID: 12108)
+확인 중인 프로세스: SystemSettings.exe (PID: 12372)
+확인 중인 프로세스: chrome.exe (PID: 15168)
+chrome.exe 프로세스 발견 (PID: 15168)
+[GPT] prompt-textarea 없음 → 로그인 풀림으로 판단 (1/5)
+CPU 사용량: 0.0%
+확인 중인 프로세스: TeamViewer_Desktop.exe (PID: 16724)
+확인 중인 프로세스: tv_w32.exe (PID: 17296)
+확인 중인 프로세스: crashpad_handler.exe (PID: 17460)
+확인 중인 프로세스: MpDefenderCoreService.exe (PID: 17736)
+확인 중인 프로세스: TvUpdateInfo.exe (PID: 17828)
+확인 중인 프로세스: msedgewebview2.exe (PID: 19060)
+확인 중인 프로세스: OneDrive.exe (PID: 19572)
+확인 중인 프로세스: crashpad_handler.exe (PID: 20560)
+확인 중인 프로세스: crashpad_handler.exe (PID: 20796)
+확인 중인 프로세스: chrome.exe (PID: 20996)
+chrome.exe 프로세스 발견 (PID: 20996)
+CPU 사용량: 6.2%
+확인 중인 프로세스: tv_x64.exe (PID: 21172)
+확인 중인 프로세스: msedgewebview2.exe (PID: 21196)
+확인 중인 프로세스: setup.exe (PID: 21244)
+확인 중인 프로세스: NisSrv.exe (PID: 21716)
+확인 중인 프로세스: msedgewebview2.exe (PID: 21860)
+확인 중인 프로세스: TeamViewer_Service.exe (PID: 22020)
+확인 중인 프로세스: svchost.exe (PID: 22072)
+확인 중인 프로세스: msedgewebview2.exe (PID: 22192)
+확인 중인 프로세스: TeamViewer.exe (PID: 22420)
+확인 중인 프로세스: undetected_chromedriver.exe (PID: 23512)
+확인 중인 프로세스: svchost.exe (PID: 24368)
+확인 중인 프로세스: chrome.exe (PID: 25036)
+chrome.exe 프로세스 발견 (PID: 25036)
+CPU 사용량: 0.0%
+확인 중인 프로세스: svchost.exe (PID: 25832)
+확인 중인 프로세스: backgroundTaskHost.exe (PID: 25956)
+확인 중인 프로세스: svchost.exe (PID: 26336)
+확인 중인 프로세스: OneDrive.Sync.Service.exe (PID: 26396)
+확인 중인 프로세스: chrome.exe (PID: 27312)
+chrome.exe 프로세스 발견 (PID: 27312)
+CPU 사용량: 0.0%
+확인 중인 프로세스: chrome.exe (PID: 28200)
+chrome.exe 프로세스 발견 (PID: 28200)
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+driver_gpt23 <undetected_chromedriver.Chrome (session="68999989826068aa9022ba2471617163")>
+체크3
+CPU 사용량: 0.0%
+확인 중인 프로세스: svchost.exe (PID: 28400)
+확인 중인 프로세스: gisickinLauncherV2.exe (PID: 28616)
+확인 중인 프로세스: svchost.exe (PID: 29100)
+확인 중인 프로세스: chrome.exe (PID: 29180)
+chrome.exe 프로세스 발견 (PID: 29180)
+CPU 사용량: 1.6%
+확인 중인 프로세스: gisickinLauncherV2.exe (PID: 29184)
+확인 중인 프로세스: SearchFilterHost.exe (PID: 29300)
+확인 중인 프로세스: svchost.exe (PID: 29360)
+확인 중인 프로세스: chrome.exe (PID: 29640)
+chrome.exe 프로세스 발견 (PID: 29640)
+CPU 사용량: 0.0%
+확인 중인 프로세스: svchost.exe (PID: 29784)
+확인 중인 프로세스: conhost.exe (PID: 29796)
+확인 중인 프로세스: svchost.exe (PID: 29860)
+확인 중인 프로세스: smartscreen.exe (PID: 29988)
+An error occurred: Unauthorized
+[오류캡처] 저장: 오류\20260909_081652_kiss1251611_answer_none.png / .txt
+An error occurred: Unauthorized
+시작
+
+===== 발행 결과 목록 (publish_log.txt) =====
+2026-08-27 20:41:56|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=494921127&answerNo=1
+2026-08-27 21:15:37|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60802&docId=494921543&answerNo=4
+2026-08-27 21:17:51|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3120101&docId=494921529&answerNo=1
+2026-08-27 21:32:07|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494921751&answerNo=3
+2026-08-27 22:02:14|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40201&docId=494922248&answerNo=1
+2026-08-27 22:04:43|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494922223&answerNo=2#
+2026-08-27 22:24:38|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494922615&answerNo=1
+2026-08-27 22:59:24|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40305&docId=494923225&answerNo=3
+2026-08-28 00:02:01|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494924168&answerNo=1
+2026-08-28 00:16:44|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40301&docId=494924400&answerNo=2
+2026-08-28 00:26:26|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=494924546&answerNo=1
+2026-08-28 00:36:52|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4020201&docId=494924683&answerNo=1
+2026-08-28 00:44:28|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494924778&answerNo=2
+2026-08-28 00:53:16|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40309&docId=494924918&answerNo=2
+2026-08-28 01:21:57|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494925222&answerNo=2
+2026-08-28 01:40:42|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494925348&answerNo=1
+2026-08-28 02:02:50|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=494925499&answerNo=1
+2026-08-28 04:20:19|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494925897&answerNo=1
+2026-08-28 05:21:31|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4020202&docId=494926004&answerNo=1
+2026-08-28 06:09:50|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494926095&answerNo=2
+2026-08-28 06:17:38|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926110&answerNo=1
+2026-08-28 06:25:36|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8110201&docId=494926139&answerNo=4
+2026-08-28 06:33:18|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926159&answerNo=2
+2026-08-28 06:47:52|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926199&answerNo=2
+2026-08-28 07:13:43|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60224&docId=494926284&answerNo=1
+2026-08-28 07:45:37|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40101&docId=494926412&answerNo=3
+2026-08-28 08:13:10|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494926561&answerNo=1
+2026-08-28 08:24:00|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494926632&answerNo=2
+2026-08-28 08:36:04|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494926710&answerNo=1
+2026-08-28 09:25:32|lnhbiz|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60203&docId=494927011&answerNo=1
+2026-08-28 13:32:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40104&docId=494929969&answerNo=3
+2026-08-28 14:01:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8030206&docId=494930478&answerNo=1
+2026-08-28 14:21:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30301&docId=494930785&answerNo=1
+2026-08-28 14:41:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=494931117&answerNo=2
+2026-08-28 15:00:50|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8020505&docId=494931377&answerNo=1
+2026-08-28 15:18:37|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=494931676&answerNo=2
+2026-08-28 15:36:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060204&docId=494931943&answerNo=2
+2026-08-28 15:54:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50602&docId=494932263&answerNo=4
+2026-08-28 16:13:12|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060106&docId=494932546&answerNo=2
+2026-08-28 16:31:05|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010107&docId=494932776&answerNo=1
+2026-08-28 16:50:37|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060110&docId=494933054&answerNo=1
+2026-08-28 17:08:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70404&docId=494933290&answerNo=1
+2026-08-28 17:26:23|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110308&docId=494918174&answerNo=2
+2026-08-28 17:44:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=709&docId=494933745&answerNo=1
+2026-08-28 18:02:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10403&docId=494933978&answerNo=2
+2026-08-28 18:23:46|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=494934220&answerNo=1
+2026-08-28 18:28:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070201&docId=494934259&answerNo=1
+2026-08-28 18:54:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60805&docId=494934563&answerNo=1
+2026-08-28 19:12:32|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40202&docId=494934748&answerNo=2
+2026-08-28 19:31:21|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40203&docId=494934957&answerNo=2
+2026-08-28 19:49:38|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=107040202&docId=494935173&answerNo=1
+2026-08-28 20:07:44|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110503&docId=494935354&answerNo=1
+2026-08-28 20:25:53|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494935570&answerNo=2
+2026-08-28 20:48:48|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494935802&answerNo=1
+2026-08-28 21:18:18|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494936113&answerNo=1
+2026-08-28 21:36:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070202&docId=494936300&answerNo=1
+2026-08-28 21:55:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494936532&answerNo=1
+2026-08-28 22:14:37|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40106&docId=494936745&answerNo=1
+2026-08-28 22:33:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40104&docId=494936967&answerNo=1
+2026-08-28 23:23:18|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=602060402&docId=494937594&answerNo=3
+2026-08-30 05:02:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=494951440&answerNo=3
+2026-08-30 05:24:43|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=494951498&answerNo=2
+2026-08-30 05:51:41|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=107020102&docId=494951572&answerNo=1
+2026-08-30 06:25:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494951625&answerNo=2
+2026-08-30 06:50:40|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=494951680&answerNo=1
+2026-08-30 07:08:29|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494951720&answerNo=3
+2026-08-30 07:29:41|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010501&docId=494951786&answerNo=2
+2026-09-05 17:08:43|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30202&docId=495040872&answerNo=2
+2026-09-05 17:43:57|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8050101&docId=495041214&answerNo=1
+2026-09-05 18:18:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80902&docId=495041555&answerNo=1
+2026-09-05 18:56:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010105&docId=495041910&answerNo=1
+2026-09-05 19:30:07|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70103&docId=495042235&answerNo=1
+2026-09-05 20:03:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70102&docId=495042548&answerNo=1
+2026-09-05 20:35:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070402&docId=495042892&answerNo=2
+2026-09-05 21:09:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11040302&docId=495043267&answerNo=1
+2026-09-05 21:42:31|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60802&docId=495043630&answerNo=1
+2026-09-05 22:15:45|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8010502&docId=495043979&answerNo=1
+2026-09-05 23:00:36|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80603&docId=495044441&answerNo=1
+2026-09-05 23:33:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1061203&docId=495044858&answerNo=2
+2026-09-06 00:06:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110308&docId=495045217&answerNo=1
+2026-09-06 00:42:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=113110&docId=495045577&answerNo=1
+2026-09-06 01:17:00|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20701&docId=495045877&answerNo=1
+2026-09-06 01:51:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=814&docId=495046143&answerNo=1
+2026-09-06 02:25:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40602&docId=495046364&answerNo=1
+2026-09-06 03:01:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6020602&docId=495046533&answerNo=1
+2026-09-06 03:33:57|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80901&docId=495046644&answerNo=1
+2026-09-06 04:07:13|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50201&docId=495046738&answerNo=1
+2026-09-06 04:42:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6030501&docId=495046812&answerNo=2
+2026-09-06 05:18:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495046886&answerNo=2
+2026-09-06 05:52:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=51001&docId=495046940&answerNo=1
+2026-09-06 06:25:01|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=1130&docId=495046989&answerNo=1
+2026-09-06 06:57:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110704&docId=495047048&answerNo=1
+2026-09-06 07:31:51|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110307&docId=495047129&answerNo=2
+2026-09-06 08:04:43|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31501&docId=495047216&answerNo=4
+2026-09-06 08:38:29|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60906&docId=495047336&answerNo=1
+2026-09-06 09:11:27|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1061203&docId=495047482&answerNo=2
+2026-09-06 09:45:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70109&docId=495047655&answerNo=3
+2026-09-06 10:18:00|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=495047877&answerNo=1
+2026-09-06 10:50:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70103&docId=495048093&answerNo=2
+2026-09-06 11:26:22|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40204&docId=495048356&answerNo=3
+2026-09-06 11:59:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60906&docId=495048632&answerNo=1
+2026-09-06 12:32:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10102&docId=495048924&answerNo=5
+2026-09-06 13:06:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110504&docId=495049224&answerNo=1
+2026-09-07 08:02:45|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7010102&docId=495059116&answerNo=3
+2026-09-07 09:26:53|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495059728&answerNo=1
+2026-09-07 09:56:35|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10905&docId=495059989&answerNo=2
+2026-09-07 10:26:12|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60502&docId=495060311&answerNo=1
+2026-09-07 10:56:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6100402&docId=495060762&answerNo=2
+2026-09-07 11:24:39|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=7011401&docId=495061131&answerNo=1
+2026-09-07 11:52:55|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=3010101&docId=495061590&answerNo=1
+2026-09-07 12:21:05|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=71104&docId=495062112&answerNo=1
+2026-09-07 12:49:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40612&docId=495062628&answerNo=2
+2026-09-07 13:19:58|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110402&docId=495062976&answerNo=1
+2026-09-07 13:47:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=802&docId=495063421&answerNo=1
+2026-09-07 14:15:58|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31203&docId=495063834&answerNo=1
+2026-09-07 15:53:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=302&docId=495033378&answerNo=2
+2026-09-07 16:24:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60701&docId=495065861&answerNo=1
+2026-09-07 21:01:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40101&docId=495069614&answerNo=1
+2026-09-07 21:29:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70106&docId=495070032&answerNo=1
+2026-09-07 21:57:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40601&docId=495070460&answerNo=1
+2026-09-07 22:25:03|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=495070861&answerNo=1
+2026-09-07 22:54:53|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70402&docId=495071258&answerNo=2
+2026-09-07 23:23:40|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60805&docId=495071636&answerNo=1
+2026-09-07 23:51:38|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70401&docId=495072037&answerNo=1
+2026-09-08 00:19:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1010405&docId=495072442&answerNo=2
+2026-09-08 01:39:05|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060101&docId=495072588&answerNo=2
+2026-09-08 02:08:56|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60201&docId=495072711&answerNo=1
+2026-09-08 02:39:47|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=495072806&answerNo=2
+2026-09-08 03:10:29|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1060114&docId=495072937&answerNo=1
+2026-09-08 03:38:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60204&docId=495073010&answerNo=1
+2026-09-08 04:06:31|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=495073061&answerNo=1
+2026-09-08 04:37:30|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31505&docId=495073122&answerNo=2
+2026-09-08 05:05:31|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=6080402&docId=495073172&answerNo=1
+2026-09-08 05:35:40|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010302&docId=495073236&answerNo=1
+2026-09-08 06:03:34|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=8010502&docId=495073288&answerNo=1
+2026-09-08 06:32:48|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50502&docId=495073338&answerNo=1
+2026-09-08 07:00:45|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70104&docId=495073422&answerNo=1
+2026-09-08 07:28:38|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20208&docId=495073550&answerNo=1
+2026-09-08 07:56:32|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=5040107&docId=495073706&answerNo=1
+2026-09-08 08:27:52|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495073910&answerNo=2
+2026-09-08 10:16:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=31402&docId=495075104&answerNo=1
+2026-09-08 10:47:01|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50501&docId=495075531&answerNo=1
+2026-09-08 12:08:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=495077020&answerNo=1
+2026-09-08 12:36:51|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=211&docId=495077500&answerNo=1
+2026-09-08 13:06:06|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=495077958&answerNo=1
+2026-09-08 14:05:17|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=100501&docId=495078341&answerNo=2
+2026-09-08 14:33:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=1070401&docId=495079075&answerNo=2
+2026-09-08 15:01:17|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=8&dirId=80101&docId=495079571&answerNo=1
+2026-09-08 15:29:51|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=60224&docId=495080009&answerNo=1
+2026-09-08 16:02:14|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11050402&docId=495080490&answerNo=1
+2026-09-08 16:30:10|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11050402&docId=495080804&answerNo=1
+2026-09-08 19:43:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=495083399&answerNo=1
+2026-09-08 20:10:59|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=4&dirId=40203&docId=495083811&answerNo=1
+2026-09-08 20:39:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=5&dirId=50104&docId=495084175&answerNo=1
+2026-09-08 21:07:09|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=3&dirId=30213&docId=495084547&answerNo=1
+2026-09-08 21:35:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=100501&docId=495084958&answerNo=1
+2026-09-08 22:03:02|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495085347&answerNo=1
+2026-09-08 22:34:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=2&dirId=20403&docId=495085835&answerNo=1
+2026-09-08 23:03:23|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=11080102&docId=495086238&answerNo=1
+2026-09-08 23:32:33|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=10&dirId=1001020205&docId=495086689&answerNo=2
+2026-09-09 00:00:34|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70102&docId=495087137&answerNo=2
+2026-09-09 00:30:44|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110408&docId=495087571&answerNo=1
+2026-09-09 01:02:08|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=7&dirId=70108&docId=495087921&answerNo=1
+2026-09-09 01:39:32|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=11&dirId=110310&docId=495088214&answerNo=1
+2026-09-09 02:07:23|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=6&dirId=61303&docId=495088362&answerNo=2
+2026-09-09 02:35:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=1&dirId=10302&docId=495088467&answerNo=2
+2026-09-09 03:03:15|kiss1251611|https://kin.naver.com/qna/detail.naver?d1id=9&dirId=90113&docId=495088553&answerNo=1
+
+===== GPT 수집/답변 기록 =====
+(GPT 수집 기록 없음)
