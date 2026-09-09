@@ -1,0 +1,15 @@
+[wordpress_new] 보낸이=jun231 기기=bcf1716b4666-jeje 시각=2026-09-09 22:58:55
+
+======================================================================
+[22:57:37] WordPress Auto Publisher 시작 · 2026-09-09 22:57:37 · E:\법무법인에이블_블로그작업\programmake\able_seo_publisher
+[22:57:37] 숨김 로그 · 전송 시험
+[22:57:37]  기록 길이: 208
+[22:57:41] 로그 깃 전송 완료 · https://sgtestflask.autoprogram.blog/go_write_github
+[22:57:41]  전송 결과: ''
+[22:57:41]  로그 파일: C:\Users\leo9_qnhy60i\AppData\Local\WPAutoPublisher\logs\app_20260909.log
+
+======================================================================
+[22:58:41] WordPress Auto Publisher 시작 · 2026-09-09 22:58:41 · C:\Users\leo9_qnhy60i\AppData\Local\Temp\claude\E----------------programmake-able-seo-publisher\038f44e3-0d27-4c76-ad08-a1a0b0bd28eb\scratchpad\logtest_home
+[22:58:51] 로그인 성공 · id=jun231
+[22:58:52] 탭 이동 · 1  프롬프트 조정
+[22:58:52] 메인 화면 시작 · 사이트 0개
