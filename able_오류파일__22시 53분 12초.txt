@@ -1,0 +1,80 @@
+[wordpress_new] 보낸이=able 기기=1c1b0da9de66-LIM 파일=로그_20260909_225312.txt
+
+======================================================================
+[18:00:39] WordPress Auto Publisher 시작 · 2026-09-09 18:00:39 · C:\Users\IN\Downloads\워드프레스
+[18:00:49] 로그인 성공 · id=able
+[18:00:51] 메인 화면 시작 · 사이트 0개
+[18:01:47] [err] Exception ignored in: <function Variable.__del__ at 0x0000029F888991B0>
+[18:01:47] [err] Traceback (most recent call last):
+[18:01:47] [err]   File "tkinter\__init__.py", line 388, in __del__
+[18:01:47] [err] RuntimeError: main thread is not in main loop
+
+======================================================================
+[18:02:51] WordPress Auto Publisher 시작 · 2026-09-09 18:02:51 · C:\Users\IN\Downloads\워드프레스
+[18:02:56] 로그인 성공 · id=able
+[18:02:57] 메인 화면 시작 · 사이트 0개
+[18:03:14] 로그 사본 저장 · 로그_20260909_180314.txt
+
+======================================================================
+[18:19:17] WordPress Auto Publisher 시작 · 2026-09-09 18:19:17 · C:\Users\IN\Downloads\워드프레스
+[18:19:21] 로그인 성공 · id=able
+[18:19:23] 탭 이동 · 1  프롬프트 조정
+[18:19:23] 메인 화면 시작 · 사이트 0개
+[18:19:28] 클릭 · ＋ 추가
+[18:21:26] [err] Exception ignored in: <function Variable.__del__ at 0x0000014628691FC0>
+[18:21:26] [err] Traceback (most recent call last):
+[18:21:26] [err]   File "tkinter\__init__.py", line 388, in __del__
+[18:21:26] [err] RuntimeError: main thread is not in main loop
+
+======================================================================
+[18:51:00] WordPress Auto Publisher 시작 · 2026-09-09 18:51:00 · C:\Users\IN\Downloads\워드프레스
+[18:51:14] 로그인 성공 · id=able
+[18:51:15] 탭 이동 · 1  프롬프트 조정
+[18:51:15] 메인 화면 시작 · 사이트 0개
+[18:51:24] 클릭 · ＋ 추가
+[21:18:22] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[21:18:31] WordPress Auto Publisher 시작 · 2026-09-09 21:18:31 · C:\Users\IN\Downloads\워드프레스
+[21:18:35] 로그인 성공 · id=able
+[21:18:37] 탭 이동 · 1  프롬프트 조정
+[21:18:37] 메인 화면 시작 · 사이트 0개
+[22:08:30] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[22:08:59] WordPress Auto Publisher 시작 · 2026-09-09 22:08:59 · C:\Users\IN\Downloads\워드프레스
+[22:10:45] 로그인 성공 · id=able
+[22:10:47] 탭 이동 · 1  프롬프트 조정
+[22:10:47] 메인 화면 시작 · 사이트 0개
+[22:10:52] 클릭 · ＋ 추가
+[22:12:14] [err] Exception ignored in: <function Variable.__del__ at 0x000002BDBF6A2170>
+[22:12:14] [err] Traceback (most recent call last):
+[22:12:14] [err]   File "tkinter\__init__.py", line 388, in __del__
+[22:12:14] [err] RuntimeError: main thread is not in main loop
+
+======================================================================
+[22:32:19] WordPress Auto Publisher 시작 · 2026-09-09 22:32:19 · C:\Users\IN\Downloads\워드프레스
+[22:33:10] 로그인 성공 · id=able
+[22:33:12] 탭 이동 · 1  프롬프트 조정
+[22:33:12] 메인 화면 시작 · 사이트 0개
+[22:34:16] 클릭 · 불러오는 중...
+[22:34:17] [err] Exception ignored in: <function Variable.__del__ at 0x00000290FDC1A0E0>
+[22:34:17] [err] Traceback (most recent call last):
+[22:34:17] [err]   File "tkinter\__init__.py", line 388, in __del__
+[22:34:17] [err] RuntimeError: main thread is not in main loop
+
+======================================================================
+[22:46:26] WordPress Auto Publisher 시작 · 2026-09-09 22:46:26 · C:\Users\IN\Downloads\워드프레스
+[22:49:15] 로그인 성공 · id=able
+[22:49:17] 탭 이동 · 1  프롬프트 조정
+[22:49:17] 메인 화면 시작 · 사이트 0개
+[22:51:43] 클릭 · 불러오는 중...
+[22:51:46] 클릭 · 현재 사이트 정보 적용
+[22:51:51] 클릭 · ＋ 추가
+[22:52:05] 클릭 · 현재 사이트 정보 적용
+[22:52:24] 클릭 · 불러오는 중...
+[22:52:30] 클릭 · 현재 사이트 정보 적용
+[22:52:33] 클릭 · ＋ 추가
+[22:53:00] 클릭 · 불러오는 중...
+[22:53:06] 클릭 · 현재 사이트 정보 적용
+[22:53:09] 클릭 · ⚙ 사이트 설정
