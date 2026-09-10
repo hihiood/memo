@@ -1,0 +1,267 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-10 14:49:54
+
+======================================================================
+[10:18:30] WordPress Auto Publisher 시작 · 2026-09-10 10:18:30 · C:\Users\ABCD\Downloads
+[10:53:55] 로그인 거절 · id=lnhbiz · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:27] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:34] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:36] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:57] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:57:00] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:57:07] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 15분 후 다시 시도해 주세요.', 'ok': False}
+[10:58:20] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 14분 후 다시 시도해 주세요.', 'ok': False}
+[10:58:26] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 14분 후 다시 시도해 주세요.', 'ok': False}
+[11:01:25] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 11분 후 다시 시도해 주세요.', 'ok': False}
+[11:01:29] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 11분 후 다시 시도해 주세요.', 'ok': False}
+[11:11:06] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[11:11:31] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[11:11:56] 로그인 성공 · id=ans5vud
+[11:11:58] 탭 이동 · 1  프롬프트 조정
+[11:11:58] 메인 화면 시작 · 사이트 0개
+[11:12:18] 클릭 · ＋ 추가
+
+======================================================================
+[11:15:05] WordPress Auto Publisher 시작 · 2026-09-10 11:15:05 · C:\Users\ABCD\Downloads
+[11:15:09] 로그인 성공 · id=ans5vud
+[11:15:11] 탭 이동 · 1  프롬프트 조정
+[11:15:11] 메인 화면 시작 · 사이트 0개
+
+======================================================================
+[11:17:55] WordPress Auto Publisher 시작 · 2026-09-10 11:17:55 · C:\Users\ABCD\Downloads
+[11:17:58] 로그인 성공 · id=ans5vud
+[11:18:00] 탭 이동 · 1  프롬프트 조정
+[11:18:00] 메인 화면 시작 · 사이트 0개
+[11:18:07] 클릭 · ＋ 추가
+[11:18:55] 클릭 · ⚙ 사이트 설정
+[11:21:17] 클릭 · ⚙ 사이트 설정
+[11:21:23] 클릭 · ＋ 추가
+[11:21:40] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[11:41:16] WordPress Auto Publisher 시작 · 2026-09-10 11:41:16 · C:\Users\ABCD\Downloads
+[11:41:39] 로그인 성공 · id=ans5vud
+[11:41:40] 탭 이동 · 1  프롬프트 조정
+[11:41:40] 메인 화면 시작 · 사이트 1개
+[11:53:52] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[11:54:03] WordPress Auto Publisher 시작 · 2026-09-10 11:54:03 · C:\Users\ABCD\Downloads
+[11:54:46] 로그인 성공 · id=ans5vud
+[11:54:47] 탭 이동 · 1  프롬프트 조정
+[11:54:47] 메인 화면 시작 · 사이트 1개
+[12:05:52] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[12:06:03] WordPress Auto Publisher 시작 · 2026-09-10 12:06:03 · C:\Users\ABCD\Downloads
+[12:06:08] 로그인 성공 · id=ans5vud
+
+======================================================================
+[12:06:08] WordPress Auto Publisher 시작 · 2026-09-10 12:06:08 · C:\Users\ABCD\Downloads
+[12:06:09] 탭 이동 · 1  프롬프트 조정
+[12:06:09] 메인 화면 시작 · 사이트 1개
+[12:06:58] 클릭 · 불러오는 중...
+[12:07:42] 클릭 · 불러오는 중...
+[12:24:56] 클릭 · 현재 사이트 정보 적용
+[12:25:00] 클릭 · 불러오는 중...
+[12:25:03] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "tkinter\__init__.py", line 839, in callit
+  File "able_seo_bundle.py", line 3686, in able_seo_bundle.CustomWindowChrome._start_front_guard.check
+  File "tkinter\__init__.py", line 930, in grab_current
+  File "tkinter\__init__.py", line 1536, in nametowidget
+KeyError: 'popdown'
+
+[12:25:11] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[12:41:23] WordPress Auto Publisher 시작 · 2026-09-10 12:41:23 · C:\Users\ABCD\Downloads
+[12:41:47] 로그인 성공 · id=ans5vud
+[12:41:48] 탭 이동 · 1  프롬프트 조정
+[12:41:48] 메인 화면 시작 · 사이트 1개
+[12:41:54] 탭 이동 · 4  스케줄
+[12:41:56] 탭 이동 · 2  후속작업 준비
+[12:41:58] 탭 이동 · 2  후속작업 준비
+[12:44:32] 클릭 · ＋ 추가
+[12:44:48] 클릭 · 삭제
+[12:44:52] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "tkinter\__init__.py", line 839, in callit
+  File "able_seo_bundle.py", line 3686, in able_seo_bundle.CustomWindowChrome._start_front_guard.check
+  File "tkinter\__init__.py", line 930, in grab_current
+  File "tkinter\__init__.py", line 1536, in nametowidget
+KeyError: 'popdown'
+
+[12:44:56] 클릭 · ↻ 카테고리 자동 불러오기
+[12:44:57] 클릭 · 불러오는 중...
+[12:45:16] 클릭 · ⚙ 사이트 설정
+[12:45:33] 클릭 · 로그인 열기
+[12:46:23] 클릭 · 로그인 열기
+[12:47:08] 클릭 · 로그인 열기
+[12:47:12] 클릭 · ↻ 연결 상태 새로고침
+[12:47:15] 탭 이동 · 4  스케줄
+[12:47:17] 클릭 · ▦ 대량 스케줄 열기
+[12:47:56] 클릭 · 현재 사이트 키워드 저장
+[12:47:58] 클릭 · 🔀 순서 섞기
+[12:47:59] 클릭 · 🔀 순서 섞기
+[12:47:59] 클릭 · 🔀 순서 섞기
+[12:48:00] 클릭 · 🔀 순서 섞기
+[12:48:00] 클릭 · 🔀 순서 섞기
+[12:48:01] 클릭 · 🔀 순서 섞기
+[12:48:01] 클릭 · 🔀 순서 섞기
+[12:48:01] 클릭 · 🔀 순서 섞기
+[12:48:05] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "tkinter\__init__.py", line 839, in callit
+  File "able_seo_bundle.py", line 3686, in able_seo_bundle.CustomWindowChrome._start_front_guard.check
+  File "tkinter\__init__.py", line 930, in grab_current
+  File "tkinter\__init__.py", line 1536, in nametowidget
+KeyError: 'popdown'
+
+[12:49:30] 클릭 · 큐 미리보기 만들기
+[12:49:50] 클릭 · SEO 검사 후 대량 실행
+[12:49:57] [err] Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+[12:51:58] 탭 이동 · 1  프롬프트 조정
+[12:52:31] 탭 이동 · 4  스케줄
+[12:54:17] !! 스케줄 원고 생성 실패 · 인천방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 5099, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 2776, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 2706, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 2627, in able_seo_bundle.ChatGPTWeb._create_project
+RuntimeError: ChatGPT 프로젝트 만들기 버튼을 찾지 못했습니다.
+
+[12:55:34] 로그 깃 전송 완료 · https://sgtestflask.autoprogram.blog/go_write_github
+[12:55:37] 클릭 · 🗂 로그 저장
+
+======================================================================
+[13:04:08] WordPress Auto Publisher 시작 · 2026-09-10 13:04:08 · C:\Users\ABCD\Downloads
+[13:04:11] 로그인 성공 · id=ans5vud
+[13:04:13] 탭 이동 · 1  프롬프트 조정
+[13:04:13] 메인 화면 시작 · 사이트 1개
+[13:04:15] 탭 이동 · 4  스케줄
+[13:04:17] 클릭 · ▦ 대량 스케줄 열기
+[13:04:26] 클릭 · 큐 전체 비우기
+[13:04:30] 클릭 · 현재 사이트 키워드 저장
+[13:04:35] 클릭 · 큐 미리보기 만들기
+[13:04:42] 클릭 · SEO 검사 후 대량 실행
+[13:10:48] !! 스케줄 원고 생성 실패 · 인천 방충망 시공
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 5099, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 2776, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 2706, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 2618, in able_seo_bundle.ChatGPTWeb._create_project
+  File "selenium\webdriver\remote\webdriver.py", line 466, in get
+    self.execute(Command.GET, {"url": url})
+  File "selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68e53ff25+5ae5]
+	chromedriver!(No symbol) [0x7ff68e462210]
+	chromedriver!(No symbol) [0x7ff68e284896]
+	chromedriver!(No symbol) [0x7ff68e2d1303]
+	chromedriver!(No symbol) [0x7ff68e309802]
+	chromedriver!(No symbol) [0x7ff68e3035d2]
+	chromedriver!(No symbol) [0x7ff68e302d62]
+	chromedriver!(No symbol) [0x7ff68e24cddb]
+	chromedriver!(No symbol) [0x7ff68e24d432]
+	chromedriver!(No symbol) [0x7ff68e24da65]
+	chromedriver!GetHandleVerifier [0x7ff68e964231+429df1]
+	chromedriver!GetHandleVerifier [0x7ff68e98fce7+4558a7]
+	chromedriver!GetHandleVerifier [0x7ff68e98413e+449cfe]
+	chromedriver!GetHandleVerifier [0x7ff68e63c9ce+10258e]
+	chromedriver!(No symbol) [0x7ff68e470545]
+	chromedriver!(No symbol) [0x7ff68e24c20e]
+	chromedriver!GetHandleVerifier [0x7ff68e9eb86f+4b142f]
+	KERNEL32!BaseThreadInitThunk [0x7ffe31557374+14]
+	ntdll!RtlUserThreadStart [0x7ffe3285cc91+21]
+
+
+[13:10:59] 로그 깃 전송 완료 · https://sgtestflask.autoprogram.blog/go_write_github
+[13:13:35] 클릭 · 🗂 로그 저장
+
+======================================================================
+[14:17:22] WordPress Auto Publisher 시작 · 2026-09-10 14:17:22 · C:\Users\ABCD\Downloads
+[14:17:31] 로그인 성공 · id=ans5vud
+[14:17:32] 탭 이동 · 1  프롬프트 조정
+[14:17:32] 메인 화면 시작 · 사이트 1개
+[14:17:38] 탭 이동 · 4  스케줄
+[14:17:40] 클릭 · ▦ 대량 스케줄 열기
+[14:17:46] 클릭 · 큐 전체 비우기
+[14:17:47] 클릭 · 큐 미리보기 만들기
+[14:17:54] 클릭 · SEO 검사 후 대량 실행
+[14:18:04] 클릭 · 메인 화면
+[14:32:54] !! 스케줄 원고 생성 실패 · 인천 방충망 설치
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 5158, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 2816, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 2746, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 2668, in able_seo_bundle.ChatGPTWeb._create_project.lambda35
+  File "selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "able_seo_bundle.py", line 2668, in able_seo_bundle.ChatGPTWeb._create_project.lambda35
+  File "selenium\webdriver\remote\webdriver.py", line 556, in current_url
+    return self.execute(Command.GET_CURRENT_URL)["value"]
+  File "selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=153.0.8010.36); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68e53ff25+5ae5]
+	chromedriver!(No symbol) [0x7ff68e462210]
+	chromedriver!(No symbol) [0x7ff68e284a9d]
+	chromedriver!(No symbol) [0x7ff68e270432]
+	chromedriver!(No symbol) [0x7ff68e296116]
+	chromedriver!(No symbol) [0x7ff68e311260]
+	chromedriver!(No symbol) [0x7ff68e32f9ad]
+	chromedriver!(No symbol) [0x7ff68e2d2202]
+	chromedriver!(No symbol) [0x7ff68e2d3013]
+	chromedriver!GetHandleVerifier [0x7ff68e964231+429df1]
+	chromedriver!GetHandleVerifier [0x7ff68e98fce7+4558a7]
+	chromedriver!GetHandleVerifier [0x7ff68e98413e+449cfe]
+	chromedriver!GetHandleVerifier [0x7ff68e63c9ce+10258e]
+	chromedriver!(No symbol) [0x7ff68e470545]
+	chromedriver!(No symbol) [0x7ff68e46b6a4]
+	chromedriver!(No symbol) [0x7ff68e46b834]
+	chromedriver!(No symbol) [0x7ff68e45601c]
+	KERNEL32!BaseThreadInitThunk [0x7ffe31557374+14]
+	ntdll!RtlUserThreadStart [0x7ffe3285cc91+21]
+
+
+[14:33:08] 클릭 · ▦ 대량 스케줄 열기
+[14:33:16] 클릭 · 현재 글 후 중지
+
+======================================================================
+[14:33:37] WordPress Auto Publisher 시작 · 2026-09-10 14:33:37 · C:\Users\ABCD\Downloads
+[14:33:47] 로그인 성공 · id=ans5vud
+[14:33:49] 탭 이동 · 1  프롬프트 조정
+[14:33:49] 메인 화면 시작 · 사이트 1개
+[14:33:58] 탭 이동 · 4  스케줄
+[14:34:01] 클릭 · ▦ 대량 스케줄 열기
+[14:34:06] 클릭 · 큐 전체 비우기
+[14:34:08] 클릭 · 큐 미리보기 만들기
+[14:34:16] 클릭 · SEO 검사 후 대량 실행
+[14:47:19] !! 스케줄 원고 생성 실패 · 인천 방충망 설치
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 5484, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 5479, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3073, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3070, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 2934, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 2855, in able_seo_bundle.ChatGPTWeb._create_project
+RuntimeError: ChatGPT 화면에서 '프로젝트 만들기' 버튼을 찾지 못했습니다.
+
+ChatGPT 화면 구성이 바뀌었을 수 있습니다. 아래처럼 직접 만들어 주세요.
+1. 열려 있는 크롬에서 ChatGPT 프로젝트를 하나 만듭니다 (이름: 워드프레스autoproject)
+2. 그 프로젝트를 열고 주소창의 주소를 복사합니다
+3. 프로그램을 다시 실행하면 그 프로젝트를 찾아 씁니다
+(이름이 같으면 다음부터는 자동으로 찾습니다)
+
