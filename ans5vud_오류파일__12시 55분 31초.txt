@@ -1,0 +1,135 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-10 12:55:31
+
+======================================================================
+[10:18:30] WordPress Auto Publisher 시작 · 2026-09-10 10:18:30 · C:\Users\ABCD\Downloads
+[10:53:55] 로그인 거절 · id=lnhbiz · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:27] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:34] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:36] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:56:57] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:57:00] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[10:57:07] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 15분 후 다시 시도해 주세요.', 'ok': False}
+[10:58:20] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 14분 후 다시 시도해 주세요.', 'ok': False}
+[10:58:26] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 14분 후 다시 시도해 주세요.', 'ok': False}
+[11:01:25] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 11분 후 다시 시도해 주세요.', 'ok': False}
+[11:01:29] 로그인 거절 · id=ans5vud · 서버응답={'error': 'too_many_attempts', 'msg': '로그인 시도가 너무 많습니다. 약 11분 후 다시 시도해 주세요.', 'ok': False}
+[11:11:06] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[11:11:31] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[11:11:56] 로그인 성공 · id=ans5vud
+[11:11:58] 탭 이동 · 1  프롬프트 조정
+[11:11:58] 메인 화면 시작 · 사이트 0개
+[11:12:18] 클릭 · ＋ 추가
+
+======================================================================
+[11:15:05] WordPress Auto Publisher 시작 · 2026-09-10 11:15:05 · C:\Users\ABCD\Downloads
+[11:15:09] 로그인 성공 · id=ans5vud
+[11:15:11] 탭 이동 · 1  프롬프트 조정
+[11:15:11] 메인 화면 시작 · 사이트 0개
+
+======================================================================
+[11:17:55] WordPress Auto Publisher 시작 · 2026-09-10 11:17:55 · C:\Users\ABCD\Downloads
+[11:17:58] 로그인 성공 · id=ans5vud
+[11:18:00] 탭 이동 · 1  프롬프트 조정
+[11:18:00] 메인 화면 시작 · 사이트 0개
+[11:18:07] 클릭 · ＋ 추가
+[11:18:55] 클릭 · ⚙ 사이트 설정
+[11:21:17] 클릭 · ⚙ 사이트 설정
+[11:21:23] 클릭 · ＋ 추가
+[11:21:40] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[11:41:16] WordPress Auto Publisher 시작 · 2026-09-10 11:41:16 · C:\Users\ABCD\Downloads
+[11:41:39] 로그인 성공 · id=ans5vud
+[11:41:40] 탭 이동 · 1  프롬프트 조정
+[11:41:40] 메인 화면 시작 · 사이트 1개
+[11:53:52] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[11:54:03] WordPress Auto Publisher 시작 · 2026-09-10 11:54:03 · C:\Users\ABCD\Downloads
+[11:54:46] 로그인 성공 · id=ans5vud
+[11:54:47] 탭 이동 · 1  프롬프트 조정
+[11:54:47] 메인 화면 시작 · 사이트 1개
+[12:05:52] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[12:06:03] WordPress Auto Publisher 시작 · 2026-09-10 12:06:03 · C:\Users\ABCD\Downloads
+[12:06:08] 로그인 성공 · id=ans5vud
+
+======================================================================
+[12:06:08] WordPress Auto Publisher 시작 · 2026-09-10 12:06:08 · C:\Users\ABCD\Downloads
+[12:06:09] 탭 이동 · 1  프롬프트 조정
+[12:06:09] 메인 화면 시작 · 사이트 1개
+[12:06:58] 클릭 · 불러오는 중...
+[12:07:42] 클릭 · 불러오는 중...
+[12:24:56] 클릭 · 현재 사이트 정보 적용
+[12:25:00] 클릭 · 불러오는 중...
+[12:25:03] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "tkinter\__init__.py", line 839, in callit
+  File "able_seo_bundle.py", line 3686, in able_seo_bundle.CustomWindowChrome._start_front_guard.check
+  File "tkinter\__init__.py", line 930, in grab_current
+  File "tkinter\__init__.py", line 1536, in nametowidget
+KeyError: 'popdown'
+
+[12:25:11] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[12:41:23] WordPress Auto Publisher 시작 · 2026-09-10 12:41:23 · C:\Users\ABCD\Downloads
+[12:41:47] 로그인 성공 · id=ans5vud
+[12:41:48] 탭 이동 · 1  프롬프트 조정
+[12:41:48] 메인 화면 시작 · 사이트 1개
+[12:41:54] 탭 이동 · 4  스케줄
+[12:41:56] 탭 이동 · 2  후속작업 준비
+[12:41:58] 탭 이동 · 2  후속작업 준비
+[12:44:32] 클릭 · ＋ 추가
+[12:44:48] 클릭 · 삭제
+[12:44:52] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "tkinter\__init__.py", line 839, in callit
+  File "able_seo_bundle.py", line 3686, in able_seo_bundle.CustomWindowChrome._start_front_guard.check
+  File "tkinter\__init__.py", line 930, in grab_current
+  File "tkinter\__init__.py", line 1536, in nametowidget
+KeyError: 'popdown'
+
+[12:44:56] 클릭 · ↻ 카테고리 자동 불러오기
+[12:44:57] 클릭 · 불러오는 중...
+[12:45:16] 클릭 · ⚙ 사이트 설정
+[12:45:33] 클릭 · 로그인 열기
+[12:46:23] 클릭 · 로그인 열기
+[12:47:08] 클릭 · 로그인 열기
+[12:47:12] 클릭 · ↻ 연결 상태 새로고침
+[12:47:15] 탭 이동 · 4  스케줄
+[12:47:17] 클릭 · ▦ 대량 스케줄 열기
+[12:47:56] 클릭 · 현재 사이트 키워드 저장
+[12:47:58] 클릭 · 🔀 순서 섞기
+[12:47:59] 클릭 · 🔀 순서 섞기
+[12:47:59] 클릭 · 🔀 순서 섞기
+[12:48:00] 클릭 · 🔀 순서 섞기
+[12:48:00] 클릭 · 🔀 순서 섞기
+[12:48:01] 클릭 · 🔀 순서 섞기
+[12:48:01] 클릭 · 🔀 순서 섞기
+[12:48:01] 클릭 · 🔀 순서 섞기
+[12:48:05] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "tkinter\__init__.py", line 839, in callit
+  File "able_seo_bundle.py", line 3686, in able_seo_bundle.CustomWindowChrome._start_front_guard.check
+  File "tkinter\__init__.py", line 930, in grab_current
+  File "tkinter\__init__.py", line 1536, in nametowidget
+KeyError: 'popdown'
+
+[12:49:30] 클릭 · 큐 미리보기 만들기
+[12:49:50] 클릭 · SEO 검사 후 대량 실행
+[12:49:57] [err] Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+[12:51:58] 탭 이동 · 1  프롬프트 조정
+[12:52:31] 탭 이동 · 4  스케줄
+[12:54:17] !! 스케줄 원고 생성 실패 · 인천방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 5099, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 2776, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 2706, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 2627, in able_seo_bundle.ChatGPTWeb._create_project
+RuntimeError: ChatGPT 프로젝트 만들기 버튼을 찾지 못했습니다.
+
