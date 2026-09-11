@@ -1,0 +1,846 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-11 13:20:26
+
+======================================================================
+[12:23:26] WordPress Auto Publisher 시작 · 2026-09-11 12:23:26 · C:\Users\ABCD\Downloads
+[12:23:26] 빌드 20260910-1456·d55c703d
+[12:23:29] 로그인 성공 · id=ans5vud
+[12:23:31] 탭 이동 · 1  프롬프트 조정
+[12:23:31] 메인 화면 시작 · 사이트 1개
+[12:38:12] 탭 이동 · 5  히스토리
+[12:42:47] 탭 이동 · 1  프롬프트 조정
+[12:47:30] 클릭 · 🖼 이미지 파일 지정
+[12:51:41] 클릭 · 보낼 프롬프트 미리보기
+[12:51:48] 탭 이동 · 2  후속작업 준비
+[12:51:50] 탭 이동 · 1  프롬프트 조정
+[12:51:57] 클릭 · 기본값 되돌리기
+[12:51:59] 클릭 · 기본값 되돌리기
+
+======================================================================
+[12:53:01] WordPress Auto Publisher 시작 · 2026-09-11 12:53:01 · C:\Users\ABCD\Downloads
+[12:53:01] 빌드 20260910-1456·d55c703d
+[12:53:25] 로그인 성공 · id=ans5vud
+[12:53:27] 탭 이동 · 1  프롬프트 조정
+[12:53:27] 메인 화면 시작 · 사이트 1개
+[12:55:10] 클릭 · ↺ 기본 구성으로 되돌리기
+[12:57:39] 클릭 · 추가
+[12:59:38] 클릭 · 기본값 되돌리기
+[12:59:40] 클릭 · 보낼 프롬프트 미리보기
+[12:59:46] 클릭 · 지침 저장
+[12:59:53] 클릭 · 기본값 되돌리기
+[12:59:55] 클릭 · 이전 버전 되돌리기
+[13:00:03] 탭 이동 · 2  후속작업 준비
+[13:00:04] 탭 이동 · 1  프롬프트 조정
+[13:00:14] 클릭 · 선택 블록 지시사항 수정
+[13:00:18] 클릭 · ? 사용 설명서
+[13:00:38] 클릭 · 기본값 되돌리기
+[13:00:48] 클릭 · 선택 블록 지시사항 수정
+[13:00:52] 클릭 · ? 사용 설명서
+[13:01:49] 클릭 · 지침 저장
+[13:01:51] 작업 시작 · 지침 시험 주행 중...
+[13:01:51] 클릭 · ▶ 이 지침으로 샘플 뽑기
+[13:03:07] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:07] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:08] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:13] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:13] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:03:26] 클릭 · 🔍 미리보기
+[13:03:48] 작업 시작 · 지침 시험 주행 중...
+[13:03:48] 클릭 · ▶ 이 지침으로 샘플 뽑기
+[13:04:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:26] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:29] 클릭 · 🔍 미리보기
+[13:04:46] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:46] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:46] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:46] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:46] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:46] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:47] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:48] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:50] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:50] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:04:58] 클릭 · 🔍 미리보기
+[13:06:16] 클릭 · 이전 버전 되돌리기
+[13:06:19] 클릭 · ↺ 기본 구성으로 되돌리기
+[13:06:21] 클릭 · ↺ 기본 구성으로 되돌리기
+[13:06:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:23] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:23] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:23] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:23] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:27] 탭 이동 · 2  후속작업 준비
+[13:06:35] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:35] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:35] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:35] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:35] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:43] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:43] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:43] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:06:43] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:11] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:13] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:13] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:13] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:07:14] 탭 이동 · 3  포스팅
+[13:07:16] 탭 이동 · 4  스케줄
+[13:07:19] 클릭 · ▦ 대량 스케줄 열기
+[13:10:11] 클릭 · 현재 사이트 키워드 저장
+[13:16:31] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:31] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:31] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:31] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:49] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:50] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:50] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:50] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:16:50] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:36] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:37] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:37] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:37] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:37] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:37] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:17:37] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:18:24] 클릭 · 🔀 순서 섞기
+[13:18:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:18:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:18:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:18:25] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:18:32] 클릭 · 현재 사이트 키워드 저장
+[13:18:55] 클릭 · SEO 검사 후 대량 실행
+[13:19:33] 클릭 · ↻ 요약 새로고침
+[13:19:39] 탭 이동 · 5  히스토리
+[13:19:41] 탭 이동 · 2  후속작업 준비
+[13:19:42] 탭 이동 · 2  후속작업 준비
+[13:19:45] 탭 이동 · 1  프롬프트 조정
+[13:19:49] 탭 이동 · 3  포스팅
+[13:19:50] 탭 이동 · 4  스케줄
+[13:19:55] 탭 이동 · 5  히스토리
+[13:19:58] 클릭 · ↻ 새로고침
+[13:20:02] 탭 이동 · 2  후속작업 준비
+[13:20:11] 탭 이동 · 1  프롬프트 조정
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 7428, in able_seo_bundle.ManualWindow.__init__.lambda123
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow2.!frame4.!canvas"
+
+[13:20:15] 탭 이동 · 3  포스팅
+[13:20:20] 탭 이동 · 4  스케줄
