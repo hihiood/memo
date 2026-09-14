@@ -1,0 +1,307 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-14 10:48:20
+
+======================================================================
+[09:50:01] WordPress Auto Publisher 시작 · 2026-09-14 09:50:01 · C:\Users\ABCD\Downloads\워드프레스 9월14일 최신
+[09:50:01] 빌드 20260914-0917·f8d7e707
+[09:50:18] 로그인 거절 · id=ans5vud · 서버응답={'error': 'invalid credentials', 'ok': False}
+[09:50:21] 로그인 성공 · id=ans5vud
+[09:50:23] 탭 이동 · 1  프롬프트 조정
+[09:50:23] 메인 화면 시작 · 사이트 0개
+[09:58:41] 탭 이동 · 2  사전 및 후속작업
+[09:59:50] 클릭 · ⚙ 사이트 설정
+
+======================================================================
+[10:00:18] WordPress Auto Publisher 시작 · 2026-09-14 10:00:18 · C:\Users\ABCD\Downloads
+[10:00:18] 빌드 20260914-0917·f8d7e707
+[10:00:20] 로그인 성공 · id=ans5vud
+[10:00:22] 탭 이동 · 1  프롬프트 조정
+[10:00:22] 메인 화면 시작 · 사이트 1개
+[10:01:01] 탭 이동 · 2  사전 및 후속작업
+[10:01:05] 탭 이동 · 1  프롬프트 조정
+[10:02:29] 탭 이동 · 2  사전 및 후속작업
+[10:03:38] 탭 이동 · 4  스케줄
+[10:03:41] 클릭 · ▦ 대량 스케줄 열기
+[10:04:03] 탭 이동 · 5  히스토리
+[10:04:12] 탭 이동 · 4  스케줄
+[10:04:15] 탭 이동 · 2  사전 및 후속작업
+[10:06:15] 작업 시작 · Rank Math 점수 확인 중...
+[10:06:15] 클릭 · Rank Math 점수 확인
+[10:06:23] !! Rank Math 점수 조회
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11363, in able_seo_bundle.App.measure_rank_math.task
+  File "able_seo_bundle.py", line 2268, in able_seo_bundle.collect
+able_seo_bundle.ScoreError: 방충망 관리자 로그인이 필요합니다. 사전 로그인에서 자동 로그인을 먼저 실행하세요.
+
+[10:06:43] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:06:43] 클릭 · 자동 로그인
+[10:06:49] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:06:49] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:07:02] 클릭 · 불러오는 중...
+[10:07:13] 클릭 · ⚙ 사이트 설정
+[10:07:17] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:07:17] 클릭 · 자동 로그인
+[10:07:24] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:07:24] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:07:52] 클릭 · ⚙ 사이트 설정
+[10:08:12] 클릭 · ⚙ 사이트 설정
+[10:08:14] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:08:14] 클릭 · 자동 로그인
+[10:08:20] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:08:20] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:08:55] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:08:55] 클릭 · 자동 로그인
+[10:09:01] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:09:01] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:09:06] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:09:06] 클릭 · 자동 로그인
+[10:09:13] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:09:13] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:11:23] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:11:23] 클릭 · 자동 로그인
+[10:11:30] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:11:30] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:13:22] 클릭 · ⚙ 사이트 설정
+[10:13:24] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:13:24] 클릭 · 자동 로그인
+[10:13:30] !! 작업 실패 · 방충망 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:13:30] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:13:41] 클릭 · ＋ 추가
+[10:14:10] 클릭 · 불러오는 중...
+[10:14:21] 클릭 · 불러오는 중...
+[10:14:29] 클릭 · ⚙ 사이트 설정
+[10:14:40] 클릭 · ⚙ 사이트 설정
+[10:14:44] 탭 이동 · 3  포스팅
+[10:14:46] 탭 이동 · 2  사전 및 후속작업
+[10:14:47] 자동화 연결 막힘 · 방충망 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[10:14:49] 작업 시작 · 방충망1 관리자 자동 로그인 중...
+[10:14:49] 클릭 · 자동 로그인
+[10:14:55] !! 작업 실패 · 방충망1 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:14:55] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:15:05] 작업 시작 · 방충망1 관리자 자동 로그인 중...
+[10:15:05] 클릭 · 자동 로그인
+[10:15:11] !! 작업 실패 · 방충망1 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:15:11] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:15:47] 작업 시작 · 방충망1 관리자 자동 로그인 중...
+[10:15:47] 클릭 · 자동 로그인
+[10:15:53] !! 작업 실패 · 방충망1 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:15:53] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:16:07] 로그 깃 전송 완료 · https://sgtestflask.autoprogram.blog/go_write_github
+[10:16:11] 클릭 · 🗂 로그 저장
+[10:19:58] 작업 시작 · 방충망1 관리자 자동 로그인 중...
+[10:19:58] 클릭 · 자동 로그인
+[10:20:05] !! 작업 실패 · 방충망1 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:20:05] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:20:25] 작업 시작 · 방충망1 관리자 자동 로그인 중...
+[10:20:25] 클릭 · 자동 로그인
+[10:20:32] !! 작업 실패 · 방충망1 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+[10:20:32] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10172, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 10873, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2110, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Invalid username. Lost your password?
+
+
+======================================================================
+[10:40:46] WordPress Auto Publisher 시작 · 2026-09-14 10:40:46 · C:\Users\ABCD\Downloads
+[10:40:46] 빌드 20260914-1025·3348506b
+[10:41:12] 로그인 성공 · id=ans5vud
+[10:41:14] 탭 이동 · 1  프롬프트 조정
+[10:41:14] 메인 화면 시작 · 사이트 2개
+[10:41:24] 탭 이동 · 2  사전 및 후속작업
+[10:41:26] 자동화 연결 막힘 · 방충망 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[10:41:29] 작업 시작 · 방충망 관리자 자동 로그인 중...
+[10:41:29] 클릭 · 자동 로그인
+[10:41:41] 자동화 연결 막힘 · 방충망 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[10:41:53] 작업 시작 · 방충망 연결을 고치는 중...
+[10:41:53] 클릭 · 연결 고치기
+[10:42:27] 자동화 연결 막힘 · 방충망 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[10:42:34] 탭 이동 · 3  포스팅
+[10:42:39] 탭 이동 · 2  사전 및 후속작업
+[10:42:39] 자동화 연결 막힘 · 방충망 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[10:42:44] 탭 이동 · 3  포스팅
+[10:42:46] 탭 이동 · 2  사전 및 후속작업
+[10:42:47] 자동화 연결 막힘 · 방충망 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[10:43:16] 클릭 · 삭제
+[10:43:28] 클릭 · ⚙ 사이트 설정
+[10:43:29] 탭 이동 · 3  포스팅
+[10:43:32] 탭 이동 · 2  사전 및 후속작업
+[10:43:50] 클릭 · ↻ 연결 상태 새로고침
+[10:44:15] 클릭 · ✓ 완료로 치우기
+[10:44:22] 클릭 · Rank Math 점수 확인
+[10:45:06] 작업 시작 · Rank Math 점수 확인 중...
+[10:45:06] 클릭 · Rank Math 점수 확인
+[10:45:22] !! 점수를 WordPress에 저장 · 글 47
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11442, in able_seo_bundle.App.measure_rank_math.task
+UnboundLocalError: local variable 'stored' referenced before assignment
+
+[10:45:23] !! 작업 실패 · Rank Math 점수 확인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10231, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11461, in able_seo_bundle.App.measure_rank_math.task
+UnboundLocalError: local variable 'stored' referenced before assignment
+
+[10:45:23] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10231, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11461, in able_seo_bundle.App.measure_rank_math.task
+UnboundLocalError: local variable 'stored' referenced before assignment
+
+[10:46:28] 작업 시작 · Rank Math 점수 확인 중...
+[10:46:28] 클릭 · Rank Math 점수 확인
+[10:46:43] !! 점수를 WordPress에 저장 · 글 45
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11442, in able_seo_bundle.App.measure_rank_math.task
+UnboundLocalError: local variable 'stored' referenced before assignment
+
+[10:46:44] !! 작업 실패 · Rank Math 점수 확인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10231, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11461, in able_seo_bundle.App.measure_rank_math.task
+UnboundLocalError: local variable 'stored' referenced before assignment
+
+[10:46:44] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10231, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11461, in able_seo_bundle.App.measure_rank_math.task
+UnboundLocalError: local variable 'stored' referenced before assignment
+
