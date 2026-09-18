@@ -1,0 +1,57 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-18 20:08:10
+
+======================================================================
+[20:05:14] WordPress Auto Publisher 시작 · 2026-09-18 20:05:14 · C:\Users\ABCD\Downloads
+[20:05:14] 빌드 20260914-1111·8143af8d
+[20:05:16] 로그인 성공 · id=ans5vud
+[20:05:18] 탭 이동 · 1  프롬프트 조정
+[20:05:18] 메인 화면 시작 · 사이트 1개
+[20:05:25] 탭 이동 · 3  포스팅
+[20:05:26] 탭 이동 · 4  스케줄
+[20:05:26] 탭 이동 · 3  포스팅
+[20:05:28] 탭 이동 · 2  사전 및 후속작업
+[20:05:34] 작업 시작 · 구글 색인 요청 중...
+[20:05:34] 클릭 · 🔎 구글 색인 요청
+[20:07:26] 작업 시작 · 구글 색인 요청 중...
+[20:07:26] 클릭 · 🔎 구글 색인 요청
+[20:07:27] !! 구글 색인 요청
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11459, in able_seo_bundle.App.request_google_index.task
+  File "able_seo_bundle.py", line 2481, in able_seo_bundle.request_indexing
+able_seo_bundle.GoogleIndexError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[20:07:34] 작업 시작 · 구글 색인 요청 중...
+[20:07:34] 클릭 · 🔎 구글 색인 요청
+[20:07:58] !! 구글 색인 요청
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11459, in able_seo_bundle.App.request_google_index.task
+  File "able_seo_bundle.py", line 2564, in able_seo_bundle.request_indexing
+  File "selenium\webdriver\remote\webdriver.py", line 532, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff79c291035+5a95]
+	chromedriver!(No symbol) [0x7ff79c1b2c70]
+	chromedriver!(No symbol) [0x7ff79bfd4876]
+	chromedriver!(No symbol) [0x7ff79c020e03]
+	chromedriver!(No symbol) [0x7ff79c0592f2]
+	chromedriver!(No symbol) [0x7ff79c0530c2]
+	chromedriver!(No symbol) [0x7ff79c052843]
+	chromedriver!(No symbol) [0x7ff79bf9cdcb]
+	chromedriver!(No symbol) [0x7ff79bf9d422]
+	chromedriver!(No symbol) [0x7ff79bf9da55]
+	chromedriver!GetHandleVerifier [0x7ff79c6b1411+425e71]
+	chromedriver!GetHandleVerifier [0x7ff79c6dca47+4514a7]
+	chromedriver!GetHandleVerifier [0x7ff79c6d094e+4453ae]
+	chromedriver!GetHandleVerifier [0x7ff79c38bf6e+1009ce]
+	chromedriver!(No symbol) [0x7ff79c1c0a05]
+	chromedriver!(No symbol) [0x7ff79bf9c20a]
+	chromedriver!GetHandleVerifier [0x7ff79c732f9f+4a79ff]
+	KERNEL32!BaseThreadInitThunk [0x7ff9f7467374+14]
+	ntdll!RtlUserThreadStart [0x7ff9f93bcc91+21]
+
+
