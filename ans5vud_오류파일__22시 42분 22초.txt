@@ -1,0 +1,177 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-21 22:42:22
+
+======================================================================
+[04:13:59] WordPress Auto Publisher 시작 · 2026-09-21 04:13:59 · C:\Users\ABCD\Downloads
+[04:13:59] 빌드 20260914-1111·8143af8d
+[04:14:01] 로그인 성공 · id=ans5vud
+[04:14:03] 탭 이동 · 1  프롬프트 조정
+[04:14:03] 메인 화면 시작 · 사이트 1개
+[04:14:05] 탭 이동 · 3  포스팅
+[04:14:08] 탭 이동 · 4  스케줄
+[04:14:09] 클릭 · ▦ 대량 스케줄 열기
+
+======================================================================
+[04:14:30] WordPress Auto Publisher 시작 · 2026-09-21 04:14:30 · C:\Users\ABCD\Downloads
+[04:14:30] 빌드 20260914-1111·8143af8d
+[04:14:32] 로그인 성공 · id=ans5vud
+[04:14:34] 탭 이동 · 1  프롬프트 조정
+[04:14:34] 메인 화면 시작 · 사이트 1개
+[04:14:36] 탭 이동 · 5  히스토리
+[04:14:45] 탭 이동 · 3  포스팅
+[04:14:47] 탭 이동 · 2  사전 및 후속작업
+[04:14:54] 작업 시작 · 구글 색인 요청 중...
+[04:14:54] 클릭 · 🔎 구글 색인 요청
+[04:15:44] 작업 시작 · 구글 색인 요청 중...
+[04:15:44] 클릭 · 🔎 구글 색인 요청
+[04:15:45] !! 구글 색인 요청
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11459, in able_seo_bundle.App.request_google_index.task
+  File "able_seo_bundle.py", line 2481, in able_seo_bundle.request_indexing
+able_seo_bundle.GoogleIndexError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[04:15:54] 클릭 · 🔎 구글 색인 요청
+[04:15:56] 작업 시작 · 구글 색인 요청 중...
+[04:15:56] 클릭 · 🔎 구글 색인 요청
+[04:17:34] 작업 시작 · Rank Math 점수 확인 중...
+[04:17:34] 클릭 · Rank Math 점수 확인
+[04:17:55] 작업 시작 · 구글 색인 요청 중...
+[04:17:55] 클릭 · 🔎 구글 색인 요청
+[04:18:21] !! 구글 색인 요청
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11459, in able_seo_bundle.App.request_google_index.task
+  File "able_seo_bundle.py", line 2564, in able_seo_bundle.request_indexing
+  File "selenium\webdriver\remote\webdriver.py", line 532, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff631c01035+5a95]
+	chromedriver!(No symbol) [0x7ff631b22c70]
+	chromedriver!(No symbol) [0x7ff631944876]
+	chromedriver!(No symbol) [0x7ff631990e03]
+	chromedriver!(No symbol) [0x7ff6319c92f2]
+	chromedriver!(No symbol) [0x7ff6319c30c2]
+	chromedriver!(No symbol) [0x7ff6319c2843]
+	chromedriver!(No symbol) [0x7ff63190cdcb]
+	chromedriver!(No symbol) [0x7ff63190d422]
+	chromedriver!(No symbol) [0x7ff63190da55]
+	chromedriver!GetHandleVerifier [0x7ff632021411+425e71]
+	chromedriver!GetHandleVerifier [0x7ff63204ca47+4514a7]
+	chromedriver!GetHandleVerifier [0x7ff63204094e+4453ae]
+	chromedriver!GetHandleVerifier [0x7ff631cfbf6e+1009ce]
+	chromedriver!(No symbol) [0x7ff631b30a05]
+	chromedriver!(No symbol) [0x7ff63190c20a]
+	chromedriver!GetHandleVerifier [0x7ff6320a2f9f+4a79ff]
+	KERNEL32!BaseThreadInitThunk [0x7ff9f7467374+14]
+	ntdll!RtlUserThreadStart [0x7ff9f93bcc91+21]
+
+
+[04:18:47] 작업 시작 · 구글 색인 요청 중...
+[04:18:47] 클릭 · 🔎 구글 색인 요청
+[04:19:40] 탭 이동 · 5  히스토리
+[04:19:44] 클릭 · WordPress 편집기 열기
+[04:19:49] 클릭 · WordPress 편집기 열기
+[04:19:55] 탭 이동 · 3  포스팅
+[04:19:57] 탭 이동 · 4  스케줄
+[04:19:59] 클릭 · ▦ 대량 스케줄 열기
+[04:19:59] 클릭 · ▦ 대량 스케줄 열기
+[04:20:19] !! 구글 색인 요청
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11459, in able_seo_bundle.App.request_google_index.task
+  File "able_seo_bundle.py", line 2564, in able_seo_bundle.request_indexing
+  File "selenium\webdriver\remote\webdriver.py", line 532, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff631c01035+5a95]
+	chromedriver!(No symbol) [0x7ff631b22c70]
+	chromedriver!(No symbol) [0x7ff631944876]
+	chromedriver!(No symbol) [0x7ff631990e03]
+	chromedriver!(No symbol) [0x7ff6319c92f2]
+	chromedriver!(No symbol) [0x7ff6319c30c2]
+	chromedriver!(No symbol) [0x7ff6319c2843]
+	chromedriver!(No symbol) [0x7ff63190cdcb]
+	chromedriver!(No symbol) [0x7ff63190d422]
+	chromedriver!(No symbol) [0x7ff63190da55]
+	chromedriver!GetHandleVerifier [0x7ff632021411+425e71]
+	chromedriver!GetHandleVerifier [0x7ff63204ca47+4514a7]
+	chromedriver!GetHandleVerifier [0x7ff63204094e+4453ae]
+	chromedriver!GetHandleVerifier [0x7ff631cfbf6e+1009ce]
+	chromedriver!(No symbol) [0x7ff631b30a05]
+	chromedriver!(No symbol) [0x7ff63190c20a]
+	chromedriver!GetHandleVerifier [0x7ff6320a2f9f+4a79ff]
+	KERNEL32!BaseThreadInitThunk [0x7ff9f7467374+14]
+	ntdll!RtlUserThreadStart [0x7ff9f93bcc91+21]
+
+
+[04:21:11] !! 구글 색인 요청
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 11459, in able_seo_bundle.App.request_google_index.task
+  File "able_seo_bundle.py", line 2564, in able_seo_bundle.request_indexing
+  File "selenium\webdriver\remote\webdriver.py", line 532, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff631c01035+5a95]
+	chromedriver!(No symbol) [0x7ff631b22c70]
+	chromedriver!(No symbol) [0x7ff631944876]
+	chromedriver!(No symbol) [0x7ff631990e03]
+	chromedriver!(No symbol) [0x7ff6319c92f2]
+	chromedriver!(No symbol) [0x7ff6319c30c2]
+	chromedriver!(No symbol) [0x7ff6319c2843]
+	chromedriver!(No symbol) [0x7ff63190cdcb]
+	chromedriver!(No symbol) [0x7ff63190d422]
+	chromedriver!(No symbol) [0x7ff63190da55]
+	chromedriver!GetHandleVerifier [0x7ff632021411+425e71]
+	chromedriver!GetHandleVerifier [0x7ff63204ca47+4514a7]
+	chromedriver!GetHandleVerifier [0x7ff63204094e+4453ae]
+	chromedriver!GetHandleVerifier [0x7ff631cfbf6e+1009ce]
+	chromedriver!(No symbol) [0x7ff631b30a05]
+	chromedriver!(No symbol) [0x7ff63190c20a]
+	chromedriver!GetHandleVerifier [0x7ff6320a2f9f+4a79ff]
+	KERNEL32!BaseThreadInitThunk [0x7ff9f7467374+14]
+	ntdll!RtlUserThreadStart [0x7ff9f93bcc91+21]
+
+
+[07:39:33] 클릭 · SEO 검사 후 대량 실행
+[07:39:33] 클릭 · ■ 중지
+[07:39:36] 올릴 시각 다시 잡음 · 102건 · 간격 480분
+[07:39:36] 클릭 · SEO 검사 후 대량 실행
+[15:34:43] 탭 이동 · 3  포스팅
+[15:34:44] 탭 이동 · 2  사전 및 후속작업
+[15:44:20] 탭 이동 · 3  포스팅
+[15:44:21] 탭 이동 · 4  스케줄
+
+======================================================================
+[19:38:46] WordPress Auto Publisher 시작 · 2026-09-21 19:38:46 · C:\Users\ABCD\Downloads
+[19:38:46] 빌드 20260914-1111·8143af8d
+[19:38:48] 로그인 성공 · id=ans5vud
+[19:38:50] 탭 이동 · 1  프롬프트 조정
+[19:38:50] 메인 화면 시작 · 사이트 1개
+[19:38:53] 탭 이동 · 3  포스팅
+[19:38:56] 탭 이동 · 4  스케줄
+[19:38:57] 클릭 · ▦ 대량 스케줄 열기
+[19:39:08] 탭 이동 · 2  사전 및 후속작업
+[19:39:17] 작업 시작 · 구글 색인 요청 중...
+[19:39:17] 클릭 · 🔎 구글 색인 요청
+
+======================================================================
+[22:38:45] WordPress Auto Publisher 시작 · 2026-09-21 22:38:45 · C:\Users\ABCD\Downloads
+[22:38:45] 빌드 20260914-1111·8143af8d
+[22:41:26] 로그인 성공 · id=ans5vud
+[22:41:28] 탭 이동 · 1  프롬프트 조정
+[22:41:28] 메인 화면 시작 · 사이트 1개
+[22:41:30] 탭 이동 · 2  사전 및 후속작업
+[22:41:35] 작업 시작 · 구글 색인 요청 중...
+[22:41:36] 클릭 · 🔎 구글 색인 요청
