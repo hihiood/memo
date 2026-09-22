@@ -1,0 +1,1124 @@
+==================== SG SOLUTION 로그 저장 ====================
+시각      : 2026. 9. 22. 오후 9:45:15
+아이디    : jun231
+앱 버전   : 5.4.0 (개발)
+OS        : win32 10.0.26200 · 메모리 63GB
+
+──────────── ① 오류 원문 (engine-debug.log · 최근 것) ────────────
+[2026-09-22 04:15:15] [engine stdout] errolinkQQ E:\SynologyDrive\__alltotal
+[2026-09-22 04:15:15] [engine stdout] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\워드프레스
+[2026-09-22 13:15:17] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:15:17] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\wordpress\run_headless.py", line 1018, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\워드프레스\Premium_wordpress_V2.42.py", line 803, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:15:27] JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+[2026-09-22 13:15:27] Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\naver\run_headless_full.py", line 812, in run
+    locks = json.load(f)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 335, in loads
+    raise JSONDecodeError("Unexpected UTF-8 BOM (decode using utf-8-sig)",
+json.decoder.JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+[2026-09-22 13:15:29] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:15:29] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\naver\run_headless_full.py", line 948, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\naver\premium_naver_V2220.py", line 4075, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "E:\SynologyDrive\__alltotal\engine\naver\run_headless_full.py", line 510, in _patched_post
+    return _orig_post(url, *a, **k)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 04:15:37] [engine stdout] errolinkQQ E:\SynologyDrive\__alltotal
+[2026-09-22 04:15:37] [engine stdout] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\티스토리
+[2026-09-22 13:15:40] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:15:40] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\tistory\run_headless_tistory_full.py", line 1616, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\티스토리\Premium_tistory_V2.96.py", line 1185, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "E:\SynologyDrive\__alltotal\engine\tistory\run_headless_tistory_full.py", line 464, in _patched_post
+    return _orig_post(url, *a, **k)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 04:15:48] [engine stdout] [APP] BASE_DIR: E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+[2026-09-22 04:15:49] [engine stdout] errolinkQQ E:\SynologyDrive\__alltotal
+[2026-09-22 04:15:49] [engine stdout] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+[2026-09-22 04:15:49] [engine stdout] [blogspot] token.pickle 없음(무시): E:\SynologyDrive\__alltotal\참고자료\블로그스팟\token.pickle
+[2026-09-22 13:15:51] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:15:51] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\blogspot\run_headless_blogspot_full.py", line 1893, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\블로그스팟\Premium_Gblog_V221.py", line 1484, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "E:\SynologyDrive\__alltotal\engine\blogspot\run_headless_blogspot_full.py", line 550, in _patched_post
+    return _orig_post(url, *a, **k)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:16:21] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:16:21] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 04:17:01] [engine stdout] errolinkQQ E:\SynologyDrive\__alltotal
+[2026-09-22 04:17:01] [engine stdout] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\워드프레스
+[2026-09-22 13:17:03] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:17:03] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\wordpress\run_headless.py", line 1018, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\워드프레스\Premium_wordpress_V2.42.py", line 803, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:17:13] JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+[2026-09-22 13:17:13] Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\naver\run_headless_full.py", line 812, in run
+    locks = json.load(f)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 335, in loads
+    raise JSONDecodeError("Unexpected UTF-8 BOM (decode using utf-8-sig)",
+json.decoder.JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+[2026-09-22 13:17:15] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:17:15] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\naver\run_headless_full.py", line 948, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\naver\premium_naver_V2220.py", line 4075, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "E:\SynologyDrive\__alltotal\engine\naver\run_headless_full.py", line 510, in _patched_post
+    return _orig_post(url, *a, **k)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 04:17:24] [engine stdout] errolinkQQ E:\SynologyDrive\__alltotal
+[2026-09-22 04:17:24] [engine stdout] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\티스토리
+[2026-09-22 13:17:26] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:17:26] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\tistory\run_headless_tistory_full.py", line 1616, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\티스토리\Premium_tistory_V2.96.py", line 1185, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "E:\SynologyDrive\__alltotal\engine\tistory\run_headless_tistory_full.py", line 464, in _patched_post
+    return _orig_post(url, *a, **k)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 04:17:34] [engine stdout] [APP] BASE_DIR: E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+[2026-09-22 04:17:35] [engine stdout] errolinkQQ E:\SynologyDrive\__alltotal
+[2026-09-22 04:17:35] [engine stdout] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+[2026-09-22 04:17:35] [engine stdout] [blogspot] token.pickle 없음(무시): E:\SynologyDrive\__alltotal\참고자료\블로그스팟\token.pickle
+[2026-09-22 13:17:37] ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 13:17:37] Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 500, in request
+    self.endheaders()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 1037, in _send_output
+    self.send(msg)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\http\client.py", line 975, in send
+    self.connect()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 331, in connect
+    self.sock = self._new_conn()
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SynologyDrive\__alltotal\engine\blogspot\run_headless_blogspot_full.py", line 1893, in run
+    result = mod.DB_check(uid, upw)
+  File "E:\SynologyDrive\__alltotal\engine\apikey_override.py", line 40, in _wrapped
+    r = orig(*a, **k)   # 라이선스 인증은 원본 그대로 (기기잠금·만료 유지)
+  File "E:\SynologyDrive\__alltotal\참고자료\블로그스팟\Premium_Gblog_V221.py", line 1484, in DB_check
+    response = requests.post(url, json=payload, headers=headers, timeout=10)
+  File "E:\SynologyDrive\__alltotal\engine\blogspot\run_headless_blogspot_full.py", line 550, in _patched_post
+    return _orig_post(url, *a, **k)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\leo9\AppData\Local\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+[2026-09-22 04:18:21] Error: GPT(OpenAI) API 키가 잘못됐거나 권한이 없습니다. 설정에서 키를 다시 확인하세요.
+Error: GPT(OpenAI) API 키가 잘못됐거나 권한이 없습니다. 설정에서 키를 다시 확인하세요.
+    at friendlyApiError (E:\SynologyDrive\__alltotal\out\main\index.js:31194:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async OpenAiClient.generateText (E:\SynologyDrive\__alltotal\out\main\index.js:31263:24)
+    at async E:\SynologyDrive\__alltotal\out\main\index.js:31323:7
+    at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:87023)
+[2026-09-22 13:21:24] auth result: 'DB access----fail!!'
+[2026-09-22 13:25:20] AttributeError: module 'bundled_engine_src' has no attribute 'publish_from_program'
+[2026-09-22 13:25:20] Traceback (most recent call last):
+  File "run_headless_tistory_full.py", line 1351, in run
+    _orig_pfp = _tp.publish_from_program
+AttributeError: module 'bundled_engine_src' has no attribute 'publish_from_program'
+[2026-09-22 13:25:20] auth result: 'DB access----fail!!'
+[2026-09-22 12:19:38] [logReport] 전송 완료 → https://sgtestflask.autoprogram.blog (로그 71KB, 스크린샷 669KB)
+
+
+──────────── ② 시스템 로그 (화면 표시 그대로 · 최근 500줄) ────────────
+오후 12:19:46 [naver_blog] 알아보러
+오후 12:19:46 [naver_blog] 가기
+오후 12:19:46 [naver_blog] 👉
+오후 12:19:46 [naver_blog] 개발
+오후 12:19:46 [naver_blog] 의뢰
+오후 12:19:46 [naver_blog] 문의 하기
+오후 12:19:46 [naver_blog] 👉
+오후 12:19:46 [naver_blog] 업데이트 내용 확인하기
+오후 12:19:46 [naver_blog] 👉
+오후 12:19:46 [naver_blog] ✖ 오류 문의남기기
+오후 12:19:46 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 12:19:46 [naver_blog] 엔진 로드 완료 (창 숨김)
+오후 12:19:46 [naver_blog] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 12:19:46 [naver_blog] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 12:19:46 [naver_blog] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\naver
+오후 12:19:46 [naver_blog] 로그인 아이디: testid
+오후 12:19:46 [naver_blog] 순환 설정 · ID간격 10분 · ID당 3개 · 한바퀴 후 60분 휴식
+오후 12:19:46 [naver_blog] 이미지 폴더:  · 백링크: 맨위
+오후 12:19:46 [naver_blog] ✖ 프로필 락 정리 실패(무시): Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+오후 12:19:46 [naver_blog] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 12:19:46 [naver_blog] 발행 설정: 시크릿 브라우저 발행 경로(secret_temp_check=1)
+오후 12:19:46 [naver_blog] 이미지 생성 모델: Nano Banana 2
+오후 12:19:46 [naver_blog] 로그인/설정 값 주입 완료
+오후 12:19:46 [engine] DOCS_modelChunk not found.
+오후 12:19:46 [engine] ->new버전으로 동작
+오후 12:19:47 [engine] 네이버 업데이트 일자 5월4일@
+오후 12:19:47 [engine] 다음 업데이트 예정일 5월 19일@
+오후 12:19:47 [engine] ip변경 안되시는분 런처V4받아주세요 @
+오후 12:19:47 [engine] Premium_naver_V2.168.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.147.exe 최신버전 @
+오후 12:19:47 [engine] ✖ 이미지 삽입 오류 개선@
+오후 12:19:47 [engine] Premium_naver_V2.144.exe 최신버전 @
+오후 12:19:47 [engine] ✖ 이미지 삽입모드 오류 개선@
+오후 12:19:47 [engine] Premium_naver_V2.143.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.129.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.120.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.117.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.109.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.102.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.100.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.97.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.94.exe 최신버전 @
+오후 12:19:47 [engine] -> 바드 이미지 수집 업데이트@
+오후 12:19:47 [engine] Premium_naver_V2.92.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.89.exe 최신버전 @
+오후 12:19:47 [engine] ✖ -> 맞춤형 GPT 오류 개선@
+오후 12:19:47 [engine] Premium_naver_V2.84.exe 최신버전 @
+오후 12:19:47 [engine] -> 바드 이미지 생성 프롬프트 변경경@
+오후 12:19:47 [engine] Premium_naver_V2.78.exe 최신버전 @
+오후 12:19:47 [engine] Premium_naver_V2.73.exe 최신버전 @
+오후 12:19:47 [engine] 로그인 문제 개선선 @
+오후 12:19:47 [engine] Premium_naver_V2.70.exe 최신버전 @
+오후 12:19:47 [engine] ✖ Unsplash 서칭 오류 개선 @
+오후 12:19:47 [engine] 네이버 로그인 안되는분들 위한 사전작업 기능 추가@
+오후 12:19:47 [engine] 서버1: Premium_naver_V2.52.exe@
+오후 12:19:47 [engine] 서버2: Premium_naver_V2.58.exe@
+오후 12:19:47 [engine] -업데이트 내용-@
+오후 12:19:47 [engine] 1. 사전작업 기능 제거@
+오후 12:19:47 [engine] ✖ 2. 고정이미지 오류 개선@
+오후 12:19:47 [engine] 3. 일부 아이디 발행 불가 현상 개선@
+오후 12:19:47 [engine] 2. 사전작업으로 로그인 될 수 있게 변경 -> 로그인을 하지 않고 포스팅하기 위함
+오후 12:19:47 [engine] -> 가이드 영상 참고(클라우드 링크 맨 아래로 내리시면 있습니다)
+오후 12:19:48 [naver_blog] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+오후 12:19:48 [engine] ✖ An error occurred:
+오후 12:19:53 [naver_blog] 엔진 종료 대기 초과 — 프로세스 정리
+오후 12:19:54 [tistory] 워드프레스 엔진 헤드리스 로딩 시작
+오후 12:19:56 [tistory] 실검 최신화 누르세요!
+오후 12:19:57 [tistory] 키워드 전부가 안보일 수 있습니다!
+오후 12:19:57 [engine] errolinkQQ E:\SynologyDrive\__alltotal
+오후 12:19:57 [engine] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\티스토리
+오후 12:19:57 [tistory] ✖ 애드센스 파일 읽기 실패!
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] 더
+오후 12:19:57 [tistory] 많은
+오후 12:19:57 [tistory] 상품
+오후 12:19:57 [tistory] 구경하기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] 가격
+오후 12:19:57 [tistory] 문의
+오후 12:19:57 [tistory] 하기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] 사용법
+오후 12:19:57 [tistory] 알아보러
+오후 12:19:57 [tistory] 가기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] 개발
+오후 12:19:57 [tistory] 의뢰
+오후 12:19:57 [tistory] 문의 하기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] 업데이트 내용 확인하기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] ✖ 오류 문의남기기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] API 변경 및 등록하기
+오후 12:19:57 [tistory] 👉
+오후 12:19:57 [tistory] 프로그램 다운로드 하기
+오후 12:19:57 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 12:19:57 [tistory] 엔진 로드 완료 (창 숨김)
+오후 12:19:57 [tistory] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 12:19:57 [tistory] 본문 GPT 수집: 견고 대기 모드로 대체(빈응답 방지)
+오후 12:19:57 [tistory] chatGPT() 본문 재작성: 브라우저 GPT로 대체(키 없이)
+오후 12:19:57 [tistory] labs 이미지: Google Flow → Pollinations 다운로드로 교체(기본)
+오후 12:19:57 [tistory] 티스토리 발행 모드: 패킷(post.json)으로 강제
+오후 12:19:57 [tistory] 백링크 검색(구글/다음) no-op 처리 — 무한루프 방지
+오후 12:19:57 [tistory] 티스토리 캡차: GPT-4o API 자동풀이(개선 프롬프트 · blanks-1)
+오후 12:19:57 [tistory] 패킷 발행: 캡차(GPT-4o API) + 문단화 + 카카오쿠키 자동갱신 활성
+오후 12:19:57 [tistory] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 12:19:57 [tistory] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\티스토리
+오후 12:19:57 [tistory] 로그인 아이디: test@kakao.com
+오후 12:19:57 [tistory] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 12:19:57 [tistory] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 12:19:57 [tistory] 로그인/설정 값 주입 완료
+오후 12:19:57 [engine] ✖ An error occurred: local variable 'extracted_text' referenced before assignment
+오후 12:19:59 [tistory] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+오후 12:20:04 [tistory] 엔진 종료 대기 초과 — 프로세스 정리
+오후 12:20:05 [blogspot] 워드프레스 엔진 헤드리스 로딩 시작
+오후 12:20:07 [engine] [patch] subprocess.Popen CREATE_NO_WINDOW 적용 (콘솔창 숨김)
+오후 12:20:07 [engine] [APP] BASE_DIR: E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+오후 12:20:07 [engine] [DPI] scale=1.0
+오후 12:20:08 [blogspot] 실검 최신화 누르세요!
+오후 12:20:08 [blogspot] 키워드 전부가 안보일 수 있습니다!
+오후 12:20:08 [engine] errolinkQQ E:\SynologyDrive\__alltotal
+오후 12:20:08 [engine] errolinkQQ_page3 E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+오후 12:20:08 [blogspot] 👉
+오후 12:20:08 [blogspot] 더
+오후 12:20:08 [blogspot] 많은
+오후 12:20:08 [blogspot] 상품
+오후 12:20:08 [blogspot] 구경하기
+오후 12:20:08 [blogspot] 👉
+오후 12:20:08 [blogspot] 가격
+오후 12:20:08 [blogspot] 문의
+오후 12:20:08 [blogspot] 하기
+오후 12:20:08 [blogspot] 👉
+오후 12:20:08 [blogspot] 사용법
+오후 12:20:08 [blogspot] 알아보러
+오후 12:20:08 [blogspot] 가기
+오후 12:20:08 [blogspot] 👉
+오후 12:20:08 [blogspot] 개발
+오후 12:20:08 [blogspot] 의뢰
+오후 12:20:08 [blogspot] 문의 하기
+오후 12:20:08 [engine] [patch] 백그라운드 스레드 'run2passw' 차단(발행 무관)
+오후 12:20:08 [blogspot] 👉
+오후 12:20:08 [blogspot] 업데이트 내용 확인하기
+오후 12:20:08 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 12:20:08 [blogspot] 엔진 로드 완료 (창 숨김)
+오후 12:20:08 [blogspot] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 12:20:08 [blogspot] 본문 GPT 수집: 견고 대기 모드로 대체(빈응답 방지)
+오후 12:20:08 [blogspot] chatGPT() 본문 재작성: 브라우저 GPT로 대체(키 없이)
+오후 12:20:08 [blogspot] 블로그스팟 발행 모드: isDraft=False(실제 발행)
+오후 12:20:08 [blogspot] 발행: Blogger API → 브라우저 에디터(로그인 세션)로 교체
+오후 12:20:08 [blogspot] 이미지: Google Flow(Nano Banana) → Pollinations 다운로드로 교체
+오후 12:20:08 [blogspot] 백링크 검색(구글/다음) no-op 처리 — 무한루프 방지
+오후 12:20:08 [blogspot] ✖ token.pickle 없음: E:\SynologyDrive\__alltotal\참고자료\블로그스팟\token.pickle
+오후 12:20:08 [blogspot] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 12:20:08 [blogspot] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+오후 12:20:08 [blogspot] 로그인 아이디: jun231
+오후 12:20:08 [blogspot] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 12:20:08 [blogspot] 프로필 Singleton 잔재 정리: 학습chatGPT 선택시 자동 (0개)
+오후 12:20:08 [blogspot] 로그인/설정 값 주입 완료
+오후 12:20:10 [blogspot] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다"))
+오후 1:15:13 [wordpress] 워드프레스 엔진 헤드리스 로딩 시작
+오후 1:15:15 [wordpress] 실검 최신화 누르세요!
+오후 1:15:15 [wordpress] 키워드 전부가 안보일 수 있습니다!
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 더
+오후 1:15:15 [wordpress] 많은
+오후 1:15:15 [wordpress] 상품
+오후 1:15:15 [wordpress] 구경하기
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 가격
+오후 1:15:15 [wordpress] 문의
+오후 1:15:15 [wordpress] 하기
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 사용법
+오후 1:15:15 [wordpress] 알아보러
+오후 1:15:15 [wordpress] 가기
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 개발
+오후 1:15:15 [wordpress] 의뢰
+오후 1:15:15 [wordpress] 문의 하기
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 업데이트 내용 확인하기
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] API 변경 및 등록하기
+오후 1:15:15 [wordpress] 👉
+오후 1:15:15 [wordpress] 프로그램 다운로드 하기
+오후 1:15:15 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:15:15 [wordpress] 엔진 로드 완료 (창 숨김)
+오후 1:15:15 [wordpress] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:15:15 [wordpress] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:15:15 [wordpress] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\워드프레스
+오후 1:15:15 [wordpress] 로그인 아이디: test@example.com
+오후 1:15:15 [wordpress] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 1:15:15 [wordpress] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 1:15:15 [wordpress] 이미지 생성 모델: Nano Banana 2
+오후 1:15:15 [wordpress] 로그인/설정 값 주입 완료
+오후 1:15:16 [engine] DOCS_modelChunk not found.
+오후 1:15:16 [engine] ->new버전으로 동작
+오후 1:15:17 [wordpress] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a
+오후 1:15:22 [wordpress] 엔진 종료 대기 초과 — 프로세스 정리
+오후 1:15:24 [naver_blog] 네이버 엔진 헤드리스 로딩 시작
+오후 1:15:26 [engine] [uc-cache] 일치 OK (Chrome v152)
+오후 1:15:27 [naver_blog] 엑셀에서 ID/PW 불러오기 성공!
+오후 1:15:27 [naver_blog] 👉
+오후 1:15:27 [naver_blog] 더
+오후 1:15:27 [naver_blog] 많은
+오후 1:15:27 [naver_blog] 상품
+오후 1:15:27 [naver_blog] 구경하기
+오후 1:15:27 [naver_blog] 👉
+오후 1:15:27 [naver_blog] 가격
+오후 1:15:27 [naver_blog] 문의
+오후 1:15:27 [naver_blog] 하기
+오후 1:15:27 [naver_blog] 👉
+오후 1:15:27 [naver_blog] 사용법
+오후 1:15:27 [naver_blog] 알아보러
+오후 1:15:27 [naver_blog] 가기
+오후 1:15:27 [naver_blog] 👉
+오후 1:15:27 [naver_blog] 개발
+오후 1:15:27 [naver_blog] 의뢰
+오후 1:15:27 [naver_blog] 문의 하기
+오후 1:15:27 [naver_blog] 👉
+오후 1:15:27 [naver_blog] 업데이트 내용 확인하기
+오후 1:15:27 [naver_blog] 👉
+오후 1:15:27 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:15:27 [naver_blog] 엔진 로드 완료 (창 숨김)
+오후 1:15:27 [naver_blog] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:15:27 [naver_blog] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:15:27 [naver_blog] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\naver
+오후 1:15:27 [naver_blog] 로그인 아이디: testid
+오후 1:15:27 [naver_blog] 순환 설정 · ID간격 10분 · ID당 3개 · 한바퀴 후 60분 휴식
+오후 1:15:27 [naver_blog] 이미지 폴더:  · 백링크: 맨위
+오후 1:15:27 [naver_blog] ✖ 프로필 락 정리 실패(무시): 서버가 예상과 다른 응답을 보냈습니다 — 잠시 후 다시 시도하세요
+오후 1:15:27 [naver_blog] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 1:15:27 [naver_blog] 발행 설정: 시크릿 브라우저 발행 경로(secret_temp_check=1)
+오후 1:15:27 [naver_blog] 이미지 생성 모델: Nano Banana 2
+오후 1:15:27 [naver_blog] 로그인/설정 값 주입 완료
+오후 1:15:27 [engine] DOCS_modelChunk not found.
+오후 1:15:27 [engine] ->new버전으로 동작
+오후 1:15:28 [engine] 2. 사전작업으로 로그인 될 수 있게 변경 -> 로그인을 하지 않고 포스팅하기 위함
+오후 1:15:29 [naver_blog] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a
+오후 1:15:29 [engine] ✖ An error occurred:
+오후 1:15:34 [naver_blog] 엔진 종료 대기 초과 — 프로세스 정리
+오후 1:15:35 [tistory] 워드프레스 엔진 헤드리스 로딩 시작
+오후 1:15:37 [tistory] 실검 최신화 누르세요!
+오후 1:15:37 [tistory] 키워드 전부가 안보일 수 있습니다!
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 더
+오후 1:15:38 [tistory] 많은
+오후 1:15:38 [tistory] 상품
+오후 1:15:38 [tistory] 구경하기
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 가격
+오후 1:15:38 [tistory] 문의
+오후 1:15:38 [tistory] 하기
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 사용법
+오후 1:15:38 [tistory] 알아보러
+오후 1:15:38 [tistory] 가기
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 개발
+오후 1:15:38 [tistory] 의뢰
+오후 1:15:38 [tistory] 문의 하기
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 업데이트 내용 확인하기
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] API 변경 및 등록하기
+오후 1:15:38 [tistory] 👉
+오후 1:15:38 [tistory] 프로그램 다운로드 하기
+오후 1:15:38 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:15:38 [tistory] 엔진 로드 완료 (창 숨김)
+오후 1:15:38 [tistory] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:15:38 [tistory] 본문 GPT 수집: 견고 대기 모드로 대체(빈응답 방지)
+오후 1:15:38 [tistory] chatGPT() 본문 재작성: 브라우저 GPT로 대체(키 없이)
+오후 1:15:38 [tistory] labs 이미지: Google Flow → Pollinations 다운로드로 교체(기본)
+오후 1:15:38 [tistory] 티스토리 발행 모드: 패킷(post.json)으로 강제
+오후 1:15:38 [tistory] 백링크 검색(구글/다음) no-op 처리 — 무한루프 방지
+오후 1:15:38 [tistory] 티스토리 캡차: GPT-4o API 자동풀이(개선 프롬프트 · blanks-1)
+오후 1:15:38 [tistory] 패킷 발행: 캡차(GPT-4o API) + 문단화 + 카카오쿠키 자동갱신 활성
+오후 1:15:38 [tistory] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:15:38 [tistory] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\티스토리
+오후 1:15:38 [tistory] 로그인 아이디: test@kakao.com
+오후 1:15:38 [tistory] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 1:15:38 [tistory] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 1:15:38 [tistory] 로그인/설정 값 주입 완료
+오후 1:15:40 [tistory] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a
+오후 1:15:43 [engine] ✖ An error occurred: local variable 'extracted_text' referenced before assignment
+오후 1:15:45 [tistory] 엔진 종료 대기 초과 — 프로세스 정리
+오후 1:15:46 [blogspot] 워드프레스 엔진 헤드리스 로딩 시작
+오후 1:15:48 [engine] [patch] subprocess.Popen CREATE_NO_WINDOW 적용 (콘솔창 숨김)
+오후 1:15:48 [engine] [DPI] scale=1.0
+오후 1:15:49 [blogspot] 실검 최신화 누르세요!
+오후 1:15:49 [blogspot] 키워드 전부가 안보일 수 있습니다!
+오후 1:15:49 [blogspot] 👉
+오후 1:15:49 [blogspot] 더
+오후 1:15:49 [blogspot] 많은
+오후 1:15:49 [blogspot] 상품
+오후 1:15:49 [blogspot] 구경하기
+오후 1:15:49 [blogspot] 👉
+오후 1:15:49 [blogspot] 가격
+오후 1:15:49 [blogspot] 문의
+오후 1:15:49 [blogspot] 하기
+오후 1:15:49 [blogspot] 👉
+오후 1:15:49 [blogspot] 사용법
+오후 1:15:49 [blogspot] 알아보러
+오후 1:15:49 [blogspot] 가기
+오후 1:15:49 [blogspot] 👉
+오후 1:15:49 [blogspot] 개발
+오후 1:15:49 [blogspot] 의뢰
+오후 1:15:49 [blogspot] 문의 하기
+오후 1:15:49 [engine] [patch] 백그라운드 스레드 'run2passw' 차단(발행 무관)
+오후 1:15:49 [blogspot] 👉
+오후 1:15:49 [blogspot] 업데이트 내용 확인하기
+오후 1:15:49 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:15:49 [blogspot] 엔진 로드 완료 (창 숨김)
+오후 1:15:49 [blogspot] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:15:49 [blogspot] 본문 GPT 수집: 견고 대기 모드로 대체(빈응답 방지)
+오후 1:15:49 [blogspot] chatGPT() 본문 재작성: 브라우저 GPT로 대체(키 없이)
+오후 1:15:49 [blogspot] 블로그스팟 발행 모드: isDraft=False(실제 발행)
+오후 1:15:49 [blogspot] 발행: Blogger API → 브라우저 에디터(로그인 세션)로 교체
+오후 1:15:49 [blogspot] 이미지: Google Flow(Nano Banana) → Pollinations 다운로드로 교체
+오후 1:15:49 [blogspot] 백링크 검색(구글/다음) no-op 처리 — 무한루프 방지
+오후 1:15:49 [blogspot] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:15:49 [blogspot] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+오후 1:15:49 [blogspot] 로그인 아이디: jun231
+오후 1:15:49 [blogspot] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 1:15:49 [blogspot] 프로필 Singleton 잔재 정리: 학습chatGPT 선택시 자동 (0개)
+오후 1:15:49 [blogspot] 로그인/설정 값 주입 완료
+오후 1:15:51 [blogspot] ✖ 인증 호출 오류: HTTPConnectionPool(host='127.0.0.1', port=4500): Max retries exceeded with url: //db_check_new_version (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=4500): Failed to establish a
+오후 1:16:59 [wordpress] 워드프레스 엔진 헤드리스 로딩 시작
+오후 1:17:01 [wordpress] 실검 최신화 누르세요!
+오후 1:17:01 [wordpress] 키워드 전부가 안보일 수 있습니다!
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 더
+오후 1:17:01 [wordpress] 많은
+오후 1:17:01 [wordpress] 상품
+오후 1:17:01 [wordpress] 구경하기
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 가격
+오후 1:17:01 [wordpress] 문의
+오후 1:17:01 [wordpress] 하기
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 사용법
+오후 1:17:01 [wordpress] 알아보러
+오후 1:17:01 [wordpress] 가기
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 개발
+오후 1:17:01 [wordpress] 의뢰
+오후 1:17:01 [wordpress] 문의 하기
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 업데이트 내용 확인하기
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] API 변경 및 등록하기
+오후 1:17:01 [wordpress] 👉
+오후 1:17:01 [wordpress] 프로그램 다운로드 하기
+오후 1:17:01 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:17:01 [wordpress] 엔진 로드 완료 (창 숨김)
+오후 1:17:01 [wordpress] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:17:01 [wordpress] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:17:01 [wordpress] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\워드프레스
+오후 1:17:01 [wordpress] 로그인 아이디: test@example.com
+오후 1:17:01 [wordpress] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 1:17:01 [wordpress] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 1:17:01 [wordpress] 이미지 생성 모델: Nano Banana 2
+오후 1:17:01 [wordpress] 로그인/설정 값 주입 완료
+오후 1:17:02 [engine] DOCS_modelChunk not found.
+오후 1:17:02 [engine] ->new버전으로 동작
+오후 1:17:03 [wordpress] ✖ 인증 호출 오류: 인증 서버에 연결하지 못했습니다 — 인터넷 연결을 확인하고 잠시 후 다시 시도하세요
+오후 1:17:08 [wordpress] 엔진 종료 대기 초과 — 프로세스 정리
+오후 1:17:10 [naver_blog] 네이버 엔진 헤드리스 로딩 시작
+오후 1:17:12 [engine] [uc-cache] 일치 OK (Chrome v152)
+오후 1:17:13 [naver_blog] 엑셀에서 ID/PW 불러오기 성공!
+오후 1:17:13 [naver_blog] 👉
+오후 1:17:13 [naver_blog] 더
+오후 1:17:13 [naver_blog] 많은
+오후 1:17:13 [naver_blog] 상품
+오후 1:17:13 [naver_blog] 구경하기
+오후 1:17:13 [naver_blog] 👉
+오후 1:17:13 [naver_blog] 가격
+오후 1:17:13 [naver_blog] 문의
+오후 1:17:13 [naver_blog] 하기
+오후 1:17:13 [naver_blog] 👉
+오후 1:17:13 [naver_blog] 사용법
+오후 1:17:13 [naver_blog] 알아보러
+오후 1:17:13 [naver_blog] 가기
+오후 1:17:13 [naver_blog] 👉
+오후 1:17:13 [naver_blog] 개발
+오후 1:17:13 [naver_blog] 의뢰
+오후 1:17:13 [naver_blog] 문의 하기
+오후 1:17:13 [naver_blog] 👉
+오후 1:17:13 [naver_blog] 업데이트 내용 확인하기
+오후 1:17:13 [naver_blog] 👉
+오후 1:17:13 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:17:13 [naver_blog] 엔진 로드 완료 (창 숨김)
+오후 1:17:13 [naver_blog] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:17:13 [naver_blog] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:17:13 [naver_blog] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\naver
+오후 1:17:13 [naver_blog] 로그인 아이디: testid
+오후 1:17:13 [naver_blog] 순환 설정 · ID간격 10분 · ID당 3개 · 한바퀴 후 60분 휴식
+오후 1:17:13 [naver_blog] 이미지 폴더:  · 백링크: 맨위
+오후 1:17:13 [naver_blog] ✖ 프로필 락 정리 실패(무시): 서버가 예상과 다른 응답을 보냈습니다 — 잠시 후 다시 시도하세요
+오후 1:17:13 [naver_blog] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 1:17:13 [naver_blog] 발행 설정: 시크릿 브라우저 발행 경로(secret_temp_check=1)
+오후 1:17:13 [naver_blog] 이미지 생성 모델: Nano Banana 2
+오후 1:17:13 [naver_blog] 로그인/설정 값 주입 완료
+오후 1:17:13 [engine] DOCS_modelChunk not found.
+오후 1:17:13 [engine] ->new버전으로 동작
+오후 1:17:14 [engine] 2. 사전작업으로 로그인 될 수 있게 변경 -> 로그인을 하지 않고 포스팅하기 위함
+오후 1:17:15 [naver_blog] ✖ 인증 호출 오류: 인증 서버에 연결하지 못했습니다 — 인터넷 연결을 확인하고 잠시 후 다시 시도하세요
+오후 1:17:15 [engine] ✖ An error occurred:
+오후 1:17:20 [naver_blog] 엔진 종료 대기 초과 — 프로세스 정리
+오후 1:17:21 [tistory] 워드프레스 엔진 헤드리스 로딩 시작
+오후 1:17:24 [tistory] 실검 최신화 누르세요!
+오후 1:17:24 [tistory] 키워드 전부가 안보일 수 있습니다!
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 더
+오후 1:17:24 [tistory] 많은
+오후 1:17:24 [tistory] 상품
+오후 1:17:24 [tistory] 구경하기
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 가격
+오후 1:17:24 [tistory] 문의
+오후 1:17:24 [tistory] 하기
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 사용법
+오후 1:17:24 [tistory] 알아보러
+오후 1:17:24 [tistory] 가기
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 개발
+오후 1:17:24 [tistory] 의뢰
+오후 1:17:24 [tistory] 문의 하기
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 업데이트 내용 확인하기
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] API 변경 및 등록하기
+오후 1:17:24 [tistory] 👉
+오후 1:17:24 [tistory] 프로그램 다운로드 하기
+오후 1:17:24 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:17:24 [tistory] 엔진 로드 완료 (창 숨김)
+오후 1:17:24 [tistory] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:17:24 [tistory] 본문 GPT 수집: 견고 대기 모드로 대체(빈응답 방지)
+오후 1:17:24 [tistory] chatGPT() 본문 재작성: 브라우저 GPT로 대체(키 없이)
+오후 1:17:24 [tistory] labs 이미지: Google Flow → Pollinations 다운로드로 교체(기본)
+오후 1:17:24 [tistory] 티스토리 발행 모드: 패킷(post.json)으로 강제
+오후 1:17:24 [tistory] 백링크 검색(구글/다음) no-op 처리 — 무한루프 방지
+오후 1:17:24 [tistory] 티스토리 캡차: GPT-4o API 자동풀이(개선 프롬프트 · blanks-1)
+오후 1:17:24 [tistory] 패킷 발행: 캡차(GPT-4o API) + 문단화 + 카카오쿠키 자동갱신 활성
+오후 1:17:24 [tistory] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:17:24 [tistory] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\티스토리
+오후 1:17:24 [tistory] 로그인 아이디: test@kakao.com
+오후 1:17:24 [tistory] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 1:17:24 [tistory] 프로필 Singleton 잔재 정리: chatGPT10 (0개)
+오후 1:17:24 [tistory] 로그인/설정 값 주입 완료
+오후 1:17:25 [engine] ✖ An error occurred: local variable 'extracted_text' referenced before assignment
+오후 1:17:26 [tistory] ✖ 인증 호출 오류: 인증 서버에 연결하지 못했습니다 — 인터넷 연결을 확인하고 잠시 후 다시 시도하세요
+오후 1:17:31 [tistory] 엔진 종료 대기 초과 — 프로세스 정리
+오후 1:17:32 [blogspot] 워드프레스 엔진 헤드리스 로딩 시작
+오후 1:17:34 [engine] [patch] subprocess.Popen CREATE_NO_WINDOW 적용 (콘솔창 숨김)
+오후 1:17:34 [engine] [DPI] scale=1.0
+오후 1:17:35 [blogspot] 실검 최신화 누르세요!
+오후 1:17:35 [blogspot] 키워드 전부가 안보일 수 있습니다!
+오후 1:17:35 [blogspot] 👉
+오후 1:17:35 [blogspot] 더
+오후 1:17:35 [blogspot] 많은
+오후 1:17:35 [blogspot] 상품
+오후 1:17:35 [blogspot] 구경하기
+오후 1:17:35 [blogspot] 👉
+오후 1:17:35 [blogspot] 가격
+오후 1:17:35 [blogspot] 문의
+오후 1:17:35 [blogspot] 하기
+오후 1:17:35 [blogspot] 👉
+오후 1:17:35 [blogspot] 사용법
+오후 1:17:35 [blogspot] 알아보러
+오후 1:17:35 [blogspot] 가기
+오후 1:17:35 [blogspot] 👉
+오후 1:17:35 [blogspot] 개발
+오후 1:17:35 [blogspot] 의뢰
+오후 1:17:35 [blogspot] 문의 하기
+오후 1:17:35 [engine] [patch] 백그라운드 스레드 'run2passw' 차단(발행 무관)
+오후 1:17:35 [blogspot] 👉
+오후 1:17:35 [blogspot] 업데이트 내용 확인하기
+오후 1:17:35 [engine] [apikey] 사용자 키로 강제: ['gpt_token_input']
+오후 1:17:35 [blogspot] 엔진 로드 완료 (창 숨김)
+오후 1:17:35 [blogspot] 드라이버 버전 재확인 건너뜀(chromedriver 149 매칭 존재)
+오후 1:17:35 [blogspot] 본문 GPT 수집: 견고 대기 모드로 대체(빈응답 방지)
+오후 1:17:35 [blogspot] chatGPT() 본문 재작성: 브라우저 GPT로 대체(키 없이)
+오후 1:17:35 [blogspot] 블로그스팟 발행 모드: isDraft=False(실제 발행)
+오후 1:17:35 [blogspot] 발행: Blogger API → 브라우저 에디터(로그인 세션)로 교체
+오후 1:17:35 [blogspot] 이미지: Google Flow(Nano Banana) → Pollinations 다운로드로 교체
+오후 1:17:35 [blogspot] 백링크 검색(구글/다음) no-op 처리 — 무한루프 방지
+오후 1:17:35 [blogspot] 인증 서버를 로컬로 고정: http://127.0.0.1:4500/
+오후 1:17:35 [blogspot] 엔진 작업폴더 고정: E:\SynologyDrive\__alltotal\참고자료\블로그스팟
+오후 1:17:35 [blogspot] 로그인 아이디: jun231
+오후 1:17:35 [blogspot] 이미지 폴더: E:\SynologyDrive\__alltotal · 백링크: 맨위
+오후 1:17:35 [blogspot] 프로필 Singleton 잔재 정리: 학습chatGPT 선택시 자동 (0개)
+오후 1:17:35 [blogspot] 로그인/설정 값 주입 완료
+오후 1:17:37 [blogspot] ✖ 인증 호출 오류: 인증 서버에 연결하지 못했습니다 — 인터넷 연결을 확인하고 잠시 후 다시 시도하세요
