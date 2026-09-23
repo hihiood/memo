@@ -1,0 +1,212 @@
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text  <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<9월 7일 공지사항>>@@ 
+네이버 카페 업데이트 V2.10 다운로드 해주세요@@ 
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+학습chatGPT1
+이미지 모델 선택: Nano Banana 2
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\b708c67bb9d24cf893bab3af32de5329.pyd
+Running main() from the .pyd file...
+Captured output: 153
+내 크롬 버전 :: 153
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\2cb26a1934a94e6496bf05d8044088bb.pyd
+Running main() from the .pyd file...
+Captured output: 154
+최신 크롬 버전 :: 154
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\148f13ffd3b64beaa8b7733055243830.pyd
+Running main() from the .pyd file...
+Captured output: 153
+내 드라이버 버전 :: 153
+=========================================
+내 크롬 버전 :: 153
+최신 크롬 버전 :: 154
+내 드라이버 버전 :: 153
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\90596c4d32c2469b8b0eee24696cf2dd.pyd
+Running main() from the .pyd file...
+Captured output: 154
+내 크롬 버전 :: 154
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\a0a56cb6de094d4a9d993e789a63a4dc.pyd
+Running main() from the .pyd file...
+Captured output: 154
+최신 크롬 버전 :: 154
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\d006c780f7884837815186ed4bc74278.pyd
+Running main() from the .pyd file...
+Captured output: 153
+내 드라이버 버전 :: 153
+=========================================
+내 크롬 버전 :: 154
+최신 크롬 버전 :: 154
+내 드라이버 버전 :: 153
+드라이버 업데이트 필요
+드라이버 다운로드: 154.0.8037.57 -> https://storage.googleapis.com/chrome-for-testing-public/154.0.8037.57/win32/chromedriver-win32.zip
+최신화 후 드라이버 버전 :: ChromeDriver 154.0.8037.57 (73c14f6228d7cd537c855007e8f88678969cc0eb-refs/branch-heads/8037@{#1293})
+{insertreplycomment.get()} chatGPT10
+현재 브라우저 언어: ko-KR
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/Mychromecheck.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4cef450edff641d3b8b802ba221c6223.pyd
+Running main() from the .pyd file...
+Captured output: 154
+내 크롬 버전 :: 154
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/RealchromeVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\4c030923ed324fb2b77932605cc0d349.pyd
+Running main() from the .pyd file...
+Captured output: 154
+최신 크롬 버전 :: 154
+Downloading https://raw.githubusercontent.com/hihiood/publicTTF/main/driverVersion.cp310-win_amd64.pyd...
+Saved .pyd file to C:\Users\pc\AppData\Local\Temp\39a86f9e18844335878867723b73c11c.pyd
+Running main() from the .pyd file...
+Captured output: 154
+내 드라이버 버전 :: 154
+=========================================
+내 크롬 버전 :: 154
+최신 크롬 버전 :: 154
+내 드라이버 버전 :: 154
+통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기
+title 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기
+휴대폰 포렌식 진행 시간 때문에 조급했던 실제 이야기
+title 휴대폰 포렌식 진행 시간 때문에 조급했던 실제 이야기
+개인정보 유출이 걱정된 전주 고객이 안티포렌식을 선택한 사연
+title 개인정보 유출이 걱정된 전주 고객이 안티포렌식을 선택한 사연
+청주에서 안티포렌식 문의가 최근 크게 늘어난 이유
+title 청주에서 안티포렌식 문의가 최근 크게 늘어난 이유
+포렌식복구가 걱정돼 대전 고객이 스마트폰을 처분하지 못한 이유
+title 포렌식복구가 걱정돼 대전 고객이 스마트폰을 처분하지 못한 이유
+세종 고객이 포렌식복구 가능성을 확인하고 싶어 상담받은 사례
+title 세종 고객이 포렌식복구 가능성을 확인하고 싶어 상담받은 사례
+휴대폰 데이터 영구삭제를 했는데도 불안했다는 전주 고객의 이야기
+title 휴대폰 데이터 영구삭제를 했는데도 불안했다는 전주 고객의 이야기
+가족사진 때문에 청주 고객이 휴대폰 데이터 영구삭제를 고민한 이유
+title 가족사진 때문에 청주 고객이 휴대폰 데이터 영구삭제를 고민한 이유
+공장초기화 후 복구 확률은 얼마나 되나요?
+title 공장초기화 후 복구 확률은 얼마나 되나요?
+업체마다 성공률 차이가 있나요?
+title 업체마다 성공률 차이가 있나요?
+세종 고객이 하드디스크데이터복구 비용보다 더 걱정했던 한 가지
+title 세종 고객이 하드디스크데이터복구 비용보다 더 걱정했던 한 가지
+휴대폰 메인보드 손상 데이터 복구로 아이 사진을 찾은 실제 경험
+title 휴대폰 메인보드 손상 데이터 복구로 아이 사진을 찾은 실제 경험
+여행 중 고장 난 스마트폰 휴대폰 메인보드 고장 복구 후기 경험담
+title 여행 중 고장 난 스마트폰 휴대폰 메인보드 고장 복구 후기 경험담
+안티포렌식 비용보다 결과가 중요했던 세종 고객의 선택
+title 안티포렌식 비용보다 결과가 중요했던 세종 고객의 선택
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+
+title 
+전체 키워드 개수 :
+FIX_TWO_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None]
+HOMEPAGE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None]
+TELEPHONE_PATH_PATH :  [None None None None None None None None None None None None None None
+ None None None None None None None None None]
+Main_title_image_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None]
+Video_file_path :  [None None None None None None None None None None None None None None
+ None None None None None None None None None]
+엑셀 개수 23
+operate_check DB access----success!!
+타이틀에 ['네이버 : 로그인', '로그인', '네이버'] 포함된 Chrome 창이 없습니다.
+지금 아이디 :
+excel_counter 0
+hby6035
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation', '통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기', 'ko']
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation', '통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기', 'ko']
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation', '통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기', 'ko']
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+----------------------------import --------
+에러메세지 이미지 만들기
+name 'dirver_IMAGE' is not defined
+감지 안됨
+----------------------------
+----------------------------
+----------------------------
+번역 전 내용 :  통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기
+----------------------------
+----------------------------
+----------------------------
+check_word :  ['25', '7f']
+selected_elements_raw ['A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation', '통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기 통화기록 포렌식 상담 후 생각이 바뀐 고객 이야기', 'ko']
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+A story about a customer who changed his mind after a call record forensics consultation A story about a customer who changed his mind after a call record forensics consultation
+시작
+File saved to: C:\Users\pc\Desktop\cafe9\logfile.txt
