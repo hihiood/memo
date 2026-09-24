@@ -1,0 +1,990 @@
+errolinkQQ C:\Users\marketingCOM1\Desktop\워드프레스
+errolinkQQ_page3 C:\Users\marketingCOM1\Desktop\워드프레스
+DOCS_modelChunk not found.
+->new버전으로 동작
+extracted_text **2월 16일 긴급 공지! **@@
+16일 하루 프로그램 사용이 불가합니다.@@
+불편을 드려서 죄송합니다.@@ 
+<<2월 28일 공지사항>>@@ 
+Premium_wordpress_V2.27 다운 받아주세요@@
+ <<11월 24일 공지사항>>@@ 
+API 비용이 많이 나오시는 분은@ https://customprogram.co.kr/45/?bmode=view&idx=128089595&back_url=&t=board&page=@
+참고해주세요@
+ <<11월 16일 공지사항>>@@ 
+Premium_wordpress_V2.17 다운 받아주세요@@
+무료이미지 업데이트 필요하신분은 갠톡 주세요.@@
+ <<8월 15일 공지사항>>@@ 
+Premium_wordpress_V2.10 다운 받아주세요@@
+ <<7월 23일 공지사항>>@@ 
+뤼튼 업데이트 필요하신분은 갠톡 주세요@@
+ <<7월 3일 공지사항>>@@ 
+Premium_wordpress_V2.8.exe 다운로드 해주세요.@@ 
+<<6월 22일 공지사항>>@@ 
+프로그램 오류, 안되는 현상에 대한 상담은 저녁 7시 부터 가능합니다. 그 외 시간에 요청주시면 답변이 불가합니다@@
+<<6월 17일 공지사항>>@@ 
+이미지 오류, gpt 제목 오류 개선@@
+ <<5월 16일 공지사항>>@@ 
+GPT 오류 개선@@
+ <<4월 13일 공지사항>>@@ 
+글 색인시 alt 태그 오류 수정 / 표 중간정렬 / 모바일 색인 개선@@
+마지막 숫자 27 다운로드 부탁드립니다@@
+<<3월 20일 공지사항>>@@
+GPT에러 개선한 버전 : xxx_bard_multi24.exe@@
+글 더 풍부하게 나올수 있게 업데이트 완료@@
+바드 버전 출시 Premium_wordpress_V1.25_bard_multi22 버전업 해주세요@@
+multi21버전은 가끔 외국말 나오는 현상 개선한 버전입니다@@
+3월 31일 부터 4월14일까지 신혼여행으로 인해 프로그램 서비스가 잠시 중단됩니다. 프로그램 사용에는 문제되지 않지만 중간에 업데이트가 필요한경우 15일부터 순차적으로 진행하겠습니다. 감사합니다.@@
+제목 GPT 변환에 따옴표 나오는 현상 제거@@
+바드 소제목 다양하게 나오게 수정@@
+바드 프롬프트 정교화 작업 때문에 업데이트 빈도가 높습니다@@
+바드 사용시 무한 로딩 문제점 개선@@
+일부 워드프레스 이미지 업로드 문제점 개선@@
+GPT사용할때는 소제목 3개 권장 / 바드 사용할때는 소제목 6개 권장@@
+바드 API 발급받는방법 메뉴얼 꼭 숙지해주시고 저한테 보내주세요^^@@
+다운로드 링크 : https://1drv.ms/f/s!ArVRkWR0_GfA67cXKmsUblp1-Lhr8Q?e=exuoZr
+학습chatGPT2
+맨아래
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 153
+내 크롬 버전 :: 153
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 154
+최신 크롬 버전 :: 154
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 153
+내 드라이버 버전 :: 153
+=========================================
+내 크롬 버전 :: 153
+최신 크롬 버전 :: 154
+내 드라이버 버전 :: 153
+버전업 필요
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\marketingCOM1\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=153
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.21s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 153
+내 크롬 버전 :: 153
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 154
+최신 크롬 버전 :: 154
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 153
+내 드라이버 버전 :: 153
+=========================================
+내 크롬 버전 :: 153
+최신 크롬 버전 :: 154
+내 드라이버 버전 :: 153
+버전업 필요
+경로가 존재합니다!
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+title 강남유앤미
+title 강남퍼펙트
+title 강남달리는토끼
+title 강남달토
+title 강남달토
+title 강남달토, 강남달리는토끼
+title 강남도파민
+title 강남사라있네
+title 강남사라있네
+title 강남엘리트
+title 강남유앤미
+IDPW 개수: 526
+[image_prompt_별도] 컬럼 없음 → 기능 비활성화
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+❌ 현재 서버 장애 감지: https://sgtestflask.autoprogram.blog/
+⚠ 백업 서버 시도: https://vmwareflask.autoprogram.life/
+➡ 절체 성공 → 현재 서버: https://vmwareflask.autoprogram.life/
+🔄 라디오 버튼 자동 변경 → 서버2 선택됨
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:\Users\marketingCOM1\Desktop\워드프레스\Image6.jpg
+image0.png로 저장 완료.
+chef 강남달리는토끼
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:\Users\marketingCOM1\Desktop\워드프레스
+image_file Image0.png
+img_sub_send 155812
+❌ 현재 서버 장애 감지: https://vmwareflask.autoprogram.life/
+⚠ 백업 서버 시도: https://sgtestflask.autoprogram.blog/
+🚨 모든 서버 장애 → preferred_server 반환
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+driver_gpt23 <undetected_chromedriver.Chrome (session="9db8ac1985f50158b162dd28f77a9e20")>
+체크3
+buffers_gmemoF ['https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable']
+ID_gmemo https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+체크4
+현재 URL: https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+수집된 텍스트: 주제 : 강남달리는토끼 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+>>체1
+>>체2
+>>체3
+---체
+사이드바 열기
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+None
+---끝
+---체
+검색
+---끝
+---체
+사이드바 닫기
+---끝
+---체
+새 프로젝트
+---끝
+---체
+None
+---끝
+---체
+프로젝트 홈 열기
+---끝
+---체
+강남 홈페이지 만들기 프로젝트 옵션 열기
+---끝
+---체
+None
+---끝
+---체
+채팅 정리
+---끝
+---체
+꽃게찜 선택과 양 고정
+---끝
+---체
+꽃게찜 선택과 양의 대화 옵션 열기
+---끝
+---체
+주간 유통마케팅 요약 고정
+---끝
+---체
+주간 유통마케팅 요약의 대화 옵션 열기
+---끝
+---체
+고급 집 배경 변경 고정
+---끝
+---체
+고급 집 배경 변경의 대화 옵션 열기
+---끝
+---체
+검색량 비교 고정
+---끝
+---체
+검색량 비교의 대화 옵션 열기
+---끝
+---체
+구글 서치콘솔 문제 확인 고정
+---끝
+---체
+구글 서치콘솔 문제 확인의 대화 옵션 열기
+---끝
+---체
+구글 SEO 상위 노출 방법 고정
+---끝
+---체
+구글 SEO 상위 노출 방법의 대화 옵션 열기
+---끝
+---체
+코드 재배치 완료 고정
+---끝
+---체
+코드 재배치 완료의 대화 옵션 열기
+---끝
+---체
+CLS 찌그덕 소리 원인 તપાસ 고정
+---끝
+---체
+CLS 찌그덕 소리 원인 તપાસ의 대화 옵션 열기
+---끝
+---체
+청담동 심야카페 추천 고정
+---끝
+---체
+청담동 심야카페 추천의 대화 옵션 열기
+---끝
+---체
+고화질 수정cuntegn 고정
+---끝
+---체
+고화질 수정cuntegn의 대화 옵션 열기
+---끝
+---체
+맥세이프 고속충전 여부 고정
+---끝
+---체
+맥세이프 고속충전 여부의 대화 옵션 열기
+---끝
+---체
+부천휴대폰성지 글쓰기 고정
+---끝
+---체
+부천휴대폰성지 글쓰기의 대화 옵션 열기
+---끝
+---체
+블로그 글 작성 고정
+---끝
+---체
+블로그 글 작성의 대화 옵션 열기
+---끝
+---체
+강남베이직 글 작성 고정
+---끝
+---체
+강남베이직 글 작성의 대화 옵션 열기
+---끝
+---체
+블로그 글 작성 고정
+---끝
+---체
+블로그 글 작성의 대화 옵션 열기
+---끝
+---체
+다시 오신 걸 환영합니다 고정
+---끝
+---체
+다시 오신 걸 환영합니다의 대화 옵션 열기
+---끝
+---체
+아이디 변경 요청 고정
+---끝
+---체
+아이디 변경 요청의 대화 옵션 열기
+---끝
+---체
+핸드폰 글씨 조조 고정
+---끝
+---체
+핸드폰 글씨 조조의 대화 옵션 열기
+---끝
+---체
+문구 수정 요청 고정
+---끝
+---체
+문구 수정 요청의 대화 옵션 열기
+---끝
+---체
+부평 폰마켓 숏폼 고정
+---끝
+---체
+부평 폰마켓 숏폼의 대화 옵션 열기
+---끝
+---체
+인조잔디묘 시공 체크리스트 고정
+---끝
+---체
+인조잔디묘 시공 체크리스트의 대화 옵션 열기
+---끝
+---체
+사용법 안내 고정
+---끝
+---체
+사용법 안내의 대화 옵션 열기
+---끝
+---체
+움직이는 영상 변환 고정
+---끝
+---체
+움직이는 영상 변환의 대화 옵션 열기
+---끝
+---체
+인천 부평 휴대폰성지 고정
+---끝
+---체
+인천 부평 휴대폰성지의 대화 옵션 열기
+---끝
+---체
+이미지 비율 변경 요청 고정
+---끝
+---체
+이미지 비율 변경 요청의 대화 옵션 열기
+---끝
+---체
+휴대폰성지 SEO GEO 최적화 고정
+---끝
+---체
+휴대폰성지 SEO GEO 최적화의 대화 옵션 열기
+---끝
+---체
+부천휴대폰성지 구매 팁 고정
+---끝
+---체
+부천휴대폰성지 구매 팁의 대화 옵션 열기
+---끝
+---체
+부천휴대폰성지 구매법 고정
+---끝
+---체
+부천휴대폰성지 구매법의 대화 옵션 열기
+---끝
+---체
+앱 다운로드
+---끝
+---체
+GPT 작업 열기
+---끝
+---체
+펼치기
+---끝
+---체
+파일 등 추가
+---끝
+---체
+Thinking, 클릭해 제거
+---끝
+---체
+None
+---끝
+---체
+받아쓰기 시작
+---끝
+---체
+프롬프트 보내기
+---끝
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+답변 중지 버튼이 감지되었습니다. 10초 대기합니다. in gpt
+----------------------------import --------
+에러메세지 mine gpt -while check2 -> 문제 안됨
+Message: 
+Stacktrace:
+	undetected_chromedriver!GetHandleVerifier [0x1231c13+4e33]
+	undetected_chromedriver!(No symbol) [0x114d134]
+	undetected_chromedriver!(No symbol) [0xf8c0b0]
+	undetected_chromedriver!(No symbol) [0xfd7066]
+	undetected_chromedriver!(No symbol) [0xfd723b]
+	undetected_chromedriver!(No symbol) [0x101b782]
+	undetected_chromedriver!(No symbol) [0xff9af4]
+	undetected_chromedriver!(No symbol) [0x1018ff3]
+	undetected_chromedriver!(No symbol) [0xff9846]
+	undetected_chromedriver!(No symbol) [0xfcbe6a]
+	undetected_chromedriver!(No symbol) [0xfccb44]
+	undetected_chromedriver!GetHandleVerifier [0x169792a+46ab4a]
+	undetected_chromedriver!GetHandleVerifier [0x16b940b+48c62b]
+	undetected_chromedriver!GetHandleVerifier [0x1354262+127482]
+	undetected_chromedriver!GetHandleVerifier [0x135af73+12e193]
+	undetected_chromedriver!(No symbol) [0x115b258]
+	undetected_chromedriver!(No symbol) [0x1156588]
+	undetected_chromedriver!(No symbol) [0x1156735]
+	undetected_chromedriver!(No symbol) [0x1142b77]
+	KERNEL32!BaseThreadInitThunk [0x75bbfcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x779482ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7794827e+ee]
+
+collected_text 주제 : 강남달리는토끼 / 수집한 글은 다음과 같아 : - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 / 블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에 관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/ <b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightblue; text-align:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+matches2: 전체 제목(20자30자), 전체 제목(20자30자)
+text2: , , 내용
+kkq3: 
+kkq4: 
+kkq5: 
+kkq6: 
+kkq7: 
+kkq8: 
+final_img_path C:\Users\marketingCOM1\Desktop\워드프레스\titled_image.png
+final_img_path C:\Users\marketingCOM1\Desktop\워드프레스\titled_image.png
+이미지 경로 :  C:\Users\marketingCOM1\Desktop\워드프레스\titled_image
+이미지 경로 :  C:\Users\marketingCOM1\Desktop\워드프레스\titled_image
+이미지 경로 :  C:\Users\marketingCOM1\Desktop\워드프레스\titled_image
+이미지 경로 :  C:\Users\marketingCOM1\Desktop\워드프레스\titled_image
+제목  전체 제목(20자30자), 전체 제목(20자30자)
+[upload_title_image_to_wp] image_path C:\Users\marketingCOM1\Desktop\워드프레스/titled_image.png
+status: 201
+response: {"id":22184,"date":"2026-09-24T16:08:03","date_gmt":"2026-09-24T07:08:03","guid":{"rendered":"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg","raw":"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg"},"modified":"2026-09-24T16:08:03","modified_gmt":"2026-09-24T07:08:03","slug":"titled_image-11073","status":"inherit","type":"attachment","link":"https:\/\/karaokeperfect.shop\/titled_image-11073\/","title":{"raw":"titled_image","rendered":"titled_image"},"author":1,"featured_media":0,"comment_status":"open","ping_status":"closed","template":"","meta":[],"permalink_template":"https:\/\/karaokeperfect.shop\/?attachment_id=22184","generated_slug":"titled_image-11073","class_list":["post-22184","attachment","type-attachment","status-inherit","hentry"],"description":{"raw":"","rendered":"<p class=\"attachment\"><a href='https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"265\" height=\"265\" src=\"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg 265w, https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237-150x150.jpg 150w\" sizes=\"auto, (max-width: 265px) 100vw, 265px\" \/><\/a><\/p>\n"},"caption":{"raw":"","rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":265,"height":265,"file":"2026\/09\/titled_image-1237.jpg","filesize":10089,"sizes":{"thumbnail":{"file":"titled_image-1237-150x150.jpg","width":150,"height":150,"filesize":3445,"mime_type":"image\/jpeg","source_url":"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237-150x150.jpg"},"full":{"file":"titled_image-1237.jpg","width":265,"height":265,"mime_type":"image\/jpeg","source_url":"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[],"alt":""}},"post":null,"source_url":"https:\/\/karaokeperfect.shop\/wp-content\/uploads\/2026\/09\/titled_image-1237.jpg","missing_image_sizes":[],"filename":"titled_image-1237.jpg","filesize":10089,"exif_orientation":1,"image_output_format":null,"image_save_progressive":false,"image_quality":{"default":82,"sizes":[]},"_links":{"self":[{"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/media\/22184","targetHints":{"allow":["GET","POST","PUT","PATCH","DELETE"]}}],"collection":[{"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/comments?post=22184"}],"wp:action-unfiltered-html":[{"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/media\/22184"}],"wp:action-assign-author":[{"href":"https:\/\/karaokeperfect.shop\/wp-json\/wp\/v2\/media\/22184"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+타이틀 이미지 URL 적용완료: https://karaokeperfect.shop/wp-content/uploads/2026/09/titled_image-1237.jpg
+성공 code:201
+16시 08분 07초
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\워드프레스\logfile.txt
