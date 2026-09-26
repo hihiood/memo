@@ -1,0 +1,259 @@
+[wordpress_new] 보낸이=ans5vud 기기=ac2b6e2190bb-DESKTOP-FNVVI0Q 시각=2026-09-26 21:22:45
+
+======================================================================
+[19:26:16] WordPress Auto Publisher 시작 · 2026-09-26 19:26:16 · C:\Users\ABCD\Downloads
+[19:26:16] 빌드 20260922-2215·01643535
+
+======================================================================
+[19:26:17] WordPress Auto Publisher 시작 · 2026-09-26 19:26:17 · C:\Users\ABCD\Downloads
+[19:26:17] 빌드 20260922-2215·01643535
+[19:26:19] 로그인 성공 · id=ans5vud
+[19:26:20] 탭 이동 · 1  프롬프트 조정
+[19:26:20] 메인 화면 시작 · 사이트 1개
+[19:26:24] 탭 이동 · 3  포스팅
+[19:26:24] 탭 이동 · 2  사전 및 후속작업
+[19:26:36] 탭 이동 · 3  포스팅
+[19:26:36] 탭 이동 · 4  스케줄
+[19:26:37] 클릭 · ▦ 대량 스케줄 열기
+[19:26:48] 올릴 시각 다시 잡음 · 91건 · 간격 480분
+[19:26:48] 클릭 · SEO 검사 후 대량 실행
+[19:34:08] !! 원고 생성 실패 1/3 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[19:40:20] !! 원고 생성 실패 2/3 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[19:46:32] !! 원고 생성 실패 3/3 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[19:46:32] !! 스케줄 원고 생성 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7421, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[19:53:54] !! 원고 생성 실패 1/3 · 서해구 방충망 틀 수리
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[19:59:29] 탭 이동 · 2  사전 및 후속작업
+[19:59:44] 클릭 · 로그인 열기
+
+======================================================================
+[19:59:56] WordPress Auto Publisher 시작 · 2026-09-26 19:59:56 · C:\Users\ABCD\Downloads
+[19:59:56] 빌드 20260922-2215·01643535
+[19:59:59] 로그인 성공 · id=ans5vud
+[20:00:00] 탭 이동 · 1  프롬프트 조정
+[20:00:00] 메인 화면 시작 · 사이트 1개
+[20:00:10] 탭 이동 · 2  사전 및 후속작업
+[20:00:17] 탭 이동 · 3  포스팅
+[20:00:17] 탭 이동 · 4  스케줄
+[20:00:18] 클릭 · ▦ 대량 스케줄 열기
+[20:00:51] 올릴 시각 다시 잡음 · 91건 · 간격 480분
+[20:00:51] 클릭 · SEO 검사 후 대량 실행
+[20:08:11] !! 원고 생성 실패 1/3 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:14:23] !! 원고 생성 실패 2/3 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:20:35] !! 원고 생성 실패 3/3 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:20:35] !! 스케줄 원고 생성 · 서해구 미세방충망
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7421, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:27:58] !! 원고 생성 실패 1/3 · 서해구 방충망 틀 수리
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:34:10] !! 원고 생성 실패 2/3 · 서해구 방충망 틀 수리
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:40:22] !! 원고 생성 실패 3/3 · 서해구 방충망 틀 수리
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:40:22] !! 스케줄 원고 생성 · 서해구 방충망 틀 수리
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7421, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:46:25] !! 원고 생성 실패 1/3 · 검단구 방충망 모헤어 교체
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:52:37] !! 원고 생성 실패 2/3 · 검단구 방충망 모헤어 교체
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:58:50] !! 원고 생성 실패 3/3 · 검단구 방충망 모헤어 교체
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+[20:58:50] !! 스케줄 원고 생성 · 검단구 방충망 모헤어 교체
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 7421, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 7394, in able_seo_bundle.BulkSchedulerWindow._run_jobs
+  File "able_seo_bundle.py", line 3824, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3821, in able_seo_bundle.ChatGPTWeb.generate
+  File "able_seo_bundle.py", line 3685, in able_seo_bundle.ChatGPTWeb.ensure_project
+  File "able_seo_bundle.py", line 3587, in able_seo_bundle.ChatGPTWeb._create_project
+  File "able_seo_bundle.py", line 3550, in able_seo_bundle.ChatGPTWeb._wait_for_projects_page
+  File "selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
