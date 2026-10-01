@@ -1,0 +1,599 @@
+[wordpress_new] 보낸이=able 기기=1c1b0da9de66-LIM 시각=2026-10-01 18:40:07
+
+======================================================================
+[15:06:52] WordPress Auto Publisher 시작 · 2026-10-01 15:06:52 · C:\Users\IN\Desktop\프로그램\워드프레스
+[15:06:52] 빌드 20260927-0023·e6d46055
+[15:07:04] 로그인 성공 · id=able
+[15:07:05] 탭 이동 · 1  프롬프트 조정
+[15:07:05] 메인 화면 시작 · 사이트 2개
+[15:08:18] 클릭 · ＋ 추가
+[15:09:26] 클릭 · WordPress 프로필 열기
+[15:09:33] 클릭 · ⚙ 사이트 설정
+[15:09:40] 클릭 · ＋ 추가
+[15:10:48] 클릭 · WordPress 프로필 열기
+[15:11:44] 클릭 · 현재 사이트 정보 적용
+[15:11:53] 클릭 · 전체 설정 저장
+[15:11:55] 클릭 · ⚙ 사이트 설정
+[15:12:04] 클릭 · 불러오는 중...
+[15:12:24] 클릭 · 불러오는 중...
+[15:12:26] 클릭 · 현재 사이트 정보 적용
+[15:12:37] 클릭 · 현재 사이트 정보 적용
+[15:12:48] 클릭 · ⚙ 사이트 설정
+[15:14:45] 탭 이동 · 2  사전 및 후속작업
+[15:14:53] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:15:04] 작업 시작 · 케어매치 관리자 자동 로그인 중...
+[15:15:04] 클릭 · 자동 로그인
+[15:15:19] !! 작업 실패 · 케어매치 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:19] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:21] 작업 시작 · 케어매치 관리자 자동 로그인 중...
+[15:15:21] 클릭 · 자동 로그인
+[15:15:33] !! 작업 실패 · 케어매치 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:33] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:37] 탭 이동 · 1  프롬프트 조정
+[15:15:50] 클릭 · ⚙ 사이트 설정
+[15:15:54] 클릭 · ⚙ 사이트 설정
+[15:15:55] 탭 이동 · 2  사전 및 후속작업
+[15:15:58] 작업 시작 · 케어매치 관리자 자동 로그인 중...
+[15:15:58] 클릭 · 자동 로그인
+[15:16:00] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:16:13] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:19:20] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:19:20] 클릭 · 연결 고치기
+[15:21:12] 자동화 연결 막힘 · 에이블 교통사고 · 사이트 서버에 문제가 있습니다 (502).
+[15:21:12] 자동화 연결 막힘 · 케어매치 · 사이트 서버에 문제가 있습니다 (502).
+[15:21:21] 클릭 · ↻ 연결 상태 새로고침
+[15:21:25] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:21:31] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:21:31] 클릭 · 연결 고치기
+[15:22:11] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:22:21] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:22:21] 클릭 · 연결 고치기
+[15:22:58] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:23:39] 클릭 · ↻ 연결 상태 새로고침
+[15:23:40] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:25:14] 클릭 · 연결 고치기
+[15:25:24] 클릭 · ⚙ 사이트 설정
+[15:27:04] 클릭 · 연결 고치기
+[15:27:23] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:27:23] 클릭 · 연결 고치기
+[15:27:59] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:28:13] 클릭 · ↻ 연결 상태 새로고침
+[15:28:16] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:44:42] 클릭 · 로그인 열기
+[15:44:46] 클릭 · ↻ 연결 상태 새로고침
+[15:44:51] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:45:05] 클릭 · 로그인 열기
+[15:45:18] 클릭 · 로그인 열기
+[15:47:59] 클릭 · ↻ 연결 상태 새로고침
+[15:48:04] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:48:20] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:48:20] 클릭 · 연결 고치기
+[15:48:20] !! 사이트 연결 고치기 · 케어매치
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:20] !! 사이트 연결 고치기
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:25] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:48:35] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:48:35] 클릭 · 연결 고치기
+[15:48:35] !! 사이트 연결 고치기 · 케어매치
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:35] !! 사이트 연결 고치기
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:38] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:50:50] 클릭 · ↻ 연결 상태 새로고침
+[15:50:53] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:51:15] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:51:15] 클릭 · 연결 고치기
+[15:51:52] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:52:03] 클릭 · ↻ 연결 상태 새로고침
+[15:52:07] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:54:28] 로그 깃 전송 완료 · https://sgtestflask.autoprogram.blog/go_write_github
+[15:54:30] 클릭 · 🗂 로그 저장
+[15:56:11] 클릭 · ! 발급 방법
+[15:56:12] 클릭 · WordPress 프로필 열기
+[15:56:30] 클릭 · ! 발급 방법
+[15:57:00] 클릭 · 지금 선택한 사이트의 WordPress 프로필 열기
+[15:57:10] 클릭 · ! 발급 방법
+[15:57:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:20] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:20] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:20] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:20] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:20] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:22] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[15:57:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:04:55] 클릭 · 현재 사이트 정보 적용
+[16:04:56] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:04:56] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:04:58] 클릭 · ⚙ 사이트 설정
+[16:05:33] 작업 시작 · 케어매치 연결을 고치는 중...
+[16:05:33] 클릭 · 연결 고치기
+[16:58:13] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:14] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[16:58:16] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:15] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 10026, in able_seo_bundle.CredentialManualWindow.__init__.lambda133
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!sitemanager7.!credentialmanualwindow2.!frame3.!canvas"
+
+[17:02:18] 클릭 · ? 사용 설명서
+[17:11:20] 클릭 · 로그인 열기
+[17:12:51] 클릭 · ↻ 연결 상태 새로고침
+[17:13:01] 탭 이동 · 3  포스팅
+[17:13:01] 탭 이동 · 2  사전 및 후속작업
+[17:13:04] 탭 이동 · 3  포스팅
+[17:13:08] 작업 시작 · 카테고리 조회 중...
+[17:13:08] 클릭 · ↻ 카테고리 자동 불러오기
+[17:21:38] 클릭 · ▶ 대량 생성 시작
+[17:32:18] 클릭 · ■ 중지
+[17:32:32] 클릭 · ▶ 대량 생성 시작
+[17:32:40] 클릭 · ▶ 대량 생성 시작
+[17:32:41] 클릭 · ■ 중지
+[17:32:57] 탭 이동 · 2  사전 및 후속작업
+[17:32:57] 탭 이동 · 3  포스팅
+[17:33:00] 클릭 · ■ 중지
+[17:33:01] 작업 시작 · 카테고리 조회 중...
+[17:33:01] 클릭 · ↻ 카테고리 자동 불러오기
+[17:33:09] 작업 시작 · 카테고리 조회 중...
+[17:33:09] 클릭 · ↻ 카테고리 자동 불러오기
+[17:33:10] 클릭 · ■ 중지
+[17:33:11] 클릭 · ▶ 대량 생성 시작
+[17:33:15] 탭 이동 · 2  사전 및 후속작업
+
+======================================================================
+[17:33:47] WordPress Auto Publisher 시작 · 2026-10-01 17:33:47 · C:\Users\IN\Desktop\프로그램\워드프레스
+[17:33:47] 빌드 20260927-0023·e6d46055
+
+======================================================================
+[17:33:47] WordPress Auto Publisher 시작 · 2026-10-01 17:33:47 · C:\Users\IN\Desktop\프로그램\워드프레스
+[17:33:47] 빌드 20260927-0023·e6d46055
+[17:33:51] 로그인 성공 · id=able
+[17:33:52] 탭 이동 · 1  프롬프트 조정
+[17:33:52] 메인 화면 시작 · 사이트 3개
+[17:33:56] 탭 이동 · 3  포스팅
+[17:33:56] 탭 이동 · 2  사전 및 후속작업
+[17:33:57] 탭 이동 · 1  프롬프트 조정
+[17:33:57] 탭 이동 · 2  사전 및 후속작업
+[17:34:40] 클릭 · ✓ 완료로 치우기
+[17:34:43] 탭 이동 · 3  포스팅
+[17:35:55] 클릭 · ↻ 카테고리 자동 불러오기
+[17:35:56] 작업 시작 · 카테고리 조회 중...
+[17:35:56] 클릭 · ↻ 카테고리 자동 불러오기
+[17:36:05] 클릭 · ▶ 대량 생성 시작
+[17:47:58] !! 대량 포스팅 실패 · 재택간병이란 무엇일까요?
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 8496, in able_seo_bundle.PostingTabMixin._bulk_worker
+  File "able_seo_bundle.py", line 4661, in able_seo_bundle.ClaudeWeb.generate
+  File "able_seo_bundle.py", line 4644, in able_seo_bundle.ClaudeWeb._send_and_wait
+RuntimeError: 클로드 응답을 기다리다 시간이 지났습니다(5분).
+
+[17:52:42] 탭 이동 · 4  스케줄
+[17:52:48] 탭 이동 · 3  포스팅
+[17:52:49] 탭 이동 · 5  히스토리
+[17:52:59] 탭 이동 · 4  스케줄
+[17:52:59] 탭 이동 · 3  포스팅
+[17:53:01] !! 대량 포스팅 실패 · 가족간병이란 무엇일까요?
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 8496, in able_seo_bundle.PostingTabMixin._bulk_worker
+  File "able_seo_bundle.py", line 4661, in able_seo_bundle.ClaudeWeb.generate
+  File "able_seo_bundle.py", line 4644, in able_seo_bundle.ClaudeWeb._send_and_wait
+RuntimeError: 클로드 응답을 기다리다 시간이 지났습니다(5분).
+
+[17:53:15] 클릭 · ▶ 대량 생성 시작
+[18:02:28] !! 대량 포스팅 실패 · 재택간병이란 무엇일까요?
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 8508, in able_seo_bundle.PostingTabMixin._bulk_worker
+  File "able_seo_bundle.py", line 4694, in able_seo_bundle.ClaudeWeb.revise_for_seo
+  File "able_seo_bundle.py", line 4644, in able_seo_bundle.ClaudeWeb._send_and_wait
+RuntimeError: 클로드 응답을 기다리다 시간이 지났습니다(5분).
+
+[18:07:31] !! 대량 포스팅 실패 · 가족간병이란 무엇일까요?
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 8496, in able_seo_bundle.PostingTabMixin._bulk_worker
+  File "able_seo_bundle.py", line 4661, in able_seo_bundle.ClaudeWeb.generate
+  File "able_seo_bundle.py", line 4644, in able_seo_bundle.ClaudeWeb._send_and_wait
+RuntimeError: 클로드 응답을 기다리다 시간이 지났습니다(5분).
+
+[18:08:57] 클릭 · ? 사용 설명서
+[18:09:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 9800, in able_seo_bundle.ManualWindow.__init__.lambda127
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow.!frame3.!canvas"
+
+[18:09:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 9800, in able_seo_bundle.ManualWindow.__init__.lambda127
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow.!frame3.!canvas"
+
+[18:09:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 9800, in able_seo_bundle.ManualWindow.__init__.lambda127
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow.!frame3.!canvas"
+
+[18:09:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 9800, in able_seo_bundle.ManualWindow.__init__.lambda127
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow.!frame3.!canvas"
+
+[18:09:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 9800, in able_seo_bundle.ManualWindow.__init__.lambda127
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow.!frame3.!canvas"
+
+[18:09:27] !! 화면 동작 중 오류
+Traceback (most recent call last):
+  File "tkinter\__init__.py", line 1921, in __call__
+  File "able_seo_bundle.py", line 9800, in able_seo_bundle.ManualWindow.__init__.lambda127
+  File "tkinter\__init__.py", line 1967, in yview_scroll
+_tkinter.TclError: invalid command name ".!manualwindow.!frame3.!canvas"
+
+[18:09:32] 클릭 · ▶ 대량 생성 시작
+[18:20:31] !! 대량 포스팅 실패 · 가족간병이란 무엇일까요?
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 8496, in able_seo_bundle.PostingTabMixin._bulk_worker
+  File "able_seo_bundle.py", line 4661, in able_seo_bundle.ClaudeWeb.generate
+  File "able_seo_bundle.py", line 4644, in able_seo_bundle.ClaudeWeb._send_and_wait
+RuntimeError: 클로드 응답을 기다리다 시간이 지났습니다(5분).
+
+[18:39:33] 클릭 · ? 사용 설명서
