@@ -1,0 +1,129 @@
+[wordpress_new] 보낸이=able 기기=1c1b0da9de66-LIM 시각=2026-10-01 15:54:09
+
+======================================================================
+[15:06:52] WordPress Auto Publisher 시작 · 2026-10-01 15:06:52 · C:\Users\IN\Desktop\프로그램\워드프레스
+[15:06:52] 빌드 20260927-0023·e6d46055
+[15:07:04] 로그인 성공 · id=able
+[15:07:05] 탭 이동 · 1  프롬프트 조정
+[15:07:05] 메인 화면 시작 · 사이트 2개
+[15:08:18] 클릭 · ＋ 추가
+[15:09:26] 클릭 · WordPress 프로필 열기
+[15:09:33] 클릭 · ⚙ 사이트 설정
+[15:09:40] 클릭 · ＋ 추가
+[15:10:48] 클릭 · WordPress 프로필 열기
+[15:11:44] 클릭 · 현재 사이트 정보 적용
+[15:11:53] 클릭 · 전체 설정 저장
+[15:11:55] 클릭 · ⚙ 사이트 설정
+[15:12:04] 클릭 · 불러오는 중...
+[15:12:24] 클릭 · 불러오는 중...
+[15:12:26] 클릭 · 현재 사이트 정보 적용
+[15:12:37] 클릭 · 현재 사이트 정보 적용
+[15:12:48] 클릭 · ⚙ 사이트 설정
+[15:14:45] 탭 이동 · 2  사전 및 후속작업
+[15:14:53] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:15:04] 작업 시작 · 케어매치 관리자 자동 로그인 중...
+[15:15:04] 클릭 · 자동 로그인
+[15:15:19] !! 작업 실패 · 케어매치 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:19] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:21] 작업 시작 · 케어매치 관리자 자동 로그인 중...
+[15:15:21] 클릭 · 자동 로그인
+[15:15:33] !! 작업 실패 · 케어매치 관리자 자동 로그인 중...
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:33] !! 포스팅 작업
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 10799, in able_seo_bundle.App.run_bg.work
+  File "able_seo_bundle.py", line 11503, in able_seo_bundle.App.auto_login_wordpress.task
+  File "able_seo_bundle.py", line 2184, in able_seo_bundle.wordpress_login
+RuntimeError: 로그인이 거부되었습니다: ERROR: Incorrect password. Lost your password?
+
+[15:15:37] 탭 이동 · 1  프롬프트 조정
+[15:15:50] 클릭 · ⚙ 사이트 설정
+[15:15:54] 클릭 · ⚙ 사이트 설정
+[15:15:55] 탭 이동 · 2  사전 및 후속작업
+[15:15:58] 작업 시작 · 케어매치 관리자 자동 로그인 중...
+[15:15:58] 클릭 · 자동 로그인
+[15:16:00] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:16:13] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:19:20] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:19:20] 클릭 · 연결 고치기
+[15:21:12] 자동화 연결 막힘 · 에이블 교통사고 · 사이트 서버에 문제가 있습니다 (502).
+[15:21:12] 자동화 연결 막힘 · 케어매치 · 사이트 서버에 문제가 있습니다 (502).
+[15:21:21] 클릭 · ↻ 연결 상태 새로고침
+[15:21:25] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:21:31] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:21:31] 클릭 · 연결 고치기
+[15:22:11] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:22:21] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:22:21] 클릭 · 연결 고치기
+[15:22:58] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:23:39] 클릭 · ↻ 연결 상태 새로고침
+[15:23:40] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:25:14] 클릭 · 연결 고치기
+[15:25:24] 클릭 · ⚙ 사이트 설정
+[15:27:04] 클릭 · 연결 고치기
+[15:27:23] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:27:23] 클릭 · 연결 고치기
+[15:27:59] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:28:13] 클릭 · ↻ 연결 상태 새로고침
+[15:28:16] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:44:42] 클릭 · 로그인 열기
+[15:44:46] 클릭 · ↻ 연결 상태 새로고침
+[15:44:51] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:45:05] 클릭 · 로그인 열기
+[15:45:18] 클릭 · 로그인 열기
+[15:47:59] 클릭 · ↻ 연결 상태 새로고침
+[15:48:04] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:48:20] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:48:20] 클릭 · 연결 고치기
+[15:48:20] !! 사이트 연결 고치기 · 케어매치
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:20] !! 사이트 연결 고치기
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:25] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:48:35] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:48:35] 클릭 · 연결 고치기
+[15:48:35] !! 사이트 연결 고치기 · 케어매치
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:35] !! 사이트 연결 고치기
+Traceback (most recent call last):
+  File "able_seo_bundle.py", line 12315, in able_seo_bundle.App.repair_site_connection.task
+  File "able_seo_bundle.py", line 4932, in able_seo_bundle.install
+able_seo_bundle.BridgeInstallError: 같은 프로필로 크롬이 실행 중입니다. 그 창을 닫고 다시 시도하세요.
+
+[15:48:38] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:50:50] 클릭 · ↻ 연결 상태 새로고침
+[15:50:53] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:51:15] 작업 시작 · 케어매치 연결을 고치는 중...
+[15:51:15] 클릭 · 연결 고치기
+[15:51:52] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
+[15:52:03] 클릭 · ↻ 연결 상태 새로고침
+[15:52:07] 자동화 연결 막힘 · 케어매치 · 이 사이트가 프로그램의 로그인 정보를 받아 주지 않습니다 (401).
