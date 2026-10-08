@@ -1,0 +1,650 @@
+errolinkQQ C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+errolinkQQ_page3 C:\Users\marketingCOM1\Desktop\tistory
+맨아래
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input 
+use_chatgpt False
+provider_key naver
+profile_input gtp
+use_chatgpt False
+provider_key naver
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 크롬 버전 :: 155
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+최신 크롬 버전 :: 155
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 드라이버 버전 :: 155
+=========================================
+내 크롬 버전 :: 155
+최신 크롬 버전 :: 155
+내 드라이버 버전 :: 155
+{insertreplycomment.get()} gtp
+manual_user_data_dir: C:\Users\marketingCOM1\chromeCookie\Profile gtp
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=155
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] 실행 성공 (로컬드라이버, 시도 1/2, 0.9초)
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.63s
+크롬 all set
+현재 브라우저 언어: ko-KR
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 크롬 버전 :: 155
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+최신 크롬 버전 :: 155
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 드라이버 버전 :: 155
+=========================================
+내 크롬 버전 :: 155
+최신 크롬 버전 :: 155
+내 드라이버 버전 :: 155
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\marketingCOM1\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=155
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] 실행 성공 (로컬드라이버, 시도 1/2, 0.8초)
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.18s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 크롬 버전 :: 155
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+최신 크롬 버전 :: 155
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 드라이버 버전 :: 155
+=========================================
+내 크롬 버전 :: 155
+최신 크롬 버전 :: 155
+내 드라이버 버전 :: 155
+경로가 존재합니다!
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+IDPW 개수: 49
+맨아래
+프로젝트GPT
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 크롬 버전 :: 155
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+최신 크롬 버전 :: 155
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 드라이버 버전 :: 155
+=========================================
+내 크롬 버전 :: 155
+최신 크롬 버전 :: 155
+내 드라이버 버전 :: 155
+경로가 존재합니다!
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+IDPW 개수: 49
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:\Users\marketingCOM1\Desktop\tistory\새 폴더\Image7.jpg
+image0.png로 저장 완료.
+chef 부천휴대폰성지
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+image_file Image0.png
+img_sub_send 290552
+dir_path C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="617fb46cb4ff508bc4edf514f70f256f")>
+체크3
+[프로젝트GPT] 목록 0개 중 "티스토리블로그프로젝트" 없음
+[프로젝트GPT] "티스토리블로그프로젝트" 가 없어 새로 만듭니다
+[프로젝트GPT] 생성창 열기 시도 1 (aria '새 프로젝트 추가') -> False
+[프로젝트GPT] 생성창 열기 시도 2 (text ('만들기', 'Create')) -> False
+[프로젝트GPT] 생성창 열기 시도 3 (text ('새 프로젝트', '프로젝트 만들기', 'New project', 'Create project')) -> True
+[프로젝트GPT] "프로젝트 만들기" 버튼을 못 찾음
+[PG-DIAG] create:create-button {"body_head": "콘텐츠로 건너뛰기 박 채팅 기록 ChatGPT 새 채팅 이미지 라이브러리 예약 플러그인 프로젝트 더 보기 고정됨 SEO 제목 전략가 - N사 & G사 SERP Analyzer 네이버TV 전국 채널 세트 생성기 GEO 설명 백링크 경매사이트 순위 폰슐랭 마크 삽입 폴드8 블로그 원고 작성 썸네일 10개 제작 텍스트 정리 네이버 블로그 작성 최근 강남달토 글 작성 강남달토 글 작성 강남달토 글 작성 강남달토 이용 가이드 작성 강남달토 글 작성 강남달토 정보 작성 블로그 글 작성 강남달토 글쓰기 강남도파민 글 작성 블로그 글 작성 강남도파민 글 작성 강남도파민 글 작성 강남도파민 블로그 글쓰기 블로그 글 작성 강남도파민 글 작성 블로그 글 작성 인조잔디묘 제목 분석 네이버 광고 운영 전략 모델 비교 추천 번호이동 기기변경 비교 시세표 비교 방법 원고 작성 청라 휴대폰 가격 비교 이미지 수정 Request 로고 카피 제작 New chat 부평역 휴대폰 성지 search 문구 수정 박 박우진 개인 계정 업그레이드 프로젝트 새 프로젝트 전체 내가 만든 프로젝트 나와 공유됨 이름 수정됨 워드프레스 오늘 프로젝트 만들기 프로젝트 이름 프로젝트에서는 한 곳에 파일, 맞춤형 지침을 보관합니다. 지속적으로 진행되는 작업에, 또는 작업을 깔끔히 정리하기에 좋죠. 기본 메모리 프로젝트 만들기", "buttons": ["사이드바 열기 | ", " | 검색", " | 고정됨", " | 최근 채팅", "프로필 메뉴 열기 | 박", "검색 | ", "사이드바 닫기 | ", "새 프로젝트 | ", " | 고정됨", "GEO 설명 고정 해제 | ", "GEO 설명의 대화 옵션 열기 | ", "백링크 경매사이트 순위 고정 해제 | ", "백링크 경매사이트 순위의 대화 옵션 열기 | ", "폰슐랭 마크 삽입 고정 해제 | ", "폰슐랭 마크 삽입의 대화 옵션 열기 | ", "폴드8 블로그 원고 작성 고정 해제 | ", "폴드8 블로그 원고 작성의 대화 옵션 열기 | ", "썸네일 10개 제작 고정 해제 | ", "썸네일 10개 제작의 대화 옵션 열기 | ", "텍스트 정리 고정 해제 | ", "텍스트 정리의 대화 옵션 열기 | ", "네이버 블로그 작성 고정 해제 | ", "네이버 블로그 작성의 대화 옵션 열기 | ", " | 최근", "채팅 정리 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 이용 가이드 작성 고정 | ", "강남달토 이용 가이드 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 정보 작성 고정 | ", "강남달토 정보 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남달토 글쓰기 고정 | ", "강남달토 글쓰기의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 블로그 글쓰기 고정 | ", "강남도파민 블로그 글쓰기의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "인조잔디묘 제목 분석 고정 | ", "인조잔디묘 제목 분석의 대화 옵션 열기 | ", "네이버 광고 운영 전략 고정 | "], "dialogs": [], "hints": ["업그레이드"], "inputs": [{"aria": "프로젝트 검색", "id": "projects-page-search", "inDialog": false, "name": null, "ph": "프로젝트 검색", "tag": "INPUT", "type": "text"}, {"aria": null, "id": "project-name", "inDialog": false, "name": "projectName", "ph": "코펜하겐 여행", "tag": "INPUT", "type": "text"}], "projectRows": 0, "title": "ChatGPT", "url": "https://chatgpt.com/projects"}
+[프로젝트GPT] 준비 실패 - 학습chatGPT 링크로 대체합니다
+buffers_gmemoF ['https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable']
+[프로젝트GPT] 결정: 선택='프로젝트GPT' / 프로젝트모드=True / 프로젝트='티스토리블로그프로젝트' / 사용주소='https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable'
+ID_gmemo https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+체크4
+현재 URL: https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+수집된 텍스트: 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+--->수집된 텍스트22: 글수집 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 :  - / <h2 style='font-size:26px;' align='left'> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 2000자가 되게 길게 작성해줘/<b> 또는 <li> 또는 <table border='1' style="text-align:center"> <th style="background-color: lightbl
+--->a 길이22 :  440
+--->텍스트 길이22 :  264
+크롬드라이버 강제 종료 성공
+profile_input chatGPT10
+use_chatgpt True
+provider_key chatgpt
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 크롬 버전 :: 155
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+최신 크롬 버전 :: 155
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 드라이버 버전 :: 155
+=========================================
+내 크롬 버전 :: 155
+최신 크롬 버전 :: 155
+내 드라이버 버전 :: 155
+busy 감지: 자동 해제 후 진행합니다.
+{insertreplycomment.get()} chatGPT10
+manual_user_data_dir: C:\Users\marketingCOM1\chromeCookie\Profile chatGPT10
+[chrome-launch] step1: get chromedriver major
+[chrome-launch] step1 ok: cd_major=155
+[chrome-launch] step2: set profile + options done
+크롬 all set cd_major
+[chrome-launch] step3: uc.Chrome start
+[chrome-launch] 실행 성공 (로컬드라이버, 시도 1/2, 0.8초)
+[chrome-launch] step3 ok: uc.Chrome created
+[chrome-launch] elapsed from step1: 1.11s
+크롬 all set
+현재 브라우저 언어: ko-KR
+Mychromecheck.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 크롬 버전 :: 155
+RealchromeVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+최신 크롬 버전 :: 155
+driverVersion.cp310-win_amd64.pyd already exists locally.
+Running main() from the .pyd file...
+Captured output: 155
+내 드라이버 버전 :: 155
+=========================================
+내 크롬 버전 :: 155
+최신 크롬 버전 :: 155
+내 드라이버 버전 :: 155
+경로가 존재합니다!
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 부천휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 중동휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 부평휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 상동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 신중동휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 역곡휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+title 계양휴대폰성지
+IDPW 개수: 49
+----------------------------import --------
+에러메세지
+ChatGPT 입력칸을 찾지 못했습니다
+driver_gpt23 <undetected_chromedriver.Chrome (session="ded25aca76034d745c5643a47b98637a")>
+체크3
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:\Users\marketingCOM1\Desktop\tistory\새 폴더\Image6.jpg
+image0.png로 저장 완료.
+chef 부천휴대폰성지
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+image_file Image0.png
+img_sub_send 290552
+dir_path C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+[프로젝트GPT] 목록 0개 중 "티스토리블로그프로젝트" 없음
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="ded25aca76034d745c5643a47b98637a")>
+[프로젝트GPT] "티스토리블로그프로젝트" 가 없어 새로 만듭니다
+----------------------------import --------
+에러메세지
+Message: unknown error: failed to change window state to 'normal', current state is 'maximized'
+  (Session info: chrome=155.0.8059.40)
+Stacktrace:
+	chromedriver_uc_v155!GetHandleVerifier [0x7d3303+4de3]
+	chromedriver_uc_v155!(No symbol) [0x6e5284]
+	chromedriver_uc_v155!(No symbol) [0x51c320]
+	chromedriver_uc_v155!(No symbol) [0x4ff700]
+	chromedriver_uc_v155!(No symbol) [0x4fd194]
+	chromedriver_uc_v155!(No symbol) [0x4fefaf]
+	chromedriver_uc_v155!(No symbol) [0x5bd829]
+	chromedriver_uc_v155!(No symbol) [0x589e2c]
+	chromedriver_uc_v155!(No symbol) [0x5a9833]
+	chromedriver_uc_v155!(No symbol) [0x589bc6]
+	chromedriver_uc_v155!(No symbol) [0x55c1ea]
+	chromedriver_uc_v155!(No symbol) [0x55cec4]
+	chromedriver_uc_v155!GetHandleVerifier [0xc71704+4a31e4]
+	chromedriver_uc_v155!GetHandleVerifier [0xc8ea0b+4c04eb]
+	chromedriver_uc_v155!GetHandleVerifier [0x913842+145322]
+	chromedriver_uc_v155!GetHandleVerifier [0x91bb33+14d613]
+	chromedriver_uc_v155!(No symbol) [0x6f3658]
+	chromedriver_uc_v155!(No symbol) [0x6ee6d8]
+	chromedriver_uc_v155!(No symbol) [0x6ee885]
+	chromedriver_uc_v155!(No symbol) [0x6dabc7]
+	KERNEL32!BaseThreadInitThunk [0x7758fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e2827e+ee]
+
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\29cc63fb-e59c-47c8-990a-94c6c298819b.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\3e6baedd-7bd9-47e8-a8c5-835bedb1740f.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\6880d5b5-439e-4569-9ff4-7fdbd0c0974e.tmp because it's in use by another process.
+Could not delete C:\Users\MARKET~1\AppData\Local\Temp\766e8497-fd1a-4e1c-8aa9-bf0c13f9a4e4.tmp because it's in use by another process.
+[프로젝트GPT] 생성창 열기 시도 1 (aria '새 프로젝트 추가') -> False
+***************************google*********************************
+************************google************************************
+***************************google*********************************
+***************************google*********************************
+**************************daum**********************************
+*****************daum*******************************************
+********************daum****************************************
+********************daum****************************************
+0
+선택된 파일: C:\Users\marketingCOM1\Desktop\tistory\새 폴더\Image6.jpg
+image0.png로 저장 완료.
+chef 부천휴대폰성지
+iphone_dirs []
+아이폰 관련 폴더가 없습니다.
+IMAGE_PATH_PATH C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+image_file Image0.png
+img_sub_send 290552
+[프로젝트GPT] 생성창 열기 시도 2 (text ('만들기', 'Create')) -> False
+[프로젝트GPT] 생성창 열기 시도 3 (text ('새 프로젝트', '프로젝트 만들기', 'New project', 'Create project')) -> True
+dir_path C:\Users\marketingCOM1\Desktop\tistory\새 폴더
+******************check1
+******************check2
+******************check3
+1
+0
+API 체크 상태 확인
+keyword_excel_CONTENTS[keyword_counter] None
+keyword_excel_CONTENTS[keyword_counter] none인경우
+keyword_excel_MAIN_LINK[keyword_counter] none인경우
+driver_gpt23 <undetected_chromedriver.Chrome (session="ded25aca76034d745c5643a47b98637a")>
+체크3
+[프로젝트GPT] "프로젝트 만들기" 버튼을 못 찾음
+[PG-DIAG] create:create-button {"body_head": "콘텐츠로 건너뛰기 박 채팅 기록 ChatGPT 새 채팅 이미지 라이브러리 예약 플러그인 프로젝트 더 보기 고정됨 SEO 제목 전략가 - N사 & G사 SERP Analyzer 네이버TV 전국 채널 세트 생성기 GEO 설명 백링크 경매사이트 순위 폰슐랭 마크 삽입 폴드8 블로그 원고 작성 썸네일 10개 제작 텍스트 정리 네이버 블로그 작성 최근 강남달토 글 작성 강남달토 글 작성 강남달토 글 작성 강남달토 이용 가이드 작성 강남달토 글 작성 강남달토 정보 작성 블로그 글 작성 강남달토 글쓰기 강남도파민 글 작성 블로그 글 작성 강남도파민 글 작성 강남도파민 글 작성 강남도파민 블로그 글쓰기 블로그 글 작성 강남도파민 글 작성 블로그 글 작성 인조잔디묘 제목 분석 네이버 광고 운영 전략 모델 비교 추천 번호이동 기기변경 비교 시세표 비교 방법 원고 작성 청라 휴대폰 가격 비교 이미지 수정 Request 로고 카피 제작 New chat 부평역 휴대폰 성지 search 문구 수정 박 박우진 개인 계정 업그레이드 프로젝트 새 프로젝트 전체 내가 만든 프로젝트 나와 공유됨 이름 수정됨 워드프레스 오늘", "buttons": ["사이드바 열기 | ", " | 검색", " | 고정됨", " | 최근 채팅", "프로필 메뉴 열기 | 박", "검색 | ", "사이드바 닫기 | ", "새 프로젝트 | ", " | 고정됨", "GEO 설명 고정 해제 | ", "GEO 설명의 대화 옵션 열기 | ", "백링크 경매사이트 순위 고정 해제 | ", "백링크 경매사이트 순위의 대화 옵션 열기 | ", "폰슐랭 마크 삽입 고정 해제 | ", "폰슐랭 마크 삽입의 대화 옵션 열기 | ", "폴드8 블로그 원고 작성 고정 해제 | ", "폴드8 블로그 원고 작성의 대화 옵션 열기 | ", "썸네일 10개 제작 고정 해제 | ", "썸네일 10개 제작의 대화 옵션 열기 | ", "텍스트 정리 고정 해제 | ", "텍스트 정리의 대화 옵션 열기 | ", "네이버 블로그 작성 고정 해제 | ", "네이버 블로그 작성의 대화 옵션 열기 | ", " | 최근", "채팅 정리 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 이용 가이드 작성 고정 | ", "강남달토 이용 가이드 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 정보 작성 고정 | ", "강남달토 정보 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남달토 글쓰기 고정 | ", "강남달토 글쓰기의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 블로그 글쓰기 고정 | ", "강남도파민 블로그 글쓰기의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "인조잔디묘 제목 분석 고정 | ", "인조잔디묘 제목 분석의 대화 옵션 열기 | ", "네이버 광고 운영 전략 고정 | "], "dialogs": [], "hints": ["업그레이드"], "inputs": [{"aria": "프로젝트 검색", "id": "projects-page-search", "inDialog": false, "name": null, "ph": "프로젝트 검색", "tag": "INPUT", "type": "text"}], "projectRows": 0, "title": "ChatGPT", "url": "https://chatgpt.com/projects"}
+[프로젝트GPT] 준비 실패 - 학습chatGPT 링크로 대체합니다
+buffers_gmemoF ['https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable']
+[프로젝트GPT] 결정: 선택='프로젝트GPT' / 프로젝트모드=True / 프로젝트='티스토리블로그프로젝트' / 사용주소='https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable'
+ID_gmemo https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+체크4
+현재 URL: https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+[프로젝트GPT] 목록 0개 중 "티스토리블로그프로젝트" 없음
+[프로젝트GPT] "티스토리블로그프로젝트" 가 없어 새로 만듭니다
+----------------------------import --------
+에러메세지
+Message: stale element reference: stale element not found
+  (Session info: chrome=155.0.8059.40); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver_uc_v155!GetHandleVerifier [0x7d3303+4de3]
+	chromedriver_uc_v155!(No symbol) [0x6e5284]
+	chromedriver_uc_v155!(No symbol) [0x51c320]
+	chromedriver_uc_v155!(No symbol) [0x52eb8d]
+	chromedriver_uc_v155!(No symbol) [0x52d997]
+	chromedriver_uc_v155!(No symbol) [0x523909]
+	chromedriver_uc_v155!(No symbol) [0x521d92]
+	chromedriver_uc_v155!(No symbol) [0x5251aa]
+	chromedriver_uc_v155!(No symbol) [0x525238]
+	chromedriver_uc_v155!(No symbol) [0x5691f2]
+	chromedriver_uc_v155!(No symbol) [0x55db12]
+	chromedriver_uc_v155!(No symbol) [0x589e2c]
+	chromedriver_uc_v155!(No symbol) [0x55d5c4]
+	chromedriver_uc_v155!(No symbol) [0x589ff4]
+	chromedriver_uc_v155!(No symbol) [0x5a9833]
+	chromedriver_uc_v155!(No symbol) [0x589bc6]
+	chromedriver_uc_v155!(No symbol) [0x55c1ea]
+	chromedriver_uc_v155!(No symbol) [0x55cec4]
+	chromedriver_uc_v155!GetHandleVerifier [0xc71704+4a31e4]
+	chromedriver_uc_v155!GetHandleVerifier [0xc8ea0b+4c04eb]
+	chromedriver_uc_v155!GetHandleVerifier [0x913842+145322]
+	chromedriver_uc_v155!GetHandleVerifier [0x91bb33+14d613]
+	chromedriver_uc_v155!(No symbol) [0x6f3658]
+	chromedriver_uc_v155!(No symbol) [0x6ee6d8]
+	chromedriver_uc_v155!(No symbol) [0x6ee885]
+	chromedriver_uc_v155!(No symbol) [0x6dabc7]
+	KERNEL32!BaseThreadInitThunk [0x7758fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e282ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e2827e+ee]
+
+driver_gpt23 <undetected_chromedriver.Chrome (session="ded25aca76034d745c5643a47b98637a")>
+체크3
+[프로젝트GPT] 생성창 열기 시도 1 (aria '새 프로젝트 추가') -> False
+[프로젝트GPT] 목록 0개 중 "티스토리블로그프로젝트" 없음
+[프로젝트GPT] "티스토리블로그프로젝트" 가 없어 새로 만듭니다
+[프로젝트GPT] 생성창 열기 시도 2 (text ('만들기', 'Create')) -> False
+[프로젝트GPT] 생성창 열기 시도 3 (text ('새 프로젝트', '프로젝트 만들기', 'New project', 'Create project')) -> True
+[프로젝트GPT] 생성창 열기 시도 1 (aria '새 프로젝트 추가') -> False
+[프로젝트GPT] 생성창 열기 시도 2 (text ('만들기', 'Create')) -> False
+[프로젝트GPT] 생성창 열기 시도 3 (text ('새 프로젝트', '프로젝트 만들기', 'New project', 'Create project')) -> True
+[프로젝트GPT] "프로젝트 만들기" 버튼을 못 찾음
+[PG-DIAG] create:create-button {"body_head": "콘텐츠로 건너뛰기 박 채팅 기록 ChatGPT 새 채팅 이미지 라이브러리 예약 플러그인 프로젝트 더 보기 고정됨 SEO 제목 전략가 - N사 & G사 SERP Analyzer 네이버TV 전국 채널 세트 생성기 GEO 설명 백링크 경매사이트 순위 폰슐랭 마크 삽입 폴드8 블로그 원고 작성 썸네일 10개 제작 텍스트 정리 네이버 블로그 작성 최근 강남달토 글 작성 강남달토 글 작성 강남달토 글 작성 강남달토 이용 가이드 작성 강남달토 글 작성 강남달토 정보 작성 블로그 글 작성 강남달토 글쓰기 강남도파민 글 작성 블로그 글 작성 강남도파민 글 작성 강남도파민 글 작성 강남도파민 블로그 글쓰기 블로그 글 작성 강남도파민 글 작성 블로그 글 작성 인조잔디묘 제목 분석 네이버 광고 운영 전략 모델 비교 추천 번호이동 기기변경 비교 시세표 비교 방법 원고 작성 청라 휴대폰 가격 비교 이미지 수정 Request 로고 카피 제작 New chat 부평역 휴대폰 성지 search 문구 수정 박 박우진 개인 계정 업그레이드 프로젝트 새 프로젝트 전체 내가 만든 프로젝트 나와 공유됨 이름 수정됨 워드프레스 오늘 프로젝트 만들기 프로젝트 이름 프로젝트에서는 한 곳에 파일, 맞춤형 지침을 보관합니다. 지속적으로 진행되는 작업에, 또는 작업을 깔끔히 정리하기에 좋죠. 기본 메모리 프로젝트 만들기", "buttons": ["사이드바 열기 | ", " | 검색", " | 고정됨", " | 최근 채팅", "프로필 메뉴 열기 | 박", "검색 | ", "사이드바 닫기 | ", "새 프로젝트 | ", " | 고정됨", "GEO 설명 고정 해제 | ", "GEO 설명의 대화 옵션 열기 | ", "백링크 경매사이트 순위 고정 해제 | ", "백링크 경매사이트 순위의 대화 옵션 열기 | ", "폰슐랭 마크 삽입 고정 해제 | ", "폰슐랭 마크 삽입의 대화 옵션 열기 | ", "폴드8 블로그 원고 작성 고정 해제 | ", "폴드8 블로그 원고 작성의 대화 옵션 열기 | ", "썸네일 10개 제작 고정 해제 | ", "썸네일 10개 제작의 대화 옵션 열기 | ", "텍스트 정리 고정 해제 | ", "텍스트 정리의 대화 옵션 열기 | ", "네이버 블로그 작성 고정 해제 | ", "네이버 블로그 작성의 대화 옵션 열기 | ", " | 최근", "채팅 정리 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 이용 가이드 작성 고정 | ", "강남달토 이용 가이드 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 정보 작성 고정 | ", "강남달토 정보 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남달토 글쓰기 고정 | ", "강남달토 글쓰기의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 블로그 글쓰기 고정 | ", "강남도파민 블로그 글쓰기의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "인조잔디묘 제목 분석 고정 | ", "인조잔디묘 제목 분석의 대화 옵션 열기 | ", "네이버 광고 운영 전략 고정 | "], "dialogs": [], "hints": ["업그레이드"], "inputs": [{"aria": "프로젝트 검색", "id": "projects-page-search", "inDialog": false, "name": null, "ph": "프로젝트 검색", "tag": "INPUT", "type": "text"}, {"aria": null, "id": "project-name", "inDialog": false, "name": "projectName", "ph": "코펜하겐 여행", "tag": "INPUT", "type": "text"}], "projectRows": 0, "title": "ChatGPT", "url": "https://chatgpt.com/projects"}
+[프로젝트GPT] 준비 실패 - 학습chatGPT 링크로 대체합니다
+buffers_gmemoF ['https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable']
+[프로젝트GPT] 결정: 선택='프로젝트GPT' / 프로젝트모드=True / 프로젝트='티스토리블로그프로젝트' / 사용주소='https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable'
+ID_gmemo https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+체크4
+현재 URL: https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+[프로젝트GPT] "프로젝트 만들기" 버튼을 못 찾음
+[PG-DIAG] create:create-button {"body_head": "콘텐츠로 건너뛰기 박 채팅 기록 ChatGPT 새 채팅 이미지 라이브러리 예약 플러그인 프로젝트 더 보기 고정됨 SEO 제목 전략가 - N사 & G사 SERP Analyzer 네이버TV 전국 채널 세트 생성기 GEO 설명 백링크 경매사이트 순위 폰슐랭 마크 삽입 폴드8 블로그 원고 작성 썸네일 10개 제작 텍스트 정리 네이버 블로그 작성 최근 강남달토 글 작성 강남달토 글 작성 강남달토 글 작성 강남달토 이용 가이드 작성 강남달토 글 작성 강남달토 정보 작성 블로그 글 작성 강남달토 글쓰기 강남도파민 글 작성 블로그 글 작성 강남도파민 글 작성 강남도파민 글 작성 강남도파민 블로그 글쓰기 블로그 글 작성 강남도파민 글 작성 블로그 글 작성 인조잔디묘 제목 분석 네이버 광고 운영 전략 모델 비교 추천 번호이동 기기변경 비교 시세표 비교 방법 원고 작성 청라 휴대폰 가격 비교 이미지 수정 Request 로고 카피 제작 New chat 부평역 휴대폰 성지 search 문구 수정 박 박우진 개인 계정 업그레이드 법무법인able 플랜 업그레이드 법무법인able 작성자: community builder 법무법인able ChatGPT는 실수를 할 수 있습니다. 중요한 정보는 재차 확인하세요. 주제 : 부천휴대폰성지 / 수집한 글은 다음과 같아 : - / <h2 style='font-size:26px", "buttons": ["사이드바 열기 | ", " | 검색", " | 고정됨", " | 최근 채팅", "프로필 메뉴 열기 | 박", "검색 | ", "사이드바 닫기 | ", "새 프로젝트 | ", " | 고정됨", "GEO 설명 고정 해제 | ", "GEO 설명의 대화 옵션 열기 | ", "백링크 경매사이트 순위 고정 해제 | ", "백링크 경매사이트 순위의 대화 옵션 열기 | ", "폰슐랭 마크 삽입 고정 해제 | ", "폰슐랭 마크 삽입의 대화 옵션 열기 | ", "폴드8 블로그 원고 작성 고정 해제 | ", "폴드8 블로그 원고 작성의 대화 옵션 열기 | ", "썸네일 10개 제작 고정 해제 | ", "썸네일 10개 제작의 대화 옵션 열기 | ", "텍스트 정리 고정 해제 | ", "텍스트 정리의 대화 옵션 열기 | ", "네이버 블로그 작성 고정 해제 | ", "네이버 블로그 작성의 대화 옵션 열기 | ", " | 최근", "채팅 정리 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 이용 가이드 작성 고정 | ", "강남달토 이용 가이드 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 정보 작성 고정 | ", "강남달토 정보 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남달토 글쓰기 고정 | ", "강남달토 글쓰기의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 블로그 글쓰기 고정 | ", "강남도파민 블로그 글쓰기의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "인조잔디묘 제목 분석 고정 | ", "인조잔디묘 제목 분석의 대화 옵션 열기 | ", "네이버 광고 운영 전략 고정 | "], "dialogs": [], "hints": ["업그레이드"], "inputs": [{"aria": "ChatGPT와 채팅", "id": "prompt-textarea", "inDialog": false, "name": null, "ph": null, "tag": "DIV", "type": null}, {"aria": null, "id": "upload-photos", "inDialog": false, "name": null, "ph": null, "tag": "INPUT", "type": "file"}, {"aria": null, "id": "upload-media", "inDialog": false, "name": "upload-media", "ph": null, "tag": "INPUT", "type": "file"}, {"aria": null, "id": "upload-camera", "inDialog": false, "name": null, "ph": null, "tag": "INPUT", "type": "file"}], "projectRows": 0, "title": "ChatGPT - 법무법인able", "url": "https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable"}
+[프로젝트GPT] 준비 실패 - 학습chatGPT 링크로 대체합니다
+buffers_gmemoF ['https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable']
+[프로젝트GPT] 결정: 선택='프로젝트GPT' / 프로젝트모드=True / 프로젝트='티스토리블로그프로젝트' / 사용주소='https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable'
+ID_gmemo https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+체크4
+현재 URL: https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+수집된 텍스트: '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 /
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자~30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 /
+--->a 길이22 :  440
+--->텍스트 길이22 :  731
+수집된 텍스트: '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\tistory\logfile.txt
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+[LOG-SAVE] 시도1 status=200 로그=60203바이트 스샷=416004바이트 7.8초 응답='sucess'
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+driver_gpt23 <undetected_chromedriver.Chrome (session="ded25aca76034d745c5643a47b98637a")>
+--->수집된 텍스트22: 글수집 '> 태그를 총 4개 만들어줘 /  블로그에 작성할 내용이야 글을 최대한 길게 써주고 <h2>가 다음에  관련된 내용을 1500자에서 200주0제자 가:  되부게천 휴길대게폰 성작지성 해/줘 /수 집<한b >글 은또 는다 음<과l i같>아  또:는  < t-a b/l e< hb2o rdsetry=le'=1''f osntty-lsei=z"et:e2xt6p-axl;'i ganl:icgenn=te'rl"e>f t<'t>h  태s그t를y l총e= "4b개a c만k들g어r줘o u/n d -블c로o그l에o r작:성 할l 내i용gh이tb야l u글e을;  최t대e한x t길-게a l써i주g고n :<che2n>t가e r다"음>에를   꼭관 련넣어된줘  내없용으을면  글1이5 0단0조로자워에서서  안2좋0아0 0/자글가  구되성게은  길1게개  작[성[해<줘</전 체< b제>목 (또2는0 자<l3i0>자 )또>는> ]<]t a과b l4e개  b소o제r목d er내=용 '이1렇'게  s작t성y해l줘e =/" t<e<x<t전-체 a글l 시i작g>n>:>c e,n t[e[r<"<>전 체< t제h목 (s2t0y자le3=0자")>ba>c]k]g,r o내u용n d<-<<c전o체l o글r :끝 >l>i>g h구t성b으l로u e시;작 과t e끝x을t- 알a려l줘ign:center">를 꼭 넣어줘 없으면 글이 단조로워서 안좋아 /글 구성은 1개 [[<<전체 제목(20자30자)>>]] 과 4개 소제목 내용 이렇게 작성해줘 / <<<전체 글 시작>>> , [[<<전체 제목(20자30자)>>]], 내용 <<<전체 글 끝>>> 구성으로 시작과 끝을 알려줘
+--->a 길이22 :  440
+--->텍스트 길이22 :  801
+체크3
+----------------------------import --------
+에러메세지
+ChatGPT 입력칸을 찾지 못했습니다
+driver_gpt23 <undetected_chromedriver.Chrome (session="ded25aca76034d745c5643a47b98637a")>
+체크3
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\tistory\logfile.txt
+[LOG-SAVE] 시도1 status=200 로그=78016바이트 스샷=329756바이트 8.0초 응답='sucess'
+[프로젝트GPT] "티스토리블로그프로젝트" 는 있는데 들어가지 못함
+[PG-DIAG] find:enter {"body_head": "콘텐츠로 건너뛰기 박 채팅 기록 ChatGPT 새 채팅 이미지 라이브러리 예약 플러그인 프로젝트 더 보기 고정됨 SEO 제목 전략가 - N사 & G사 SERP Analyzer 네이버TV 전국 채널 세트 생성기 GEO 설명 백링크 경매사이트 순위 폰슐랭 마크 삽입 폴드8 블로그 원고 작성 썸네일 10개 제작 텍스트 정리 네이버 블로그 작성 최근 강남달토 글 작성 강남달토 글 작성 강남달토 글 작성 강남달토 이용 가이드 작성 강남달토 글 작성 강남달토 정보 작성 블로그 글 작성 강남달토 글쓰기 강남도파민 글 작성 블로그 글 작성 강남도파민 글 작성 강남도파민 글 작성 강남도파민 블로그 글쓰기 블로그 글 작성 강남도파민 글 작성 블로그 글 작성 인조잔디묘 제목 분석 네이버 광고 운영 전략 모델 비교 추천 번호이동 기기변경 비교 시세표 비교 방법 원고 작성 청라 휴대폰 가격 비교 이미지 수정 Request 로고 카피 제작 New chat 부평역 휴대폰 성지 search 문구 수정 박 박우진 개인 계정 업그레이드 프로젝트 새 프로젝트 전체 내가 만든 프로젝트 나와 공유됨 이름 수정됨 티스토리블로그프로젝트 오늘 워드프레스 오늘", "buttons": ["사이드바 열기 | ", " | 검색", " | 고정됨", " | 최근 채팅", "프로필 메뉴 열기 | 박", "검색 | ", "사이드바 닫기 | ", "새 프로젝트 | ", " | 고정됨", "GEO 설명 고정 해제 | ", "GEO 설명의 대화 옵션 열기 | ", "백링크 경매사이트 순위 고정 해제 | ", "백링크 경매사이트 순위의 대화 옵션 열기 | ", "폰슐랭 마크 삽입 고정 해제 | ", "폰슐랭 마크 삽입의 대화 옵션 열기 | ", "폴드8 블로그 원고 작성 고정 해제 | ", "폴드8 블로그 원고 작성의 대화 옵션 열기 | ", "썸네일 10개 제작 고정 해제 | ", "썸네일 10개 제작의 대화 옵션 열기 | ", "텍스트 정리 고정 해제 | ", "텍스트 정리의 대화 옵션 열기 | ", "네이버 블로그 작성 고정 해제 | ", "네이버 블로그 작성의 대화 옵션 열기 | ", " | 최근", "채팅 정리 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 이용 가이드 작성 고정 | ", "강남달토 이용 가이드 작성의 대화 옵션 열기 | ", "강남달토 글 작성 고정 | ", "강남달토 글 작성의 대화 옵션 열기 | ", "강남달토 정보 작성 고정 | ", "강남달토 정보 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남달토 글쓰기 고정 | ", "강남달토 글쓰기의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "강남도파민 블로그 글쓰기 고정 | ", "강남도파민 블로그 글쓰기의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "강남도파민 글 작성 고정 | ", "강남도파민 글 작성의 대화 옵션 열기 | ", "블로그 글 작성 고정 | ", "블로그 글 작성의 대화 옵션 열기 | ", "인조잔디묘 제목 분석 고정 | ", "인조잔디묘 제목 분석의 대화 옵션 열기 | ", "네이버 광고 운영 전략 고정 | "], "dialogs": [], "hints": ["업그레이드"], "inputs": [{"aria": "프로젝트 검색", "id": "projects-page-search", "inDialog": false, "name": null, "ph": "프로젝트 검색", "tag": "INPUT", "type": "text"}], "projectRows": 0, "title": "ChatGPT", "url": "https://chatgpt.com/projects"}
+[프로젝트GPT] 찾기 실패(enter_fail) -> 새로 만들지 않음(중복 방지)
+[프로젝트GPT] 준비 실패 - 학습chatGPT 링크로 대체합니다
+buffers_gmemoF ['https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable']
+[프로젝트GPT] 결정: 선택='프로젝트GPT' / 프로젝트모드=True / 프로젝트='티스토리블로그프로젝트' / 사용주소='https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable'
+ID_gmemo https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+체크4
+현재 URL: https://chatgpt.com/g/g-68879ab8a9608191bcf95ef530d528e9-beobmubeobinable
+시작
+File saved to: C:\Users\marketingCOM1\Desktop\tistory\logfile.txt
