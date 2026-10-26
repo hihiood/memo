@@ -1,0 +1,39 @@
+2
+3
+[DPI] scale=1.25 — .place/geometry auto-scaled
+[히스토리] 스케줄 2행 보관 (총 2개 중)
+[NNB] 재고 400개 (사용가능 400개)
+[런처] V10 (최신)
+DB access----success!!
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=15 skipped=24 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+🟢 사용자 선택: 서버2
+DB access----success!!
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=20 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+DB access----success!!
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=20 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+DB access----success!!
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=1 skipped=24 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+DB access----success!!
+🟢 사용자 선택: 서버1
+DB access----success!!
+[스케줄] 엑셀 스캔 실패: [Errno 2] No such file or directory: 'secret.xlsx'
+DB access----success!!
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=5 skipped=30 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+DB access----success!!
+시작
+File saved to: C:\Users\user\Desktop\place_traffic\logfile.txt
