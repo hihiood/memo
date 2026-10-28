@@ -1,0 +1,138 @@
+2
+3
+[DPI] scale=1.25 — .place/geometry auto-scaled
+[NNB] 재고 400개 (사용가능 400개)
+[런처] V10 (최신)
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+1
+['용가회전훠궈 부산해운대점']
+find_name 용가회전훠궈 부산해운대점
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+여기
+크롬드라이버 강제 종료 성공
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+[clean_temp_folder] deleted=26 skipped=38 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 1개 행
+============================================================
+
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+1
+['용가회전훠궈 부산해운대점']
+find_name 용가회전훠궈 부산해운대점
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+여기
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 1개 행
+============================================================
+
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=39 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[AntiDetect] ✓ 연결 성공 (API 키 유효)
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+1
+['용가회전훠궈 부산해운대점']
+find_name 용가회전훠궈 부산해운대점
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+여기
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=42 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 1개 행
+============================================================
+
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+1
+['용가회전훠궈 부산해운대점']
+여기
+find_name 용가회전훠궈 부산해운대점
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 1개 행
+============================================================
+
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=42 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+2
+['용가회전훠궈 부산해운대점', '용가회전훠궈 부산해운대점']
+find_name 용가회전훠궈 부산해운대점
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth_sy14zrx2
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+[smartproxy usage] 측정 호출 에러: local variable 'driver' referenced before assignment
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth_5cwxeyoz
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+[smartproxy usage] 측정 호출 에러: local variable 'driver' referenced before assignment
+여기
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth_f5gb37ev
+--------------total error-------import --------
+에러메세지
+Command '['C:\\Users\\user\\Desktop\\place_traffic\\chromedriver.exe', '--version']' returned non-zero exit status 1.
+[오류 위치] File "subprocess.py", line 526, in run
+크롬드라이버 강제 종료 성공
+[smartproxy usage] 측정 호출 에러: local variable 'driver' referenced before assignment
+[clean_temp_folder] deleted=3 skipped=45 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+find_name 용가회전훠궈 부산해운대점
+
+============================================================
+■ 중단되어 작업을 마쳤습니다.
+   총 2개 행
+============================================================
+
+시작
+File saved to: C:\Users\user\Desktop\place_traffic\logfile.txt
