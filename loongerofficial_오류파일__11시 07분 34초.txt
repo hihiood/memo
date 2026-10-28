@@ -1,0 +1,65 @@
+2
+3
+[DPI] scale=1.25 — .place/geometry auto-scaled
+[히스토리] 스케줄 1행 보관 (총 7개 중)
+[NNB] 재고 400개 (사용가능 400개)
+[런처] V10 (최신)
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+1
+['용가회전훠궈 부산해운대점']
+find_name 용가회전훠궈 부산해운대점
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth__svvuh93
+[AntiDetect] windows
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[AntiDetect] chromedriver 148 다운로드 중...
+[AntiDetect] chromedriver 148 준비 완료
+[AntiDetect] 자동화 지문(cdc_) 제거 완료 — 395바이트 무력화 / C:\Users\user\AppData\Local\MyApp\drivers\chromedriver_148_ucpatch.exe
+[AntiDetect] 자동화 지문(cdc_) 제거 완료 — 395바이트 무력화
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=7 skipped=56 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[AntiDetect] 드라이버에서 주입 블록을 못 찾아 지문 제거를 건너뜁니다
+[AntiDetect] 드라이버에서 주입 블록을 못 찾아 지문 제거를 건너뜁니다
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=52 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+시작
+File saved to: C:\Users\user\Desktop\place_traffic\logfile.txt
+
+--- Captured Logs ---
+2
+3
+[DPI] scale=1.25 — .place/geometry auto-scaled
+[히스토리] 스케줄 1행 보관 (총 7개 중)
+[NNB] 재고 400개 (사용가능 400개)
+[런처] V10 (최신)
+DB access----success!!
+[엑셀] secret.xlsx 를 찾을 수 없습니다 (프로그램과 같은 폴더에 두세요)
+1
+['용가회전훠궈 부산해운대점']
+find_name 용가회전훠궈 부산해운대점
+[smartproxy] 익스텐션 로드: C:/Users/user/AppData/Local/Temp/smartproxy_auth__svvuh93
+[AntiDetect] windows
+[AntiDetect] 브라우저 버전 148.0.7778.159
+[AntiDetect] chromedriver 148 다운로드 중...
+[AntiDetect] chromedriver 148 준비 완료
+[AntiDetect] 자동화 지문(cdc_) 제거 완료 — 395바이트 무력화 / C:\Users\user\AppData\Local\MyApp\drivers\chromedriver_148_ucpatch.exe
+[AntiDetect] 자동화 지문(cdc_) 제거 완료 — 395바이트 무력화
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=7 skipped=56 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+[AntiDetect] 드라이버에서 주입 블록을 못 찾아 지문 제거를 건너뜁니다
+[AntiDetect] 드라이버에서 주입 블록을 못 찾아 지문 제거를 건너뜁니다
+여기
+크롬드라이버 강제 종료 성공
+[clean_temp_folder] deleted=0 skipped=52 dir=C:\Users\user\AppData\Local\Temp
+[중단] 동작만 중지 (프로그램 유지)
+시작
+File saved to: C:\Users\user\Desktop\place_traffic\logfile.txt
+
+시작
+File saved to: C:\Users\user\Desktop\place_traffic\logfile.txt
