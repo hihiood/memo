@@ -1,0 +1,174 @@
+1
+2
+3
+4
+5
+normal_driver 1
+uc_driver 0
+expressvpn_operate 0
+nordvpn_operate 0
+proxy_use 0
+proxy_use_chrome 0
+시작
+293
+502
+200
+657
+243
+263
+276
+728
+429
+209
+277
+831
+scrollcounter 10
+2
+총 1000회 순서대로 실행
+-----------------------------------
+1/1000 - link_number 0
+-----------------------------------
+keyword_excel https://www.bing.com/search?q=LG+%EB%93%80%EC%96%BC%EB%84%98%EB%B2%84+LGU%2B+%ED%86%B5%ED%99%94%EB%8F%84%EC%9A%B0%EB%AF%B8%2C+%EA%B0%80%EC%9E%85+%EC%8B%A0%EC%B2%AD%EB%B0%A9%EB%B2%95&qs=n&form=QBRE&sp=-1&lq=0&pq=lg+%EB%93%80%EC%96%BC%EB%84%98%EB%B2%84+lgu%2B+%ED%86%B5%ED%99%94%EB%8F%84%EC%9A%B0%EB%AF%B8%2C+%EA%B0%80%EC%9E%85+%EC%8B%A0%EC%B2%AD%EB%B0%A9%EB%B2%95&sc=11-27&sk=&cvid=7E036495CA994AB6A23B207F92771180&ghsh=0&ghacc=0&ghpl=
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+293
+502
+200
+657
+243
+263
+276
+728
+429
+209
+277
+831
+scrollcounter 10
+8
+총 1000회 순서대로 실행
+-----------------------------------
+1/1000 - link_number 0
+-----------------------------------
+keyword_excel 강남주파수
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+IP 변경중 (테더링 1/10)...
+IP 변경중 (테더링 1/10)...
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+IP 변경중 (테더링 1/10)...
+check1
+['https://www.bing.com/ck/a?!&&p=156f9188b54f20cab995f054764ef51522b30756bf80b97a9ed5846fe4b2bd6dJmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly93d3cubGd1cGx1cy5jb20vbW9iaWxlL3BsYW4vYWRkb24vYWRkb24tY2FsbC1tc2cvTFJaMDAwMDI2NA&ntb=1', 'https://www.bing.com/ck/a?!&&p=7d7fcf4f8d33c9ddeeffb42f1c1a9e29d1bb71545c560aad87951bc2bf2651f6JmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly9ibG9nLm5hdmVyLmNvbS9haHNwemsyMDAwLzIyMzA2NjE5NTI1OQ&ntb=1', 'https://www.bing.com/ck/a?!&&p=205ec2656e488b7399d476e5d4dc653f44449d88cc4d652cdb16f9ec58fc781bJmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly93d3cubGd1cGx1cy5jb20vbW9iaWxlL3BsYW4vbXBsYW4vZHVhbC81Zy1kdWFsL0xQWjAwMDEwNzA&ntb=1', 'https://blog.naver.com/yeal81/224094610025', 'https://www.bing.com/ck/a?!&&p=2193b07dbd839e046561bcfe9c69e1a06b6b2e23f859e98a595c49e5d9b30a2fJmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly9kaW5nZG8udGlzdG9yeS5jb20vNjA3NQ&ntb=1', 'https://www.bing.com/ck/a?!&&p=9464fc4eeb9a612925a2eab6ac9782bdf416ac0faf84cc413f9674d003ee41b1JmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly9tLmJsb2cubmF2ZXIuY29tL3F3ZXIyMDI0Xy8yMjQyMjM2OTc4OTg&ntb=1', 'https://www.bing.com/ck/a?!&&p=1f2f6fcfeec05a6f6592ec8efff085e3bf3895dda687fc9a88c753de89615312JmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly9tLmJsb2cubmF2ZXIuY29tL25vdGhpbmtfXy8yMjI0NzA1MjI5Nzg&ntb=1', 'https://www.bing.com/ck/a?!&&p=bb70d63ee752908c0ca68ab14f3e80233da7bfd98afc745194b6e36f1d8223deJmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly9zb29nZy50aXN0b3J5LmNvbS9lbnRyeS9MRyVFQyU5QyVBMCVFRCU5NCU4QyVFQiU5RiVBQyVFQyU4QSVBNC0lRUQlODYlQjUlRUQlOTklOTQlRUMlQTQlOTElRUIlOEMlODAlRUElQjglQjAtJUVCJTkzJTgwJUVDJTk2JUJDJUVCJTg0JTk4JUVCJUIyJTg0LSVFQyU4NCVBNCVFQyVBMCU5NS0lRUElQjAlODAlRUMlOUQlQjQlRUIlOTMlOUM&ntb=1', 'https://www.bing.com/ck/a?!&&p=04c07e8ccee03c4e18352662aa7a0965102e0b68e8f2280ab9a8a86cdfeeb0c4JmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly93d3cuaXRtYXR6aXAuY29tLzIwMjYvMDIvJWVjJWEwJTg0JWVkJTk5JTk0JWViJWIyJTg4JWVkJTk4JWI4LTIlZWElYjAlOWMtJWViJWE3JThjJWViJTkzJWE0JWVhJWI4JWIwLw&ntb=1', 'https://www.bing.com/ck/a?!&&p=5cbb9b650bf84f3d41ea16869fb9921a84b374230fd38252e1dd6304878fcb85JmltdHM9MTc5MzMxODQwMA&ptn=3&ver=2&hsh=4&fclid=384d93cf-0562-625a-1e0d-8bcd044163f5&u=a1aHR0cHM6Ly93aXJlbGVzcy1jYWxsaW5nLnRpc3RvcnkuY29tLzYzMA&ntb=1']
+check2
+유플러스 듀얼넘버 < 모바일 요금제 | LG U+
+LG 듀얼넘버 LGU+ 통화도우미 가입 신청방법, 한달 이용 가격, 해지 ...
+유플러스 5G 듀얼넘버 플러스 < 모바일 요금제 | LG U+
+LG 유플러스 투넘버, 듀얼넘버 어떻게 쓰지? 설정 방법 총정리
+LG U+ 듀얼넘버 가입방법 및 요금제 금액
+LG 유플러스 원넘버 사용법 총정리｜갤럭시 워치 + U+ 통화도우미 ...
+LG 듀얼넘버 신청방법 - 네이버 블로그
+LG유플러스 통화중대기 & 듀얼넘버 설정 가이드
+전화번호 2개 만들기, SKT, KT, LGU+ 통신사별 듀얼넘버 신청 방법 ...
+LG 유플러스 모바일 [듀얼넘버] 듀얼넘버 서비스는 어떻게 신청 ...
+유플러스 듀얼넘버 < 모바일 요금제 | LG U+
+LG 듀얼넘버 LGU+ 통화도우미 가입 신청방법, 한달 이용 가격, 해지 ...
+유플러스 5G 듀얼넘버 플러스 < 모바일 요금제 | LG U+
+LG 유플러스 투넘버, 듀얼넘버 어떻게 쓰지? 설정 방법 총정리
+LG U+ 듀얼넘버 가입방법 및 요금제 금액
+LG 유플러스 원넘버 사용법 총정리｜갤럭시 워치 + U+ 통화도우미 ...
+LG 듀얼넘버 신청방법 - 네이버 블로그
+LG유플러스 통화중대기 & 듀얼넘버 설정 가이드
+전화번호 2개 만들기, SKT, KT, LGU+ 통신사별 듀얼넘버 신청 방법 ...
+LG 유플러스 모바일 [듀얼넘버] 듀얼넘버 서비스는 어떻게 신청 ...
+0번째 링크 찾기
+링크 못찾음
+1번째 링크 찾기
+링크 못찾음
+2번째 링크 찾기
+링크 못찾음
+3번째 링크 찾기
+링크 못찾음
+4번째 링크 찾기
+링크 못찾음
+5번째 링크 찾기
+링크 못찾음
+6번째 링크 찾기
+링크 못찾음
+7번째 링크 찾기
+링크 못찾음
+8번째 링크 찾기
+링크 못찾음
+9번째 링크 찾기
+handles :  ['FF859176227DC3974EE600467562A1EA']
+스탑3
+이전 크롬 정리 완료
+-----------------------------------
+2/1000 - link_number 1
+-----------------------------------
+keyword_excel https://www.bing.com/search?q=%EC%8C%80+%EB%B2%84%EB%A6%AC%EB%8A%94%EB%B2%95+%26+%EB%B0%94%EB%80%8C%EB%8A%94+%EC%A0%9C%EB%8F%84&qs=n&form=QBRE&sp=-1&lq=0&pq=%EC%8C%80+%EB%B2%84%EB%A6%AC%EB%8A%94%EB%B2%95+%26+%EB%B0%94%EB%80%8C%EB%8A%94+%EC%A0%9C%EB%8F%84&sc=11-15&sk=&cvid=1242A984BD9549DD9D48966A53E101EB&ghsh=0&ghacc=0&ghpl=
+-----------------------------------
+look_back 값 :  0
+-----------------------------------
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+IP 변경중 (테더링 1/10)...
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+IP 변경중 (테더링 2/10)...
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+IP 변경중 (테더링 2/10)...
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+IP 변경중 (테더링 3/10)...
+���� ���� ����:
+����:    dns.sse.cisco.com
+Address:  208.67.222.222
+
+�̸�:    myip.opendns.com
+Address:  211.246.69.44
+
+
+IP 변경중 (테더링 3/10)...
+로그 저장 시작
+File saved to: C:\Users\marketingCOM1\Downloads\Downloads\logfile.txt
